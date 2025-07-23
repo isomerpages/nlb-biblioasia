@@ -735,3 +735,356 @@ with a Master of Arts (Journalism). His previous research examined social media 
 how it supported the emergence of disparate “globalised villages” built on the collective
 consciousness of its members. He is currently the director of operations (Singapore and
 Southeast Asia) of a specialist risk mitigation consulting company.
+
+#### **BIBLIOGRAPHY**
+      
+Abdullah Abdul Kadir. [_The Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir, 1797–1854: An Annotated Translation_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767), trans. A. H. Hill. Singapore: Oxford University Press, 1985. (Original work published 1969) (From National Library Singapore, call no. RCLOS 959.51032 ABD)
+
+Bartley, W. “Population of Singapore in 1819,” _Journal of the Malayan Branch of the_ _Royal Asiatic Society_ 11, no. 2 (December 1933): 177. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Bastin, John. [_The Founding of Singapore 1819_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109). Singapore: National Library Board, 2012. (From National Library Singapore, call no. RSING 959.5703 BAS)
+
+—. [_Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200867141). Singapore: Marshall Cavendish Editions, 2014. (From National Library Singapore, call no. RSING 959.5703 BAS-\[HIS\])
+
+Buckley, Charles Burton. [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717). Vol. 1. Singapore: Fraser &amp; Neave, 1902. (From National Library Online)
+
+“Chaozhou: Taiguo chuan wang chenwansheng zhai di” 潮州: 泰国船王陈万胜宅第 \[Chaozhou: mansion of Thailand shipping king Tan Buan Seng\], 16 November 2013, 潮州热线 \[CZOnline\], accessed 8 January 2017, http://cztour.czonline.net/chaozhoulvyou/chaozhoufengjing/2013-11-16/57542.html.
+
+Chaoshan shuzhai yi shi 潮汕书斋轶事 \[The Teochew Study Houses Anecdotes\], 9 November 2007, 潮人在线 \[Chaoren.com\], accessed 13 November 2016. &nbsp;
+
+“Chaoshan wang shi” 潮汕王氏 \[Heng Clan in the Teochew region\], 汕头大学图书馆\-潮汕特藏网 \[Shantou University Library – Teochew Special Collection website\], accessed 14 December 2016.
+
+Chen, Bietong 陈别同, ed. _Xin jia po chao zhou lian qiao ju le bu te kan_ [新加坡潮州联侨俱乐部特刊](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10224147) \[Singapore Teo Chew Lian Kheow club special publication\]. 新加坡: 潮州联侨俱乐部, 1949. (From National Library Singapore, call no. Chinese RCLOS q369.25957 SIN)
+
+Chen, Chunsheng 陈春声.&nbsp; _Xiangcun de gushi yu guojia de lishi – yi zhang lin wei li jian lun chuantong xiangcun shehui yanjiu de fangfa wenti_ 乡村的故事与国家的历史 – 以樟林为例兼论传统乡村社会研究的方法问题 \[Stories from the villages and history of the country – a discussion on methodological challenges in researching traditional village societies using Changlim as an example\], _Zhongguo nongcun yanjiu_ 中国农村研究 \[_Rural Studies of China_\]. 中国: 商务印书馆, 2003.
+
+Chen, Jingying and Li Yang 陈静莹 and 李扬. &nbsp;“Mazu ‘hai zhi lu’ shouhu shen,” 妈祖 ‘海之路’ 守护神 \[Mazu, protectress deity on the ‘Maritime Silk Road’\], _Shantou Ribao_ 汕头日报, 14 August 2014, 10.
+
+Chen, Xiaoche 陈孝彻. “Danshui gang: Wei hongtou chuan jingshen tian zuozheng” 淡水缸: 为红头船精神添佐证 \[A Freshwater Vat: A Testament to the Red Head Junk Spirit\], _Shantou Tequ Wanbao_ 汕头特区晚报, 21 September 2014, 5, https://ms.dcsdcs.com/7498.html.
+
+Zhuang, Qinyong 庄钦永. _Xin xia huaren shi xin kao_ [新呷华人史新考](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84447091) \[History of the Chinese in Singapore &amp; Malacca: some notes\]. 新加坡: 南洋学会, 1990. (From National Library Singapore, call no. Chinese RCLOS 305.895105957 CDK)
+
+Crawfurd, John. [_A Descriptive Dictionary of the Indian Islands and Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b)_._ London: Bradbury &amp; Evans, 1856. (From National Library Online)
+
+—. [_Journal of an Embassy From the Governor-General of India to the Courts of Siam and Cochin China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dba7a01-c203-41f2-ac3d-e597fd9eb65c), vol. 2, 2nd ed. London: Henry Colburn and Richard Bentley, 1830. (From National Library Online)
+
+Eastern Settlements, _The Bengal and Agra Annual Guide and Gazetteer_. Vol. 2. Calcutta: W. Rushton and Company, 1842, 283–95.
+
+Farquhar, William. “The Establishment of Singapore,” _Asiatic Journal and Monthly Register for British and Foreign India, China and Australasia_ 2 (May–August 1830): 140–42.
+
+Franke, Wolfgang, ed., [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982). Vol. 1.&nbsp; Singapore: South Seas Society, 1988. (From National Library Singapore, call no. RCLOS 959.8 FRA)
+
+Franke, Wolfgang and Pornpan Juntaronanont, eds., _Chinese Epigraphic Materials in_ _Thailand._ Taipei: Xinwenfeng Chuban Gongsi, 1998, 13.
+
+Gützlaff, Karl Friedrich August. _The Journal of Two Voyages Along the Coast of China, in 1831, &amp; 1832_. New York: John P. Haven, 1833. (From National Library Singapore, call no. RRARE 915.10433 GUT)
+
+Hamilton, Alexander. [_A New Account of the East Indies_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5806ff07-0e32-496e-a922-311677e32da8). Vol. 2. Edinburgh: John Mosman, 1727. (From National Library Online)
+
+Huang, Yao 黄尧, ed., _Xing ma huaren zhi_ [星马华人志](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84525819) \[The history of the Chinese in Malaysia and Singapore\]. 香港: 明鉴出版社, 1967. (From National Library Singapore, call no. RCLOS 325.25109595 HY-\[HYT\])
+
+Kwa, Chong Guan, Derek Heng and Tan Tai Yong. [_Singapore, a 700-Year History: From Early Emporium to World City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13205984). Singapore: National Archives of Singapore, 2009. (From National Library Singapore, call no. RSING 959.5703 KWA-\[HIS\])
+
+Lao Pun Tao Kong Shrine. “About the Shrine.” Accessed 5 February 2014, http://laopuntaokong.org/history/index\_en.asp
+
+Li, Zhixian 李志贤, ed., _Hai wai Chao ren de yi min jing yan_ [海外潮人的移民经验](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12289196) \[The Migration Experience of the Overseas Teochew Community\]. 新加坡: 新加坡潮州八邑会馆: 八方文化企业, 2003. (From National Library Singapore, call no. Chinese RCO 305.8951 INT)
+
+_Lianhe Zaobao_. Xie Yanyan 谢燕燕, “Xuanyang miaoyu wenhua yu lishi neihan –rang bainian yue hai qing miao xun hui xiri guanghui” [宣扬庙宇文化与历史内涵 –让百年粤海清庙寻回昔日光辉](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb20100614-1.2.10.2.14) \[Promote the Temple Culture and its Historical Connotations – Let century-old Wak Hai Cheng Bio find back its Glory\]. 14 June 2010, 9 (From NewspaperSG)
+
+Lin, Ji 林济. “Jindai dongnanya chao shang yu shan xiang xian le guoji maoyi quan di yi jie zaoqi de dongnanya chaozhou yimín” 近代东南亚潮商与汕香暹叻国际贸易圈 第一节 早期的东南亚潮州移民 \[Modern Teochew Merchants and Their International Business Circles in Swatow, Hong Kong, Thailand and Singapore – Part 1 – The Early Teochew Migrants to Southeast Asia\], 2 February 2010, World Chaoshang, accessed 15 March 2017
+
+Lin Xiao 林孝 et al., _Shi le gu ji_ [石叻古迹](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84499135) \[Historical Monuments in Selat\]. 新加坡: 南洋学会, 1975. (From National Library Singapore, call no. Chinese RSING 959.57 SLK-\[HIS\])
+
+Makepeace, Walter, Gilbert E. Brooke and Ronald S. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132). Vol. 1. London: John Murray, 1921. (From National Library Singapore, call no. RCLOS 959.51 MAK-\[RFL\])
+
+Maxwell, W. E. _Notes and Queries. No. 1_. Singapore: Printed at the Government Printing Office, 1885. (From National Library Singapore, call no. RRARE 959.5 ROY)
+
+Miller, Eric H. “Letters of Col Nahuijs.” _Journal of the Malayan Branch of the Royal Asiatic Society_ 19, no. 2 (October 1941): 169–209. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+_Nanyang Sian Pau_. Pan Xingnong 潘醒农, “Xinjiapo huaren gu shen miao yue hai qing miao” [新加坡华人古神庙粤海清庙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760726-1.2.34.2) \[Wak Hai Cheng Bio, a historical temple of the Singapore Chinese\]. 26 July 1976, 14. (From NewspaperSG)
+
+Netscher, E. “Beschrijving Van Een Gedeelte Der Residentie Riouw.” _Tijdschrift Voor Indische Taal-, Land-, En Volkenkunde, 2_ (1854): 108–270. Edited by P. Bleeker, E. Munnich and E. Netscher.
+
+—. _De Nederlanders in Djohor En Siak_. Batavia: Bruining &amp; Wijt, 1870. (From National Library Singapore, call no. RRARE 959.52 NET)
+
+Newbold, Thomas John. [_Political and Statistical Account of the British Settlements in the Straits of Malacca, Viz. Pinang, Malacca, and Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8123f6c8-67a1-48c6-97a6-3357c3bc5966). Vol. 1. London: John Murray, 1839. (From National Library Online)
+
+Ng, Ching Keong. [_The Chinese in Riau: A Community on an Unstable and Restrictive Frontier_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078908). (Research Project Series, no. 2). Singapore: Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University, 1976. (From National Library Singapore, call no. RCLOS 301.4519510598 NG)
+
+“Notices of Singapore.” _Journal of the Indian Archipelago and Eastern Asia_ 9 (January–March 1855): 53–65, 444–82. (From National Library Singapore, call no. RRARE 950.05 JOU, microfilm NL25797)
+
+National University Singapore Libraries, 潘醒农 (Phua Chay Long, 1904–1987), 25 September 2008.
+
+Pan, Xingnong 潘醒农, ed., _Nanyang ge shu di ming jie ming lu_ 南洋各属地名街名录 \[Directory of towns and streets in malay archipelago\]. 新加坡: 南岛出版社, 1939. (From National Library Singapore, call no. Chinese RRARE 915.9003 DIR)
+
+—. _Malaiya chao qiao tong jian_ [马来亚潮侨通鉴](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84480460) \[Teo-chews in Malaya\]. 新加坡: 南岛出版社, 1950. (From National Library Singapore, call no. Chinese RCLOS 305.895105951 PXN)
+
+—. _Dongnanya mingsheng_ [东南亚名胜](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84509297) \[Celebrated places in S. E. Asia\]. 新加坡: 南岛出版社, 1954. (From National Library Singapore, call no. Chinese RDTYK 959 PXN)
+
+—. _Xinjiapo zhi nan_ [新加坡指南](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84475260) \[A guide to Singapore\]. 6th ed. 新加坡: 南岛出版社, 1958. (From National Library Singapore, call no. Chinese RCLOS 959.57 PXN)
+
+—. _Xing Ma ming sheng_ [星马名胜](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84549384) \[Celebrated places in Singapore-Malaya\]. 新加坡: 南岛出版社, 1961. (From National Library Singapore, call no. Chinese RCLOS 959.5 PHN)
+
+Raffles, Sophia. [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7). London: John Murray, 1830. (From National Library Online)
+
+Raffles, Thomas Stamford. _Substance of a Memoir on the Administration of the Eastern Islands._ n.p.: n.p., 1824. (From National Library Singapore, call no. RRARE 325.31 RAF)
+
+Ali al-Haji Riau (Raja). [_The Precious Gift (Tuhfat al-Nafis)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4128748). Translated by Virginia Matheson and Barbara Watson Andaya. Kuala Lumpur: Oxford University Press, 1982, 125–6. (From National Library Singapore, call no. RCLOS 959.5142 ALI)
+
+Siah, U Chin. “General Sketch of the Numbers, Tribes and Avocations of the Chinese in Singapore.” [_Journal of the Indian Archipelago and Eastern Asia_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=7ac284a7-ac54-4fff-ad21-789cbb55df54) 2 (1848): 283–90 \[From National Library Online)
+
+Singapore Teochew Xihe Association 新加坡潮州西河公会. _Chaozhou Xihe gong hui: Zhonghua Minguo 38 nian 1 yue zhi 6 yue fen hui wu bao gao shu_ [新加坡潮州西河公会: 中华民国卅八年一月至六月份会务报告书](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546022) \[Singapore Teochew Sai Ho Association: Working report for January to June 1949\]. 新加坡: 新加坡潮州西河公会, 1949. (From National Library Singapore, call no. Chinese RCLOS 369.25957 XJP)
+
+Solomon, Eli. [_Farquhar’s Life in the Far East: A Chronology_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7908164). Singapore: Singapore Resource Library, National Library Board, 1996. (From National Library Singapore, call no. RSING 959.503 SOL)
+
+Song, Ong Siang. [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287). Singapore: Oxford University Press, 1984. (Original work published 1902). (From National Library Singapore, call no. RCLOS 959.57 SON-\[HIS\])
+
+Straits Settlements Records, [_L6: Singapore: Letters to Bencoolen_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2ea3165-115b-11e3-83d5-0050568939ad). (From National Archives of Singapore microfilm NL56)
+
+—. [_L10: Singapore: Letters to Bencoolen_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2e5aab8-115b-11e3-83d5-0050568939ad). (From National Archives of Singapore microfilm NL57)
+
+_—._ [_L11: Letters to and from Raffles_](https://www.nas.gov.sg/archivesonline/private_records/record-details/da493b96-029f-11e9-bebd-001a4a5ba61b). (From National Archives of Singapore microfilm NL57)
+
+_—._ [_L13: Raffles: Letters from Singapore_](https://www.nas.gov.sg/archivesonline/private_records/record-details/45048eea-0a73-11e9-9481-001a4a5ba61b). (From National Archives of Singapore microfilm NL58)
+
+_—._ [_L17: Letters to Singapore (Farquhar)_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2d15629-115b-11e3-83d5-0050568939ad). (From National Archives of Singapore microfilm NL58)
+
+_Straits Times_. “[How Singapore was Founded](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19371018-1.2.42).” 18 October 1937, 10. (From NewspaperSG)
+
+_The Asiatic Journal and Monthly Register for British India and its Dependencies_ (January–June 1820): 9.
+
+_The Asiatic Journal and Monthly Register for British and Foreign India,_ _China, and Australia_ 14 (July–December 1822): 14. (microfilm NL18125)
+
+大清历朝实录 \[The veritable records of Qing dynasty\], 卷990 \[scroll number 990\]: 乾隆四十年九月乙卯 \[Qianlong 40.9.7\].
+
+Turnbull, C. M. [_A History of Modern_ _Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047)_._ Singapore: NUS Press, 2009. (From National Library Singapore, call no. RSING959.57 TUR-\[HIS\])
+
+Viraphol, Sarasin and Wutdichai Moolsilpa, eds., [_Tribute and Profit: Sino-Siamese Trade, 1652–1853_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=861582). Chiang Mai, Thailand: Silkworm Books, 2014. (From National Library Singapore, call no. RSEA 382.09510593 SAR). Original work published 1977.
+
+Wak Hai Cheng Bio (Yueh Hai Ching Temple).” Ngee Ann Kongsi, accessed 24 February 2017, https://thengeeannkongsi.com.sg/en/community-services/wak-hai-cheng-bio-yueh-hai-ching-temple/.
+
+Wurtzburg, C. E. [_Raffles of the Eastern Isles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4150106). London: Hodder and Stoughton, 1954. &nbsp;(From National Library Singapore, call no. RCLOS 959.570210924 WUR)
+
+Xu, Wurong 许武荣. _Malaiya Chao qiao yin xiang ji_ [马来亚潮侨印象记](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567968) \[The impression of teo-chews in Malaya\]. 新加坡 : 南洋书局, 1951. (From National Library Singapore, call no. Chinese RDTYS 325.25109595 HWY)
+
+Yang, Bingnan 杨炳南. _Hai lu ji qi ta san zhong_ [海录及其他三种](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84453853) \[Records of the Sea and three other writings\]. 上海 : 商务印书馆, 1936. (From National Library Singapore, call no. Chinese RDTYS 959 YPN)
+
+粤海清庙 \[Yue Hai Ching Temple\]. Teochew Poit Ip Huay Kuan, accessed 8 March 2017, http://teochew.sg/八邑相关社团/粤海清庙/.
+
+Zhang, Jiaqing 张家庆. “Chao ren yimin haiwai ji lue” 潮人移民海外纪略 \[Accounts of the teochew people migrating overseas\], _Chaozhou Daily_ 潮州日报, 30 July 2015, 6.
+
+Zhang, Xiaoshan 张晓山. _Xin chaoshan zidian_ [新潮汕字典](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202352687) \[The new teochew dictionary\]. 广州市: 广东人民出版社, 2015. (From National Library Singapore, call no. Chinese R 495.1795127 XCS-\[DIC\])
+
+Zhou, Hanren 周汉人, ed., _Nanyang Chao qiao ren wu zhi yu Chaozhou ge xian yan ge shi_ [南洋潮侨人物志与潮州各县沿革史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84553317) \[Biographies of overseas Teochew leaders with history of Teochew districts\]. 新加坡: 中华出版社, 1958. (From National Library Singapore, call no. Chinese RCLOS 920.059 CHJ)
+
+**_Appendix I_**
+
+1 Names of Teochew persons and place names without commonly used romanisation are transcribed from Chinese according to transliterations found on the website 潮州•母语 (Teochew Mogher): www.mogher.com.
+
+2 Literally “gateway of the straits”, with Sek Lak being a transliteration of _selat_, meaning “straits” in Malay. This is a colloquial Chinese name for Telok Blangah Road. See Pan Xingnong 潘醒农, ed., _Nanyang ge shu di ming jie ming lu_ 南洋各属地名街名录 \[Directory of towns and streets in malay archipelago\] (新加坡: 南岛出版社, 1939), 98. (From National Library Singapore, call no. Chinese RRARE 915.9003 DIR)
+
+3 In Chinese: Haiyang. A county in the historical Teochew prefecture in China, now Teo Ann (潮安, Chao’an) district in the Chaozhou prefectural-city.
+
+4 Wak Hai Cheng Bio is currently located at 30B Phillip Street.
+
+5 This is a historical name of the Teochew prefecture from the 5th and 6th centuries. Ngee Ann Kun was the predecessor of Ngee Ann Kongsi that was formed in 1845.
+
+6 In Teochew: Ang Thau Tsung. Based on an edict issued by Qing Emperor Yongzheng in 1723, junks from various provinces in China had to have their bows painted in different colours for custom inspection and taxation purposes. Vessels from Guangdong, which the Teochew prefecture was part of, were red and those from Fujian green. As many red-head junks were built and operated by the Teochews in Siam, this category of junks became synonymous with the community.
+
+7 Literally means “royal hill”. This was a colloquial Chinese name of Fort Canning Hill. See Ronald S. J. Braddell, R. S. J. (1991). “The Merry Past,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718), ed. Walter Makepeace, Gilbert E. Brooke and Ronald S. J. Braddell, vol. 1 (Singapore: Oxford University Press, 1991), 470. (From National Library Singapore, call no. RCLOS 959.57 ONE-\[HIS\])
+
+8 Pan Xingnong 潘醒农, ed., _Malaiya chao qiao tong jian_ [马来亚潮侨通鉴](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84480460) \[Teo-chews in Malaya\] (新加坡: 南岛出版社, 1950), 29. (From National Library Singapore, call no. Chinese RCLOS 305.895105951 PXN)
+
+9 Pan, [_Malaiya chao qiao tong jian_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84480460), 40.
+
+#### **NOTES**
+
+
+1 Letter from T. S. Raffles to Duchess of Somerset dated 11 June 1819, as cited in John Bastin, [_Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200867141) (Singapore: Marshall Cavendish Editions, 2014), 88–89. (From National Library Singapore, call no. RSING 959.5703 BAS-\[HIS\])
+
+2 Letter from T. S. Raffles to Marquess of Lansdowne dated 15 April 1820, as cited in John Bastin, [_Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200867141) (Singapore: Marshall Cavendish Editions, 2014), 147–52 (From National Library Singapore, call no. RSING 959.5703 BAS-\[HIS\]); Letter from T. S. Raffles to Duke of Somerset dated 20 August 1820, as cited in Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7) (London: John Murray, 1830), 464–68. (From National Library Online). The population numbers cited by Raffles are highly questionable. Raffles was informed by Singapore’s Resident William Farquhar in May 1820 of a census finding that the island had no more than 4,727 residents with 506 houses, of whom 1,159 were Chinese. See Eli Solomon, [_Farquhar’s Life in the Far East: A Chronology_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7908164) (Singapore: Singapore Resource Library, National Library Board, 1996), 32 (From National Library Singapore, call no. RSING 959.503 SOL); Walter Makepeace, Gilbert E. Brooke and Ronald S. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 1 (London: John Murray, 1921), 344. (From National Library Singapore, call no. RCLOS 959.51 MAK-\[RFL\]). Furthermore official census figures from subsequent years show that Singapore’s total population surpassed the 10,000 mark only at the end of 1823 and the Chinese only overtook the Malays as the largest community in 1827. See Eastern Settlements, _The Bengal and Agra_ _Annual Guide and_ Gazetteer, vol. 2. (Calcutta: W. Rushton and Company, 1842), 287.
+
+3 Letter from T. S. Raffles to The Marquess of Hastings KG dated 8 January 1819, as cited John Bastin, [_Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200867141) (Singapore: Marshall Cavendish Editions, 2014), 32–35. (From National Library Singapore, call no. RSING 959.5703 BAS-\[HIS\])
+
+4 Thomas Stamford Raffles, _Substance of a Memoir on the Administration of the Eastern Islands_ (n.p.: n.p., 1824), 12. (From National Library Singapore, call no. RRARE 325.31 RAF)
+
+5 For the articles of these two treaties, see Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1. (Singapore: Fraser &amp; Neave, 1902), 36, 28–40. (From National Library Online)
+
+6 Despatch from T. S. Raffles to J. Adam, Esq. dated 13 February 1819, as cited
+
+&nbsp;in John Bastin, [_Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200867141) (Singapore: Marshall Cavendish Editions, 2014), 52–70. (From National Library Singapore, call no. RSING 959.5703 BAS-\[HIS\])
+
+7 Letter from “Carnegie” to unknown dated 2 July 1819, as cited in Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7), 402. Rhio, or Riau, refers to Bintan island.
+
+8 William Farquhar, “The Establishment of Singapore,” _Asiatic Journal and Monthly Register for British and Foreign India, China and Australasia_ 2 (May–August 1830): 140.
+
+9 “[How Singapore was Founded](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19371018-1.2.42),” _Straits Times_, 18 October 1937, 10. (From NewspaperSG)
+
+10 John Bastin, [_Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200867141) (Singapore: Marshall Cavendish Editions, 2014), 51. (From National Library Singapore, call no. RSING 959.5703 BAS-\[HIS\])
+
+11 Taking the cue from T. J. Newbold, many historians have expressed in their works that Singapore had 20 to 30 Chinese in January 1819. However, Newbold’s estimate has been pointed out by W. Bartley to be without authority and questionable. See Thomas John Newbold, [_Political and Statistical Account of the British Settlements in the Straits of Malacca, Viz. Pinang, Malacca, and Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8123f6c8-67a1-48c6-97a6-3357c3bc5966), vol. 1 (London: John Murray, 1839), 279 (From National Library Online); Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287) (Singapore: Oxford University Press, 1984), 6. (Original work published 1902). (From National Library Singapore, call no. RCLOS 959.57 SON-\[HIS\]); C. M. Turnbull, [_A History of Modern_ _Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 25 (From National Library Singapore, call no. RSING959.57 TUR-\[HIS\]); Kwa Chong Guan, Derek Heng and Tan Tai Yong, [_Singapore, a 700-Year History: From Early Emporium to World City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13205984) (Singapore: National Archives of Singapore, 2009), 111 (From National Library Singapore, call no. RSING 959.5703 KWA-\[HIS\]); W. Bartley, “Population of Singapore in 1819,” _Journal of the Malayan Branch of the_ _Royal Asiatic Society_ 11, no. 2 (December 1933): 177. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+12 Kwa, Heng and Tan, [_Singapore, a 700-Year History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13205984), 1.
+
+13 Siah U Chin, “General Sketch of the Numbers, Tribes and Avocations of the Chinese in Singapore,” [_Journal of the Indian Archipelago and Eastern Asia_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=7ac284a7-ac54-4fff-ad21-789cbb55df54) 2 (1848): 283–90 \[From National Library Online)
+
+14 These publications include Chen Bietong 陈别同, ed., _Xin jia po chao zhou lian qiao ju le bu te kan_ [新加坡潮州联侨俱乐部特刊](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10224147) \[Singapore Teo Chew Lian Kheow club special publication\] (新加坡: 潮州联侨俱乐部, 1949) (From National Library Singapore, call no. Chinese RCLOS q369.25957 SIN); Singapore Teochew Xihe Association 新加坡潮州西河公会, _Chaozhou Xihe gong hui: Zhonghua Minguo 38 nian 1 yue zhi 6 yue fen hui wu bao gao shu_ [新加坡潮州西河公会: 中华民国卅八年一月至六月份会务报告书](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546022) \[Singapore Teochew Sai Ho Association: Working report for January to June 1949\] (新加坡: 新加坡潮州西河公会, 1949) (From National Library Singapore, call no. Chinese RCLOS 369.25957 XJP); Xu Wurong 许武荣, _Malaiya Chao qiao yin xiang ji_ [马来亚潮侨印象记](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567968) \[The impression of teo-chews in Malaya\] (新加坡 : 南洋书局, 1951). (From National Library Singapore, call no. Chinese RDTYS 325.25109595 HWY)
+
+15 Variant spellings: Phua Chay Leong and Phua Chay Long. Names of Teochew persons and places without commonly used romanisation are transcribed from Chinese according to transliterations found on the website 潮州•母语 (Teochew Mogher): www.mogher.com.
+
+16 Zhou Hanren 周汉人, ed., _Nanyang Chao qiao ren wu zhi yu Chaozhou ge xian yan ge shi_ [南洋潮侨人物志与潮州各县沿革史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84553317) \[Biographies of overseas Teochew leaders with history of Teochew districts\] (新加坡: 中华出版社, 1958), AA24 (From National Library Singapore, call no. Chinese RCLOS 920.059 CHJ); National University Singapore Libraries, 潘醒农 (Phua Chay Long, 1904–1987), 25 September 2008.
+
+17 Literally “gateway of the straits”, with Sek Lak being a transliteration of _selat_, meaning “straits” in Malay. This is a colloquial Chinese name for Telok Blangah Road. See Pan Xingnong 潘醒农, ed., _Nanyang ge shu di ming jie ming lu_ 南洋各属地名街名录 \[Directory of towns and streets in malay archipelago\] (新加坡: 南岛出版社, 1939), 98. (From National Library Singapore, call no. Chinese RRARE 915.9003 DIR)
+
+18 County in the historical Teochew prefecture in China, now Teo Ann (潮安, in Mandarin Chao’an) district in Chaozhou prefectural-city.
+
+19 Wak Hai Cheng Bio, also known as Yueh Hai Ching Temple, is located at 30B Phillip Street today.
+
+20 This is a historical name of the Teochew prefecture from the 5th and 6th centuries. Ngee Ann Kun was the predecessor of Ngee Ann Kongsi that was formed in 1845.
+
+21 红头船. In Teochew: _Ang Thau Tsung_. Based on an edict issued by Qing Emperor Yongzheng in 1723, junks from various provinces in China had to have their bows painted in different colours for customs inspection and taxation purposes. Vessels from Guangdong, of which the Teochew prefecture was a part, were assigned red and those from Fujian, green. As many red-head junks were built and operated by the Teochews in Siam, this category of junks became synonymous with the community.
+
+22 Literally means “royal hill”. This was a colloquial Chinese name of Fort Canning Hill. See Ronald S. J. Braddell, “The Good Old Days,” in Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 1, 470.
+
+23 Pan Xingnong 潘醒农, ed., _Malaiya chao qiao tong jian_ [马来亚潮侨通鉴](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84480460) \[Teo-chews in Malaya\] (新加坡: 南岛出版社, 1950), 29. (From National Library Singapore, call no. Chinese RCLOS 305.895105951 PXN)
+
+24 Pan, [_Malaiya chao qiao tong jian_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84480460), 40.
+
+25 _The Asiatic Journal and Monthly Register for British India and its Dependencies_ (January–June 1820): 9, 93.
+
+26 John Crawfurd, [_A Descriptive Dictionary of the Indian Islands and Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b) (London: Bradbury &amp; Evans, 1856), 402 (From National Library Online); Abdullah Abdul Kadir, [_The Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir, 1797–1854: An Annotated Translation_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767), trans. A. H. Hill (Singapore: Oxford University Press, 1985), 176–77. (Original work published 1969) (From National Library Singapore, call no. RCLOS 959.51032 ABD); and Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 104.&nbsp;
+
+27 Pan, [_Malaiya chao qiao tong jian_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84480460), 351.
+
+28 Zhou, [_Nanyang Chao qiao ren wu zhi yu Chaozhou ge xian yan ge shi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84553317), AA24. &nbsp;
+
+29 These publications include Xu, [_Malaiya Chao qiao yin xiang ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567968); Huang Yao 黄尧, ed., _Xing ma huaren zhi_ [星马华人志](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84525819) \[The history of the Chinese in Malaysia and Singapore\] ([2003](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12290908); repr., 香港: 明鉴出版社, 1967) (From National Library Singapore, call no. RCLOS 325.25109595 HY-\[HYT\]; Chinese RSEA q959.5004951 HY); Lin Xiao 林孝, et al., _Shi le gu ji_ [石叻古迹](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84499135) \[Historical Monuments in Selat\] (新加坡: 南洋学会, 1975) (From National Library Singapore, call no. Chinese RSING 959.57 SLK-\[HIS\]); Li Zhixian 李志贤, ed., _Hai wai Chao ren de yi min jing yan_ [海外潮人的移民经验](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12289196) \[The Migration Experience of the Overseas Teochew Community\] (新加坡: 新加坡潮州八邑会馆: 八方文化企业, 2003). (From National Library Singapore, call no. Chinese RCO 305.8951 INT)
+
+30 Examples of these references include: Xie Yanyan 谢燕燕, “Xuanyang miaoyu wenhua yu lishi neihan –rang bainian yue hai qing miao xun hui xiri guanghui” [宣扬庙宇文化与历史内涵 –让百年粤海清庙寻回昔日光辉](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb20100614-1.2.10.2.14) \[Promote the Temple Culture and its Historical Connotations – Let century-old Wak Hai Cheng Bio find back its Glory\], _Lianhe Zaobao_ 联合早报, 14 June 2010, 9 (From NewspaperSG); Zhang Jiaqing 张家庆, “Chao ren yimin haiwai ji lue” 潮人移民海外纪略 \[Accounts of the teochew people migrating overseas\], _Chaozhou Daily_ 潮州日报, 30 July 2015, 6; Lin Ji 林济, “Jindai dongnanya chao shang yu shan xiang xian le guoji maoyi quan di yi jie zaoqi de dongnanya chaozhou yimín” 近代东南亚潮商与汕香暹叻国际贸易圈 第一节 早期的东南亚潮州移民 \[Modern Teochew Merchants and Their International Business Circles in Swatow, Hong Kong, Thailand and Singapore – Part 1 – The Early Teochew Migrants to Southeast Asia\], 2 February 2010, World Chaoshang, accessed 15 March 2017; “Yue hai qing miao” 粤海清庙 \[Yue Hai Ching Temple\], &nbsp;Teochew Poit Ip Huay Kuan, accessed 8 March 2017, http://teochew.sg/八邑相关社团/粤海清庙/.
+
+31 Eric H. Miller, “Letters of Col Nahuijs,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 19, no. 2 (October 1941): 192–93. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+32 Letter from W. Farquhar, Resident, to Lt. L. N. Hull dated 28 December 1822; and Letter from W. Farquhar, Resident, to Lt. L. N. Hull, Secretary to the Lieutenant Governor dated 23 December 1822, as cited in Bartley, “Population of Singapore in 1819,” 177.
+
+33 Farquhar to Hull, 5 November 1822; Straits Settements Records, [_L11: Letters to and from Raffles_](https://www.nas.gov.sg/archivesonline/private_records/record-details/da493b96-029f-11e9-bebd-001a4a5ba61b), December 1822, 111. (From National Archives of Singapore microfilm NL57). The Captain China post was created on Raffles’ instructions to place foreign settlers “under the immediate superintendence of chiefs of their own tribes” for the purpose of maintaining order. See Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 56–57.
+
+34 Hull to Farquhar, 4 February 1823, Straits Settlements Records, [_L17: Letters to Singapore (Farquhar)_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2d15629-115b-11e3-83d5-0050568939ad), no. 60 (From National Archives of Singapore microfilm NL58); Farquar to Hull, 4 February 1823, Straits Settlements Records, [_L13: Raffles: Letters from Singapore_](https://www.nas.gov.sg/archivesonline/private_records/record-details/45048eea-0a73-11e9-9481-001a4a5ba61b), no. 72. (From National Archives of Singapore microfilm NL58)
+
+35 Farquhar to Hull, 21 January 1823, Straits Settlements Records, [_L13: Raffles: Letters from Singapore_](https://www.nas.gov.sg/archivesonline/private_records/record-details/45048eea-0a73-11e9-9481-001a4a5ba61b), no. 30. (From National Archives of Singapore microfilm NL58)
+
+36 Siah, “[General Sketch of the Numbers, Tribes and Avocations of the Chinese in Singapore](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=7ac284a7-ac54-4fff-ad21-789cbb55df54),” 283–90.&nbsp;
+
+37 Ali al-Haji Riau (Raja), [_The Precious Gift (Tuhfat al-Nafis)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4128748), trans. Virginia Matheson and Barbara Watson Andaya (Kuala Lumpur: Oxford University Press, 1982), 125–6. (From National Library Singapore, call no. RCLOS 959.5142 ALI)
+
+38 Also spelt “Kantonners” and “Emoeijers”. E. Netscher, _De Nederlanders in Djohor En Siak_ (Batavia: Bruining &amp; Wijt, 1870), 200. (From National Library Singapore, call no. RRARE 959.52 NET)
+
+39 E. Netscher, “Beschrijving Van Een Gedeelte Der Residentie Riouw,” in _Tijdschrift Voor Indische Taal-, Land-, En Volkenkunde, 2_ (1854): 160, ed. P. Bleeker, E. Munnich and E. Netscher.
+
+40 Xu, [_Malaiya Chao qiao yin xiang ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567968), 28.&nbsp;
+
+41 Ng Ching Keong, [_The Chinese in Riau: A Community on an Unstable and Restrictive Frontier_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078908), Research Project Series, no. 2 (Singapore: Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University, 1976), 14. (From National Library Singapore, call no. RCLOS 301.4519510598 NG). Senggarang and Tanjung Pinang were reported to be otherwise known as “big bank” (大坡) and “small bank” (小坡).
+
+42 The Resident to Fort Malboro, 3 November 1819, Straits Settlements Records, [_L10: Singapore: Letters to Bencoolen_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2e5aab8-115b-11e3-83d5-0050568939ad), 195–96. (From National Archives of Singapore microfilm NL57)
+
+43 Letter from W, Farquhar to T. S. Raffles, dated 21 March 1820, as cited in Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7), 443–45. Based on a report that the first Amoy junk only anchored at Singapore in February 1821, the three junks from China had to be red-head junks and most probably Teochew. See Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 67.
+
+44 Letter from Supreme Governor to Farquhar, dated 11 January 1820, as cited in “Notices of Singapore,” _Journal of the Indian Archipelago and Eastern Asia_ 9 (January–March 1855): 444. (From National Library Singapore, call no. RRARE 950.05 JOU, microfilm NL25797)
+
+45 John Crawfurd, [_Journal of an Embassy From the Governor-General of India to the Courts of Siam and Cochin China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dba7a01-c203-41f2-ac3d-e597fd9eb65c), vol. 2, 2nd ed. (London: Henry Colburn and Richard Bentley, 1830), 160–6, 177. (From National Library Online)
+
+46 Sarasin Viraphol and Wutdichai Moolsilpa, eds., [_Tribute and Profit: Sino-Siamese Trade, 1652–1853_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=861582) (Chiang Mai, Thailand: Silkworm Books, 2014), 176. (From National Library Singapore, call no. RSEA 382.09510593 SAR). Original work published 1977.
+
+47 “Chaozhou: Taiguo chuan wang chenwansheng zhai di” 潮州: 泰国船王陈万胜宅第 \[Chaozhou: mansion of Thailand shipping king Tan Buan Seng\], 16 November 2013, 潮州热线 \[CZOnline\], accessed 8 January 2017, http://cztour.czonline.net/chaozhoulvyou/chaozhoufengjing/2013-11-16/57542.html; Chen Xiaoche 陈孝彻, “Danshui gang: Wei hongtou chuan jingshen tian zuozheng” 淡水缸: 为红头船精神添佐证 \[A Freshwater Vat: A Testament to the Red Head Junk Spirit\], _Shantou Tequ Wanbao_ 汕头特区晚报, 21 September 2014, 5, https://ms.dcsdcs.com/7498.html.
+
+48 大清历朝实录 \[The veritable records of Qing dynasty\], 卷990 \[scroll number 990\]: 乾隆四十年九月乙卯 \[Qianlong 40.9.7\].
+
+49 Viraphol and Moolsilpa, [_Tribute and Profit: Sino-Siamese Trade, 1652–1853_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=861582), 163.
+
+50 Ali al-Haji Riau (Raja), [_Precious Gift (Tuhfat al-Nafis)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4128748), 239–40, 252.
+
+51 Wolfgang Franke, ed., [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1 (Singapore: South Seas Society, 1988), 354. (From National Library Singapore, call no. RCLOS 959.8 FRA)
+
+52 Ali al-Haji Riau (Raja), [_The Precious Gift (Tuhfat al-Nafis)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4128748), 332.
+
+53 Franke, [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1, 355.
+
+54 Netscher, “Beschrijving Van Een Gedeelte Der Residentie Riouw,” 159.
+
+55 Yang Bingnan 杨炳南, _Hai lu ji qi ta san zhong_ [海录及其他三种](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84453853) \[Records of the Sea and three other writings\] (上海 : 商务印书馆, 1936), 7. (From National Library Singapore, call no. Chinese RDTYS 959 YPN). (Original work published c. 1820). Interestingly, Singapore was popularly referred by its local Chinese until the mid 1900s as _Sig Lag_ (石叻), which is the Teochew/Hokkien transliteration of _selat_.
+
+56 [_L11: Letters to and from Raffles_](https://www.nas.gov.sg/archivesonline/private_records/record-details/da493b96-029f-11e9-bebd-001a4a5ba61b), 5 November 1822, 111.
+
+57 For articles of this agreement, see Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 58–59.
+
+58 Letter from W. Farquhar to T. S. Raffles dated 2 September 1819, as cited in C. E. Wurtzburg, [_Raffles of the Eastern Isles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4150106) (London: Hodder and Stoughton, 1954), 541. (From National Library Singapore, call no. RCLOS 959.570210924 WUR)
+
+59 For an introduction of the Bute Map, see Lim Chen Sian, “The Earliest Landward Map of Singapore Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland,” in John Bastin, [_The Founding of Singapore 1819_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109) (Singapore: National Library Board, 2012), 199–219. (From National Library Singapore, call no. RSING 959.5703 BAS)
+
+60 Letter from W. Farquhar to T. S. Raffles dated 31 March 1820, as cited in Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7), 433–4.
+
+61 Abdullah Abdul Kadir, [_The Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir, 1797–1854_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767), 145.
+
+62 Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 75.
+
+63 Petition of Chinese Inhabitants residing in China Town to William Farquhar dated 4 December 1822, Straits Settlements Records, [_L6: Singapore: Letters to Bencoolen_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2ea3165-115b-11e3-83d5-0050568939ad), 26. (From National Archives of Singapore microfilm NL56)
+
+64 Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 75.
+
+65 “Chaoshan wang shi” 潮汕王氏 \[Heng Clan in the Teochew region\], 汕头大学图书馆\-潮汕特藏网 \[Shantou University Library – Teochew Special Collection website\], accessed 14 December 2016.
+
+66 Chaoshan shuzhai yi shi 潮汕书斋轶事 \[The Teochew Study Houses Anecdotes\], 9 November 2007, 潮人在线 \[Chaoren.com\], accessed 13 November 2016. &nbsp;
+
+67 Franke, [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1, 358.
+
+68 Zhang Xiaoshan 张晓山, _Xin chaoshan zidian_ [新潮汕字典](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202352687) \[The new teochew dictionary\] (广州市: 广东人民出版社, 2015). (From National Library Singapore, call no. Chinese R 495.1795127 XCS-\[DIC\])
+
+69 Netscher, “Beschrijving Van Een Gedeelte Der Residentie Riouw,” 159.
+
+70 Pan Xingnong 潘醒农, “Xinjiapo huaren gu shen miao yue hai qing miao” [新加坡华人古神庙粤海清庙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760726-1.2.34.2) \[Wak Hai Cheng Bio, a historical temple of the Singapore Chinese\], _Nanyang Siang Pau_ 南洋商报, 26 July 1976, 14. (From NewspaperSG)
+
+71 Also known as Da-Bentougong miao (大本头公庙). “About the Shrine,” Lao Pun Tao Kong, accessed 5 February 2014, http://laopuntaokong.org/history/index\_en.asp; Wolfgang Franke and Pornpan Juntaronanont, eds., _Chinese Epigraphic Materials in_ _Thailand_ (Taipei: Xinwenfeng Chuban Gongsi, 1998), 13.
+
+72 Franke, ed., [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1, 357.
+
+73 Acknowledgements of sale made before the Registrar of Land dated 10 May 1822 (by Tan Ngun Ha and Tan Ah Loo) and dated 13 May 1822 (for Heng Tooan) in Straits Settlements Records, L6: Singapore: Letters to Bencoolen, as cited in Bartley, “Population of Singapore in 1819,” 177.
+
+74 Pan, “[Xinjiapo huaren gu shen miao yue hai qing miao](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760726-1.2.34.2)”; Wak Hai Cheng Bio (Yueh Hai Ching Temple),” Ngee Ann Kongsi, accessed 24 February 2017, https://thengeeannkongsi.com.sg/en/community-services/wak-hai-cheng-bio-yueh-hai-ching-temple/.
+
+75 Abdullah Abdul Kadir, [_The Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir, 1797–1854_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767), 145; Farquhar to Bernard, 7 January 1823, Straits Settlements Records, [_L13: Raffles: Letters from Singapore_](https://www.nas.gov.sg/archivesonline/private_records/record-details/45048eea-0a73-11e9-9481-001a4a5ba61b), no. 11. (From National Archives of Singapore microfilm NL58)
+
+76 Abdullah Abdul Kadir, [_The Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir, 1797–1854_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767), 145.
+
+77 Karl Friedrich August Gützlaff, _The Journal of Two Voyages Along the Coast of China, in 1831, &amp; 1832_ (New York: John P. Haven, 1833), 47–50 (From National Library Singapore, call no. RRARE 915.10433 GUT); Chen Jingying and Li Yang 陈静莹 and 李扬. &nbsp;\[Chen, “Mazu ‘hai zhi lu’ shouhu shen,” 妈祖 ‘海之路’ 守护神 \[Mazu, protectress deity on the ‘Maritime Silk Road’\], _Shantou Ribao_ 汕头日报, 14 August 2014, 10.
+
+78 Straits Settlements Records, [_L6: Singapore: Letters to Bencoolen_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2ea3165-115b-11e3-83d5-0050568939ad), 17.
+
+79 Pan, [_Malaiya chao qiao tong jian_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84480460), 351, 333–34.
+
+80 Pan Xingnong 潘醒农, Dongnanya mingsheng [东南亚名胜](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84509297) \[Celebrated places in S. E. Asia\] (新加坡: 南岛出版社, 1954), 12 (From National Library Singapore, call no. Chinese RDTYK 959 PXN); Pan Xingnong 潘醒农, _Xinjiapo zhi nan_ [新加坡指南](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84475260) \[A guide to Singapore\], 6th ed. (新加坡: 南岛出版社, 1958), 108 (From National Library Singapore, call no. Chinese RCLOS 959.57 PXN); Pan Xingnong 潘醒农, _Xing Ma ming sheng_ [星马名胜](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84549384) \[Celebrated places in Singapore-Malaya\] (新加坡: 南岛出版社, 1961), 41. (From National Library Singapore, call no. Chinese RCLOS 959.5 PHN)
+
+81 Pan, “[Xinjiapo huaren gu shen miao yue hai qing miao](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760726-1.2.34.2).”
+
+82 Chen Chunsheng 陈春声, _Xiangcun de gushi yu guojia de lishi – yi zhang lin wei li jian lun chuantong xiangcun shehui yanjiu de fangfa wenti_ 乡村的故事与国家的历史 – 以樟林为例兼论传统乡村社会研究的方法问题 \[Stories from the villages and history of the country – a discussion on methodological challenges in researching traditional village societies using Changlim as an example\], _Zhongguo nongcun yanjiu_ 中国农村研究 \[_Rural Studies of China_\] (中国: 商务印书馆, 2003)
+
+83 新加坡潮州西河公会 \[Singapore Teochew Sai Ho Association\], _Xinjiapo chaozhou xihe gonghui: Zhonghua minguo sa ba nian yi yue zhi liu yuefen huiwu baogao shu_ [新加坡潮州西河公会: 中华民国卅八年一月至六月份会务报告书](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546022) \[Singapore Teochew Sai Ho Association: Working report for January to June 1949\] (崇奉祖姑天后圣母略历 \[Description of the Worship of the Ancestral Heavenly Queen Holy Mother\], para 3). (新加坡: 新加坡潮州西河公会, 1949). (From National Library Singapore, call no. Chinese RCLOS 369.25957 XJP)
+
+84 Alexander Hamilton, [_A New Account of the East Indies_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5806ff07-0e32-496e-a922-311677e32da8), vol. 2 (Edinburgh: John Mosman, 1727), 94. (From National Library Online)
+
+85 Raffles was mandated by Lord Hastings to form an EIC trading station in Riau after Farquhar had concluded a commercial treaty with Raja Jaafar on 19 August 1818. See Bastin, [_The Founding of Singapore 1819_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109), 20–23.
+
+86 Extract of an anonymous letter dated onboard an unnamed ship at the Singapore Roads on 1 November 1821, as cited in _The Asiatic Journal and Monthly Register for British and Foreign India,_ _China, and Australia_ 14 (July–December 1822): 308. (microfilm NL18125)
+
+87 Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 58.
+
+88 Acknowledgements of sale made before the Registrar of Land dated 10 May 1822 in Straits Settlements Records, L6: Singapore: Letters to Bencoolen, as cited in &nbsp;&nbsp;Zhuang Qinyong 庄钦永, &nbsp;_Xin xia huaren shi xin kao_ [新呷华人史新考](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84447091) \[History of the Chinese in Singapore &amp; Malacca: some notes\] (新加坡: 南洋学会, 1990), 37–38. (From National Library Singapore, call no. Chinese RCLOS 305.895105957 CDK); Hull to Farquhar, 4 February 1823, Straits Settlements Records, [_L17: Letters to Singapore (Farquhar)_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2d15629-115b-11e3-83d5-0050568939ad), 321–22.
+
+89 Farquar to Hull, \[?\] February 1823, Straits Settlements Records, [_L13: Raffles: Letters from Singapore_](https://www.nas.gov.sg/archivesonline/private_records/record-details/45048eea-0a73-11e9-9481-001a4a5ba61b), no. 137. (From National Archives of Singapore microfilm NL58)
+
+90 Ali al-Haji Riau (Raja), [_The Precious Gift (Tuhfat al-Nafis)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4128748), 340.
+
+91 Abdullah Abdul Kadir, [_The Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir, 1797–1854_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767), 141.
+
+92 Netscher, _De Nederlanders in Djohor En Siak_, 255–57.
+
+93 “[How Singapore was Founded](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19371018-1.2.42).” Conspicuously, Temenggong Abdul Rahman would (without knowledge of the British) write separately in February 1819 to a Dutch official in Melaka, Adrian Koek, and Raja Jaafar, pleading that he and his men were startled by the sudden arrival of seven British vessels and they were “powerless to say anything” when Raffles landed his men and stores after declaring his intention to settle in Singapore. At the same time Tengku Long wrote also to Raja Jaafar claiming he went to Singapore after receiving news from the Temenggong about there being “a great many ships” and the British were landing “numerous soldiers and quantities of stores”. He added further he was laid hold of by Raffles, who insisted on making him a “Raja with the title of Sultan”. See W. E. Maxwell, _Notes and Queries No. 1_ (Singapore: Printed at the Government Printing Office, 1885), 104–111. (From National Library Singapore, call no. RRARE 959.5 ROY)
+
+94 Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 39–40.
