@@ -363,20 +363,20 @@ merchants in Bangkok to raise revenue through active overseas trade.[^49] Of
 relevance is that Siam was a key trading partner of Riau in the 1770s when
 Bugis chief Raja Haji was Yam Tuan Muda (viceroy) of the settlement. Many
 Chinese merchants from Siam came to trade vast quantities of tableware,
-textiles, silk and rice.50 A deity tablet dedicated to the Chinese junk traders’
+textiles, silk and rice.[^50] A deity tablet dedicated to the Chinese junk traders’
 titular deity Mazu (妈祖) in 1779 by Chua Iou Kho (蔡耀可) discovered in
-Senggarang proves a leading Teochew role in this development.51
+Senggarang proves a leading Teochew role in this development.[^51]
 
 Hostilities between the Bugis and Dutch government in Melaka in the mid-
 1780s ultimately compelled Sultan Mahmud to shift the Johor Sultanate’s
 seat of power to Lingga. However, Teochew traders from Siam returned to
 Riau after the old sovereign passed away in 1811 and Raja Jaafar, son of Raja
 Haji, made himself the sultanate’s strongman by installing Tengku Long’s
-younger brother as a puppet ruler.52 A wooden plaque was presented in the
+younger brother as a puppet ruler.[^52] A wooden plaque was presented in the
 same year to the Mazu temple in Senggarang by Kapitan Tan Ngueng Pang
-(陈源放),53 whose Teochew background is revealed by the discovery of the
+(陈源放),[^53] whose Teochew background is revealed by the discovery of the
 Dutch, upon their return to Riau in 1818, that all the local Chinese were
-now under a single captain office held by the “Kantonner Chinezen”.54
+now under a single captain office held by the “Kantonner Chinezen”.[^54]
 
 Despite Raffles’ claim of Singapore as “my new colony”, the concession he
 obtained from his agreements with the Malays in 1819 had been merely a
@@ -389,7 +389,7 @@ further recorded its reference by natives as Selat, meaning the “straits” in
 Malay – apparently in relation to Temenggong Abdul Rahman’s fiefdom
 over the Singapore Straits; and by the Chinese from Fujian and Guangdong
 as the “new prefecture” (新州府), which apparently stemmed from Tengku
-Long’s new status as sultan.55
+Long’s new status as sultan.[^55]
 
 Conceivably, the Teochew oral account is silent about the movement of
 Teochews from Riau to Singapore because its originators perceived Riau and
@@ -401,19 +401,19 @@ Johor Sultanate).
 Following British administration of the harbour at the mouth of Singapore
 River, the followers of Captain China were settled near Fort Canning Hill,
 which was subsequently designated for cantonment use – this obliged the
-settlers to relocate.56 Thereafter, based on the “Arrangement Made for the
+settlers to relocate.[^56] Thereafter, based on the “Arrangement Made for the
 Singapore Government” signed between Malay and British leaders on
 26 June 1819, these Chinese were instructed to “move to the other side of the
 river, forming a *campong* [town] from the site of the large bridge down the
-river, towards the mouth”.57
+river, towards the mouth”.[^57]
 
 An update by Farquhar at the start of September 1819 informed Raffles that
-the new precinct was “becoming extensive” and “new streets [had] been laid out to meet the steadily increasing population”.58 Significantly, the
+the new precinct was “becoming extensive” and “new streets [had] been laid out to meet the steadily increasing population”.[^58] Significantly, the
 *Bute Map*, drawn around this time and believed to be the earliest-known
 landward map of modern Singapore (see Map 4), illustrates the limits of
 this Chinese town and adjoining cleared grounds to encompass both the
 premises of Wak Hai Cheng Bio and what is now Boat Quay – exactly as
-told in the Teochew oral account.59
+told in the Teochew oral account.[^59]
 
 <img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_4__Partial_view_of_the_Bute_Map.jpg" style="width:80%;">
  <div style="background-color: white;">Partial view of the <i>Bute Map</i> showing the Chinese Town and
@@ -422,19 +422,19 @@ the name Sua Kia Deng was derived.<i> The Bute Archive at Mount Stuart.</i></div
 
 Following the arrival of the first junks from Siam and China, Farquhar
 reported in March 1820 that “the swampy ground on the opposite side
-of the river is now almost covered with Chinese houses”.60 However, the
+of the river is now almost covered with Chinese houses”.[^60] However, the
 distinguished Malay language scribe Munshi Abdullah, who moved from
 Melaka to settle in Singapore in mid-1819, observed that this side of the
 Singapore River originally had “no good piece of ground even as much as
 sixty yards wide, the whole place being covered in deep mud, except only
-on the hills where the soil was clay”.61 This sheds light that the resident’s
+on the hills where the soil was clay”.[^61] This sheds light that the resident’s
 statement was probably less of excitement, and more of surprise that there
 had been any construction at all.
 
 Owing to conditions “where the tide rose ten feet and extended to some
 distance”, the Boat Quay riverside was, as late as 1822, occupied only by “a
 few native traders” (a term inclusive of the Chinese) living in *rumah rakit*,
-or “raft houses”, erected over the swamp.62 Most of the settlers here would
+or “raft houses”, erected over the swamp.[^62] Most of the settlers here would
 have conceivably built their houses on drier land and the recollection in
 the Teochew oral account of the place-name “Sua Kia Deng”, or “top of
 the little hill”, invariably compels attention to a promontory in the locality
@@ -445,12 +445,12 @@ Marked on the *Bute Map* as between the Chinese town and sea, this
 hill stood at what is presently Raffles Place. Though it was nameless, the
 traditional settlement of Sua Kia Deng was verified by a letter submitted by
 the Chinese inhabitants to Raffles in December 1822, confirming that there
-were 130 houses built on its top.63
+were 130 houses built on its top.[^63]
 
 Ironically, this letter was a petition against a second eviction notice served
 to the Teochews after Raffles had planned to level the hill to make way for
 a new commercial square and use its earth to reclaim what would become
-Boat Quay.64 This was fulfilled in 1823, and as a result the feature behind
+Boat Quay.[^64] This was fulfilled in 1823, and as a result the feature behind
 the name Sua Kia Deng was not seen on any subsequent maps of Singapore,
 until the *Bute Map* resurfaced and was publicly exhibited in the country in
 2012. If anything, the memory of Sua Kia Deng is a tell-tale sign of the age
@@ -468,8 +468,8 @@ without basis: it is supported by a positive identification of their purported
 home, Dang Khoi, with an existing village of same name in the Teochew
 region located some 20 kilometres from the town of Ampou (see Map 5).
 Residents there claim lineage from a common ancestor with the surname
-Heng.65 They also reportedly recall a period of local affluence brought on
-by shipping and ventures abroad after the mid-Qing dynasty,66 which could be related to the installation of the Teochew prefecture’s chief maritime
+Heng.[^65] They also reportedly recall a period of local affluence brought on
+by shipping and ventures abroad after the mid-Qing dynasty,[^66] which could be related to the installation of the Teochew prefecture’s chief maritime
 customs office at Ampou in 1730. All these support the conjecture that both
 Teochew leaders in Singapore were Dang Khoi natives.
 
@@ -489,9 +489,9 @@ a wooden board in Senggarang’s second temple worshipping the martial
 deity Xuan Tian Shang Di (玄天上帝) has the date of its commission (the
 commencement of Qing Emperor Daoguang’s reign, 1821) inscribed on
 both ends, as well as the title and name of its donor Kapitan Tan Heng Kim
-(陈亨钦) (see Image 1).67 In spoken Teochew, the Chinese characters 王 (from
+(陈亨钦) (see Image 1).[^67] In spoken Teochew, the Chinese characters 王 (from
 Heng Kim [王钦]), in the context of a surname, and 亨 (from Tan Heng Kim
-[陈亨钦]), are both pronounced as “heng”.68
+[陈亨钦]), are both pronounced as “heng”.[^68]
 
 <img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Image_1_A_wooden_plaque.jpg" style="width:80%;">
  <div style="background-color: white;">A wooden plaque in Senggarang’s Xuan Tian Shang Di temple
@@ -500,7 +500,7 @@ name (甲必丹陈亨钦) on left.<i> Image is author’s own (5 November 2017).
 
 Further, a Dutch list of the Teochews who were the Chinese captains of Riau
 from 1818 to 1828 contains the names Tan-Hoo, Tan-Tiauw-Goean and Tan-
-Ahooi69 – none sounding close to Tan Heng Kim. What can be surmised
+Ahooi[^69] – none sounding close to Tan Heng Kim. What can be surmised
 from these clues is that the benefactor of the temple Tan Heng Kim was the
 Heng Kim mentioned in the Teochew oral account (where his surname was
 apparently lost), who was simultaneously the enigmatic Captain China in
@@ -508,17 +508,17 @@ Farquhar’s letters.
 
 The reverence of Xuan Tian Shang Di is not without implication. This
 deity was not only revered by the Teochews in Singapore as Tua Lau Ia
-(大老爷), or “Chief Guardian Deity”,70 but was also the resident idol in Lao
+(大老爷), or “Chief Guardian Deity”,[^70] but was also the resident idol in Lao
 Pun Tao Kong Shrine (老本头公庙, built before 1824), the oldest Chinese
 temple in Bangkok’s Sampheng district, where the Teochew merchant community serving King Taksin had resettled after his rule ended
-in 1782.71
+in 1782.[^71]
 
 Worthy of note is that the same Xuan Tian Shang Di temple in Senggarang
 contained another artefact contributed in 1814 by a devotee with the
-partially-legible name Heng Hok [illegible character] (王福?),72 while
+partially-legible name Heng Hok [illegible character] (王福?),[^72] while
 government records in Singapore registered the sale of gambier plantations
 by three persons – Tan Ngun Ha, Tan Ah Loo and Heng Tooan – to
-Captain James Pearl in May 1822.73 The recurrences of the surnames Tan
+Captain James Pearl in May 1822.[^73] The recurrences of the surnames Tan
 and Heng allow us to surmise that the first commercial enterprise in
 modern Singapore was formed by a Teochew partnership between members
 of a Tan clan based in Siam and a Heng clan from Dang Khoi.
@@ -530,31 +530,31 @@ resident deities – Xuan Tian Shang Di and Mazu. The pair are housed in an
 edifice with adjoining prayer halls first built by Ngee Ann Kongsi between 1852
 and 1855. While there is scant documentation of the temple’s early years, temple
 traditions hold that its site was once occupied by a lone *attap* hut sheltering a
-Mazu altar, before a Xuan Tian Shang Di shrine was added in 1826.74
+Mazu altar, before a Xuan Tian Shang Di shrine was added in 1826.[^74]
 
 This chronology of events dovetails with the Teochew oral account’s
 depiction of Wak Hai Cheng Bio being co-founded by Tan Heng Kim and
 Heng Hong Sung. Moreover, the account’s claim of the temple’s premises
 being used for the landing of travellers and goods is affirmed by the Malay
 reference to the Sua Kia Deng area as “Lorong Tambangan”, meaning “ferry lane”, as well as the recorded presence of the Master Attendant Captain
-William Flint’s residence and an “old fish market” nearby.75
+William Flint’s residence and an “old fish market” nearby.[^75]
 
 As for when the Mazu shrine was built, it is conceivable that this happened
 only after end-June 1819, as inferred from Phua’s assertion in *Teo-chews in
 Malaya* that the Wak Hai Cheng Bio land was a grant from Temenggong
 Abdul Rahman, as well as Munshi Abdullah’s report that the Singapore
-River south bank had “nothing to be seen” before Chinese settlement.76
+River south bank had “nothing to be seen” before Chinese settlement.[^76]
 Further, considering the practice that every Teochew junk plying the route
 between China and Siam carried on board an idol of Mazu, which had to
 be invited into a temple or shrine at the destination port before goods were
-unloaded,77 this structure must have already stood along the Singapore
+unloaded,[^77] this structure must have already stood along the Singapore
 River prior to Farquhar’s notice on the first junks from China and Siam in
 end-March 1820.
 
 The estimation of dates is supported by the transaction record, dated
 18 September 1822, of a house in Chinatown, whose location was reported
 to be “on the sea side of the Road leading past the *old Chinese temple*”
-[emphasis added].78
+[emphasis added].[^78]
 
 Oddly enough, differing information on the temple was presented in a
 write-up in *Teo-chews in Malaya*: Phua had penned instead that “Wak Hai
@@ -564,24 +564,24 @@ rebuilt many times…” In yet another part of the book, Phua characterised
 Lim Phueng as the founder of Ban See Soon Kongsi (万世顺公司) – reportedly
 an entity in Singapore set up to manage monetary gifts to Mazu from
 Teochew travellers from the Teochew region, Siam or Vietnam – and reported that this man was in Singapore in the early Qing period but was
-executed by a government official in China in 1738.79
+executed by a government official in China in 1738.[^79]
 
 Any possible connection between Lim Phueng and the first sojourners from
 Hai Ior was not raised.
 
 Phua subsequently revised in his other publications the year of Wak Hai
 Cheng Bio’s foundation to the final year of Emperor Qianlong’s reign
-(1796).80 However, he did not make the change because he saw it was
+(1796).[^80] However, he did not make the change because he saw it was
 implausible that the Teochew people were active in Singapore some 80
 years ahead of British arrival. He later reverted in a 1976 newspaper article
 to his original position that the Mazu *attap* shrine had been erected before
 1738, but substituted Heng Hong Sung for Lim Phueng as the Ban See
-Soon Kongsi founder.81 Phua’s back and forth changes were seemingly
+Soon Kongsi founder.[^81] Phua’s back and forth changes were seemingly
 compelled by his realisation that Lim Phueng, a merchant with a well-documented
 life, could not have been in Singapore in the 1730s. Famed
 for building a luxurious garden-mansion in the Teochew port town of
 Changlim (樟林) in 1799, Lim Phueng was put to death following a highprofile
-legal case in 1805.82
+legal case in 1805.[^82]
 
 Despite uncertainty on his part, Phua did not relent on the existence of a
 Mazu shrine before the end of the 18th century. His insistence appears to be
@@ -589,7 +589,7 @@ based on knowledge of oral traditions tied to Ban See Soon Kongsi. Similar
 to Phua’s writings, a working report issued by the Singapore Teo Chew Sai
 Ho Association in 1949 linked Wak Hai Cheng Bio’s foundation to Ban See
 Soon Kongsi. However it stated that the latter was formed at the beginning
-of Qing Emperor Qianlong’s reign in 1735, through the funding by Teochew red-head junk travellers in Singapore obligated to Mazu.83 The Teo Chew Sai
+of Qing Emperor Qianlong’s reign in 1735, through the funding by Teochew red-head junk travellers in Singapore obligated to Mazu.[^83] The Teo Chew Sai
 Ho Association report made no reference to Lim Phueng.
 
 In view of established knowledge on Singapore’s history, the possibility
@@ -598,12 +598,12 @@ remote. On the other hand, the notice in *Tuhfat al Nafis* about “Chinese
 from China” being brought into Riau around 1740, as well as markings
 of a “Chinese compound” there in British navigation charts between 1750
 and 1762 (see Map 6), show that it was a place where Chinese traders
-congregated. While the 1779 Mazu deity tablet in Senggarang is the oldestknown
+congregated. While the 1779 Mazu deity tablet in Senggarang is the oldest-known
 physical proof of Teochew presence in Riau, Scottish sea captain
 Alexander Hamilton’s observation that about 1,000 Chinese families were
 settled in the towns of Johor at the beginning of the century supports the
 likelihood that some Teochew merchants might have been active there as
-early as the 1730s.84
+early as the 1730s.[^84]
 
 <img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_6_Plan_of_Rio.jpg" style="width:80%;">
  <div style="background-color: white;">Plan of Rhio in HM Ship Vigilant by Alexander Scott 1750, shown
@@ -634,14 +634,14 @@ the context of preceding developments in its surroundings, especially in
 Riau. An important point in relation to this is the oft-overlooked fact that
 Raffles himself was bound for Riau to set up an EI C station when he set sail from Calcutta on 7 December 1818, and only re-directed his course to
 Singapore after receiving news from Farquhar in Penang that the principal
-port of Johor had fallen under Dutch control.85
+port of Johor had fallen under Dutch control.[^85]
 
 #### **A Final Question**
 
 By November 1821, Singapore was reported to have had a “regularly built
 Chinese town” on the south bank of the Singapore River, while “plantations
 of gambier, pepper and other spices [had] already [made] their appearance
-in many parts”.86 Corroborations of its nearly every detail by other historical
+in many parts”.[^86] Corroborations of its nearly every detail by other historical
 sources confirm the Teochew oral account to be from the voices of the
 Chinese behind these various developments.
 
@@ -654,15 +654,15 @@ suggests that they did not come to Singapore on their own initiative. The
 identity of the person who arranged for their migration is given away by
 a clause in the June 1819 *Arrangement Made for the Singapore Government*:
 “[T]he gardens and plantations that now are, or may hereafter be made”
-to be placed “at the disposal of the Tumungong, as heretofore”.87 Crucially,
+to be placed “at the disposal of the Tumungong, as heretofore”.[^87] Crucially,
 Temenggong Abdul Rahman was also documented to have provided for
 the cost and expenses of gambier plantations opened at Mount Stamford
 (now Pearl’s Hill) prior to the arrival of the British and “in some instances”
 advanced money to Teochew cultivators with the understanding that he
-would be repaid in the form of gambier or other produce.88 An impression Farquhar got from the Captain China – “one of the principal persons
+would be repaid in the form of gambier or other produce.[^88] An impression Farquhar got from the Captain China – “one of the principal persons
 concerned” – was that the temenggong’s interests in these plantations were
 represented by his brother-in-law named Baba Ketchil, which adds more
-weight to the importance of these arrangements.89
+weight to the importance of these arrangements.[^89]
 
 Raffles’ characterisation of Singapore’s inhabitants as “new settlers” in his
 8 January 1819 letter to Hastings implied that the Teochews only arrived
@@ -671,12 +671,12 @@ another key event, which was the conclusion of a treaty on 28 November
 1818 by which Raja Jaafar permitted the Dutch to re-occupy Riau.
 
 Besides Tengku Long, Temenggong Abdul Rahman was said to be the most
-vocal in opposing this agreement.90 This is hardly surprising as he professed
-to be an exile in Singapore,91 apparently as an outcome of Raja Jaafar’s
+vocal in opposing this agreement.[^90] This is hardly surprising as he professed
+to be an exile in Singapore,[^91] apparently as an outcome of Raja Jaafar’s
 political coup. More pertinently, the “head of the pirates” was manifestly the
 target of various articles in the Johor-Dutch pact, which obliged the Sultan
 of Johor to eradicate piracy and even grant the Dutch a host of powers to
-ensure this outcome.92
+ensure this outcome.[^92]
 
 Inexplicably, it was the temenggong who ratified this treaty by affixing his
 seal on it, after the incumbent sultan (Tengku Long’s younger brother)
@@ -688,7 +688,7 @@ his own deal with Melaka.
 Interestingly, the diary of Captain John Crawford recorded that shortly
 after Raffles landed in Singapore, his request to disembark his soldiers
 and plant the British flag was acceded to by the temenggong with the
-exclamation that “nothing could give them greater happiness than to be in alliance with the English”.93 Only after this did the two leaders seal
+exclamation that “nothing could give them greater happiness than to be in alliance with the English”.[^93] Only after this did the two leaders seal
 their first agreement, by which the EI C was committed to not only pay
 the Johor minister 3,000 Spanish dollars a year, but also to protect him.
 To this end, there seems little question to the Malay chief’s intention
@@ -701,7 +701,7 @@ support could not have been more timely and helpful.
 Temenggong Abdul Rahman’s agenda was not military, but trade through
 the creation of a rival port in Singapore. His negotiation in the 6 February
 1819 treaty for “a moiety or full half of all the amount collected from Native
-Vessels” amply hints at this.94
+Vessels” amply hints at this.[^94]
 
 This leaves room to ponder if the commercial value of gambier, as well as
 Raffles’ excited anticipation of Singapore’s access to “rice, salt, and other
