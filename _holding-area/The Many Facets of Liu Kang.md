@@ -61,14 +61,18 @@ Equally important too are Liu’s postwar art scene photographs, including those
 <br>
 <img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/bali_ceremony.jpg" style="width: 80%;">Women formally dressed for a temple ceremony carry their offerings.&nbsp;<i>© Liu Kang Family.</i></div>
 
+#### **What is Nanyang?**
+
+The term “Nanyang” (南洋), literally the “South Seas”, was widely adopted by writers of the Chinese language in British Malaya to denote the Chinese diasporic milieu and to describe its geographic and cultural existence in the context of the Straits Settlements, which comprised Singapore, Melaka and Penang. The term was often extended to include Chinese immigrants in Bangkok, the Indonesian archipelago (Dutch East Indies), British North Borneo (Sabah and Sarawak) and Manila.
+
+As the presence of art-engaging Chinese in Malaya grew in number by the second half of the 1930s, exhibitions and performances took place all along the peninsula. These shows travelled by rail from Singapore all the way to Penang, stopping by at Melaka (and/or Muar), Kuala Lumpur, Ipoh and Taiping. Such touring reinforced the notion of an imagined community of diasporic Chinese, united by similar new experiences abroad and the Sino-Japanese War.
+
+With the establishment of institutions such as the Nanyang Girls’ School (1917), the Chinese daily _Nanyang Siang Pau_ by Singapore businessman Tan Kah Kee (1923), the department of Nanyang Studies at Jinan University in Shanghai (1928) and Singapore’s Nanyang Academy of Fine Arts by Lim Hak Tai (1938), the concept of the Nanyang was made more concrete.
+
+Nanyang was effectively useful as a way to differentiate between China, the homeland, and the realm outside its geographical confines. At the same time, Nanyang suggests the growth of the influence of modern and reformist China, which was reaching outwards via the movement of a now learned professional cohort equipped with modern skills and vocabulary. This cohort also included a great number of highly educated artists who were multi-talented, hungry and eager, many of whom had travelled widely and found themselves in Nanyang. The Singapore-based Chinese art community in the 1930s was one aspiring to integrate itself with the larger world, at least ideologically. Nevertheless, it should be remembered that the term Nanyang was not used in the English medium until decades later.[\[1\]](#_ftn1) Instead, “Malayan” was the term that would conjure up a similar visualisation of the tropicalised milieu in English.
+
   
 
-
-  
-
-
-
-  
 
 
 
@@ -102,3 +106,5 @@ Equally important too are Liu’s postwar art scene photographs, including those
 [^8]:  More than 250 photographs (out of over 1,000) taken by Liu Kang in the 1952 Java and Bali trip have been published by the National Library Board. See Gretchen Liu, _[Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300094843)_ (Singapore: National Library Board, 2025). (From National Library Singapore, call no. RSING 779.995986 LIU)
 
 [^9]:  Goh Yu Mei and Nadia Ramli, “[The Liu Kang Collection: A Portrait of the Artist as a Young Man](https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-collection/),” _BiblioAsia_ 21, no. 1 (April–June 2025):12–17.
+
+[^10]:  See T.K. Sabapathy, “[Nanyang Artists and Their Style](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811206-1.2.101.3.1),” _Straits Times,_ 6 December 1981, 3. (From NewspaperSG). See also by same author “The Nanyang Artists: Some General Remarks” and “O No! Not the Nanyang Again!” in _[Writing the Modern: Selected Texts on Art &amp; Art History in Singapore, Malaysia &amp; Southeast Asia, 1973–2015](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203023192)_ &nbsp;(Singapore: Singapore Art Museum, 2018), 340–45, 398–403. (From National Library Singapore, call no. RSING 709.59 SAB)
