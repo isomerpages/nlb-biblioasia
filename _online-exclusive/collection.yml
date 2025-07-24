@@ -2,6 +2,7 @@ collections:
   online-exclusive:
     output: true
     order:
+      - The Many Facets of Liu Kang.md
       - In Search of Silvestr.md
       - Historical Photos of Chin Woo’s Golden Lions.md
       - "Rites of Rehabilitation: The Social Work of the Zhenkongjiao in
