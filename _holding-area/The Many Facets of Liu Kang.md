@@ -12,7 +12,7 @@ In 1952, four Singapore artists – Chen Chong Swee, Chen Wen Hsi, Cheong Soo Pi
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/4_Artists.jpg" style="width: 80%;">The four artists at Kallang Airport for the flight to Jakarta, 8 June 1952. (From left) Liu Kang, Chen Chong Swee, Cheong Soo Pieng and Chen Wen Hsi. © Liu Kang Family.</div>
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/4_Artists.jpg" style="width: 80%;">The four artists at Kallang Airport for the flight to Jakarta, 8 June 1952. (From left) Liu Kang, Chen Chong Swee, Cheong Soo Pieng and Chen Wen Hsi. ©<i> Liu Kang Family.</i></div>
 
 The exhibition was warmly received in Singapore when it opened to the public in November 1953. As the editor of _Nanyang Siang Pau_ observed, the crowds visiting the exhibition created a buzz at the otherwise sedate British Council.[^2] At his oral history interview in the 1980s, Chen Wen Hsi recalled with amusement the reception to the exhibition. “That exhibition broke new ground in Singapore. No one had done something like that before,” he said. “Someone called us the Four Master Painters, but we didn’t know how in the world that came about.”[^3]
 
@@ -22,11 +22,36 @@ Seven decades on, we are able to reimagine the trip and its artistic consequence
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/untold_stories.png" style="width: 80%;">
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/untold_stories.png" style="width: 80%;"></div>
 	
 #### **The Accidental Documentation**
 	
 Photography was a skill Liu had acquired from around the age of 15, as he left Singapore to study in Shanghai.[^4] Thanks to the determination of Gretchen Liu, the daughter-in-law of the artist, Liu’s photographs have been sorted, progressively identified and published in a number of books. Despite Liu’s reluctance to recognise photography as an art form, his photographs are a treasure trove of art history.
+	
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Earliest_photo_Liu_Kang.jpg" style="width: 60%;">The earliest photo of Liu Kang with his camera, Shanghai, 1926. ©<i> Liu Kang Family.</i></div>
+
+The numerous images that Liu took during the trip to Java and Bali in 1952 were most probably meant as materials for him to work on. Since the 1930s, Liu had been developing a method very much based on what he understood as being unique to that of Paul Gauguin, the French painter and sculptor whose work has been primarily associated with the Post-Impressionist and Symbolist movements.
+
+Liu sketched diligently and also took copious photographs of his subjects, not to depict or transpose realistically, but to derive abstract elements from them – the better to reduce them into flattened, minimal and primordial forms.[^5] Liu’s keen eye captured facets of life, landscape and people in two important sites of Indonesia, a nation newly recovered from the trauma of World War II and a hard-earned revolution for independence after nearly 300 years of Dutch colonial indenture.
+
+Liu’s Bali photographs encapsulate the essence of Walter Spies’ paradisiacal Bali, its highly sophisticated humanity and the meticulously sculpted rice terraces, all on the verge of change.[^6] As a bonus, the photos also include rare street scenes of Jakarta, the luscious forested and sparsely inhabited hills of Bandung, the padi fields and sugarcane plantations of Central Java, as well as the stunning mountains in East Java. Well composed and skilfully executed, Liu’s photographs are artistic artworks with rich ethnographic content that open a way to reconnect us to his time in Singapore’s art experience.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/bali_shipment.jpg" style="width: 60%;">Inventively arranged, a towering shipment of basketry makes its way to market. ©<i> Liu Kang Family.</i></div>
+
+Other art-historically interesting bodies of images are from Liu’s time as an art student in Shanghai from 1926 to 1928; his European sojourn between 1929 and 1933, which included trips to Provence, Geneva, Belgium and Germany with his mentor, the prominent Chinese painter Liu Haisu (刘海粟); and the later years when he taught at the Shanghai Academy of Fine Arts (also known as Shanghai Art Academy) between 1933 and 1937.[^7]
+
+  
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Liu_Kang_painting.jpg" style="width: 80%;">Liu Kang painting Liu Haisu’s portrait, 1987. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
+  
+
+
 
   
 
@@ -51,4 +76,10 @@ Photography was a skill Liu had acquired from around the age of 15, as he left S
 
 [^3]:  Transcript of oral history interview with Chen Wen Hsi. See Chen Wenxi, _[Convergences: Chen Wen Hsi Centennial Exhibition](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12829865)_, vol. 2 (Singapore: Singapore Art Museum, 2006), 69. (From National Library Singapore, call no. RART 759.95957 CHE-\[LKY\])
 	
-[^4]:  Gretchen Liu 葛月赞 , “Yi qi feng fa – Liu Kang de zhaopian, geren de gushi” 艺气风发 – 刘抗的照片，个人的故事 (translated from English by Wang Xin) in [艺气风发: 来自刘海粟和刘抗的相册 = _Art with Audacity: Photos from the Albums of Liu Haisu and Liu Kang_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203957253), ed. Gu Zheng 顾铮 (上海: 刘海粟美术馆 及西泠印社出版社, 2019), 11. (From National Library Singapore, call no. R 759.951 ART-\[LK\])</div>
+[^4]:  Gretchen Liu 葛月赞 , “Yi qi feng fa – Liu Kang de zhaopian, geren de gushi” 艺气风发 – 刘抗的照片，个人的故事 (translated from English by Wang Xin) in [艺气风发: 来自刘海粟和刘抗的相册 = _Art with Audacity: Photos from the Albums of Liu Haisu and Liu Kang_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203957253), ed. Gu Zheng 顾铮 (上海: 刘海粟美术馆 及西泠印社出版社, 2019), 11. (From National Library Singapore, call no. R 759.951 ART-\[LK\])
+
+[^5]:  Chia Wai Hon, “Introduction,” in Liu Kang, _[Liu Kang at 87](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393)_ (Singapore: National Arts Council and National Heritage Board, 1997), 19. (From National Library Singapore, call no. RSING 759.95957 LIU)
+
+[^6]:  Walter Spies was&nbsp;a Russian-born German painter, composer, musicologist and curator who settled down in Ubud, Bali, in 1927 and remained there until World War II. He immersed himself in the exotic world of Bali, and is credited for introducing Balinese culture and art to the Western world.
+
+[^7]:  See Liu 葛月赞, “Yi qi feng fa – Liu Kang de zhaopian, geren de gushi.”
