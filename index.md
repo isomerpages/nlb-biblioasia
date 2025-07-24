@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 2/Kung Tian/HeroImage_KungTian.jpg
       variant: center
   - infopic:
+      title: The Many Facets of Liu Kang
+      subtitle: People
+      id: infopic
+      description: Liu Kang’s many roles as photographer, artist, educator and critic
+        helped paint a new narrative for Singapore’s art history.
+      button: A MULTI-TALENTED PIONEER ARTIST
+      url: /people/2025/7/liu-kang-artist-photographer-educator/
+      image: /images/Online Only Articles/The Many Facets of Liu
+        Kang/Many_Facets_Topic.jpg
+      alt: The Many Facets of Liu Kang
+  - infopic:
       title: Reading With Molly Today
       subtitle: Print
       id: infopic
