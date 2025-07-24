@@ -30,7 +30,7 @@ Photography was a skill Liu had acquired from around the age of 15, as he left S
 	
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Earliest_photo_Liu_Kang.jpg" style="width: 60%;">The earliest photo of Liu Kang with his camera, Shanghai, 1926. ©<i> Liu Kang Family.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Earliest_photo_Liu_Kang.jpg" style="width: 80%;">The earliest photo of Liu Kang with his camera, Shanghai, 1926. ©<i> Liu Kang Family.</i></div>
 
 The numerous images that Liu took during the trip to Java and Bali in 1952 were most probably meant as materials for him to work on. Since the 1930s, Liu had been developing a method very much based on what he understood as being unique to that of Paul Gauguin, the French painter and sculptor whose work has been primarily associated with the Post-Impressionist and Symbolist movements.
 
