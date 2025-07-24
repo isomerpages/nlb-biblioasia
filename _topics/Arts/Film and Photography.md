@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/7/liu-kang-artist-photographer-educator/">The Many Facets of Liu Kang</a>
+
+Liu Kang’s many roles as photographer, artist, educator and critic helped paint a new narrative for Singapore’s art history.
+
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Many_Facets_Topic.jpg" style="width:80%;"> 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/">Singapore Through the Lens of P.S. Teo and Ronni Pinsler</a>
 
 The photographs of P.S. Teo and Ronni Pinsler of a bygone Singapore form part of the National Archives of Singapore’s 5.5-million strong collection.
