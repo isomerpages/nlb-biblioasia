@@ -57,6 +57,10 @@ As the writing of Singapore’s art history of the prewar period remains relativ
 
 Equally important too are Liu’s postwar art scene photographs, including those from the 1952 Bali trip. The historical significance of the art events and their impact on Singapore's art development are only now beginning to be fully appreciated.[^8] More gems can be derived from Liu’s vast but still-to-be-catalogued archive of photographs and ephemera. Fortunately, some of his postwar photographs have been deposited with the National Library of Singapore and are progressively being identified in preparation for consultation by library visitors.[^9]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/bali_ceremony.jpg" style="width: 80%;">Women formally dressed for a temple ceremony carry their offerings.&nbsp;<i>© Liu Kang Family.</i></div>
+
   
 
 
