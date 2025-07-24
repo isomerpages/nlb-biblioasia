@@ -40,7 +40,7 @@ Liu’s Bali photographs encapsulate the essence of Walter Spies’ paradisiacal
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/bali_shipment.jpg" style="width: 60%;">Inventively arranged, a towering shipment of basketry makes its way to market. ©<i> Liu Kang Family.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/bali_shipment.jpg" style="width: 80%;">Inventively arranged, a towering shipment of basketry makes its way to market. ©<i> Liu Kang Family.</i></div>
 
 Other art-historically interesting bodies of images are from Liu’s time as an art student in Shanghai from 1926 to 1928; his European sojourn between 1929 and 1933, which included trips to Provence, Geneva, Belgium and Germany with his mentor, the prominent Chinese painter Liu Haisu (刘海粟); and the later years when he taught at the Shanghai Academy of Fine Arts (also known as Shanghai Art Academy) between 1933 and 1937.[^7]
 
