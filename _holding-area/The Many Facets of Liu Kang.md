@@ -91,15 +91,19 @@ In the perceived absence of desirable subject matters locally – the search for
 
 #### **Leadership and Nurturing Talent**
 
-When Liu joined the SOCA in 1938, he was considered a newcomer to a vibrant art scene.[\[1\]](#_ftn1) The SOCA was then helmed by Tchang Ju-chi (张汝器) and U-Chow (庄有钊), the president and vice-president respectively, both of whom had had a 10-year head start on him.
+When Liu joined the SOCA in 1938, he was considered a newcomer to a vibrant art scene.[^14] The SOCA was then helmed by Tchang Ju-chi (张汝器) and U-Chow (庄有钊), the president and vice-president respectively, both of whom had had a 10-year head start on him.
 
-The four-year period leading up to the fall of Singapore in February 1942 was an important time for the Singapore art scene, culminating in art exhibitions by the SOCA and the Singapore Art Society, along with the _Fight for Freedom_ exhibition by the British Department of Information and Publicity, in September 1941. At this exhibition, one of Liu’s works in oil was noticed by the press, possibly for the first time. The piece, titled _Prawns_, was described in the _Singapore Free Press_ as “an amusing, decorative picture of these delicacies, in bright blue, slaty pinks, plaster cream and browns”.[\[2\]](#_ftn2)
+The four-year period leading up to the fall of Singapore in February 1942 was an important time for the Singapore art scene, culminating in art exhibitions by the SOCA and the Singapore Art Society, along with the _Fight for Freedom_ exhibition by the British Department of Information and Publicity, in September 1941. At this exhibition, one of Liu’s works in oil was noticed by the press, possibly for the first time. The piece, titled _Prawns_, was described in the _Singapore Free Press_ as “an amusing, decorative picture of these delicacies, in bright blue, slaty pinks, plaster cream and browns”.[^15]
 
 Unfortunately, World War II wiped out some of the top leadership of the local art world. These include Tchang, U-Chow, Lim Dao’an (林道盦; also a SOCA member) and Ho Kwong Yew (何光耀; an architect and member of the Singapore Art Club), who were killed by the _Kempeitai, the military police of the Imperial Japanese Army,_ shortly after Singapore fell in 1942. The postwar vacuum was filled by Liu Kang, Chen Chong Swee, Chen Jen-hou and Huang Pao-fang, all alumni of Shanghai’s tertiary art institutions.
 
 Liu became president of the SOCA in 1946 and led the society to organise its sixth annual exhibition in December that year, commemorating the fallen artists and forging new paths for the future. He continued to helm the SOCA for a total of 12 years.
 
 In addition to his position at the SOCA, Liu taught art at several schools in Singapore. Like his predecessors, Liu understood that his position demanded that he nurture public interest in art and art education and to be a voice for the artists. Liu put his literary skill to work and published essays from 1947 through to the early 1970s in the _Nanyang Siang Pau_, Singapore’s Chinese-language newspaper of record.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Students_Chung_Cheng_High.jpg" style="width: 80%;">Liu Kang taught art at several schools in Singapore. In 1948, he led the graduating batch of senior high students from Chung Cheng High School on a one-month sketching trip to the Malay Peninsula. Liu Kang is in the first row, second from right. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
   
 
