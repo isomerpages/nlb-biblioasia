@@ -114,7 +114,7 @@ To nurture budding artists, Liu supported students and young aspirants in many w
 The longevity of Liu Kang, who passed away in 2004 at age 92, his wide social network, generosity and outgoing personality, and perhaps more importantly, his subconscious understanding of the value of preservation, allows one to review Liu’s life and career as an archive of art history, a rich primary source to be mined and analysed, so that a new narrative of Singapore’s varied art history can be written.
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src=""><b>Lee Chor Lin </b>is former senior curator with the Asian Civilisations Museum and former director of the National Museum of Singapore..</div>  
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Lee_Chor_Lin_photo.jpg"><b>Lee Chor Lin </b>is former senior curator with the Asian Civilisations Museum and former director of the National Museum of Singapore.</div>  
 
 #### **Notes**
 
