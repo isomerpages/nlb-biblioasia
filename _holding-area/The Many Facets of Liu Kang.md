@@ -89,6 +89,23 @@ The Ten Men Art Group led by art educator Yeh Chi-wei exemplifies a collectively
 
 In the perceived absence of desirable subject matters locally – the search for subjects which are more colourful, vibrant and exotic – combined with nostalgia for the disappeared streetscapes, idyllic village scenes and lifestyle, travelling and creating imagery of the pre-industrialised and the imagined rural would remain a trajectory of artmaking for years to come.
 
+#### **Leadership and Nurturing Talent**
+
+When Liu joined the SOCA in 1938, he was considered a newcomer to a vibrant art scene.[\[1\]](#_ftn1) The SOCA was then helmed by Tchang Ju-chi (张汝器) and U-Chow (庄有钊), the president and vice-president respectively, both of whom had had a 10-year head start on him.
+
+The four-year period leading up to the fall of Singapore in February 1942 was an important time for the Singapore art scene, culminating in art exhibitions by the SOCA and the Singapore Art Society, along with the _Fight for Freedom_ exhibition by the British Department of Information and Publicity, in September 1941. At this exhibition, one of Liu’s works in oil was noticed by the press, possibly for the first time. The piece, titled _Prawns_, was described in the _Singapore Free Press_ as “an amusing, decorative picture of these delicacies, in bright blue, slaty pinks, plaster cream and browns”.[\[2\]](#_ftn2)
+
+Unfortunately, World War II wiped out some of the top leadership of the local art world. These include Tchang, U-Chow, Lim Dao’an (林道盦; also a SOCA member) and Ho Kwong Yew (何光耀; an architect and member of the Singapore Art Club), who were killed by the _Kempeitai, the military police of the Imperial Japanese Army,_ shortly after Singapore fell in 1942. The postwar vacuum was filled by Liu Kang, Chen Chong Swee, Chen Jen-hou and Huang Pao-fang, all alumni of Shanghai’s tertiary art institutions.
+
+Liu became president of the SOCA in 1946 and led the society to organise its sixth annual exhibition in December that year, commemorating the fallen artists and forging new paths for the future. He continued to helm the SOCA for a total of 12 years.
+
+In addition to his position at the SOCA, Liu taught art at several schools in Singapore. Like his predecessors, Liu understood that his position demanded that he nurture public interest in art and art education and to be a voice for the artists. Liu put his literary skill to work and published essays from 1947 through to the early 1970s in the _Nanyang Siang Pau_, Singapore’s Chinese-language newspaper of record.
+
+  
+
+
+
+
   
 
 
@@ -135,3 +152,7 @@ In the perceived absence of desirable subject matters locally – the search for
 [^12]:  Liu Kang, oral history interview by Tan Beng Luan, 13 January 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/34a9dd15-115f-11e3-83d5-0050568939ad-OHC000171_040Eng/web/html5/index.html) and MP3 Audio, Reel/Disc 40 of 74, National Archives of Singapore (accession no. [000171](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000171)), 3. \[English version translated and annotated by Tay Jun Hao and Alina Soh.\]
 
 [^13]:  Liu Kang, “I Am 87,” in Liu Kang, _[Liu Kang at 87](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393)_ (Singapore: National Arts Council and National Heritage Board, 1997), 28–29. (From National Library Singapore, call no. RSING 759.95957 LIU)
+
+[^14]:  “Huaren meishu yanjiu hui ming wan juxing lianhuan hui didian jia da shijie nei yong chunyuan” [華人美術研究會明晚舉行聯歡會 地點假大世界內詠春園](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19380114-1.2.67) \[The Chinese Art Research Association will hold a party tomorrow night at the Wing Chun Garden in Big World\], _Nanyang Siang Pau_ 南洋商报, 14 January 1938, 8. (From NewspaperSG)
+
+[^15]:  Mary Heathcott “[‘Fight for Freedom’ Exhibition Opens](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19410912-1.2.45),” _Singapore Free Press and Mercantile Advertiser_, 12 September 1941, 5. (From NewspaperSG)
