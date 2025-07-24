@@ -49,6 +49,17 @@ Other art-historically interesting bodies of images are from Liu’s time as an 
 <br>
 <img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Liu_Kang_painting.jpg" style="width: 80%;">Liu Kang painting Liu Haisu’s portrait, 1987. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
+Perhaps more precious, due to the turbulence of modern Chinese history, are the photographs of Liu as a student at the Xinhua Academy of Fine Arts (or Xinhua Art Academy), and later, as a teacher at the Shanghai Art Academy after returning from Paris. There are group photographs of Liu and his classmates, and also of sketching trips to destinations around Shanghai, as well as of the groundbreaking nude sketching classes that took place in the academy.
+
+Among the students at the Shanghai Art Academy, those from Fujian, where Liu’s family originated, formed a critical mass. They had their own club, often gathering to send off fellow Fujianese at graduation. These photographs also recorded the presence of artists who later emerged in Southeast Asia and the Society of Chinese Artists (SOCA) such as Yang Eng Kuei (杨永圭), Su Erqi (苏尔琪), Yeo Hwee Min (杨惠民) and Chen Junwen (陈俊文).
+
+As the writing of Singapore’s art history of the prewar period remains relatively nascent to this day, Liu’s photographs have become much-needed primary sources to understand how the Chinese diasporic artist community functioned at the time, especially after 1937, following the outbreak of the Sino-Japanese War that led the young graduates from Shanghai to migrate to Southeast Asia. These academy-trained artists joined more than 200 Chinese schools that had sprung up in Malaya and the Dutch East Indies, primarily to teach art.
+
+Equally important too are Liu’s postwar art scene photographs, including those from the 1952 Bali trip. The historical significance of the art events and their impact on Singapore's art development are only now beginning to be fully appreciated.[^8] More gems can be derived from Liu’s vast but still-to-be-catalogued archive of photographs and ephemera. Fortunately, some of his postwar photographs have been deposited with the National Library of Singapore and are progressively being identified in preparation for consultation by library visitors.[^9]
+
+  
+
+
   
 
 
@@ -83,3 +94,7 @@ Other art-historically interesting bodies of images are from Liu’s time as an 
 [^6]:  Walter Spies was&nbsp;a Russian-born German painter, composer, musicologist and curator who settled down in Ubud, Bali, in 1927 and remained there until World War II. He immersed himself in the exotic world of Bali, and is credited for introducing Balinese culture and art to the Western world.
 
 [^7]:  See Liu 葛月赞, “Yi qi feng fa – Liu Kang de zhaopian, geren de gushi.”
+
+[^8]:  More than 250 photographs (out of over 1,000) taken by Liu Kang in the 1952 Java and Bali trip have been published by the National Library Board. See Gretchen Liu, _[Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300094843)_ (Singapore: National Library Board, 2025). (From National Library Singapore, call no. RSING 779.995986 LIU)
+
+[^9]:  Goh Yu Mei and Nadia Ramli, “[The Liu Kang Collection: A Portrait of the Artist as a Young Man](https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-collection/),” _BiblioAsia_ 21, no. 1 (April–June 2025):12–17.
