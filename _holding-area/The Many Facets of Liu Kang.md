@@ -105,6 +105,19 @@ In addition to his position at the SOCA, Liu taught art at several schools in Si
 <br>
 <img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Students_Chung_Cheng_High.jpg" style="width: 80%;">Liu Kang taught art at several schools in Singapore. In 1948, he led the graduating batch of senior high students from Chung Cheng High School on a one-month sketching trip to the Malay Peninsula. Liu Kang is in the first row, second from right. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
+         
+
+Some of these essays made a significant impact on the artists he had written about. In 1949, he penned an introductory piece on Chen Wen Hsi’s first exhibition in Singapore. Chen, a fellow alumni from the Xinhua Academy of Fine Arts, had just arrived from Swatow (Shantou), China, and found Liu with help from the ship’s captain. This showed that Liu’s reputation already far preceded him.[\[1\]](#_ftn1)
+
+In 1958, to promote the furniture design of fellow SOCA artist Huang Pao Fang, who painted largely Chinese ink works, Liu wrote a piece on Huang’s exhibition in the context of the merits of good design and how great European artists like Picasso dabbled in crafts such as ceramic.[\[2\]](#_ftn2) In the following years, Liu’s numerous art reviews and introductions made him increasingly influential. His writings and views serve as a fundamental documentation of Singapore’s art scene, at a time when there were no professional art critics.
+
+To nurture budding artists, Liu supported students and young aspirants in many ways. In 1961, together with Chen Wen Hsi, Liu organised a fundraiser exhibition of works by their star student, the 19-year-old Wong Keen, to send him off to New York where he had secured a place at the Art Students League. A natural teacher, Liu appreciated talent when he spotted them and tirelessly supported those holding their inaugural solos by writing about them. Second-generation artists such as Ng Yat Chuan, Wee Beng Chong, Thomas Yeo, Ng Eng Teng and Tan Chor Tee all name Liu as their first critic.
+
+The longevity of Liu Kang, who passed away in 2004 at age 92, his wide social network, generosity and outgoing personality, and perhaps more importantly, his subconscious understanding of the value of preservation, allows one to review Liu’s life and career as an archive of art history, a rich primary source to be mined and analysed, so that a new narrative of Singapore’s varied art history can be written.
+
+  
+
+
   
 
 
@@ -160,3 +173,7 @@ In addition to his position at the SOCA, Liu taught art at several schools in Si
 [^14]:  “Huaren meishu yanjiu hui ming wan juxing lianhuan hui didian jia da shijie nei yong chunyuan” [華人美術研究會明晚舉行聯歡會 地點假大世界內詠春園](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19380114-1.2.67) \[The Chinese Art Research Association will hold a party tomorrow night at the Wing Chun Garden in Big World\], _Nanyang Siang Pau_ 南洋商报, 14 January 1938, 8. (From NewspaperSG)
 
 [^15]:  Mary Heathcott “[‘Fight for Freedom’ Exhibition Opens](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19410912-1.2.45),” _Singapore Free Press and Mercantile Advertiser_, 12 September 1941, 5. (From NewspaperSG)
+
+[^16]:  Liu Kang 劉抗 “Wen xi de hua” [文希的畫](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19490517-1.2.25.15) \[The art of Wen Hsi\], _Nanyang Siang Pau_ 南洋商报, 17 May 1949, 5. (From NewspaperSG). See also the transcript of Chen Wen Hsi’s oral history interview in Chen, _[Convergences: Chen Wen Hsi Centennial Exhibition](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12829865)_, 103–04.
+
+[^17]:  Liu Kang 劉抗 “Huangbaofang de shinei buzhì zhanlan hui nanyang shang” [黃葆芳的室內佈置展覽會](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580426-1.2.26.4) \[Huang Baofang’s interior decoration exhibition Nanyang business\], _Nanyang Siang Pau_ 南洋商报, 26 April 1958, 5. (From NewspaperSG)
