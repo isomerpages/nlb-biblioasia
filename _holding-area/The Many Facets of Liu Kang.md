@@ -47,7 +47,7 @@ Other art-historically interesting bodies of images are from Liu’s time as an 
   
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Liu_Kang_painting.jpg" style="width: 80%;">Liu Kang painting Liu Haisu’s portrait, 1987. <i>Liu Kang Collection, National Library Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Liu_Kang_painting_rev.jpg" style="width: 80%;">Liu Kang painting Liu Haisu’s portrait, 1987. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 Perhaps more precious, due to the turbulence of modern Chinese history, are the photographs of Liu as a student at the Xinhua Academy of Fine Arts (or Xinhua Art Academy), and later, as a teacher at the Shanghai Art Academy after returning from Paris. There are group photographs of Liu and his classmates, and also of sketching trips to destinations around Shanghai, as well as of the groundbreaking nude sketching classes that took place in the academy.
 
