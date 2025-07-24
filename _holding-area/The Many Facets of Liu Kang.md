@@ -120,7 +120,7 @@ The longevity of Liu Kang, who passed away in 2004 at age 92, his wide social ne
 
 [^1]:  “[Bali – By 4 Chinese Artists,](https:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19531110-1.2.50)”&nbsp;_Straits Times_, 10 November 1953, 2. (From NewspaperSG)
 
-[^2]:  “Hua sha mowei luzhou” [化沙漠爲綠洲](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531110-1.2.11.1) \[Oasis at the end of the desert\], _Nanyang Siang Pau_ 南洋商报, 10 November 1953, 1. (From NewspaperSG
+[^2]:  “Hua sha mowei luzhou” [化沙漠爲綠洲](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531110-1.2.11.1) \[Oasis at the end of the desert\], _Nanyang Siang Pau_ 南洋商报, 10 November 1953, 1. (From NewspaperSG)
 
 [^3]:  Transcript of oral history interview with Chen Wen Hsi. See Chen Wenxi, _[Convergences: Chen Wen Hsi Centennial Exhibition](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12829865)_, vol. 2 (Singapore: Singapore Art Museum, 2006), 69. (From National Library Singapore, call no. RART 759.95957 CHE-\[LKY\])
 	
@@ -134,7 +134,7 @@ The longevity of Liu Kang, who passed away in 2004 at age 92, his wide social ne
 
 [^8]:  More than 250 photographs (out of over 1,000) taken by Liu Kang in the 1952 Java and Bali trip have been published by the National Library Board. See Gretchen Liu, _[Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300094843)_ (Singapore: National Library Board, 2025). (From National Library Singapore, call no. RSING 779.995986 LIU)
 
-[^9]:  Goh Yu Mei and Nadia Ramli, “[The Liu Kang Collection: A Portrait of the Artist as a Young Man](https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-collection/),” _BiblioAsia_ 21, no. 1 (April–June 2025):12–17.
+[^9]:  Goh Yu Mei and Nadia Ramli, “[The Liu Kang Collection: A Portrait of the Artist As a Young Man](https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-collection/),” _BiblioAsia_ 21, no. 1 (April–June 2025):12–17.
 
 [^10]:  See T.K. Sabapathy, “[Nanyang Artists and Their Style](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811206-1.2.101.3.1),” _Straits Times,_ 6 December 1981, 3. (From NewspaperSG). See also by same author “The Nanyang Artists: Some General Remarks” and “O No! Not the Nanyang Again!” in _[Writing the Modern: Selected Texts on Art &amp; Art History in Singapore, Malaysia &amp; Southeast Asia, 1973–2015](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203023192)_ &nbsp;(Singapore: Singapore Art Museum, 2018), 340–45, 398–403. (From National Library Singapore, call no. RSING 709.59 SAB)
 
