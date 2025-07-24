@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - The Many Facets of Liu Kang.md
       - Sample article.md
       - Singapore Youth Orchestra Brings Singapore Composers into the
         Limelight.md
