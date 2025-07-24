@@ -103,7 +103,7 @@ In addition to his position at the SOCA, Liu taught art at several schools in Si
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Students_Chung_Cheng_High.jpg" style="width: 80%;">Liu Kang taught art at several schools in Singapore. In 1948, he led the graduating batch of senior high students from Chung Cheng High School on a one-month sketching trip to the Malay Peninsula. Liu Kang is in the first row, second from right. <i>Liu Kang Collection, National Library Singapore.</i></div>         
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Students_Chung_Cheng_High_rev.jpg" style="width: 80%;">Liu Kang taught art at several schools in Singapore. In 1948, he led the graduating batch of senior high students from Chung Cheng High School on a one-month sketching trip to the Malay Peninsula. Liu Kang is in the first row, second from right. <i>Liu Kang Collection, National Library Singapore.</i></div>         
 
 Some of these essays made a significant impact on the artists he had written about. In 1949, he penned an introductory piece on Chen Wen Hsi’s first exhibition in Singapore. Chen, a fellow alumni from the Xinhua Academy of Fine Arts, had just arrived from Swatow (Shantou), China, and found Liu with help from the ship’s captain. This showed that Liu’s reputation already far preceded him.[^16]
 
