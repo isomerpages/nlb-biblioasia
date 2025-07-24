@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/7/liu-kang-artist-photographer-educator/">The Many Facets of Liu Kang</a>
+
+Liu Kang’s many roles as photographer, artist, educator and critic helped paint a new narrative for Singapore’s art history.
+
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Many_Facets_Topic.jpg" style="width:80%;"> 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/">A Bridge Between East and West</a>
  <p>Liu Kang’s works show the influence of Western artists such as Cézanne, Gauguin, Van Gogh and Matisse, as well as the tradition of Chinese ink painting.</p> 
 <img src="/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_facing.jpg" style="width:100%;">
