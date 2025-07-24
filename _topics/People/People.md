@@ -5,6 +5,14 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/7/liu-kang-artist-photographer-educator/">The Many Facets of Liu Kang</a>
+
+Liu Kang’s many roles as photographer, artist, educator and critic helped paint a new narrative for Singapore’s art history.
+
+<img src="/images/Online%20Only%20Articles/The%20Many%20Facets%20of%20Liu%20Kang/Many_Facets_Topic.jpg" style="width:80%;"> 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/">Dutch Burghers in British Malaya</a>
 
  <p>A murder mystery sheds light on the little-known story of the Ceylonese pioneers from the Dutch Burgher community who joined the subordinate government ranks in British Malaya</p> 
