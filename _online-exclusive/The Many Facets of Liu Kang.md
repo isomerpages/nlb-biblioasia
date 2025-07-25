@@ -126,7 +126,7 @@ The longevity of Liu Kang, who passed away in 2004 at age 92, his wide social ne
 
 #### **Notes**
 
-[^1]:  “[Bali – By 4 Chinese Artists,](https:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19531110-1.2.50)”&nbsp;_Straits Times_, 10 November 1953, 2. (From NewspaperSG)
+[^1]:  “[Bali – By 4 Chinese Artists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19531110-1.2.50)", _Straits Times_, 10 November 1953, 2. (From NewspaperSG)
 
 [^2]:  “Hua sha mowei luzhou” [化沙漠爲綠洲](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531110-1.2.11.1) \[Oasis at the end of the desert\], _Nanyang Siang Pau_ 南洋商报, 10 November 1953, 1. (From NewspaperSG)
 
