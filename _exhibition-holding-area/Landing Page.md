@@ -4,8 +4,6 @@ permalink: /holding-area/chinese-reading-clubs/landing-page-english-text/
 variant: markdown
 description: ""
 ---
-
-
 新加坡华文读书会在本地华文阅读的推广中扮演着举足轻重的角色。本展将从过去、现在和未来三个维度介绍新加坡华文读书会的成长、现状和发展趋势。
 
 本展有华文和英文版，点击浏览[英文版](https://biblioasia.nlb.gov.sg/chinese-reading-clubs-english-text/)。
