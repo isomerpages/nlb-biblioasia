@@ -1113,4 +1113,14 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
       image: /images/Vol 21 Issue 2/PS Teo/karang_guni_topic.jpg
       alt: P.S. Teo and Ronni Pinsler
+  - infopic:
+      title: Excavating the Past
+      subtitle: People
+      id: infopic
+      description: Writing a memoir involves personal experiences, digging deep into
+        our memories and the emphasis on factual information.
+      button: Challenges of Memoir Writing
+      url: /vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/
+      image: /images/Vol 21 Issue 3/Excavating the Past/Excavating_Topic.png
+      alt: Excavating the Past
 ---
