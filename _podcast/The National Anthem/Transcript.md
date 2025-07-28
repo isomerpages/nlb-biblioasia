@@ -822,32 +822,20 @@ don’t do architecture.</p>
 All the contractors will take advantage of you and swindle you. So with
 that, I couldn’t challenge it as I gave it up. I gave up, I went to the
 University of Singapore to do physics.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, that’s. That’s amazing.</p>
-<p></p>
+<br>Okay, that’s. That’s amazing.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I met Ong Teng Cheong and Mrs Ong, you know. Maybe I would have worked
+<br>I met Ong Teng Cheong and Mrs Ong, you know. Maybe I would have worked
 for them. Because they were there.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>At about the same time?</p>
-<p></p>
+<br>At about the same time?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>About around the same time. Yeah.</p>
-<p></p>
+<br>About around the same time. Yeah.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Yeah. You could, you could well you know, even though you were not
+<br>Okay. Yeah. You could, you could well you know, even though you were not
 an architect, you built a lot of other things. You helped found the SSO.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>The SSO of course I’ve written about it in more than one article, but
+<br>The SSO of course I’ve written about it in more than one article, but
 basically I was lucky to be around. I mean, the story is complicated because
 it involved an orchestra. It was the Singapore Philharmonic Orchestra,
 which spurred Dr Goh Keng Swee to say this is time to do our own orchestra.
@@ -855,86 +843,56 @@ And he called Mr Tan Boon Teik who was chairman of the youth orchestra.
 And I think the conversation went something like this. Yeah. Let’s do it
 this time. And Goh Keng Swee says, “Hey, we need some young guy to do all
 the running around for us. You know?”</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And you were that?</p>
-<p></p>
+<br>And you were that?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Tan Boon Teik said I know just one guy. Sometime in October, I got a phone
+<br>Tan Boon Teik said I know just one guy. Sometime in October, I got a phone
 call. Me. Just a young lecturer. Go to the DPM office. You know, and then
 when I was waiting outside of the DPM’s office to come out. It was at MINDEF
 you know?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>So the SSO was founded at MINDEF.</p>
-<p></p>
+<br>So the SSO was founded at MINDEF.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Who came out of his office was S.R. Nathan, who was then director of SID.
+<br>Who came out of his office was S.R. Nathan, who was then director of SID.
 Who are you? I’m in the physics department. Why do you want to see Dr Goh?
 I said I haven’t had the faintest idea.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, really? You didn’t know why you had someone.</p>
-<p></p>
+<br>Oh, really? You didn’t know why you had someone.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>He wasn’t coming out of the office. He was coming in, he had an appointment
+<br>He wasn’t coming out of the office. He was coming in, he had an appointment
 before me. So he went into the office and came out many, many years later
 when he was giving a farewell lunch for the SSO as they were departing
 for some foreign tour.</p>
-<p></p>
 <p>He said, I tell you all the story that day when I met Bernard at the office,
 he doesn’t know this. But when I went in and I told Dr Goh this guy, Bernard
 Tan, was waiting for you. “Oh, he doesn’t know what I got in store for
 him.” That’s from S.R. Nathan, I cannot prove the veracity of this.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But it must have been very worrying to be summoned to the office.</p>
-<p></p>
+<br>But it must have been very worrying to be summoned to the office.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Actually by the time I was in his seat, waiting for him, I more or less
+<br>Actually by the time I was in his seat, waiting for him, I more or less
 figured out that it was going to be about the SSO. I worked closely with
 Boon Teik at that time.</p>
-<p></p>
 <p>So I figured it out. Then as in my article that I have written, he asked
 me the three questions, “Is it time that we start an orchestra?” Now, with
 Dr Goh, you cannot say “Maybe”, “I don’t know”, all that. Yes or no? I
 said yes.</p>
-<p></p>
 <p>“Who is going to conduct the orchestra?” I was ready, “Choo Hoey. He’s
 in Belgium.”</p>
-<p></p>
 <p>“Where are we going to house the orchestra?”</p>
-<p></p>
 <p>I was ready. “We can renovate the Victoria Memorial Hall. So those three
 questions ultimately led to SSO.”</p>
-<p></p>
 <p>What actually happened was the orchestra put him in something called the
 Singapore Philharmonic Orchestra conducted by a Japanese conductor. This
 is a whole different story. Maybe I’ll tell it one day.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>For <em>BiblioAsia</em>.</p>
-<p></p>
+<br>For <em>BiblioAsia</em>.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Oh, maybe, maybe we may. But maybe sealed for 50 years.</p>
-<p></p>
+<br>Oh, maybe, maybe we may. But maybe sealed for 50 years.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, okay. Okay.</p>
-<p></p>
+<br>Oh, okay. Okay.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>This guy had spurred Dr Goh to tell Tan Boon Teik. Hey, we must do something
+<br>This guy had spurred Dr Goh to tell Tan Boon Teik. Hey, we must do something
 about this, you know, set up an orchestra.</p>
 <p></p>
 <p><strong>Jimmy</strong>
