@@ -46,90 +46,64 @@ a retired professor of physics, a well-known composer, and is also the
 man who helped found the Singapore Symphony Orchestra. For reasons that
 shall become clear later on, we’re recording this podcast in Prof Tan’s
 living room.</p>
-<p></p>
 <p>Thank you for inviting us into your lovely home and hosting us today,
 Prof. How are you?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Thank you, Jimmy. Welcome to my humble abode. I’m honoured to be doing
+<br>Thank you, Jimmy. Welcome to my humble abode. I’m honoured to be doing
 this podcast about “Majulah Singapura”, something which has sort of occupied
 my attention for a lot of years, dating back to 1958, when I was a Form
 4 schoolboy, you know.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s, I have to say, when I first read your piece and unfortunately you
+<br>It’s, I have to say, when I first read your piece and unfortunately you
 didn’t write it for <em>BiblioAsia</em>, but you wrote it for a different
 publication about the history of “Majulah Singapura”. I was immediately
 taken by it because there’s such an amazing story behind it, right? And
 I think that a lot of people don’t actually know that.</p>
-<p></p>
 <p>As a schoolboy growing up, you think this is just a song that we sing,
 but it was actually not meant to be a national anthem to begin with, it
 wasn’t even a state anthem. Right. You want to tell us a little bit about
 that? The history of how it came about?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Well, I can remember the old Victoria Theatre. As it was before that renovation,
+<br>Well, I can remember the old Victoria Theatre. As it was before that renovation,
 which was a much smaller theatre, 500 seats. Well, in the late 1950s, by
 1957–58, the city council, there was a city council long ago who were in
 charge of the Victoria Theatre, decided to do a major renovation. So the
 major renovation of the property gutted out the old theatre and made a
 bigger theatre seating, more than 900 seats.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s quite a big jump then.</p>
-<p></p>
+<br>That’s quite a big jump then.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>You know, it’s quite a big jump. Ironically, the more recent renovation
+<br>You know, it’s quite a big jump. Ironically, the more recent renovation
 a number of years ago brought the numbers down back to closer to the original.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, that’s so interesting.</p>
-<p></p>
+<br>Oh, that’s so interesting.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>It becomes more intimate theatre, actually. Well anyway, Zubir Said by
+<br>It becomes more intimate theatre, actually. Well anyway, Zubir Said by
 that time had become quite a well-known composer. So the city council wanted
 to have a song for the reopening of the theatre in late 1958. The motto
 of the city council then was “Majulah Singapura”, which is still our motto.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, I didn’t know that was the motto for the city council.</p>
-<p></p>
+<br>Oh, I didn’t know that was the motto for the city council.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>In fact, somewhere around you can find the arms of the city council with
+<br>In fact, somewhere around you can find the arms of the city council with
 this motto there. So, they thought of having a special song based on this
 motto. Someone thought of Zubir Said, and they wrote to him. He replied
 immediately. And, I think trying to reconstruct the events, he actually
 wrote in frivolous speed because he replied to them with a score less than
 two weeks after he was asked.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, that’s amazing.</p>
-<p></p>
+<br>Okay, that’s amazing.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Now this score, which still exists, at least in copy form, shows that
+<br>Now this score, which still exists, at least in copy form, shows that
 it is a verse plus a chorus, a verse of 16 bars, a chorus of eight bars,
 repeated, repeated. So it’s 16. 16. Quite good symmetry. We have a copy
 of that score because in the City Council archives, the then superintendent
 of the authority was Mr Yap.</p>
-<p></p>
 <p>He wrote to all the participants in the concert saying you’ve got to learn
 this new song. So send his score along with you know, many people had not
 even looked at this score. But later on when I looked at the score, I suspected
 it might have been in Zubir Said’s handwriting, and later on I was able
 to show fairly conclusively that it was Zubir Said’s handwriting.</p>
-<p></p>
 <p>So, it was the original score. Anyway, what happened was that the concert
 took place, I think it was November 1958 or something like that. And then
 Singapore got self-government in 1959. Okay. So the government, the PAP
@@ -137,27 +111,18 @@ Singapore got self-government in 1959. Okay. So the government, the PAP
 but for the national symbols, the pledge, the crest and the national anthem.
 And Dr Toh Chin Chye, who happened to be my boss at NUS [National University
 of Singapore] long ago.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>He was a chancellor at the time, right?</p>
-<p></p>
+<br>He was a chancellor at the time, right?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>He was. No, he was the Deputy Prime Minister at the time.</p>
-<p></p>
+<br>He was. No, he was the Deputy Prime Minister at the time.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, okay. Okay.</p>
-<p></p>
+<br>Oh, okay. Okay.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>He was tasked with the job of looking at creating all these national symbols.
+<br>He was tasked with the job of looking at creating all these national symbols.
 But someone told him that you know, the city council has already got a
 song which may be suitable. And so he called up Zubir Said, listened to
 the song and said, yeah, it’s okay. But he must have thought at the time
 that the song was a bit too long.</p>
-<p></p>
 <p>My suspicion was that he thought that for non-Malay speakers to memorise
 such a long Malay verse would have been difficult. So he told Zubir Said,
 can you please shorten the song before we make it into the national anthem.
@@ -170,42 +135,29 @@ Singapura’ the national anthem?” or this was a state anthem at the time.
 So he got a copy of it and saw it indeed had been shortened but done by
 somebody else and done in a way which he didn’t approve of because musically,
 it was a bit clumsy.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. Okay.</p>
-<p></p>
+<br>Right. Okay.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>So he wrote a really angry letter to S. Rajaratnam, and we know this is
+<br>So he wrote a really angry letter to S. Rajaratnam, and we know this is
 true because Zubir’s daughter Rohana retells all of this with the words
 of the letter in <a href="https://catalogue.nlb.gov.sg/search/card?recordId=14540511" rel="noopener noreferrer nofollow" target="_blank">a book on her father</a>.
 So thankfully, what happened was the bill was withdrawn.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, you mean the bill was withdrawn?</p>
-<p></p>
+<br>Oh, you mean the bill was withdrawn?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yeah, the bill was withdrawn. Well, as far as I know, the bill was withdrawn.
+<br>Yeah, the bill was withdrawn. Well, as far as I know, the bill was withdrawn.
 And a couple of months later, we know that the actual bill was passed with
 Zubir Said’s approved shortening. And that is an interesting history you
 know, the unapproved shortening. Now, I was sort of a secondary school
 boy at the time, but the government had decided to issue little, little
 cards with the national anthem to the school kids and to the public.</p>
-<p></p>
 <p>And you know something? I don’t know whether this is a fake memory, but
 I can remember looking at a version of the song, which is not today’s National
 Anthem. In other words, unapproved.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, if they distribute. You think you seem to.</p>
-<p></p>
+<br>Oh, if they distribute. You think you seem to.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I think I’ve seen it, but I have searched high and low on my house. And
+<br>I think I’ve seen it, but I have searched high and low on my house. And
 I found copies of the card with the approved version. Right. I’m trying
 to find out whether someone has got it because I think it exists. So anyway,
 once it was approved and all that official recordings were made, Zubir
@@ -213,80 +165,51 @@ Said wrote in his own handwriting a handwritten copy of the official version
 of the shortening with piano accompaniment and all of that sort of thing.
 And that was the one issued as a card to all the school kids in the public
 later.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I wonder if you could, you know, play us these three different versions.
+<br>I wonder if you could, you know, play us these three different versions.
 And, you know, maybe annotate it.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Annotate it over. Okay. I will try to do that. Now, the original version.
+<br>Annotate it over. Okay. I will try to do that. Now, the original version.
 And I’m just going to play the 16-bar verse because the chorus is the same
 for all of them. Okay. So here in my bad piano playing is the original
 version.</p>
-<p></p>
 <p>[Music playing]</p>
-<p></p>
 <p>Okay. Those are the 16 bars.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, that’s very interesting.</p>
-<p></p>
+<br>Oh, that’s very interesting.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>The method of shortening this was to cut out eight bars. Eight bars would
+<br>The method of shortening this was to cut out eight bars. Eight bars would
 still have been symmetrical with the chorus and eight-bar phrases [are]
 musically standard. Okay. Now the version which was shortened without Zubir
 Said’s approval took out eight bars, but took out eight bars in a different
 way from what he was going to do later.</p>
-<p></p>
 <p>Here is the unapproved version as I remember it.</p>
-<p></p>
 <p>[Music playing]</p>
-<p></p>
 <p>Now, you listen carefully to that. You know that it’s not the current.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s not current. And I’m not a musician by any stretch of imagination.
+<br>It’s not current. And I’m not a musician by any stretch of imagination.
 So what would be the problem?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Okay, fair enough. Which eight bars are to be removed. Now the removal
+<br>Okay, fair enough. Which eight bars are to be removed. Now the removal
 of the eight bars in the middle of it goes like this.</p>
-<p></p>
 <p>[Music playing]</p>
-<p></p>
 <p>Then transits to this.</p>
-<p></p>
 <p>[Music playing]</p>
-<p></p>
 <p>Now, musically it is not incorrect. But in the balance of a phrase, it’s
 almost like someone wrote a paragraph and cut out the key parts of the
 paragraph and at the ending of the paragraph goes a certain way, and you
 don’t know why it goes that way.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>There’s no logic.</p>
-<p></p>
+<br>There’s no logic.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>There’s no logic to it. Something is missing. Zubir’s version which we
+<br>There’s no logic to it. Something is missing. Zubir’s version which we
 all know took out eight bars. But of course, I can play this even though
 you’d know this very well. It sounds so much more natural.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. It does. I mean, I don’t know if it’s because of the version I always
+<br>Yeah. It does. I mean, I don’t know if it’s because of the version I always
 hear.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>You wouldn’t guess it had been shortened, actually. Right?</p>
+<br>You wouldn’t guess it had been shortened, actually. Right?</p>
 <p></p>
 <p><strong>Jimmy</strong>
 </p>
@@ -1917,9 +1840,8 @@ more or to learn more about the national anthem, “Majulah Singapura” and
 about national anthems in general.</p>
 <p></p>
 <p>You have to read <a rel="noopener noreferrer nofollow" target="_blank">Bernard </a>Tan’s
-piece, which will be on the <em>BiblioAsia</em> website, at <a rel="noopener noreferrer nofollow" target="_blank">BiblioAsia.nlb.gov.sg</a>.
-Prof, thank you very much. We await your harmonica concerto, with bated
-breath.</p>
+piece, which will be on the <em>BiblioAsia</em> website, at <a rel="noopener noreferrer nofollow" target="_blank">BiblioAsia.nlb.gov.sg</a>. Prof, thank
+you very much. We await your harmonica concerto, with bated breath.</p>
 <p></p>
 <p><strong>Bernard</strong>
 </p>
