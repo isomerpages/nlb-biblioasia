@@ -69,7 +69,7 @@ Inc.).</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by Doppler Soundlab. The background
-music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;
+music "Di Tanjong Katong" was composed by Ahmad Patek and performed by&nbsp;
 <a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank">Chords Haven</a>. Special thanks to Tracey for coming on the show.</p>
 </div>
 </details>
