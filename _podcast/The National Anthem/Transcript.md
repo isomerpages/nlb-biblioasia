@@ -588,344 +588,207 @@ but it would be sort of very not so neat.</p>
 <br>I feel like “The Star-Spangled Banner” is very hard to sing because the
 notes are very high. But they have never said, okay, let’s lower it so
 that everybody can sing.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p></p>
+<br>Right.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>So everyone struggles with the middle part which is impossibly high.</p>
-<p></p>
+<br>So everyone struggles with the middle part which is impossibly high.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>There’ve been a number of different arrangements of “Majulah Singapura”
+<br>There’ve been a number of different arrangements of “Majulah Singapura”
 besides the orchestral one. And I think one mildly controversial one was
 by Ramli Sarip in 2019 and something like that. Right? Dr Rohana.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>She didn’t like it, I think.</p>
-<p></p>
+<br>She didn’t like it, I think.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I mean, obviously, it’s her father’s work. Obviously, she’s very upset
+<br>I mean, obviously, it’s her father’s work. Obviously, she’s very upset
 with anyone sort of mucking around with it. But you know, what for you
 is your own take on the different arrangements or.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Ramli’s performance was simply a solo voice, no instruments, nothing.
+<br>Ramli’s performance was simply a solo voice, no instruments, nothing.
 So in that, in a way, he had a little bit more freedom with the, first
 of all, with the timing, he could stretch his phrases.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s right. Yes, yes.</p>
-<p></p>
+<br>That’s right. Yes, yes.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Secondly, he could sort of… Let’s say a note that could have been held.
+<br>Secondly, he could sort of… Let’s say a note that could have been held.
 He could make it a little different here and there. It was a very, very
 personal interpretation.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It was, wasn’t it?</p>
-<p></p>
+<br>It was, wasn’t it?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Very personal.</p>
-<p></p>
+<br>Very personal.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Very powerful in that way</p>
-<p></p>
+<br>Very powerful in that way</p>
 <p><strong>Bernard</strong>
-</p>
-<p>But when I heard it, I was actually quite moved by it. Because there’s
+<br>But when I heard it, I was actually quite moved by it. Because there’s
 no question that Ramli sang it with deep feeling and love.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Absolutely.</p>
-<p></p>
+<br>Absolutely.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>So while it may not have been something that could be used in an official
+<br>So while it may not have been something that could be used in an official
 occasion, it is still a valid performance of “Majulah Singapura”. And you
 know, going back to “The Star-Spangled Banner”, you know that they played,
 they have this big football thing.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes.</p>
-<p></p>
+<br>Yes.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>And of course, some of the performances have been very controversial.
+<br>And of course, some of the performances have been very controversial.
 Also likely sang in the same way as well, but Ramli did not do violence
 to the “Majulah Singapura”.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>No, no, I think it was very popular.</p>
-<p></p>
+<br>No, no, I think it was very popular.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>It was popular and in fact, as I said, I was supposedly quite touched
+<br>It was popular and in fact, as I said, I was supposedly quite touched
 and moved by his performance because it was very deeply felt.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You could definitely feel that, you could feel that, very personal, very
+<br>You could definitely feel that, you could feel that, very personal, very
 heartfelt.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>That’s great.</p>
-<p></p>
+<br>That’s great.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. That’s it. I was actually very moved as well. We won’t say how old
+<br>Yeah. That’s it. I was actually very moved as well. We won’t say how old
 you are, but actually to be honest, you look very young.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Oh, don’t worry, I can tell you I don’t mind. I’m 82 this year.</p>
-<p></p>
+<br>Oh, don’t worry, I can tell you I don’t mind. I’m 82 this year.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>82! I have to say, Professor, I remember when I was an undergraduate,
+<br>82! I have to say, Professor, I remember when I was an undergraduate,
 and I would. I don’t want to say how many decades ago, but you know, some
 decades ago, and I remember you were the dean of science at the time. And
 I have to say, in my memory, you don’t look very different from those many
 decades ago.</p>
-<p></p>
 <p>Oh, so, you know, you obviously have been drinking at the Fountain of
 Youth.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Well, I still get people who remember me in the science and industry quiz.</p>
-<p></p>
+<br>Well, I still get people who remember me in the science and industry quiz.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, in the 60s.</p>
-<p></p>
+<br>Oh, in the 60s.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>That was on TV.</p>
-<p></p>
+<br>That was on TV.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, yeah. This is why TV is so powerful. That’s right. You’ve lived
+<br>Yeah, yeah. This is why TV is so powerful. That’s right. You’ve lived
 through a number of different national anthems, right? Right. I think when
 you were born, you were born during the Second World War?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>It would have been “Kimigayo”, the Japanese anthem, which I can’t remember
+<br>It would have been “Kimigayo”, the Japanese anthem, which I can’t remember
 to tell you the truth.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Of course you were. You were too young.</p>
-<p></p>
+<br>Of course you were. You were too young.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>But of course, for many years, “God Save the Queen”.</p>
-<p></p>
+<br>But of course, for many years, “God Save the Queen”.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>After that it would be “Negaraku”.</p>
-<p></p>
+<br>After that it would be “Negaraku”.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Would have been, 1957. Sorry. The years as an independent, self-governing
+<br>Would have been, 1957. Sorry. The years as an independent, self-governing
 body were 1959 to 1963.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes.</p>
-<p></p>
+<br>Yes.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>“Majulah Singapura” would have been the state anthem. From 1963 to 1965,
+<br>“Majulah Singapura” would have been the state anthem. From 1963 to 1965,
 the national anthem was “Negaraku”. But I suppose legally, “Majulah Singapura”
 would still be the state anthem.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, it would be right? Actually that is quite interesting. Right. All
+<br>Yeah, it would be right? Actually that is quite interesting. Right. All
 these anthems actually have a very different origin, you know, very few
 anthems written apparently as an anthem.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Very few, correct.</p>
-<p></p>
+<br>Very few, correct.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And so actually “Negaraku” is also very interesting because it started
+<br>And so actually “Negaraku” is also very interesting because it started
 as the Perlis state anthem.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>I think Perak state anthem.</p>
-<p></p>
+<br>I think Perak state anthem.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And it was the state anthem anyway. Before it was a state anthem, it was
+<br>And it was the state anthem anyway. Before it was a state anthem, it was
 inspired by a French love song from the 19th century.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Right. So the various versions of this, one of the versions. I know it’s
+<br>Right. So the various versions of this, one of the versions. I know it’s
 in the book by Malaysian composer, Saidah Rastam. The book is <em><a href="https://catalogue.nlb.gov.sg/search/card?id=5aebc594-2942-5abc-93bd-e63c95c12830&amp;entityType=FormatGroup" rel="noopener noreferrer nofollow" target="_blank">Rosalie and Other Love Songs</a></em>.
 It is a great book. Okay. This version which I heard was that the then
 Sultan of Perak in the 19th century had been exiled to the Seychelles because
 of some misdemeanor.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Not a bad place to be exiled.</p>
-<p></p>
+<br>Not a bad place to be exiled.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yeah, no, but an emissary arrives from Queen Victoria’s court and says,
+<br>Yeah, no, but an emissary arrives from Queen Victoria’s court and says,
 the Queen would like to have you for tea. Okay, so he goes to Britain.
 No, some of the stories here that he then asked, we got to play your state
 anthem. What is it? And then this version of the story has his son, who’s
 present, quickly hums this tune.</p>
-<p></p>
 <p>Rosalie hears from the streets of Seychelles, and he tells them this is
 the state anthem. Then some of the versions of the story have this happening
 only after he arrives in the UK. But anyway, the interesting thing is that
 that tune called Rosalie was very, very popular in French chanson. So there’s
 some dispute as to who is the composer but no question that it was a French
 song popular on the streets of Seychelles. Know what it is?</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right? Right, right.</p>
-<p></p>
+<br>Right? Right, right.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Then after that, they were adopted as the Perak state anthem, which it
+<br>Then after that, they were adopted as the Perak state anthem, which it
 is to this day.</p>
-<p></p>
 <p>And then what happens?</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>With the same, with the same words?</p>
-<p></p>
+<br>With the same, with the same words?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Different. I don’t know what the words are but it cannot be “Negaraku”.</p>
-<p></p>
+<br>Different. I don’t know what the words are but it cannot be “Negaraku”.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It cannot be “Negaraku”.</p>
-<p></p>
+<br>It cannot be “Negaraku”.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>And after that, the tune has a life of its own. It becomes a popular Malay
+<br>And after that, the tune has a life of its own. It becomes a popular Malay
 song, love song, “Terang Bulan”.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>“Terang Bulan”, right?</p>
-<p></p>
+<br>“Terang Bulan”, right?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I mean, that song is so popular that it has a Mandarin version and a Japanese
+<br>I mean, that song is so popular that it has a Mandarin version and a Japanese
 version.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Cantonese version?</p>
-<p></p>
+<br>Cantonese version?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Mandarin and Japanese.</p>
-<p></p>
+<br>Mandarin and Japanese.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, Mandarin and Japanese.</p>
-<p></p>
+<br>Oh, Mandarin and Japanese.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>And it became a very popular tune, very well known within the region.</p>
-<p></p>
+<br>And it became a very popular tune, very well known within the region.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And this is before it becomes adopted as the national anthem.</p>
-<p></p>
+<br>And this is before it becomes adopted as the national anthem.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Well before that.</p>
-<p></p>
+<br>Well before that.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p></p>
+<br>Right.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Then when Malaysia got independence in 1957, Tunku Abdul Rahman says,
+<br>Then when Malaysia got independence in 1957, Tunku Abdul Rahman says,
 we have got to choose the national anthem. So he institutes a worldwide
 search. You know, he’s got a competition. I don’t know what to know, whether
 it’s actually a competition or just a search.</p>
-<p></p>
 <p>When I was doing the research for this thing, to my surprise, two eminent
 British composers, Benjamin Britten and William Walton, had actually sent
 their own versions. And I would love to hear what they said. I even never
 heard it. But those versions were not accepted. And then someone says,
 you know, the Perak state anthem is very nice.</p>
-<p></p>
 <p>Why don’t you use it and listen through? Then you decide to use it with
 different words. And after that, all other versions not “Negaraku” are
 banned. “Terang Bulan” can never be sung as “Terang Bulan”.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, I see.</p>
-<p></p>
+<br>Oh, I see.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Not in Malaysia, at least.</p>
-<p></p>
+<br>Not in Malaysia, at least.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Of course.</p>
-<p></p>
+<br>Of course.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I’m old enough to know “Terang Bulan”. Yeah. Because it is a very well-known
+<br>I’m old enough to know “Terang Bulan”. Yeah. Because it is a very well-known
 song. It’s one of the most popular Malay songs of that year in the 50s.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You have had such a long career as a composer, as a professor of physics,
+<br>You have had such a long career as a composer, as a professor of physics,
 and serving on the board. How do you bring all these things together?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Very difficult because very difficult to explain this, because like thousands
+<br>Very difficult because very difficult to explain this, because like thousands
 of other young Singaporeans, but I was, shall I say, forced to learn the
 piano. So we learn the piano and all that sort of thing. And of course,
 thank god to my mother for forcing me to learn that. Right. And, but I
 never thought of music as a career because I knew I was not all that standard
 to make it.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>As a performer, you mean?</p>
-<p></p>
+<br>As a performer, you mean?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>As a performer or anything else.</p>
+<br>As a performer or anything else.</p>
 <p></p>
 <p><strong>Jimmy</strong>
 </p>
