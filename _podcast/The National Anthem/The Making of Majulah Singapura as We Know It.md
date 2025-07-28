@@ -18,13 +18,33 @@ versions differ on his piano.&nbsp;
 <br>
 </p>
 <p></p>
-<h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png">
+</div>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Prof Tan Talked About</strong></h4>
-<p></p>
-<p></p>
+<p>00:52 – Brief history of Singapore’s national anthem
+<br>04:33 – Zubir Said’s composition of "Majulah Singapura" for Victoria Theatre
+<br>07:50 – Adoption of the anthem and its unauthorised shortening
+<br>11:53 – Comparison of different versions of the anthem
+<br>15:44 – How Prof Tan verified Zubir Said’s original manuscript
+<br>21:43 – Fanfare introduction and early concert arrangements
+<br>25:08 – Recording and performances at national events and parades
+<br>28:17 – Government-led initiative to reorchestrate the anthem
+<br>31:12 – Lowering the anthem’s key from G major to F major
+<br>34:24 – Military band considerations and key signature decisions
+<br>37:28 – Lee Kuan Yew’s input on the anthem
+<br>40:31 – Zubir Said’s versatility and legacy beyond the anthem
+<br>43:30 – Preservation of early scores and access through archives
+<br>46:26 – Insights into musical phrasing and national identity
+<br>52:30 – Making the anthem singable and inclusive
+<br>55:24 – Role of music in civic pride and national consciousness
+<br>58:34 – Recollections from school days and early arrangements
+<br>01:01:18 – Music, memory and cultural preservation</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About the Guest</summary>
