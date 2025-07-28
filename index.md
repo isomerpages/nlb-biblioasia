@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Kung Tian/HeroImage_KungTian.jpg
       variant: center
   - infopic:
+      title: A Peek at the Audio-Visual Archives
+      subtitle: Film and Photography
+      id: infopic
+      description: The National Archives of Singapore has been safeguarding
+        Singapore’s rich audiovisual legacy for the last 30 years.
+      button: PRESERVING OUR AUDIOVISUAL HERITAGE
+      url: /vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/
+      image: /images/Vol 21 Issue 2/Audiovisual/visual_main2.jpg
+      alt: Audio-Visual Archives
+  - infopic:
       title: The Many Facets of Liu Kang
       subtitle: People
       id: infopic
@@ -1092,16 +1102,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: A Peek at the Audio-Visual Archives
-      subtitle: Film and Photography
-      id: infopic
-      description: The National Archives of Singapore has been safeguarding
-        Singapore’s rich audiovisual legacy for the last 30 years.
-      button: PRESERVING OUR AUDIOVISUAL HERITAGE
-      url: /vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/
-      image: /images/Vol 21 Issue 2/Audiovisual/visual_main2.jpg
-      alt: Audio-Visual Archives
   - infopic:
       title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
       subtitle: Film and Photography
