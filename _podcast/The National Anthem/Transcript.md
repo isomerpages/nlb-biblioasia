@@ -894,14 +894,10 @@ is a whole different story. Maybe I’ll tell it one day.</p>
 <p><strong>Bernard</strong>
 <br>This guy had spurred Dr Goh to tell Tan Boon Teik. Hey, we must do something
 about this, you know, set up an orchestra.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So how did he spur Dr Goh to [set up an orchestra]?</p>
-<p></p>
+<br>So how did he spur Dr Goh to [set up an orchestra]?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>He had done a number of things, telling Japanese companies what not, me
+<br>He had done a number of things, telling Japanese companies what not, me
 claiming to have been given the blessing of Dr Goh, which of course is
 true, eventually reached Dr Goh’s ears and he felt he had to do something
 about it. That’s why I thank this guy who was spurring [things on] because
@@ -912,44 +908,27 @@ think it didn’t fly because the plans were a bit too grandiose. Okay, so
 this Dr Goh said we got to start small. We started the 37. Not the full
 symphony orchestra, started with 37 musicians and I remember I was home,
 I think.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>One day, I got a call from Dr Goh. “Hey, Bernard, give me a budget for
+<br>One day, I got a call from Dr Goh. “Hey, Bernard, give me a budget for
 the SSO tomorrow morning, 9 am.”</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh my god.</p>
-<p></p>
+<br>Oh my god.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>What do I know about the budget?</p>
-<p></p>
+<br>What do I know about the budget?</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh my god.</p>
-<p></p>
+<br>Oh my god.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>So the first thing is how to figure out the expenditure, the most important
+<br>So the first thing is how to figure out the expenditure, the most important
 musicians’ salaries. I think what I did was okay, Choo Hoey’s salary I
 could do. I think he’s like a professor. So give him a professor’s salary.
 The musicians are professionals, like engineers. Look up.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh okay.</p>
-<p></p>
+<br>Oh okay.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Engineer’s pay. That actually happened and it came out to be about a million
+<br>Engineer’s pay. That actually happened and it came out to be about a million
 Singapore dollars.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. And were you in the ballpark?</p>
-<p></p>
+<br>Okay. And were you in the ballpark?</p>
 <p><strong>Bernard</strong>
 </p>
 <p>Yeah. He said it was okay. Okay. See, that was okay. Of course there’s
@@ -960,180 +939,111 @@ his signature, the only one I can find bearing his signature, in which
 he scolds me for. And implying to Choo Hoey that we [make] lots of money
 and all that sort of thing. And that letter was the one that the National
 Museum exhibited.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Dr Goh was famously tight-fisted, right?</p>
-<p></p>
+<br>Dr Goh was famously tight-fisted, right?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>He was famous for scolding people. Anyway, bless his soul.</p>
-<p></p>
+<br>He was famous for scolding people. Anyway, bless his soul.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>No, but he was such a remarkable person, right? A man of incredible vision.</p>
-<p></p>
+<br>No, but he was such a remarkable person, right? A man of incredible vision.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>It was a privilege for me to have done something for him even though it
+<br>It was a privilege for me to have done something for him even though it
 was through SSO.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. So, now you are 80-what years old?</p>
-<p></p>
+<br>Right. So, now you are 80-what years old?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>This year, it will be 82 in a few months.</p>
-<p></p>
+<br>This year, it will be 82 in a few months.</p>
+<p><strong>Jimmy|</strong>
+<br>And you’re still teaching at NUS.</p>
+<p><strong>Bernard</strong>
+<br>I’m still teaching one course per semester.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And you’re still teaching at NUS.</p>
-<p></p>
+<br>That’s amazing.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I’m still teaching one course per semester.</p>
-<p></p>
-<p><strong>Jimmy</strong>
-</p>
-<p>That’s amazing.</p>
-<p></p>
-<p><strong>Bernard</strong>
-</p>
-<p>And the course I’m teaching is something I’ve been teaching for the last
+<br>And the course I’m teaching is something I’ve been teaching for the last
 25 years. It’s called the Science of Music.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, that’s really interesting.</p>
-<p></p>
+<br>Oh, that’s really interesting.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>It was a well-known course, because anybody can take it. Now, I think
+<br>It was a well-known course, because anybody can take it. Now, I think
 you have to be in the College of Humanities and Science, and then you’ve
 got to have some prerequisite. But for 20 years I taught it with no prerequisites.
 It was what they called a module that anybody could take to fulfil your
 other requirements. And in the course I talk about science, the scientific
 foundations, music, how skills are created, why musical instruments sound
 different from each other. And then I talk about electronic music and all.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Is it very popular? I’m sure it must be very popular.</p>
-<p></p>
+<br>Is it very popular? I’m sure it must be very popular.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I capped it at 200 students. In fact, when I first started it in 1999
+<br>I capped it at 200 students. In fact, when I first started it in 1999
 or 2000, like 400 students every semester and I gave two projects, and
 the projects are such that I cannot share the marking. So every year I
 marked 1,000 projects.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, my god.</p>
-<p></p>
+<br>Oh, my god.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>One project was to attend a concert and give me a review.</p>
-<p></p>
+<br>One project was to attend a concert and give me a review.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p></p>
+<br>Okay.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>And I have an ulterior motive for that, because I want to make sure these
+<br>And I have an ulterior motive for that, because I want to make sure these
 guys attend one concert in their whole lifetime.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>All right, okay.</p>
-<p></p>
+<br>All right, okay.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>In fact, that’s very useful for me because even today when I read their
+<br>In fact, that’s very useful for me because even today when I read their
 essays, wow I learn a lot about K-pop. This and that, it’s so. I mean an
 80-year-old guy. I can keep abreast of things happening. And the other
 project is, they have to use a programme to create a piece of music. It’s
 a composition project.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, right.</p>
-<p></p>
+<br>Oh, right.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>And it’s very interesting because I find that even though you don’t know
+<br>And it’s very interesting because I find that even though you don’t know
 music, you can still create something which is not nonsense. It may not
 be Beethoven, but it still makes some sense, you know? So I still do this,
 every semester.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. You sound very animated when you talk about. So it obviously must,
+<br>Okay. You sound very animated when you talk about. So it obviously must,
 must, must give you a lot of joy. Maybe not the marking.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Well, even the marking, while it’s tedious. I learned a lot of interesting
+<br>Well, even the marking, while it’s tedious. I learned a lot of interesting
 things from the concert reviews and listening to their music. It’s quite
 interesting. You know what? Some of the best pieces that people will send
 me must have come from actual musicians, obviously students. But some of
 them are really very good.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Are you a K-pop fan as a result of this?</p>
-<p></p>
+<br>Are you a K-pop fan as a result of this?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Am I a K-pop fan? I must be honest and say I don’t think so. No, not yet.</p>
-<p></p>
+<br>Am I a K-pop fan? I must be honest and say I don’t think so. No, not yet.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Not yet.</p>
-<p></p>
+<br>Not yet.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>But it’s not only K-pop. They tell me about all of the visiting artists
+<br>But it’s not only K-pop. They tell me about all of the visiting artists
 who come and do pop concerts. So it helps you to keep up the rest of what’s
 going on.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You’ve likened scientific research to writing music. How is that?</p>
-<p></p>
+<br>You’ve likened scientific research to writing music. How is that?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>It’s through the definition of creativity, creativity in writing music,
+<br>It’s through the definition of creativity, creativity in writing music,
 like painting and all that. We understand this, right? It’s a kind of innovation
 to draw things in you. You re-synthesise things. But scientific research
 is not often thought of as a creative process. But let me tell you, more
 scientists think of scientific research as creative process because you
 have to resynthesise existing theories and have new explanations</p>
-<p></p>
 <p>It is my belief that the creative impulse in scientific research is no
 different from that in the artistic.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. So it’s just an expression.</p>
-<p></p>
+<br>Right. So it’s just an expression.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>It’s an expression of the same emotive drive. I’m very convinced of this.
+<br>It’s an expression of the same emotive drive. I’m very convinced of this.
 That’s why I think that when you want to encourage creativity, you can
 do it in so many ways. In fact, for like five or six years, I ran an interdisciplinary
 seminar called creativity in the arts, science and technology and we had
 a lot of guest speakers, composers, artists, scientists coming to talk.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, it sounds very interesting.</p>
-<p></p>
+<br>Oh, it sounds very interesting.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I ran this for about six years until the money ran out. This was during
+<br>I ran this for about six years until the money ran out. This was during
 the late 90s.</p>
 <p></p>
 <p><strong>Jimmy</strong>
