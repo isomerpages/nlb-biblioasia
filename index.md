@@ -25,7 +25,7 @@ sections:
         Singapore’s rich audiovisual legacy for the last 30 years.
       button: PRESERVING OUR AUDIOVISUAL HERITAGE
       url: /vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/
-      image: /images/Vol 21 Issue 2/Audiovisual/visual_main2.jpg
+      image: /images/Vol 21 Issue 2/Audiovisual/Audiovisual_topics.jpg
       alt: Audio-Visual Archives
   - infopic:
       title: The Many Facets of Liu Kang
