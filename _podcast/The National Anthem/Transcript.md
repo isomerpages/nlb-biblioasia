@@ -1045,116 +1045,79 @@ a lot of guest speakers, composers, artists, scientists coming to talk.</p>
 <p><strong>Bernard</strong>
 <br>I ran this for about six years until the money ran out. This was during
 the late 90s.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You are very humble and you say you’re not like the world’s best composer,
+<br>You are very humble and you say you’re not like the world’s best composer,
 but you have composed music that has been played by the Singapore Youth
 Orchestra, if I recall correctly.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yes, yes.</p>
-<p></p>
+<br>Yes, yes.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And others, you know, have you been composing anything recently?</p>
-<p></p>
+<br>And others, you know, have you been composing anything recently?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>You mentioned Youth Orchestra, when I was chairman for 20 years, we instituted
+<br>You mentioned Youth Orchestra, when I was chairman for 20 years, we instituted
 the policy of commissioning one work by a single composer every year. So
 there’s a body of work with the Youth Orchestra. With the SSO, when it
 started, it had its ups and downs relating to single composers.</p>
-<p></p>
 <p>I do remember that there was a bit of a kerfuffle between, okay, even
 before Lan Shui. Choo Hoey had been criticised by some of my colleagues
 for not playing enough Singapore composers’ works. But he did so later
 on when Lan Shui came in. I think that was a bit of a kerfuffle between
 him, because I think in an interview he was alleged to sort of criticise
 Singapore composers.</p>
-<p></p>
 <p>I can’t remember how that ended, but I think we brought the two sides
 together. But Lan Shui has been quite good, actually. He has actually played
 a lot of it. He’s played a lot of my work. I’ve written four concertos.
 The piano concerto for Toh Chee Hung.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>The violin concerto for Lynnette Seah, the guitar concerto for this young
+<br>The violin concerto for Lynnette Seah, the guitar concerto for this young
 man, Kevin Loh, who was making waves all around the world today. The cello
 concerto for Noella Yan, the cellist who lives in Australia.<strong> </strong>And
 right now I have been stuck for the last five years. I blame the pandemic
 on a harmonica concerto.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>A harmonica concerto, there’s such a thing?</p>
-<p></p>
+<br>A harmonica concerto, there’s such a thing?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Why harmonica? The reason is this. People asked me why I didn’t write
+<br>Why harmonica? The reason is this. People asked me why I didn’t write
 a concerto for er hu and all. Now, I don’t think I want to be like some
 people who just dash into it before knowing the traditions of Chinese music.
 I may do that one day. But I chose harmonica as my next one because I wanted
 to write something that was the resonant with the Chinese-speaking community,
 whom I know very well because in fact, some of my closest friends, both
 in science and music, are from the Chinese-speaking community.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>All right.</p>
-<p></p>
+<br>All right.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Because in both areas, the Chinese school students have always dominated
+<br>Because in both areas, the Chinese school students have always dominated
 in music and science. Well the harmonica, though it’s a Western instrument,
 it has long resonated with the Chinese-speaking community because after
 the Second World War, when people didn’t have any money, the masses in
 China, Korea and Japan took up the harmonica where it remains till today
 a very popular instrument because it’s cheap.</p>
-<p></p>
 <p>For a few dollars you can buy a harmonica. So I’ve been working on the
 harmonica concerto. I’ve got the first and third movements. I even have
 someone in Singapore who was a very good harmonica player. While I’ve been
 stuck on the second movement, which is the shortest movement for the last
 five years, I think I must.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Five years for just the second movement?</p>
-<p></p>
+<br>Five years for just the second movement?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I have to do it within the next year.</p>
-<p></p>
+<br>I have to do it within the next year.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I hope so. We’re putting this on the record so you know, we will hold
+<br>I hope so. We’re putting this on the record so you know, we will hold
 you to this.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Oh thank you, thank you. Okay, I will try it. I will try, yeah.</p>
-<p></p>
+<br>Oh thank you, thank you. Okay, I will try it. I will try, yeah.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I was just wondering. I have two more questions. One, can you play something
+<br>I was just wondering. I have two more questions. One, can you play something
 for us that you’ve composed?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>I wrote something for my son’s wedding but I don’t know where it is.</p>
-<p></p>
+<br>I wrote something for my son’s wedding but I don’t know where it is.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay? Okay. And the other question that has always bothered me. And maybe
+<br>Okay? Okay. And the other question that has always bothered me. And maybe
 you are the right person who can answer this. Why were you all forced to
 play the recorder? Not a harmonica. I mean.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>That is a good question because we were under the British school system.
+<br>That is a good question because we were under the British school system.
 And of course, the British and the European and the Western people were
 looking for a cheap instrument, I mean, if you mandated the clarinet, which
 would have cost hundreds, if not thousands of dollars. So the recorder,
@@ -1162,7 +1125,6 @@ which is actually a Baroque instrument, 500–600 years old, is a wooden
 piece with holes.<strong> </strong>Very simple and very cheap to make.
 So it became the standard musical teaching instrument in British schools.
 So that was the legacy of British education.</p>
-<p></p>
 <p>The recorder is not just a child. It is a serious instrument because there
 are different sizes. And I have to say that it did contribute quite a bit
 to the music because many people who played the recorder were like “Oh,
@@ -1174,52 +1136,32 @@ look at the musical exam, music examinations, more than 90 percent are
 piano candidates. Yeah. Likewise with the violin. I mean even a cheap China-made
 violin is a few hundred dollars, you know. So it was costly. Whereas a
 harmonica like the recorder is a few dollars.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s right. Yeah.</p>
-<p></p>
+<br>That’s right. Yeah.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>So no problem. It was a real problem with money, especially after the
+<br>So no problem. It was a real problem with money, especially after the
 war.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Well I have to say, numerous teachers who, in my recollection, did not
+<br>Well I have to say, numerous teachers who, in my recollection, did not
 probably know how to play the recorder themselves, attempted to teach bored
 and unwilling students. And this is my memory of learning how to play the
 recorder, which I still cannot play.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>I think I was one of those unwilling students, all of us. Well, the recorder
+<br>I think I was one of those unwilling students, all of us. Well, the recorder
 is relatively easy to learn to play a tune.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It is? Okay. Maybe I shall revisit the recorder.</p>
-<p></p>
+<br>It is? Okay. Maybe I shall revisit the recorder.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yes. But actually, what actually happened in the 50s, the phenomenon was
+<br>Yes. But actually, what actually happened in the 50s, the phenomenon was
 not the recorder, not the piano, but the electric guitar.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes, the electric guitar.</p>
-<p></p>
+<br>Yes, the electric guitar.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>It has changed people’s lives, actually.</p>
-<p></p>
+<br>It has changed people’s lives, actually.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes, right?</p>
-<p></p>
+<br>Yes, right?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>And the Beatles. Yes. And I mean, if you learned to play the electric
+<br>And the Beatles. Yes. And I mean, if you learned to play the electric
 guitar in theory, you can play the classical guitar because the fingering
 is the same. It’s the same, absolutely. But, here I think I will mention
 that I’m a little agnostic with respect to this type of music. For example,
@@ -1227,73 +1169,45 @@ my students, when they write about the concert, you can write about pop,
 rock, whatever classical, I don’t care. As long as it is music, you know?
 And when I was in that time, during the 50s, when I was in Form 4, Form
 5, I was a keen fan of the Beatles. I have many LP records of the Beatles.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, fantastic. I’m a fan as well.</p>
-<p></p>
+<br>Oh, fantastic. I’m a fan as well.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Because their genius was obvious to people like us. Maybe not to others,
+<br>Because their genius was obvious to people like us. Maybe not to others,
 you know, but in my later years, I sort of lost touch with pop music, and
 I reconnected later in the 90s you know, but in the 1950s and 1960s. People
 forget that in the 50s and 60s, that was the golden age of Singapore Pop
 music.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It was. So many original bands playing original music.</p>
-<p></p>
+<br>It was. So many original bands playing original music.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Well, the two famous bands were <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=3900ef93-3ab8-42a2-8b77-3b88cca07adf" rel="noopener noreferrer nofollow" target="_blank">The Quests</a> and
+<br>Well, the two famous bands were <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=3900ef93-3ab8-42a2-8b77-3b88cca07adf" rel="noopener noreferrer nofollow" target="_blank">The Quests</a> and
 <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=85cabf85-cee5-4712-a016-efa5ef754036" rel="noopener noreferrer nofollow" target="_blank">The Crescendos</a>. I think Reggie Verghese is still around. The Crescendos
 were a vocal group. And the lead singer, I don’t remember her name.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Susan.</p>
-<p></p>
+<br>Susan.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Susan Lim, you’re right.</p>
-<p></p>
+<br>Susan Lim, you’re right.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Susan Lim, I think, yes.</p>
-<p></p>
+<br>Susan Lim, I think, yes.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>The sad part of the story is that she went swimming at Kota Tinggi and
+<br>The sad part of the story is that she went swimming at Kota Tinggi and
 went behind a rock and was never seen again.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I know, it was such a tragedy.</p>
-<p></p>
+<br>I know, it was such a tragedy.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Such a tragic story. Absolutely.</p>
-<p></p>
+<br>Such a tragic story. Absolutely.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And she was very young.</p>
-<p></p>
+<br>And she was very young.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>She was very young. Yeah. Very, very young. Of course I know her sister
+<br>She was very young. Yeah. Very, very young. Of course I know her sister
 and they don’t have a body to grieve, but. But The Crescendos and The Quests
 were almost certainly the two most popular, most successful groups.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, you’re right. That was the golden age of Singapore pop. I don’t
+<br>Yeah, you’re right. That was the golden age of Singapore pop. I don’t
 know; I’m not really sure why that was, because you know you had the Beatles,
 you had the Rolling Stones and yet you still had The Quests.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>And I think it was a question of this enormous energy coming up from the
+<br>And I think it was a question of this enormous energy coming up from the
 birth of rock. Just overcame everybody. And I think it was a good thing
 because strangely enough, I think that was a period when classical music
 may have been in its doldrums. And I always like to say that we think of
@@ -1302,75 +1216,52 @@ If you look at the history of music in the early part of the 20th century,
 jazz defines music. Then after that it’s rock that defines music. And these
 are also the people’s music. And most of the musical energy of that time
 was I think not in classical but in pop and rock basically.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I think so, I mean not that I’m an expert on music, but you know, we certainly
+<br>I think so, I mean not that I’m an expert on music, but you know, we certainly
 talk about jazz and rock in the 20th century much more than we talk about
 classical music.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>And in fact, though we often go down in American culture and all that,
+<br>And in fact, though we often go down in American culture and all that,
 I thank American culture for being the progenitors of jazz and rock. Absolutely.
 Which have stayed with us till today, really defining the whole of pop
 music, even influenced classical music to a very great extent.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, really? How?</p>
-<p></p>
+<br>Oh, really? How?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Because, if you look at for example, jazz influence, many, many composers,
+<br>Because, if you look at for example, jazz influence, many, many composers,
 particularly a group of French composers, who used jazzy idioms in their
 music.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>All right. Right, right.</p>
-<p></p>
+<br>All right. Right, right.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>But of course now, music is very eclectic. Classical music is broken out
+<br>But of course now, music is very eclectic. Classical music is broken out
 of its very esoteric bonds, pseudo music and all that. Then today you’re
 not beholden to any style. You can write classical music or any sort. And
 what you try to do is, like all classical music, make it meaningful, well-constructed
 and that kind of thing.</p>
-<p></p>
 <p>And Singapore today has many promising young composers, you know, and
 there was a time I, I’m told today that I’m the oldest classical composer
 in Singapore because after Mr Leong passed away. But [among] the younger
 generation there are many, many excellent composers now. So the future
 of classical music composing in Singapore is actually quite assured.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s wonderful to hear. Prof, I want to thank you for coming on the
+<br>That’s wonderful to hear. Prof, I want to thank you for coming on the
 show. I want to thank you also for inviting us into your lovely house and
 for talking to us, and for giving us the three different versions of the
 national anthem that you know, so kindly play it for us today, to hear
 more or to learn more about the national anthem, “Majulah Singapura” and
 about national anthems in general.</p>
-<p></p>
 <p>You have to read <a rel="noopener noreferrer nofollow" target="_blank">Bernard </a>Tan’s
 piece, which will be on the <em>BiblioAsia</em> website, at <a rel="noopener noreferrer nofollow" target="_blank">BiblioAsia.nlb.gov.sg</a>. Prof, thank
 you very much. We await your harmonica concerto, with bated breath.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Thank you. Jimmy. You’ll be the first to learn about it.</p>
-<p></p>
+<br>Thank you. Jimmy. You’ll be the first to learn about it.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I hope so. Okay, thank you.</p>
-<p></p>
+<br>I hope so. Okay, thank you.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Thank you.</p>
-<p></p>
+<br>Thank you.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> 
+<br>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> 
 <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on <em>BiblioAsia+.</em>
 </p>
+<p></p>
