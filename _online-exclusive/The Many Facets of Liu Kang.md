@@ -101,7 +101,7 @@ Unfortunately, World War II wiped out some of the top leadership of the local ar
 
 Liu became president of the SOCA in 1946 and led the society to organise its sixth annual exhibition in December that year, commemorating the fallen artists and forging new paths for the future. He continued to helm the SOCA for a total of 12 years.
 
-In addition to his position at the SOCA, Liu taught art at several schools in Singapore. Like his predecessors, Liu understood that his position demanded that he nurture public interest in art and art education, and be a voice for the artists. Liu put his literary skill to work and published essays from 1947 through to the early 1970s in the _Nanyang Siang Pau_, Singapore’s Chinese-language newspaper of record.
+In addition to his position at the SOCA, Liu taught art at several schools in Singapore. Like his predecessors, Liu understood that his position demanded that he nurture public interest in art and art education, and be a voice for the artists. Liu put his literary skill to work and published essays from 1947 to the early 1970s in the _Nanyang Siang Pau_, Singapore’s Chinese-language newspaper of record.
 
 <div style="background-color: white;">
 <br>
