@@ -578,22 +578,14 @@ to the band or to the orchestra, then he would have different vocal demands.</p>
 <p><strong>Bernard</strong>
 <br>And the higher tone and the pitch. You can do it of course, you know,
 but it would be sort of very not so neat.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Is that done in other national anthems?</p>
-<p></p>
+<br>Is that done in other national anthems?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>No, I think in most other national anthems, the key is the official key.</p>
-<p></p>
+<br>No, I think in most other national anthems, the key is the official key.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, sorry for asking what is obviously a dumb question, but you know.</p>
-<p></p>
+<br>So, sorry for asking what is obviously a dumb question, but you know.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I feel like “The Star-Spangled Banner” is very hard to sing because the
+<br>I feel like “The Star-Spangled Banner” is very hard to sing because the
 notes are very high. But they have never said, okay, let’s lower it so
 that everybody can sing.</p>
 <p></p>
