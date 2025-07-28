@@ -789,55 +789,36 @@ to make it.</p>
 <br>As a performer, you mean?</p>
 <p><strong>Bernard</strong>
 <br>As a performer or anything else.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Well, you’ve been a composer.</p>
-<p></p>
+<br>Well, you’ve been a composer.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>You know at that time, I wasn’t a composer. Oh, maybe I did write a few
+<br>You know at that time, I wasn’t a composer. Oh, maybe I did write a few
 things because. Oh, now I remember at the time where the competition for
 the national anthem was. In 1963, my late uncle wanted to submit an anthem,
 he wrote the words and I wrote the music. Vaguely, I remember this, but
 I must look for this.</p>
-<p></p>
 <p>No, the memory just hit me.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, right. Right. If you ever. You know, we would love to hear. How old
+<br>Oh, right. Right. If you ever. You know, we would love to hear. How old
 were you when you wrote it?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>1963 I would have been, probably the competition was in 1962. I would
+<br>1963 I would have been, probably the competition was in 1962. I would
 have been Pre-U two.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s not bad. I’m sure previously you would have come up with a fairly
+<br>It’s not bad. I’m sure previously you would have come up with a fairly
 decent melody.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Well, okay. But, I knew I would never make it as a professional musician.
+<br>Well, okay. But, I knew I would never make it as a professional musician.
 In fact, I wanted to be an architect. And I actually applied to Adelaide
 University too. And I was admitted. You know, I was admitted. A month before
 my departure, I did it, my mother approached me and says, I think you better
 don’t do architecture.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>I wanted architecture because it’s a mix of science and the arts.</p>
-<p></p>
+<br>I wanted architecture because it’s a mix of science and the arts.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes, yes.</p>
-<p></p>
+<br>Yes, yes.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Why can’t I do architecture? You do architecture. You become an architect.
+<br>Why can’t I do architecture? You do architecture. You become an architect.
 All the contractors will take advantage of you and swindle you. So with
 that, I couldn’t challenge it as I gave it up. I gave up, I went to the
 University of Singapore to do physics.</p>
