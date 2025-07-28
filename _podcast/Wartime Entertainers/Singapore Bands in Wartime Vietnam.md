@@ -62,7 +62,7 @@ Vermont: Tuttle Co., 1968).</p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by One Dash. The background music "Di
-Tanjong Katong" was composed by Osman Ahmad and performed by <a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank"><u>Chords Haven</u></a>.
+Tanjong Katong" was composed by Ahmad Patek and performed by <a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank"><u>Chords Haven</u></a>.
 Special thanks to Boon Lai for coming on the show.</p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.
