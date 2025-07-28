@@ -10,9 +10,6 @@ description: The national anthem that we know today wasn't the original version
 image: /images/Podcast/bernard_tan_600_by_400.jpg
 third_nav_title: The National Anthem
 ---
-<p><strong>Coming in August</strong>
-</p>
-<p></p>
 <p>The national anthem that we know today wasn't the original version composed
 by Zubir Said. The first version was longer and was pitched at a higher
 key. Emeritus Professor Bernard Tan talks about how "Majulah Singapura"
