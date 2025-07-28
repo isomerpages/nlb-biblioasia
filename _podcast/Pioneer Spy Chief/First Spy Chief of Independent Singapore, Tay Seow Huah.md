@@ -25,13 +25,12 @@ Simon Tay, lawyer, academic and winner of the 2010 Singapore Literature
 Prize, tells us how his Penang-born father – who lived through WWII, the
 Malayan Emergency and the political tumult of the 1960s – came to play
 a giant role serving a newly independent Singapore.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fpSKnZrvUkk"></iframe>
-</div>
-<h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank">Spotify</a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156" rel="noopener nofollow" target="_blank">melisten</a>.</p>
+<p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/episode/1g7nEuOm3bxnF5x3MaQ3Ah"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/first-spy-chief-of-independent-singapore-tay-seow-huah/id1688142751?i=1000715646547"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
+<p></p>
 <p>Subscribe to get notified when the next episode drops.</p>
+<p></p>
+<h4></h4>
 <p></p>
 <h4><strong>What Simon Talked About</strong></h4>
 <p>00:00 – The 1974 Laju hijacking and its significance
