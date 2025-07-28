@@ -19,10 +19,10 @@ versions differ on his piano.&nbsp;
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png">
 </div>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
