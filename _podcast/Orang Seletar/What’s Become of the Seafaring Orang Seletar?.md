@@ -33,6 +33,6 @@ Clifford Sather, [*The Orang Laut*](http://eservice.nlb.gov.sg/item_holding_s.as
 Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in [*Tribal Communities in the Malay World: Historical, Cultural, and Social Perspectives*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11113017), ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–92. (From National Library, Singapore, Call no. RSING 305.8959 TRI) 
 
 #### **Credits** ####
-This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Ilya for coming on the show.
+This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Ahmad Patek and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Ilya for coming on the show.
 
 BiblioAsia+ is a podcast about Singapore history by the National Library of Singapore.
