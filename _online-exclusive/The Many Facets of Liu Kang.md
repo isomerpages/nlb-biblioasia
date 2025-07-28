@@ -93,9 +93,9 @@ In the perceived absence of desirable subject matters locally – the search for
 
 #### **Leadership and Nurturing Talent**
 
-When Liu joined the SOCA in 1938, he was considered a newcomer to a vibrant art scene.[^14] The SOCA was then helmed by Tchang Ju-chi (张汝器) and U-Chow (庄有钊), the president and vice-president respectively, both of whom had had a 10-year head start on him.
+When Liu joined the SOCA in 1938, he was considered a newcomer to a vibrant art scene.[^14] The SOCA was then helmed by Tchang Ju Chi (张汝器) and U-Chow (庄有钊), the president and vice-president respectively, both of whom had had a 10-year head start on him.
 
-The four-year period leading up to the fall of Singapore in February 1942 was an important time for the Singapore art scene, culminating in art exhibitions by the SOCA and the Singapore Art Society, along with the _Fight for Freedom_ exhibition by the British Department of Information and Publicity, in September 1941. At this exhibition, one of Liu’s works in oil was noticed by the press, possibly for the first time. The piece, titled _Prawns_, was described in the _Singapore Free Press_ as “an amusing, decorative picture of these delicacies, in bright blue, slaty pinks, plaster cream and browns”.[^15]
+The four-year period leading up to the fall of Singapore in February 1942 was an important time for the Singapore art scene, culminating in art exhibitions by the SOCA and the Singapore Art Society, along with the _Fight for Freedom_ exhibition by the British Department of Information and Publicity in September 1941. At this exhibition, one of Liu’s works in oil was noticed by the press, possibly for the first time. The piece, titled _Prawns_, was described in the _Singapore Free Press_ as “an amusing, decorative picture of these delicacies, in bright blue, slaty pinks, plaster cream and browns”.[^15]
 
 Unfortunately, World War II wiped out some of the top leadership of the local art world. These include Tchang, U-Chow, Lim Dao’an (林道盦; also a SOCA member) and Ho Kwong Yew (何光耀; an architect and member of the Singapore Art Club), who were killed by the Kempeitai, the military police of the Imperial Japanese Army, shortly after Singapore fell in 1942. The postwar vacuum was filled by Liu Kang, Chen Chong Swee, Chen Jen-hou and Huang Pao-fang, all alumni of Shanghai’s tertiary art institutions.
 
