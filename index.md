@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-raffles-library/
-      button: "Kung Tian Cheng: First Clerk of Raffles Library"
+      url: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
+      button: "Lady in Red: The Former National Library on Stamford Road"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Kung Tian/HeroImage_KungTian.jpg
+      background: /images/Vol 21 Issue 2/Frames of Memory/HeroImage_Frames_of_Memory_2.jpg
       variant: center
   - infopic:
       title: A Peek at the Audio-Visual Archives
