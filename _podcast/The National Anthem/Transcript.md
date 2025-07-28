@@ -210,563 +210,373 @@ you’d know this very well. It sounds so much more natural.</p>
 hear.</p>
 <p><strong>Bernard</strong>
 <br>You wouldn’t guess it had been shortened, actually. Right?</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Exactly. It doesn’t sound like it’s been shortened.</p>
-<p></p>
+<br>Exactly. It doesn’t sound like it’s been shortened.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>So Zubir was of course unhappy with this. And you know to this day, the
+<br>So Zubir was of course unhappy with this. And you know to this day, the
 mystery remains as to why after Toh Chin Chye had asked him to shorten
 it officially from the Deputy Prime Minister. How come someone else had
 asked somebody to do the shortening, and without reference to Zubir, was
 going to have it passed in a bill and the legislation. It doesn’t make
 sense.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s crazy.</p>
-<p></p>
+<br>It’s crazy.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>And this is a mystery which I’m going to leave for some future historian
+<br>And this is a mystery which I’m going to leave for some future historian
 to dig up in the archives.</p>
-<p></p>
 <p>Someone did it who had enough musical knowledge to do the shortening but
 didn’t have enough musical sensitivity to do the shortening in a musically
 logical and flowing way. That’s all I’m going to say. So it really is a
 mystery to this day. I leave it for some future historian to work it out.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Well, I’m glad that Zubir Said was able to learn about it and intervene
+<br>Well, I’m glad that Zubir Said was able to learn about it and intervene
 in time. I mean, he would be very upset.</p>
-<p></p>
 <p>Okay. So actually speaking of historians you know, part of what you had
 to do was actually to be a historian yourself in writing the original piece
 about “Majulah Singapura”. What were some of the challenges that, you know,
 you said that it was something that was on your mind for quite a while?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>The challenge was really to take my own memories of what had happened,
+<br>The challenge was really to take my own memories of what had happened,
 because I knew that there had been an unofficial shortening, and I must
 have heard it because I was able to recreate the original unapproved shortening,
 even though I have not found any manuscript of it, you know. But at least
 Rohana’s book proves to me that there was an unofficial shortening.</p>
-<p></p>
 <p>So my task was to find out, get the sequence of events, but Rohana’s book
 tells the most important part that her father had been alerted. So I went
 back, and I was interested to learn about how the piece commission was
 in the first place. And then I got archives to lend me the volume of the
 correspondence and found, I think it was already known that it was for
 that specific reopening of the Victoria Theatre.</p>
-<p></p>
 <p>But knowing how he had been in their correspondence was interesting, actually.
 And the most interesting part was that the handwritten manuscript that
 Mr Yap of the Victoria Theater sent to all the participants, asking them
 to learn the song, had been completely overlooked.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>What do you mean, completely overlooked?</p>
-<p></p>
+<br>What do you mean, completely overlooked?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>We know that this was a handwritten copy of the “Majulah Singapura”, but
+<br>We know that this was a handwritten copy of the “Majulah Singapura”, but
 no one had ever asked.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, sorry, the original version, right?</p>
-<p></p>
+<br>Oh, sorry, the original version, right?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>The original version. The longer version. But no one ever asked where
+<br>The original version. The longer version. But no one ever asked where
 did this come from? Is it from Zubir Said? And that’s when I decided to
 look at his score and found this peculiarity of his handwriting. [In] the
 lowercase p, the vertical is extended beyond the curved part.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah.</p>
-<p></p>
+<br>Yeah.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>And then I had another stroke of luck because later on I came across Rahim
+<br>And then I had another stroke of luck because later on I came across Rahim
 Jalil, the brother of the author.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. Iskandar Jalil.</p>
-<p>&nbsp;</p>
+<br>Right. Iskandar Jalil.&nbsp;</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Iskandar Jalil. Now, Rahim Jalil. What actually happened was that Zubir
+<br>Iskandar Jalil. Now, Rahim Jalil. What actually happened was that Zubir
 had, for most of his life, lived in an apartment in Joo Chiat. Okay. Rahim
 bought the apartment and of course, became a friend of Zubir. He must have
 bought it directly from Zubir. And when Zubir actually shortened the national
 anthem and wrote the official version with piano parts and all that, he
 gave a copy of the manuscript to him.</p>
-<p></p>
 <p>And I was privileged to look at it. And because there’s a cover page with
 Zubir‘s signature and then looking at that manuscript, you see that in
 the words of the anthem, the same lowercase p with the vertical sticking
 out. Then I decided this must be interesting, because it’s the same lowercase
 p as in what Mr Yap sent to all the people.</p>
-<p></p>
 <p>I thought it was worth investigating. And of course I am not a handwriting
 expert. It’s a very specialised field. But I went straight to the handwriting
 expert in HSA Health Sciences Authority. He does all of the analysis for
 the government.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, for courts presumably.</p>
-<p></p>
+<br>Oh, for courts presumably.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yeah. So I went to him and I said, look, here are two examples. I’m sorry,
+<br>Yeah. So I went to him and I said, look, here are two examples. I’m sorry,
 I cannot give any further examples because it’s Zubir Said’s handwriting,
 maybe I did give one or two, but these are the two key ones. So after pondering
 and looking, he said, “I think I can say with reasonable probability that
 it is written by the same person.” I said, “Can you say you’re sure?” He
 said, “You only gave me these two or three samples.”</p>
-<p></p>
 <p>So I thought about it. Hey, he’s the expert, if he said it is reasonably
 probable that the two people [are the same], it’s good enough for me.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p></p>
+<br>Okay.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>So, I went back to the archives and said hey, you all don’t know this,
+<br>So, I went back to the archives and said hey, you all don’t know this,
 but this thing which in fact in your website you also use this, you also
 use this, but you have never said it is Zubir Said’s handwriting. But now
 I can tell you Zubir Said’s handwriting. And secondly, it’s very likely
 what Zubir sent to the city council after less than two weeks of writing
 the song.</p>
-<p></p>
 <p>So this is the original manuscript. Okay. And archives said okay, okay,
 we believe you. I said this is just a copy you know, where’s the original,
 you know, with Zubir Said’s ink and all that.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p></p>
+<br>Right.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Unfortunately, they told me that we have been through a long period of
+<br>Unfortunately, they told me that we have been through a long period of
 renovation, you remember? And we start all our stuff in 7 or 8 different
 places. That is going to take a long, long while to unearth it. I don’t
 know, maybe they found it, but they haven’t come back to me.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Alas. Thank you actually for doing all that work. And actually uncovering,
+<br>Alas. Thank you actually for doing all that work. And actually uncovering,
 as it were, a copy of the original score.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>There was a bonus in that sense.</p>
-<p></p>
+<br>There was a bonus in that sense.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And it’s so wonderful to be able to see his actual handwriting. So in
+<br>And it’s so wonderful to be able to see his actual handwriting. So in
 the original score that he had written, there wasn’t a fanfare introduction.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>No, it was just the melody starting from the part with words.</p>
-<p></p>
+<br>No, it was just the melody starting from the part with words.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s right. But he also wrote that fanfare introduction.</p>
-<p></p>
+<br>That’s right. But he also wrote that fanfare introduction.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yes, of course he did that. Now, when was the fanfare introduction introduced?
+<br>Yes, of course he did that. Now, when was the fanfare introduction introduced?
 The problem is actually I suspect that he might have added it on for the
 concert in 1952. Because we do have a copy of the programme. There was
 an orchestra and a chorus and a choir.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. So that makes sense, if you have a full orchestra.</p>
-<p></p>
+<br>Okay. So that makes sense, if you have a full orchestra.</p>
 <p><strong>Bernard</strong>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">An orchestra and choir were conducted by someone I know, the late </a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">An orchestra and choir were conducted by someone I know, the late </a>
 <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=492eda72-11e0-400e-962f-368e14694bea" rel="noopener noreferrer nofollow" target="_blank">Paul Abisheganaden</a>. Very well-known musician. And certainly, Paul
 was the one who did the orchestration and the region for the choir. At
 that point of time, I think it’s very possible, very likely, that he had
 tacked on the fanfare introduction.</p>
-<p></p>
 <p>But we can only be sure from a <a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6cf3e3b1-1164-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">recording</a> made
 on the 12th of May 1959, which is in the archives, and that recording by
 a military band and the choir definitely has the introduction. And that’s
 a long version, by the way. And that’s around.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, that’s a long version?</p>
-<p></p>
+<br>So, that’s a long version?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>That’s a long version. It’s a long way. In fact, there’s some narration
+<br>That’s a long version. It’s a long way. In fact, there’s some narration
 to that and it talks about songs of Singapore, so I do not know. Is it
 Radio Singapore? It comes from an open videotape. Whose provenance I don’t
 know, we have to find out from the archives. So it could have been a programme
 that they broadcast. I have no idea.</p>
-<p></p>
 <p>And interestingly at around the same time, the date [mentioned in] my
 article, the Duke of Edinburgh made a visit to Singapore. And it was a,
 he had a giant gigantic parade and assembly on the Padang. And there was
 quite an obscure, and we know that the original version of “Majulah Singapura”
 was sung at the time, but again, no recordings. And we know that because
 I was there for the performance.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p></p>
+<br>Right.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I was standing in front of it.</p>
-<p></p>
+<br>I was standing in front of it.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Of course, you remember the fanfare?</p>
-<p></p>
+<br>Of course, you remember the fanfare?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yes, I think so. Can I swear to that? I’m not sure, but I think the fanfare
+<br>Yes, I think so. Can I swear to that? I’m not sure, but I think the fanfare
 [was there].</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s been a while.</p>
-<p></p>
+<br>It’s been a while.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Because I think I’m trying to remember the date it was, now that the recording
+<br>Because I think I’m trying to remember the date it was, now that the recording
 I talked about is 12th May. I think the Duke’s visit was around that time,
 not too far. So by that time, I think the fanfare had been there. In fact,
 I suspect that the fanfare was there even in November 1958.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>When they first played it.</p>
-<p></p>
+<br>When they first played it.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yes.</p>
-<p></p>
+<br>Yes.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. Because it makes sense. Otherwise, it is too plaintive to just start
+<br>Yeah. Because it makes sense. Otherwise, it is too plaintive to just start
 from there.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>That’s right, too abrupt. Someone must have said “Zubir, you got to tack
+<br>That’s right, too abrupt. Someone must have said “Zubir, you got to tack
 on something as an introduction.” And so it would have been easy for them
 to have done it. Yeah.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>After they shortened it and schoolchildren had been singing or mumbling
+<br>After they shortened it and schoolchildren had been singing or mumbling
 or mouthing the words, I can’t swear that necessarily all of them necessarily
 knew the words, even though they sang it every day. But around about 2000,
 there was quite a significant change.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yes, yes, around 2000. I was chairman of a committee assigned by the government
+<br>Yes, yes, around 2000. I was chairman of a committee assigned by the government
 to have a new orchestration, in effect, a new recording by an orchestra.
 And of course, SSO [Singapore Symphony Orchestra] was going to be the orchestra.
 And I was tasked with the committee to create this new arrangement. So
 of course, what I did, I knew that going public would be no point.</p>
-<p></p>
 <p>We all knew who the composers in Singapore were. We asked each of them
 to submit an orchestration.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>How many of them were there?</p>
-<p></p>
+<br>How many of them were there?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I think what, six or seven? All the ones I could remember. Kelly Tang
+<br>I think what, six or seven? All the ones I could remember. Kelly Tang
 and a few others. Actually Kelly, who was a very gifted composer, submitted
 a flamboyant piece, which I really like very much. We thought it’s too
 flamboyant for an official version, you know?</p>
-<p></p>
 <p>Leong Yoon Pin submitted something, but we didn’t select it. And another
 composer Phoon Yew Tien, a good friend of mine had refrained from entering
 because he didn’t want to compete with his teacher Leong Yoon Pin. So I
 told him later, we are not selecting Leong Yoon Pin and his work. Would
 you like to try? So he said yes, he tried. And indeed, his version was
 the one we selected in the year 2000.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I’m not sure you can do it on the piano, but what are the major differences?</p>
-<p></p>
+<br>I’m not sure you can do it on the piano, but what are the major differences?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>The major differences apart from the fact that the SSO recorded it. Of
+<br>The major differences apart from the fact that the SSO recorded it. Of
 course, the SSO had had different recordings previous to that. Okay. With
 different composers doing it there was one by an English composer called
 Elga Howarth.</p>
-<p></p>
 <p>And there’s another story attached to that Elga Howarth thing. That was
 done before the SSO was established, when the SSO was founded in 1978–79.
 A few weeks before the official inauguration concert, the chairman of the
 SSO, <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=b9821423-7c56-4ad2-a709-f141265ba182" rel="noopener noreferrer nofollow" target="_blank">Tan Boon Teik</a>.
 I said, “Mr Tan, do you know that the national anthem, which you’re going
 to play, has the original version?”</p>
-<p></p>
 <p>He said, “Is it? Let’s play it.” He was the attorney general. So things
 went through my head like is it legal or not, but am I going to question
 the attorney general. So I got back. I got the score which was being used
 at the time by Elga Howarth, and I added the eight bars.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, but you edit it based on your memory because you didn’t have the original.</p>
-<p></p>
+<br>Oh, but you edit it based on your memory because you didn’t have the original.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yes, based on my memory. Because I did not have any score of that.</p>
-<p></p>
+<br>Yes, based on my memory. Because I did not have any score of that.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. Right. That only came much later.</p>
-<p></p>
+<br>Right. Right. That only came much later.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yeah. But later on when we unearthed the early recordings, my memory was
+<br>Yeah. But later on when we unearthed the early recordings, my memory was
 reasonably accurate.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I’m impressed. That’s an incredible memory you had.</p>
-<p></p>
+<br>I’m impressed. That’s an incredible memory you had.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Actually, I had been, to tell the truth, in 1958 and 1959 I had been so
+<br>Actually, I had been, to tell the truth, in 1958 and 1959 I had been so
 taken up by “Majulah Singapura”. So my own memory and my own history with
 “Majulah Singapura” dates back to my school days. I actually made a piano
 arrangement of it, which I cannot find. I don’t know where.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh yeah. How old were you?</p>
-<p></p>
+<br>Oh yeah. How old were you?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I was like Form 4, Form 5.</p>
-<p></p>
+<br>I was like Form 4, Form 5.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow. Impressive.</p>
-<p></p>
+<br>Wow. Impressive.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Well, I mean, it was not too difficult to do. But anyway, going back to
+<br>Well, I mean, it was not too difficult to do. But anyway, going back to
 the year 2000, we made one other change. The original key of “Majulah Singapura”
 is G major. And in that key the highest note is E above C, which is one
 octave above C, E5 if I’m right.</p>
-<p></p>
 <p>It’s not easy to sing for many people. In fact, I didn’t always hit that
 note all the time. Now it wasn’t as bad as “The Star-Spangled Banner”,
 which is notoriously difficult to sing you know, but it’s such a magnificent
 tune, so they retained it. So I thought, hey, this is our chance to make
 the anthem singable.</p>
-<p></p>
 <p>So I propose to lower it from G major to F major. One whole tone down.
 This would make the highest note instead of E down to D, which is much
 more singable than the E. And so that’s why today the key of the anthem
 is F major. But interestingly enough, even though Zubir had written the
 original G major, I found one or two printings of the song in F major,
 so Zubir Said himself had done it down to F major for certain reasons.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, I see. So even originally he was maybe possibly toying between F and
+<br>Oh, I see. So even originally he was maybe possibly toying between F and
 G major.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>I think there could be another reason, because if you want it to be played
+<br>I think there could be another reason, because if you want it to be played
 by a military band, G major is a difficult key. They can do it. But if
 you bring it to F major, G major is one sharp, F major is one flat. Now,
 most military band instruments are flat key instruments. B-flat, E-flat.</p>
-<p></p>
 <p>So it would have been easier. It’s possible that they did it for that
 reason. Why? I don’t know, like you know, if any of the military men in,
 leaders are alive, they could tell you, but I suspect it was for that reason.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. And did you meet any pushback? Like, you know, people say, how dare
+<br>Okay. And did you meet any pushback? Like, you know, people say, how dare
 you touch our amazing national anthem.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>No, but here’s an interesting story. I was the chairman of steering committee.
+<br>No, but here’s an interesting story. I was the chairman of steering committee.
 But my friend, who was the key government officer in charge of this, I
 won’t name him. He said, the pre-cap meeting, you attend.</p>
-<p></p>
 <p>I said, “I don’t want to attend. You are the government official. You
 attend.” He said, “You are the one who knows music, you attend.”</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p></p>
+<br>Okay.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>So, I sat for two hours at the Istana waiting for my turn to appear. So
+<br>So, I sat for two hours at the Istana waiting for my turn to appear. So
 when I appeared, I told this and that, and all the keys and all that sort
 of thing. And in fact, I briefed some of the ministers who I knew. People
 like Teo Chee Hean – I told him already. So, I didn’t anticipate any problems.</p>
-<p></p>
 <p>Then at the end of it, after all the questions, Mr Lee Kuan Yew said,
 “Professor Tan, can I ask you a question?” “Oh, of course you can.” “Would
 it be possible for the orchestra version to be in one key, the choir was
 in a different key, and the band was in a different key?”</p>
-<p></p>
 <p>Actually, of course it would be possible, but it would be very hard to
 manage. You know, it would have been possible. So you know what I did?
 I told him, “Senior Minister, no, it’s not possible.”</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That took a lot of time.</p>
-<p></p>
+<br>That took a lot of time.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Yeah, but you know something? He said, “No problem, okay.” Now, this is
+<br>Yeah, but you know something? He said, “No problem, okay.” Now, this is
 another mystery which future historians have to solve. Mr Lee Kuan Yew,
 bless his memory, you know, he did a lot, but music was not his thing.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s right, actually.</p>
-<p></p>
+<br>That’s right, actually.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>We all know that music was not his thing. He went to SSO concerts, more
+<br>We all know that music was not his thing. He went to SSO concerts, more
 or less compelled by Mrs Lee, who was a great supporter of SSO.</p>
-<p></p>
 <p>There was one particular concert where I sat directly behind Mr Lee, and
 he was not paying attention.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Falling asleep?</p>
-<p></p>
+<br>Falling asleep?</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Falling asleep or counting the lights or whatever it is. But I think I
+<br>Falling asleep or counting the lights or whatever it is. But I think I
 can dare to tell this story. I told it in private circles. During the interval,
 he put on his programme. He was in the front, the old Victoria Memorial
 Hall, people who remember the front row, there was a low parapet. So during
 the interval or something, he put his copy of the programme on that parapet.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p></p>
+<br>Okay.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Halfway during one of the movements of music, he reached out his hand,
+<br>Halfway during one of the movements of music, he reached out his hand,
 he wanted to check something. So he reached out to get the programme. You
 know what happened? Mrs Lee slapped his hand, and he withdrew his hand
 double quick time. I’m sorry that I did not have a movie camera to record
 this, okay, but it happened.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It makes it very, very human.</p>
-<p></p>
+<br>It makes it very, very human.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Very human. Then in certain affairs I knew who was the boss.</p>
-<p></p>
+<br>Very human. Then in certain affairs I knew who was the boss.</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes, of course, of course.</p>
-<p></p>
+<br>Yes, of course, of course.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I was glad I witnessed that, you know. But blessed Mrs Lee was a fantastic
+<br>I was glad I witnessed that, you know. But blessed Mrs Lee was a fantastic
 supporter of the SSO.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s okay. That’s fantastic. Yeah. But actually, you know, Mr Lee Kuan
+<br>That’s okay. That’s fantastic. Yeah. But actually, you know, Mr Lee Kuan
 Yew’s question was not, even though he was not necessarily musically inclined,
 not a bad question.</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Not a bad question but I very much doubt he would have understood the
+<br>Not a bad question but I very much doubt he would have understood the
 notion of key. I don’t know. He’s not known to be a music lover. He didn’t
 play an instrument. I don’t think he reads music. So how come he could
 ask this question? We were talking about our current Senior Minister, former
 PM Lee Hsien Loong, whose brother, Hsien Yang, both are musical people.
 We know that.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I didn’t know that.</p>
-<p></p>
+<br>I didn’t know that.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>Both of them, I think. What? Certainly. Lee Hsien Loong played the clarinet
+<br>Both of them, I think. What? Certainly. Lee Hsien Loong played the clarinet
 in the Catholic High School band and in fact, he was so good at it that
 a good friend of mine who was his classmate tells me that he was good enough
 to play one movement of Mozart’s Clarinet Concerto at some concert, you
 know?</p>
-<p></p>
 <p>So he was a good clarinetist. Both he and Hsien Yang were music lovers,
 you know, and they attended the SSO concerts very often.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Probably not necessarily dragged by the mother, but going willingly.</p>
-<p></p>
+<br>Probably not necessarily dragged by the mother, but going willingly.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>I think they are going willingly, I don’t think they went with their mother,
+<br>I think they are going willingly, I don’t think they went with their mother,
 I doubt it.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. But maybe for the people who are not so necessarily musically aware.
+<br>Okay. But maybe for the people who are not so necessarily musically aware.
 What would be the challenges of having the national anthem in one key for
 the orchestra, a different key for the choir, a different key for the military
 band?</p>
-<p></p>
 <p><strong>Bernard</strong>
-</p>
-<p>Okay, the difficulty would be if you want to sing the national anthem
+<br>Okay, the difficulty would be if you want to sing the national anthem
 to the band or to the orchestra, then he would have different vocal demands.</p>
-<p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Well, of course it makes sense. Yeah.</p>
-<p></p>
+<br>Well, of course it makes sense. Yeah.</p>
 <p><strong>Bernard</strong>
-</p>
-<p>And the higher tone and the pitch. You can do it of course, you know,
+<br>And the higher tone and the pitch. You can do it of course, you know,
 but it would be sort of very not so neat.</p>
 <p></p>
 <p><strong>Jimmy</strong>
