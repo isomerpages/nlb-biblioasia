@@ -19,19 +19,19 @@ In the 1510s, the Florentine merchant Giovanni da Empoli, who accompanied the Po
 
 Gaggino’s first encounter with Singapore was in 1866.[^4] He came from a seafaring family: his father and five brothers were all sailors who made their living at sea, trading with the Far East. The subsequent death of his father left his family in dire financial straits, which propelled Gaggino to set sail for cosmopolitan Singapore where he hoped to work as an interpreter. He was a polyglot who spoke Italian, French, Spanish, Portuguese, Malay and English. He learned the latter when his father, in what proved to be a prescient move, sent him to England at the age of 14.[^5]
 
-When Gaggino arrived in Singapore sometime around 1874 on the ship _Fratelli Gaggino_, the Italian population was small. Between 1883 and 1897, there were only around 290 Italians, 56 of whom had come directly from Italy while others rebounded from other regions in the east.6 The Italian population would remain small until the end of Gaggino’s life in 1918.&nbsp;
+When Gaggino arrived in Singapore sometime around 1874 on the ship _Fratelli Gaggino_, the Italian population was small. Between 1883 and 1897, there were only around 290 Italians, 56 of whom had come directly from Italy while others rebounded from other regions in the east.[^6] The Italian population would remain small until the end of Gaggino’s life in 1918.&nbsp;
 
 #### **Tycoon of the Tropics**
 
-There is a Latin saying, _Genuensis ergo mercator_, which means “Genoese, therefore a merchant”.7 Although Gaggino was not strictly from Genoa, hailing instead from the neighbouring province of Savona, the adage nonetheless applied.&nbsp;
+There is a Latin saying, _Genuensis ergo mercator_, which means “Genoese, therefore a merchant”.[^7] Although Gaggino was not strictly from Genoa, hailing instead from the neighbouring province of Savona, the adage nonetheless applied.&nbsp;
 
 By 1876, he had founded Gaggino &amp; Co., a ship chandlery that provided supplies and equipment to vessels passing through Singapore. The business quickly grew into a trusted name. Chandlers were judged by their speed and reliability, and Gaggino promised “water and coal supplied at the shortest notice”, minimising downtime for ships and maximising efficiency. His office stood near Cavenagh Bridge, just across the river from the General Post Office (where Fullerton Hotel now stands) until 1914.&nbsp;
 
-The company was eventually appointed to the Russian, French, German, Austrian, Spanish, Portuguese and Italian navies.8 Gaggino’s business venture, however, did not stop here. Interestingly, he was once the owner of Pulau Bukom.
+The company was eventually appointed to the Russian, French, German, Austrian, Spanish, Portuguese and Italian navies.[^8] Gaggino’s business venture, however, did not stop here. Interestingly, he was once the owner of Pulau Bukom.
 
-A small island about 5 km south of the Singapore mainland, he had purchased it for a mere $500 when it was known as Freshwater Island.9&nbsp; The island got its name because of the freshwater well on it. This well allowed Gaggino to supply passing ships with drinking water.&nbsp;
+A small island about 5 km south of the Singapore mainland, he had purchased it for a mere $500 when it was known as Freshwater Island.[^9] The island got its name because of the freshwater well on it. This well allowed Gaggino to supply passing ships with drinking water.&nbsp;
 
-In 1891, M. Samuel &amp; Co. of London, an early player that would later become Shell, sought to build a petroleum tank depot on mainland Singapore at Bukit Chermin and Pasir Panjang. The idea was met with fierce opposition. Merchants feared the danger of flammable cargo so close to the city, so much so that the press labelled it a “petroleum plot”.10 &nbsp;
+In 1891, M. Samuel &amp; Co. of London, an early player that would later become Shell, sought to build a petroleum tank depot on mainland Singapore at Bukit Chermin and Pasir Panjang. The idea was met with fierce opposition. Merchants feared the danger of flammable cargo so close to the city, so much so that the press labelled it a “petroleum plot”.[^10]
 
 The government swiftly rejected the plan.11 The company thus set their sights on Pulau Bukom. The island had a sheltered harbour, a deep sea waterfront and, crucially, was beyond harbour limits, so no government inspections of steamships were required.12&nbsp; The company put it plainly: “As nearly all oil sold here has to be transshipped, \[we\] might as well ship \[them\] from Freshwater Island as from Singapore.”13&nbsp; The company, through merchant and agency house Syme &amp; Co., acquired 8 ha of the island from Gaggino in 1891, earning him a tidy sum of $3,000.
 
