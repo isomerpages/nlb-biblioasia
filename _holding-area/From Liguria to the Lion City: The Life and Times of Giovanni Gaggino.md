@@ -104,141 +104,139 @@ _This article is dedicated to my father, no stranger to the seas._
 
 #### **Notes**
 
-[^1]: 
+[^1]:  Derek Heng, “Continuities and Changes: Singapore as a Port-City over 700 Years,” _BiblioAsia_ 1, no. 1 (2005): 12–16.
 
+[^2]: Kwa Chong Guan et al. eds., _Seven Hundred Years: A History of Singapore_ (Singapore: National Library Board and Marshall Cavendish International, 2019), 81. (From National Library Singapore, call no. RSING 959.57 KWA-\[HIS\]); Matteo Salonia, “A Dissenting Voice: The Clash of Trade and Warfare in Giovanni da Empoli's Account of His Second Voyage to Portuguese Asia,” _Itinerario_ 45, no. 2 (2021): 189–207, https://doi.org/10.1017/S0165115321000176.
 
-[^2]: 
 
+[^3]: Kwa et al., _Seven Hundred Years_, 103, 158–59.&nbsp;
 
-[^3]: 
 
+[^4]: Francesco Surdich, “Da Varazze a Singapore: Giovanni Gaggino (1846–1913),” _Atti e Memorie della Società Savonese di Storia Patria_ 26 (1990): 150, https://www.storiapatriasavona.it/archivio-pubblicazioni/atti-e-memorie-n-s-1967-2012/.
 
-[^4]: 
 
+[^5]: In 1872, Giovanni Gaggino also circumnavigated the globe and commanded the first Italian ship to arrive in New Zealand. Luigi Santa Maria, “Giovanni Gaggino e Il Suo ‘Dizionario Italiano e Malese’,” _Asia_ no. 5 (1995): 8, http://www.cesmeo.it/public/pdf/L.%20Santa%20Maria,%20Giovanni%20Gaggino%20e%20il%20suo%20Dizionario%20italiano%20e%20malese%20pt.%201.pdf.
 
-[^5]: 
 
+[^6]: Maria Clotilde Giuliani-Balestrino, “L’Italia Fuori dall’Italia. Gli Italiani a Singapore: Dai Primi Viaggiatori Agli Imprenditori Odierni” \[Italy outside of Italy. Italians in Singapore from the first travellers to today's entrepreneurs\], _Studi e Ricerche di Geografia_ 24, no. 2 (2001): 128, https://studiericerche.org/rivista/annata-24-2001/.
 
-[^6]: 
 
+[^7]: This phrase reflects the historical reputation of Genoa as a city of traders and merchants during the Middle Ages and the Renaissance. The Genoese were known for their extensive trade networks, spanning the Mediterranean and the Black Sea.
 
-[^7]: 
 
+[^8]: Giovanni Gaggino, _Dizionario Italiano e Malese e Malese Italiano_ \[Italian-Malay and Malay-Italian Dictionary\] (Singapore: Stamperia Denodaya, 1915), 69. (From National Library Online)
 
-[^8]: 
 
+[^9]: “Death of Captain Gaggino,” _Straits Times_, 14 February 1918, 7. (From NewspaperSG)
 
-[^9]: 
 
+[^10]: Yeo Ai Hoon, _Enterprise in Oil: The History of Shell in Singapore_, 1891–1960, manuscript (n.p.: n.p., 1988). 8. (From National Library Singapore, call no. RSING 338.27282095957 YEO)&nbsp;
 
-[^10]: 
 
 
+[^11]: Walter Makepeace, Gilbert E. Brooke, Roland St. J. Braddell, eds., _One Hundred Years of Singapore_, vol. 2 (Singapore: Oxford University Press, 1991), 97. (From National Library Singapore, call no. RSING 959.57 ONE); _The Founding Years 1891–1991_ (Kuala Lumpur: Shell Malaysia Ltd, 1991), 30–31. (From National Library Singapore, call no. RSING 338.272809595)
 
-[^11]: 
 
+[^12]: Nicky Moey, _The Shell Endeavour: First 100 Years in Singapore_ (Singapore: Times Editions Pte Ltd, 1991), 27. (From National Library Singapore, call no. RSING 338.2728 MOE).
 
-[^12]: 
 
+[^13]: Yeo, _Enterprise in Oil_, 11.
 
-[^13]: 
 
+[^14]: “Untitled,” _Singapore Free Press and Mercantile Advertiser_, 12 January 1899, 10; “Death of Capt Gaggino,” _Singapore Free Press_, 14 February 1918, 99; “Shipping Notes,” _Singapore Free Press and Mercantile Advertiser_, 12 November 1912, 12. (From NewspaperSG)
 
-[^14]: 
 
+[^15]: “Soon Keck Ltd. Generous Contributions to War Funds,” _Malaya Tribune_, 3 March 1917, 4; “Soon Keck Line of Steamers, Limited,” _Straits Times_, 16 February 1918, 16. (From NewspaperSG)
 
-[^15]: 
 
+[^16]: “Rubber &amp; Coconuts in Trang,” _Pinang Gazette and Straits Chronicle_, 7 October 1911, 4; “Untitled,” _Singapore Free Press and Mercantile Advertiser_, 5 February 1913, 6. (From NewspaperSG); Surdich, “Da Varazze a Singapore,” 180–83.
 
-[^16]: 
 
+[^17]: Giovanni Gaggino, _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione per Servire d'Interprete al Viaggiatore che Vista e Traffica con la Malesia_ \[Italian-Malay Dictionary: Preceded by a Practical Conversational Manual to Serve as an Interpreter for the Traveller Visiting and Trading with Malaya\] (Singapore: Denodaya, 1884), preface, Prometheus-Academic Collections, https://tufs.repo.nii.ac.jp/records/11300. This was not the first Italian-Malay dictionary; that distinction belongs to the Venetian chronicler Antonio Pigafetta, who compiled one during Portuguese explorer Ferdinand Magellan’s circumnavigation of the globe. Pigafetta participated in the expedition, setting of from Spain in 1519, and served as Magellan’s assistant.
 
-[^17]: 
 
+[^18]: Giovanni Gaggino indicated this erroneously as “Commander of the Cross of Italy (_Commendatore della croce d’Italia_)”. The year 1871 marked the first official contact between a Malay ruler and an official representative of the new Kingdom of Italy, Captain Carlo Alberto Racchia, who commanded the corvette _Principessa Clotilde_ to the Far East in search of a territory suitable for a new Italian penal colony. See A. Candilio and L. Bressan, “Sultan Abu Bakar of Johore’s Visit to the Italian King and the Pope in 1885,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 73, no. 1 (2000): 44. (From JSTOR via NLB’s eResources website).
 
-[^18]: 
 
+[^19]: Gaggino uses the word _granellino_, a diminutive that underscores the modesty of his effort. Yet his choice also echoes the biblical Parable of the Mustard Seed (_granello di senape_ in Italian), in which a tiny seed grows into a large tree. Gaggino, _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione_, preface.&nbsp; 
 
-[^19]: 
 
+[^20]: Gaggino, _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione_, 388.&nbsp; &nbsp;
 
-[^20]: 
 
 
+[^21]: Gaggino, _Dizionario Italiano e Malese e Malese Italiano_, ii.&nbsp;
 
-[^21]: 
 
+[^22]: Gaggino, _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione_, 2;&nbsp; Gaggino, Dizionario Italiano e Malese e Malese Italiano, iv.
 
-[^22]: 
 
+[^23]: Antonia Soriente, “Cross-Cultural Encounters of Italian Travellers in the Malay World: A Perspective on the Languages Spoken by the Local Populations,” _Wacana, Journal of the Humanities of Indonesia_ 25, no. 2 (2024): 170–71, https://scholarhub.ui.ac.id/wacana/vol25/iss2/2/.
 
-[^23]: 
 
+[^24]: Linguists refer to this as the voiced postalveolar affricate, the same sound found in the word “beige”. &nbsp;
 
-[^24]: 
 
+[^25]: In the food section, for instance, he outlines rice in its full lifecycle: _padì_ when unharvested in the field, _brass_ (or _beras_) once threshed and _nasì_ after it is cooked.
 
-[^25]: 
 
+[^26]: Gaggino, _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione_, 89.
 
-[^26]: 
 
+[^27]: Gaggino, _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione_, 124.
 
-[^27]: 
 
+[^28]: Soriente, “Cross-Cultural Encounters of Italian Travellers in the Malay World,” 173.
 
-[^28]: 
 
+[^29]: N.B. Dennys, _A Handbook of Malay Colloquial, As Spoken in Singapore: Being a Series of Introductory Lessons for Domestic and Business Purposes_ (London: Trübner &amp; Co.; Singapore: Mission Press, 1878). (From National Library Online); Santa Maria, “Giovanni Gaggino e Il Suo ‘Dizionario Italiano e Malese’,” 20.&nbsp;
 
-[^29]: 
 
+[^30]: Santa Maria, “Giovanni Gaggino e Il Suo ‘Dizionario Italiano e Malese’,” 20.
 
-[^30]: 
 
 
+[^31]: Gaggino, _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione_, 2; Gaggino, _Dizionario Italiano e Malese e Malese Italiano_, iii.&nbsp;
 
-[^31]: 
 
+[^32]: Giovanni Gaggino, _La Vallata del Yang-Tse-Kiang: Appunti e Ricordi_ \[The Yangtze valley: Notes and memories\] (Rome: Fratelli Bocca, 1901), 86, Internet Archive, https://archive.org/details/lavallatadelyan00mayngoog.
 
-[^32]: 
 
+[^33]: Surdich, “Da Varazze a Singapore,” 158.
 
-[^33]: 
 
+[^34]: Gaggino, _La Vallata del Yang-Tse-Kiang_, 165.
 
-[^34]: 
 
+[^35]: Gaggino, _La Vallata del Yang-Tse-Kiang_, 65–66.
 
-[^35]: 
 
+[^36]: “Death of Captain Gaggino,” _Straits Times_, 14 February 1918, 7. (From NewspaperSG)
 
-[^36]: 
 
+[^37]: “Italian Will Suit,” _Singapore Free Press and Mercantile Advertiser_ (Weekly), 30 March 1922, 202. (From NewspaperSG)
 
-[^37]: 
 
+[^38]: “Auction Sale of Ship Chandler's Store,” _Malaya Tribune_, 18 December 1918, 7; “Important Auction Sale of Valuable Shipchandlers' Stores,” _Malaya Tribune_, 17 February 1919, 5. (From NewspaperSG). The proceeds from the sale were divided as follows: 20 percent each to his brother Enrico and his nephew Paul Consigliere, with “5 percent each to the French and Portuguese Convents, the European Hospital, and the Tan Tock Seng Hospital”. See “Italian Will Suit.”&nbsp;
 
-[^38]: 
 
+[^39]: Gaggino’s shophouse on Middle Road would eventually be occupied by the popular Japanese fabric store Echigoya from 1937–1945. “Preliminary Notice. Estate of Giovanni Gaggino, Deceased,” _Malaya Tribune_, 14 July 1919, 2. (From NewspaperSG)
 
-[^39]: 
 
+[^40]: “Death of Captain Gaggino,” _Straits Times_, 14 February 1918, 7. (From NewspaperSG)
 
-[^40]: 
 
 
+[^41]: Surdich, “Da Varazze a Singapore,” 154.
 
-[^41]: 
 
+[^42]: Surdich, “Da Varazze a Singapore,” 153–54.
 
-[^42]: 
 
+[^43]: “Untitled,” _Singapore Free Press_, 8 June 1922, 7. (From NewspaperSG)
 
-[^43]: 
 
+[^44]: The Weltmuseum Wien has a letter from Giovanni Gaggino that describes this gift of adzes.&nbsp;
 
-[^44]: 
 
-
-[^45]: 
-
+[^45]: Gaggino, _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione_, preface.
