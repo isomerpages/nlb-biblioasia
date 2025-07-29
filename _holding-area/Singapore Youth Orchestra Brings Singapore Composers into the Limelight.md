@@ -47,7 +47,7 @@ Tan Kim Swee, the general manager of the orchestra, had the task of procuring un
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/leong_yoon_pin_cp.jpg" style="width: 60%;">Leong Yoon Pin, 1982. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/leong_yoon_pin_cp.jpg" style="width: 50%;">Leong Yoon Pin, 1982. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
 
 Now regarded as the doyen of pioneer Singapore composers, Leong was, at the time of the commission, a Lecturer in the Music Department of the Institute of Education. He had studied piano in England with George Rogers, conducting with British conductor Robert Barclay Wilson and composed a work with renowned French composer Nadia Boulanger. Back in Singapore, Leong was the conductor of the Metro-Philharmonic Society Chorus and Orchestra (1959). He was also deeply involved in music education – first as a lecturer and head of music at the Teacher’s Training College (1958–88) and an advisor to organisations such as the National Arts Council, National Institute of Education and the Nanyang Academy of Fine Arts. He was awarded the Cultural Medallion in 1982.[^9]
 
@@ -59,11 +59,11 @@ Phoon Yew Tien’s (1952–) “Variations” was commissioned by the SYO specia
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Phoon_Yew_Tien_cp.jpg" style="width: 60%;">Composer Phoon Yew Tien, 1985.<i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Phoon_Yew_Tien_cp.jpg" style="width: 50%;">Composer Phoon Yew Tien, 1985.<i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/dayong_sampan_programme_cp.jpg" style="width: 80%;">Phoon Yew Tien’s “Variations on ‘Dayong Sampan’”. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/dayong_sampan_programme_cp.jpg" style="width: 65%;">Phoon Yew Tien’s “Variations on ‘Dayong Sampan’”. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
 
 Phoon’s interest in music started from early childhood. He was in the flute section of the Singapore Chinese Youth Orchestra, which had participated in the 1971 Festival of Youth Orchestras in Switzerland. He was mentored by composer Leong Yoon Pin in the 1970s and received a Singapore Symphonic Orchestra scholarship in 1980 to the Queensland Conservatorium of Music in Brisbane, Australia, where he graduated with a double degree in Music Composition and Flute. He won the Dulcie Robertson Prize in composition three times in 1980, 1981 and 1983, as well as the Yoshiro Irino Memorial Prize for Composition awarded by the Asian Composers’ Society in 1984 for a piece called “Autumn”.[^10]
 
