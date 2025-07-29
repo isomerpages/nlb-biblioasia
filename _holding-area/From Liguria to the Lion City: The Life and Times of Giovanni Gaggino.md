@@ -129,7 +129,7 @@ _This article is dedicated to my father, no stranger to the seas._
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBrayu6h2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/AlexFoo.png">
 <b>Alex Foo</b>&nbsp;is a Manager in the Partnership Department at the National Library Board. Formerly a literary arts librarian, he has written for the Metropolitan Museum of Art, <i>Orientations</i> and <i>ArtsEquator</i>.</div>
 
 #### **Notes**
