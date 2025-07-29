@@ -166,7 +166,7 @@ Lim was among the first batch of graduates (1959) from Nanyang University (now N
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/lim_chin_tiong.png" style="width: 80%;">Lim Chin Tiong, 1985.<i> Source: Straits Times, 5 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/lim_chin_tiong.png" style="width: 60%;">Lim Chin Tiong, 1985.<i> Source: Straits Times, 5 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 #### **“Singapore Suite” by David Campbell (1984)**
 
@@ -178,7 +178,7 @@ David Campbell is an American pianist, organist, teacher and composer in the New
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/David_Campbell_SYO.png" style="width: 80%;">Singapore Youth Orchesta 1 April 1984 programme featuring David Campbell’s “Singapore Suite”.<i> Image reproduced from Singapore Youth Orchestra: Sunday 1st April 1984, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.29).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/David_Campbell_SYO.png" style="width: 70%;">Singapore Youth Orchesta 1 April 1984 programme featuring David Campbell’s “Singapore Suite”.<i> Image reproduced from Singapore Youth Orchestra: Sunday 1st April 1984, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.29).</i></div>
 
 #### **“Sojourn” by John Sharpley (1988)**
 
@@ -190,11 +190,11 @@ Of the work, Sharpley said “I believe that there is some extraordinary way we 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_3_Aug_1989_programme.png" style="width: 60%;">Singapore Youth Orchestra 3 August 1989 programme.<i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_3_Aug_1989_programme.png" style="width: 50%;">Singapore Youth Orchestra 3 August 1989 programme.<i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 50%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 40%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
 
 Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
 
