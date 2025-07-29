@@ -95,7 +95,7 @@ The Singapore Youth Training Orchestra was inaugurated in September 1986. The tr
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Singapore_Youth_Training_Orchestra_5_Sep_1987_cp.jpg" style="width: 80%;">Singapore Youth Training programme for its September 1987 performance.<i> Image reproduced from Singapore Youth Training Orchestra Sunday 5th September 1987 Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1987). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.8).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Singapore_Youth_Training_Orchestra_5_Sep_1987_cp.jpg" style="width: 80%;">Singapore Youth Training programme for its September 1987 performance.<i> Image reproduced from Singapore Youth Training Orchestra Sunday 5th September 1987 Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1987). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.8).</i></div>
 
 Leong Yoon Pin was once again called upon to write a piece that would be suitable for the young musicians. Although fanfare is normally associated with a performance of an assortment of high brass instruments, “Fanfare for Joy” was written for a full orchestra and Leong wanted to showcase the exuberance of youth.
 
