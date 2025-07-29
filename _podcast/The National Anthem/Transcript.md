@@ -78,7 +78,7 @@ a number of years ago brought the numbers down back to closer to the original.</
 <p><strong>Jimmy</strong>
 <br>Oh, that’s so interesting.</p>
 <p><strong>Bernard</strong>
-<br>It becomes more intimate theatre, actually. Well anyway, Zubir Said by
+<br>It becomes more intimate theatre, actually. Well anyway, <a href="https://biblioasia.nlb.gov.sg/podcast/life-and-legacy-zubir-said-julian-wong/" rel="noopener nofollow" target="_blank">Zubir Said</a> by
 that time had become quite a well-known composer. So the city council wanted
 to have a song for the reopening of the theatre in late 1958. The motto
 of the city council then was “Majulah Singapura”, which is still our motto.</p>
@@ -109,8 +109,9 @@ took place, I think it was November 1958 or something like that. And then
 Singapore got self-government in 1959. Okay. So the government, the PAP
 [People’s Action Party] government is looking not just for a national anthem,
 but for the national symbols, the pledge, the crest and the national anthem.
-And Dr Toh Chin Chye, who happened to be my boss at NUS [National University
-of Singapore] long ago.</p>
+And <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=8a68761c-5b59-4758-a2ce-0793a8cddfb1" rel="noopener nofollow" target="_blank">Dr Toh Chin Chye</a>,
+who happened to be my boss at NUS [National University of Singapore] long
+ago.</p>
 <p><strong>Jimmy</strong>
 <br>He was a chancellor at the time, right?</p>
 <p><strong>Bernard</strong>
@@ -313,9 +314,9 @@ you know, with Zubir Said’s ink and all that.</p>
 <br>Right.</p>
 <p><strong>Bernard</strong>
 <br>Unfortunately, they told me that we have been through a long period of
-renovation, you remember? And we start all our stuff in 7 or 8 different
-places. That is going to take a long, long while to unearth it. I don’t
-know, maybe they found it, but they haven’t come back to me.</p>
+renovation, you remember? And we start all our stuff in seven or eight
+different places. That is going to take a long, long while to unearth it.
+I don’t know, maybe they found it, but they haven’t come back to me.</p>
 <p><strong>Jimmy</strong>
 <br>Alas. Thank you actually for doing all that work. And actually uncovering,
 as it were, a copy of the original score.</p>
@@ -336,11 +337,10 @@ an orchestra and a chorus and a choir.</p>
 <p><strong>Jimmy</strong>
 <br>Okay. So that makes sense, if you have a full orchestra.</p>
 <p><strong>Bernard</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">An orchestra and choir were conducted by someone I know, the late </a>
-<a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=492eda72-11e0-400e-962f-368e14694bea" rel="noopener noreferrer nofollow" target="_blank">Paul Abisheganaden</a>. Very well-known musician. And certainly, Paul
-was the one who did the orchestration and the region for the choir. At
-that point of time, I think it’s very possible, very likely, that he had
-tacked on the fanfare introduction.</p>
+<br>An orchestra and choir were conducted by someone I know, the late <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=492eda72-11e0-400e-962f-368e14694bea" rel="noopener nofollow" target="_blank">Paul Abisheganaden</a>.
+Very well-known musician. And certainly, Paul was the one who did the orchestration
+and the region for the choir. At that point of time, I think it’s very
+possible, very likely, that he had tacked on the fanfare introduction.</p>
 <p>But we can only be sure from a <a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6cf3e3b1-1164-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">recording</a> made
 on the 12th of May 1959, which is in the archives, and that recording by
 a military band and the choir definitely has the introduction. And that’s
@@ -846,10 +846,10 @@ the running around for us. You know?”</p>
 <p><strong>Jimmy</strong>
 <br>And you were that?</p>
 <p><strong>Bernard</strong>
-<br>Tan Boon Teik said I know just one guy. Sometime in October, I got a phone
-call. Me. Just a young lecturer. Go to the DPM office. You know, and then
-when I was waiting outside of the DPM’s office to come out. It was at MINDEF
-you know?</p>
+<br>Tan Boon Teik said, “I know just one guy.” Sometime in October, I got
+a phone call. Me. Just a young lecturer. Go to the DPM office. You know,
+and then when I was waiting outside of the DPM’s office to come out. It
+was at MINDEF you know?</p>
 <p><strong>Bernard</strong>
 <br>So the SSO was founded at MINDEF.</p>
 <p><strong>Bernard</strong>
