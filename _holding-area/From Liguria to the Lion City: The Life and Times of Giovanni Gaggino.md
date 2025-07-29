@@ -33,6 +33,9 @@ There is a Latin saying, _Genuensis ergo mercator_, which means “Genoese, ther
 
 By 1876, he had founded Gaggino &amp; Co., a ship chandlery that provided supplies and equipment to vessels passing through Singapore. The business quickly grew into a trusted name. Chandlers were judged by their speed and reliability, and Gaggino promised “water and coal supplied at the shortest notice”, minimising downtime for ships and maximising efficiency. His office stood near Cavenagh Bridge, just across the river from the General Post Office (where Fullerton Hotel now stands) until 1914.&nbsp;
 
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_bridge.jpg)
+<div style="background-color:white;"> View of Cavenagh Bridge looking towards Empress Place, 1900s. Gaggino &amp; Co. was located near the bridge, just across from the General Post Office (now the Fullerton Hotel). <i>  Courtesy of National Archives of Singapore (Media - Image no. 19980007378 - 0039).</i></div>
+
 The company was eventually appointed to the Russian, French, German, Austrian, Spanish, Portuguese and Italian navies.[^8] Gaggino’s business venture, however, did not stop here. Interestingly, he was once the owner of Pulau Bukom.
 
 A small island about 5 km south of the Singapore mainland, he had purchased it for a mere $500 when it was known as Freshwater Island.[^9] The island got its name because of the freshwater well on it. This well allowed Gaggino to supply passing ships with drinking water.&nbsp;
@@ -64,6 +67,13 @@ This remarkable undertaking was dedicated to Sultan Abu Bakar, the so-called Fat
 We have no proof that Gaggino and the Anglophile sultan ever met, but the gesture was typical of the Italian merchant. He was always attuned to the possibility of trade and mutual interest. In his humble and self-effacing dedication, he described the book as a “tiny grain (_granellino_) in the polyglotism of the century” inspired by the “ever-growing commerce between Italy and Malaya”.[^19] The sentiment was modest, but not unserious. Language, for the multilingual Gaggino, was a lubricant for commerce. He hoped that his compatriots would use his book and learn “to make himself understood and to understand others in the Malay language”.[^20]
 
 In 1915, 31 years after the publication of the first edition which had long gone out of print, Gaggino published a new expanded edition, also through Denodaya: the _Dizionario Italiano e Malese e Malese Italiano_ (Italian-Malay and Malay-Italian Dictionary). The new edition was now bidirectional and included descriptions of notable Singapore landmarks such as Cavenagh Bridge, the Singapore River and Raffles Square. Gaggino noted in the updated preface that “a large number of Malays and Javanese can now read and write using Roman characters”. He further observed that parents were sending their children to school at an earlier age and that while Malay was taught using Jawi script, the “Roman script is becoming more common as it is simpler to learn”.[^21] His hope, with the expanded edition, was that people-to-people contact between Italy and Malaya would grow.
+
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_dictionary.jpg)
+<div style="background-color:white;"> Giovanni Gaggino published an expanded second edition of his Italian-Malay dictionary, <i>Dizionario Italiano e Malese e Malese Italiano</i> (16.5 cm × 11.5 cm), in 1915. (From left) The cover, an inside page and the last page of the second edition which shows a mosquito. Perhaps not coincidentally, this mosquito bears a striking resemblance to the one that adorned the packaging of Esanofele, an anti-malarial pill distributed by Gaggino &amp; Co. in Singapore. <i> Collection of the National Library Singapore (call no. RRARE 499.135 GAG).</i></div>
+
+
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_malarial.jpg)
+<div style="background-color:white;">  Advertisement by Gaggino &amp; Co. for its anti-malarial Esanofele pills and Celestins Vichy table water. <i>Image reproduced from “Page 2 Advertisements Column 2,” Pinang Gazette and Straits Chronicle, 15 December 1912, 2. (From NewspaperSG).</i></div>
 
 Gaggino had no illusions about the academic rigour of his endeavour. It would not, he admitted in both editions, “meet the needs of a scholar or, even less, a philologist”. Nonetheless, it was a practical project. The Malay language was widely used in the region, spoken not just in Singapore but also in “Sumatra, Java, the Malay Peninsula, the surrounding regions, Cochin China, Siam, the Dutch East Indies, and as far as New Guinea”. He found the language not only useful but beautiful. The Malay of Pahang, he wrote, was especially dulcet and “highly suitable for singing”.[^22]
 
