@@ -7,7 +7,7 @@ description: ""
 #### The remarkable story of an Italian merchant who once owned Pulau Bukom and authored an Italian-Malay dictionary in colonial Singapore.  
 By Alex Foo
 
-![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_main.jpg)
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_main1.jpg)
 <div style="background-color:white;"> Portrait of Giovanni Gaggino in traditional Chinese attire in the frontispiece of <i>La Vallata del Yang-Tse-Kiang: Appunti e Ricordi di Giovanni Gaggino</i> (<i>The Yangtze Valley: Notes and Memories of Giovanni Gaggino</i>), 1901. Published by a fellow Ligurian, Count Edoardo del Mayno, the book gives an account of Gaggino sailing up the Yangtze River in China in 1898.  <i> From Internet Archive.</i></div>
 
 Long before the era of container ships and globalised trade, before the First World War and even before the full unification of Italy in 1871, an Italian mariner stepped off his boat onto the shores of Singapore, armed with little more than his wits and a sailor’s instinct for opportunity. He had neither connections nor a fortune. Yet, by the time he died in 1918 at the age of 72, Giovanni Gaggino had transformed himself into a millionaire merchant, shipowner and author.&nbsp;
