@@ -194,7 +194,7 @@ Of the work, Sharpley said “I believe that there is some extraordinary way we 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 40%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 40%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
 
 Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
 
@@ -206,7 +206,7 @@ In 2001, the SYO was renamed the Singapore National Youth Orchestra (SNYO). Its 
 
 #### **Notes**
 
-[^1]:  Wong Sher Maine and Viven Goh, _[Rehearsal for Life Singapore Youth Orchestra 1980-1990](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)_ (Singapore: Vivien Goh, 2015), 105. (From National Library, Singapore, call no. R 784.2095957 WON)
+[^1]:  Wong Sher Maine and Viven Goh, _[Rehearsal for Life Singapore Youth Orchestra 1980-1990](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)_ (Singapore: Vivien Goh, 2015), 105. (From National Library Singapore, call no. R 784.2095957 WON)
 
 [^2]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 105.
 
