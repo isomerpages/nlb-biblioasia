@@ -118,6 +118,9 @@ In 1922, empowered by the Italian court, Gaggino’s nephew Cesare Gaggino opene
 
 Some parts of Giovanni Gaggino’s wide-ranging collection survive today. The Civic Library of Pontinvrea and the Genoese Museums house several objects. Five ancient Malayan adzes – cutting tools with arched blades – found their way to Vienna’s Weltmuseum Wien, a gift from Gaggino to the Austro-Hungarian naval commander Constantin Edler von Pott. Gaggino had called these adzes “the oldest monuments of the peninsula”, dating to the Neolithic period and unearthed in 1894 during mineral excavations in Perak, Malaya.[^44]
 
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_adzes.jpg)
+<div style="background-color:white;">One of the adzes (<i>beliung batu</i>) unearthed in 1894 in Perak, Malaya, is now part of the collection of Weltmuseum Wien in Vienna. <i> From State Library of Victoria, gift of Allan C. Green.</i></div>
+
 Gaggino’s life was one of motion and reinvention – part autodidact, part entrepreneur, entirely self-made. As Singapore and Italy mark 60 years of diplomatic relations in 2025, it is worth remembering that Giovanni Gaggino was not just a merchant or adventurer, but also a self-appointed envoy of goodwill to his “beloved country” (_amato paese_), Singapore.[^45] He was a pioneer who sought to build a bridge between his homeland and his adopted port – one word, one deal and one dictionary at a time.&nbsp;
 
 _This article is dedicated to my father, no stranger to the seas._
