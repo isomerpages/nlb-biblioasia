@@ -74,7 +74,7 @@ Institute of Southeast Asian Studies, 2006).</p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by One Dash. The background music "Di
-Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank">Chords Haven</a>.
+Tanjong Katong" was composed by Ahmad Patek and performed by&nbsp;<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank">Chords Haven</a>.
 Special thanks to Tanya for coming on the show.</p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.</p>

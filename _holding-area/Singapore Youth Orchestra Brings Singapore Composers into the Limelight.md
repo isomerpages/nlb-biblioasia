@@ -13,7 +13,7 @@ When the Singapore Youth Orchestra (SYO) was formed in 1980, part of its mission
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/1985_SYO_orchestra_cp.jpg" style="width: 80%;">The 1985 Singapore Youth Orchestra. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985), np. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/1985_SYO_orchestra_cp.jpg" style="width: 80%;">The 1985 Singapore Youth Orchestra. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985), np. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
 
 During its first decade, under SYO’s founding music director and resident conductor Vivien Goh, a total of seven works were commissioned from local composers and one by the American John Sharpley. The new local works were “Dance Suite” by Leong Yoon Pin (premiered in 1982); “Variations on Dayong Sampan” by Phoon Yew Tien (premiered in 1985); “Stasis” by Tsao Chieh (premiered in 1988); “Fanfare for Joy” by Leong Yoon Pin (premiered in 1986); “Ascent” by Yan Yin Wing (premiered in 1987); “Symphony No. 1” by Bernard Tan (premiered in 1990); and “Salute to My Homeland” by Lim Chin Tiong (premiered in 1987). In 1985, John De Souza was commissioned to write an orchestral arrangement for his composition “Undaunted” that had originally been composed earlier that year. The SYO performed “Undaunted” and his 1980 composition “Sentosa” in 1985. In addition, the SYO also featured the works of American composers who resided in Singapore: David Campbell’s “Singapore Suite” (premiered in 1986) and Sharpley’s “Sojurn” (commissioned in 1988). Three commissioned works were taken on tour: “Dance Suite” to Rome, “Variations of Dayong Sampan” to Lancashire and London, and “Stasis” to Perth.
 
@@ -23,11 +23,11 @@ Composers were told to temper the technical difficulties of their compositions c
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_camp.jpg" style="width: 80%;">Singapore Youth Orchestra music camp concert 1981. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 13. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_camp.jpg" style="width: 80%;">Singapore Youth Orchestra music camp concert 1981. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 13. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_Public_Concert_1982_cp.jpg" style="width: 80%;">Singapore Youth Orchestra public performance in 1982. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 12. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_Public_Concert_1982_cp.jpg" style="width: 80%;">Singapore Youth Orchestra public performance in 1982. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 12. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
 
 From the 1990s to 2011, the SYO continued to commission new works by composers such as Tsao Chieh (“Prelude”, “Fugue” and “Fugato”, 1992), Leong Yoon Pin (“Metamorphosis”, 1993), Er Yenn Chwen (“Three Sketches for Choral and Orchestra”, 1994; “Opening Hearts for Choral and Orchestra”, 2002), Joyce Bee Tuan Koh (“Above Dancing Waters”, 1996), Howard John (“Symphonic Variations on Westron Wynde”, 1997), Kelly Tang (“Sinfonia Concertante”, 1998, “Symphonic Suite”, 2008), Ho Chee Kong (“Enchanted Paths”, 2000), Bernard Tan (“Overture to Youth”, 2001), Philip Tan (“Ten Months”, 2003), Robert Casteels (“Kriesleriana”, 2004), Phoon Yew Tien ( “Summer Rhapsody”, 2009), and Chen Zhangyi ( “A Carp Emerges”, 2011).[^5]
 
@@ -47,7 +47,7 @@ Tan Kim Swee, the general manager of the orchestra, had the task of procuring un
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/leong_yoon_pin_cp.jpg" style="width: 60%;">Leong Yoon Pin, 1982. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/leong_yoon_pin_cp.jpg" style="width: 50%;">Leong Yoon Pin, 1982. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
 
 Now regarded as the doyen of pioneer Singapore composers, Leong was, at the time of the commission, a Lecturer in the Music Department of the Institute of Education. He had studied piano in England with George Rogers, conducting with British conductor Robert Barclay Wilson and composed a work with renowned French composer Nadia Boulanger. Back in Singapore, Leong was the conductor of the Metro-Philharmonic Society Chorus and Orchestra (1959). He was also deeply involved in music education – first as a lecturer and head of music at the Teacher’s Training College (1958–88) and an advisor to organisations such as the National Arts Council, National Institute of Education and the Nanyang Academy of Fine Arts. He was awarded the Cultural Medallion in 1982.[^9]
 
@@ -59,11 +59,11 @@ Phoon Yew Tien’s (1952–) “Variations” was commissioned by the SYO specia
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Phoon_Yew_Tien_cp.jpg" style="width: 60%;">Composer Phoon Yew Tien, 1985.<i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Phoon_Yew_Tien_cp.jpg" style="width: 50%;">Composer Phoon Yew Tien, 1985.<i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/dayong_sampan_programme_cp.jpg" style="width: 80%;">Phoon Yew Tien’s “Variations on ‘Dayong Sampan’”. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/dayong_sampan_programme_cp.jpg" style="width: 65%;">Phoon Yew Tien’s “Variations on ‘Dayong Sampan’”. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
 
 Phoon’s interest in music started from early childhood. He was in the flute section of the Singapore Chinese Youth Orchestra, which had participated in the 1971 Festival of Youth Orchestras in Switzerland. He was mentored by composer Leong Yoon Pin in the 1970s and received a Singapore Symphonic Orchestra scholarship in 1980 to the Queensland Conservatorium of Music in Brisbane, Australia, where he graduated with a double degree in Music Composition and Flute. He won the Dulcie Robertson Prize in composition three times in 1980, 1981 and 1983, as well as the Yoshiro Irino Memorial Prize for Composition awarded by the Asian Composers’ Society in 1984 for a piece called “Autumn”.[^10]
 
@@ -75,7 +75,7 @@ Phoon returned to Singapore in 1983 and wrote music for drama and dance groups. 
 
 The whole piece is a succession of modes which are subsets of the scale of A major, initially comprising only two or three notes. The modes wax and wane in complexity. Controlled improvision is used in several places in the work and exotic instrumental effects such as bowed vibraphone, water gong and exhalation sounds for solo flute, strings, percussion and woodwind. At the climactic point, all the notes in A major are used simultaneously. After that, the modes gradually diminish in complexity. Vibraphone, celesta and solo violin end the piece on a pentatonic chord.
 
-One challenge for this piece was the novel instruments needed. SYO Manager Tan Kim Swee was called upon to secure what he described as a “fantastic crop of instruments”.[^13] Among them was a glass chime, which he practically manufactured in his office using materials from a Science laboratory. They also needed a custom-built wooden tank fill with water for a tam-tam (gong) that had to be quickly immersed in water once struck. This tank had to be filled with water via a long hose attached to one of the taps in the toilets backstage.[^14]
+One challenge for this piece was the novel instruments needed. SYO Manager Tan Kim Swee was called upon to secure what he described as a “fantastic crop of instruments”.[^13] Among them was a glass chime, which he practically manufactured in his office using materials from a science laboratory. They also needed a custom-built wooden tank fill with water for a tam-tam (gong) that had to be quickly immersed in water once struck. This tank had to be filled with water via a long hose attached to one of the taps in the toilets backstage.[^14]
 
 Percussionist Daphne Tan recalled the laborious task of fetching water and preparing the tam-tam and the hefty water trough for each rehearsal. “My former section mates still jibe each other about the labours we experienced having to fetch water and laboriously prepare the “water gong” and its heavy water trough at each rehearsal,” she said. “To a bunch of apathetic teenagers at the time, it was a thankless task for a dubious effect which we felt could have been better met or substituted with less complicated means. You could almost hear our skepticism in the way we dunked the gong into the water.”[^15] That skepticism dissipated when they performed “Stasis” in Perth, Australia though.
 
@@ -95,7 +95,7 @@ The Singapore Youth Training Orchestra was inaugurated in September 1986. The tr
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Singapore_Youth_Training_Orchestra_5_Sep_1987_cp.jpg" style="width: 80%;">Singapore Youth Training programme for its September 1987 performance.<i> Image reproduced from Singapore Youth Training Orchestra Sunday 5th September 1987 Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1987). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.8).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Singapore_Youth_Training_Orchestra_5_Sep_1987_cp.jpg" style="width: 80%;">Singapore Youth Training programme for its September 1987 performance.<i> Image reproduced from Singapore Youth Training Orchestra Sunday 5th September 1987 Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1987). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.8).</i></div>
 
 Leong Yoon Pin was once again called upon to write a piece that would be suitable for the young musicians. Although fanfare is normally associated with a performance of an assortment of high brass instruments, “Fanfare for Joy” was written for a full orchestra and Leong wanted to showcase the exuberance of youth.
 
@@ -105,7 +105,7 @@ Conducted by Lee Tsu Hock, “Fanfare for Joy” premiered on 7 September 1986 a
 
 #### **“Ascent” by Yan Yin Wing (1987)**
 
-“Ascent” was composed _“_especially for the SYO…to reflect the challenge of overcoming problems and reaching excellence – something which is in keeping with Singapore’s present approach to nation-building.” It expresses hope, hard work and achievement. But also carries  
+“Ascent” was composed “especially for the SYO…to reflect the challenge of overcoming problems and reaching excellence – something which is in keeping with Singapore’s present approach to nation-building.” It expresses hope, hard work and achievement. But also carries  
 “a slight touch of turmoil and bleakness to pose the challenges, odds which can be overcome by trying hard to succeed”.[^21] It premiered on 4 August 1987 at the World Trade Centre Auditorium.
 
 A violinist and conductor, Yan Yin Wing obtained the ARCM in violin teaching at the Royal College of Music in London in 1976-78. He received a scholarship for a Summer Conductors’ Course organised by the Ernest Read Music Association in 1978. In 1984, he pursued an Advanced Orchestra Conducting Course at Sweelinck Conservatorium Amsterdam and attended an Orchestra Conducting Master Class at the International Sommerakademie of the Mozarteum in Salzburg, Austria.[^22] Back in Singapore, he formed the Emmanuel Chamber Orchestra (1980), Emmanuel String Orchestra (1988),[^23] conducted the Chinese Churches Orchestra as well as the National Junior College String Orchestra.[^24]
@@ -114,11 +114,11 @@ As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/braddell_heights.png" style="width: 80%;">Braddell Heights Symphony Orchestra, 1990.<i> Source: Straits Times, 16 November 1990 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/braddell_heights.png" style="width: 65%;">Braddell Heights Symphony Orchestra, 1990.<i> Source: Straits Times, 16 November 1990 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/yan_yan_wing.png" style="width: 80%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano), and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/yan_yan_wing.png" style="width: 65%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano), and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 ####  **“Symphony no.1” by Bernard Tan (1990)**
 
@@ -148,15 +148,15 @@ De Souza has composed over a hundred school songs and written countless arrangem
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score.jpg" style="width: 60%;">Music score for “Sentosa”, 1980.<i> Courtesy of _Vivien Goh.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score_rev.jpg" style="width: 50%;">Music score for “Sentosa”, 1980.<i> Courtesy of Vivien Goh.</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_James_de_Souza_1_cp.jpg" style="width: 60%;">Composer John James de Souza, 1985.<i>  Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_James_de_Souza_1_cp.jpg" style="width: 50%;">Composer John James de Souza, 1985.<i>  Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_8_Dec_1985_programme_cp.jpg" style="width: 60%;">Singapore Youth Orchestra 8 December 1985 programme. De Souza’s works were performed at this concert.<i> Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_8_Dec_1985_programme_cp.jpg" style="width: 50%;">Singapore Youth Orchestra 8 December 1985 programme. De Souza’s works were performed at this concert.<i> Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
 
 #### **“Jingli Zuguo” (Salute to my Homeland) by Lim Chin Tiong (1987)**
 
@@ -166,7 +166,7 @@ Lim was among the first batch of graduates (1959) from Nanyang University (now N
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/lim_chin_tiong.png" style="width: 80%;">Lim Chin Tiong, 1985.<i> Source: Straits Times, 5 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/lim_chin_tiong.png" style="width: 60%;">Lim Chin Tiong, 1985.<i> Source: Straits Times, 5 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 #### **“Singapore Suite” by David Campbell (1984)**
 
@@ -178,7 +178,7 @@ David Campbell is an American pianist, organist, teacher and composer in the New
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/David_Campbell_SYO.png" style="width: 80%;">Singapore Youth Orchesta 1 April 1984 programme featuring David Campbell’s “Singapore Suite”.<i> Image reproduced from Singapore Youth Orchestra: Sunday 1st April 1984, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.29).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/David_Campbell_SYO.png" style="width: 70%;">Singapore Youth Orchesta 1 April 1984 programme featuring David Campbell’s “Singapore Suite”.<i> Image reproduced from Singapore Youth Orchestra: Sunday 1st April 1984, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.29).</i></div>
 
 #### **“Sojourn” by John Sharpley (1988)**
 
@@ -190,11 +190,11 @@ Of the work, Sharpley said “I believe that there is some extraordinary way we 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_3_Aug_1989_programme.png" style="width: 60%;">Singapore Youth Orchestra 3 August 1989 programme.<i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_3_Aug_1989_programme.png" style="width: 45%;">Singapore Youth Orchestra 3 August 1989 programme.<i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 50%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 35%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
 
 Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
 
@@ -206,7 +206,7 @@ In 2001, the SYO was renamed the Singapore National Youth Orchestra (SNYO). Its 
 
 #### **Notes**
 
-[^1]:  Wong Sher Maine and Viven Goh, _[Rehearsal for Life Singapore Youth Orchestra 1980-1990](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)_ (Singapore: Vivien Goh, 2015), 105. (From National Library, Singapore, call no. R 784.2095957 WON)
+[^1]:  Wong Sher Maine and Viven Goh, _[Rehearsal for Life Singapore Youth Orchestra 1980-1990](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)_ (Singapore: Vivien Goh, 2015), 105. (From National Library Singapore, call no. R 784.2095957 WON)
 
 [^2]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 105.
 

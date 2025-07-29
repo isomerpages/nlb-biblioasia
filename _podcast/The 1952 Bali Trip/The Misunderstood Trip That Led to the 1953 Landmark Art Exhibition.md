@@ -97,7 +97,7 @@ call no. RSING 759.95957 LIU)</p>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by Doppler Soundlab. The background
 music “<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer" target="_blank"><u>Di Tanjong Katong</u></a>”
-was composed by Osman Ahmad and performed by&nbsp;Chords Haven. Special
+was composed by Ahmad Patek and performed by&nbsp;Chords Haven. Special
 thanks to Gretchen for coming on the show.</p>
 </div>
 </details>

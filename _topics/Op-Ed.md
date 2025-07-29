@@ -11,6 +11,13 @@ Writing a memoir involves personal experiences, digging deep into our memories a
 <img src="/images/Vol%2021%20Issue%203/Excavating%20the%20Past/Excavating_Topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">**New Experiences and Discoveries: The Libraries and Archives of Tomorrow**</a>
+
+Ng Cher Pong, Chief Executive Officer of the National Library Board, shares his thoughts and insights on how libraries and archives can stay relevant in today’s world.
+
+<img src="/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/fake-news/">“Fake” News: Since When Was It News?</a>
 
 Lying, as it appears, is as old as history.&nbsp;**Farish A. Noor**&nbsp;explains.
@@ -44,6 +51,7 @@ What does it take to achieve the Singapore Dream?&nbsp;**Parag Khanna**&nbsp;ide
 Travel writer&nbsp;**Desiree Koh**&nbsp;shares her wanderlust and love for Southeast Asia and remembers the places that have impacted her life and the way she sees the world.
 
 <img src="/images/vol-10-issue-3/backyard/temple_trotting.jpg" style="width:80%;">
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/carl-schoonover-nlb-info-literacy/">**Dr Carl Schoonover on Being SURE**</a>
@@ -51,6 +59,7 @@ Travel writer&nbsp;**Desiree Koh**&nbsp;shares her wanderlust and love for South
  In this exclusive interview,&nbsp;**Dr Carl Schoonover**&nbsp;shares how the brain processes information and the importance of Information Literacy and the S.U.R.E. ways in the corroboration of information and data.
 
 <img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg" style="width:80%;">
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani/">**So, What is a Singaporean?**</a>

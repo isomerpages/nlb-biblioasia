@@ -52,7 +52,7 @@ no. 4 (2024).</p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap. Sound engineering
 was done by One Dash. The background music "Di Tanjong Katong" was composed
-by Osman Ahmad and performed by <a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank"><u>Chords Haven</u></a>.
+by Ahmad Patek and performed by <a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank"><u>Chords Haven</u></a>.
 Special thanks to Tee Pao for coming on the show.</p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.</p>

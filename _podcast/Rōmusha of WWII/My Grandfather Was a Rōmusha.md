@@ -14,7 +14,7 @@ During World War II, forced civilian labourers known as [rōmusha](/vol-18/issue
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QdzUTGMl4KQ?si=hpyY1W8ht2LxGyyf" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on: [Spotify](https://open.spotify.com/episode/4D67FbUNy43fDHajMH606E), [Apple Podcasts](https://podcasts.apple.com/us/podcast/my-grandfather-was-a-r%C5%8Dmusha/id1688142751?i=1000617459997), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDBkYmQyMDItY2UwMy00NzFmLWIwYmEtM2E4ODBmMzE5MWM4?sa=X&amp;ved=0CAUQkfYCahcKEwiIwraqrc__AhUAAAAAHQAAAAAQAQ), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/My-Grandfather-Was-a-R%C5%8Dmusha-2115266)
+Available on: [Spotify](https://open.spotify.com/episode/4D67FbUNy43fDHajMH606E), [Apple Podcasts](https://podcasts.apple.com/us/podcast/my-grandfather-was-a-r%C5%8Dmusha/id1688142751?i=1000617459997), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/My-Grandfather-Was-a-R%C5%8Dmusha-2115266)
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
@@ -32,6 +32,6 @@ Takuma Melber, “The Labour Recruitment of Local Inhabitants as Rōmusha in Jap
 
 
 #### **Credits** ####
-This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Shirlene Noordin and her family for sharing their story.
+This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Ahmad Patek and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Shirlene Noordin and her family for sharing their story.
 
-BiblioAsia+ is a podcast about Singapore history by the National Library of Singapore.
+BiblioAsia+ is a podcast about Singapore history by the National Library Singapore.

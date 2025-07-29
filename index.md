@@ -1113,4 +1113,25 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
       image: /images/Vol 21 Issue 2/PS Teo/karang_guni_topic.jpg
       alt: P.S. Teo and Ronni Pinsler
+  - infopic:
+      title: The Libraries and Archives of Tomorrow
+      subtitle: Op-ed
+      id: infopic
+      description: Ng Cher Pong, CEO of the National Library Board, shares his
+        thoughts and insights on how libraries and archives can stay relevant in
+        today’s world.
+      button: THE FUTURE OF LIBRARIES AND ARCHIVES
+      url: /vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/
+      image: /images/Vol 21 Issue 2/Libraries of Tomorrow/tomorrow_Topics.jpg
+      alt: Libraries & Archives Tomorrow
+  - infopic:
+      title: Excavating the Past
+      subtitle: People
+      id: infopic
+      description: Writing a memoir involves personal experiences, digging deep into
+        our memories and the emphasis on factual information.
+      button: Challenges of Memoir Writing
+      url: /vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/
+      image: /images/Vol 21 Issue 3/Excavating the Past/Excavating_Topic.png
+      alt: Excavating the Past
 ---
