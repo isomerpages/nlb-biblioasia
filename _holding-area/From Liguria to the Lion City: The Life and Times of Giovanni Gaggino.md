@@ -50,6 +50,9 @@ The government swiftly rejected the plan.[^11] The company thus set their sights
 
 Gaggino subsequently invested some of his profits in ships. A report in the _Singapore Free Press and Mercantile Advertiser_ described how he acquired the Dutch steamer _Srie Banjar_ in January 1899. He reflagged the vessel under Italian registry and renamed it _Libertas_. A baptism was held at the harbour, presided by Father Charles Bénédict Nain, vicar of the Cathedral of the Good Shepherd. Father Nain would also christen Gaggino’s two other ships: the _Santa Anna_ and _Santa Tarcila_. A sunken British surveying vessel, the HMS _Waterwitch_, also joined his collection in 1912. Gaggino had it refloated and then refitted as his private yacht, the _Fata Morgana_.[^14]
 
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_hms.jpg)
+<div style="background-color:white;">The HMS <i>Waterwitch</i>, a British survey ship. Giovanni Gaggino bought the vessel in 1912 and refitted it as his private yacht, the <i>Fata Morgana</i>. <i> From State Library of Victoria, gift of Allan C. Green.</i></div>
+
 Apart from running Gaggino &amp; Co., Gaggino was also managing director of Soon Keck Line of Steamers, Limited. During the First World War, he convened an extraordinary general meeting to donate $6,150 to the Straits Settlements War Loan to support the British and the Allies against the Germans. He was, as noted by the papers, disappointed by the lukewarm response of local companies as he felt that it was British naval prowess that had made their wealth possible.[^15]
 
 Gaggino also looked towards the wider region, diversifying into rubber and tin. He bought 16,000 rais (approximately 256 ha) of land in 1910 for the development of rubber plantations in Trang, Thailand. In 1913, he founded Mutual Trading Limited with a capital of $200,000 to develop the shipping trade with neighbouring colonies.[^16]
