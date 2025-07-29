@@ -104,12 +104,12 @@ _This article is dedicated to my father, no stranger to the seas._
 
 #### **Notes**
 
-[^1]:  Derek Heng, “Continuities and Changes: Singapore as a Port-City over 700 Years,” _BiblioAsia_ 1, no. 1 (2005): 12–16.
+[^1]:  Derek Heng, “[Continuities and Changes: Singapore as a Port-City over 700 Years](https://biblioasia.nlb.gov.sg/vol-1/issue1/nov-2005/continuities-changes-port-city/),” _BiblioAsia_ 1, no. 1 (2005): 12–16.
 
-[^2]: Kwa Chong Guan et al. eds., _Seven Hundred Years: A History of Singapore_ (Singapore: National Library Board and Marshall Cavendish International, 2019), 81. (From National Library Singapore, call no. RSING 959.57 KWA-\[HIS\]); Matteo Salonia, “A Dissenting Voice: The Clash of Trade and Warfare in Giovanni da Empoli's Account of His Second Voyage to Portuguese Asia,” _Itinerario_ 45, no. 2 (2021): 189–207, https://doi.org/10.1017/S0165115321000176.
+[^2]: Kwa Chong Guan et al. eds., [_Seven Hundred Years: A History of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868733) (Singapore: National Library Board and Marshall Cavendish International, 2019), 81. (From National Library Singapore, call no. RSING 959.57 KWA-\[HIS\]); Matteo Salonia, “A Dissenting Voice: The Clash of Trade and Warfare in Giovanni da Empoli's Account of His Second Voyage to Portuguese Asia,” _Itinerario_ 45, no. 2 (2021): 189–207, [https://doi.org/10.1017/S0165115321000176](https://doi.org/10.1017/S0165115321000176).
 
 
-[^3]: Kwa et al., _Seven Hundred Years_, 103, 158–59.&nbsp;
+[^3]: Kwa et al., [_Seven Hundred Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868733), 103, 158–59.&nbsp;
 
 
 [^4]: Francesco Surdich, “Da Varazze a Singapore: Giovanni Gaggino (1846–1913),” _Atti e Memorie della Società Savonese di Storia Patria_ 26 (1990): 150, https://www.storiapatriasavona.it/archivio-pubblicazioni/atti-e-memorie-n-s-1967-2012/.
