@@ -148,11 +148,11 @@ De Souza has composed over a hundred school songs and written countless arrangem
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score.jpg" style="width: 60%;">Music score for “Sentosa”, 1980.<i> Courtesy of _Vivien Goh.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score_rev.jpg" style="width: 50%;">Music score for “Sentosa”, 1980.<i> Courtesy of Vivien Goh.</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_James_de_Souza_1_cp.jpg" style="width: 60%;">Composer John James de Souza, 1985.<i>  Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_James_de_Souza_1_cp.jpg" style="width: 50%;">Composer John James de Souza, 1985.<i>  Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
 
 <div style="background-color: white;">
 <br>
