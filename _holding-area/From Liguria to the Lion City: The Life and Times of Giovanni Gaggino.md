@@ -37,6 +37,10 @@ The company was eventually appointed to the Russian, French, German, Austrian, S
 
 A small island about 5 km south of the Singapore mainland, he had purchased it for a mere $500 when it was known as Freshwater Island.[^9] The island got its name because of the freshwater well on it. This well allowed Gaggino to supply passing ships with drinking water.&nbsp;
 
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_island.jpg)
+<div style="background-color:white;"> Attap houses on Pulau Bukom, c. 1910. Giovanni Gaggino bought the island for $500 in 1884 when it was known as Freshwater Island. Until 2024, the island was home to Shell's largest wholly owned refinery. <i> Collection of Singapore Philatelic Museum. Donated by Prof Cheah Jin Seng.</i></div>
+
+
 In 1891, M. Samuel &amp; Co. of London, an early player that would later become Shell, sought to build a petroleum tank depot on mainland Singapore at Bukit Chermin and Pasir Panjang. The idea was met with fierce opposition. Merchants feared the danger of flammable cargo so close to the city, so much so that the press labelled it a “petroleum plot”.[^10]
 
 The government swiftly rejected the plan.[^11] The company thus set their sights on Pulau Bukom. The island had a sheltered harbour, a deep sea waterfront and, crucially, was beyond harbour limits, so no government inspections of steamships were required.[^12] The company put it plainly: “As nearly all oil sold here has to be transshipped, \[we\] might as well ship \[them\] from Freshwater Island as from Singapore.”[^13] The company, through merchant and agency house Syme &amp; Co., acquired 8 ha of the island from Gaggino in 1891, earning him a tidy sum of $3,000.
@@ -50,6 +54,10 @@ Gaggino also looked towards the wider region, diversifying into rubber and tin. 
 #### **Gaggino’s Italian-Malay Dictionary**
 
 In 1884, Gaggino published the _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione per Servire d'Interprete al Viaggiatore che Vista e Traffica con la Malesia_ (Italian-Malay Dictionary: Preceded by a Practical Conversational Manual to Serve as an Interpreter for the Traveller Visiting and Trading with Malaya) through Denodaya Press in Singapore. It was a 388-page publication containing a handbook of phrases for everyday conversations as well as a dictionary of Italian words in alphabetical order and their corresponding Malay equivalents in both romanised and Jawi scripts.[^17]
+
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_book.jpg)
+<div style="background-color:white;">Giovanni Gaggino published <i>Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione per Servire D’interprete al Viaggiatore che Vista e Traffica con la Malesia</i> (15.7 cm × 10.4 cm) through the Denodaya Press in Singapore in 1884. <i> Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 
 This remarkable undertaking was dedicated to Sultan Abu Bakar, the so-called Father of Modern Johor, a reformist monarch whose modernisation drive gained him seven foreign decorations including, Gaggino was careful to note in the preface, the Commander of the Order of the Crown of Italy.[^18]
 
