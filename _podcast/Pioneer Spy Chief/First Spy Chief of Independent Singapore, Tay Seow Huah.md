@@ -28,9 +28,9 @@ a giant role serving a newly independent Singapore.</p>
 <p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/episode/1g7nEuOm3bxnF5x3MaQ3Ah"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/first-spy-chief-of-independent-singapore-tay-seow-huah/id1688142751?i=1000715646547"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/First-Spy-Chief-of-Independent-Singapore--Tay-Seow-Huah-2983361"><img style="width: 28%;" height="auto" width="100%" alt="" src="/images/Podcast/Colored.png"></a>
+<p></p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
-<h4></h4>
 <p></p>
 <h4><strong>What Simon Talked About</strong></h4>
 <p>00:00 – The 1974 Laju hijacking and its significance
