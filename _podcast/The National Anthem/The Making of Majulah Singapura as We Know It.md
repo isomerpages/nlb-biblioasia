@@ -20,6 +20,8 @@ versions differ on his piano.&nbsp;
 <p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Colored.png"></a>
+<p></p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Prof Tan Talked About</strong></h4>
