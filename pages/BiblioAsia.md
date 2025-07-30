@@ -28,7 +28,7 @@ boxing superstar?</p>
 by Zubir Said. Emeritus Professor Bernard Tan talks about how "Majulah
 Singapura" came about and how it changed over the decades, and illustrates
 how these versions differ on his piano.</div>
-<div class="isomer-card-link">Coming in August</div>
+<div class="isomer-card-link">Listen to the episode</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tay Seow Huah: First Spy Chief of Independent Singapore" src="/images/Podcast/Simon_600_by_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">First Spy Chief of Independent Singapore, Tay Seow Huah</div><div class="isomer-card-description">Tay Seow Huah, then Permanent Secretary for the Home Affairs Ministry, helmed Singapore’s response to the 1974 Laju hijacking incident. Award-winning writer Simon Tay tells us about how his Penang-born father came to play a giant role serving a newly independent Singapore.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/hawker-culture-in-singapore-ryan-kueh/" class="isomer-card">
