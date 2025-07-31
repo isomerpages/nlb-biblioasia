@@ -7,9 +7,15 @@ description: ""
 #### The remarkable story of an Italian merchant who once owned Pulau Bukom and authored an Italian-Malay dictionary in colonial Singapore.  
 By Alex Foo
 
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_main1.jpg)
+<div style="background-color:white;"> Portrait of Giovanni Gaggino in traditional Chinese attire in the frontispiece of <i>La Vallata del Yang-Tse-Kiang: Appunti e Ricordi di Giovanni Gaggino</i> (<i>The Yangtze Valley: Notes and Memories of Giovanni Gaggino</i>), 1901. Published by a fellow Ligurian, Count Edoardo del Mayno, the book gives an account of Gaggino sailing up the Yangtze River in China in 1898.  <i> From Internet Archive.</i></div>
+
 Long before the era of container ships and globalised trade, before the First World War and even before the full unification of Italy in 1871, an Italian mariner stepped off his boat onto the shores of Singapore, armed with little more than his wits and a sailor’s instinct for opportunity. He had neither connections nor a fortune. Yet, by the time he died in 1918 at the age of 72, Giovanni Gaggino had transformed himself into a millionaire merchant, shipowner and author.&nbsp;
 
 Born in 1846 in the town of Varazze, in the northwestern coastal region of Liguria, Gaggino made Singapore his home for over four decades, launching a flurry of ventures that ranged from the purchase of Pulau Bukom to a rubber plantation in Thailand. He built a thriving ship chandlery, Gaggino &amp; Co., capitalising on the port’s explosive growth to supply ships with sundry maritime necessities. He also sailed up the Yangtze River in China, ventured into Vladivostok in Russia and trekked throughout Southeast Asia in search of business opportunities. While Gaggino may not have been the first Italian to pass through Singapore, he was arguably the first to leave his mark.&nbsp;
+
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_adv.jpg)
+<div style="background-color:white;"> Advertisement by Gaggino &amp; Co., a ship chandlery that provided supplies and equipment to vessels passing through Singapore.  <i> Image reproduced from “Page 2 Advertisements Column 3,” Straits Times, 1 December 1904, 2. (From NewspaperSG). </i></div>
 
 #### **The Italian Presence in the Straits**
 
@@ -27,15 +33,25 @@ There is a Latin saying, _Genuensis ergo mercator_, which means “Genoese, ther
 
 By 1876, he had founded Gaggino &amp; Co., a ship chandlery that provided supplies and equipment to vessels passing through Singapore. The business quickly grew into a trusted name. Chandlers were judged by their speed and reliability, and Gaggino promised “water and coal supplied at the shortest notice”, minimising downtime for ships and maximising efficiency. His office stood near Cavenagh Bridge, just across the river from the General Post Office (where Fullerton Hotel now stands) until 1914.&nbsp;
 
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_bridge.jpg)
+<div style="background-color:white;"> View of Cavenagh Bridge looking towards Empress Place, 1900s. Gaggino &amp; Co. was located near the bridge, just across from the General Post Office (now the Fullerton Hotel). <i>  Courtesy of National Archives of Singapore (Media - Image no. 19980007378 - 0039).</i></div>
+
 The company was eventually appointed to the Russian, French, German, Austrian, Spanish, Portuguese and Italian navies.[^8] Gaggino’s business venture, however, did not stop here. Interestingly, he was once the owner of Pulau Bukom.
 
 A small island about 5 km south of the Singapore mainland, he had purchased it for a mere $500 when it was known as Freshwater Island.[^9] The island got its name because of the freshwater well on it. This well allowed Gaggino to supply passing ships with drinking water.&nbsp;
+
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_island.jpg)
+<div style="background-color:white;"> Attap houses on Pulau Bukom, c. 1910. Giovanni Gaggino bought the island for $500 in 1884 when it was known as Freshwater Island. Until 2024, the island was home to Shell's largest wholly owned refinery. <i> Collection of Singapore Philatelic Museum. Donated by Prof Cheah Jin Seng.</i></div>
+
 
 In 1891, M. Samuel &amp; Co. of London, an early player that would later become Shell, sought to build a petroleum tank depot on mainland Singapore at Bukit Chermin and Pasir Panjang. The idea was met with fierce opposition. Merchants feared the danger of flammable cargo so close to the city, so much so that the press labelled it a “petroleum plot”.[^10]
 
 The government swiftly rejected the plan.[^11] The company thus set their sights on Pulau Bukom. The island had a sheltered harbour, a deep sea waterfront and, crucially, was beyond harbour limits, so no government inspections of steamships were required.[^12] The company put it plainly: “As nearly all oil sold here has to be transshipped, \[we\] might as well ship \[them\] from Freshwater Island as from Singapore.”[^13] The company, through merchant and agency house Syme &amp; Co., acquired 8 ha of the island from Gaggino in 1891, earning him a tidy sum of $3,000.
 
 Gaggino subsequently invested some of his profits in ships. A report in the _Singapore Free Press and Mercantile Advertiser_ described how he acquired the Dutch steamer _Srie Banjar_ in January 1899. He reflagged the vessel under Italian registry and renamed it _Libertas_. A baptism was held at the harbour, presided by Father Charles Bénédict Nain, vicar of the Cathedral of the Good Shepherd. Father Nain would also christen Gaggino’s two other ships: the _Santa Anna_ and _Santa Tarcila_. A sunken British surveying vessel, the HMS _Waterwitch_, also joined his collection in 1912. Gaggino had it refloated and then refitted as his private yacht, the _Fata Morgana_.[^14]
+
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_hms.jpg)
+<div style="background-color:white;">The HMS <i>Waterwitch</i>, a British survey ship. Giovanni Gaggino bought the vessel in 1912 and refitted it as his private yacht, the <i>Fata Morgana</i>. <i> From State Library of Victoria, gift of Allan C. Green.</i></div>
 
 Apart from running Gaggino &amp; Co., Gaggino was also managing director of Soon Keck Line of Steamers, Limited. During the First World War, he convened an extraordinary general meeting to donate $6,150 to the Straits Settlements War Loan to support the British and the Allies against the Germans. He was, as noted by the papers, disappointed by the lukewarm response of local companies as he felt that it was British naval prowess that had made their wealth possible.[^15]
 
@@ -45,11 +61,22 @@ Gaggino also looked towards the wider region, diversifying into rubber and tin. 
 
 In 1884, Gaggino published the _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione per Servire d'Interprete al Viaggiatore che Vista e Traffica con la Malesia_ (Italian-Malay Dictionary: Preceded by a Practical Conversational Manual to Serve as an Interpreter for the Traveller Visiting and Trading with Malaya) through Denodaya Press in Singapore. It was a 388-page publication containing a handbook of phrases for everyday conversations as well as a dictionary of Italian words in alphabetical order and their corresponding Malay equivalents in both romanised and Jawi scripts.[^17]
 
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_book.jpg)
+<div style="background-color:white;">Giovanni Gaggino published <i>Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione per Servire D’interprete al Viaggiatore che Vista e Traffica con la Malesia</i> (15.7 cm × 10.4 cm) through the Denodaya Press in Singapore in 1884. <i> Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
+
 This remarkable undertaking was dedicated to Sultan Abu Bakar, the so-called Father of Modern Johor, a reformist monarch whose modernisation drive gained him seven foreign decorations including, Gaggino was careful to note in the preface, the Commander of the Order of the Crown of Italy.[^18]
 
 We have no proof that Gaggino and the Anglophile sultan ever met, but the gesture was typical of the Italian merchant. He was always attuned to the possibility of trade and mutual interest. In his humble and self-effacing dedication, he described the book as a “tiny grain (_granellino_) in the polyglotism of the century” inspired by the “ever-growing commerce between Italy and Malaya”.[^19] The sentiment was modest, but not unserious. Language, for the multilingual Gaggino, was a lubricant for commerce. He hoped that his compatriots would use his book and learn “to make himself understood and to understand others in the Malay language”.[^20]
 
 In 1915, 31 years after the publication of the first edition which had long gone out of print, Gaggino published a new expanded edition, also through Denodaya: the _Dizionario Italiano e Malese e Malese Italiano_ (Italian-Malay and Malay-Italian Dictionary). The new edition was now bidirectional and included descriptions of notable Singapore landmarks such as Cavenagh Bridge, the Singapore River and Raffles Square. Gaggino noted in the updated preface that “a large number of Malays and Javanese can now read and write using Roman characters”. He further observed that parents were sending their children to school at an earlier age and that while Malay was taught using Jawi script, the “Roman script is becoming more common as it is simpler to learn”.[^21] His hope, with the expanded edition, was that people-to-people contact between Italy and Malaya would grow.
+
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_dictionary.jpg)
+<div style="background-color:white;"> Giovanni Gaggino published an expanded second edition of his Italian-Malay dictionary, <i>Dizionario Italiano e Malese e Malese Italiano</i> (16.5 cm × 11.5 cm), in 1915. (From left) The cover, an inside page and the last page of the second edition which shows a mosquito. Perhaps not coincidentally, this mosquito bears a striking resemblance to the one that adorned the packaging of Esanofele, an anti-malarial pill distributed by Gaggino &amp; Co. in Singapore. <i> Collection of the National Library Singapore (call no. RRARE 499.135 GAG).</i></div>
+
+
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_malarial.jpg)
+<div style="background-color:white;">  Advertisement by Gaggino &amp; Co. for its anti-malarial Esanofele pills and Celestins Vichy table water. <i>Image reproduced from “Page 2 Advertisements Column 2,” Pinang Gazette and Straits Chronicle, 15 December 1912, 2. (From NewspaperSG).</i></div>
 
 Gaggino had no illusions about the academic rigour of his endeavour. It would not, he admitted in both editions, “meet the needs of a scholar or, even less, a philologist”. Nonetheless, it was a practical project. The Malay language was widely used in the region, spoken not just in Singapore but also in “Sumatra, Java, the Malay Peninsula, the surrounding regions, Cochin China, Siam, the Dutch East Indies, and as far as New Guinea”. He found the language not only useful but beautiful. The Malay of Pahang, he wrote, was especially dulcet and “highly suitable for singing”.[^22]
 
@@ -91,6 +118,9 @@ In 1922, empowered by the Italian court, Gaggino’s nephew Cesare Gaggino opene
 
 Some parts of Giovanni Gaggino’s wide-ranging collection survive today. The Civic Library of Pontinvrea and the Genoese Museums house several objects. Five ancient Malayan adzes – cutting tools with arched blades – found their way to Vienna’s Weltmuseum Wien, a gift from Gaggino to the Austro-Hungarian naval commander Constantin Edler von Pott. Gaggino had called these adzes “the oldest monuments of the peninsula”, dating to the Neolithic period and unearthed in 1894 during mineral excavations in Perak, Malaya.[^44]
 
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_adzes.jpg)
+<div style="background-color:white;">One of the adzes (<i>beliung batu</i>) unearthed in 1894 in Perak, Malaya, is now part of the collection of Weltmuseum Wien in Vienna. <i> From State Library of Victoria, gift of Allan C. Green.</i></div>
+
 Gaggino’s life was one of motion and reinvention – part autodidact, part entrepreneur, entirely self-made. As Singapore and Italy mark 60 years of diplomatic relations in 2025, it is worth remembering that Giovanni Gaggino was not just a merchant or adventurer, but also a self-appointed envoy of goodwill to his “beloved country” (_amato paese_), Singapore.[^45] He was a pioneer who sought to build a bridge between his homeland and his adopted port – one word, one deal and one dictionary at a time.&nbsp;
 
 _This article is dedicated to my father, no stranger to the seas._
@@ -99,7 +129,7 @@ _This article is dedicated to my father, no stranger to the seas._
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBrayu6h2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/AlexFoo.png">
 <b>Alex Foo</b>&nbsp;is a Manager in the Partnership Department at the National Library Board. Formerly a literary arts librarian, he has written for the Metropolitan Museum of Art, <i>Orientations</i> and <i>ArtsEquator</i>.</div>
 
 #### **Notes**
@@ -149,7 +179,7 @@ _This article is dedicated to my father, no stranger to the seas._
 [^15]: “[Soon Keck Ltd. Generous Contributions to War Funds](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19170303-1.2.24),” _Malaya Tribune_, 3 March 1917, 4; “[Soon Keck Line of Steamers, Limited](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180216-1.2.80.3),” _Straits Times_, 16 February 1918, 16. (From NewspaperSG)
 
 
-[^16]: “[Rubber &amp; Coconuts in Trang](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19111007-1.2.12),” _Pinang Gazette and Straits Chronicle_, 7 October 1911, 4; “Untitled,” _Singapore Free Press and Mercantile Advertiser_, 5 February 1913, 6. (From NewspaperSG); Surdich, “Da Varazze a Singapore,” 180–83.
+[^16]: “[Rubber &amp; Coconuts in Trang](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19111007-1.2.12),” _Pinang Gazette and Straits Chronicle_, 7 October 1911, 4; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19130205-1.2.34),” _Singapore Free Press and Mercantile Advertiser_, 5 February 1913, 6. (From NewspaperSG); Surdich, “Da Varazze a Singapore,” 180–83.
 
 
 [^17]: Giovanni Gaggino, _Dizionario Italiano e Malese: Preceduto da un Manuale Pratico di Conversazione per Servire d'Interprete al Viaggiatore che Vista e Traffica con la Malesia_ \[Italian-Malay Dictionary: Preceded by a Practical Conversational Manual to Serve as an Interpreter for the Traveller Visiting and Trading with Malaya\] (Singapore: Denodaya, 1884), preface, Prometheus-Academic Collections, [https://tufs.repo.nii.ac.jp/records/11300](https://tufs.repo.nii.ac.jp/records/11300). This was not the first Italian-Malay dictionary; that distinction belongs to the Venetian chronicler Antonio Pigafetta, who compiled one during Portuguese explorer Ferdinand Magellan’s circumnavigation of the globe. Pigafetta participated in the expedition, setting of from Spain in 1519, and served as Magellan’s assistant.
