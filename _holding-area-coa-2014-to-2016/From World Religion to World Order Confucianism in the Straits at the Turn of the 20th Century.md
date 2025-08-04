@@ -8,7 +8,7 @@ description: ""
 #### **Introduction**
 This essay explores the impact of the emerging scholarly discipline of the
 “science of religion” on the Confucianist movement in Singapore in the late
-19th and early 20th centuries. Anna Sun’s recent study on the modern origin of Confucianism as a “world religion” foregrounds the role of James Legge, a missionary and an Oxford University professor, in the establishment and dissemination of the scholarly category of “Confucianism” in the period.1
+19th and early 20th centuries. Anna Sun’s recent study on the modern origin of Confucianism as a “world religion” foregrounds the role of James Legge, a missionary and an Oxford University professor, in the establishment and dissemination of the scholarly category of “Confucianism” in the period.[^1]
 However, her study is limited to an exploration of the impact of Legge’s
 scholarship on the study of world religions in the Western academic and
 missionary circles.
@@ -50,12 +50,12 @@ According to Peter van der Veer, religions in the Chinese and Indian
 modern contexts were transformed into “moral sources of citizenship and
 national belonging” – rather than marginalised or eliminated – through
 their contact with the emerging political project of secularism as a colonial
-governing tool of religious and cultural difference.2
+governing tool of religious and cultural difference.[^2]
 
 Apart from playing a crucial role in the formulation of “national imaginaries”,
 the encounter with the imperial West enabled religions to be utilised to form
 – or imagine – supranational alliances and “alternative visions of the moral
-state”.3 This essay will show that the case of Lim Boon Keng’s articulations
+state”.[^3] This essay will show that the case of Lim Boon Keng’s articulations
 of Confucianism, as a religion and source of transnational moral citizenship,
 is an excellent example of the contradictory effect of secularism in a colonial
 setting, in van der Veer’s sense. In the spirit of the times, Legge conceptualised
@@ -86,7 +86,7 @@ adopted, contested or elaborated on Legge’s translations of the Confucian
 classics and views on Confucianism in relation to Christianity.
 
 Lim’s crucial role in the Confucianist movement in the Straits has already
-received substantial scholarly attention.4 However, his engagement with Legge’s scholarly work is noted only in passing.5 In addition, Lim’s
+received substantial scholarly attention.[^4] However, his engagement with Legge’s scholarly work is noted only in passing.[^5] In addition, Lim’s
 knowledge of the science of religion and its impact on his articulation of
 Confucianism as a world religion has entirely evaded the attention of the
 scholars working on the topic.
@@ -101,19 +101,19 @@ Confucianism, as a religion and global ethos in the Straits of Malacca, is
 also indebted to Tomoko Masuzawa’s study of the history of the concept
 of “world religion” within the discipline of science of religion and, in
 particular, the epistemic formation of this concept’s universalistic, supraethnic,
-or transnational, character.6
+or transnational, character.[^6]
 
 As Masuzawa shows, during the 19th century, the category of “world
 religion” emerged to help articulate the self-image of Europe as an ideal
 model of universal history, or leader of an international, global order on
 the one hand. On the other, this new category also served to (self) portray
 Europe as the sole custodian of harmonious regulation of internal differences
-within nation-states.7 Stated otherwise, world religions through their study
+within nation-states.[^7] Stated otherwise, world religions through their study
 within the new discipline of science of religion were approached as defining
-elements of non-European nations.8 The study presented in this essay, like
+elements of non-European nations.[^8] The study presented in this essay, like
 those of van der Veer’s and Sun’s, acknowledges the ultimate intellectual
 legacy of Talal Asad’s enquiry into the mutual formation of the religious and
-the secular through the colonial encounter.9
+the secular through the colonial encounter.[^9]
 
 Only when approached as a singular analytical field of enquiry can Lim’s
 views of Confucianism, simultaneously a religion and global political force,
@@ -126,46 +126,46 @@ James Legge (1815–1897) was the first professor of Chinese at Oxford
 University, where he worked from 1876 until his death. Before becoming
 a professor, Legge spent a large part of his life (1839–1873) as a missionary
 for the London Missionary Society, with postings in Malacca and Hong
-Kong.10 In the contemporary academic world, Legge is best remembered for
+Kong.[^10] In the contemporary academic world, Legge is best remembered for
 his English translations of the Chinese classics, as well as his engagement in
 the scientific study of Chinese religions in general – foremost of which was
-Confucianism.11 His lasting scholarly reputation was instrumental in shaping
+Confucianism.[^11] His lasting scholarly reputation was instrumental in shaping
 the current global perception of Confucianism as a defining element of
 Chinese culture, nation and politics.
 
 Legge’s first missionary posting in Malacca only lasted four years, from
-1839 to 1843. Nevertheless, by the time of his death, Legge was a wellknown
+1839 to 1843. Nevertheless, by the time of his death, Legge was a well-known
 Christian proselytiser, scholar and educationalist in the Anglo-
 Chinese circles in Singapore. Early in his career, Legge personally financed
 the education of Song Hoot Kiam, who was to become one of the most
 prominent English-educated Christian Chinese intellectuals in Singapore,
-and two other boys in Hong Kong and Scotland.12
+and two other boys in Hong Kong and Scotland.[^12]
 
-Song commemorated Legge’s life in a few obituaries13 published in *The
-Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture* upon Legge’s death in 1897.14 This periodical, in circulation
+Song commemorated Legge’s life in a few obituaries[^13] published in *The
+Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture* upon Legge’s death in 1897.[^14] This periodical, in circulation
 between 1897 and 1907, was co-founded and co-edited by Song’s son,
 Song Ong Siang, a Chinese Christian community leader and an English-educated
 intellectual. Along with Lim, Song Ong Siang was a recipient
 of the Queen’s Scholarship, the award that enabled both men to study
-in Britain.15
+in Britain.[^15]
 During his studies in Britain in the late 1880s or early 1890s, Song Ong
 Siang visited Legge at his home in Oxford, where the latter was working on
-his translations of Chinese texts.16 Although this visit did not prompt Song
-Ong Siang “to take up the study of Chinese classics”,17 his fellow Chinese
+his translations of Chinese texts.[^16] Although this visit did not prompt Song
+Ong Siang “to take up the study of Chinese classics”,[^17] his fellow Chinese
 reformist Lim showed great interest in Legge’s translations and views of
 Confucianism.
 
 *The Straits Chinese Magazine*, or SCM, was intended, among other goals, to
 encourage debate among the Straits intellectual elite of “all nationalities who
-are in every respect better educated than those of a former generation”.18
+are in every respect better educated than those of a former generation”.[^18]
 Lim, one of the most vociferous Singaporean Confucian reformists of the
-period, who was also a founder and co-editor of the SCM,19 published
+period, who was also a founder and co-editor of the SCM,[^19] published
 his critiques of Legge’s understanding of Confucianism and proposed a
 different picture of the religion’s role in facilitating the overall progress of
 the Chinese people. In so doing, Lim made an invaluable contribution to
 the then emerging concept of “objective” or “scientific” study of religion,
 which explored Confucianism as a “world religion” within the new scholarly
-discipline of comparative religion.20
+discipline of comparative religion.[^20]
 
 Masuzawa shows that one of the fathers of the science of religion – known
 today as comparative religion – Friedrich Max Müller, developed this
