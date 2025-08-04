@@ -269,3 +269,146 @@ Singapore respectively. Song married and settled down soon after that, thus
 establishing “the oldest family of Straits Chinese Christians in Singapore”.38
 The two men kept in touch until Legge’s death.39
 
+#### **Legge’s Missionary and Academic Careers**
+Legge continued working on the Chinese texts over the great number of
+years he spent as a missionary educator in Hong Kong.40 Even though his
+work did not always progress at the desired pace, the third volume of his
+*Chinese Classics* appeared in 1865.41 Legge’s *The Chinese Classics* were well-received
+in the contemporaneous academic circles. He retired from his
+missionary duties in 1873 and returned to England, where he was widely
+recognised as “one of the first and best translators of Chinese classics”.42 In
+1876, he became a professor of Chinese language and literature at Oxford,
+where he taught and worked on translations until his death in 1897.
+
+In 1875, Max Müller contacted Legge expressing his admiration for the latter’s
+translation of *The Chinese Classics*. In this period, Max Müller identified
+and approached potential academic collaborators for an ambitious project
+entitled *The Sacred Books of the East*, published in 50 volumes between 1879
+and 1910.43 Max Müller’s desire had been to study religions in a scholarly, “scientific” manner.44 To achieve this, he relied on the method of mutual
+comparison of doctrinal texts or canons of various religious traditions in Asia.
+
+In his preface to *The Sacred Books of the East*, Max Müller identified
+eight “great and original religions which profess to be founded on Sacred
+Books”.45
+
+   *Apart from the interest which the Sacred Books of all religions<br>
+   possess in the eyes of the theologian, and, more particularly, of<br>
+   the missionary, to whom an accurate knowledge of them is as<br>
+   indispensable as a knowledge of the enemy’s country is to a general,<br>
+   these works have of late assumed a new importance, as viewed in<br>
+   the character of ancient historical documents*.46
+
+Max Müller’s list of “world religions”, as they are called at present, included
+what are known today as Christianity, Judaism, Islam, Zoroastrianism,
+Hinduism, Buddhism, Confucianism and Taoism. 47 *The Sacred Books of the
+East* were intended to provide translations of the books of all the mentioned
+religions, with the exception of the first two.48
+
+Legge’s contribution to *The Sacred Books of the East* project consisted of his
+translations of the “Sacred Books of China”, which comprised four volumes
+on Confucianism and two volumes on Taoism.49 Although the Englishlanguage
+term “Confucianism” was not used in scholarly circles or outside
+of them during this period, Legge was the one who defined and promoted
+its academic usage. According to Sun’s research, the term “Confucianism”
+was first recorded in 1862, independent of Legge. However, it was Legge
+who first used it in a paper presented in his absence before a Protestant 
+Missionary Conference held in Shanghai in 1877, where he compared
+Confucianism with Christianity.
+
+The reaction of his fellow missionaries was to reject the proposed
+comparability between the two – Christianity was understood as the only
+true religion and was thus beyond comparison. Legge used his collaboration
+with Max Müller to further his views of Confucianism as a “world religion”
+and support his translations of it to related theological concepts in terms
+hitherto reserved for Protestant Christianity.50
+
+In his preface to *The Sacred Books of the East*, Legge noted that there
+were three religions in China – Confucianism, Taoism and Buddhism –
+and viewed the former as “the religion of China par excellence”. Unlike
+Buddhism, both Confucianism and Taoism were native to China.51 This
+classification of certain spiritual, ritualistic and philosophical traditions
+into the three religions of China has had a lasting scholarly and popular
+influence on current perceptions of what counts as religion in the Chinese
+context. Importantly, Legge’s promotion of Confucianism as the defining
+concept of Chinese identity was undertaken not only by Western academics
+and missionaries, but also by the most prominent Singaporean Confucian
+reformist, Lim Boon Keng, which will be discussed shortly.
+
+In 1880, Legge delivered a series of lectures at the Presbyterian College
+in London, which were subsequently published in the same year as *The
+Religions of China: Confucianism and Tâoism Described and Compared
+with Christianity*. In these lectures, Legge defined Confucianism as “the
+ancient religion of China”, which comprised views of Confucius, “the great
+philosopher himself”, written directly by the sage or narrated in the writings
+by his disciples. He thought it erroneous not to regard Confucius as a religious
+teacher.52 At that time, the missionaries working in China rejected Legge’s
+attempt to view both Christianity and Confucianism as religions that could
+be compared. To the majority of Protestant missionaries working to convert
+the people of China, the proposal of comparison itself was unacceptable and
+“too liberal”.53
+
+Although he regarded Confucianism as a religion and compared it with
+Christianity, Legge thought this religion was inferior to Christianity due
+to the latter’s individually accessible worship of God. Confucianism, Legge
+explained, still allowed for the worship of spirits, unlike the only proper
+religion – i.e. Protestant – Christianity.54 Legge thought that this aspect
+of Confucianism developed over time due to the monopolisation of the
+worship of God by the Emperor, which prevented ordinary people from
+worshipping God.55 Legge had personally experienced this insight during
+his visit to the Temple of Heaven in Peking56 where he stood barefoot and,
+together with his Christian friends, sang a doxology in praise of God.57
+
+   *I rejoice in the imperial worship of God, but I can never<br>
+   sufficiently regret that this shaped itself even in prehistoric time into<br>
+   a representative worship by the head of the state, instead of being<br>
+   extended throughout the nation, and joined in by the multitudes of<br>
+the people*.58
+
+Legge thought that the lack of individual access to one’s worship of God
+helped the spread of sin among the Chinese people, thus preventing
+their growth and development.59 He saw Confucianism as an ethical
+regime exclusively focused on the regulation of social relations. Its goal
+was to prescribe conditions to sociability through defining five types of
+relational duties perceived to uphold all social structures. These entailed the
+relationship between sovereign and subject, father and son, husband and
+wife, brothers and friends.60 According to Legge, lacking in this scheme
+was the relationship to God as the central defining element of humanity,
+conceptualised through “[o]ur Christian catechism”.61 This particular aspect of Legge’s theological assessment of Confucianism apparently had a lasting
+effect on Singaporean missionary circles.
+
+In fact, Legge’s missionary work in and on China was celebrated in the
+Singapore press long after his death.62 Another obituary commemorating
+Legge’s missionary achievements, besides Song Hoot Kiam’s, was also
+published in the SCM.63 It was written by Legge’s fellow missionary J.A.B.
+Cook, who had the opportunity to personally attend Legge’s Presbyterian
+College lecture series in 1880. Cook assured readers that Legge was a
+zealous missionary and that all his scholarly work was “to bring the stores
+of his learning to the service of Christ”.64 He went on to support Legge’s
+understanding of Confucianism as a religion inferior to Christianity, in that
+it focused on ethical regulation of social relations and failed to prioritise – or
+even introduce – a relationship between God and believer.65
+
+Reverend W. Murray relied on Legge’s writings in his outline of reasons as to
+why he regarded Confucius as a failed religious teacher in comparison with
+Jesus Christ. Murray quoted Legge’s essay on “Christianity and Confucianism
+Compared in Their Teaching of the Whole Duty of Man”, which was
+included in a missionary-sponsored publication called *The Religious Tract
+Society* from London, and issued throughout the 1880s and later. There,
+Murray quoted Legge’s opinion of Confucius’ “untruthfulness” as the mark of
+a standard of morality lower than the impeccable morality of Christ’s.66
+
+A note to the article states that it was originally delivered in the format of
+a lecture given at the Young Men’s Christian Association of Singapore on
+20 May 1905. Murray noted that within a short period of time, “a student
+of Confucianism” had published a profound critique of the lecture in
+*The Singapore Free Press*. Hence, Murray revised the original lecture and
+published it as the SCM article under current discussion, erasing those
+“portions of the material not relevant to the argument” but leaving its conclusion intact. In fact, the process of revising the article enabled Murray
+to overturn the main line of the “student’s” critique. To recall here, the
+latter insisted that Legge abandoned his early conviction in Confucius’
+untruthfulness as the cause of the low state of morality in China. It was then
+that Murray turned to “Christianity and Confucianism Compared in Their
+Teaching of the Whole Duty of Man” in which Legge had expressed his
+doubts about Confucius’ truthfulness.67
+
+
