@@ -1134,4 +1134,14 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/
       image: /images/Vol 21 Issue 3/Excavating the Past/Excavating_Topic.png
       alt: Excavating the Past
+  - infopic:
+      title: “Majulah Singapura” Finally Breached the Gap
+      subtitle: People
+      id: infopic
+      description: In a BiblioAsia+ podcast, music director Julian Wong reveals
+        little-known details about the composer of Singapore’s national anthem.
+      button: MORE THAN MR MARI KITA
+      url: /vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/
+      image: /images/Vol 21 Issue 3/Composer/composer_main_topic.jpg
+      alt: Majulah Singapura
 ---
