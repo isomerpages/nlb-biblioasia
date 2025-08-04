@@ -1144,4 +1144,14 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/
       image: /images/Vol 21 Issue 3/Composer/composer_main_topic.jpg
       alt: Majulah Singapura
+  - infopic:
+      title: Dutch Burghers in British Malaya
+      subtitle: People
+      id: infopic
+      description: A murder mystery sheds light on the little-known story of the
+        Ceylonese pioneers from the Dutch Burgher community in British Malaya.
+      button: EURASIAN OR BURGHER
+      url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
+      image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
+      alt: Dutch Burghers
 ---
