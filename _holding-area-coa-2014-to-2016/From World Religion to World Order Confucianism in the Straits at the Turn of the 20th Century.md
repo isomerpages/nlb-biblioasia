@@ -906,3 +906,310 @@ Piety in Post-New Order Indonesia: Theologies of Emancipation, focused on
 Indonesia’s democratic modality, the role of religion in Indonesia’s political philosophy
 and contemporary cultural politics of Chinese-Indonesians.
 
+#### **BIBLIOGRAPHY**
+     
+Ang, Seow Leng. “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/).” _BiblioAsia_ 2, no. 4 (January–March 2007)
+
+Talal Asad. _Formations of the Secular: Christianity, Islam, Modernity_. Stanford, California: Stanford University Press, 2003.
+
+Bell, Daniel. [_Beyond Liberal Democracy:_ _Political Thinking for an East Asian Context_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12791801). Princeton, N.J.: Princeton University Press, 2006. (From National Library Singapore, call no. R 321.8095 BEL)
+
+—. [_China Model: Political Meritocracy and the Limits of Democracy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202679104). Princeton, New Jersey: Princeton University Press, 2015. (From National Library Singapore, call no. RSING 306.20951 BEL)
+
+Bowman, Marilyn Laura. _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_. Fort St Victoria (BC): FriesenPress, 2016.
+
+Frost, Mark Ravinder. “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914.” _Journal of Southeast Asian Studies_ 36, no. 1 (February 2005): 29–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Girardot, N. J. _The Victorian Translation of China: James Legge’s Oriental Pilgrimage_. Berkeley: University of California Press, 2002.
+
+Goodley, M. R. “The Treaty Port Connection: An Essay.” _Journal of Southeast Asian Studies_ 12, no. 1 (March 1981): 253. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Khor, Eng Hee. [_The Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432)_._ Singapore: University of Malaya, 1958. (From National Library Singapore, call no. RDTYS 361.924 LIM.K)
+
+Kidd, Samuel. [_Report of_ _the Chinese Mission at Malacca_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969943). Malacca: The Mission Press, 1830. (From National Library Singapore, call no. RCLOS 266.009595 KID)
+
+Lee, E. “Introduction.” In Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287). Singapore: Oxford University Press, 1984. (Call no. RCLOS 959.57 SON-\[HIS\])
+
+Legge, James. _The Chinese Classics_. Vol. 1. London: Trübner, 1861. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\]; microfilm NL28982, NL28983)
+
+—. _The Chinese Classics_. Vol. 2. London: Trübner, 1861. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\])
+
+—. _The Chinese Classics_. Vol. 3, Part 1. London: Trübner, 1865. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\])
+
+—. “Christianity and Confucianism Compared in Their Teaching of the Whole Duty of Man,” In _Non-Christian Religions of the World_, edited by William Muir (Living paper series of the Religious Tract Society). London: Fleming H. Revell Company, 1890.
+
+—. “Preface.” In _The Sacred Books of the East._ Vol. 1 and 3, edited by Friedrich Max Müller. London: Clarendon Press, 1879, xiii–xxx. (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26409, NL26410)
+
+—. [_The Religions of China: Confucianism and Tâoism Described and Compared With Christianity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706). London: Hodder and Stoughton, 1880. (From National Library Singapore, call no. RCLOS 299.51 LEG)
+
+Lim, Boon Keng. [_Essays of Lim Boon Keng on Confucianism: With Chinese Translations_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201007236). Translated by Yan Chunbao. Singapore: World Scientific, 2014. (From National Library Singapore, call no. RSING 181.112 LIM)
+
+Masuzawa, Tomoko. _The Invention of World Religions: Or How European Universalism Was Preserved in the Language of Pluralism_. Chicago: The University of Chicago Press, 2005.
+
+Muller, Friedrich Max, ed. _The Sacred Books of the East_. Vols. 1–50. Oxford: Clarendon Press, 1879–1910. (From National Library Singapore, microfilm NL26409 (v.1–v.2 1879, v.4 1880); NL26410 (v.3 1879, v.5 1880); NL26411 (v.6–v.7 1880, v.9 1880); NL26412 (v.8 1882, v.10-v.11 1881); NL26414 (v.12 1882, v.13 1881); NL26415 (v.14 1882, v.15 1884); NL26416 (v.16, v.18 1882); NL26870 (v.17 1882); NL26417 (v.19 1883, v.20 1885); NL26418 (v.21–v.22 1884); NL26419 (v.23 1883, v.24 1885); NL26420 (v.25 1886, v.26 1885); NL26421 (v.27–v.28 1885); NL26422 (v.29 1886, v.30 1892); NL26423 (v.31 1887, v.32 1891); NL26424 (v.33 1889, v.34 1890); NL26425 (v.35 1890, v.36 1894); NL26426 (v.37 1891, v.38 1896); NL26427 (v.39–v.40 1891); NL26428 (v.41 1894, v.43 1897); NL26429 (v.42 1897); NL26690 (v.44 1900, v.45 1895); NL26691 (v.46–v.47 1897); NL26692 (v.48 1904); NL26693 (v.49 1894, v.50 1910))
+
+Ride, L. _“_Bibliographical Note.” In _The Chinese Classics: With a Translation, Critical and Exegetical Notes, Prolegomena and Copious Indexes_, edited by James Legge. Hong Kong: Hong Kong University Press, 1970.
+
+Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957: A Select Annotated Bibliography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021) (Singapore: National Library Board, 2007). (From National Library Singapore, call no. RSING 016.36192 LIM-\[LIB\])
+
+Song, Ong Siang. [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287). Singapore: Oxford University Press, 1984. (From National Library Singapore, call no. RCLOS 959.57 SON-\[HIS\])
+
+_The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture_ 1–11 (1897–1907). (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267, NL268)
+
+Sun, Anna. _Confucianism as a World Religion: Contested Histories and Contemporary Realities_. Princeton: Princeton University Press, 2013. (From OverDrive. (myLibrary ID is required to access this ebook)
+
+Tan, Bonny. “[The Straits Chinese Magazine: A Malayan Voice](https://biblioasia.nlb.gov.sg/vol-7/issue-2/jul-2011/straits-chinese-magazine-malayan/).” _BiblioAsia_ 7, no. 2 (July–August)
+
+Van Der Veer, Peter. _The Modern Spirit of Asia: The Spiritual and the Secular in China and India_. Princeton, New Jersey: Princeton University Press, 2014.
+
+Yen, Ching-Hwang. “The Confucian Revival Movement in Singapore and Malaysia, 1899–1911.” _Journal of Southeast Asian Studies_ 7, no. 1 (March 1976): 33–57. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “Overseas Chinese Nationalism in Singapore and Malaysia, 1877–1912.” _Modern Asian Studies_ 16, no. 2 (1982): 397–425. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+#### **NOTES**      
+
+1 Anna Sun, _Confucianism as a World Religion: Contested Histories and Contemporary Realities_ (Princeton: Princeton University Press, 2013), 38–39, 45–47. (From OverDrive. (myLibrary ID is required to access this ebook)
+
+&nbsp;2 Peter Van Der Veer, _The Modern Spirit of Asia: The Spiritual and the Secular in China and India_ (Princeton, New Jersey: Princeton University Press, 2014), 167.
+
+3 Van Der Veer, _The Modern Spirit of Asia_, 167.
+
+4 Yen Ching-Hwang, “The Confucian Revival Movement in Singapore and Malaysia, 1899–1911,” _Journal of Southeast Asian Studies_ 7, no. 1 (March 1976): 33–57; Yen Ching-Hwang, “Overseas Chinese Nationalism in Singapore and Malaysia, 1877–1912,” _Modern Asian Studies_ 16, no. 2 (1982): 397–425; Mark Ravinder Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” _Journal of Southeast Asian Studies_ 36, no. 1 (February 2005): 29–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+5 Michael R. Goodley, “The Treaty Port Connection: An Essay,” _Journal of Southeast Asian Studies_ 12, no. 1 (March 1981): 253. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+6 Tomoko Masuzawa, _The Invention of World Religions: Or How European Universalism Was Preserved in the Language of Pluralism_ (Chicago: The University of Chicago Press, 2005)
+
+7 Masuzawa, _Invention of World Religions_, xi.
+
+8 Masuzawa, _Invention of World Religions_, 18.
+
+9 Talal Asad, _Formations of the Secular: Christianity, Islam, Modernity_ (Stanford, California: Stanford University Press, 2003)
+
+10 A comprehensive biography of James Legge can be found in Marilyn Laura Bowman, _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_ (Fort St Victoria (BC): FriesenPress, 2016); N. J. Girardot, _The Victorian Translation of China: James Legge’s Oriental Pilgrimage_ (Berkeley: University of California Press, 2002); For a shorter version of Legge’s biography see L. Ride, _“_Bibliographical Note,” in _The Chinese Classics: With a Translation, Critical and Exegetical Notes, Prolegomena and Copious Indexes_, ed. James Legge (Hong Kong: Hong Kong University Press, 1970), 1–25_._
+
+11 Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 39–42; 57–60; 64–65.
+
+12 Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287) (Singapore: Oxford University Press, 1984), 76–79. (From National Library Singapore, call no. RCLOS 959.57 SON-\[HIS\])
+
+13 Song H. K., “Reminiscences of Dr. Legge in Malacca,” _Straits Chinese magazine_ 2, no. 5 (March 1898): 9–12) (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Song H. K., “With Dr. Legge in England,” _Straits Chinese magazine_ 2, no. 7 (September 1898): 105–8. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+14 Henceforth identified as SCM or Magazine. For an overview of the scope, impact and topics covered in the magazine, see Bonny Tan, “[The Straits Chinese Magazine: A Malayan Voice](https://biblioasia.nlb.gov.sg/vol-7/issue-2/jul-2011/straits-chinese-magazine-malayan/),” _BiblioAsia_ 7, no. 2 (July–August)
+
+15 Lu W, “The Straits Settlements Scholarship,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 86–87. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+16 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 78–79.
+
+17 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), vii.
+
+18 “Editorial,” _Straits Chinese Magazine_ 1, no. 1 (March 1897): 2. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+19 The third editor was Gnoh Lean Tuck, Lim’s brother-in-law. See Ang Seow Leng, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/),” _BiblioAsia_ 2, no. 4 (January–March 2007)
+
+20 Sun’s study of Confucianism as a world religion does not comment on the contribution of the Straits Chinese Confucian reformists, such as Lim Boon Keng, to the history of this religion. Recently, a book with Chinese translations of Lim Boon Keng’s texts on Confucianism was published in an attempt to include the study of Lim’s contribution to “the Chinese history of philosophy and the history of Confucianism”. See Lim Boon Keng, [_Essays of Lim Boon Keng on Confucianism: With Chinese Translations_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201007236), trans. Yan Chunbao (Singapore: World Scientific, 2014), 22. (From National Library Singapore, call no. RSING 181.112 LIM)
+
+21 Masuzawa, _Invention of World Religions_, 209–10.
+
+22 Masuzawa, _Invention of World Religions_, 206–44.
+
+23 Masuzawa, _Invention of World Religions_, 241–42.
+
+24 Masuzawa, _Invention of World Religions_, 138.
+
+25 Masuzawa, _Invention of World Religions_, 214n12.
+
+26 James Legge, _The Chinese Classics_, vol. 1 (London: Trübner, 1861), vii. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\]; microfilm NL28982, NL28983). As a missionary and educator, Samuel Kidd (1804–1831) had been stationed at Malacca long before Legge arrived there. See, for instance, Kidd’s report on the difficult circumstances surrounding his teaching and preaching efforts in Malacca for the year 1829. Samuel Kidd, [_Report of_ _the Chinese Mission at Malacca_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969943) (Malacca: The Mission Press, 1830). (From National Library Singapore, call no. RCLOS 266.009595 KID)
+
+27 Legge, _Chinese Classics_, vol. 1, vii–ix.
+
+28 Legge, _Chinese Classics_, vol. 1, 1.
+
+29 Legge, _Chinese Classics_, vol. 1, viii–x.
+
+30 Legge, _Chinese Classics_, vol. 1, vii.
+
+31 Legge, Chinese Classics, vol. 1, viii–ix.
+
+32 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76.
+
+33 Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
+
+34 Song, “Reminiscences of Dr. Legg in Malacca,” 10.
+
+35 Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
+
+36 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76; Song, “With Dr. Legge in England,” 105–6.
+
+37 Song, “With Dr. Legge in England,” 105–8.
+
+38 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 77–78.
+
+39 Song, “With Dr. Legge in England,” 108.
+
+40 A newspaper article published in 1874 in a Singaporean newspaper mentions Legge’s “matchless” scholarship and missionary work. A Military Exile, “[English Life in Hong Kong](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18741207-1.2.8),” _Straits Observer_, 7 December 1874, 3. (From NewspaperSG)
+
+41 James Legge, _The Chinese Classics_, vol. 3, part 1 (London: Trübner, 1961), vi. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\])
+
+42 Sun, _Confucianism as a World Religion_, 40.
+
+43 Van Der Veer, _The Modern Spirit of Asia_, 78–79; Sun, _Confucianism as a World Religion_, 57–58; 60–62.
+
+44 Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 47, 51.
+
+45 James Legge, “Preface,” in _The Sacred Books of the East,_ vol. 1, ed. Friedrich Max Müller (London: Clarendon Press, 1879), xli. (From National Library Singapore, call no. RRARE 294 SAC)
+
+46 Legge, ‘Preface,” xl.
+
+47 Although in retrospect Max Müller is acknowledged as contributor to the development of the concept of “world religions”, Masuzawa shows that he never mentioned or used that term. Masuzawa, _Invention of World Religions_, 303–4.
+
+48 Legge, ‘Preface,” xli.
+
+49 Sun, _Confucianism as a World Religion_, 64; James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 3, ed. Friedrich Max Müller (London: Clarendon Press, 1879) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26410); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 16, ed. Friedrich Max Müller (London: Clarendon Press, 1882) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26416); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 27, ed. Friedrich Max Müller (London: Clarendon Press, 1885) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 28, ed. Friedrich Max Müller (London: Clarendon Press, 1886) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421)
+
+50 Sun, _Confucianism as a World Religion_, 38–39; 45–47.
+
+51 Legge, “Confucianism,” vol. 3, xii–xiv, xxi.
+
+52 James Legge, [_The Religions of China: Confucianism and Tâoism Described and Compared With Christianity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706) (London: Hodder and Stoughton, 1880), 3–6. (From National Library Singapore, call no. RCLOS 299.51 LEG)
+
+53 Sun, _Confucianism as a World Religion_, 39, 41, 45.
+
+54 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 254–55.
+
+55 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 248–51.
+
+56 Legge’s visit to the temple was described in an 1899 newspaper article, written by an anonymous correspondent, according to whom “the late Dr. Legge, when in China, used to be regarded as more Confucian than the Confucianite”. “[The Confucian Cult](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18991125-1.2.9),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1899, 2. (From NewspaperSG)
+
+57 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 91–92, 251.
+
+58 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 251.
+
+59 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 296.
+
+60 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 104–5.
+
+61 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 105–6.
+
+62 “[The Dead Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070522-1.2.24),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 22 May 1907, 4; “[Missionary Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191125-1.2.50),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1919, 12. (From NewspaperSG)
+
+63 J. A. B. Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” _Straits Chinese Magazine_ 2, no. 5 (March 1898): 7–9. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+64 Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 7.
+
+65 Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 8.
+
+66 W. Murray, “Where Confucius Fails,” _Straits Chinese Magazine_ 9, no. 2 (June 1905): 59. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+67 Murray, Where Confucius Fails,” 66.
+
+68 Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957: A Select Annotated Bibliography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021) (Singapore: National Library Board, 2007), 14. (From National Library Singapore, call no. RSING 016.36192 LIM-\[LIB\])
+
+69 “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 1 June 1905, 344. (From NewspaperSG)
+
+70 Sun, _Confucianism as a World Religion_, 38–42, 47–48, 57–60.
+
+71 Sun, _Confucianism as a World Religion_, 60.
+
+72 Van Der Veer, _The Modern Spirit of Asia_, 81–82.
+
+73 Lim Boon Keng, “Ethical Education for the Straits Chinese,” _Straits Chinese Magazine_ 8, no. 1 (March 1904): 26. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+74 “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60).”
+
+75 Mayo, “The Religious Ideal,” _Straits Chinese Magazine_ 9, no. 3 (September 1905): 123–25. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+76 Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 1907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
+
+77 For an overview of Lim Boon Keng’s life and career, see Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/)”; Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021).
+
+78 Lim Boon Keng, “Straits Chinese Reform. I: The Queue Question,” _Straits Chinese Magazine_ 3, no, 2 (March 1899): 23. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+79 Historicus, “Her Late Majesty the Queen Empress,” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 1. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+80 Editorial, “The Race Question in Colonial Administration,” _Straits Chinese Magazine_ 9, no. 1 (March 1905): 1–6. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+81 Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/).”
+
+82 Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” 54–56.
+
+83 “[Chinese Christian Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18930808-1.2.62),” _Straits Times Weekly Issue_, 8 August 1893, 8. (From NewspaperSG)
+
+84 “The Philomantic Society, Singapore,” _Straits Chinese Magazine_ 1, no.1 (March 1897): 32. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+85 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 23.
+
+86 Khor Eng Hee, [_The Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432) (Singapore: University of Malaya, 1958), 4, no. 22. (From National Library Singapore, call no. RDTYS 361.924 LIM.K)
+
+87 Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 21.
+
+88 Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 23n10.
+
+89 Amicus, “[Correspondence: The Advancement of the Straits Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18990713-1.2.45),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 13 July 1899, 6. (From NewspaperSG)
+
+90 Historicus, “[The Moral Advancement of the Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990713-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 13 July 1899, 3. (From NewspaperSG)
+
+91 Amicus, “[The Attempt to Rejuvenate Confucianism](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990715-1.2.18.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 15 July 1899, 3. (From NewspaperSG)
+
+92 Historicus, “[A Confucian Revival](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990718-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 18 July 1899, 3. (From NewspaperSG)
+
+93 W. Murray, “Moral Culture,” _Straits Chinese Magazine_ 1, no. 4 (December 1897): 127–29. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+94 J. A. B. Cook, “The Christian Morality,” _Straits Chinese Magazine_ 6, no. 21 (March 1902): 8–11. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+95 Cook, “The Christian Morality,” 9.
+
+96 For instance, see C. Phillips, “What Is Confucianism,” _Straits Chinese Magazine_ 4, no. 15 (September 1900): 118–20 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Cook, “The Christian Morality,” 8–11; W. Murray, “Confucianism and Christianity,” _Straits Chinese Magazine_ 8, no. 3 (September 1904): 128–30. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+97 For instance, a 1901 debate between Historicus and Evangelicus (both Lim’s pseudonyms) was framed in relation to Biblical teachings and Christian practice through history. Historicus, “Reflections and Biblical Teachings and Christian Practice,” _Straits Chinese Magazine_ 5, no. 19 (September 1901): 104–8; Evangelicus, “Biblical Teaching and Christian Practice,” _Straits Chinese Magazine_ 20, no. 5 (December 1901): 141–7. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+98 Lim Boon Keng, “The Confucian Ideal,” _Straits Chinese Magazine_ 3, no. 9 (September 1905): 115–19 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was delivered as a lecture on the occasion of Confucius’ birthday celebrated at the gathering held on 25 September 1905 at “the Confucius School” in Amoy Street. “[Confucius Day: Interesting Lecture by Dr. Lim Boon Keng](https://eresources.nlb.gov.sg/newspapers/digitised/article/easterndaily19050926-1.2.10),” _Eastern Daily Mail and Straits Morning Advertiser_, 26 September 1905, 2. (From NewpaperSG)
+
+99 Lim Boon Keng, “Our Enemies,” _Straits Chinese Magazine_ 1, no. 2 (June 1887): 57–58 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was originally delivered as the “presidential address” to the Chinese Philomantic Society in March 1897.
+
+100 Lim Boon Keng, “The Renovation of China 1: Internal Struggles,” _Straits Chinese Magazine_ 3, no. 7 (September 1898): 88–93. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). The article was originally written in 1895.
+
+101 Lim, “The Renovation of China 1,” 89–90.
+
+102 Lim, “The Renovation of China 1,” 92.
+
+103 Lim Boon Keng, “Straits Chinese Reform: I: The Queue Question,” 23.
+
+104 Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 39.
+
+105 Lim Boon Keng, “Confucian Cosmogony and Theism,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 78–85 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “Confucian View of Human Nature,” _Straits Chinese Magazine_ 8, no. 3 (September 1902): 144–50 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
+
+106 Masuzawa, _Invention of World Religions_, 244–49.
+
+107 Lim was certainly familiar with Theosophy, since he lamented about its popularity among the Straits Chinese and identified it as one of “religions” that the Straits Chinese youth were turning to in the period. See Lim, “Our Enemies,” 53.
+
+108 The column was first introduced in 1899. Kong T. C. “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 3, no. 11 (September 1899): 97–101. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+109 The column was first introduced in 1899. Kong, “List of Works Relating to China in the Raffles Library, Singapore,” 141; For Max Müller’s work held in the Raffles Library, see Kong T. C., “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 4, no. 16 (December 1900): 141. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+110 Kong T. C., “Friedrich Max-Muller (1823–1900),” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 10–19. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+111 Kong, “Friedrich Max-Muller (1823–1900),” 16–18.
+
+112 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 10–11.
+
+113 Lim, “Confucian Cosmogony and Theism,” 81.
+
+114 Masuzawa, _Invention of World Religions_, 214n12.
+
+115 Lim, “Confucian Cosmogony and Theism,” 81–82. (Emphasis added.)
+
+116 Lim Boon Keng, “Chinese Reform. IV: Religion,” _Straits Chinese Magazine_ 3, no. 12 (December 1899): 161–66. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+
+117 Lim, “Chinese Reform. IV: Religion,” 166.
+
+118 Lim, “Confucian Cosmogony and Theism,” 84.
+
+119 Lim, “Chinese Reform. IV: Religion,” 166.
+
+120 Lim, “The Confucian Ideal,” 115–19.
+
+121 Lim, “The Confucian Ideal,” 119. (Emphasis added.)
+
+122 Although not a fervent missionary like Legge, Max Müller was also a Protestant.
+
+123 Daniel Bell, [_China Model: Political Meritocracy and the Limits of Democracy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202679104) (Princeton, New Jersey: Princeton University Press, 2015) (From National Library Singapore, call no. RSING 306.20951 BEL); Daniel Bell, [_Beyond Liberal Democracy:_ _Political Thinking for an East Asian Context_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12791801) (Princeton, N.J.: Princeton University Press, 2006). (From National Library Singapore, call no. R 321.8095 BEL)
