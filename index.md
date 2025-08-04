@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
-      button: "Lady in Red: The Former National Library on Stamford Road"
+      url: /vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/
+      button: The Search for Home, Truly (and Other National Day Songs)
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Frames of Memory/HeroImage_Frames_of_Memory_2.jpg
+      background: /images/Vol 21 Issue 1/Sing Singapore/HeroImage_sing_4.jpg
       variant: center
   - infopic:
       title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
