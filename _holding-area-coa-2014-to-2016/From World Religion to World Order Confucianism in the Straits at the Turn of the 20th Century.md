@@ -707,3 +707,202 @@ In *The Religions of China: Confucianism and Tâoism Described and Compared
 with Christianity*, Legge proposed the following definition of the Confucian
 concept of God:
 
+   *Heaven is styled Shang Tî, and as frequently Tî alone without<br> 
+   the Shang. […] Since its earliest formation, Tî has properly been<br> 
+   the personal name of Heaven. T‘ien has had much of the force of<br> 
+   the name Jahve, as explained by God Himself to Moses; Tî has<br> 
+   presented that absolute deity in the relation to men of their lord and<br> 
+   governor. Tî was to the Chinese fathers, I believe, exactly what God<br> 
+   was to our fathers, whenever they took the great name on their lip*.112
+
+In his 1904 article on Confucian cosmogony and theism quoted earlier,
+Lim directly responded to Legge’s definition of a Chinese God through
+comparison with the God of the Israelites. Although Lim admitted some
+similarity between Jehovah and Shang-ti, he disagreed that missionaries
+used this perceived similarity to attract the Chinese to Christianity.
+
+   *Confucian theism grew out of the old belief in Shang-ti; just as the<br> 
+   Christian God is an evolution of the Jehovah of the Jews. It seems<br> 
+   clear from the Shu and the Shih that Shang-ti was the tribal God of<br> 
+   the ancient Chinese just as Jehovah was the Lord of the Israelites*.<br><br>  
+   *[…] There does not seem to be any vital difference except that the<br> 
+   two tribes, Chinese and Jews, are quite distinct. Missionaries,<br> 
+   however, forgetting the possibility of independent tribal religions,<br> 
+claim that Shang-ti and Jehovah are synonymous*.113
+
+Lim’s argument against the fulfilment of Confucianism through the
+conversion of the Chinese to Christianity relies on the academic authority
+of the results of Max Mü ller’s science of religion. As Masuzawa shows,
+Max Mü ller’s concept of three language and religion families – i.e. Aryan,
+Semitic and Turanian (which included the Chinese) – makes it difficult “to
+make the case that Christianity was the culmination and the fulfilment
+of all other religions, as many contemporary theologians did, or that
+Christianity was the embodiment of what was inherently universal”.114 That
+Lim was familiar with the potentially emancipatory effect of Max Mü ller’s
+epistemology is illustrated in Lim’s claim to “tribal independence” of
+Confucianism as the religion of the Chinese.
+
+More evidence of Lim’s deployment of the science of religion is his effort to
+develop a concept of universalistic Confucian humanism, or “brotherhood”,
+in the process of articulating Confucianism as a world religion and global
+ethical order. Thus, Lim also commented on Legge’s visit to the Temple of
+Heaven in Peking:
+
+   *Dr. Legge was moved by the contemplation of Chinese history<br>
+   and religion at the Temple of Heaven at Peking. There under the<br>
+   awful canopy of the heavens, the learned Christian, moved by a<br>
+   touch of human sympathy, saw that after all mankind was, as the<br>
+   Confucianists say, but one vast brotherhood. Dr. Legge repeated<br>
+   the doxology to – it must have seemed to him – the unknown God.<br>
+   Yet he had persuaded himself that he was addressing the Heaven,<br>
+   the philosophic ideal of Confucianism, Shang-ti, the God of the<br>
+   semi-civilized Chinese, or Jehovah, the God of the nomadic Jews*.115
+
+Lim’s view that Heaven is an abstract Confucianist concept introduced to
+unite people was developed in an article published several years earlier.116
+There, Lim already compared Shang-ti with the God of the Israelites and
+argued that Confucianism alone, among the great world religions, was
+based on “pure monotheism”, devoid of any mythologies and superstitions.
+He also explained that there in the worship of Heaven, “the people will be
+united” while “their thoughts will be lifted up and their hearts rectified”.117
+Apparently, Lim’s interest in the science of religion can be traced back
+to the 1890s, but could have been triggered earlier, during his studies
+in Edinburgh.
+
+In contrast to Legge, who argued against the exclusive right of an emperor
+to worship God, Lim was in favour of this practice. Lim’s opinion of a
+Christian interpretation of the worship of God as Legge had performed at
+the Temple of Heaven was, in turn, unfavourable.
+
+
+   *As for worshipping Heaven as the grand ideal of humanity, we<br>
+   [the Confucianists] reserve it for an Emperor. The worship of God<br>
+   of Heaven at Peking is not a sacrifice in the Christian sense but a<br>
+   religious rite*.118
+
+In his 1899 article on religion, Lim already argued against the worship
+of Heaven as an act of sacrifice, explaining that it was “a service of
+thanksgiving for the Divine mercy and goodness”.119
+
+In his article “The Confucian Ideal”, Lim offered his view of the superior
+place of Confucianism among other world religions.120 Whereas Legge
+saw Confucianism as an impediment to the progress of the Chinese,
+Lim discussed Confucianism in a global, transnational context. Thus,
+Lim thought it was a religion compatible with modern science and
+world progress:
+
+   *In conclusion, it may be remarked that, after all, the ideal of<br> 
+   Confucianism is not very far from that of the great religions of<br> 
+   the world. On the contrary, it is one that is acceptable to every<br> 
+   educated man in Europe and throughout the world. The discoveries<br> 
+   of modern science destroy none of its doctrines, and the progress of<br> 
+   the world should in time hasten its extensive propagation; for it is<br> 
+   certainly the most ancient as well as the most successful religion<br> 
+   of humanity*.121
+
+Clearly, then, within the first few years of the last century, Lim’s
+conceptualisation of Confucianism as a world religion capable of facilitating
+a new world order in Masuzawa’s sense, of peace and prosperity for all
+the nations united under the Heaven, was complete. In Lim’s writings,
+the inauguration of Confucianism into a world religion meant that
+Confucianism had a competitive and complementary, rather than radically
+alternative, prospect in a progressive world order, in which a reformed
+China would play a central role. In other words, Confucianism would not
+overturn the achievements of Western civilisation, but would enhance them
+since, unlike Christianity, it was a purely rational, “science-like” religion.
+
+#### **Conclusion**
+***A Confucian Democracy?***
+Lim’s transfer of morality and piety outside of the realm of godliness and
+worship was empowered by his knowledge of the science of religion. That
+religions could be compared meant, apparently, that they could compete
+for their place in the world hierarchy of religions and the nations which,
+in Masuzawa’s sense, they defined. As we have seen, Lim occasionally used
+Legge’s scholarly authority to argue in favour of the comparability between
+Christianity and Confucianism. But he also contested Legge’s authority
+when it came to the latter’s interpretation of the key theological concepts
+of Confucianism. Ultimately, Lim used Legge’s academic treatment of
+Confucianism as a religion to reorganise, rather than reject, the hierarchy
+among the world religions and the nations they defined.
+
+Academic approach to the study of religions relied on the method of
+comparison of religions as objects of study. However, both Max Mü ller
+and Legge gave a good head-start to Christianity by placing it beyond
+comparison or establishing its moral *and* analytical superiority by signifying
+it as a subject of study, rather than an object.122 Missionaries, in addition,
+insisted on the argument of Christianity’s moral superiority in organising
+not only a just inter-racial (hence inter-religious) order in the empire, but
+offering an ethical basis for the development of a just world order.
+
+Lim contested such views and instead argued for a perfect compatibility
+between Confucianism and democracy. In the closing years of the 19th
+century and the initial years of the 20th century, Lim clearly identified
+“democracy” with the British constitutional monarchy of a liberal kind,
+which entailed a normative – if not factual – racial equality. Again, he
+elaborated these arguments within the methodological field of science of
+religion. In retrospect, it seems that Lim’s Christian-Confucian debates
+served to prove that Confucianism was not a radical social or political
+force incompatible with ideals of liberalism and democracy.
+
+On the contrary: according to Lim, Confucianism was a historical condition
+of democracy. For Lim, a reformed Confucianism could modernise the
+Chinese in China and in their many settlements outside of it, indicating
+this religion’s simultaneous national and transnational dimensions. This was another one of Lim’s adaptations of Legge’s views of Confucianism as a core
+element of Chinese race/nation, primarily imagined as a target missionary
+population of China.
+
+Lim’s articulations of Confucianism as a world religion and the foundation
+of the new world order is a good illustration of the formation of the
+secular in Asad’s sense. The secular in the Straits of Malacca, as elsewhere
+in the colonial world, was historicised in an imperial encounter between
+the Christian missionary and Confucian reformist movements through
+mediation of the “neutral/secular”, scientific category of “(world) religion”.
+
+Once it entered the global arena, Confucianism won its place in the
+history of humankind and was inaugurated into the realm of the secular.
+By becoming a world religion, thus becoming a legitimate constituent
+of the “world”, which is a secular, mundane concept, Lim believed that
+Confucianism stood a historical chance to form an ethical basis of religiously
+tolerant governance. Thus, Lim saw Confucianism as the ultimate ethical
+force in facilitating peaceful inter-religious relations, both on a nation-state
+and transnational level.
+
+On hindsight, Lim’s promotion of Confucianism as a means to overturn
+the hegemonic imperialist order that privileged the West was strikingly
+farsighted. Remarkably reminiscent of the missionary imperialist
+contestations of the place of Confucianism among world religions and
+order, today’s Western contestations of China’s legitimacy as a world leader
+are organised around the tropes of the country’s allegedly Confucianist
+authoritarianism. In other words, depicted as insufficiently democratic,
+China’s governing order as an alternative to liberal democracy is frequently
+contested at the level of its foundational Confucian ethics.123
+
+This line of critique of China and Confucianism, however, is based on
+a prescriptive reading of history, which precludes an understanding of
+the intertwined histories of (post)colonialism and democracy. As we saw
+earlier, at the turn of the 20th century, it was not impossible to claim
+that colonialism and democracy were compatible political projects. It was
+through Legge’s engagement with the science of religion, within its 19th century imperial context, that the Chinese identity was anchored in a newly
+codified Confucian textual tradition. However, it was through the work
+of reformists and modernisers from the Straits – foremost of whom was
+Lim Boon Keng – that Confucianism was turned not only into a national,
+Chinese and modernising movement, but translated into a transnational
+political and historical force.
+
+This essay attempted to shed new light on the contribution of Straits
+Confucian reformist, Lim Boon Keng, to the historical development of
+Confucianism conceptualised both as a world religion and world order.
+By treating Lim’s proximity to Christianity and Confucianism, as well as
+his loyalty to the empires of Britain and China, in the singularity of their
+intertwined historical trajectories, it is possible to see the formation of Lim’s
+simultaneously religious and secular vision of Confucianism as well ahead
+of his time.
+
+
+
+Originally from Serbia, Ivana Prazic obtained her Master of Arts in Art History
+from Bangalore University (India), and recently completed her PhD thesis in the Asian
+Studies Program, University of Sydney (Australia). Her thesis, Cheng Ho-Related
+Piety in Post-New Order Indonesia: Theologies of Emancipation, focused on
+Indonesia’s democratic modality, the role of religion in Indonesia’s political philosophy
+and contemporary cultural politics of Chinese-Indonesians.
