@@ -115,3 +115,86 @@ those of van der Veer’s and Sun’s, acknowledges the ultimate intellectual
 legacy of Talal Asad’s enquiry into the mutual formation of the religious and
 the secular through the colonial encounter.9
 
+Only when approached as a singular analytical field of enquiry can Lim’s
+views of Confucianism, simultaneously a religion and global political force,
+be understood as an effect of mutually transformative historical exchanges
+between the opposing social movements of Christian proselytisation (and
+related global domination) and Confucianist Chinese emancipation.
+
+#### **James Legge and the Study of Confucianism**
+James Legge (1815–1897) was the first professor of Chinese at Oxford
+University, where he worked from 1876 until his death. Before becoming
+a professor, Legge spent a large part of his life (1839–1873) as a missionary
+for the London Missionary Society, with postings in Malacca and Hong
+Kong.10 In the contemporary academic world, Legge is best remembered for
+his English translations of the Chinese classics, as well as his engagement in
+the scientific study of Chinese religions in general – foremost of which was
+Confucianism.11 His lasting scholarly reputation was instrumental in shaping
+the current global perception of Confucianism as a defining element of
+Chinese culture, nation and politics.
+
+Legge’s first missionary posting in Malacca only lasted four years, from
+1839 to 1843. Nevertheless, by the time of his death, Legge was a wellknown
+Christian proselytiser, scholar and educationalist in the Anglo-
+Chinese circles in Singapore. Early in his career, Legge personally financed
+the education of Song Hoot Kiam, who was to become one of the most
+prominent English-educated Christian Chinese intellectuals in Singapore,
+and two other boys in Hong Kong and Scotland.12
+
+Song commemorated Legge’s life in a few obituaries13 published in *The
+Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture* upon Legge’s death in 1897.14 This periodical, in circulation
+between 1897 and 1907, was co-founded and co-edited by Song’s son,
+Song Ong Siang, a Chinese Christian community leader and an English-educated
+intellectual. Along with Lim, Song Ong Siang was a recipient
+of the Queen’s Scholarship, the award that enabled both men to study
+in Britain.15
+During his studies in Britain in the late 1880s or early 1890s, Song Ong
+Siang visited Legge at his home in Oxford, where the latter was working on
+his translations of Chinese texts.16 Although this visit did not prompt Song
+Ong Siang “to take up the study of Chinese classics”,17 his fellow Chinese
+reformist Lim showed great interest in Legge’s translations and views of
+Confucianism.
+
+*The Straits Chinese Magazine*, or SCM, was intended, among other goals, to
+encourage debate among the Straits intellectual elite of “all nationalities who
+are in every respect better educated than those of a former generation”.18
+Lim, one of the most vociferous Singaporean Confucian reformists of the
+period, who was also a founder and co-editor of the SCM,19 published
+his critiques of Legge’s understanding of Confucianism and proposed a
+different picture of the religion’s role in facilitating the overall progress of
+the Chinese people. In so doing, Lim made an invaluable contribution to
+the then emerging concept of “objective” or “scientific” study of religion,
+which explored Confucianism as a “world religion” within the new scholarly
+discipline of comparative religion.20
+
+Masuzawa shows that one of the fathers of the science of religion – known
+today as comparative religion – Friedrich Max Müller, developed this
+discipline based on his expertise in Sanskrit philology and language.21
+Specifically, between 1861 and 1870, Max Müller formulated his science of
+religion upon his previous field of expertise, the science of language. His
+comparative study of religion was, in fact, based on comparative philology.
+The analytical connection between race/nationality, language/culture and
+religion, which has endured to the present, has been attributed to Max
+Müller. This despite the fact that, as Masuzawa argues, Max Müller was
+openly against establishing a relationship of biological or physiological
+causality between languages and races.
+
+In other words, Max Müller opposed, unsuccessfully, the development of
+racialist philology.22 His opposition was directed at the anthropological
+prescriptions for “race” prevalent at the time, which suggested discrepant
+origins of different races, where “difference” was treated as a biological
+fact. Instead, Max Müller was in favour of a shared origin of humankind,
+supported through his comparative study of the family of languages.23
+Apart from this particular racial or national aspect of religion, Masuzawa
+notes that the imperial conquest and aspirations of Christianity, and also
+encounters with Buddhism, simultaneously shaped the transnational or
+supra-racial character (or aspirations) of religions.24
+
+Max Müller’s concept of “universalistic humanity”25 and the historical
+entanglement between the Chinese race and Confucianism all made a
+decisive impact on Lim’s articulation of a Confucianist world order, as
+discussed later in this essay. Whereas the intellectual connection between
+Max Müller’s science of religion and Lim’s Confucianism remain
+unexamined, academic collaboration between Max Müller and Legge is a
+well-studied phenomenon.
+
