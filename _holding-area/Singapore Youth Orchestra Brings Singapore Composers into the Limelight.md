@@ -280,4 +280,4 @@ In 2001, the SYO was renamed the Singapore National Youth Orchestra (SNYO). Its 
 
 [^37]:  Mary Rajkumar, “[Premiere that Could be a Last Bow](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890802-1.2.59.7.4),” _Straits Times_, 2 August 1989, 4. (From NewspaperSG)
 
-[^38]:  John Shapley, “Programme Notes,” in _[Singapore Youth Orchestra Concert Programme](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestara, 1 August 1989), n.p., ephemera. (From National Library Singapore, RCLOS EPHE O917)
+[^38]:  John Sharpley, “Programme Notes,” in _[Singapore Youth Orchestra Concert Programme](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestara, 1 August 1989), n.p., ephemera. (From National Library Singapore, RCLOS EPHE O917)
