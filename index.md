@@ -9,14 +9,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
-      button: "Lady in Red: The Former National Library on Stamford Road"
+      url: /vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/
+      button: The Search for Home, Truly (and Other National Day Songs)
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Frames of Memory/HeroImage_Frames_of_Memory_2.jpg
+      background: /images/Vol 21 Issue 1/Sing Singapore/HeroImage_sing_4.jpg
       variant: center
+  - infopic:
+      title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
+      subtitle: Film and Photography
+      id: infopic
+      description: The photographs of P.S. Teo and Ronni Pinsler of a bygone Singapore
+        form part of the National Archives of Singapore’s 5.5-million strong
+        collection.
+      button: A BLAST FROM THE PAST
+      url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
+      image: /images/Vol 21 Issue 2/PS Teo/karang_guni_topic.jpg
+      alt: P.S. Teo and Ronni Pinsler
   - infopic:
       title: A Peek at the Audio-Visual Archives
       subtitle: Film and Photography
@@ -1102,17 +1113,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
-      subtitle: Film and Photography
-      id: infopic
-      description: The photographs of P.S. Teo and Ronni Pinsler of a bygone Singapore
-        form part of the National Archives of Singapore’s 5.5-million strong
-        collection.
-      button: A BLAST FROM THE PAST
-      url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
-      image: /images/Vol 21 Issue 2/PS Teo/karang_guni_topic.jpg
-      alt: P.S. Teo and Ronni Pinsler
   - infopic:
       title: The Libraries and Archives of Tomorrow
       subtitle: Op-ed
