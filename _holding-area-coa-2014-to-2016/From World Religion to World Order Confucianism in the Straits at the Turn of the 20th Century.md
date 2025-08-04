@@ -813,6 +813,7 @@ since, unlike Christianity, it was a purely rational, “science-like” religio
 
 #### **Conclusion**
 ***A Confucian Democracy?***
+
 Lim’s transfer of morality and piety outside of the realm of godliness and
 worship was empowered by his knowledge of the science of religion. That
 religions could be compared meant, apparently, that they could compete
@@ -898,11 +899,10 @@ intertwined historical trajectories, it is possible to see the formation of Lim�
 simultaneously religious and secular vision of Confucianism as well ahead
 of his time.
 
-
-
-Originally from Serbia, Ivana Prazic obtained her Master of Arts in Art History
+Originally from Serbia, <b>Ivana Prazic</b> obtained her Master of Arts in Art History
 from Bangalore University (India), and recently completed her PhD thesis in the Asian
 Studies Program, University of Sydney (Australia). Her thesis, Cheng Ho-Related
 Piety in Post-New Order Indonesia: Theologies of Emancipation, focused on
 Indonesia’s democratic modality, the role of religion in Indonesia’s political philosophy
 and contemporary cultural politics of Chinese-Indonesians.
+
