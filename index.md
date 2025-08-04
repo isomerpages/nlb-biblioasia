@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 2/Frames of Memory/HeroImage_Frames_of_Memory_2.jpg
       variant: center
   - infopic:
+      title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
+      subtitle: Film and Photography
+      id: infopic
+      description: The photographs of P.S. Teo and Ronni Pinsler of a bygone Singapore
+        form part of the National Archives of Singapore’s 5.5-million strong
+        collection.
+      button: A BLAST FROM THE PAST
+      url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
+      image: /images/Vol 21 Issue 2/PS Teo/karang_guni_topic.jpg
+      alt: P.S. Teo and Ronni Pinsler
+  - infopic:
       title: A Peek at the Audio-Visual Archives
       subtitle: Film and Photography
       id: infopic
@@ -1102,17 +1113,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
-      subtitle: Film and Photography
-      id: infopic
-      description: The photographs of P.S. Teo and Ronni Pinsler of a bygone Singapore
-        form part of the National Archives of Singapore’s 5.5-million strong
-        collection.
-      button: A BLAST FROM THE PAST
-      url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
-      image: /images/Vol 21 Issue 2/PS Teo/karang_guni_topic.jpg
-      alt: P.S. Teo and Ronni Pinsler
   - infopic:
       title: The Libraries and Archives of Tomorrow
       subtitle: Op-ed
