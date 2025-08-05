@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/">**From Liguria to the Lion City: The Life and Times of Giovanni Gaggino**</a>
+The remarkable story of an Italian merchant who once owned Pulau Bukom and authored an Italian-Malay dictionary in colonial Singapore.
+
+<img src="/images/Vol%2021%20Issue%203/Giovanni/giovanni_Topics3.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/">From Betty of Balmoral Road to Emily of Emerald Hill: A New Look At Stella Kon’s Classic Play</a>
 
 A study of early drafts of&nbsp;_Emily of Emerald Hill_&nbsp;reveals fascinating choices and paths not taken.
