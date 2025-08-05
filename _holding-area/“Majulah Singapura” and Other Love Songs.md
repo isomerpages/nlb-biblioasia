@@ -61,6 +61,9 @@ Zubir must have worked with tremendous speed as the Minutes of the City Council�
 
 A memo dated 30 August 1958 from Yap to all participants in the opening performance came with a copy of a handwritten score of the song with just the melody and lyrics.[^16] This score also lacks the familiar fanfare-like introduction, but the first couple of bars contain rests which correspond exactly to the introduction, so it could well have been composed at the same time but omitted from this purely vocal score. However, it is quite clearly in Zubir’s own handwriting as it featured his rather unusual lowercase “p”. &nbsp;
 
+![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_score.jpg)
+<div style="background-color:white;">A copy of Zubir Said’s original handwritten score of “Majulah Singapura”. This was attached to Yap Yan Hong’s memo, dated 30 August 1958, to participants of the opening performance for the Victoria Theatre.  <i>Courtesy of National Archives of Singapore (Microfilm no. PUB 386 - 11). </i></div>
+
 The National Archives of Singapore has a copy of the score, which is currently on display at the _Laws of Our Land: Foundations of a New Nation_ exhibition at the National Gallery Singapore.[^17] It was very likely scanned from the original handwritten manuscript of “Majulah Singapura” whose whereabouts remain unknown. It is almost certain that this is what Zubir gave to the City Council in response to the invitation of 10 July 1958.
 
 The opening performance of the renovated Victoria Theatre took place on 6 September 1958, and the first item was “Majulah Singapura”, orchestrated by Dick Abell of Radio Malaya.[^18] The performance by the choir and orchestra of the Singapore Chamber Ensemble was conducted by Paul Abisheganaden, and a _Straits Times_ report on the concert called it “a stirring song, Majulah Singapura (composed by Zubir Said)”.[^19]
