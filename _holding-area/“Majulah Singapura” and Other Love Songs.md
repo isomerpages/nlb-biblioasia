@@ -136,123 +136,122 @@ _My heartfelt thanks are due to Eric Chin and Wendy Ang, both former directors o
 
 #### **Notes**
 
-[^1]: 
+[^1]: “Francis Scott Key Pens ‘The Star-Spangled Banner’” History.com, last updated 27 May 2025,&nbsp; https://www.history.com/this-day-in-history/september-14/key-pens-star-spangled-banner.
 
 
-[^2]: 
+[^2]: The Editors of Encyclopaedia Britannica, “La Marseillaise,” Encyclopaedia Britannica, 6 June 2025, https://www.britannica.com/topic/La-Marseillaise.
 
 
-[^3]: 
+[^3]: Charles Dimont, “The History of ‘God Save the King’,” _History Today_, 3, no. 5 (May 1953), accessed 9 July 2025, https://www.historytoday.com/archive/history-matters/god-save-queen-history-national-anthem.&nbsp;
 
 
-[^4]: 
+[^4]: Akiko Murakami, “Japan’s National Anthem Was and Is an Ultimate Love Song,” 27 March 2022, https://www.nara-yamatospirittours.com/post/japanese-national-anthem-was-and-is-an-ultimate-love-song.
 
 
-[^5]: 
+[^5]: Saidah Rastam, _Rosalie and Other Love Songs_ (Kuala Lumpur, Malaysia: Khazanah Nasional Berhad, 2014), 11–33. (From National Library Singapore, call no. RSEA 782.42095951 SAI)
 
 
-[^6]: 
+[^6]: Benjamin Wong, “The Fascinating Origins of Malaysia’s National Anthem, ‘Negaraku’,” Lifestyle Asia, 19 August 2024, https://www.lifestyleasia.com/kl/culture/facts-and-history-of-malaysia-national-anthem-negaraku/; Tse Hao Guang, “A History of Negaraku in Seven Rumours,” PR&amp;TA, accessed 11 July 2025, https://www.pratajournal.com/history-of-negaraku.
 
 
-[^7]: 
+[^7]: Tse, “A History of Negaraku in Seven Rumours.”
 
 
-[^8]: 
+[^8]: Wong, “The Fascinating Origins of Malaysia’s National Anthem, ‘Negaraku’.”
 
 
-[^9]: 
+[^9]: National Heritage Board, “Zubir Said,” Roots, last updated 24 October 2023, https://www.roots.gov.sg/stories-landing/stories/zubir-said/story; Rohana Zubir, _Zubir Said – the Composer of Majulah Singapura_ (Singapore: Institute of Southeast Asian Studies, 2012), 21–27. (From National Library Singapore, call no. RSING 780.92 ROH)&nbsp;
 
 
-[^10]: 
+[^10]: Cheryl Sim, “Zubir Said,” in _Singapore Infopedia_. National Library Board Singapore. Article published 3 September 2014.&nbsp;
 
 
 
-[^11]: 
+[^11]: Low Zu Boon, “Zubir Said and the Golden Age of Singapore Cinema,” Roots, 6 February 2025, https://www.roots.gov.sg/stories-landing/stories/the-bright-lights-zubir-said-and-the-golden-age-of-singapore-cinema/story.
 
 
-[^12]: 
+[^12]: Singapore City Council, “Opening Performance/New Victoria Theatre,” 1958. (From National Archives of Singapore, microfilm no. PUB 386 - 11)
 
 
-[^13]: 
+[^13]: Letter from H.F. Sheppard to Zubir Said, 10 July 1958.
 
 
-[^14]: 
+[^14]: Zubir Said to H.F. Sheppard, 15 July 1958; Zubir Said, oral history interview by Liana Tan, 13 September 1984, transcript and MP3 audio, Reel/Disc 14 of 23, National Archives of Singapore (accession no. 000293), 190–91.&nbsp;
 
 
-[^15]: 
+[^15]: Minutes of Meeting of the Finance and General Purposes (Entertainments) Sub-Committee, 28 July 1958.
 
 
-[^16]: 
+[^16]: Yap Yan Hong, “Opening Ceremony Victoria Theatre” (memo to all participants), 30 August 1958; Zubir Said, “Manuscript of “Majulah Singapura,” attached to Yap Yan Hong’s memo, 30 August 1958.
 
 
-[^17]: 
+[^17]: “Laws of Our Land: Foundations of a New Nation,” National Gallery Singapore, accessed 22 July 2025, https://www.nationalgallery.sg/sg/en/exhibitions/laws-of-our-land-foundations-of-a-new-nation.html#ways-to-experience.
 
 
-[^18]: 
+[^18]: Singapore City Council, “Opening Performance/New Victoria Theatre.”&nbsp;
 
 
-[^19]: 
 
+[^19]: L.S.Y, “Spotlight on Talent All on One Stage,” _Straits Times_, 7 September 1958, 5. (From NewspaperSG)
 
-[^20]: 
 
+[^20]: “Majulah Singapura – by Choir of the Combined Schools,” _Straits Times_, 16 February 1959, 7; “... But It Was Prince Who Stole Show,” _Straits Times_, 24 February 1958, 1. (From NewspaperSG)
 
 
-[^21]: 
 
+[^21]: Toh Chin Chye, oral history interview by Daniel Chew, 23 August 1989, transcript and MP3 audio, Reel/Disc 1 of 1, National Archives of Singapore (accession no. 001063), 1; “National Anthem,” National Heritage Board, last updated 14 March 2025, https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/resources/national-symbols/national-anthem.
 
-[^22]: 
 
+[^22]: Rohana Zubir, _Zubir Said – the Composer of Majulah Singapura_ (Singapore: Institute of Southeast Asian Studies, 2012), 5–6. (From National Library Singapore, call no. RSING 780.92 ROH); National Heritage Board, “State of Singapore National Loyalty Week Card,” Roots, last updated 4 April 2023, https://www.roots.gov.sg/Collection-Landing/listing/1128296?taigerlist=collections&nbsp;
 
-[^23]: 
 
+[^23]: “Govt. Withdraws Anthem Bill,” _Straits Times_, 14 October 1959, 9. (From NewspaperSG)
 
-[^24]: 
 
+[^24]: “Singapore Chooses Own Flag and Anthem,” _Straits Times_, 9 November 1959, 1; “500,000 Souvenir Cards for L-Week,” _Straits Times_, 27 November 1959, 4; Tan Shzr Ee, “Missing: Eight Bars,” _Straits Times_, 22 January 2001, 16. (From NewspaperSG)
 
-[^25]: 
 
+[^25]: “Singapore Rejoices: Huge Crowds Throng Padang for Big Parade,” _Straits Times_, 4 December 1959, 1. (From NewspaperSG)
 
-[^26]: 
 
+[^26]: “Up Goes the Flag,” _Straits Times_, 17 September 1963, 1. (From NewspaperSG)
 
-[^27]: 
 
+[^27]: “Rehearsing ‘Majulah Singapura’,” _Singapore Free Press_, 28 October 1959, 1. (From NewspaperSG)
 
-[^28]: 
 
+[^28]: Jessica Yeo, (NLB), personal communication, 18 April 2016; “Von Benda and Co. Show How to Play ‘Majulah Singapura,” _Singapore Free Press_, 18 February 1960, 3; “Anthem Gift,” _Straits Times_, 12 September 1960, 4. (From NewspaperSG)
 
-[^29]: 
 
+[^29]: National Archives of Singapore, “Choir &amp; Orchestra (Song of Singapore) With Narration (Recording Date 12/05/1959),” 1959–1968, sound recording, 14:59. (From National Archives of Singapore, accession no. 2011003748)
 
-[^30]: 
 
+[^30]: Loretta Marie Perera, “Majulah Singapura: A Composition of History,” MusicSG, accessed 9 August 2018; Joe Peters, “Pak Zubir Said and Majulah Singapura,” The Sonic Environment (blog), 20 October 2021, http://thesonicenvironment.blogspot.com/2014/08/pak-zubir-said-and-majulah-singapura.html; Tan Shzr Ee, “It’s Easier to Sing Now,” _Straits Times_ 22 January 2001, L6; John Gee, “Grander, More Inspiring Anthem,” _Business Times_, 20 January 2001, 20. (From NewspaperSG)
 
 
-[^31]: 
 
+[^31]: Gee, “Grander, More Inspiring Anthem”; Tan, “It’s Easier to Sing Now.”
 
-[^32]: 
 
+[^32]: Tan, “It’s Easier to Sing Now.”&nbsp;
 
-[^33]: 
 
+[^33]: Gee, “Grander, More Inspiring Anthem.”
 
-[^34]: 
 
+[^34]: “Moment of Calm Before the Debut,” _Straits Times_, 26 January 1979, 15. (From NewspaperSG)
 
-[^35]: 
 
+[^35]: Leslie Fong, “Singapore Symphony Starts on Right Note,” _Straits Times_, 25 January 1979, 11. (From NewspaperSG)
 
-[^36]: 
 
+[^36]: Orchestra of the Music Makers, “Zubir Said – The Singapore City Council Song and National Anthem ‘Majulah Singapura’,” YouTube, accessed 23 July 2025,&nbsp; https://youtu.be/r6kaVWiuJ2U.&nbsp;
 
-[^37]: 
 
+[^37]: Bernard T.G. Tan, “The Hunt for Majulah Singapura,” _Cultural Connections_ 4 (2019): 12–28.&nbsp; (From National Library Singapore, call no. RSING 700.95957 CC)
 
-[^38]: 
 
+[^38]: Zubir Said, “Original manuscript of ‘Majulah Singapura’ (official shortened version),” 11 November 1959; “500,000 Souvenir Cards for L-Week.”
 
-[^39]: 
 
-
+[^39]: Zubir Said, ““Original manuscript of ‘Majulah Singapura’ (official shortened version).”
