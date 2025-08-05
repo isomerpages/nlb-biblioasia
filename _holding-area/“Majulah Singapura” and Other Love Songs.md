@@ -84,6 +84,9 @@ But before Zubir could finish shortening it, it appears that someone else (whose
 
 The original version of “Majulah Singapura” consisted of a 16-bar verse and an 8-bar chorus, which was repeated to make it 16 bars. The unauthorised shortening, as I recall, removed eight bars from the middle of bar 4 to the middle of bar 12. In Zubir’s shortened version, he also removed eight bars, but these were bars 7 to 14 instead. His shortened version made more musical sense than the unauthorised shortening. It remains a mystery, though, why someone else was asked to do the shortening without Zubir’s knowledge.
 
+![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_ori.jpg)
+<div style="background-color:white;">Zubir Said’s original version of “Majulah Singapura” consisted of a 16-bar verse and an 8-bar chorus which was repeated to make it 16 bars. In the unauthorised shortened version, eight bars were removed from the middle of bar 4 to the middle of bar 12 (marked off in red). The official shortened version by Zubir Said had bars 7 to 14 removed from the verse (marked off in green).  <i>Courtesy of Bernard T.G. Tan.  </i></div>
+
 Zubir’s shortened version was adopted by the Legislative Assembly as the official state anthem on 11 November 1959, along with a new state flag and coat-of-arms. The Ministry of Culture issued a new souvenir card bearing the official state anthem as shortened by Zubir, the new state flag as well as the new state arms. Most Singaporeans today are unaware that the national anthem is a shortened version of the original song.[^24]
 
 #### **“Majulah Singapura” as the State and National Anthems**
