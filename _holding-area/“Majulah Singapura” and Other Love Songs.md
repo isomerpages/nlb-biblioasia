@@ -7,6 +7,10 @@ description: ""
 #### National anthems often start off as songs for different purposes. Singapore’s “Majulah Singapura” is no different.  
 By Bernard T.G. Tan
 
+![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_main.jpg)
+<div style="background-color:white;">Yang di-Pertuan Negara Yusof Ishak (left) and his wife Puan Noor Aishah standing at attention with officials during the playing of “Majulah Singapura” at the Inter-Ministry Athletic Meet at Farrer Park, 1961.  <i>Yusof Ishak Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000508 - 0160). </i></div>
+
+
 Singaporeans are undoubtedly familiar with our national anthem “Majulah Singapura” (Onward Singapore). But not many are aware of the circumstances under which it was composed, and of the events which shaped it into the national anthem we know today.
 
 &nbsp;“Majulah Singapura” was not originally composed with the aim of being a national anthem. It was first performed at a concert on 6 September 1958 to celebrate the opening of the newly renovated Victoria Theatre. In 1959, after Singapore had achieved internal self-government, it was chosen to be the official state anthem, though it was a shortened version of the original. It was adopted by the Legislative Assembly as the official state anthem and launched during National Loyalty Week when Yusof Ishak was sworn in as the first Malayan-born Yang di-Pertuan Negara (Head of State). “Majulah Singapura” then became the national anthem when Singapore gained independence on 9 August 1965.&nbsp;
