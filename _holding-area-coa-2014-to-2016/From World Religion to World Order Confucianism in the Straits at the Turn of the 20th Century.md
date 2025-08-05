@@ -169,7 +169,7 @@ discipline of comparative religion.[^20]
 
 Masuzawa shows that one of the fathers of the science of religion – known
 today as comparative religion – Friedrich Max Müller, developed this
-discipline based on his expertise in Sanskrit philology and language.21
+discipline based on his expertise in Sanskrit philology and language.[^21]
 Specifically, between 1861 and 1870, Max Müller formulated his science of
 religion upon his previous field of expertise, the science of language. His
 comparative study of religion was, in fact, based on comparative philology.
@@ -180,7 +180,7 @@ openly against establishing a relationship of biological or physiological
 causality between languages and races.
 
 In other words, Max Müller opposed, unsuccessfully, the development of
-racialist philology.22 His opposition was directed at the anthropological
+racialist philology.[^22] His opposition was directed at the anthropological
 prescriptions for “race” prevalent at the time, which suggested discrepant
 origins of different races, where “difference” was treated as a biological
 fact. Instead, Max Müller was in favour of a shared origin of humankind,
