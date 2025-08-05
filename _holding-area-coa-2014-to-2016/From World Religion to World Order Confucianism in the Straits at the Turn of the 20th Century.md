@@ -184,13 +184,13 @@ racialist philology.[^22] His opposition was directed at the anthropological
 prescriptions for “race” prevalent at the time, which suggested discrepant
 origins of different races, where “difference” was treated as a biological
 fact. Instead, Max Müller was in favour of a shared origin of humankind,
-supported through his comparative study of the family of languages.23
+supported through his comparative study of the family of languages.[^23]
 Apart from this particular racial or national aspect of religion, Masuzawa
 notes that the imperial conquest and aspirations of Christianity, and also
 encounters with Buddhism, simultaneously shaped the transnational or
-supra-racial character (or aspirations) of religions.24
+supra-racial character (or aspirations) of religions.[^24]
 
-Max Müller’s concept of “universalistic humanity”25 and the historical
+Max Müller’s concept of “universalistic humanity”[^25] and the historical
 entanglement between the Chinese race and Confucianism all made a
 decisive impact on Lim’s articulation of a Confucianist world order, as
 discussed later in this essay. Whereas the intellectual connection between
