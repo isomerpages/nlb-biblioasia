@@ -154,7 +154,7 @@ _My heartfelt thanks are due to Eric Chin and Wendy Ang, both former directors o
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/BernardTan.png">
 <b>Emeritus Professor Bernard T.G. Tan</b> is a retired professor of physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra. </div>
 
 #### **Notes**
