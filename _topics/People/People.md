@@ -5,6 +5,12 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/">**From Liguria to the Lion City: The Life and Times of Giovanni Gaggino**</a>
+The remarkable story of an Italian merchant who once owned Pulau Bukom and authored an Italian-Malay dictionary in colonial Singapore.
+
+<img src="/images/Vol%2021%20Issue%203/Giovanni/giovanni_Topics3.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/7/liu-kang-artist-photographer-educator/">The Many Facets of Liu Kang</a>
 
 Liu Kang’s many roles as photographer, artist, educator and critic helped paint a new narrative for Singapore’s art history.
