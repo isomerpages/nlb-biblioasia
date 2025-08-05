@@ -82,6 +82,9 @@ But before Zubir could finish shortening it, it appears that someone else (whose
 ![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_souvenir.jpg)
 <div style="background-color:white;">The souvenir card issued by the Ministry of Culture to commemorate National Loyalty Week (29 November to 5 December 1959). The cover features the new state flag with the new coat-of-arms on the back. On the inside is the official shortened version of “Majulah Singapura” by Zubir Said.  <i>Courtesy of Bernard T.G. Tan.  </i></div>
 
+![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_letter.jpg)
+<div style="background-color:white;">Letter from Zubir Said to Culture Minister S. Rajaratnam, dated 14 October 1959, complaining that “Majulah Singapura” was shortened without his knowledge.  <i>Image reproduced from Rohana Zubir, Zubir Said – the Composer of Majulah Singapura (Singapore: Institute of Southeast Asian Studies, 2012), 5. (From National Library Singapore, call no. RSING 780.92 ROH). </i></div>
+
 The original version of “Majulah Singapura” consisted of a 16-bar verse and an 8-bar chorus, which was repeated to make it 16 bars. The unauthorised shortening, as I recall, removed eight bars from the middle of bar 4 to the middle of bar 12. In Zubir’s shortened version, he also removed eight bars, but these were bars 7 to 14 instead. His shortened version made more musical sense than the unauthorised shortening. It remains a mystery, though, why someone else was asked to do the shortening without Zubir’s knowledge.
 
 ![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_ori.jpg)
