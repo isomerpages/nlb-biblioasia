@@ -27,7 +27,7 @@ This educational landscape formed the backdrop for the dozen reading surveys con
 The earliest such study was initiated in 1966 by the Research Unit of the Teachers’ Training College (TTC), which surveyed over 1,500 primary school pupils from the English, Chinese and Malay language streams. It aimed to provide insights to parents, teachers, librarians and education authorities in supporting children’s reading development.[^6]
 
 ![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_book1.jpg)
-<div style="background-color:white;">The Teachers’ Training College conducted the first reading survey in 1966. It surveyed over 1,500 primary school pupils from the English, Chinese and Malay language streams. Newspapers were the most popular reading material, followed by comics and magazines. <i>Collection of the National Library (Call no. RCLOS 028.9095957 TEA). </i></div>
+<div style="background-color:white;">The Teachers’ Training College conducted the first reading survey in 1966. It surveyed over 1,500 primary school pupils from the English, Chinese and Malay language streams. Newspapers were the most popular reading material, followed by comics and magazines. <i>Collection of the National Library (call no. RCLOS 028.9095957 TEA). </i></div>
 
 This study found that newspapers were the most popular reading material, followed by comics and magazines.[^7] It also revealed low levels of reading in a second language, which was highlighted as a “grave concern” given the importance of bilingualism. Additionally, students showed a preference for fiction over nonfiction, with classroom and school libraries serving as their primary sources of reading material due to convenient access.[^8]
 
