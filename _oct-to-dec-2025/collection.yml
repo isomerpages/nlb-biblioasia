@@ -2,6 +2,8 @@ collections:
   oct-to-dec-2025:
     output: true
     order:
+      - "From Liguria to the Lion City: The Life and Times of Giovanni
+        Gaggino.md"
       - Dutch Burghers in British Malaya.md
       - "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s).md"
       - “Majulah Singapura” Finally Repaired the Breach.md

@@ -86,7 +86,7 @@ Sacks and his brother Michael had been evacuated with their school to the countr
 
 “Clearly, I had not only been enthralled, but must have constructed the scene in my mind, from David’s words, and then taken it over, appropriated it, and taken it for a memory of my own,” Sacks writes.[^5]
 
-What are we doing when we appropriate memory in this way? According to Sacks we are fashioning our own life narrative, our identity. This need for narrative to make sense of our lives is peculiar to our human condition. Such convoluted introspective reflection is unknown in animals. We are the only species that can reflect upon ourselves.&nbsp;
+What are we doing when we appropriate memory in this way? According to Sacks, we are fashioning our own life narrative, our identity. This need for narrative to make sense of our lives is peculiar to our human condition. Such convoluted introspective reflection is unknown in animals. We are the only species that can reflect upon ourselves.&nbsp;
 
 In his book, _The Man Who Mistook His Wife for a Hat and Other Clinical Tales_, Sacks says, “To be ourselves we must have ourselves – possess, if need be, re-possess, our life-stories. We must ‘recollect’ ourselves, recollect the inner drama, the narrative, of ourselves. A man needs such a narrative, a continuous inner narrative, to maintain his identity, his self... Our only truth is narrative truth in the stories we tell each other and ourselves… Such subjectivity is built into the very nature of memory.”[^6]
 
