@@ -39,6 +39,9 @@ When the Federation of Malaya became independent from British colonial rule on 3
 
 The backstory of how Zubir Said (affectionately known as Pak Zubir; _pak_ means “father” in Malay) ended up composing “Majulah Singapura” is just as fascinating.&nbsp;
 
+![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_zubir.jpg)
+<div style="background-color:white;">Zubir Said writing music scores at his home in Joo Chiat Place, 1967.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005388 - 0074). </i></div>
+
 Zubir was born in 1907 in Bukit Tinggi, Minangkabau, Sumatra, and his innate musicality manifested itself in primary school when he carved his own flute from bamboo and participated in a band with other flautists. Later, he became the leader of a roving _keroncong_ (a small ukulele-like instrument and an Indonesian musical style) band, performing at weddings and fun fairs.[^9] 
 
 Zubir’s father regarded music as _haram_ (forbidden or unlawful in Islam). Seeking freedom from his family to pursue his musical dreams, Zubir left Sumatra in 1928 at the age of 21 on a cargo ship bound for Singapore where he joined City Opera, a _bangsawan_ (Malay opera) troupe, as a violinist. He performed at the Happy Valley amusement park with the troupe, eventually becoming its leader. He also picked up new musical skills such as playing the piano as well as Western musical notation and music theory.[^10]
@@ -75,6 +78,9 @@ The opening performance of the renovated Victoria Theatre took place on 6 Septem
 On 3 June 1959, Singapore attained self-government and Deputy Prime Minister Toh Chin Chye was given the task of creating its new symbols of statehood, including the state anthem. Singapore Mayor Ong Eng Guan alerted Toh to “Majulah Singapura” and Toh, on hearing the song, agreed it was highly suitable to be the state anthem. However, he requested Zubir to shorten it first.[^21]
 
 But before Zubir could finish shortening it, it appears that someone else (whose identity remains unknown) had already done so. Zubir complained in a letter to Foreign Minister S. Rajaratnam on 14 October 1959 that he had seen a copy of this shortened version in a souvenir card sent to schools (which I do recall seeing myself), and that the way it was shortened was “wrong and spoils the composition”.[^22] As the Singapore State Arms and Flag and National Anthem Bill to adopt the unauthorised version was due to be passed by the Legislative Assembly on the very day Zubir wrote to Rajaratnam, the bill was withdrawn, possibly as a result of Zubir’s intervention.[^23]
+
+![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_souvenir.jpg)
+<div style="background-color:white;">The souvenir card issued by the Ministry of Culture to commemorate National Loyalty Week (29 November to 5 December 1959). The cover features the new state flag with the new coat-of-arms on the back. On the inside is the official shortened version of “Majulah Singapura” by Zubir Said.  <i>Courtesy of Bernard T.G. Tan.  </i></div>
 
 The original version of “Majulah Singapura” consisted of a 16-bar verse and an 8-bar chorus, which was repeated to make it 16 bars. The unauthorised shortening, as I recall, removed eight bars from the middle of bar 4 to the middle of bar 12. In Zubir’s shortened version, he also removed eight bars, but these were bars 7 to 14 instead. His shortened version made more musical sense than the unauthorised shortening. It remains a mystery, though, why someone else was asked to do the shortening without Zubir’s knowledge.
 
