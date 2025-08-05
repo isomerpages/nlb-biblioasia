@@ -14,7 +14,7 @@ Long before the era of container ships and globalised trade, before the First Wo
 
 Born in 1846 in the town of Varazze, in the northwestern coastal region of Liguria, Gaggino made Singapore his home for over four decades, launching a flurry of ventures that ranged from the purchase of Pulau Bukom to a rubber plantation in Thailand. He built a thriving ship chandlery, Gaggino &amp; Co., capitalising on the port’s explosive growth to supply ships with sundry maritime necessities. He also sailed up the Yangtze River in China, ventured into Vladivostok in Russia and trekked throughout Southeast Asia in search of business opportunities. While Gaggino may not have been the first Italian to pass through Singapore, he was arguably the first to leave his mark.&nbsp;
 
-![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_adv.jpg)
+![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_adv2.jpg)
 <div style="background-color:white;"> Advertisement by Gaggino &amp; Co., a ship chandlery that provided supplies and equipment to vessels passing through Singapore.  <i> Image reproduced from “Page 2 Advertisements Column 3,” Straits Times, 1 December 1904, 2. (From NewspaperSG). </i></div>
 
 #### **The Italian Presence in the Straits**
