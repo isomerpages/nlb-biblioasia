@@ -136,22 +136,22 @@ _My heartfelt thanks are due to Eric Chin and Wendy Ang, both former directors o
 
 #### **Notes**
 
-[^1]: “Francis Scott Key Pens ‘The Star-Spangled Banner’” History.com, last updated 27 May 2025,&nbsp; https://www.history.com/this-day-in-history/september-14/key-pens-star-spangled-banner.
+[^1]: “Francis Scott Key Pens ‘The Star-Spangled Banner’” History.com, last updated 27 May 2025,&nbsp; [https://www.history.com/this-day-in-history/september-14/key-pens-star-spangled-banner](https://www.history.com/this-day-in-history/september-14/key-pens-star-spangled-banner).
 
 
-[^2]: The Editors of Encyclopaedia Britannica, “La Marseillaise,” Encyclopaedia Britannica, 6 June 2025, https://www.britannica.com/topic/La-Marseillaise.
+[^2]: The Editors of Encyclopaedia Britannica, “La Marseillaise,” Encyclopaedia Britannica, 6 June 2025, [https://www.britannica.com/topic/La-Marseillaise](https://www.britannica.com/topic/La-Marseillaise).
 
 
-[^3]: Charles Dimont, “The History of ‘God Save the King’,” _History Today_, 3, no. 5 (May 1953), accessed 9 July 2025, https://www.historytoday.com/archive/history-matters/god-save-queen-history-national-anthem.&nbsp;
+[^3]: Charles Dimont, “The History of ‘God Save the King’,” _History Today_, 3, no. 5 (May 1953), accessed 9 July 2025, [https://www.historytoday.com/archive/history-matters/god-save-queen-history-national-anthem](https://www.historytoday.com/archive/history-matters/god-save-queen-history-national-anthem).&nbsp;
 
 
-[^4]: Akiko Murakami, “Japan’s National Anthem Was and Is an Ultimate Love Song,” 27 March 2022, https://www.nara-yamatospirittours.com/post/japanese-national-anthem-was-and-is-an-ultimate-love-song.
+[^4]: Akiko Murakami, “Japan’s National Anthem Was and Is an Ultimate Love Song,” 27 March 2022, [https://www.nara-yamatospirittours.com/post/japanese-national-anthem-was-and-is-an-ultimate-love-song](https://www.nara-yamatospirittours.com/post/japanese-national-anthem-was-and-is-an-ultimate-love-song).
 
 
-[^5]: Saidah Rastam, _Rosalie and Other Love Songs_ (Kuala Lumpur, Malaysia: Khazanah Nasional Berhad, 2014), 11–33. (From National Library Singapore, call no. RSEA 782.42095951 SAI)
+[^5]: Saidah Rastam, [_Rosalie and Other Love Songs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202390586) (Kuala Lumpur, Malaysia: Khazanah Nasional Berhad, 2014), 11–33. (From National Library Singapore, call no. RSEA 782.42095951 SAI)
 
 
-[^6]: Benjamin Wong, “The Fascinating Origins of Malaysia’s National Anthem, ‘Negaraku’,” Lifestyle Asia, 19 August 2024, https://www.lifestyleasia.com/kl/culture/facts-and-history-of-malaysia-national-anthem-negaraku/; Tse Hao Guang, “A History of Negaraku in Seven Rumours,” PR&amp;TA, accessed 11 July 2025, https://www.pratajournal.com/history-of-negaraku.
+[^6]: Benjamin Wong, “The Fascinating Origins of Malaysia’s National Anthem, ‘Negaraku’,” Lifestyle Asia, 19 August 2024, [https://www.lifestyleasia.com/kl/culture/facts-and-history-of-malaysia-national-anthem-negaraku/](https://www.lifestyleasia.com/kl/culture/facts-and-history-of-malaysia-national-anthem-negaraku/); Tse Hao Guang, “A History of Negaraku in Seven Rumours,” PR&amp;TA, accessed 11 July 2025, [https://www.pratajournal.com/history-of-negaraku](https://www.pratajournal.com/history-of-negaraku).
 
 
 [^7]: Tse, “A History of Negaraku in Seven Rumours.”
@@ -160,10 +160,10 @@ _My heartfelt thanks are due to Eric Chin and Wendy Ang, both former directors o
 [^8]: Wong, “The Fascinating Origins of Malaysia’s National Anthem, ‘Negaraku’.”
 
 
-[^9]: National Heritage Board, “Zubir Said,” Roots, last updated 24 October 2023, https://www.roots.gov.sg/stories-landing/stories/zubir-said/story; Rohana Zubir, _Zubir Said – the Composer of Majulah Singapura_ (Singapore: Institute of Southeast Asian Studies, 2012), 21–27. (From National Library Singapore, call no. RSING 780.92 ROH)&nbsp;
+[^9]: National Heritage Board, “Zubir Said,” Roots, last updated 24 October 2023, [https://www.roots.gov.sg/stories-landing/stories/zubir-said/story](https://www.roots.gov.sg/stories-landing/stories/zubir-said/story); Rohana Zubir, [_Zubir Said – the Composer of Majulah Singapura_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14540511) (Singapore: Institute of Southeast Asian Studies, 2012), 21–27. (From National Library Singapore, call no. RSING 780.92 ROH)&nbsp;
 
 
-[^10]: Cheryl Sim, “Zubir Said,” in _Singapore Infopedia_. National Library Board Singapore. Article published 3 September 2014.&nbsp;
+[^10]: Cheryl Sim, “[Zubir Said](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4b3061ce-c763-480d-9867-ac364bb139bf),” in _Singapore Infopedia_. National Library Board Singapore. Article published 3 September 2014.&nbsp;
 
 
 
