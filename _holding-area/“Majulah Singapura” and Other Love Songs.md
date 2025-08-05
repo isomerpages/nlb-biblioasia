@@ -100,6 +100,10 @@ Singapore became part of the new Federation of Malaysia formed on 16 September 1
 
 The initial official recordings of “Majulah Singapura” were by the Radio Singapore Orchestra and the Singapore Military Forces Band.[^27] When the Berlin Chamber Orchestra visited Singapore in 1960, they were asked to make a recording of “Majulah Singapura” which became the official recorded version of the anthem for many years.[^28] Two further recordings were made by visiting orchestras: Japan’s NHK Symphony Orchestra in 1963 and the London Symphony Orchestra in 1968.[^29]
 
+![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_vinyl2.jpg)
+![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_vinylb.jpg)
+<div style="background-color:white;">A copy of the first vinyl record of “Majulah Singapura” produced by the Gramophone Company Ltd in 1959. This copy was the one presented to Minister for Culture S. Rajaratnam. Side 1 features the full and salute versions played by the Band of the Singapore Military Forces, while side 2 contains the version sung by the Ministry of Education Choir. <i>Courtesy of National Archives of Singapore. </i></div>
+
 #### **Revised Orchestrations**
 
 In 2000, the Ministry of Information and the Arts (MITA; now Ministry of Digital Development and Information) decided to have a new orchestration of the national anthem, and I chaired a committee to do this. I proposed that the key of the anthem be transposed down to the key of F major from G major which would put the highest note at D5 instead of E5, making the anthem easier to sing.[^30]
