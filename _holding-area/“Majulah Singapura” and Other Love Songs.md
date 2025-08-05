@@ -11,7 +11,7 @@ Singaporeans are undoubtedly familiar with our national anthem “Majulah Singap
 
  “Majulah Singapura” was not originally composed with the aim of being a national anthem. It was first performed at a concert on 6 September 1958 to celebrate the opening of the newly renovated Victoria Theatre. In 1959, after Singapore had achieved internal self-government, it was chosen to be the official state anthem, though it was a shortened version of the original. It was adopted by the Legislative Assembly as the official state anthem and launched during National Loyalty Week when Yusof Ishak was sworn in as the first Malayan-born Yang di-Pertuan Negara (Head of State). “Majulah Singapura” then became the national anthem when Singapore gained independence on 9 August 1965. 
 
-Love Songs of Other Countries
+#### **Love Songs of Other Countries**
 
 That “Majulah Singapura” did not start off as a national anthem is not as unusual as it sounds. For example, “The Star-Spangled Banner”, which became the national anthem of the United States of America in 1931, was born in the heat of battle during the War of 1812 between the United States and its former coloniser, the United Kingdom.1  
 
@@ -31,7 +31,7 @@ A Japanese version of “Terang Bulan” was introduced in the film _Marai No To
 
 When the Federation of Malaya became independent from British colonial rule on 31 August 1957, a search began for a suitable national anthem. Tunku Abdul Rahman, chief minister of Malaya (later prime minister of Malaysia), convened and chaired a committee for the task. A contest was held and submissions were invited from notable composers such as Benjamin Britten, William Walton and even Zubir Said. All this came to nought, and it was then suggested by the Tunku that the Perak state anthem might be suitable. The committee wrote new lyrics for the new anthem, which was titled “Negaraku”.  When the new Federation of Malaysia was formed on 16 September 1963, “Negaraku” became its national anthem.
 
-Zubir Said: Composer of “Majulah Singapura” 
+#### **Zubir Said: Composer of “Majulah Singapura” **
 
 The backstory of how Zubir Said (affectionately known as Pak Zubir; _pak_ means “father” in Malay) ended up composing “Majulah Singapura” is just as fascinating. 
 
@@ -45,7 +45,7 @@ Zubir wrote many of the songs in _Rachun Dunia_, starring P. Ramlee and Siput Sa
 
 Zubir found greater scope for his musical talents at Cathay-Keris Studio in 1953 and became responsible for all the musical aspects of its films, including the entire composition and scoring of all music. 
 
-Invitation from the City Council
+#### **Invitation from the City Council**
 
 By the 1950s, Zubir had become a household name in Malay music, and it was at this time that the Singapore City Council undertook a major renovation of the Victoria Theatre, then the premier venue for concerts and drama. As the rebuilding progressed towards completion, a grand concert was planned to mark the reopening of Victoria Theatre.12 
 
@@ -63,7 +63,7 @@ The opening performance of the renovated Victoria Theatre took place on 6 Septem
 
 “Majulah Singapura” was next heard at the massive Youth Rally convened at the Padang on 23 February 1959 for the visit of the Duke of Edinburgh, performed by the Combined Schools Choir under the baton of Abisheganaden.20 The song quickly found favour with the public, and I was so taken with it that I made a piano arrangement of the song.  
 
-Shortening of the Verse 
+#### **Shortening of the Verse **
 
 On 3 June 1959, Singapore attained self-government and Deputy Prime Minister Toh Chin Chye was given the task of creating its new symbols of statehood, including the state anthem. Singapore Mayor Ong Eng Guan alerted Toh to “Majulah Singapura” and Toh, on hearing the song, agreed it was highly suitable to be the state anthem. However, he requested Zubir to shorten it first.21   
 
@@ -73,7 +73,7 @@ The original version of “Majulah Singapura” consisted of a 16-bar verse and 
 
 Zubir’s shortened version was adopted by the Legislative Assembly as the official state anthem on 11 November 1959, along with a new state flag and coat-of-arms. The Ministry of Culture issued a new souvenir card bearing the official state anthem as shortened by Zubir, the new state flag as well as the new state arms. Most Singaporeans today are unaware that the national anthem is a shortened version of the original song.24   
 
-“Majulah Singapura” as the State and National Anthems
+#### **“Majulah Singapura” as the State and National Anthems**
 
 The new anthem was launched during National Loyalty Week which ran from 29 November to 5 December 1959 when Yusof Ishak was installed as the Yang di-Pertuan Negara. “Majulah Singapura”, heard for the first time as the state anthem, was played alongside the British anthem “God Save the Queen”.25 
 
@@ -81,7 +81,7 @@ Singapore became part of the new Federation of Malaysia formed on 16 September 1
 
 The initial official recordings of “Majulah Singapura” were by the Radio Singapore Orchestra and the Singapore Military Forces Band.27 When the Berlin Chamber Orchestra visited Singapore in 1960, they were asked to make a recording of “Majulah Singapura” which became the official recorded version of the anthem for many years.28 Two further recordings were made by visiting orchestras: Japan’s NHK Symphony Orchestra in 1963 and the London Symphony Orchestra in 1968.29 
 
-Revised Orchestrations
+#### **Revised Orchestrations**
 
 In 2000, the Ministry of Information and the Arts (MITA; now Ministry of Digital Development and Information) decided to have a new orchestration of the national anthem, and I chaired a committee to do this. I proposed that the key of the anthem be transposed down to the key of F major from G major which would put the highest note at D5 instead of E5, making the anthem easier to sing.30 
 
@@ -103,7 +103,7 @@ As far as I am aware, it would be more than three decades later that the longer 
 
 I hurriedly scored these two versions as requested by Tze Law, and at the concert, the original version of “Majulah Singapura” was performed and heard by a new generation of Singaporeans. And thanks to the internet, even more Singaporeans have heard the original version as the performance was subsequently posted on YouTube. Since it was uploaded 10 years ago, the performance has been viewed more than 177,000 times.36  
 
-The Original Manuscript of “Majulah Singapura”
+#### **The Original Manuscript of “Majulah Singapura”**
 
 During my research into the origins of “Majulah Singapura”, I had, as mentioned earlier, come across the correspondence between the City Council and Zubir on the commission to write a song for the reopening of the Victoria Theatre. I am now convinced that the manuscript of the original music and lyrics in the City Council files (attached to the 1958 memo from Yan Yan Hong) is indeed a copy of Zubir’s original manuscript of the song.
 
@@ -111,7 +111,7 @@ A fuller account of the search for the original manuscript has been published el
 
 Comparing the handwriting in this manuscript to the City Council’s copy of the original “Majulah Singapura” manuscript,39 there is a reasonable certainty (as attested to by the Health Sciences Authority’s handwriting expert, Yap Bei Sing) that the two manuscripts were by the same person as they both featured Zubir’s unusual handwritten lowercase “p”.
 
-A Love Song for Singapore
+#### **A Love Song for Singapore**
 
 I was born in Singapore in 1943 during the Japanese Occupation, so the national anthem of my birth was the Japanese “Kimi Ga Yo”. Following the return of the British in 1945, my national anthem became “God Save the King” (to become “God Save the Queen” in 1952). When Singapore became self-governing in 1959, “Majulah Singapura” became our state anthem (presumably with “God Save the Queen” remaining the national anthem). 
 
