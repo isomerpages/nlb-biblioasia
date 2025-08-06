@@ -469,13 +469,13 @@ power”, as he called it, stopped the otherwise incessant wars between
 Catholic, Orthodox and Protestant Christians that marked a long period
 of European history. “The religious ideal” written most probably by Lim
 under the pen name “Mayo” is equally secularist in spirit, arguing against the “narrow sectarianism of ‘religions’” and in favour of a moral code that
-would eble “each man” to live “at peace with his neighbour”..[^75]
+would enable “each man” to live “at peace with his neighbour”.[^75]
 
 In 1907, Lim called for a unification of nations by universal deployment of
 the Confucian principle of friendship. This, in his opinion, was the only
 ethical principle able to remove the impediment to achieving the goal of
 global unification of nations, which he identified as conflicts based on
-religious difference.76
+religious difference.would enable “each man” to live “at peace with his neighbour”.[^76]
 
 Apart from being the most prominent Confucian reformer in the Straits
 of Malacca, Lim was a well-known Singapore medical doctor, Chinese
