@@ -202,7 +202,7 @@ well-studied phenomenon.
 In the preface to his first volume of *The Chinese Classics*, Legge made a
 comment on his posting in “the East” (i.e. Malacca), where he arrived
 “equipped with… a few months’ instruction in Chinese from the late
-Professor Kidd at the University of London”.26 Legge was to assume his
+Professor Kidd at the University of London”.[^26] egge was to assume his
 duties as the principal of the Anglo-Chinese College in Malacca. This
 position meant that he had an unhindered access to the college library.
 Dissatisfied with the then-existing state of translations of classical Chinese
@@ -210,7 +210,7 @@ texts into European languages, Legge made an outline of his prospective
 study and translation of these texts before 1841, planning to publish his
 work in seven volumes. From the onset of his stay in Malacca and having
 the required books and dictionaries within his reach, Legge engaged in the
-study of a set of works he translated into English as “Confucian Analects”.27
+study of a set of works he translated into English as “Confucian Analects”.[^27]
 These translations were included in his first volume of *The Chinese Classics*,
 published in 1861 while he was in Hong Kong. There, Legge offered his
 definition of the “classical” Chinese texts:
@@ -224,25 +224,25 @@ definition of the “classical” Chinese texts:
    subjects of which they treat. “The five King” are the five canonical<br> 
    works, containing the truth upon the highest subjects from the sages<br> 
    of China, and which should be received as law by all generations.<br> 
-   The term Shoo simply means Writings or Books*.28
+   The term Shoo simply means Writings or Books*.[^28]
 
 By the early 1860s, Legge had already been engaged in the preaching to
 and teaching of the Chinese for 21 years. The substantial experience he
 gained convinced him that he would have remained unqualified for his
-missionary job unless he “had thoroughly mastered the Classical Books of the Chinese”.29 In those books, Legge believed, the sages of China
+missionary job unless he “had thoroughly mastered the Classical Books of the Chinese”.[^29] In those books, Legge believed, the sages of China
 established “the foundations of the moral, the social, and the political life
-of the people”.30 His translations of the *Classics* were intended foremost for
+of the people”.[^30] His translations of the *Classics* were intended foremost for
 the benefit of missionaries and students of Chinese language and literature,
-though Legge hoped that they could also be of use to the general public.31
+though Legge hoped that they could also be of use to the general public.[^31] 
 
 At the age of 11, Song Hoot Kiam became one of the boarders of the Anglo-
-Chinese College in Malacca when Reverend James Legge was its principal.32
+Chinese College in Malacca when Reverend James Legge was its principal.[^32] 
 More than half a century later, Song was still able to recall his years in
-Malacca under Legge’s supervision in great detail.33 Written in memory
+Malacca under Legge’s supervision in great detail.[^33] Written in memory
 of the recently deceased Legge, Song’s recollections of the Anglo-Chinese
 College in Malacca were intended for the “friends of the late Professor all
 over the globe who would be interested to hear anything relating to any, the
-shortest, part of his long and useful career”.34
+shortest, part of his long and useful career”.[^34] 
 
 According to Song, Legge managed to gather around 45 Chinese boys as
 boarders in the college. This was quite an accomplishment, as most Straits
@@ -251,7 +251,7 @@ children, while some viewed missionaries with suspicion. Song recalled that
 most inhabitants of Malacca were engaged in fishing or growing rice, with
 little commerce going on in the town. He remembered Legge as a strict but
 righteous principal and teacher when in college, and a friendly playmate
-during the few daily excursions he organised for his students.35
+during the few daily excursions he organised for his students.[^35] 
 
 From Malacca, Legge relocated to Hong Kong to take charge of the Anglo-
 Chinese College there. When he left Malacca, he took two Chinese girls and
@@ -259,24 +259,24 @@ a Chinese boy with him. In the meantime, Song’s father placed him and his
 elder brother in a private Chinese school in Singapore. Unwilling to give
 up on their English education, Song and a fellow student soon managed to
 “escape” from Singapore and take an adventurous trip to Hong Kong, where they continued their studies at the Anglo-Chinese College, with financial
-support provided by Legge himself.36
+support provided by Legge himself.[^36]
 
 In 1846, Legge, Song and two other Chinese students arrived in London
 after a six-month sea voyage. They were subsequently located in Scotland
-where they received further education as well as baptism in 1847.37 The
+where they received further education as well as baptism in 1847.[^37] The
 following year, the three Chinese students returned to Hong Kong and
 Singapore respectively. Song married and settled down soon after that, thus
-establishing “the oldest family of Straits Chinese Christians in Singapore”.38
-The two men kept in touch until Legge’s death.39
+establishing “the oldest family of Straits Chinese Christians in Singapore”.[^38] 
+The two men kept in touch until Legge’s death.[^39] 
 
 #### **Legge’s Missionary and Academic Careers**
 Legge continued working on the Chinese texts over the great number of
-years he spent as a missionary educator in Hong Kong.40 Even though his
+years he spent as a missionary educator in Hong Kong.[^40] Even though his
 work did not always progress at the desired pace, the third volume of his
-*Chinese Classics* appeared in 1865.41 Legge’s *The Chinese Classics* were well-received
+*Chinese Classics* appeared in 1865[^41]. Legge’s *The Chinese Classics* were well-received
 in the contemporaneous academic circles. He retired from his
 missionary duties in 1873 and returned to England, where he was widely
-recognised as “one of the first and best translators of Chinese classics”.42 In
+recognised as “one of the first and best translators of Chinese classics”.[^42] In
 1876, he became a professor of Chinese language and literature at Oxford,
 where he taught and worked on translations until his death in 1897.
 
@@ -284,29 +284,29 @@ In 1875, Max Müller contacted Legge expressing his admiration for the latter�
 translation of *The Chinese Classics*. In this period, Max Müller identified
 and approached potential academic collaborators for an ambitious project
 entitled *The Sacred Books of the East*, published in 50 volumes between 1879
-and 1910.43 Max Müller’s desire had been to study religions in a scholarly, “scientific” manner.44 To achieve this, he relied on the method of mutual
+and 1910.[^43] Max Müller’s desire had been to study religions in a scholarly, “scientific” manner.[^44] To achieve this, he relied on the method of mutual
 comparison of doctrinal texts or canons of various religious traditions in Asia.
 
 In his preface to *The Sacred Books of the East*, Max Müller identified
 eight “great and original religions which profess to be founded on Sacred
-Books”.45
+Books”.[^45]
 
    *Apart from the interest which the Sacred Books of all religions<br>
    possess in the eyes of the theologian, and, more particularly, of<br>
    the missionary, to whom an accurate knowledge of them is as<br>
    indispensable as a knowledge of the enemy’s country is to a general,<br>
    these works have of late assumed a new importance, as viewed in<br>
-   the character of ancient historical documents*.46
+   the character of ancient historical documents*.[^46]
 
 Max Müller’s list of “world religions”, as they are called at present, included
 what are known today as Christianity, Judaism, Islam, Zoroastrianism,
-Hinduism, Buddhism, Confucianism and Taoism. 47 *The Sacred Books of the
+Hinduism, Buddhism, Confucianism and Taoism.[^47] *The Sacred Books of the
 East* were intended to provide translations of the books of all the mentioned
-religions, with the exception of the first two.48
+religions, with the exception of the first two.[^48]
 
 Legge’s contribution to *The Sacred Books of the East* project consisted of his
 translations of the “Sacred Books of China”, which comprised four volumes
-on Confucianism and two volumes on Taoism.49 Although the Englishlanguage
+on Confucianism and two volumes on Taoism.[^49] Although the English-language
 term “Confucianism” was not used in scholarly circles or outside
 of them during this period, Legge was the one who defined and promoted
 its academic usage. According to Sun’s research, the term “Confucianism”
@@ -320,7 +320,7 @@ comparability between the two – Christianity was understood as the only
 true religion and was thus beyond comparison. Legge used his collaboration
 with Max Müller to further his views of Confucianism as a “world religion”
 and support his translations of it to related theological concepts in terms
-hitherto reserved for Protestant Christianity.50
+hitherto reserved for Protestant Christianity.[^50]
 
 In his preface to *The Sacred Books of the East*, Legge noted that there
 were three religions in China – Confucianism, Taoism and Buddhism –
