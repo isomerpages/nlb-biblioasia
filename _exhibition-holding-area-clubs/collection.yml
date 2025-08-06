@@ -2,4 +2,5 @@ collections:
   exhibition-holding-area-clubs:
     output: true
     order:
+      - 随笔南洋读书会.md
       - 新智文教读书会.md
