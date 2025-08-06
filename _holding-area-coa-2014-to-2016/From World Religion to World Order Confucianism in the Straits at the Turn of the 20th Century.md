@@ -415,9 +415,9 @@ doubts about Confucius’ truthfulness.[^67]
 There is little doubt, in turn, that the “student of Confucianism” was
 Lim Boon Keng (1869–1957), who at the turn of the 20th century often
 wrote articles published in the press, including the SCM, using one
-of his many pseudonyms.68 The nature of the comments and critiques
+of his many pseudonyms.[^68] The nature of the comments and critiques
 in the mentioned newspaper article, published on 1 June 1905, are
-equally revealing of its author.69 Here, Lim was inclined to differentiate
+equally revealing of its author.[^69] Here, Lim was inclined to differentiate
 between “Professor Legge’s” mature, more balanced ethical assessment
 of Confucius and “Missionary Legge’s” disparaging of Confucius as the
 founder of “Naturalistic Ethics”. Murray’s essay on Confucius, however,
@@ -434,7 +434,7 @@ knowledge of Max Müller’s comparative study of religion.
 As Sun’s study shows, Legge’s attempt to translate “Shang Ti” as “God”
 suggests an analytical, if not theological, equality between Confucianism
 and Christianity. Hence, it was strongly rejected in British missionary
-circles, particularly after the 1877 missionary conference in Shanghai.70
+circles, particularly after the 1877 missionary conference in Shanghai.[^70]
 
 The legitimacy of Legge’s claim that Confucianism was a religion, and
 thus comparable to Christianity, was acquired through his collaboration
@@ -442,7 +442,7 @@ with Max Müller in the latter’s newly established “science of religion”
 discipline. It was within the realm of authority of this new scholarly
 discipline, placed at a distance from missionary and Sinologist circles,
 that it became possible to compare religions of the world, including
-Confucianism, with Christianity.71
+Confucianism, with Christianity..[^71]
 
 As we saw earlier, Legge’s scholarly opinion was that Christianity was
 superior to Confucianism. Thus, Straits missionaries at the turn of the 20th
@@ -454,13 +454,13 @@ advantage of the latter.
 
 In the British imperial context, reformed Christianity was seen as the
 only religion that would unite humanity of different religions under the
-Christian God.72 Lim adapted this liberal-theological view of Christianity
+Christian God..[^72] Lim adapted this liberal-theological view of Christianity
 as the pinnacle of progress and morality of humankind to argue for a
 global-scale unification of nations under reformed Confucianism. For him,
 the study of science, rather than Christianity, was the basis of European
-progress.73 He elaborated this view in the 1905 newspaper article contesting
+progress..[^73] He elaborated this view in the 1905 newspaper article contesting
 Murray’s views on Confucianism, where he argued against global Christian
-progressive teleology.74
+progressive teleology..[^74]
 
 Again, Lim noted that it was “science, rationalistic philosophy, and
 education” rather than Christianity, that enabled European progress and
@@ -469,7 +469,7 @@ power”, as he called it, stopped the otherwise incessant wars between
 Catholic, Orthodox and Protestant Christians that marked a long period
 of European history. “The religious ideal” written most probably by Lim
 under the pen name “Mayo” is equally secularist in spirit, arguing against the “narrow sectarianism of ‘religions’” and in favour of a moral code that
-would enable “each man” to live “at peace with his neighbour”.75
+would eble “each man” to live “at peace with his neighbour”..[^75]
 
 In 1907, Lim called for a unification of nations by universal deployment of
 the Confucian principle of friendship. This, in his opinion, was the only
