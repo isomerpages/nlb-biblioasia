@@ -325,7 +325,7 @@ hitherto reserved for Protestant Christianity.[^50]
 In his preface to *The Sacred Books of the East*, Legge noted that there
 were three religions in China – Confucianism, Taoism and Buddhism –
 and viewed the former as “the religion of China par excellence”. Unlike
-Buddhism, both Confucianism and Taoism were native to China.51 This
+Buddhism, both Confucianism and Taoism were native to China.[^51] This
 classification of certain spiritual, ritualistic and philosophical traditions
 into the three religions of China has had a lasting scholarly and popular
 influence on current perceptions of what counts as religion in the Chinese
@@ -341,52 +341,52 @@ with Christianity*. In these lectures, Legge defined Confucianism as “the
 ancient religion of China”, which comprised views of Confucius, “the great
 philosopher himself”, written directly by the sage or narrated in the writings
 by his disciples. He thought it erroneous not to regard Confucius as a religious
-teacher.52 At that time, the missionaries working in China rejected Legge’s
+teacher.[^52] At that time, the missionaries working in China rejected Legge’s
 attempt to view both Christianity and Confucianism as religions that could
 be compared. To the majority of Protestant missionaries working to convert
 the people of China, the proposal of comparison itself was unacceptable and
-“too liberal”.53
+“too liberal”.[^53]
 
 Although he regarded Confucianism as a religion and compared it with
 Christianity, Legge thought this religion was inferior to Christianity due
 to the latter’s individually accessible worship of God. Confucianism, Legge
 explained, still allowed for the worship of spirits, unlike the only proper
-religion – i.e. Protestant – Christianity.54 Legge thought that this aspect
+religion – i.e. Protestant – Christianity.[^54] Legge thought that this aspect
 of Confucianism developed over time due to the monopolisation of the
 worship of God by the Emperor, which prevented ordinary people from
-worshipping God.55 Legge had personally experienced this insight during
-his visit to the Temple of Heaven in Peking56 where he stood barefoot and,
-together with his Christian friends, sang a doxology in praise of God.57
+worshipping God.[^55] Legge had personally experienced this insight during
+his visit to the Temple of Heaven in Peking[^56] where he stood barefoot and,
+together with his Christian friends, sang a doxology in praise of God.[^57]
 
    *I rejoice in the imperial worship of God, but I can never<br>
    sufficiently regret that this shaped itself even in prehistoric time into<br>
    a representative worship by the head of the state, instead of being<br>
    extended throughout the nation, and joined in by the multitudes of<br>
-the people*.58
+the people*.[^58]
 
 Legge thought that the lack of individual access to one’s worship of God
 helped the spread of sin among the Chinese people, thus preventing
-their growth and development.59 He saw Confucianism as an ethical
+their growth and development.[^59] He saw Confucianism as an ethical
 regime exclusively focused on the regulation of social relations. Its goal
 was to prescribe conditions to sociability through defining five types of
 relational duties perceived to uphold all social structures. These entailed the
 relationship between sovereign and subject, father and son, husband and
-wife, brothers and friends.60 According to Legge, lacking in this scheme
+wife, brothers and friends.[^60] According to Legge, lacking in this scheme
 was the relationship to God as the central defining element of humanity,
-conceptualised through “[o]ur Christian catechism”.61 This particular aspect of Legge’s theological assessment of Confucianism apparently had a lasting
+conceptualised through “[o]ur Christian catechism”.[^61] This particular aspect of Legge’s theological assessment of Confucianism apparently had a lasting
 effect on Singaporean missionary circles.
 
 In fact, Legge’s missionary work in and on China was celebrated in the
-Singapore press long after his death.62 Another obituary commemorating
+Singapore press long after his death.[^62] Another obituary commemorating
 Legge’s missionary achievements, besides Song Hoot Kiam’s, was also
-published in the SCM.63 It was written by Legge’s fellow missionary J.A.B.
+published in the SCM.[^63] It was written by Legge’s fellow missionary J.A.B.
 Cook, who had the opportunity to personally attend Legge’s Presbyterian
 College lecture series in 1880. Cook assured readers that Legge was a
 zealous missionary and that all his scholarly work was “to bring the stores
-of his learning to the service of Christ”.64 He went on to support Legge’s
+of his learning to the service of Christ”.[^64] He went on to support Legge’s
 understanding of Confucianism as a religion inferior to Christianity, in that
 it focused on ethical regulation of social relations and failed to prioritise – or
-even introduce – a relationship between God and believer.65
+even introduce – a relationship between God and believer.[^65] 
 
 Reverend W. Murray relied on Legge’s writings in his outline of reasons as to
 why he regarded Confucius as a failed religious teacher in comparison with
@@ -395,7 +395,7 @@ Compared in Their Teaching of the Whole Duty of Man”, which was
 included in a missionary-sponsored publication called *The Religious Tract
 Society* from London, and issued throughout the 1880s and later. There,
 Murray quoted Legge’s opinion of Confucius’ “untruthfulness” as the mark of
-a standard of morality lower than the impeccable morality of Christ’s.66
+a standard of morality lower than the impeccable morality of Christ’s.[^66]
 
 A note to the article states that it was originally delivered in the format of
 a lecture given at the Young Men’s Christian Association of Singapore on
@@ -409,7 +409,7 @@ latter insisted that Legge abandoned his early conviction in Confucius’
 untruthfulness as the cause of the low state of morality in China. It was then
 that Murray turned to “Christianity and Confucianism Compared in Their
 Teaching of the Whole Duty of Man” in which Legge had expressed his
-doubts about Confucius’ truthfulness.67
+doubts about Confucius’ truthfulness.[^67]
 
 #### **Lim Boon Keng: Confucianism, Christianity and World Religion**
 There is little doubt, in turn, that the “student of Confucianism” was
