@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - “Majulah Singapura” and Other Love Songs.md
       - Sample article.md
       - Singapore Youth Orchestra Brings Singapore Composers into the
         Limelight.md
