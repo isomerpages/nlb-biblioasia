@@ -13,7 +13,7 @@ By Bernard T.G. Tan
 
 Singaporeans are undoubtedly familiar with our national anthem “Majulah Singapura” (Onward Singapore). But not many are aware of the circumstances under which it was composed, and of the events which shaped it into the national anthem we know today.
 
-&nbsp;“Majulah Singapura” was not originally composed with the aim of being a national anthem. It was first performed at a concert on 6 September 1958 to celebrate the opening of the newly renovated Victoria Theatre. In 1959, after Singapore had achieved internal self-government, it was chosen to be the official state anthem, though it was a shortened version of the original. It was adopted by the Legislative Assembly as the official state anthem and launched during National Loyalty Week when Yusof Ishak was sworn in as the first Malayan-born Yang di-Pertuan Negara (Head of State). “Majulah Singapura” then became the national anthem when Singapore gained independence on 9 August 1965.&nbsp;
+“Majulah Singapura” was not originally composed with the aim of being a national anthem. It was first performed at a concert on 6 September 1958 to celebrate the opening of the newly renovated Victoria Theatre. In 1959, after Singapore had achieved internal self-government, it was chosen to be the official state anthem, though it was a shortened version of the original. It was adopted by the Legislative Assembly as the official state anthem and launched during National Loyalty Week when Yusof Ishak was sworn in as the first Malayan-born Yang di-Pertuan Negara (Head of State). “Majulah Singapura” then became the national anthem when Singapore gained independence on 9 August 1965.&nbsp;
 
 #### **Love Songs of Other Countries**
 
@@ -79,9 +79,6 @@ On 3 June 1959, Singapore attained self-government and Deputy Prime Minister Toh
 
 But before Zubir could finish shortening it, it appears that someone else (whose identity remains unknown) had already done so. Zubir complained in a letter to Foreign Minister S. Rajaratnam on 14 October 1959 that he had seen a copy of this shortened version in a souvenir card sent to schools (which I do recall seeing myself), and that the way it was shortened was “wrong and spoils the composition”.[^22] As the Singapore State Arms and Flag and National Anthem Bill to adopt the unauthorised version was due to be passed by the Legislative Assembly on the very day Zubir wrote to Rajaratnam, the bill was withdrawn, possibly as a result of Zubir’s intervention.[^23]
 
-![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_souvenir.jpg)
-<div style="background-color:white;">The souvenir card issued by the Ministry of Culture to commemorate National Loyalty Week (29 November to 5 December 1959). The cover features the new state flag with the new coat-of-arms on the back. On the inside is the official shortened version of “Majulah Singapura” by Zubir Said.  <i>Courtesy of Bernard T.G. Tan.  </i></div>
-
 ![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_letter.jpg)
 <div style="background-color:white;">Letter from Zubir Said to Culture Minister S. Rajaratnam, dated 14 October 1959, complaining that “Majulah Singapura” was shortened without his knowledge.  <i>Image reproduced from Rohana Zubir, Zubir Said – the Composer of Majulah Singapura (Singapore: Institute of Southeast Asian Studies, 2012), 5. (From National Library Singapore, call no. RSING 780.92 ROH). </i></div>
 
@@ -91,6 +88,9 @@ The original version of “Majulah Singapura” consisted of a 16-bar verse and 
 <div style="background-color:white;">Zubir Said’s original version of “Majulah Singapura” consisted of a 16-bar verse and an 8-bar chorus which was repeated to make it 16 bars. In the unauthorised shortened version, eight bars were removed from the middle of bar 4 to the middle of bar 12 (marked off in red). The official shortened version by Zubir Said had bars 7 to 14 removed from the verse (marked off in green).  <i>Courtesy of Bernard T.G. Tan.  </i></div>
 
 Zubir’s shortened version was adopted by the Legislative Assembly as the official state anthem on 11 November 1959, along with a new state flag and coat-of-arms. The Ministry of Culture issued a new souvenir card bearing the official state anthem as shortened by Zubir, the new state flag as well as the new state arms. Most Singaporeans today are unaware that the national anthem is a shortened version of the original song.[^24]
+
+![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_souvenir.jpg)
+<div style="background-color:white;">The souvenir card issued by the Ministry of Culture to commemorate National Loyalty Week (29 November to 5 December 1959). The cover features the new state flag with the new coat-of-arms on the back. On the inside is the official shortened version of “Majulah Singapura” by Zubir Said.  <i>Courtesy of Bernard T.G. Tan.  </i></div>
 
 #### **“Majulah Singapura” as the State and National Anthems**
 
@@ -265,7 +265,7 @@ _My heartfelt thanks are due to Eric Chin and Wendy Ang, both former directors o
 [^34]: “[Moment of Calm Before the Debut](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790126-1.2.123),” _Straits Times_, 26 January 1979, 15. (From NewspaperSG)
 
 
-[^35]: Leslie Fong, “[Singapore Symphony Starts on Right Note]()https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790125-1.2.48,” _Straits Times_, 25 January 1979, 11. (From NewspaperSG)
+[^35]: Leslie Fong, “[Singapore Symphony Starts on Right Note](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790125-1.2.48),” _Straits Times_, 25 January 1979, 11. (From NewspaperSG)
 
 
 [^36]: Orchestra of the Music Makers, “Zubir Said – The Singapore City Council Song and National Anthem ‘Majulah Singapura’,” YouTube, accessed 23 July 2025,&nbsp; [https://youtu.be/r6kaVWiuJ2U](https://youtu.be/r6kaVWiuJ2U).&nbsp;
