@@ -1088,85 +1088,85 @@ Yen, Ching-Hwang. “The Confucian Revival Movement in Singapore and Malaysia, 1
 
 [^60]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 104–5.
 
-61 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 105–6.
+[^61]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 105–6.
 
-62 “[The Dead Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070522-1.2.24),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 22 May 1907, 4; “[Missionary Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191125-1.2.50),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1919, 12. (From NewspaperSG)
+[^62]: “[The Dead Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070522-1.2.24),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 22 May 1907, 4; “[Missionary Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191125-1.2.50),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1919, 12. (From NewspaperSG)
 
-63 J. A. B. Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” _Straits Chinese Magazine_ 2, no. 5 (March 1898): 7–9. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^62]: J. A. B. Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” _Straits Chinese Magazine_ 2, no. 5 (March 1898): 7–9. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-64 Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 7.
+[^64]: Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 7.
 
-65 Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 8.
+[^65]: Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 8.
 
-66 W. Murray, “Where Confucius Fails,” _Straits Chinese Magazine_ 9, no. 2 (June 1905): 59. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^66]: W. Murray, “Where Confucius Fails,” _Straits Chinese Magazine_ 9, no. 2 (June 1905): 59. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-67 Murray, Where Confucius Fails,” 66.
+[^67]: Murray, Where Confucius Fails,” 66.
 
-68 Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957: A Select Annotated Bibliography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021) (Singapore: National Library Board, 2007), 14. (From National Library Singapore, call no. RSING 016.36192 LIM-\[LIB\])
+[^68]: Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957: A Select Annotated Bibliography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021) (Singapore: National Library Board, 2007), 14. (From National Library Singapore, call no. RSING 016.36192 LIM-\[LIB\])
 
-69 “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 1 June 1905, 344. (From NewspaperSG)
+[^69]: “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 1 June 1905, 344. (From NewspaperSG)
 
-70 Sun, _Confucianism as a World Religion_, 38–42, 47–48, 57–60.
+[^70]: Sun, _Confucianism as a World Religion_, 38–42, 47–48, 57–60.
 
-71 Sun, _Confucianism as a World Religion_, 60.
+[^71]: Sun, _Confucianism as a World Religion_, 60.
 
-72 Van Der Veer, _The Modern Spirit of Asia_, 81–82.
+[^72]: Van Der Veer, _The Modern Spirit of Asia_, 81–82.
 
-73 Lim Boon Keng, “Ethical Education for the Straits Chinese,” _Straits Chinese Magazine_ 8, no. 1 (March 1904): 26. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^73]: Lim Boon Keng, “Ethical Education for the Straits Chinese,” _Straits Chinese Magazine_ 8, no. 1 (March 1904): 26. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-74 “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60).”
+[^74]: “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60).”
 
-75 Mayo, “The Religious Ideal,” _Straits Chinese Magazine_ 9, no. 3 (September 1905): 123–25. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^75]: Mayo, “The Religious Ideal,” _Straits Chinese Magazine_ 9, no. 3 (September 1905): 123–25. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-76 Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 1907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
+[^76]: Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 1907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
 
-77 For an overview of Lim Boon Keng’s life and career, see Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/)”; Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021).
+[^77]: For an overview of Lim Boon Keng’s life and career, see Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/)”; Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021).
 
-78 Lim Boon Keng, “Straits Chinese Reform. I: The Queue Question,” _Straits Chinese Magazine_ 3, no, 2 (March 1899): 23. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^78]: Lim Boon Keng, “Straits Chinese Reform. I: The Queue Question,” _Straits Chinese Magazine_ 3, no, 2 (March 1899): 23. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-79 Historicus, “Her Late Majesty the Queen Empress,” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 1. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^79]: Historicus, “Her Late Majesty the Queen Empress,” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 1. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-80 Editorial, “The Race Question in Colonial Administration,” _Straits Chinese Magazine_ 9, no. 1 (March 1905): 1–6. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^80]: Editorial, “The Race Question in Colonial Administration,” _Straits Chinese Magazine_ 9, no. 1 (March 1905): 1–6. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-81 Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/).”
+[^81]: Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/).”
 
-82 Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” 54–56.
+[^82]: Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” 54–56.
 
-83 “[Chinese Christian Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18930808-1.2.62),” _Straits Times Weekly Issue_, 8 August 1893, 8. (From NewspaperSG)
+[^83]: “[Chinese Christian Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18930808-1.2.62),” _Straits Times Weekly Issue_, 8 August 1893, 8. (From NewspaperSG)
 
-84 “The Philomantic Society, Singapore,” _Straits Chinese Magazine_ 1, no.1 (March 1897): 32. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^84]: “The Philomantic Society, Singapore,” _Straits Chinese Magazine_ 1, no.1 (March 1897): 32. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-85 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 23.
+[^85]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 23.
 
-86 Khor Eng Hee, [_The Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432) (Singapore: University of Malaya, 1958), 4, no. 22. (From National Library Singapore, call no. RDTYS 361.924 LIM.K)
+[^86]: Khor Eng Hee, [_The Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432) (Singapore: University of Malaya, 1958), 4, no. 22. (From National Library Singapore, call no. RDTYS 361.924 LIM.K)
 
-87 Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 21.
+[^87]: Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 21.
 
-88 Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 23n10.
+[^88]: Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 23n10.
 
-89 Amicus, “[Correspondence: The Advancement of the Straits Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18990713-1.2.45),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 13 July 1899, 6. (From NewspaperSG)
+[^89]: Amicus, “[Correspondence: The Advancement of the Straits Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18990713-1.2.45),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 13 July 1899, 6. (From NewspaperSG)
 
-90 Historicus, “[The Moral Advancement of the Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990713-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 13 July 1899, 3. (From NewspaperSG)
+[^90]: Historicus, “[The Moral Advancement of the Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990713-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 13 July 1899, 3. (From NewspaperSG)
 
-91 Amicus, “[The Attempt to Rejuvenate Confucianism](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990715-1.2.18.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 15 July 1899, 3. (From NewspaperSG)
+[^91]: Amicus, “[The Attempt to Rejuvenate Confucianism](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990715-1.2.18.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 15 July 1899, 3. (From NewspaperSG)
 
-92 Historicus, “[A Confucian Revival](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990718-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 18 July 1899, 3. (From NewspaperSG)
+[^92]: Historicus, “[A Confucian Revival](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990718-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 18 July 1899, 3. (From NewspaperSG)
 
-93 W. Murray, “Moral Culture,” _Straits Chinese Magazine_ 1, no. 4 (December 1897): 127–29. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^93]: W. Murray, “Moral Culture,” _Straits Chinese Magazine_ 1, no. 4 (December 1897): 127–29. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-94 J. A. B. Cook, “The Christian Morality,” _Straits Chinese Magazine_ 6, no. 21 (March 1902): 8–11. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^94]: J. A. B. Cook, “The Christian Morality,” _Straits Chinese Magazine_ 6, no. 21 (March 1902): 8–11. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-95 Cook, “The Christian Morality,” 9.
+[^95]: Cook, “The Christian Morality,” 9.
 
-96 For instance, see C. Phillips, “What Is Confucianism,” _Straits Chinese Magazine_ 4, no. 15 (September 1900): 118–20 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Cook, “The Christian Morality,” 8–11; W. Murray, “Confucianism and Christianity,” _Straits Chinese Magazine_ 8, no. 3 (September 1904): 128–30. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^96]: For instance, see C. Phillips, “What Is Confucianism,” _Straits Chinese Magazine_ 4, no. 15 (September 1900): 118–20 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Cook, “The Christian Morality,” 8–11; W. Murray, “Confucianism and Christianity,” _Straits Chinese Magazine_ 8, no. 3 (September 1904): 128–30. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-97 For instance, a 1901 debate between Historicus and Evangelicus (both Lim’s pseudonyms) was framed in relation to Biblical teachings and Christian practice through history. Historicus, “Reflections and Biblical Teachings and Christian Practice,” _Straits Chinese Magazine_ 5, no. 19 (September 1901): 104–8; Evangelicus, “Biblical Teaching and Christian Practice,” _Straits Chinese Magazine_ 20, no. 5 (December 1901): 141–7. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^97]: For instance, a 1901 debate between Historicus and Evangelicus (both Lim’s pseudonyms) was framed in relation to Biblical teachings and Christian practice through history. Historicus, “Reflections and Biblical Teachings and Christian Practice,” _Straits Chinese Magazine_ 5, no. 19 (September 1901): 104–8; Evangelicus, “Biblical Teaching and Christian Practice,” _Straits Chinese Magazine_ 20, no. 5 (December 1901): 141–7. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-98 Lim Boon Keng, “The Confucian Ideal,” _Straits Chinese Magazine_ 3, no. 9 (September 1905): 115–19 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was delivered as a lecture on the occasion of Confucius’ birthday celebrated at the gathering held on 25 September 1905 at “the Confucius School” in Amoy Street. “[Confucius Day: Interesting Lecture by Dr. Lim Boon Keng](https://eresources.nlb.gov.sg/newspapers/digitised/article/easterndaily19050926-1.2.10),” _Eastern Daily Mail and Straits Morning Advertiser_, 26 September 1905, 2. (From NewpaperSG)
+[^98]: Lim Boon Keng, “The Confucian Ideal,” _Straits Chinese Magazine_ 3, no. 9 (September 1905): 115–19 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was delivered as a lecture on the occasion of Confucius’ birthday celebrated at the gathering held on 25 September 1905 at “the Confucius School” in Amoy Street. “[Confucius Day: Interesting Lecture by Dr. Lim Boon Keng](https://eresources.nlb.gov.sg/newspapers/digitised/article/easterndaily19050926-1.2.10),” _Eastern Daily Mail and Straits Morning Advertiser_, 26 September 1905, 2. (From NewpaperSG)
 
-99 Lim Boon Keng, “Our Enemies,” _Straits Chinese Magazine_ 1, no. 2 (June 1887): 57–58 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was originally delivered as the “presidential address” to the Chinese Philomantic Society in March 1897.
+[^99]: Lim Boon Keng, “Our Enemies,” _Straits Chinese Magazine_ 1, no. 2 (June 1887): 57–58 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was originally delivered as the “presidential address” to the Chinese Philomantic Society in March 1897.
 
-100 Lim Boon Keng, “The Renovation of China 1: Internal Struggles,” _Straits Chinese Magazine_ 3, no. 7 (September 1898): 88–93. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). The article was originally written in 1895.
+[^100]: Lim Boon Keng, “The Renovation of China 1: Internal Struggles,” _Straits Chinese Magazine_ 3, no. 7 (September 1898): 88–93. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). The article was originally written in 1895.
 
 101 Lim, “The Renovation of China 1,” 89–90.
 
