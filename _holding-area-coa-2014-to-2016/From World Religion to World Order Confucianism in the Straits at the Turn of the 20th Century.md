@@ -1008,85 +1008,85 @@ Yen, Ching-Hwang. “The Confucian Revival Movement in Singapore and Malaysia, 1
 
 [^20]: Sun’s study of Confucianism as a world religion does not comment on the contribution of the Straits Chinese Confucian reformists, such as Lim Boon Keng, to the history of this religion. Recently, a book with Chinese translations of Lim Boon Keng’s texts on Confucianism was published in an attempt to include the study of Lim’s contribution to “the Chinese history of philosophy and the history of Confucianism”. See Lim Boon Keng, [_Essays of Lim Boon Keng on Confucianism: With Chinese Translations_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201007236), trans. Yan Chunbao (Singapore: World Scientific, 2014), 22. (From National Library Singapore, call no. RSING 181.112 LIM)
 
-21 Masuzawa, _Invention of World Religions_, 209–10.
+[^21]: Masuzawa, _Invention of World Religions_, 209–10.
 
-22 Masuzawa, _Invention of World Religions_, 206–44.
+[^22]: Masuzawa, _Invention of World Religions_, 206–44.
 
-23 Masuzawa, _Invention of World Religions_, 241–42.
+[^23]: Masuzawa, _Invention of World Religions_, 241–42.
 
-24 Masuzawa, _Invention of World Religions_, 138.
+[^24]: Masuzawa, _Invention of World Religions_, 138.
 
-25 Masuzawa, _Invention of World Religions_, 214n12.
+[^25]: Masuzawa, _Invention of World Religions_, 214n12.
 
-26 James Legge, _The Chinese Classics_, vol. 1 (London: Trübner, 1861), vii. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\]; microfilm NL28982, NL28983). As a missionary and educator, Samuel Kidd (1804–1831) had been stationed at Malacca long before Legge arrived there. See, for instance, Kidd’s report on the difficult circumstances surrounding his teaching and preaching efforts in Malacca for the year 1829. Samuel Kidd, [_Report of_ _the Chinese Mission at Malacca_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969943) (Malacca: The Mission Press, 1830). (From National Library Singapore, call no. RCLOS 266.009595 KID)
+[^26]: James Legge, _The Chinese Classics_, vol. 1 (London: Trübner, 1861), vii. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\]; microfilm NL28982, NL28983). As a missionary and educator, Samuel Kidd (1804–1831) had been stationed at Malacca long before Legge arrived there. See, for instance, Kidd’s report on the difficult circumstances surrounding his teaching and preaching efforts in Malacca for the year 1829. Samuel Kidd, [_Report of_ _the Chinese Mission at Malacca_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969943) (Malacca: The Mission Press, 1830). (From National Library Singapore, call no. RCLOS 266.009595 KID)
 
-27 Legge, _Chinese Classics_, vol. 1, vii–ix.
+[^27]: Legge, _Chinese Classics_, vol. 1, vii–ix.
 
-28 Legge, _Chinese Classics_, vol. 1, 1.
+[^28]: Legge, _Chinese Classics_, vol. 1, 1.
 
-29 Legge, _Chinese Classics_, vol. 1, viii–x.
+[^29]: Legge, _Chinese Classics_, vol. 1, viii–x.
 
-30 Legge, _Chinese Classics_, vol. 1, vii.
+[^30]: Legge, _Chinese Classics_, vol. 1, vii.
 
-31 Legge, Chinese Classics, vol. 1, viii–ix.
+[^31]: Legge, Chinese Classics, vol. 1, viii–ix.
 
-32 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76.
+[^32]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76.
 
-33 Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
+[^33]: Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
 
-34 Song, “Reminiscences of Dr. Legg in Malacca,” 10.
+[^34]: Song, “Reminiscences of Dr. Legg in Malacca,” 10.
 
-35 Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
+[^35]: Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
 
-36 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76; Song, “With Dr. Legge in England,” 105–6.
+[^36]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76; Song, “With Dr. Legge in England,” 105–6.
 
-37 Song, “With Dr. Legge in England,” 105–8.
+[^37]: Song, “With Dr. Legge in England,” 105–8.
 
-38 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 77–78.
+[^38]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 77–78.
 
-39 Song, “With Dr. Legge in England,” 108.
+[^39]: Song, “With Dr. Legge in England,” 108.
 
-40 A newspaper article published in 1874 in a Singaporean newspaper mentions Legge’s “matchless” scholarship and missionary work. A Military Exile, “[English Life in Hong Kong](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18741207-1.2.8),” _Straits Observer_, 7 December 1874, 3. (From NewspaperSG)
+[^40]: A newspaper article published in 1874 in a Singaporean newspaper mentions Legge’s “matchless” scholarship and missionary work. A Military Exile, “[English Life in Hong Kong](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18741207-1.2.8),” _Straits Observer_, 7 December 1874, 3. (From NewspaperSG)
 
-41 James Legge, _The Chinese Classics_, vol. 3, part 1 (London: Trübner, 1961), vi. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\])
+[^41]: James Legge, _The Chinese Classics_, vol. 3, part 1 (London: Trübner, 1961), vi. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\])
 
-42 Sun, _Confucianism as a World Religion_, 40.
+[^42]: Sun, _Confucianism as a World Religion_, 40.
 
-43 Van Der Veer, _The Modern Spirit of Asia_, 78–79; Sun, _Confucianism as a World Religion_, 57–58; 60–62.
+[^43]: Van Der Veer, _The Modern Spirit of Asia_, 78–79; Sun, _Confucianism as a World Religion_, 57–58; 60–62.
 
-44 Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 47, 51.
+[^44]: Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 47, 51.
 
-45 James Legge, “Preface,” in _The Sacred Books of the East,_ vol. 1, ed. Friedrich Max Müller (London: Clarendon Press, 1879), xli. (From National Library Singapore, call no. RRARE 294 SAC)
+[^45]: James Legge, “Preface,” in _The Sacred Books of the East,_ vol. 1, ed. Friedrich Max Müller (London: Clarendon Press, 1879), xli. (From National Library Singapore, call no. RRARE 294 SAC)
 
-46 Legge, ‘Preface,” xl.
+[^46]: Legge, ‘Preface,” xl.
 
-47 Although in retrospect Max Müller is acknowledged as contributor to the development of the concept of “world religions”, Masuzawa shows that he never mentioned or used that term. Masuzawa, _Invention of World Religions_, 303–4.
+[^47]: Although in retrospect Max Müller is acknowledged as contributor to the development of the concept of “world religions”, Masuzawa shows that he never mentioned or used that term. Masuzawa, _Invention of World Religions_, 303–4.
 
-48 Legge, ‘Preface,” xli.
+[^48]: Legge, ‘Preface,” xli.
 
-49 Sun, _Confucianism as a World Religion_, 64; James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 3, ed. Friedrich Max Müller (London: Clarendon Press, 1879) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26410); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 16, ed. Friedrich Max Müller (London: Clarendon Press, 1882) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26416); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 27, ed. Friedrich Max Müller (London: Clarendon Press, 1885) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 28, ed. Friedrich Max Müller (London: Clarendon Press, 1886) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421)
+[^49]: Sun, _Confucianism as a World Religion_, 64; James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 3, ed. Friedrich Max Müller (London: Clarendon Press, 1879) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26410); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 16, ed. Friedrich Max Müller (London: Clarendon Press, 1882) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26416); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 27, ed. Friedrich Max Müller (London: Clarendon Press, 1885) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 28, ed. Friedrich Max Müller (London: Clarendon Press, 1886) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421)
 
-50 Sun, _Confucianism as a World Religion_, 38–39; 45–47.
+[^50]: Sun, _Confucianism as a World Religion_, 38–39; 45–47.
 
-51 Legge, “Confucianism,” vol. 3, xii–xiv, xxi.
+[^51]: Legge, “Confucianism,” vol. 3, xii–xiv, xxi.
 
-52 James Legge, [_The Religions of China: Confucianism and Tâoism Described and Compared With Christianity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706) (London: Hodder and Stoughton, 1880), 3–6. (From National Library Singapore, call no. RCLOS 299.51 LEG)
+[^52]: James Legge, [_The Religions of China: Confucianism and Tâoism Described and Compared With Christianity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706) (London: Hodder and Stoughton, 1880), 3–6. (From National Library Singapore, call no. RCLOS 299.51 LEG)
 
-53 Sun, _Confucianism as a World Religion_, 39, 41, 45.
+[^53]: Sun, _Confucianism as a World Religion_, 39, 41, 45.
 
-54 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 254–55.
+[^54]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 254–55.
 
-55 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 248–51.
+[^55]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 248–51.
 
-56 Legge’s visit to the temple was described in an 1899 newspaper article, written by an anonymous correspondent, according to whom “the late Dr. Legge, when in China, used to be regarded as more Confucian than the Confucianite”. “[The Confucian Cult](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18991125-1.2.9),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1899, 2. (From NewspaperSG)
+[^56]: Legge’s visit to the temple was described in an 1899 newspaper article, written by an anonymous correspondent, according to whom “the late Dr. Legge, when in China, used to be regarded as more Confucian than the Confucianite”. “[The Confucian Cult](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18991125-1.2.9),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1899, 2. (From NewspaperSG)
 
-57 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 91–92, 251.
+[^57]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 91–92, 251.
 
-58 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 251.
+[^58]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 251.
 
-59 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 296.
+[^59]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 296.
 
-60 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 104–5.
+[^60]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 104–5.
 
 61 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 105–6.
 
