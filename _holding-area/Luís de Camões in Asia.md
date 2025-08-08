@@ -91,39 +91,36 @@ Luís de Camões, the greatest Portuguese poet, died on 10 June 1580 (today cele
 
 #### **Notes**
 
-[^1]: 
+[^1]: Letter from Luís de Camões sent from Goa to a friend in Lisbon in 1554. The excerpts from Camões’ works cited in this article were translated by Isabel Rio Novo, from the edition by Maria Vitalina Leal de Matos of the _Complete Works of Luís Vaz de Camões_ (Lisbon: E-Primatur, 2019). Volume I – Epics &amp; Letters; Volume II – Lyric; Volume III – Theatre.
+
+[^2]: Letter from Luís de Camões sent from Goa to a friend in Lisbon in 1554.
 
 
-[^2]: 
+[^3]: Luís de Camões, _Os Lusíadas (The Lusiads)_, canto VII, stanzas 38 to 40 (Lisboa, Portugal: Antonio Gonçalves, 1572), Library of Congress, https://www.loc.gov/item/2021666936/.
 
 
-[^3]: 
+[^4]: Luís de Camões narrated the expedition in verse in the elegy, “The Poet Simonides, speaking”. Simonides of Ceos (c. 556–468/7 BCE) was a Greek poet of the Archaic to Classical period. He was known for his diverse poetic forms, including elegies, epigrams and various lyric genres.
 
 
-[^4]: 
+[^5]: The small parchment illumination was revealed by Maria Antonieta Soares de Azevedo, in an article published in 1972 in the magazine _Panorama_. The portrait was exhibited to the public in the same year at the National Library of Portugal in an exhibition to mark the fourth centenary of the publication of _The Lusiads_. The portrait now belongs to a private collector.
 
 
-[^5]: 
+[^6]: Camões’ experiences on the island of Ternate were described in the verse, “With Unusual Strength”.
 
 
-[^6]: 
+[^7]: Camões, Os Lusíadas (_The Lusiads_), canto X, stanzas 123 to 129.
 
 
-[^7]: 
+[^8]: The manuscript, “Title of the real estate of this College of Macau”, an 18th-century copy of a 17th-century original, is held by the Biblioteca da Ajuda in Lisbon.
 
 
-[^8]: 
+[^9]: Wilhelm Storck, _Vida e Obras de Luís de Camões: Primeira Parte: Versão do Original Alemão Annotada por Carolina Michaëlis de Vasconcellos_ (Lisboa: Academia Real das Ciências, 1898), Biblioteca Nacional Digital, https://purl.pt/43902.
 
 
-[^9]: 
+[^10]: Diogo do Couto described this meeting with Camões on the island of Mozambique in _Da Asia de Diogo de Couto: Dos Feitos que os Portugueses Fizeram na Conquista, e Descobrimento das Terras, e mares do Oriente: Decada Sexta, Parte Primeira_ (Lisboa: Na Regia Officina Typografica, 1781), Internet Archive, https://archive.org/details/A209014/page/n5/mode/2up.
 
 
-[^10]: 
+[^11]: Luís de Camões, “Next to a dry, wild and barren mountain”.
 
 
-[^11]: 
-
-
-[^12]: 
-
-
+[^12]: Note by Friar José Índio of the Discalced Carmelites of Guadalajara, Spain, on the title page of the copy of _The Lusiads_, Lisbon, Oficina de António Gonçalves, 1572, in the custody of the Harry Ransom Humanities Research Center.
