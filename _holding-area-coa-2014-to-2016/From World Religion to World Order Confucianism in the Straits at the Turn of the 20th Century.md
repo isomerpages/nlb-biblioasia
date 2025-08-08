@@ -1168,48 +1168,48 @@ Yen, Ching-Hwang. “The Confucian Revival Movement in Singapore and Malaysia, 1
 
 [^100]: Lim Boon Keng, “The Renovation of China 1: Internal Struggles,” _Straits Chinese Magazine_ 3, no. 7 (September 1898): 88–93. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). The article was originally written in 1895.
 
-101 Lim, “The Renovation of China 1,” 89–90.
+[^101]: Lim, “The Renovation of China 1,” 89–90.
 
-102 Lim, “The Renovation of China 1,” 92.
+[^102]: Lim, “The Renovation of China 1,” 92.
 
-103 Lim Boon Keng, “Straits Chinese Reform: I: The Queue Question,” 23.
+[^103]: Lim Boon Keng, “Straits Chinese Reform: I: The Queue Question,” 23.
 
-104 Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 39.
+[^104]: Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 39.
 
-105 Lim Boon Keng, “Confucian Cosmogony and Theism,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 78–85 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “Confucian View of Human Nature,” _Straits Chinese Magazine_ 8, no. 3 (September 1902): 144–50 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
+[^105]: Lim Boon Keng, “Confucian Cosmogony and Theism,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 78–85 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “Confucian View of Human Nature,” _Straits Chinese Magazine_ 8, no. 3 (September 1902): 144–50 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
 
-106 Masuzawa, _Invention of World Religions_, 244–49.
+[^106]: Masuzawa, _Invention of World Religions_, 244–49.
 
-107 Lim was certainly familiar with Theosophy, since he lamented about its popularity among the Straits Chinese and identified it as one of “religions” that the Straits Chinese youth were turning to in the period. See Lim, “Our Enemies,” 53.
+[^107]: Lim was certainly familiar with Theosophy, since he lamented about its popularity among the Straits Chinese and identified it as one of “religions” that the Straits Chinese youth were turning to in the period. See Lim, “Our Enemies,” 53.
 
-108 The column was first introduced in 1899. Kong T. C. “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 3, no. 11 (September 1899): 97–101. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^108]: The column was first introduced in 1899. Kong T. C. “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 3, no. 11 (September 1899): 97–101. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-109 The column was first introduced in 1899. Kong, “List of Works Relating to China in the Raffles Library, Singapore,” 141; For Max Müller’s work held in the Raffles Library, see Kong T. C., “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 4, no. 16 (December 1900): 141. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^109]: The column was first introduced in 1899. Kong, “List of Works Relating to China in the Raffles Library, Singapore,” 141; For Max Müller’s work held in the Raffles Library, see Kong T. C., “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 4, no. 16 (December 1900): 141. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-110 Kong T. C., “Friedrich Max-Muller (1823–1900),” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 10–19. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^110]: Kong T. C., “Friedrich Max-Muller (1823–1900),” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 10–19. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-111 Kong, “Friedrich Max-Muller (1823–1900),” 16–18.
+[^111]: Kong, “Friedrich Max-Muller (1823–1900),” 16–18.
 
-112 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 10–11.
+[^112]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 10–11.
 
-113 Lim, “Confucian Cosmogony and Theism,” 81.
+[^113]: Lim, “Confucian Cosmogony and Theism,” 81.
 
-114 Masuzawa, _Invention of World Religions_, 214n12.
+[^114]: Masuzawa, _Invention of World Religions_, 214n12.
 
-115 Lim, “Confucian Cosmogony and Theism,” 81–82. (Emphasis added.)
+[^115]: Lim, “Confucian Cosmogony and Theism,” 81–82. (Emphasis added.)
 
-116 Lim Boon Keng, “Chinese Reform. IV: Religion,” _Straits Chinese Magazine_ 3, no. 12 (December 1899): 161–66. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^116]: Lim Boon Keng, “Chinese Reform. IV: Religion,” _Straits Chinese Magazine_ 3, no. 12 (December 1899): 161–66. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-117 Lim, “Chinese Reform. IV: Religion,” 166.
+[^117]: Lim, “Chinese Reform. IV: Religion,” 166.
 
-118 Lim, “Confucian Cosmogony and Theism,” 84.
+[^118]: Lim, “Confucian Cosmogony and Theism,” 84.
 
-119 Lim, “Chinese Reform. IV: Religion,” 166.
+[^119]: Lim, “Chinese Reform. IV: Religion,” 166.
 
-120 Lim, “The Confucian Ideal,” 115–19.
+[^120]: Lim, “The Confucian Ideal,” 115–19.
 
-121 Lim, “The Confucian Ideal,” 119. (Emphasis added.)
+[^121]: Lim, “The Confucian Ideal,” 119. (Emphasis added.)
 
-122 Although not a fervent missionary like Legge, Max Müller was also a Protestant.
+[^122]: Although not a fervent missionary like Legge, Max Müller was also a Protestant.
 
-123 Daniel Bell, [_China Model: Political Meritocracy and the Limits of Democracy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202679104) (Princeton, New Jersey: Princeton University Press, 2015) (From National Library Singapore, call no. RSING 306.20951 BEL); Daniel Bell, [_Beyond Liberal Democracy:_ _Political Thinking for an East Asian Context_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12791801) (Princeton, N.J.: Princeton University Press, 2006). (From National Library Singapore, call no. R 321.8095 BEL)
+[^123]: Daniel Bell, [_China Model: Political Meritocracy and the Limits of Democracy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202679104) (Princeton, New Jersey: Princeton University Press, 2015) (From National Library Singapore, call no. RSING 306.20951 BEL); Daniel Bell, [_Beyond Liberal Democracy:_ _Political Thinking for an East Asian Context_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12791801) (Princeton, N.J.: Princeton University Press, 2006). (From National Library Singapore, call no. R 321.8095 BEL)
