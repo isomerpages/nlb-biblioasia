@@ -1092,7 +1092,7 @@ Yen, Ching-Hwang. “The Confucian Revival Movement in Singapore and Malaysia, 1
 
 [^62]: “[The Dead Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070522-1.2.24),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 22 May 1907, 4; “[Missionary Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191125-1.2.50),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1919, 12. (From NewspaperSG)
 
-[^62]: J. A. B. Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” _Straits Chinese Magazine_ 2, no. 5 (March 1898): 7–9. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^63]: J. A. B. Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” _Straits Chinese Magazine_ 2, no. 5 (March 1898): 7–9. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
 [^64]: Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 7.
 
