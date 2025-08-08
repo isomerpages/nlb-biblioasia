@@ -968,45 +968,45 @@ Yen, Ching-Hwang. “The Confucian Revival Movement in Singapore and Malaysia, 1
 
 #### **NOTES**      
 
-1 Anna Sun, _Confucianism as a World Religion: Contested Histories and Contemporary Realities_ (Princeton: Princeton University Press, 2013), 38–39, 45–47. (From OverDrive. (myLibrary ID is required to access this ebook)
+[^1]: Anna Sun, _Confucianism as a World Religion: Contested Histories and Contemporary Realities_ (Princeton: Princeton University Press, 2013), 38–39, 45–47. (From OverDrive. (myLibrary ID is required to access this ebook)
 
-&nbsp;2 Peter Van Der Veer, _The Modern Spirit of Asia: The Spiritual and the Secular in China and India_ (Princeton, New Jersey: Princeton University Press, 2014), 167.
+[^2]: Peter Van Der Veer, _The Modern Spirit of Asia: The Spiritual and the Secular in China and India_ (Princeton, New Jersey: Princeton University Press, 2014), 167.
 
-3 Van Der Veer, _The Modern Spirit of Asia_, 167.
+[^3]: Van Der Veer, _The Modern Spirit of Asia_, 167.
 
-4 Yen Ching-Hwang, “The Confucian Revival Movement in Singapore and Malaysia, 1899–1911,” _Journal of Southeast Asian Studies_ 7, no. 1 (March 1976): 33–57; Yen Ching-Hwang, “Overseas Chinese Nationalism in Singapore and Malaysia, 1877–1912,” _Modern Asian Studies_ 16, no. 2 (1982): 397–425; Mark Ravinder Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” _Journal of Southeast Asian Studies_ 36, no. 1 (February 2005): 29–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^4]: Yen Ching-Hwang, “The Confucian Revival Movement in Singapore and Malaysia, 1899–1911,” _Journal of Southeast Asian Studies_ 7, no. 1 (March 1976): 33–57; Yen Ching-Hwang, “Overseas Chinese Nationalism in Singapore and Malaysia, 1877–1912,” _Modern Asian Studies_ 16, no. 2 (1982): 397–425; Mark Ravinder Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” _Journal of Southeast Asian Studies_ 36, no. 1 (February 2005): 29–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-5 Michael R. Goodley, “The Treaty Port Connection: An Essay,” _Journal of Southeast Asian Studies_ 12, no. 1 (March 1981): 253. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^5]: Michael R. Goodley, “The Treaty Port Connection: An Essay,” _Journal of Southeast Asian Studies_ 12, no. 1 (March 1981): 253. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-6 Tomoko Masuzawa, _The Invention of World Religions: Or How European Universalism Was Preserved in the Language of Pluralism_ (Chicago: The University of Chicago Press, 2005)
+[^6]: Tomoko Masuzawa, _The Invention of World Religions: Or How European Universalism Was Preserved in the Language of Pluralism_ (Chicago: The University of Chicago Press, 2005)
 
-7 Masuzawa, _Invention of World Religions_, xi.
+[^7]: Masuzawa, _Invention of World Religions_, xi.
 
-8 Masuzawa, _Invention of World Religions_, 18.
+[^8]: Masuzawa, _Invention of World Religions_, 18.
 
-9 Talal Asad, _Formations of the Secular: Christianity, Islam, Modernity_ (Stanford, California: Stanford University Press, 2003)
+[^9]: Talal Asad, _Formations of the Secular: Christianity, Islam, Modernity_ (Stanford, California: Stanford University Press, 2003)
 
-10 A comprehensive biography of James Legge can be found in Marilyn Laura Bowman, _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_ (Fort St Victoria (BC): FriesenPress, 2016); N. J. Girardot, _The Victorian Translation of China: James Legge’s Oriental Pilgrimage_ (Berkeley: University of California Press, 2002); For a shorter version of Legge’s biography see L. Ride, _“_Bibliographical Note,” in _The Chinese Classics: With a Translation, Critical and Exegetical Notes, Prolegomena and Copious Indexes_, ed. James Legge (Hong Kong: Hong Kong University Press, 1970), 1–25_._
+[^10]: A comprehensive biography of James Legge can be found in Marilyn Laura Bowman, _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_ (Fort St Victoria (BC): FriesenPress, 2016); N. J. Girardot, _The Victorian Translation of China: James Legge’s Oriental Pilgrimage_ (Berkeley: University of California Press, 2002); For a shorter version of Legge’s biography see L. Ride, _“_Bibliographical Note,” in _The Chinese Classics: With a Translation, Critical and Exegetical Notes, Prolegomena and Copious Indexes_, ed. James Legge (Hong Kong: Hong Kong University Press, 1970), 1–25.
 
-11 Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 39–42; 57–60; 64–65.
+[^11]: Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 39–42; 57–60; 64–65.
 
-12 Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287) (Singapore: Oxford University Press, 1984), 76–79. (From National Library Singapore, call no. RCLOS 959.57 SON-\[HIS\])
+[^12]: Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287) (Singapore: Oxford University Press, 1984), 76–79. (From National Library Singapore, call no. RCLOS 959.57 SON-\[HIS\])
 
-13 Song H. K., “Reminiscences of Dr. Legge in Malacca,” _Straits Chinese magazine_ 2, no. 5 (March 1898): 9–12) (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Song H. K., “With Dr. Legge in England,” _Straits Chinese magazine_ 2, no. 7 (September 1898): 105–8. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^13]: Song H. K., “Reminiscences of Dr. Legge in Malacca,” _Straits Chinese magazine_ 2, no. 5 (March 1898): 9–12) (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Song H. K., “With Dr. Legge in England,” _Straits Chinese magazine_ 2, no. 7 (September 1898): 105–8. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-14 Henceforth identified as SCM or Magazine. For an overview of the scope, impact and topics covered in the magazine, see Bonny Tan, “[The Straits Chinese Magazine: A Malayan Voice](https://biblioasia.nlb.gov.sg/vol-7/issue-2/jul-2011/straits-chinese-magazine-malayan/),” _BiblioAsia_ 7, no. 2 (July–August)
+[^14]: Henceforth identified as SCM or Magazine. For an overview of the scope, impact and topics covered in the magazine, see Bonny Tan, “[The Straits Chinese Magazine: A Malayan Voice](https://biblioasia.nlb.gov.sg/vol-7/issue-2/jul-2011/straits-chinese-magazine-malayan/),” _BiblioAsia_ 7, no. 2 (July–August)
 
-15 Lu W, “The Straits Settlements Scholarship,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 86–87. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^15]: Lu W, “The Straits Settlements Scholarship,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 86–87. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-16 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 78–79.
+[^16]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 78–79.
 
-17 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), vii.
+[^17]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), vii.
 
-18 “Editorial,” _Straits Chinese Magazine_ 1, no. 1 (March 1897): 2. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^18]: “Editorial,” _Straits Chinese Magazine_ 1, no. 1 (March 1897): 2. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-19 The third editor was Gnoh Lean Tuck, Lim’s brother-in-law. See Ang Seow Leng, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/),” _BiblioAsia_ 2, no. 4 (January–March 2007)
+[^19]: The third editor was Gnoh Lean Tuck, Lim’s brother-in-law. See Ang Seow Leng, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/),” _BiblioAsia_ 2, no. 4 (January–March 2007)
 
-20 Sun’s study of Confucianism as a world religion does not comment on the contribution of the Straits Chinese Confucian reformists, such as Lim Boon Keng, to the history of this religion. Recently, a book with Chinese translations of Lim Boon Keng’s texts on Confucianism was published in an attempt to include the study of Lim’s contribution to “the Chinese history of philosophy and the history of Confucianism”. See Lim Boon Keng, [_Essays of Lim Boon Keng on Confucianism: With Chinese Translations_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201007236), trans. Yan Chunbao (Singapore: World Scientific, 2014), 22. (From National Library Singapore, call no. RSING 181.112 LIM)
+[^20]: Sun’s study of Confucianism as a world religion does not comment on the contribution of the Straits Chinese Confucian reformists, such as Lim Boon Keng, to the history of this religion. Recently, a book with Chinese translations of Lim Boon Keng’s texts on Confucianism was published in an attempt to include the study of Lim’s contribution to “the Chinese history of philosophy and the history of Confucianism”. See Lim Boon Keng, [_Essays of Lim Boon Keng on Confucianism: With Chinese Translations_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201007236), trans. Yan Chunbao (Singapore: World Scientific, 2014), 22. (From National Library Singapore, call no. RSING 181.112 LIM)
 
 21 Masuzawa, _Invention of World Religions_, 209–10.
 
