@@ -108,10 +108,7 @@ Luís de Camões, the greatest Portuguese poet, died on 10 June 1580 (today cele
 
 ![](/images/Vol%2021%20Issue%203/Luis/luis_statue.jpg)
 <div style="background-color: white;">The statue of Luís de Camões in Luís de Camões Square, Lisbon, 2019. <i> Photo by Chabe01, from Wikimedia Commons.</i></div>
-
-
 <br>
-
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/IsabelRioNovo.png">
 <b>Isabel Rio Novo </b>&nbsp;has a master’s degree in History of Portuguese Culture (Modern Period) and a doctorate in Comparative Literature from the University of Porto. She teaches art history and creative writing at the University of Maia, and has written academic publications in these fields. She is also a fiction writer. Her latest books are <i>Fortune, Occasion, Time and Luck</i> (2024), a biography of Luís de Camões and <i>The Matter of the Stars</i> (2025), which won the City of Almada Literary Prize. </div>
