@@ -481,27 +481,27 @@ Apart from being the most prominent Confucian reformer in the Straits
 of Malacca, Lim was a well-known Singapore medical doctor, Chinese
 intellectual and educationalist, businessman and moderniser, just as he was
 a proud subject of the British Empire and liberal constitutional democracy
-it came to represent.77 Lim left many traces of his loyalty to the British
+it came to represent.[^77] Lim left many traces of his loyalty to the British
 governing modality. For Lim, as “the subjects of the Queen-Empress” who
 governed the Empire on “the constitutional principles”, the Straits Chinese
 were “free men” with “all the liberty and privileges” that such citizenship
-entailed.78 In his obituary on Queen Victoria in 1901, Historicus (one of
+entailed.[^78] In his obituary on Queen Victoria in 1901, Historicus (one of
 Lim’s pen-names) mourned the end of her rule, which turned the British
-Empire into a “pure”, i.e. constitutional, democracy.79
+Empire into a “pure”, i.e. constitutional, democracy.[^79]
 
 In a 1905 “Editorial”, which discussed the way the colonial administration
 treated the empire’s different races, we learn that the SCM editors were in
 support of the liberal principle of the rule of law and legal equality for all
 subjects. Noting some biased treatment of Asian subjects of British colonies,
 the editors called for “the strict and impartial administration of justice” for
-all colonial subjects.80 At the turn of the 20th century, Lim was apparently
+all colonial subjects.[^80] At the turn of the 20th century, Lim was apparently
 a staunch supporter of liberal democracy as the ideal governing format. Nonetheless, during the revolution in China, he would support the newly
-established republic and grow a beard as a sign of his support.81
+established republic and grow a beard as a sign of his support.[^81]
 
 In the period under consideration (c. 1890s–1910s), various Chinese
 associations were established across the Straits of Malacca. The aim of their
 gatherings was to discuss questions of social reforms, morality, religion,
-education and other issues related to the overall progress of the Chinese.82
+education and other issues related to the overall progress of the Chinese.[^82]
 Lim engaged in the Confucianism-related debates almost immediately upon
 his return to Singapore from Edinburgh, where he had earned his medical
 degree in 1892. In August 1893, he gave a lecture entitled “The Ideal Citizen”
@@ -511,12 +511,12 @@ In “The Ideal Citizen”, Lim argued that the two most salient characteristics
 an ideal citizen were his religion and ethics. At this point, he left the rubric of
 religion unspecified by name but defined by its practice of love, social justice
 and charity. Lim was clear in his lecture, nonetheless, about the ideal citizen’s
-Confucian “code of morality or ethics”.83 Shortly thereafter, Lim acted as one
+Confucian “code of morality or ethics”.[^83] Shortly thereafter, Lim acted as one
 of the founders of the Chinese Philomathic Society established in March 1896.
 Lim’s inaugural lecture was on the “Teaching of Confucius”, but the society
-also held discussions on a wide range of health- and science-related topics.84
+also held discussions on a wide range of health- and science-related topics.[^84]
 As Song Ong Siang reported, members of the society met regularly to jointly
-study “English literature, Western music and the Chinese Language”.85
+study “English literature, Western music and the Chinese Language”.[^85]
 
 Lim’s efforts to articulate a reformed version of Confucianism and establish
 it as a modern religion entailed a good knowledge of the reformed Christian
@@ -524,7 +524,7 @@ doctrine and practice. Lim would have gained his initial knowledge of
 Christianity through the English-language education system he had been
 exposed to from his childhood. According to Khor Eng Hee’s study of Lim’s
 life, however, it was during Lim’s years as a student in Britain that he became
-“inclined” towards Christianity.86 In 1896, Lim married an English- and Chinese-educated Christian woman, Huang Tuan Chiung.87 Hence, Lim’s
+“inclined” towards Christianity.[^86] In 1896, Lim married an English- and Chinese-educated Christian woman, Huang Tuan Chiung.[^87] Hence, Lim’s
 close connection with Christianity continued even as he started working on
 reforming Confucianism and turning it into a modernising social movement
 among the Chinese in and across the Straits. As noted earlier, his fellow
@@ -534,15 +534,15 @@ The relationship between Lim and Christianity entailed his contestation
 of the moral, doctrinal and, later, historical – in other words, secular –
 evidence of its superiority. For instance, in July 1896, Lim publicly reacted
 against missionary work in proselytising Christianity among Chinese school
-children.88 In 1899 he published a series of newspaper opinion articles,
+children.[^88] In 1899 he published a series of newspaper opinion articles,
 writing under two of his pen names Amicus and Historicus.
 
 In “The Advancement of the Straits Chinese”, Amicus was full of praise
 for the SCM as a means of spreading knowledge about Confucius and his
 doctrines, as well as Western knowledge of science and history of religion,
-among the Straits-born Chinese.89 Historicus responded by claiming that if
+among the Straits-born Chinese.[^89] Historicus responded by claiming that if
 Christianity would lose its mythology (i.e. Biblical stories), it would be able
-to equate its doctrine with the Confucianist Golden Rule.90 He also went
+to equate its doctrine with the Confucianist Golden Rule.[^90] He also went
 on to claim that a reformed Confucianism would prove to be the remedy
 for China’s progress. A few days later, Amicus highlighted the similarity
 between the movements to reform Buddhism in Ceylon, Shintoism in
@@ -550,7 +550,7 @@ Japan, as well as Hinduism in the Brahmo Samaj movement in India, and
 the Confucian reformist movement in the Straits.
 
 All these movements attempted to “neutralize the effects of Christianity by
-adopting its methods” but failed to accomplish this task, Amicus argued.91
+adopting its methods” but failed to accomplish this task, Amicus argued.[^91]
 For him, Christianity was still beyond any competition in offering a superior
 morality fit for all nations. Historicus replied by reminding the reader of
 “Dr. Legge’s” favourable academic views of Confucius as a religious teacher,
@@ -559,18 +559,18 @@ too liberal and bold by his fellow missionaries to be accepted at the time.
 
 The main argument Historicus developed in this text was that Confucianism
 was not only compatible, but also doctrinally superior to Christianity in
-providing guidelines for a new, Asia-inclusive or “global” historical order.92
+providing guidelines for a new, Asia-inclusive or “global” historical order.[^92]
 He did so by relying on Legge’s academic authority and his introduction of
 Confucianism into the family of world religions.
 
 In contrast, the Straits missionaries saw Christianity as the only mode of
 sociability conducive to a just management of religious difference in the
-multi-racial British colony.93 They also saw Christianity as a means to, in
+multi-racial British colony.[^93]  They also saw Christianity as a means to, in
 contemporary terms, achieving peaceful and mutually prosperous relations
-with other sovereign states of the period.94 Thus, Cook warned the reader to
+with other sovereign states of the period.[^94] Thus, Cook warned the reader to
 “[b]ehold the ever-growing moral triumphs of Christ in the councils of the
 nations [characterised by] the earnest repression of the warlike spirit [and] the
-amelioration of the depressed races and classes”.95 Apparently, missionaries
+amelioration of the depressed races and classes”.[^95] Apparently, missionaries
 claimed that an egalitarian and inclusive society conducive to a peaceful world
 order was attainable only through the embracement of Christianity.
 
@@ -582,9 +582,9 @@ Lim. A vigorous debate was a means to gaining public attention and
 winning over Chinese readers to join the reform movement and modernise
 through adopting Confucianism. Hence, the SCM abounded in articles
 written by missionaries in which Confucianism appeared morally
-inferior to Christianity.96 In fact, to keep the debate going, Lim himself
+inferior to Christianity.[^96] In fact, to keep the debate going, Lim himself
 wrote articles in which he rejected or supported Biblical teachings and
-Christian practice.97
+Christian practice.[^97]
 
 As we saw earlier, Confucianist counter-arguments, most often authored
 by Lim, were published in the SCM. Lim’s opinion on the socio-political
@@ -599,7 +599,7 @@ that a good state could be informed. Ultimately, all such states would
 join the “federation of the world” marked by “all-embracing benevolence”
 and mutual cooperation of all nations. Only when Confucian ideals were
 embraced by all countries would the “dream of Confucius that a Great
-Peace will unite the nations” be fulfilled.98
+Peace will unite the nations” be fulfilled.[^98]
 
 To Lim, Confucian ideals were open to all nations in the world, not only the
 Chinese. In making this claim, Lim adopted the scientific, comparative or
@@ -609,18 +609,18 @@ in Masuzawa’s sense. Lim was quite persistent in this argument, which he
 developed at the onset of his reformist career. For instance, he claimed,
 as early as 1897, that Confucianism was both “the best religion for the
 Chinese” and “the religion of humanity” – once all superstitions had been
-removed from its practice.99
+removed from its practice.[^99]
 
 In his 1898 reflections on “The Renovation of China”, Lim identified three
-reasons that enabled the progress of Europe.100 These were the emergence
-of science (i.e. the study of nature and inductive philosophy), cultural regeneration and religious reformation.101 He thought that the reform of
-China could not be undertaken from within the country.102 A year later, Lim
+reasons that enabled the progress of Europe.[^100] These were the emergence
+of science (i.e. the study of nature and inductive philosophy), cultural regeneration and religious reformation.[^101] He thought that the reform of
+China could not be undertaken from within the country.[^102] A year later, Lim
 suggested where to look for the agents of a reformed China. He wrote that
 “the Chinese system of thought and social polity must be changed or adapted
 to the newer needs of international intercourse”. What this meant was a
 Confucianism that could only be successfully reformed for its application in
 China by the “free” subjects of the constitutional, liberal-democratic British
-Empire – i.e. the Straits Chinese – so as to facilitate a new world order.103
+Empire – i.e. the Straits Chinese – so as to facilitate a new world order.[^103]
 
 The evangelical missionary view of the world, or a global order as a historical
 effect of Christian teleology, prompted Lim to devise his vision of a
@@ -634,7 +634,7 @@ achievable through education, which, in the spirit of his time, was deemed
 the most efficient method of social engineering. Thus, in his later academic
 career (1921–1937) at the University of Amoy in China, Lim insisted on the
 inclusion of the comparative study of religion in the curriculum intended to
-educate “national leaders” as “ideal Confucian gentlemen”.104
+educate “national leaders” as “ideal Confucian gentlemen”.[^104]
 
 #### **The Science of Religion in the Straits**
 In the Straits of Malacca, as elsewhere in the British empire, Legge’s
@@ -663,34 +663,34 @@ God. For instance, he compared Confucianism, imagined as a philosophy,
 to the work of the Stoics and other Hellenic thinkers. This, as well as his
 comparison of Confucianism to other world religions, attributed “purity”
 from any form of superstition, where Lim included belief in a “man-like”
-God or gods, to Confucianism alone.105
+God or gods, to Confucianism alone.[^105]
 
 Masuzawa notes that the 19th-century discussions of the Hellenic
 prehistory of Christianity, located in the world of late antiquity, enabled
 some scholars to claim its Aryan, rather than Semitic, origin. Such views
 were fairly popular among the intellectuals of the period, despite Max
-Mü ller’s rejection of such theories as unsound.106 This may suggest that
+Mü ller’s rejection of such theories as unsound.[^106] This may suggest that
 Lim’s list of readings went beyond the science of religion in his attempt to
 draw a genealogy of Christianity from religions of ancient China, through
-similarities with ancient Greek beliefs and philosophical teachings.107
+similarities with ancient Greek beliefs and philosophical teachings.[^107]
 
 Many of Lim’s texts on Confucianism were published in the SCM, in
 line with this publication’s foundational, comparativist motive of being
 a journal of Oriental and Occidental culture. This goes to show that the
 SCM was a product of the time, which saw the rise of Max Mü ller’s and Legge’s scientific study of religions through mutual comparison of their
 textual traditions. In 1900, regular SCM columns listing the works on
-China in the Raffles Library108 also included the works of Max Mü ller on
+China in the Raffles Library[^108] also included the works of Max Mü ller on
 the religions of China, identified as Confucianism, Buddhism, Taoism
-and Christianity.109
+and Christianity.[^109]
 
 A few months after Max Mü ller’s death in 1900, the SCM published a
 lengthy obituary commemorating the life and brilliant academic career of
 this “champion of the cause of the misunderstood Asiatics” and “the young
-science of Comparative Philology”.110 Kong Tian Cheng, who authored this
+science of Comparative Philology”.[^110] Kong Tian Cheng, who authored this
 as well as the previously quoted article, gave a comprehensive overview of
 Max Mü ller’s scholarly projects and achievements. Kong commented on
 Max Mü ller’s lectures on the new discipline of science of religion, and duly
-mentioned the collaboration between Max Mü ller and Legge.111
+mentioned the collaboration between Max Mü ller and Legge.[^111]
 
 During the next few years, Lim published a series of texts in which he
 contested Legge’s interpretation of the inferior position of Confucianism
@@ -713,7 +713,7 @@ concept of God:
    the name Jahve, as explained by God Himself to Moses; Tî has<br> 
    presented that absolute deity in the relation to men of their lord and<br> 
    governor. Tî was to the Chinese fathers, I believe, exactly what God<br> 
-   was to our fathers, whenever they took the great name on their lip*.112
+   was to our fathers, whenever they took the great name on their lip*.[^112]
 
 In his 1904 article on Confucian cosmogony and theism quoted earlier,
 Lim directly responded to Legge’s definition of a Chinese God through
@@ -728,7 +728,7 @@ used this perceived similarity to attract the Chinese to Christianity.
    *[…] There does not seem to be any vital difference except that the<br> 
    two tribes, Chinese and Jews, are quite distinct. Missionaries,<br> 
    however, forgetting the possibility of independent tribal religions,<br> 
-claim that Shang-ti and Jehovah are synonymous*.113
+claim that Shang-ti and Jehovah are synonymous*.[^113]
 
 Lim’s argument against the fulfilment of Confucianism through the
 conversion of the Chinese to Christianity relies on the academic authority
@@ -737,7 +737,7 @@ Max Mü ller’s concept of three language and religion families – i.e. Aryan
 Semitic and Turanian (which included the Chinese) – makes it difficult “to
 make the case that Christianity was the culmination and the fulfilment
 of all other religions, as many contemporary theologians did, or that
-Christianity was the embodiment of what was inherently universal”.114 That
+Christianity was the embodiment of what was inherently universal”.[^114]  That
 Lim was familiar with the potentially emancipatory effect of Max Mü ller’s
 epistemology is illustrated in Lim’s claim to “tribal independence” of
 Confucianism as the religion of the Chinese.
@@ -756,15 +756,15 @@ Heaven in Peking:
    the doxology to – it must have seemed to him – the unknown God.<br>
    Yet he had persuaded himself that he was addressing the Heaven,<br>
    the philosophic ideal of Confucianism, Shang-ti, the God of the<br>
-   semi-civilized Chinese, or Jehovah, the God of the nomadic Jews*.115
+   semi-civilized Chinese, or Jehovah, the God of the nomadic Jews*.[^115]
 
 Lim’s view that Heaven is an abstract Confucianist concept introduced to
-unite people was developed in an article published several years earlier.116
+unite people was developed in an article published several years earlier.[^116]
 There, Lim already compared Shang-ti with the God of the Israelites and
 argued that Confucianism alone, among the great world religions, was
 based on “pure monotheism”, devoid of any mythologies and superstitions.
 He also explained that there in the worship of Heaven, “the people will be
-united” while “their thoughts will be lifted up and their hearts rectified”.117
+united” while “their thoughts will be lifted up and their hearts rectified”.[^117]
 Apparently, Lim’s interest in the science of religion can be traced back
 to the 1890s, but could have been triggered earlier, during his studies
 in Edinburgh.
@@ -778,14 +778,14 @@ the Temple of Heaven was, in turn, unfavourable.
    *As for worshipping Heaven as the grand ideal of humanity, we<br>
    [the Confucianists] reserve it for an Emperor. The worship of God<br>
    of Heaven at Peking is not a sacrifice in the Christian sense but a<br>
-   religious rite*.118
+   religious rite*.[^118]
 
 In his 1899 article on religion, Lim already argued against the worship
 of Heaven as an act of sacrifice, explaining that it was “a service of
-thanksgiving for the Divine mercy and goodness”.119
+thanksgiving for the Divine mercy and goodness”.[^119]
 
 In his article “The Confucian Ideal”, Lim offered his view of the superior
-place of Confucianism among other world religions.120 Whereas Legge
+place of Confucianism among other world religions.[^120] Whereas Legge
 saw Confucianism as an impediment to the progress of the Chinese,
 Lim discussed Confucianism in a global, transnational context. Thus,
 Lim thought it was a religion compatible with modern science and
@@ -798,7 +798,7 @@ world progress:
    of modern science destroy none of its doctrines, and the progress of<br> 
    the world should in time hasten its extensive propagation; for it is<br> 
    certainly the most ancient as well as the most successful religion<br> 
-   of humanity*.121
+   of humanity*.[^121]
 
 Clearly, then, within the first few years of the last century, Lim’s
 conceptualisation of Confucianism as a world religion capable of facilitating
@@ -830,7 +830,7 @@ Academic approach to the study of religions relied on the method of
 comparison of religions as objects of study. However, both Max Mü ller
 and Legge gave a good head-start to Christianity by placing it beyond
 comparison or establishing its moral *and* analytical superiority by signifying
-it as a subject of study, rather than an object.122 Missionaries, in addition,
+it as a subject of study, rather than an object.[^122] Missionaries, in addition,
 insisted on the argument of Christianity’s moral superiority in organising
 not only a just inter-racial (hence inter-religious) order in the empire, but
 offering an ethical basis for the development of a just world order.
@@ -876,7 +876,7 @@ order, today’s Western contestations of China’s legitimacy as a world leader
 are organised around the tropes of the country’s allegedly Confucianist
 authoritarianism. In other words, depicted as insufficiently democratic,
 China’s governing order as an alternative to liberal democracy is frequently
-contested at the level of its foundational Confucian ethics.123
+contested at the level of its foundational Confucian ethics.[^123]
 
 This line of critique of China and Confucianism, however, is based on
 a prescriptive reading of history, which precludes an understanding of
