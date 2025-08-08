@@ -96,7 +96,7 @@ Luís de Camões, the greatest Portuguese poet, died on 10 June 1580 (today cele
 [^2]: Letter from Luís de Camões sent from Goa to a friend in Lisbon in 1554.
 
 
-[^3]: Luís de Camões, _Os Lusíadas (The Lusiads)_, canto VII, stanzas 38 to 40 (Lisboa, Portugal: Antonio Gonçalves, 1572), Library of Congress, https://www.loc.gov/item/2021666936/.
+[^3]: Luís de Camões, _Os Lusíadas (The Lusiads)_, canto VII, stanzas 38 to 40 (Lisboa, Portugal: Antonio Gonçalves, 1572), Library of Congress, [https://www.loc.gov/item/2021666936/](https://www.loc.gov/item/2021666936/).
 
 
 [^4]: Luís de Camões narrated the expedition in verse in the elegy, “The Poet Simonides, speaking”. Simonides of Ceos (c. 556–468/7 BCE) was a Greek poet of the Archaic to Classical period. He was known for his diverse poetic forms, including elegies, epigrams and various lyric genres.
@@ -114,10 +114,10 @@ Luís de Camões, the greatest Portuguese poet, died on 10 June 1580 (today cele
 [^8]: The manuscript, “Title of the real estate of this College of Macau”, an 18th-century copy of a 17th-century original, is held by the Biblioteca da Ajuda in Lisbon.
 
 
-[^9]: Wilhelm Storck, _Vida e Obras de Luís de Camões: Primeira Parte: Versão do Original Alemão Annotada por Carolina Michaëlis de Vasconcellos_ (Lisboa: Academia Real das Ciências, 1898), Biblioteca Nacional Digital, https://purl.pt/43902.
+[^9]: Wilhelm Storck, _Vida e Obras de Luís de Camões: Primeira Parte: Versão do Original Alemão Annotada por Carolina Michaëlis de Vasconcellos_ (Lisboa: Academia Real das Ciências, 1898), Biblioteca Nacional Digital, [https://purl.pt/43902](https://purl.pt/43902).
 
 
-[^10]: Diogo do Couto described this meeting with Camões on the island of Mozambique in _Da Asia de Diogo de Couto: Dos Feitos que os Portugueses Fizeram na Conquista, e Descobrimento das Terras, e mares do Oriente: Decada Sexta, Parte Primeira_ (Lisboa: Na Regia Officina Typografica, 1781), Internet Archive, https://archive.org/details/A209014/page/n5/mode/2up.
+[^10]: Diogo do Couto described this meeting with Camões on the island of Mozambique in _Da Asia de Diogo de Couto: Dos Feitos que os Portugueses Fizeram na Conquista, e Descobrimento das Terras, e mares do Oriente: Decada Sexta, Parte Primeira_ (Lisboa: Na Regia Officina Typografica, 1781), Internet Archive, [https://archive.org/details/A209014/page/n5/mode/2up](https://archive.org/details/A209014/page/n5/mode/2up).
 
 
 [^11]: Luís de Camões, “Next to a dry, wild and barren mountain”.
