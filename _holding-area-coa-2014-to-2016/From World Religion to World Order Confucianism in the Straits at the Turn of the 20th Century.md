@@ -202,7 +202,7 @@ well-studied phenomenon.
 In the preface to his first volume of *The Chinese Classics*, Legge made a
 comment on his posting in “the East” (i.e. Malacca), where he arrived
 “equipped with… a few months’ instruction in Chinese from the late
-Professor Kidd at the University of London”.26 Legge was to assume his
+Professor Kidd at the University of London”.[^26] egge was to assume his
 duties as the principal of the Anglo-Chinese College in Malacca. This
 position meant that he had an unhindered access to the college library.
 Dissatisfied with the then-existing state of translations of classical Chinese
@@ -210,7 +210,7 @@ texts into European languages, Legge made an outline of his prospective
 study and translation of these texts before 1841, planning to publish his
 work in seven volumes. From the onset of his stay in Malacca and having
 the required books and dictionaries within his reach, Legge engaged in the
-study of a set of works he translated into English as “Confucian Analects”.27
+study of a set of works he translated into English as “Confucian Analects”.[^27]
 These translations were included in his first volume of *The Chinese Classics*,
 published in 1861 while he was in Hong Kong. There, Legge offered his
 definition of the “classical” Chinese texts:
@@ -224,25 +224,25 @@ definition of the “classical” Chinese texts:
    subjects of which they treat. “The five King” are the five canonical<br> 
    works, containing the truth upon the highest subjects from the sages<br> 
    of China, and which should be received as law by all generations.<br> 
-   The term Shoo simply means Writings or Books*.28
+   The term Shoo simply means Writings or Books*.[^28]
 
 By the early 1860s, Legge had already been engaged in the preaching to
 and teaching of the Chinese for 21 years. The substantial experience he
 gained convinced him that he would have remained unqualified for his
-missionary job unless he “had thoroughly mastered the Classical Books of the Chinese”.29 In those books, Legge believed, the sages of China
+missionary job unless he “had thoroughly mastered the Classical Books of the Chinese”.[^29] In those books, Legge believed, the sages of China
 established “the foundations of the moral, the social, and the political life
-of the people”.30 His translations of the *Classics* were intended foremost for
+of the people”.[^30] His translations of the *Classics* were intended foremost for
 the benefit of missionaries and students of Chinese language and literature,
-though Legge hoped that they could also be of use to the general public.31
+though Legge hoped that they could also be of use to the general public.[^31] 
 
 At the age of 11, Song Hoot Kiam became one of the boarders of the Anglo-
-Chinese College in Malacca when Reverend James Legge was its principal.32
+Chinese College in Malacca when Reverend James Legge was its principal.[^32] 
 More than half a century later, Song was still able to recall his years in
-Malacca under Legge’s supervision in great detail.33 Written in memory
+Malacca under Legge’s supervision in great detail.[^33] Written in memory
 of the recently deceased Legge, Song’s recollections of the Anglo-Chinese
 College in Malacca were intended for the “friends of the late Professor all
 over the globe who would be interested to hear anything relating to any, the
-shortest, part of his long and useful career”.34
+shortest, part of his long and useful career”.[^34] 
 
 According to Song, Legge managed to gather around 45 Chinese boys as
 boarders in the college. This was quite an accomplishment, as most Straits
@@ -251,7 +251,7 @@ children, while some viewed missionaries with suspicion. Song recalled that
 most inhabitants of Malacca were engaged in fishing or growing rice, with
 little commerce going on in the town. He remembered Legge as a strict but
 righteous principal and teacher when in college, and a friendly playmate
-during the few daily excursions he organised for his students.35
+during the few daily excursions he organised for his students.[^35] 
 
 From Malacca, Legge relocated to Hong Kong to take charge of the Anglo-
 Chinese College there. When he left Malacca, he took two Chinese girls and
@@ -259,24 +259,24 @@ a Chinese boy with him. In the meantime, Song’s father placed him and his
 elder brother in a private Chinese school in Singapore. Unwilling to give
 up on their English education, Song and a fellow student soon managed to
 “escape” from Singapore and take an adventurous trip to Hong Kong, where they continued their studies at the Anglo-Chinese College, with financial
-support provided by Legge himself.36
+support provided by Legge himself.[^36]
 
 In 1846, Legge, Song and two other Chinese students arrived in London
 after a six-month sea voyage. They were subsequently located in Scotland
-where they received further education as well as baptism in 1847.37 The
+where they received further education as well as baptism in 1847.[^37] The
 following year, the three Chinese students returned to Hong Kong and
 Singapore respectively. Song married and settled down soon after that, thus
-establishing “the oldest family of Straits Chinese Christians in Singapore”.38
-The two men kept in touch until Legge’s death.39
+establishing “the oldest family of Straits Chinese Christians in Singapore”.[^38] 
+The two men kept in touch until Legge’s death.[^39] 
 
 #### **Legge’s Missionary and Academic Careers**
 Legge continued working on the Chinese texts over the great number of
-years he spent as a missionary educator in Hong Kong.40 Even though his
+years he spent as a missionary educator in Hong Kong.[^40] Even though his
 work did not always progress at the desired pace, the third volume of his
-*Chinese Classics* appeared in 1865.41 Legge’s *The Chinese Classics* were well-received
+*Chinese Classics* appeared in 1865[^41]. Legge’s *The Chinese Classics* were well-received
 in the contemporaneous academic circles. He retired from his
 missionary duties in 1873 and returned to England, where he was widely
-recognised as “one of the first and best translators of Chinese classics”.42 In
+recognised as “one of the first and best translators of Chinese classics”.[^42] In
 1876, he became a professor of Chinese language and literature at Oxford,
 where he taught and worked on translations until his death in 1897.
 
@@ -284,29 +284,29 @@ In 1875, Max Müller contacted Legge expressing his admiration for the latter�
 translation of *The Chinese Classics*. In this period, Max Müller identified
 and approached potential academic collaborators for an ambitious project
 entitled *The Sacred Books of the East*, published in 50 volumes between 1879
-and 1910.43 Max Müller’s desire had been to study religions in a scholarly, “scientific” manner.44 To achieve this, he relied on the method of mutual
+and 1910.[^43] Max Müller’s desire had been to study religions in a scholarly, “scientific” manner.[^44] To achieve this, he relied on the method of mutual
 comparison of doctrinal texts or canons of various religious traditions in Asia.
 
 In his preface to *The Sacred Books of the East*, Max Müller identified
 eight “great and original religions which profess to be founded on Sacred
-Books”.45
+Books”.[^45]
 
    *Apart from the interest which the Sacred Books of all religions<br>
    possess in the eyes of the theologian, and, more particularly, of<br>
    the missionary, to whom an accurate knowledge of them is as<br>
    indispensable as a knowledge of the enemy’s country is to a general,<br>
    these works have of late assumed a new importance, as viewed in<br>
-   the character of ancient historical documents*.46
+   the character of ancient historical documents*.[^46]
 
 Max Müller’s list of “world religions”, as they are called at present, included
 what are known today as Christianity, Judaism, Islam, Zoroastrianism,
-Hinduism, Buddhism, Confucianism and Taoism. 47 *The Sacred Books of the
+Hinduism, Buddhism, Confucianism and Taoism.[^47] *The Sacred Books of the
 East* were intended to provide translations of the books of all the mentioned
-religions, with the exception of the first two.48
+religions, with the exception of the first two.[^48]
 
 Legge’s contribution to *The Sacred Books of the East* project consisted of his
 translations of the “Sacred Books of China”, which comprised four volumes
-on Confucianism and two volumes on Taoism.49 Although the Englishlanguage
+on Confucianism and two volumes on Taoism.[^49] Although the English-language
 term “Confucianism” was not used in scholarly circles or outside
 of them during this period, Legge was the one who defined and promoted
 its academic usage. According to Sun’s research, the term “Confucianism”
@@ -320,12 +320,12 @@ comparability between the two – Christianity was understood as the only
 true religion and was thus beyond comparison. Legge used his collaboration
 with Max Müller to further his views of Confucianism as a “world religion”
 and support his translations of it to related theological concepts in terms
-hitherto reserved for Protestant Christianity.50
+hitherto reserved for Protestant Christianity.[^50]
 
 In his preface to *The Sacred Books of the East*, Legge noted that there
 were three religions in China – Confucianism, Taoism and Buddhism –
 and viewed the former as “the religion of China par excellence”. Unlike
-Buddhism, both Confucianism and Taoism were native to China.51 This
+Buddhism, both Confucianism and Taoism were native to China.[^51] This
 classification of certain spiritual, ritualistic and philosophical traditions
 into the three religions of China has had a lasting scholarly and popular
 influence on current perceptions of what counts as religion in the Chinese
@@ -341,52 +341,52 @@ with Christianity*. In these lectures, Legge defined Confucianism as “the
 ancient religion of China”, which comprised views of Confucius, “the great
 philosopher himself”, written directly by the sage or narrated in the writings
 by his disciples. He thought it erroneous not to regard Confucius as a religious
-teacher.52 At that time, the missionaries working in China rejected Legge’s
+teacher.[^52] At that time, the missionaries working in China rejected Legge’s
 attempt to view both Christianity and Confucianism as religions that could
 be compared. To the majority of Protestant missionaries working to convert
 the people of China, the proposal of comparison itself was unacceptable and
-“too liberal”.53
+“too liberal”.[^53]
 
 Although he regarded Confucianism as a religion and compared it with
 Christianity, Legge thought this religion was inferior to Christianity due
 to the latter’s individually accessible worship of God. Confucianism, Legge
 explained, still allowed for the worship of spirits, unlike the only proper
-religion – i.e. Protestant – Christianity.54 Legge thought that this aspect
+religion – i.e. Protestant – Christianity.[^54] Legge thought that this aspect
 of Confucianism developed over time due to the monopolisation of the
 worship of God by the Emperor, which prevented ordinary people from
-worshipping God.55 Legge had personally experienced this insight during
-his visit to the Temple of Heaven in Peking56 where he stood barefoot and,
-together with his Christian friends, sang a doxology in praise of God.57
+worshipping God.[^55] Legge had personally experienced this insight during
+his visit to the Temple of Heaven in Peking[^56] where he stood barefoot and,
+together with his Christian friends, sang a doxology in praise of God.[^57]
 
    *I rejoice in the imperial worship of God, but I can never<br>
    sufficiently regret that this shaped itself even in prehistoric time into<br>
    a representative worship by the head of the state, instead of being<br>
    extended throughout the nation, and joined in by the multitudes of<br>
-the people*.58
+the people*.[^58]
 
 Legge thought that the lack of individual access to one’s worship of God
 helped the spread of sin among the Chinese people, thus preventing
-their growth and development.59 He saw Confucianism as an ethical
+their growth and development.[^59] He saw Confucianism as an ethical
 regime exclusively focused on the regulation of social relations. Its goal
 was to prescribe conditions to sociability through defining five types of
 relational duties perceived to uphold all social structures. These entailed the
 relationship between sovereign and subject, father and son, husband and
-wife, brothers and friends.60 According to Legge, lacking in this scheme
+wife, brothers and friends.[^60] According to Legge, lacking in this scheme
 was the relationship to God as the central defining element of humanity,
-conceptualised through “[o]ur Christian catechism”.61 This particular aspect of Legge’s theological assessment of Confucianism apparently had a lasting
+conceptualised through “[o]ur Christian catechism”.[^61] This particular aspect of Legge’s theological assessment of Confucianism apparently had a lasting
 effect on Singaporean missionary circles.
 
 In fact, Legge’s missionary work in and on China was celebrated in the
-Singapore press long after his death.62 Another obituary commemorating
+Singapore press long after his death.[^62] Another obituary commemorating
 Legge’s missionary achievements, besides Song Hoot Kiam’s, was also
-published in the SCM.63 It was written by Legge’s fellow missionary J.A.B.
+published in the SCM.[^63] It was written by Legge’s fellow missionary J.A.B.
 Cook, who had the opportunity to personally attend Legge’s Presbyterian
 College lecture series in 1880. Cook assured readers that Legge was a
 zealous missionary and that all his scholarly work was “to bring the stores
-of his learning to the service of Christ”.64 He went on to support Legge’s
+of his learning to the service of Christ”.[^64] He went on to support Legge’s
 understanding of Confucianism as a religion inferior to Christianity, in that
 it focused on ethical regulation of social relations and failed to prioritise – or
-even introduce – a relationship between God and believer.65
+even introduce – a relationship between God and believer.[^65] 
 
 Reverend W. Murray relied on Legge’s writings in his outline of reasons as to
 why he regarded Confucius as a failed religious teacher in comparison with
@@ -395,7 +395,7 @@ Compared in Their Teaching of the Whole Duty of Man”, which was
 included in a missionary-sponsored publication called *The Religious Tract
 Society* from London, and issued throughout the 1880s and later. There,
 Murray quoted Legge’s opinion of Confucius’ “untruthfulness” as the mark of
-a standard of morality lower than the impeccable morality of Christ’s.66
+a standard of morality lower than the impeccable morality of Christ’s.[^66]
 
 A note to the article states that it was originally delivered in the format of
 a lecture given at the Young Men’s Christian Association of Singapore on
@@ -409,15 +409,15 @@ latter insisted that Legge abandoned his early conviction in Confucius’
 untruthfulness as the cause of the low state of morality in China. It was then
 that Murray turned to “Christianity and Confucianism Compared in Their
 Teaching of the Whole Duty of Man” in which Legge had expressed his
-doubts about Confucius’ truthfulness.67
+doubts about Confucius’ truthfulness.[^67]
 
 #### **Lim Boon Keng: Confucianism, Christianity and World Religion**
 There is little doubt, in turn, that the “student of Confucianism” was
 Lim Boon Keng (1869–1957), who at the turn of the 20th century often
 wrote articles published in the press, including the SCM, using one
-of his many pseudonyms.68 The nature of the comments and critiques
+of his many pseudonyms.[^68] The nature of the comments and critiques
 in the mentioned newspaper article, published on 1 June 1905, are
-equally revealing of its author.69 Here, Lim was inclined to differentiate
+equally revealing of its author.[^69] Here, Lim was inclined to differentiate
 between “Professor Legge’s” mature, more balanced ethical assessment
 of Confucius and “Missionary Legge’s” disparaging of Confucius as the
 founder of “Naturalistic Ethics”. Murray’s essay on Confucius, however,
@@ -434,7 +434,7 @@ knowledge of Max Müller’s comparative study of religion.
 As Sun’s study shows, Legge’s attempt to translate “Shang Ti” as “God”
 suggests an analytical, if not theological, equality between Confucianism
 and Christianity. Hence, it was strongly rejected in British missionary
-circles, particularly after the 1877 missionary conference in Shanghai.70
+circles, particularly after the 1877 missionary conference in Shanghai.[^70]
 
 The legitimacy of Legge’s claim that Confucianism was a religion, and
 thus comparable to Christianity, was acquired through his collaboration
@@ -442,7 +442,7 @@ with Max Müller in the latter’s newly established “science of religion”
 discipline. It was within the realm of authority of this new scholarly
 discipline, placed at a distance from missionary and Sinologist circles,
 that it became possible to compare religions of the world, including
-Confucianism, with Christianity.71
+Confucianism, with Christianity..[^71]
 
 As we saw earlier, Legge’s scholarly opinion was that Christianity was
 superior to Confucianism. Thus, Straits missionaries at the turn of the 20th
@@ -454,13 +454,13 @@ advantage of the latter.
 
 In the British imperial context, reformed Christianity was seen as the
 only religion that would unite humanity of different religions under the
-Christian God.72 Lim adapted this liberal-theological view of Christianity
+Christian God..[^72] Lim adapted this liberal-theological view of Christianity
 as the pinnacle of progress and morality of humankind to argue for a
 global-scale unification of nations under reformed Confucianism. For him,
 the study of science, rather than Christianity, was the basis of European
-progress.73 He elaborated this view in the 1905 newspaper article contesting
+progress..[^73] He elaborated this view in the 1905 newspaper article contesting
 Murray’s views on Confucianism, where he argued against global Christian
-progressive teleology.74
+progressive teleology..[^74]
 
 Again, Lim noted that it was “science, rationalistic philosophy, and
 education” rather than Christianity, that enabled European progress and
@@ -469,39 +469,39 @@ power”, as he called it, stopped the otherwise incessant wars between
 Catholic, Orthodox and Protestant Christians that marked a long period
 of European history. “The religious ideal” written most probably by Lim
 under the pen name “Mayo” is equally secularist in spirit, arguing against the “narrow sectarianism of ‘religions’” and in favour of a moral code that
-would enable “each man” to live “at peace with his neighbour”.75
+would enable “each man” to live “at peace with his neighbour”.[^75]
 
 In 1907, Lim called for a unification of nations by universal deployment of
 the Confucian principle of friendship. This, in his opinion, was the only
 ethical principle able to remove the impediment to achieving the goal of
 global unification of nations, which he identified as conflicts based on
-religious difference.76
+religious difference.would enable “each man” to live “at peace with his neighbour”.[^76]
 
 Apart from being the most prominent Confucian reformer in the Straits
 of Malacca, Lim was a well-known Singapore medical doctor, Chinese
 intellectual and educationalist, businessman and moderniser, just as he was
 a proud subject of the British Empire and liberal constitutional democracy
-it came to represent.77 Lim left many traces of his loyalty to the British
+it came to represent.[^77] Lim left many traces of his loyalty to the British
 governing modality. For Lim, as “the subjects of the Queen-Empress” who
 governed the Empire on “the constitutional principles”, the Straits Chinese
 were “free men” with “all the liberty and privileges” that such citizenship
-entailed.78 In his obituary on Queen Victoria in 1901, Historicus (one of
+entailed.[^78] In his obituary on Queen Victoria in 1901, Historicus (one of
 Lim’s pen-names) mourned the end of her rule, which turned the British
-Empire into a “pure”, i.e. constitutional, democracy.79
+Empire into a “pure”, i.e. constitutional, democracy.[^79]
 
 In a 1905 “Editorial”, which discussed the way the colonial administration
 treated the empire’s different races, we learn that the SCM editors were in
 support of the liberal principle of the rule of law and legal equality for all
 subjects. Noting some biased treatment of Asian subjects of British colonies,
 the editors called for “the strict and impartial administration of justice” for
-all colonial subjects.80 At the turn of the 20th century, Lim was apparently
+all colonial subjects.[^80] At the turn of the 20th century, Lim was apparently
 a staunch supporter of liberal democracy as the ideal governing format. Nonetheless, during the revolution in China, he would support the newly
-established republic and grow a beard as a sign of his support.81
+established republic and grow a beard as a sign of his support.[^81]
 
 In the period under consideration (c. 1890s–1910s), various Chinese
 associations were established across the Straits of Malacca. The aim of their
 gatherings was to discuss questions of social reforms, morality, religion,
-education and other issues related to the overall progress of the Chinese.82
+education and other issues related to the overall progress of the Chinese.[^82]
 Lim engaged in the Confucianism-related debates almost immediately upon
 his return to Singapore from Edinburgh, where he had earned his medical
 degree in 1892. In August 1893, he gave a lecture entitled “The Ideal Citizen”
@@ -511,12 +511,12 @@ In “The Ideal Citizen”, Lim argued that the two most salient characteristics
 an ideal citizen were his religion and ethics. At this point, he left the rubric of
 religion unspecified by name but defined by its practice of love, social justice
 and charity. Lim was clear in his lecture, nonetheless, about the ideal citizen’s
-Confucian “code of morality or ethics”.83 Shortly thereafter, Lim acted as one
+Confucian “code of morality or ethics”.[^83] Shortly thereafter, Lim acted as one
 of the founders of the Chinese Philomathic Society established in March 1896.
 Lim’s inaugural lecture was on the “Teaching of Confucius”, but the society
-also held discussions on a wide range of health- and science-related topics.84
+also held discussions on a wide range of health- and science-related topics.[^84]
 As Song Ong Siang reported, members of the society met regularly to jointly
-study “English literature, Western music and the Chinese Language”.85
+study “English literature, Western music and the Chinese Language”.[^85]
 
 Lim’s efforts to articulate a reformed version of Confucianism and establish
 it as a modern religion entailed a good knowledge of the reformed Christian
@@ -524,7 +524,7 @@ doctrine and practice. Lim would have gained his initial knowledge of
 Christianity through the English-language education system he had been
 exposed to from his childhood. According to Khor Eng Hee’s study of Lim’s
 life, however, it was during Lim’s years as a student in Britain that he became
-“inclined” towards Christianity.86 In 1896, Lim married an English- and Chinese-educated Christian woman, Huang Tuan Chiung.87 Hence, Lim’s
+“inclined” towards Christianity.[^86] In 1896, Lim married an English- and Chinese-educated Christian woman, Huang Tuan Chiung.[^87] Hence, Lim’s
 close connection with Christianity continued even as he started working on
 reforming Confucianism and turning it into a modernising social movement
 among the Chinese in and across the Straits. As noted earlier, his fellow
@@ -534,15 +534,15 @@ The relationship between Lim and Christianity entailed his contestation
 of the moral, doctrinal and, later, historical – in other words, secular –
 evidence of its superiority. For instance, in July 1896, Lim publicly reacted
 against missionary work in proselytising Christianity among Chinese school
-children.88 In 1899 he published a series of newspaper opinion articles,
+children.[^88] In 1899 he published a series of newspaper opinion articles,
 writing under two of his pen names Amicus and Historicus.
 
 In “The Advancement of the Straits Chinese”, Amicus was full of praise
 for the SCM as a means of spreading knowledge about Confucius and his
 doctrines, as well as Western knowledge of science and history of religion,
-among the Straits-born Chinese.89 Historicus responded by claiming that if
+among the Straits-born Chinese.[^89] Historicus responded by claiming that if
 Christianity would lose its mythology (i.e. Biblical stories), it would be able
-to equate its doctrine with the Confucianist Golden Rule.90 He also went
+to equate its doctrine with the Confucianist Golden Rule.[^90] He also went
 on to claim that a reformed Confucianism would prove to be the remedy
 for China’s progress. A few days later, Amicus highlighted the similarity
 between the movements to reform Buddhism in Ceylon, Shintoism in
@@ -550,7 +550,7 @@ Japan, as well as Hinduism in the Brahmo Samaj movement in India, and
 the Confucian reformist movement in the Straits.
 
 All these movements attempted to “neutralize the effects of Christianity by
-adopting its methods” but failed to accomplish this task, Amicus argued.91
+adopting its methods” but failed to accomplish this task, Amicus argued.[^91]
 For him, Christianity was still beyond any competition in offering a superior
 morality fit for all nations. Historicus replied by reminding the reader of
 “Dr. Legge’s” favourable academic views of Confucius as a religious teacher,
@@ -559,18 +559,18 @@ too liberal and bold by his fellow missionaries to be accepted at the time.
 
 The main argument Historicus developed in this text was that Confucianism
 was not only compatible, but also doctrinally superior to Christianity in
-providing guidelines for a new, Asia-inclusive or “global” historical order.92
+providing guidelines for a new, Asia-inclusive or “global” historical order.[^92]
 He did so by relying on Legge’s academic authority and his introduction of
 Confucianism into the family of world religions.
 
 In contrast, the Straits missionaries saw Christianity as the only mode of
 sociability conducive to a just management of religious difference in the
-multi-racial British colony.93 They also saw Christianity as a means to, in
+multi-racial British colony.[^93]  They also saw Christianity as a means to, in
 contemporary terms, achieving peaceful and mutually prosperous relations
-with other sovereign states of the period.94 Thus, Cook warned the reader to
+with other sovereign states of the period.[^94] Thus, Cook warned the reader to
 “[b]ehold the ever-growing moral triumphs of Christ in the councils of the
 nations [characterised by] the earnest repression of the warlike spirit [and] the
-amelioration of the depressed races and classes”.95 Apparently, missionaries
+amelioration of the depressed races and classes”.[^95] Apparently, missionaries
 claimed that an egalitarian and inclusive society conducive to a peaceful world
 order was attainable only through the embracement of Christianity.
 
@@ -582,9 +582,9 @@ Lim. A vigorous debate was a means to gaining public attention and
 winning over Chinese readers to join the reform movement and modernise
 through adopting Confucianism. Hence, the SCM abounded in articles
 written by missionaries in which Confucianism appeared morally
-inferior to Christianity.96 In fact, to keep the debate going, Lim himself
+inferior to Christianity.[^96] In fact, to keep the debate going, Lim himself
 wrote articles in which he rejected or supported Biblical teachings and
-Christian practice.97
+Christian practice.[^97]
 
 As we saw earlier, Confucianist counter-arguments, most often authored
 by Lim, were published in the SCM. Lim’s opinion on the socio-political
@@ -599,7 +599,7 @@ that a good state could be informed. Ultimately, all such states would
 join the “federation of the world” marked by “all-embracing benevolence”
 and mutual cooperation of all nations. Only when Confucian ideals were
 embraced by all countries would the “dream of Confucius that a Great
-Peace will unite the nations” be fulfilled.98
+Peace will unite the nations” be fulfilled.[^98]
 
 To Lim, Confucian ideals were open to all nations in the world, not only the
 Chinese. In making this claim, Lim adopted the scientific, comparative or
@@ -609,18 +609,18 @@ in Masuzawa’s sense. Lim was quite persistent in this argument, which he
 developed at the onset of his reformist career. For instance, he claimed,
 as early as 1897, that Confucianism was both “the best religion for the
 Chinese” and “the religion of humanity” – once all superstitions had been
-removed from its practice.99
+removed from its practice.[^99]
 
 In his 1898 reflections on “The Renovation of China”, Lim identified three
-reasons that enabled the progress of Europe.100 These were the emergence
-of science (i.e. the study of nature and inductive philosophy), cultural regeneration and religious reformation.101 He thought that the reform of
-China could not be undertaken from within the country.102 A year later, Lim
+reasons that enabled the progress of Europe.[^100] These were the emergence
+of science (i.e. the study of nature and inductive philosophy), cultural regeneration and religious reformation.[^101] He thought that the reform of
+China could not be undertaken from within the country.[^102] A year later, Lim
 suggested where to look for the agents of a reformed China. He wrote that
 “the Chinese system of thought and social polity must be changed or adapted
 to the newer needs of international intercourse”. What this meant was a
 Confucianism that could only be successfully reformed for its application in
 China by the “free” subjects of the constitutional, liberal-democratic British
-Empire – i.e. the Straits Chinese – so as to facilitate a new world order.103
+Empire – i.e. the Straits Chinese – so as to facilitate a new world order.[^103]
 
 The evangelical missionary view of the world, or a global order as a historical
 effect of Christian teleology, prompted Lim to devise his vision of a
@@ -634,7 +634,7 @@ achievable through education, which, in the spirit of his time, was deemed
 the most efficient method of social engineering. Thus, in his later academic
 career (1921–1937) at the University of Amoy in China, Lim insisted on the
 inclusion of the comparative study of religion in the curriculum intended to
-educate “national leaders” as “ideal Confucian gentlemen”.104
+educate “national leaders” as “ideal Confucian gentlemen”.[^104]
 
 #### **The Science of Religion in the Straits**
 In the Straits of Malacca, as elsewhere in the British empire, Legge’s
@@ -663,34 +663,34 @@ God. For instance, he compared Confucianism, imagined as a philosophy,
 to the work of the Stoics and other Hellenic thinkers. This, as well as his
 comparison of Confucianism to other world religions, attributed “purity”
 from any form of superstition, where Lim included belief in a “man-like”
-God or gods, to Confucianism alone.105
+God or gods, to Confucianism alone.[^105]
 
 Masuzawa notes that the 19th-century discussions of the Hellenic
 prehistory of Christianity, located in the world of late antiquity, enabled
 some scholars to claim its Aryan, rather than Semitic, origin. Such views
 were fairly popular among the intellectuals of the period, despite Max
-Mü ller’s rejection of such theories as unsound.106 This may suggest that
+Mü ller’s rejection of such theories as unsound.[^106] This may suggest that
 Lim’s list of readings went beyond the science of religion in his attempt to
 draw a genealogy of Christianity from religions of ancient China, through
-similarities with ancient Greek beliefs and philosophical teachings.107
+similarities with ancient Greek beliefs and philosophical teachings.[^107]
 
 Many of Lim’s texts on Confucianism were published in the SCM, in
 line with this publication’s foundational, comparativist motive of being
 a journal of Oriental and Occidental culture. This goes to show that the
 SCM was a product of the time, which saw the rise of Max Mü ller’s and Legge’s scientific study of religions through mutual comparison of their
 textual traditions. In 1900, regular SCM columns listing the works on
-China in the Raffles Library108 also included the works of Max Mü ller on
+China in the Raffles Library[^108] also included the works of Max Mü ller on
 the religions of China, identified as Confucianism, Buddhism, Taoism
-and Christianity.109
+and Christianity.[^109]
 
 A few months after Max Mü ller’s death in 1900, the SCM published a
 lengthy obituary commemorating the life and brilliant academic career of
 this “champion of the cause of the misunderstood Asiatics” and “the young
-science of Comparative Philology”.110 Kong Tian Cheng, who authored this
+science of Comparative Philology”.[^110] Kong Tian Cheng, who authored this
 as well as the previously quoted article, gave a comprehensive overview of
 Max Mü ller’s scholarly projects and achievements. Kong commented on
 Max Mü ller’s lectures on the new discipline of science of religion, and duly
-mentioned the collaboration between Max Mü ller and Legge.111
+mentioned the collaboration between Max Mü ller and Legge.[^111]
 
 During the next few years, Lim published a series of texts in which he
 contested Legge’s interpretation of the inferior position of Confucianism
@@ -713,7 +713,7 @@ concept of God:
    the name Jahve, as explained by God Himself to Moses; Tî has<br> 
    presented that absolute deity in the relation to men of their lord and<br> 
    governor. Tî was to the Chinese fathers, I believe, exactly what God<br> 
-   was to our fathers, whenever they took the great name on their lip*.112
+   was to our fathers, whenever they took the great name on their lip*.[^112]
 
 In his 1904 article on Confucian cosmogony and theism quoted earlier,
 Lim directly responded to Legge’s definition of a Chinese God through
@@ -728,7 +728,7 @@ used this perceived similarity to attract the Chinese to Christianity.
    *[…] There does not seem to be any vital difference except that the<br> 
    two tribes, Chinese and Jews, are quite distinct. Missionaries,<br> 
    however, forgetting the possibility of independent tribal religions,<br> 
-claim that Shang-ti and Jehovah are synonymous*.113
+claim that Shang-ti and Jehovah are synonymous*.[^113]
 
 Lim’s argument against the fulfilment of Confucianism through the
 conversion of the Chinese to Christianity relies on the academic authority
@@ -737,7 +737,7 @@ Max Mü ller’s concept of three language and religion families – i.e. Aryan
 Semitic and Turanian (which included the Chinese) – makes it difficult “to
 make the case that Christianity was the culmination and the fulfilment
 of all other religions, as many contemporary theologians did, or that
-Christianity was the embodiment of what was inherently universal”.114 That
+Christianity was the embodiment of what was inherently universal”.[^114]  That
 Lim was familiar with the potentially emancipatory effect of Max Mü ller’s
 epistemology is illustrated in Lim’s claim to “tribal independence” of
 Confucianism as the religion of the Chinese.
@@ -756,15 +756,15 @@ Heaven in Peking:
    the doxology to – it must have seemed to him – the unknown God.<br>
    Yet he had persuaded himself that he was addressing the Heaven,<br>
    the philosophic ideal of Confucianism, Shang-ti, the God of the<br>
-   semi-civilized Chinese, or Jehovah, the God of the nomadic Jews*.115
+   semi-civilized Chinese, or Jehovah, the God of the nomadic Jews*.[^115]
 
 Lim’s view that Heaven is an abstract Confucianist concept introduced to
-unite people was developed in an article published several years earlier.116
+unite people was developed in an article published several years earlier.[^116]
 There, Lim already compared Shang-ti with the God of the Israelites and
 argued that Confucianism alone, among the great world religions, was
 based on “pure monotheism”, devoid of any mythologies and superstitions.
 He also explained that there in the worship of Heaven, “the people will be
-united” while “their thoughts will be lifted up and their hearts rectified”.117
+united” while “their thoughts will be lifted up and their hearts rectified”.[^117]
 Apparently, Lim’s interest in the science of religion can be traced back
 to the 1890s, but could have been triggered earlier, during his studies
 in Edinburgh.
@@ -778,14 +778,14 @@ the Temple of Heaven was, in turn, unfavourable.
    *As for worshipping Heaven as the grand ideal of humanity, we<br>
    [the Confucianists] reserve it for an Emperor. The worship of God<br>
    of Heaven at Peking is not a sacrifice in the Christian sense but a<br>
-   religious rite*.118
+   religious rite*.[^118]
 
 In his 1899 article on religion, Lim already argued against the worship
 of Heaven as an act of sacrifice, explaining that it was “a service of
-thanksgiving for the Divine mercy and goodness”.119
+thanksgiving for the Divine mercy and goodness”.[^119]
 
 In his article “The Confucian Ideal”, Lim offered his view of the superior
-place of Confucianism among other world religions.120 Whereas Legge
+place of Confucianism among other world religions.[^120] Whereas Legge
 saw Confucianism as an impediment to the progress of the Chinese,
 Lim discussed Confucianism in a global, transnational context. Thus,
 Lim thought it was a religion compatible with modern science and
@@ -798,7 +798,7 @@ world progress:
    of modern science destroy none of its doctrines, and the progress of<br> 
    the world should in time hasten its extensive propagation; for it is<br> 
    certainly the most ancient as well as the most successful religion<br> 
-   of humanity*.121
+   of humanity*.[^121]
 
 Clearly, then, within the first few years of the last century, Lim’s
 conceptualisation of Confucianism as a world religion capable of facilitating
@@ -830,7 +830,7 @@ Academic approach to the study of religions relied on the method of
 comparison of religions as objects of study. However, both Max Mü ller
 and Legge gave a good head-start to Christianity by placing it beyond
 comparison or establishing its moral *and* analytical superiority by signifying
-it as a subject of study, rather than an object.122 Missionaries, in addition,
+it as a subject of study, rather than an object.[^122] Missionaries, in addition,
 insisted on the argument of Christianity’s moral superiority in organising
 not only a just inter-racial (hence inter-religious) order in the empire, but
 offering an ethical basis for the development of a just world order.
@@ -876,7 +876,7 @@ order, today’s Western contestations of China’s legitimacy as a world leader
 are organised around the tropes of the country’s allegedly Confucianist
 authoritarianism. In other words, depicted as insufficiently democratic,
 China’s governing order as an alternative to liberal democracy is frequently
-contested at the level of its foundational Confucian ethics.123
+contested at the level of its foundational Confucian ethics.[^123]
 
 This line of critique of China and Confucianism, however, is based on
 a prescriptive reading of history, which precludes an understanding of
@@ -968,248 +968,248 @@ Yen, Ching-Hwang. “The Confucian Revival Movement in Singapore and Malaysia, 1
 
 #### **NOTES**      
 
-1 Anna Sun, _Confucianism as a World Religion: Contested Histories and Contemporary Realities_ (Princeton: Princeton University Press, 2013), 38–39, 45–47. (From OverDrive. (myLibrary ID is required to access this ebook)
+[^1]: Anna Sun, _Confucianism as a World Religion: Contested Histories and Contemporary Realities_ (Princeton: Princeton University Press, 2013), 38–39, 45–47. (From OverDrive. (myLibrary ID is required to access this ebook)
 
-&nbsp;2 Peter Van Der Veer, _The Modern Spirit of Asia: The Spiritual and the Secular in China and India_ (Princeton, New Jersey: Princeton University Press, 2014), 167.
+[^2]: Peter Van Der Veer, _The Modern Spirit of Asia: The Spiritual and the Secular in China and India_ (Princeton, New Jersey: Princeton University Press, 2014), 167.
 
-3 Van Der Veer, _The Modern Spirit of Asia_, 167.
+[^3]: Van Der Veer, _The Modern Spirit of Asia_, 167.
 
-4 Yen Ching-Hwang, “The Confucian Revival Movement in Singapore and Malaysia, 1899–1911,” _Journal of Southeast Asian Studies_ 7, no. 1 (March 1976): 33–57; Yen Ching-Hwang, “Overseas Chinese Nationalism in Singapore and Malaysia, 1877–1912,” _Modern Asian Studies_ 16, no. 2 (1982): 397–425; Mark Ravinder Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” _Journal of Southeast Asian Studies_ 36, no. 1 (February 2005): 29–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^4]: Yen Ching-Hwang, “The Confucian Revival Movement in Singapore and Malaysia, 1899–1911,” _Journal of Southeast Asian Studies_ 7, no. 1 (March 1976): 33–57; Yen Ching-Hwang, “Overseas Chinese Nationalism in Singapore and Malaysia, 1877–1912,” _Modern Asian Studies_ 16, no. 2 (1982): 397–425; Mark Ravinder Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” _Journal of Southeast Asian Studies_ 36, no. 1 (February 2005): 29–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-5 Michael R. Goodley, “The Treaty Port Connection: An Essay,” _Journal of Southeast Asian Studies_ 12, no. 1 (March 1981): 253. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^5]: Michael R. Goodley, “The Treaty Port Connection: An Essay,” _Journal of Southeast Asian Studies_ 12, no. 1 (March 1981): 253. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-6 Tomoko Masuzawa, _The Invention of World Religions: Or How European Universalism Was Preserved in the Language of Pluralism_ (Chicago: The University of Chicago Press, 2005)
+[^6]: Tomoko Masuzawa, _The Invention of World Religions: Or How European Universalism Was Preserved in the Language of Pluralism_ (Chicago: The University of Chicago Press, 2005)
 
-7 Masuzawa, _Invention of World Religions_, xi.
+[^7]: Masuzawa, _Invention of World Religions_, xi.
 
-8 Masuzawa, _Invention of World Religions_, 18.
+[^8]: Masuzawa, _Invention of World Religions_, 18.
 
-9 Talal Asad, _Formations of the Secular: Christianity, Islam, Modernity_ (Stanford, California: Stanford University Press, 2003)
+[^9]: Talal Asad, _Formations of the Secular: Christianity, Islam, Modernity_ (Stanford, California: Stanford University Press, 2003)
 
-10 A comprehensive biography of James Legge can be found in Marilyn Laura Bowman, _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_ (Fort St Victoria (BC): FriesenPress, 2016); N. J. Girardot, _The Victorian Translation of China: James Legge’s Oriental Pilgrimage_ (Berkeley: University of California Press, 2002); For a shorter version of Legge’s biography see L. Ride, _“_Bibliographical Note,” in _The Chinese Classics: With a Translation, Critical and Exegetical Notes, Prolegomena and Copious Indexes_, ed. James Legge (Hong Kong: Hong Kong University Press, 1970), 1–25_._
+[^10]: A comprehensive biography of James Legge can be found in Marilyn Laura Bowman, _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_ (Fort St Victoria (BC): FriesenPress, 2016); N. J. Girardot, _The Victorian Translation of China: James Legge’s Oriental Pilgrimage_ (Berkeley: University of California Press, 2002); For a shorter version of Legge’s biography see L. Ride, _“_Bibliographical Note,” in _The Chinese Classics: With a Translation, Critical and Exegetical Notes, Prolegomena and Copious Indexes_, ed. James Legge (Hong Kong: Hong Kong University Press, 1970), 1–25.
 
-11 Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 39–42; 57–60; 64–65.
+[^11]: Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 39–42; 57–60; 64–65.
 
-12 Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287) (Singapore: Oxford University Press, 1984), 76–79. (From National Library Singapore, call no. RCLOS 959.57 SON-\[HIS\])
+[^12]: Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287) (Singapore: Oxford University Press, 1984), 76–79. (From National Library Singapore, call no. RCLOS 959.57 SON-\[HIS\])
 
-13 Song H. K., “Reminiscences of Dr. Legge in Malacca,” _Straits Chinese magazine_ 2, no. 5 (March 1898): 9–12) (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Song H. K., “With Dr. Legge in England,” _Straits Chinese magazine_ 2, no. 7 (September 1898): 105–8. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^13]: Song H. K., “Reminiscences of Dr. Legge in Malacca,” _Straits Chinese magazine_ 2, no. 5 (March 1898): 9–12) (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Song H. K., “With Dr. Legge in England,” _Straits Chinese magazine_ 2, no. 7 (September 1898): 105–8. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-14 Henceforth identified as SCM or Magazine. For an overview of the scope, impact and topics covered in the magazine, see Bonny Tan, “[The Straits Chinese Magazine: A Malayan Voice](https://biblioasia.nlb.gov.sg/vol-7/issue-2/jul-2011/straits-chinese-magazine-malayan/),” _BiblioAsia_ 7, no. 2 (July–August)
+[^14]: Henceforth identified as SCM or Magazine. For an overview of the scope, impact and topics covered in the magazine, see Bonny Tan, “[The Straits Chinese Magazine: A Malayan Voice](https://biblioasia.nlb.gov.sg/vol-7/issue-2/jul-2011/straits-chinese-magazine-malayan/),” _BiblioAsia_ 7, no. 2 (July–August)
 
-15 Lu W, “The Straits Settlements Scholarship,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 86–87. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^15]: Lu W, “The Straits Settlements Scholarship,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 86–87. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-16 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 78–79.
+[^16]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 78–79.
 
-17 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), vii.
+[^17]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), vii.
 
-18 “Editorial,” _Straits Chinese Magazine_ 1, no. 1 (March 1897): 2. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^18]: “Editorial,” _Straits Chinese Magazine_ 1, no. 1 (March 1897): 2. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-19 The third editor was Gnoh Lean Tuck, Lim’s brother-in-law. See Ang Seow Leng, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/),” _BiblioAsia_ 2, no. 4 (January–March 2007)
+[^19]: The third editor was Gnoh Lean Tuck, Lim’s brother-in-law. See Ang Seow Leng, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/),” _BiblioAsia_ 2, no. 4 (January–March 2007)
 
-20 Sun’s study of Confucianism as a world religion does not comment on the contribution of the Straits Chinese Confucian reformists, such as Lim Boon Keng, to the history of this religion. Recently, a book with Chinese translations of Lim Boon Keng’s texts on Confucianism was published in an attempt to include the study of Lim’s contribution to “the Chinese history of philosophy and the history of Confucianism”. See Lim Boon Keng, [_Essays of Lim Boon Keng on Confucianism: With Chinese Translations_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201007236), trans. Yan Chunbao (Singapore: World Scientific, 2014), 22. (From National Library Singapore, call no. RSING 181.112 LIM)
+[^20]: Sun’s study of Confucianism as a world religion does not comment on the contribution of the Straits Chinese Confucian reformists, such as Lim Boon Keng, to the history of this religion. Recently, a book with Chinese translations of Lim Boon Keng’s texts on Confucianism was published in an attempt to include the study of Lim’s contribution to “the Chinese history of philosophy and the history of Confucianism”. See Lim Boon Keng, [_Essays of Lim Boon Keng on Confucianism: With Chinese Translations_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201007236), trans. Yan Chunbao (Singapore: World Scientific, 2014), 22. (From National Library Singapore, call no. RSING 181.112 LIM)
 
-21 Masuzawa, _Invention of World Religions_, 209–10.
+[^21]: Masuzawa, _Invention of World Religions_, 209–10.
 
-22 Masuzawa, _Invention of World Religions_, 206–44.
+[^22]: Masuzawa, _Invention of World Religions_, 206–44.
 
-23 Masuzawa, _Invention of World Religions_, 241–42.
+[^23]: Masuzawa, _Invention of World Religions_, 241–42.
 
-24 Masuzawa, _Invention of World Religions_, 138.
+[^24]: Masuzawa, _Invention of World Religions_, 138.
 
-25 Masuzawa, _Invention of World Religions_, 214n12.
+[^25]: Masuzawa, _Invention of World Religions_, 214n12.
 
-26 James Legge, _The Chinese Classics_, vol. 1 (London: Trübner, 1861), vii. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\]; microfilm NL28982, NL28983). As a missionary and educator, Samuel Kidd (1804–1831) had been stationed at Malacca long before Legge arrived there. See, for instance, Kidd’s report on the difficult circumstances surrounding his teaching and preaching efforts in Malacca for the year 1829. Samuel Kidd, [_Report of_ _the Chinese Mission at Malacca_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969943) (Malacca: The Mission Press, 1830). (From National Library Singapore, call no. RCLOS 266.009595 KID)
+[^26]: James Legge, _The Chinese Classics_, vol. 1 (London: Trübner, 1861), vii. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\]; microfilm NL28982, NL28983). As a missionary and educator, Samuel Kidd (1804–1831) had been stationed at Malacca long before Legge arrived there. See, for instance, Kidd’s report on the difficult circumstances surrounding his teaching and preaching efforts in Malacca for the year 1829. Samuel Kidd, [_Report of_ _the Chinese Mission at Malacca_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969943) (Malacca: The Mission Press, 1830). (From National Library Singapore, call no. RCLOS 266.009595 KID)
 
-27 Legge, _Chinese Classics_, vol. 1, vii–ix.
+[^27]: Legge, _Chinese Classics_, vol. 1, vii–ix.
 
-28 Legge, _Chinese Classics_, vol. 1, 1.
+[^28]: Legge, _Chinese Classics_, vol. 1, 1.
 
-29 Legge, _Chinese Classics_, vol. 1, viii–x.
+[^29]: Legge, _Chinese Classics_, vol. 1, viii–x.
 
-30 Legge, _Chinese Classics_, vol. 1, vii.
+[^30]: Legge, _Chinese Classics_, vol. 1, vii.
 
-31 Legge, Chinese Classics, vol. 1, viii–ix.
+[^31]: Legge, Chinese Classics, vol. 1, viii–ix.
 
-32 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76.
+[^32]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76.
 
-33 Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
+[^33]: Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
 
-34 Song, “Reminiscences of Dr. Legg in Malacca,” 10.
+[^34]: Song, “Reminiscences of Dr. Legg in Malacca,” 10.
 
-35 Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
+[^35]: Song, “Reminiscences of Dr. Legg in Malacca,” 11–12.
 
-36 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76; Song, “With Dr. Legge in England,” 105–6.
+[^36]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 76; Song, “With Dr. Legge in England,” 105–6.
 
-37 Song, “With Dr. Legge in England,” 105–8.
+[^37]: Song, “With Dr. Legge in England,” 105–8.
 
-38 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 77–78.
+[^38]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 77–78.
 
-39 Song, “With Dr. Legge in England,” 108.
+[^39]: Song, “With Dr. Legge in England,” 108.
 
-40 A newspaper article published in 1874 in a Singaporean newspaper mentions Legge’s “matchless” scholarship and missionary work. A Military Exile, “[English Life in Hong Kong](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18741207-1.2.8),” _Straits Observer_, 7 December 1874, 3. (From NewspaperSG)
+[^40]: A newspaper article published in 1874 in a Singaporean newspaper mentions Legge’s “matchless” scholarship and missionary work. A Military Exile, “[English Life in Hong Kong](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18741207-1.2.8),” _Straits Observer_, 7 December 1874, 3. (From NewspaperSG)
 
-41 James Legge, _The Chinese Classics_, vol. 3, part 1 (London: Trübner, 1961), vi. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\])
+[^41]: James Legge, _The Chinese Classics_, vol. 3, part 1 (London: Trübner, 1961), vi. (From National Library Singapore, call no. RRARE 895.1 LEG-\[RFL\])
 
-42 Sun, _Confucianism as a World Religion_, 40.
+[^42]: Sun, _Confucianism as a World Religion_, 40.
 
-43 Van Der Veer, _The Modern Spirit of Asia_, 78–79; Sun, _Confucianism as a World Religion_, 57–58; 60–62.
+[^43]: Van Der Veer, _The Modern Spirit of Asia_, 78–79; Sun, _Confucianism as a World Religion_, 57–58; 60–62.
 
-44 Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 47, 51.
+[^44]: Van Der Veer, _The Modern Spirit of Asia_, 78–83; Sun, _Confucianism as a World Religion_, 47, 51.
 
-45 James Legge, “Preface,” in _The Sacred Books of the East,_ vol. 1, ed. Friedrich Max Müller (London: Clarendon Press, 1879), xli. (From National Library Singapore, call no. RRARE 294 SAC)
+[^45]: James Legge, “Preface,” in _The Sacred Books of the East,_ vol. 1, ed. Friedrich Max Müller (London: Clarendon Press, 1879), xli. (From National Library Singapore, call no. RRARE 294 SAC)
 
-46 Legge, ‘Preface,” xl.
+[^46]: Legge, ‘Preface,” xl.
 
-47 Although in retrospect Max Müller is acknowledged as contributor to the development of the concept of “world religions”, Masuzawa shows that he never mentioned or used that term. Masuzawa, _Invention of World Religions_, 303–4.
+[^47]: Although in retrospect Max Müller is acknowledged as contributor to the development of the concept of “world religions”, Masuzawa shows that he never mentioned or used that term. Masuzawa, _Invention of World Religions_, 303–4.
 
-48 Legge, ‘Preface,” xli.
+[^48]: Legge, ‘Preface,” xli.
 
-49 Sun, _Confucianism as a World Religion_, 64; James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 3, ed. Friedrich Max Müller (London: Clarendon Press, 1879) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26410); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 16, ed. Friedrich Max Müller (London: Clarendon Press, 1882) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26416); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 27, ed. Friedrich Max Müller (London: Clarendon Press, 1885) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 28, ed. Friedrich Max Müller (London: Clarendon Press, 1886) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421)
+[^49]: Sun, _Confucianism as a World Religion_, 64; James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 3, ed. Friedrich Max Müller (London: Clarendon Press, 1879) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26410); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 16, ed. Friedrich Max Müller (London: Clarendon Press, 1882) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26416); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 27, ed. Friedrich Max Müller (London: Clarendon Press, 1885) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421); James Legge, “Confucianism,” in _The Sacred Books of the East,_ vol. 28, ed. Friedrich Max Müller (London: Clarendon Press, 1886) (From National Library Singapore, call no. RRARE 294 SAC; microfilm NL26421)
 
-50 Sun, _Confucianism as a World Religion_, 38–39; 45–47.
+[^50]: Sun, _Confucianism as a World Religion_, 38–39; 45–47.
 
-51 Legge, “Confucianism,” vol. 3, xii–xiv, xxi.
+[^51]: Legge, “Confucianism,” vol. 3, xii–xiv, xxi.
 
-52 James Legge, [_The Religions of China: Confucianism and Tâoism Described and Compared With Christianity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706) (London: Hodder and Stoughton, 1880), 3–6. (From National Library Singapore, call no. RCLOS 299.51 LEG)
+[^52]: James Legge, [_The Religions of China: Confucianism and Tâoism Described and Compared With Christianity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706) (London: Hodder and Stoughton, 1880), 3–6. (From National Library Singapore, call no. RCLOS 299.51 LEG)
 
-53 Sun, _Confucianism as a World Religion_, 39, 41, 45.
+[^53]: Sun, _Confucianism as a World Religion_, 39, 41, 45.
 
-54 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 254–55.
+[^54]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 254–55.
 
-55 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 248–51.
+[^55]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 248–51.
 
-56 Legge’s visit to the temple was described in an 1899 newspaper article, written by an anonymous correspondent, according to whom “the late Dr. Legge, when in China, used to be regarded as more Confucian than the Confucianite”. “[The Confucian Cult](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18991125-1.2.9),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1899, 2. (From NewspaperSG)
+[^56]: Legge’s visit to the temple was described in an 1899 newspaper article, written by an anonymous correspondent, according to whom “the late Dr. Legge, when in China, used to be regarded as more Confucian than the Confucianite”. “[The Confucian Cult](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18991125-1.2.9),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1899, 2. (From NewspaperSG)
 
-57 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 91–92, 251.
+[^57]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 91–92, 251.
 
-58 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 251.
+[^58]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 251.
 
-59 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 296.
+[^59]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 296.
 
-60 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 104–5.
+[^60]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 104–5.
 
-61 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 105–6.
+[^61]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 105–6.
 
-62 “[The Dead Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070522-1.2.24),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 22 May 1907, 4; “[Missionary Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191125-1.2.50),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1919, 12. (From NewspaperSG)
+[^62]: “[The Dead Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070522-1.2.24),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 22 May 1907, 4; “[Missionary Pioneers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191125-1.2.50),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 25 November 1919, 12. (From NewspaperSG)
 
-63 J. A. B. Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” _Straits Chinese Magazine_ 2, no. 5 (March 1898): 7–9. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^63]: J. A. B. Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” _Straits Chinese Magazine_ 2, no. 5 (March 1898): 7–9. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-64 Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 7.
+[^64]: Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 7.
 
-65 Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 8.
+[^65]: Cook, “James Legge M.A., D.D., LL.D. I. Biographical Notice,” 8.
 
-66 W. Murray, “Where Confucius Fails,” _Straits Chinese Magazine_ 9, no. 2 (June 1905): 59. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^66]: W. Murray, “Where Confucius Fails,” _Straits Chinese Magazine_ 9, no. 2 (June 1905): 59. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-67 Murray, Where Confucius Fails,” 66.
+[^67]: Murray, Where Confucius Fails,” 66.
 
-68 Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957: A Select Annotated Bibliography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021) (Singapore: National Library Board, 2007), 14. (From National Library Singapore, call no. RSING 016.36192 LIM-\[LIB\])
+[^68]: Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957: A Select Annotated Bibliography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021) (Singapore: National Library Board, 2007), 14. (From National Library Singapore, call no. RSING 016.36192 LIM-\[LIB\])
 
-69 “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 1 June 1905, 344. (From NewspaperSG)
+[^69]: “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 1 June 1905, 344. (From NewspaperSG)
 
-70 Sun, _Confucianism as a World Religion_, 38–42, 47–48, 57–60.
+[^70]: Sun, _Confucianism as a World Religion_, 38–42, 47–48, 57–60.
 
-71 Sun, _Confucianism as a World Religion_, 60.
+[^71]: Sun, _Confucianism as a World Religion_, 60.
 
-72 Van Der Veer, _The Modern Spirit of Asia_, 81–82.
+[^72]: Van Der Veer, _The Modern Spirit of Asia_, 81–82.
 
-73 Lim Boon Keng, “Ethical Education for the Straits Chinese,” _Straits Chinese Magazine_ 8, no. 1 (March 1904): 26. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^73]: Lim Boon Keng, “Ethical Education for the Straits Chinese,” _Straits Chinese Magazine_ 8, no. 1 (March 1904): 26. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-74 “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60).”
+[^74]: “[Mr Murray’s Criticism of Confucius](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19050601-1.2.60).”
 
-75 Mayo, “The Religious Ideal,” _Straits Chinese Magazine_ 9, no. 3 (September 1905): 123–25. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^75]: Mayo, “The Religious Ideal,” _Straits Chinese Magazine_ 9, no. 3 (September 1905): 123–25. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-76 Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 1907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
+[^76]: Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 1907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
 
-77 For an overview of Lim Boon Keng’s life and career, see Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/)”; Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021).
+[^77]: For an overview of Lim Boon Keng’s life and career, see Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/)”; Singapore. National Library Board, [_Lim Boon Keng: A Life To Remember, 1869–1957_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12949021).
 
-78 Lim Boon Keng, “Straits Chinese Reform. I: The Queue Question,” _Straits Chinese Magazine_ 3, no, 2 (March 1899): 23. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^78]: Lim Boon Keng, “Straits Chinese Reform. I: The Queue Question,” _Straits Chinese Magazine_ 3, no, 2 (March 1899): 23. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-79 Historicus, “Her Late Majesty the Queen Empress,” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 1. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^79]: Historicus, “Her Late Majesty the Queen Empress,” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 1. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-80 Editorial, “The Race Question in Colonial Administration,” _Straits Chinese Magazine_ 9, no. 1 (March 1905): 1–6. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^80]: Editorial, “The Race Question in Colonial Administration,” _Straits Chinese Magazine_ 9, no. 1 (March 1905): 1–6. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-81 Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/).”
+[^81]: Ang, “[Of Towchangs and the ‘Republic Beard’: Dr Lim Boon Keng’s Life and Achievements](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/lim-boon-keng-towchang-beard/).”
 
-82 Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” 54–56.
+[^82]: Frost, “Emporium in Imperio Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” 54–56.
 
-83 “[Chinese Christian Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18930808-1.2.62),” _Straits Times Weekly Issue_, 8 August 1893, 8. (From NewspaperSG)
+[^83]: “[Chinese Christian Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18930808-1.2.62),” _Straits Times Weekly Issue_, 8 August 1893, 8. (From NewspaperSG)
 
-84 “The Philomantic Society, Singapore,” _Straits Chinese Magazine_ 1, no.1 (March 1897): 32. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^84]: “The Philomantic Society, Singapore,” _Straits Chinese Magazine_ 1, no.1 (March 1897): 32. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-85 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 23.
+[^85]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287), 23.
 
-86 Khor Eng Hee, [_The Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432) (Singapore: University of Malaya, 1958), 4, no. 22. (From National Library Singapore, call no. RDTYS 361.924 LIM.K)
+[^86]: Khor Eng Hee, [_The Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432) (Singapore: University of Malaya, 1958), 4, no. 22. (From National Library Singapore, call no. RDTYS 361.924 LIM.K)
 
-87 Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 21.
+[^87]: Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 21.
 
-88 Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 23n10.
+[^88]: Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 23n10.
 
-89 Amicus, “[Correspondence: The Advancement of the Straits Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18990713-1.2.45),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 13 July 1899, 6. (From NewspaperSG)
+[^89]: Amicus, “[Correspondence: The Advancement of the Straits Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18990713-1.2.45),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 13 July 1899, 6. (From NewspaperSG)
 
-90 Historicus, “[The Moral Advancement of the Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990713-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 13 July 1899, 3. (From NewspaperSG)
+[^90]: Historicus, “[The Moral Advancement of the Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990713-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 13 July 1899, 3. (From NewspaperSG)
 
-91 Amicus, “[The Attempt to Rejuvenate Confucianism](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990715-1.2.18.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 15 July 1899, 3. (From NewspaperSG)
+[^91]: Amicus, “[The Attempt to Rejuvenate Confucianism](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990715-1.2.18.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 15 July 1899, 3. (From NewspaperSG)
 
-92 Historicus, “[A Confucian Revival](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990718-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 18 July 1899, 3. (From NewspaperSG)
+[^92]: Historicus, “[A Confucian Revival](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18990718-1.2.11.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 18 July 1899, 3. (From NewspaperSG)
 
-93 W. Murray, “Moral Culture,” _Straits Chinese Magazine_ 1, no. 4 (December 1897): 127–29. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^93]: W. Murray, “Moral Culture,” _Straits Chinese Magazine_ 1, no. 4 (December 1897): 127–29. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-94 J. A. B. Cook, “The Christian Morality,” _Straits Chinese Magazine_ 6, no. 21 (March 1902): 8–11. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^94]: J. A. B. Cook, “The Christian Morality,” _Straits Chinese Magazine_ 6, no. 21 (March 1902): 8–11. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-95 Cook, “The Christian Morality,” 9.
+[^95]: Cook, “The Christian Morality,” 9.
 
-96 For instance, see C. Phillips, “What Is Confucianism,” _Straits Chinese Magazine_ 4, no. 15 (September 1900): 118–20 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Cook, “The Christian Morality,” 8–11; W. Murray, “Confucianism and Christianity,” _Straits Chinese Magazine_ 8, no. 3 (September 1904): 128–30. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^96]: For instance, see C. Phillips, “What Is Confucianism,” _Straits Chinese Magazine_ 4, no. 15 (September 1900): 118–20 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Cook, “The Christian Morality,” 8–11; W. Murray, “Confucianism and Christianity,” _Straits Chinese Magazine_ 8, no. 3 (September 1904): 128–30. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-97 For instance, a 1901 debate between Historicus and Evangelicus (both Lim’s pseudonyms) was framed in relation to Biblical teachings and Christian practice through history. Historicus, “Reflections and Biblical Teachings and Christian Practice,” _Straits Chinese Magazine_ 5, no. 19 (September 1901): 104–8; Evangelicus, “Biblical Teaching and Christian Practice,” _Straits Chinese Magazine_ 20, no. 5 (December 1901): 141–7. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^97]: For instance, a 1901 debate between Historicus and Evangelicus (both Lim’s pseudonyms) was framed in relation to Biblical teachings and Christian practice through history. Historicus, “Reflections and Biblical Teachings and Christian Practice,” _Straits Chinese Magazine_ 5, no. 19 (September 1901): 104–8; Evangelicus, “Biblical Teaching and Christian Practice,” _Straits Chinese Magazine_ 20, no. 5 (December 1901): 141–7. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-98 Lim Boon Keng, “The Confucian Ideal,” _Straits Chinese Magazine_ 3, no. 9 (September 1905): 115–19 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was delivered as a lecture on the occasion of Confucius’ birthday celebrated at the gathering held on 25 September 1905 at “the Confucius School” in Amoy Street. “[Confucius Day: Interesting Lecture by Dr. Lim Boon Keng](https://eresources.nlb.gov.sg/newspapers/digitised/article/easterndaily19050926-1.2.10),” _Eastern Daily Mail and Straits Morning Advertiser_, 26 September 1905, 2. (From NewpaperSG)
+[^98]: Lim Boon Keng, “The Confucian Ideal,” _Straits Chinese Magazine_ 3, no. 9 (September 1905): 115–19 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was delivered as a lecture on the occasion of Confucius’ birthday celebrated at the gathering held on 25 September 1905 at “the Confucius School” in Amoy Street. “[Confucius Day: Interesting Lecture by Dr. Lim Boon Keng](https://eresources.nlb.gov.sg/newspapers/digitised/article/easterndaily19050926-1.2.10),” _Eastern Daily Mail and Straits Morning Advertiser_, 26 September 1905, 2. (From NewpaperSG)
 
-99 Lim Boon Keng, “Our Enemies,” _Straits Chinese Magazine_ 1, no. 2 (June 1887): 57–58 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was originally delivered as the “presidential address” to the Chinese Philomantic Society in March 1897.
+[^99]: Lim Boon Keng, “Our Enemies,” _Straits Chinese Magazine_ 1, no. 2 (June 1887): 57–58 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). This essay was originally delivered as the “presidential address” to the Chinese Philomantic Society in March 1897.
 
-100 Lim Boon Keng, “The Renovation of China 1: Internal Struggles,” _Straits Chinese Magazine_ 3, no. 7 (September 1898): 88–93. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). The article was originally written in 1895.
+[^100]: Lim Boon Keng, “The Renovation of China 1: Internal Struggles,” _Straits Chinese Magazine_ 3, no. 7 (September 1898): 88–93. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267). The article was originally written in 1895.
 
-101 Lim, “The Renovation of China 1,” 89–90.
+[^101]: Lim, “The Renovation of China 1,” 89–90.
 
-102 Lim, “The Renovation of China 1,” 92.
+[^102]: Lim, “The Renovation of China 1,” 92.
 
-103 Lim Boon Keng, “Straits Chinese Reform: I: The Queue Question,” 23.
+[^103]: Lim Boon Keng, “Straits Chinese Reform: I: The Queue Question,” 23.
 
-104 Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 39.
+[^104]: Khor, [_Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980432), 39.
 
-105 Lim Boon Keng, “Confucian Cosmogony and Theism,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 78–85 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “Confucian View of Human Nature,” _Straits Chinese Magazine_ 8, no. 3 (September 1902): 144–50 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
+[^105]: Lim Boon Keng, “Confucian Cosmogony and Theism,” _Straits Chinese Magazine_ 8, no. 2 (June 1904): 78–85 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “Confucian View of Human Nature,” _Straits Chinese Magazine_ 8, no. 3 (September 1902): 144–50 (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267); Lim Boon Keng, “The Confucian Ethics of Friendship,” _Straits Chinese Magazine_ 11, no. 2 (June 907): 73–78. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL268)
 
-106 Masuzawa, _Invention of World Religions_, 244–49.
+[^106]: Masuzawa, _Invention of World Religions_, 244–49.
 
-107 Lim was certainly familiar with Theosophy, since he lamented about its popularity among the Straits Chinese and identified it as one of “religions” that the Straits Chinese youth were turning to in the period. See Lim, “Our Enemies,” 53.
+[^107]: Lim was certainly familiar with Theosophy, since he lamented about its popularity among the Straits Chinese and identified it as one of “religions” that the Straits Chinese youth were turning to in the period. See Lim, “Our Enemies,” 53.
 
-108 The column was first introduced in 1899. Kong T. C. “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 3, no. 11 (September 1899): 97–101. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^108]: The column was first introduced in 1899. Kong T. C. “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 3, no. 11 (September 1899): 97–101. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-109 The column was first introduced in 1899. Kong, “List of Works Relating to China in the Raffles Library, Singapore,” 141; For Max Müller’s work held in the Raffles Library, see Kong T. C., “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 4, no. 16 (December 1900): 141. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^109]: The column was first introduced in 1899. Kong, “List of Works Relating to China in the Raffles Library, Singapore,” 141; For Max Müller’s work held in the Raffles Library, see Kong T. C., “List of Works Relating to China in the Raffles Library, Singapore,” _Straits Chinese Magazine_ 4, no. 16 (December 1900): 141. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-110 Kong T. C., “Friedrich Max-Muller (1823–1900),” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 10–19. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^110]: Kong T. C., “Friedrich Max-Muller (1823–1900),” _Straits Chinese Magazine_ 5, no. 17 (March 1901): 10–19. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-111 Kong, “Friedrich Max-Muller (1823–1900),” 16–18.
+[^111]: Kong, “Friedrich Max-Muller (1823–1900),” 16–18.
 
-112 Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 10–11.
+[^112]: Legge, [_The Religions of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2269706), 10–11.
 
-113 Lim, “Confucian Cosmogony and Theism,” 81.
+[^113]: Lim, “Confucian Cosmogony and Theism,” 81.
 
-114 Masuzawa, _Invention of World Religions_, 214n12.
+[^114]: Masuzawa, _Invention of World Religions_, 214n12.
 
-115 Lim, “Confucian Cosmogony and Theism,” 81–82. (Emphasis added.)
+[^115]: Lim, “Confucian Cosmogony and Theism,” 81–82. (Emphasis added.)
 
-116 Lim Boon Keng, “Chinese Reform. IV: Religion,” _Straits Chinese Magazine_ 3, no. 12 (December 1899): 161–66. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
+[^116]: Lim Boon Keng, “Chinese Reform. IV: Religion,” _Straits Chinese Magazine_ 3, no. 12 (December 1899): 161–66. (From National Library Singapore, call no. RRARE 959.5 STR; microfilm NL267)
 
-117 Lim, “Chinese Reform. IV: Religion,” 166.
+[^117]: Lim, “Chinese Reform. IV: Religion,” 166.
 
-118 Lim, “Confucian Cosmogony and Theism,” 84.
+[^118]: Lim, “Confucian Cosmogony and Theism,” 84.
 
-119 Lim, “Chinese Reform. IV: Religion,” 166.
+[^119]: Lim, “Chinese Reform. IV: Religion,” 166.
 
-120 Lim, “The Confucian Ideal,” 115–19.
+[^120]: Lim, “The Confucian Ideal,” 115–19.
 
-121 Lim, “The Confucian Ideal,” 119. (Emphasis added.)
+[^121]: Lim, “The Confucian Ideal,” 119. (Emphasis added.)
 
-122 Although not a fervent missionary like Legge, Max Müller was also a Protestant.
+[^122]: Although not a fervent missionary like Legge, Max Müller was also a Protestant.
 
-123 Daniel Bell, [_China Model: Political Meritocracy and the Limits of Democracy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202679104) (Princeton, New Jersey: Princeton University Press, 2015) (From National Library Singapore, call no. RSING 306.20951 BEL); Daniel Bell, [_Beyond Liberal Democracy:_ _Political Thinking for an East Asian Context_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12791801) (Princeton, N.J.: Princeton University Press, 2006). (From National Library Singapore, call no. R 321.8095 BEL)
+[^123]: Daniel Bell, [_China Model: Political Meritocracy and the Limits of Democracy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202679104) (Princeton, New Jersey: Princeton University Press, 2015) (From National Library Singapore, call no. RSING 306.20951 BEL); Daniel Bell, [_Beyond Liberal Democracy:_ _Political Thinking for an East Asian Context_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12791801) (Princeton, N.J.: Princeton University Press, 2006). (From National Library Singapore, call no. R 321.8095 BEL)
