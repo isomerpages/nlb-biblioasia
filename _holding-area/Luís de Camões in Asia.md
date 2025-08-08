@@ -103,6 +103,12 @@ Although his years of military service earned him a meagre pension of 15,000 rei
 Luís de Camões, the greatest Portuguese poet, died on 10 June 1580 (today celebrated as the national day of Portugal) in a hospital in Lisbon “without having a blanket to cover himself with”.[^12]
 
 
+![](/images/Vol%2021%20Issue%203/Luis/luis_tomb.jpg)
+<div style="background-color: white;">The tomb of Luís de Camões in the Jerónimos Monastery, Lisbon, 2022. <i> Photo by Yair Haklai, from Wikimedia Commons.</i></div>
+
+![](/images/Vol%2021%20Issue%203/Luis/luis_statue.jpg)
+<div style="background-color: white;">The statue of Luís de Camões in Luís de Camões Square, Lisbon, 2019. <i> Photo by Chabe01, from Wikimedia Commons.</i></div>
+
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray24.png">
