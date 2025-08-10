@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Sing Singapore/HeroImage_sing_4.jpg
+      background: /images/Hero_images_Jul_Sep_2025__11___1_.jpg
       variant: center
   - infopic:
       title: The Libraries and Archives of Tomorrow
