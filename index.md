@@ -9,14 +9,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/
-      button: The Search for Home, Truly (and Other National Day Songs)
+      url: /vol-21//issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/
+      button: The Singapore and Southeast Asia Collection
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 21 Issue 1/Sing Singapore/HeroImage_sing_4.jpg
       variant: center
+  - infopic:
+      title: The Libraries and Archives of Tomorrow
+      subtitle: Op-ed
+      id: infopic
+      description: Ng Cher Pong, CEO of the National Library Board, shares his
+        thoughts and insights on how libraries and archives can stay relevant in
+        today’s world.
+      button: THE FUTURE OF LIBRARIES AND ARCHIVES
+      url: /vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/
+      image: /images/Vol 21 Issue 2/Libraries of Tomorrow/tomorrow_Topics.jpg
+      alt: Libraries & Archives Tomorrow
   - infopic:
       title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
       subtitle: Film and Photography
@@ -1113,17 +1124,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: The Libraries and Archives of Tomorrow
-      subtitle: Op-ed
-      id: infopic
-      description: Ng Cher Pong, CEO of the National Library Board, shares his
-        thoughts and insights on how libraries and archives can stay relevant in
-        today’s world.
-      button: THE FUTURE OF LIBRARIES AND ARCHIVES
-      url: /vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/
-      image: /images/Vol 21 Issue 2/Libraries of Tomorrow/tomorrow_Topics.jpg
-      alt: Libraries & Archives Tomorrow
   - infopic:
       title: Excavating the Past
       subtitle: People
