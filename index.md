@@ -29,6 +29,16 @@ sections:
       image: /images/Vol 21 Issue 2/Libraries of Tomorrow/tomorrow_Topics.jpg
       alt: Libraries & Archives Tomorrow
   - infopic:
+      title: The House of Cheang
+      subtitle: People
+      id: infopic
+      description: The Cheangs were once one of Singapore’s most illustrious
+        Baba-Nonya families.
+      button: Uncover their stories
+      url: /vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/
+      image: /images/Online Only Articles/The House of Cheang/cheang_main3.jpg
+      alt: The House of Cheang
+  - infopic:
       title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
       subtitle: Film and Photography
       id: infopic
@@ -246,16 +256,6 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/part-time-libraries/
       image: /images/Vol 21 Issue 2/Part Time Libraries/parttimelib_topic.jpg
       alt: Part-Time Libraries
-  - infopic:
-      title: The House of Cheang
-      subtitle: People
-      id: infopic
-      description: The Cheangs were once one of Singapore’s most illustrious
-        Baba-Nonya families.
-      button: Uncover their stories
-      url: /vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/
-      image: /images/Online Only Articles/The House of Cheang/cheang_main3.jpg
-      alt: The House of Cheang
   - infopic:
       title: The Trip That Led to the 1953 Landmark Art Exhibition
       subtitle: Podcast
