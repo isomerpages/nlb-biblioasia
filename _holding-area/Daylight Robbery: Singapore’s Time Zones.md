@@ -95,32 +95,106 @@ While there are those who might bemoan this present state of disconnect, there a
 
 #### **Notes**
 
-[^1]: 
+[^1]: “Born During War Years,” _Singapore Monitor_, 12 April 1985, 13. (From NewspaperSG)
 
 
-[^2]: 
+[^2]: “Tokyo Time All Over Malaya,” _Shonan Times_ (_Syonan Shimbun_), 3 March 1942, 1. (From NewspaperSG)&nbsp;
 
 
-[^3]: 
+[^3]: The Greenwich Meridian passes through the Royal Observatory Greenwich in London. For the longest time, throughout the 20th century, the Greenwich Meridian served as the Prime Meridian which is the internationally recognised zero-degree line of longitude dividing the Earth into its Eastern and Western hemispheres.&nbsp;
 
 
-[^4]: 
+[^4]: “Only One Time – T.T. (Tokyo Time),” _Shonan Times_ (_Syonan Shimbun_), 18 February 1944, 1. (From NewspaperSG)
 
 
-[^5]: 
+[^5]: “Born During War Years.”
 
 
-[^6]: 
+[^6]: “Malaya Finished With ‘Tokyo Time’,” _Straits Times_, 7 September 1945, 1. (From NewspaperSG)
 
 
-[^7]: 
+[^7]: Singapore. Ministry of Culture, “Time Zone Adjustment,” press release, 20 December 1981. (From National Archives of Singapore, document no. 985-1981-12-20)
 
 
-[^8]: 
+[^8]: “Tonight's Revelry Will End Half-Hour Earlier,” _Straits Times_, 31 December 1981, 1. (From NewspaperSG)
 
 
-[^9]: 
+[^9]: Hamdan Aziz, et al., “The Change of Malaysian Standard Time: A Motion and Debate in the Malaysian Parliament,” _International Journal of Academic Research in Business and Social Science_ 7, no. 12 (December 2017): 962–71, https://hrmars.com/index.php/IJARBSS/article/view/3725/The-Change-of-Malaysian-Standard-Time-A-Motion-and-Debate-in-the-Malaysian-Parliament; “Other Places, Times,” _New Paper_, 6 April 1993, 17. (From NewspaperSG)
 
 
-[^0]: 
+[^10]: Filomina D’Cruz, “S’pore ‘Should Follow’ New KL Time,” _Straits Times_, 11 December 1981, 14. (From NewspaperSG); Singapore. Ministry of Culture, “Time Zone Adjustment.”
+
+
+[^11]: “Longer Hours for Forex Dealers,” _Straits Times_, 21 December 1981, 18. (From NewspaperSG)
+
+
+[^12]: Peter Hazelhurst, “5 PC Growth for Japan Forecast,” _Straits Times_, 14 July 1984, 44; “Robust Economy Helped Fuel Current Boom,” _Straits Times_, 21 September 1989, 26. (From NewspaperSG)
+
+
+[^13]: George Joseph, “Union Urges Bank to Stay Open Longer,” _Straits Times_, 15 February 1978, 10; “Singapore’s Round-the-Clock Advantage,” _Straits Times_, 22 February 1989, 12. (From NewspaperSG); See also Woo Jun Jie, _Singapore as an International Financial Centre: History, Policies and Politics_ (London: Palgrave Macmillan, 2016), 28. (From National Library Singapore, call no. RSING 332.095957 WOO); The story of Singapore’s economic development through the global oil trade is also a fascinating one. On this, see Hoong Ng Weng, _Singapore, the Energy Economy: From the First Refinery to the End of Cheap Oil_, 1960–2010 (London: Routledge, 2012). (From National Library Singapore, call no. RSING 338.27282095957 NG)
+
+
+[^14]: Azimin Saini, “Refresh, Repeat,” _Straits Times_, 15 August 2015, 1. (From NewspaperSG)
+
+
+
+[^15]: G. Kavidasan, “Singapore’s Time Zone Biggest Contributor to Sleeplessness Problem,” _Today_, 18 March 2015, 23. (From NewspaperSG)
+
+
+[^16]: Avraham Ariel and Nora Ariel Berger, _Plotting the Globe: Stories of Meridians, Parallels and the International Date Line_ (Westport, Conn.: Praeger Publishers, 2006), 116. (From National Library Singapore, call no. R 526.6 ARI); David Prerau, _Saving the Daylight: Why We Put Our Clocks Forward_ (London: Granta Books, 2005), 33. (From National Library Singapore, call no. R 389.17 PRE)&nbsp;
+
+
+[^17]: “Time, Gentlemen, Please,” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 15 May 1894, 288. (From NewspaperSG)
+
+
+[^18]: Prerau, _Saving the Daylight_, 34–35.&nbsp;
+
+
+[^19]: Viator, “Taiping Time and Other Topics,” _Pinang Gazette and Straits Chronicle_, 11 September 1900, 3. (From NewspaperSG)
+
+
+[^20]: “A Matter of Time,” _Singapore Free Press and Mercantile Advertiser_, 31 May 1905, 5. (From NewspaperSG)
+
+
+[^21]: Elsewhere, the territories of British North Borneo (present-day Brunei, Sabah, Sarawak and Labuan) also switched over to their “zone time” of GMT+08:00. See “The Year 1904,” _Straits Budget_, 5 January 1905, 1. (From NewspaperSG)&nbsp;
+
+
+[^22]: “Tempus,” “Daylight Saving,” _Straits Times_, 26 July 1910, 8. (From NewspaperSG)
+
+
+[^23]: William Willett, “The Waste of Daylight,” WebExhibits, accessed 29 June 2025, https://www.webexhibits.org/daylightsaving/willett.html.
+
+
+[^24]: ”Daylight Saving,” _Malaya Tribune_, 11 May 1916, 10. (From NewspaperSG)
+
+
+[^25]: “More Light,” _Straits Budget_, 14 July 1932, 3. (From NewspaperSG)
+
+
+
+[^26]: “Daylight Saving,” _Straits Times_, 3 July 1920, 9; “Daylight Saving,” _Straits Times_, 13 June 1932, 10; “Legislative Council,” _Straits Times_, 6 September 1920, 9. (From NewsaperSG)
+
+
+[^27]: “Twenty Minutes,” _Malaya Tribune_, 4 January 1937, 10; “Sir Arnold Robinson Dies in UK,” _Straits Times_, 3 March 1960, 14. (NewspaperSG)
+
+
+[^28]: See for example, Pro Veritate Semper, “One Great Big Lie!” _Straits Times_, 8 November 1932, 19. (From NewspaperSG)&nbsp;
+
+
+[^29]: “Clocks On,” _Singapore Daily News_, 17 December 1932, 4; “Here to Stay?” _Pinang Gazette and Straits Chronicle_, 16 March 1933, 8; “Summer Time,” _Straits Times_, 31 December 1932, 11. (From NewspaperSG). It is not known exactly why Robinson had advocated for 20 minutes, instead of Guillemard’s earlier proposal of 30 minutes. A possible reason, though speculative, would be to compromise between the longitudinal positions between the two Straits Settlements of Penang and Singapore. As reported earlier in 1920, those who opposed Guillemard’s proposal had proposed a 15-minute advancement instead since “Penang was 14½ minutes ahead of Singapore”. See “Legislative Council,” _Straits Times_, 6 September 1920, 9. (From NewspaperSG). In other words, Robinson’s proposal to advance the time by 20 minutes was probably an amendment of Guillemard’s earlier proposal to cater for the actual difference between Singapore and Penang’s local solar time. The earlier standardisation of time to GMT+07:00 in 1905 already meant that Penang was ahead of its solar time by approximately 20 minutes. The accounting of local solar time, based on longitudinal positions, is probably also one of the reasons why the far-flung islands of Labuan and Christmas Island were explicitly mentioned to be excluded from this ordinance, other than the fact that these islands were not as densely populated to begin with. &nbsp; &nbsp; 
+
+
+[^30]: “Daylight Saving,” _Straits Budget_, 4 November 1937, 2. (From NewspaperSG)
+
+
+[^31]: “Malayan Time May Be Advanced 10 Minutes,” _Straits Times_, 5 May 1941, 8; “Colony Time May Be Advanced,” _Straits Times_, 31 May 1941, 11; “Malayan Time to Be Advanced Next Week,” _Straits Times_, 26 August 1941, 11; “Further 10 Mins. Daylight Saving,” _Malaya Tribune_, 27 August 1941, 3. (From NewspaperSG)
+
+
+[^32]: “Daylight Saving Unsatisfactory,” _Morning Tribune_, 1 September 1941, 6. (From NewspaperSG); “Malayan Time May Be Advanced 10 Minutes.”&nbsp;
+
+
+[^33]: Wong, “Time Is Just a Man-Made Concept”; Tan Sai Siong, “Time Will Tell on You,” _Straits Times_, 19 March 1999, 6. (From NewspaperSG)
+
+
+[^34]: On the question of the nature of time, see Joseph Mazur, _The Clock Mirage: The Myth of Measured Time_ (New Haven: Yale University Press, 2020.) (From National Library Singapore, call no. R 529 MAZ); Jo Ellen Barnett, _Time’s Pendulum: The Quest to Capture Time – From Sundials to Atomic Clocks_ (New York: Plenum Trade, 1998). (From National Library Singapore, call no. R 529.7 BAR); David S. Landes, _Revolution in Time: Clocks and the Making of the Modern World_ (Cambridge, MA: Harvard University Press, 2000). (From National Library Singapore, call no. R 681.11309 LAN); Duncan Steel, _Marking Time: The Epic Quest to Invent the Perfect Calendar_ (New York: Wiley, 2000). (From National Library Singapore, call no. R 529.309 STE); Mohammad Ilyas, _Global Time System: The Natural Approach_ (Kuala Lumpur: IIUM Press, Research centre, International Islamic University Malaysia, 2001). (From National Library Singapore, call no. R 529.327 MOH). There is also much to be said about the difference between Greenwich Mean Time (GMT) and Universal Coordinated Time (UTC), but that would call for another article in time.
 
