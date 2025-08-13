@@ -11,7 +11,7 @@ image: /images/Podcast/bernard_tan_600_by_400.jpg
 third_nav_title: The National Anthem
 ---
 <p>The national anthem that we know today wasn't the original version composed
-by Zubir Said. The first version was longer and was set at a higher key.
+by Zubir Said. His first version was longer and was set at a higher key.
 Emeritus Professor Bernard Tan talks about how "Majulah Singapura" came
 about and how it changed over the decades, and illustrates how these versions
 differ on his piano.&nbsp;
