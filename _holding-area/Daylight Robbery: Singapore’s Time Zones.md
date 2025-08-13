@@ -131,69 +131,69 @@ While there are those who might bemoan this present state of disconnect, there a
 [^12]: Peter Hazelhurst, “[5 PC Growth for Japan Forecast](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840714-1.2.75),” _Straits Times_, 14 July 1984, 44; “[Robust Economy Helped Fuel Current Boom](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890921-1.2.45.4),” _Straits Times_, 21 September 1989, 26. (From NewspaperSG)
 
 
-[^13]: George Joseph, “Union Urges Bank to Stay Open Longer,” _Straits Times_, 15 February 1978, 10; “Singapore’s Round-the-Clock Advantage,” _Straits Times_, 22 February 1989, 12. (From NewspaperSG); See also Woo Jun Jie, _Singapore as an International Financial Centre: History, Policies and Politics_ (London: Palgrave Macmillan, 2016), 28. (From National Library Singapore, call no. RSING 332.095957 WOO); The story of Singapore’s economic development through the global oil trade is also a fascinating one. On this, see Hoong Ng Weng, _Singapore, the Energy Economy: From the First Refinery to the End of Cheap Oil_, 1960–2010 (London: Routledge, 2012). (From National Library Singapore, call no. RSING 338.27282095957 NG)
+[^13]: George Joseph, “[Union Urges Bank to Stay Open Longer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780215-1.2.52),” _Straits Times_, 15 February 1978, 10; “[Singapore’s Round-the-Clock Advantage](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890222-1.2.64.13.1.7),” _Straits Times_, 22 February 1989, 12. (From NewspaperSG); See also Woo Jun Jie, [_Singapore as an International Financial Centre: History, Policies and Politics_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202639094) (London: Palgrave Macmillan, 2016), 28. (From National Library Singapore, call no. RSING 332.095957 WOO); The story of Singapore’s economic development through the global oil trade is also a fascinating one. On this, see Hoong Ng Weng, [_Singapore, the Energy Economy: From the First Refinery to the End of Cheap Oil_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14242457), 1960–2010 (London: Routledge, 2012). (From National Library Singapore, call no. RSING 338.27282095957 NG)
 
 
-[^14]: Azimin Saini, “Refresh, Repeat,” _Straits Times_, 15 August 2015, 1. (From NewspaperSG)
-
-
-
-[^15]: G. Kavidasan, “Singapore’s Time Zone Biggest Contributor to Sleeplessness Problem,” _Today_, 18 March 2015, 23. (From NewspaperSG)
-
-
-[^16]: Avraham Ariel and Nora Ariel Berger, _Plotting the Globe: Stories of Meridians, Parallels and the International Date Line_ (Westport, Conn.: Praeger Publishers, 2006), 116. (From National Library Singapore, call no. R 526.6 ARI); David Prerau, _Saving the Daylight: Why We Put Our Clocks Forward_ (London: Granta Books, 2005), 33. (From National Library Singapore, call no. R 389.17 PRE)&nbsp;
-
-
-[^17]: “Time, Gentlemen, Please,” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 15 May 1894, 288. (From NewspaperSG)
-
-
-[^18]: Prerau, _Saving the Daylight_, 34–35.&nbsp;
-
-
-[^19]: Viator, “Taiping Time and Other Topics,” _Pinang Gazette and Straits Chronicle_, 11 September 1900, 3. (From NewspaperSG)
-
-
-[^20]: “A Matter of Time,” _Singapore Free Press and Mercantile Advertiser_, 31 May 1905, 5. (From NewspaperSG)
-
-
-[^21]: Elsewhere, the territories of British North Borneo (present-day Brunei, Sabah, Sarawak and Labuan) also switched over to their “zone time” of GMT+08:00. See “The Year 1904,” _Straits Budget_, 5 January 1905, 1. (From NewspaperSG)&nbsp;
-
-
-[^22]: “Tempus,” “Daylight Saving,” _Straits Times_, 26 July 1910, 8. (From NewspaperSG)
-
-
-[^23]: William Willett, “The Waste of Daylight,” WebExhibits, accessed 29 June 2025, https://www.webexhibits.org/daylightsaving/willett.html.
-
-
-[^24]: ”Daylight Saving,” _Malaya Tribune_, 11 May 1916, 10. (From NewspaperSG)
-
-
-[^25]: “More Light,” _Straits Budget_, 14 July 1932, 3. (From NewspaperSG)
+[^14]: Azimin Saini, “[Refresh, Repeat](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20150815-1.2.130),” _Straits Times_, 15 August 2015, 1. (From NewspaperSG)
 
 
 
-[^26]: “Daylight Saving,” _Straits Times_, 3 July 1920, 9; “Daylight Saving,” _Straits Times_, 13 June 1932, 10; “Legislative Council,” _Straits Times_, 6 September 1920, 9. (From NewsaperSG)
+[^15]: G. Kavidasan, “[Singapore’s Time Zone Biggest Contributor to Sleeplessness Problem](https://eresources.nlb.gov.sg/newspapers/digitised/article/today20150318-1.2.35.6),” _Today_, 18 March 2015, 23. (From NewspaperSG)
 
 
-[^27]: “Twenty Minutes,” _Malaya Tribune_, 4 January 1937, 10; “Sir Arnold Robinson Dies in UK,” _Straits Times_, 3 March 1960, 14. (NewspaperSG)
+[^16]: Avraham Ariel and Nora Ariel Berger, [_Plotting the Globe: Stories of Meridians, Parallels and the International Date Line_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12648770) (Westport, Conn.: Praeger Publishers, 2006), 116. (From National Library Singapore, call no. R 526.6 ARI); David Prerau, [_Saving the Daylight: Why We Put Our Clocks Forward_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12640753) (London: Granta Books, 2005), 33. (From National Library Singapore, call no. R 389.17 PRE)&nbsp;
 
 
-[^28]: See for example, Pro Veritate Semper, “One Great Big Lie!” _Straits Times_, 8 November 1932, 19. (From NewspaperSG)&nbsp;
+[^17]: “[Time, Gentlemen, Please](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18940515-1.2.26),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 15 May 1894, 288. (From NewspaperSG)
 
 
-[^29]: “Clocks On,” _Singapore Daily News_, 17 December 1932, 4; “Here to Stay?” _Pinang Gazette and Straits Chronicle_, 16 March 1933, 8; “Summer Time,” _Straits Times_, 31 December 1932, 11. (From NewspaperSG). It is not known exactly why Robinson had advocated for 20 minutes, instead of Guillemard’s earlier proposal of 30 minutes. A possible reason, though speculative, would be to compromise between the longitudinal positions between the two Straits Settlements of Penang and Singapore. As reported earlier in 1920, those who opposed Guillemard’s proposal had proposed a 15-minute advancement instead since “Penang was 14½ minutes ahead of Singapore”. See “Legislative Council,” _Straits Times_, 6 September 1920, 9. (From NewspaperSG). In other words, Robinson’s proposal to advance the time by 20 minutes was probably an amendment of Guillemard’s earlier proposal to cater for the actual difference between Singapore and Penang’s local solar time. The earlier standardisation of time to GMT+07:00 in 1905 already meant that Penang was ahead of its solar time by approximately 20 minutes. The accounting of local solar time, based on longitudinal positions, is probably also one of the reasons why the far-flung islands of Labuan and Christmas Island were explicitly mentioned to be excluded from this ordinance, other than the fact that these islands were not as densely populated to begin with. &nbsp; &nbsp; 
+[^18]: Prerau, [_Saving the Daylight_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12640753), 34–35.&nbsp;
 
 
-[^30]: “Daylight Saving,” _Straits Budget_, 4 November 1937, 2. (From NewspaperSG)
+[^19]: Viator, “[Taiping Time and Other Topics](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19000911-1.2.30),” _Pinang Gazette and Straits Chronicle_, 11 September 1900, 3. (From NewspaperSG)
 
 
-[^31]: “Malayan Time May Be Advanced 10 Minutes,” _Straits Times_, 5 May 1941, 8; “Colony Time May Be Advanced,” _Straits Times_, 31 May 1941, 11; “Malayan Time to Be Advanced Next Week,” _Straits Times_, 26 August 1941, 11; “Further 10 Mins. Daylight Saving,” _Malaya Tribune_, 27 August 1941, 3. (From NewspaperSG)
+[^20]: “[A Matter of Time](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19050531-1.2.22),” _Singapore Free Press and Mercantile Advertiser_, 31 May 1905, 5. (From NewspaperSG)
 
 
-[^32]: “Daylight Saving Unsatisfactory,” _Morning Tribune_, 1 September 1941, 6. (From NewspaperSG); “Malayan Time May Be Advanced 10 Minutes.”&nbsp;
+[^21]: Elsewhere, the territories of British North Borneo (present-day Brunei, Sabah, Sarawak and Labuan) also switched over to their “zone time” of GMT+08:00. See “[The Year 1904](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19050105-1.2.6),” _Straits Budget_, 5 January 1905, 1. (From NewspaperSG)&nbsp;
 
 
-[^33]: Wong, “Time Is Just a Man-Made Concept”; Tan Sai Siong, “Time Will Tell on You,” _Straits Times_, 19 March 1999, 6. (From NewspaperSG)
+[^22]: “Tempus,” “[Daylight Saving](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19100726-1.2.91.2),” _Straits Times_, 26 July 1910, 8. (From NewspaperSG)
 
 
-[^34]: On the question of the nature of time, see Joseph Mazur, _The Clock Mirage: The Myth of Measured Time_ (New Haven: Yale University Press, 2020.) (From National Library Singapore, call no. R 529 MAZ); Jo Ellen Barnett, _Time’s Pendulum: The Quest to Capture Time – From Sundials to Atomic Clocks_ (New York: Plenum Trade, 1998). (From National Library Singapore, call no. R 529.7 BAR); David S. Landes, _Revolution in Time: Clocks and the Making of the Modern World_ (Cambridge, MA: Harvard University Press, 2000). (From National Library Singapore, call no. R 681.11309 LAN); Duncan Steel, _Marking Time: The Epic Quest to Invent the Perfect Calendar_ (New York: Wiley, 2000). (From National Library Singapore, call no. R 529.309 STE); Mohammad Ilyas, _Global Time System: The Natural Approach_ (Kuala Lumpur: IIUM Press, Research centre, International Islamic University Malaysia, 2001). (From National Library Singapore, call no. R 529.327 MOH). There is also much to be said about the difference between Greenwich Mean Time (GMT) and Universal Coordinated Time (UTC), but that would call for another article in time.
+[^23]: William Willett, “The Waste of Daylight,” WebExhibits, accessed 29 June 2025, [https://www.webexhibits.org/daylightsaving/willett.html](https://www.webexhibits.org/daylightsaving/willett.html).
+
+
+[^24]: ”[Daylight Saving](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19160511-1.2.56),” _Malaya Tribune_, 11 May 1916, 10. (From NewspaperSG)
+
+
+[^25]: “[More Light](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19320714-1.2.10.4),” _Straits Budget_, 14 July 1932, 3. (From NewspaperSG)
+
+
+
+[^26]: “[Daylight Saving](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19200703-1.2.70),” _Straits Times_, 3 July 1920, 9; “[Daylight Saving](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320613-1.2.33),” _Straits Times_, 13 June 1932, 10; “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19200906-1.2.63),” _Straits Times_, 6 September 1920, 9. (From NewsaperSG)
+
+
+[^27]: “[Twenty Minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370104-1.2.70),” _Malaya Tribune_, 4 January 1937, 10; “[Sir Arnold Robinson Dies in UK](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600303-1.2.125.9),” _Straits Times_, 3 March 1960, 14. (NewspaperSG)
+
+
+[^28]: See for example, Pro Veritate Semper, “[One Great Big Lie!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321108-1.2.156.2)” _Straits Times_, 8 November 1932, 19. (From NewspaperSG)&nbsp;
+
+
+[^29]: “[Clocks On](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailynews19321217-1.2.53),” _Singapore Daily News_, 17 December 1932, 4; “[Here to Stay?](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19330316-1.2.41)” _Pinang Gazette and Straits Chronicle_, 16 March 1933, 8; “[Summer Time](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321231-1.2.63),” _Straits Times_, 31 December 1932, 11. (From NewspaperSG). It is not known exactly why Robinson had advocated for 20 minutes, instead of Guillemard’s earlier proposal of 30 minutes. A possible reason, though speculative, would be to compromise between the longitudinal positions between the two Straits Settlements of Penang and Singapore. As reported earlier in 1920, those who opposed Guillemard’s proposal had proposed a 15-minute advancement instead since “Penang was 14½ minutes ahead of Singapore”. See “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19200906-1.2.63),” _Straits Times_, 6 September 1920, 9. (From NewspaperSG). In other words, Robinson’s proposal to advance the time by 20 minutes was probably an amendment of Guillemard’s earlier proposal to cater for the actual difference between Singapore and Penang’s local solar time. The earlier standardisation of time to GMT+07:00 in 1905 already meant that Penang was ahead of its solar time by approximately 20 minutes. The accounting of local solar time, based on longitudinal positions, is probably also one of the reasons why the far-flung islands of Labuan and Christmas Island were explicitly mentioned to be excluded from this ordinance, other than the fact that these islands were not as densely populated to begin with. &nbsp; &nbsp; 
+
+
+[^30]: “[Daylight Saving](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19371104-1.2.3.2),” _Straits Budget_, 4 November 1937, 2. (From NewspaperSG)
+
+
+[^31]: “[Malayan Time May Be Advanced 10 Minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19410505-1.2.72),” _Straits Times_, 5 May 1941, 8; “[Colony Time May Be Advanced](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19410531-1.2.68),” _Straits Times_, 31 May 1941, 11; “[Malayan Time to Be Advanced Next Week](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19410826-1.2.75),” _Straits Times_, 26 August 1941, 11; “[Further 10 Mins. Daylight Saving](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19410827-1.2.30),” _Malaya Tribune_, 27 August 1941, 3. (From NewspaperSG)
+
+
+[^32]: “[Daylight Saving Unsatisfactory](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19410901-1.2.38),” _Morning Tribune_, 1 September 1941, 6. (From NewspaperSG); “[Malayan Time May Be Advanced 10 Minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19410505-1.2.72).”&nbsp;
+
+
+[^33]: Wong, “[Time Is Just a Man-Made Concept](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990312-1.2.97.8)”; Tan Sai Siong, “[Time Will Tell on You](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990319-1.2.159.4.3),” _Straits Times_, 19 March 1999, 6. (From NewspaperSG)
+
+
+[^34]: On the question of the nature of time, see Joseph Mazur, [_The Clock Mirage: The Myth of Measured Time_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205243017) (New Haven: Yale University Press, 2020.) (From National Library Singapore, call no. R 529 MAZ); Jo Ellen Barnett, [_Time’s Pendulum: The Quest to Capture Time – From Sundials to Atomic Clocks_](https://catalogue.nlb.gov.sg/search/card?recordId=8969669) (New York: Plenum Trade, 1998). (From National Library Singapore, call no. R 529.7 BAR); David S. Landes, [_Revolution in Time: Clocks and the Making of the Modern World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9825537) (Cambridge, MA: Harvard University Press, 2000). (From National Library Singapore, call no. R 681.11309 LAN); Duncan Steel, [_Marking Time: The Epic Quest to Invent the Perfect Calendar_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9648321) (New York: Wiley, 2000). (From National Library Singapore, call no. R 529.309 STE); Mohammad Ilyas, [_Global Time System: The Natural Approach_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12684000) (Kuala Lumpur: IIUM Press, Research centre, International Islamic University Malaysia, 2001). (From National Library Singapore, call no. R 529.327 MOH). There is also much to be said about the difference between Greenwich Mean Time (GMT) and Universal Coordinated Time (UTC), but that would call for another article in time.
