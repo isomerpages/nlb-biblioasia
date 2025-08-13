@@ -36,7 +36,7 @@ sections:
         Baba-Nonya families.
       button: Uncover their stories
       url: /vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/
-      image: /images/Online Only Articles/The House of Cheang/cheang_main3.jpg
+      image: /images/Online Only Articles/The House of Cheang/cheang_Topics.jpg
       alt: The House of Cheang
   - infopic:
       title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
