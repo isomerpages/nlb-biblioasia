@@ -108,6 +108,8 @@ Luís de Camões, the greatest Portuguese poet, died on 10 June 1580 (today cele
 ![](/images/Vol%2021%20Issue%203/Luis/luis_tomb.jpg)
 <div style="background-color: white;">The tomb of Luís de Camões in the Jerónimos Monastery, Lisbon, 2022. <i> Photo by Yair Haklai, from Wikimedia Commons.</i></div>
 
+<div style="background-color: white;">
+<br></div>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/IsabelRioNovo.png">
