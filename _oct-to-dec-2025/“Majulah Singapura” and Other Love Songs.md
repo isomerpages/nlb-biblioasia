@@ -150,7 +150,7 @@ So in “Majulah Singapura”, the same expression of deep affection and affirma
 Listen to <a href="https://biblioasia.nlb.gov.sg/podcast/the-making-of-majulah-singapura-as-we-know-it-bernard-tan/">“The Making of ‘Majulah Singapura’ as We Know It”</a>, the BiblioAsia+ podcast by Emeritus Professor Bernard T.G. Tan where he talks about the origins of our national anthem.
 </div>
 
-<p style="font-size: 14px;"><i>My heartfelt thanks are due to Eric Chin and Wendy Ang, both former directors of the National Archives of Singapore; Winnifred Wong, former principal librarian, NUS Libraries; Rahim Jalil, retired senior lawyer and owner of Zubir Said’s Joo Chiat apartment; Rohana Zubir, daughter of Zubir Said; and Yap Bei Sing, document examiner, Health Sciences Authority.</i></p>
+<p style="font-size: 15px;"><i>My heartfelt thanks are due to Eric Chin and Wendy Ang, both former directors of the National Archives of Singapore; Winnifred Wong, former principal librarian, NUS Libraries; Rahim Jalil, retired senior lawyer and owner of Zubir Said’s Joo Chiat apartment; Rohana Zubir, daughter of Zubir Said; and Yap Bei Sing, document examiner, Health Sciences Authority.</i></p>
 
 
 
