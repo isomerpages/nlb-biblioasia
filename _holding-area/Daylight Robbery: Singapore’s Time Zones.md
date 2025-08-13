@@ -95,40 +95,40 @@ While there are those who might bemoan this present state of disconnect, there a
 
 #### **Notes**
 
-[^1]: “Born During War Years,” _Singapore Monitor_, 12 April 1985, 13. (From NewspaperSG)
+[^1]: “[Born During War Years](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19850412-1.2.22.1.2),” _Singapore Monitor_, 12 April 1985, 13. (From NewspaperSG)
 
 
-[^2]: “Tokyo Time All Over Malaya,” _Shonan Times_ (_Syonan Shimbun_), 3 March 1942, 1. (From NewspaperSG)&nbsp;
+[^2]: “[Tokyo Time All Over Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420303-1.2.4),” _Shonan Times_ (_Syonan Shimbun_), 3 March 1942, 1. (From NewspaperSG)&nbsp;
 
 
 [^3]: The Greenwich Meridian passes through the Royal Observatory Greenwich in London. For the longest time, throughout the 20th century, the Greenwich Meridian served as the Prime Meridian which is the internationally recognised zero-degree line of longitude dividing the Earth into its Eastern and Western hemispheres.&nbsp;
 
 
-[^4]: “Only One Time – T.T. (Tokyo Time),” _Shonan Times_ (_Syonan Shimbun_), 18 February 1944, 1. (From NewspaperSG)
+[^4]: “[Only One Time – T.T. (Tokyo Time)](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440218-1.2.5),” _Shonan Times_ (_Syonan Shimbun_), 18 February 1944, 1. (From NewspaperSG)
 
 
-[^5]: “Born During War Years.”
+[^5]: “[Born During War Years](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19850412-1.2.22.1.2).”
 
 
-[^6]: “Malaya Finished With ‘Tokyo Time’,” _Straits Times_, 7 September 1945, 1. (From NewspaperSG)
+[^6]: “[Malaya Finished With ‘Tokyo Time](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19450907-1.2.3)’,” _Straits Times_, 7 September 1945, 1. (From NewspaperSG)
 
 
-[^7]: Singapore. Ministry of Culture, “Time Zone Adjustment,” press release, 20 December 1981. (From National Archives of Singapore, document no. 985-1981-12-20)
+[^7]: Singapore. Ministry of Culture, “[Time Zone Adjustment](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b34212e-115d-11e3-83d5-0050568939ad),” press release, 20 December 1981. (From National Archives of Singapore, document no. 985-1981-12-20)
 
 
-[^8]: “Tonight's Revelry Will End Half-Hour Earlier,” _Straits Times_, 31 December 1981, 1. (From NewspaperSG)
+[^8]: “[Tonight's Revelry Will End Half-Hour Earlier](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811231-1.2.3),” _Straits Times_, 31 December 1981, 1. (From NewspaperSG)
 
 
-[^9]: Hamdan Aziz, et al., “The Change of Malaysian Standard Time: A Motion and Debate in the Malaysian Parliament,” _International Journal of Academic Research in Business and Social Science_ 7, no. 12 (December 2017): 962–71, https://hrmars.com/index.php/IJARBSS/article/view/3725/The-Change-of-Malaysian-Standard-Time-A-Motion-and-Debate-in-the-Malaysian-Parliament; “Other Places, Times,” _New Paper_, 6 April 1993, 17. (From NewspaperSG)
+[^9]: Hamdan Aziz, et al., “The Change of Malaysian Standard Time: A Motion and Debate in the Malaysian Parliament,” _International Journal of Academic Research in Business and Social Science_ 7, no. 12 (December 2017): 962–71, [https://hrmars.com/index.php/IJARBSS/article/view/3725/The-Change-of-Malaysian-Standard-Time-A-Motion-and-Debate-in-the-Malaysian-Parliament](https://hrmars.com/index.php/IJARBSS/article/view/3725/The-Change-of-Malaysian-Standard-Time-A-Motion-and-Debate-in-the-Malaysian-Parliament); “[Other Places, Times](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19930406-1.2.19.9),” _New Paper_, 6 April 1993, 17. (From NewspaperSG)
 
 
-[^10]: Filomina D’Cruz, “S’pore ‘Should Follow’ New KL Time,” _Straits Times_, 11 December 1981, 14. (From NewspaperSG); Singapore. Ministry of Culture, “Time Zone Adjustment.”
+[^10]: Filomina D’Cruz, “[S’pore ‘Should Follow’ New KL Time](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811211-1.2.76),” _Straits Times_, 11 December 1981, 14. (From NewspaperSG); Singapore. Ministry of Culture, “[Time Zone Adjustment](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b34212e-115d-11e3-83d5-0050568939ad).”
 
 
-[^11]: “Longer Hours for Forex Dealers,” _Straits Times_, 21 December 1981, 18. (From NewspaperSG)
+[^11]: “[Longer Hours for Forex Dealers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811224-1.2.83.5),” _Straits Times_, 21 December 1981, 18. (From NewspaperSG)
 
 
-[^12]: Peter Hazelhurst, “5 PC Growth for Japan Forecast,” _Straits Times_, 14 July 1984, 44; “Robust Economy Helped Fuel Current Boom,” _Straits Times_, 21 September 1989, 26. (From NewspaperSG)
+[^12]: Peter Hazelhurst, “[5 PC Growth for Japan Forecast](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840714-1.2.75),” _Straits Times_, 14 July 1984, 44; “[Robust Economy Helped Fuel Current Boom](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890921-1.2.45.4),” _Straits Times_, 21 September 1989, 26. (From NewspaperSG)
 
 
 [^13]: George Joseph, “Union Urges Bank to Stay Open Longer,” _Straits Times_, 15 February 1978, 10; “Singapore’s Round-the-Clock Advantage,” _Straits Times_, 22 February 1989, 12. (From NewspaperSG); See also Woo Jun Jie, _Singapore as an International Financial Centre: History, Policies and Politics_ (London: Palgrave Macmillan, 2016), 28. (From National Library Singapore, call no. RSING 332.095957 WOO); The story of Singapore’s economic development through the global oil trade is also a fascinating one. On this, see Hoong Ng Weng, _Singapore, the Energy Economy: From the First Refinery to the End of Cheap Oil_, 1960–2010 (London: Routledge, 2012). (From National Library Singapore, call no. RSING 338.27282095957 NG)
