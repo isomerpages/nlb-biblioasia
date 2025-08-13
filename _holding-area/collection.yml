@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "Daylight Robbery: Singapore’s Time Zones.md"
       - Luís de Camões in Asia.md
       - Sample article.md
       - Singapore Youth Orchestra Brings Singapore Composers into the

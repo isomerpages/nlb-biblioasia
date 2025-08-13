@@ -5,6 +5,7 @@ description: Researcher Bouchaib Silm considers the relationship between
   Singapore and the Middle East, how they can move towards a more vital and
   dynamic relationship, and how Singapore can play a pivotal role in
   reconnecting the Middle East with the rest of Asia.
+variant: markdown
 ---
 #### Researcher *Bouchaib Silm* considers the relationship between Singapore and the Middle East, how they can move towards a more vital and dynamic relationship, and how Singapore can play a pivotal role in reconnecting the Middle East with the rest of Asia.
 
@@ -13,13 +14,13 @@ description: Researcher Bouchaib Silm considers the relationship between
  
 While Singapore’s system of governance has proved its efficiency and sustainability, there are serious concerns about whether successful stories such as Singapore’s can serve to stimulate change in other countries, including those in the Arab world. Unfortunately, Arab societies tend to be conservative, and therefore lag behind in global integration.
 
-<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/human%20development%20index1.jpg" style="width:100%;">
- <div style="background-color: white;">Reproduced from Table 01, Arab Human Development Report 2009: Challenges to Human Security in the Arab Countries <a href="https://arab-hdr.org/report/human-security-2009/">https://arab-hdr.org/report/human-security-2009/</a>. <i>All rights reserved, United Nations Development Programme, Regional Bureau for Arab States (RBAS), 2009.</i></div>
+<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/human%20development%20index1.jpg" style="width:80%;">
+ <div style="background-color: white;">Reproduced from Table 01, Arab Human Development Report 2009: Challenges to Human Security in the Arab Countries. <i>All rights reserved, United Nations Development Programme, Regional Bureau for Arab States (RBAS), 2009.</i></div>
 
 History has shown that Arab culture is actually very dynamic and highly capable of learning and making progress. In the eighth century, the Abassid Khalif al Ma’mun, son of the famous Abassid Khalif Harun Al Rasheed, established the Bait al-Hikma (House of Wisdom) in Baghdad, Iraq. Al Ma’mun gave orders for important books in different fields of knowledge in the Greek, Persian and Indian languages to be translated into Arabic.[^1] Arab scholars accumulated a great collection of knowledge about the world, and built on it through their own discoveries.
 
-<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/energy%20sources1.jpg" style="width:100%;">
- <div style="background-color: white;">Reproduced from Table 20, Arab Human Development Report 2009: Challenges to Human Security in the Arab Countries <a href="https://arab-hdr.org/report/human-security-2009/">https://arab-hdr.org/report/human-security-2009/</a>. <i>All rights reserved, United Nations Development Programme, Regional Bureau for Arab States (RBAS), 2009.</i>
+<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/energy%20sources1.jpg" style="width:80%;">
+ <div style="background-color: white;">Reproduced from Table 20, Arab Human Development Report 2009: Challenges to Human Security in the Arab Countries. <i>All rights reserved, United Nations Development Programme, Regional Bureau for Arab States (RBAS), 2009.</i>
 </div>
 
 Such achievements enabled the rise of the Arabic-speaking Islamic civilisation, which later became the blueprint for the European Renaissance. Meanwhile, the recent rise of an Arab business intelligentsia that is equipped with excellent educational qualifications and ready to face new challenges has demonstrated the ability of Arabs to learn from the experiences of others. For instance, the six countries of the Gulf Cooperate Council (or GCC), Saudi Arabia, the United Arab Emirates, Qatar, Bahrain, Kuwait and Oman, in general, and the United Arab Emirates in particular, offer clear examples of the readiness of the Gulf Arab societies to acquire new knowledge, and of how Arab societies can study and implement new knowledge that has been received from different societies.

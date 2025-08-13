@@ -58,7 +58,7 @@ There is a portrait of Camões by an unknown artist, dated 1556, showing him in 
 
 On the topmost sheet of paper on the table, we can make out “Canto X” (the last canto of _The Lusiads_). If we had any doubts about the long years of preparation, versions and successive revisions that Camões dedicated to his epic poem, this portrait dispels them. In Goa, Camões was already working on the last canto of _The Lusiads_, the one that mentions the regions of the Far East. At the time the portrait was painted, it is likely that the poet needed maps as he had not yet visited these places.
 
-![](/images/Vol%2021%20Issue%203/Luis/luis_map.jpg)
+![](/images/Vol%2021%20Issue%203/Luis/luis_map2.jpg)
 <div style="background-color: white;">Some of the places in Asia that Luís de Camões visited during the 17 years he spent away from Lisbon.</div>
 
 #### **Sojourn to Southeast Asia**
@@ -85,7 +85,7 @@ The Portuguese ships bound for the Chinese coast left Melaka and stopped at “t
 
 Although there is no documentary evidence, it is difficult to doubt that Camões spent time in Macau, as attested by ancient biographers and memorialised in the famous Camões cave in Patane (a grotto within the Luís de Camões Garden in Macau) where the poet is believed to have spent time and written his epic poem. Interestingly, a late manuscript by the Jesuits in Macau records the sale by the priests of a plot of land identified as “the ground of Campo dos Patanes next to the rocks of Camões”, showing that, beneath the legend, there must be a grain of truth.[^8]
 
-![](/images/Vol%2021%20Issue%203/Luis/luis_bronze.jpg)
+![](/images/Vol%2021%20Issue%203/Luis/luis_bronze2.jpg)
 <div style="background-color: white;">The bronze bust of Luís de Camões in the grotto at the Luís de Camões Garden in Macau. Camões is believed to have completed <i>The Lusiads</i> in the grotto. <i> Photo by LN9267, from Wikimedia Commons.</i></div>
 
 In Macau, Camões was assured of his livelihood, lived with a Chinese girl and had the peace of mind to finish _The Lusiads_. However, in 1564, another captain arrived in Macau. Dismissed from his position, Camões was due to return to Goa but on that voyage, he was shipwrecked somewhere in the South China Sea, near the Mekong River Delta, managing to save himself “on a raft”. He described this shipwreck in his epic poem, referring to the Mekong as the “captain of the waters” who welcomed him calmly and gently after the shipwreck. Camões had lost his Chinese companion, his personal belongings, the estate of the deceased in his care, but he managed to save the manuscript of _The Lusiads_, the “wet poem”, as he calls them, alluding to the fact that they were rescued from the water.
@@ -98,6 +98,8 @@ Pero Barreto, the new captain of Sofala and Mozambique, with whom he had earlier
 
 Camões arrived in Lisbon in April 1570 and published _The Lusiads_ in 1572. This modern-day epic, celebrating the voyages of the Portuguese and the glorious deeds of their recent history, was imbued with the experiences of its author. Like the poet’s life, his writing was also “scattered throughout the world in pieces”,[^11] as described in the verse, “Next to a dry, wild and barren mountain”, and much of that world was Asia.
 
+![](/images/Vol%2021%20Issue%203/Luis/luis_statue.jpg)
+<div style="background-color: white;">The statue of Luís de Camões in Luís de Camões Square, Lisbon, 2019. <i> Photo by Chabe01, from Wikimedia Commons.</i></div>
 Although his years of military service earned him a meagre pension of 15,000 reis per year and the publication of _The Lusiads_ brought him some fame, Camões lived his last years destitute and ill. He had a few friends, his elderly mother who survived him and a former Jau slave (a term that, for the Portuguese of the time, included without distinction Javanese and Malays), who may have come with him from the East. This faithful friend, who begged for alms at night so that Camões’ house would not run out of coal, died a few months before the poet.&nbsp;
 
 Luís de Camões, the greatest Portuguese poet, died on 10 June 1580 (today celebrated as the national day of Portugal) in a hospital in Lisbon “without having a blanket to cover himself with”.[^12]
@@ -106,9 +108,7 @@ Luís de Camões, the greatest Portuguese poet, died on 10 June 1580 (today cele
 ![](/images/Vol%2021%20Issue%203/Luis/luis_tomb.jpg)
 <div style="background-color: white;">The tomb of Luís de Camões in the Jerónimos Monastery, Lisbon, 2022. <i> Photo by Yair Haklai, from Wikimedia Commons.</i></div>
 
-![](/images/Vol%2021%20Issue%203/Luis/luis_statue.jpg)
-<div style="background-color: white;">The statue of Luís de Camões in Luís de Camões Square, Lisbon, 2019. <i> Photo by Chabe01, from Wikimedia Commons.</i></div>
-<br>
+
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/IsabelRioNovo.png">
 <b>Isabel Rio Novo </b>&nbsp;has a master’s degree in History of Portuguese Culture (Modern Period) and a doctorate in Comparative Literature from the University of Porto. She teaches art history and creative writing at the University of Maia, and has written academic publications in these fields. She is also a fiction writer. Her latest books are <i>Fortune, Occasion, Time and Luck</i> (2024), a biography of Luís de Camões and <i>The Matter of the Stars</i> (2025), which won the City of Almada Literary Prize. </div>

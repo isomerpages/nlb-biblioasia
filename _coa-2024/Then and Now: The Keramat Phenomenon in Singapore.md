@@ -1,6 +1,6 @@
 ---
 title: "Then and Now: The Keramat Phenomenon in Singapore"
-permalink: /holding-area/chapters-on-asia-2024/keramat-grave-shrine-singapore/
+permalink: /chapters-on-asia-2024/keramat-grave-shrine-singapore/
 variant: markdown
 description: ""
 ---
