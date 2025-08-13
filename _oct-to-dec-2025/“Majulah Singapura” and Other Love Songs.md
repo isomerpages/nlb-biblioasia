@@ -146,7 +146,9 @@ So in “Majulah Singapura”, the same expression of deep affection and affirma
 
 
 
-<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> A copy of Zubir Said’s original handwritten score of “Majulah Singapura” is currently on display at the <a href="https://www.nationalgallery.sg/sg/en/exhibitions/laws-of-our-land-foundations-of-a-new-nation.html#ways-to-experience"><i>Laws of Our Land: Foundations of a New Nation</i></a>  exhibition at the National Gallery Singapore.<br></div>
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> A copy of Zubir Said’s original handwritten score of “Majulah Singapura” is currently on display at the <a href="https://www.nationalgallery.sg/sg/en/exhibitions/laws-of-our-land-foundations-of-a-new-nation.html#ways-to-experience"><i>Laws of Our Land: Foundations of a New Nation</i></a>  exhibition at the National Gallery Singapore.<br><br>
+Listen to <a href="https://biblioasia.nlb.gov.sg/podcast/the-making-of-majulah-singapura-as-we-know-it-bernard-tan/">“The Making of ‘Majulah Singapura’ as We Know It”</a>, the BiblioAsia+ podcast by Emeritus Professor Bernard T.G. Tan where he talks about the origins of our national anthem.
+</div>
 
 <p style="font-size: 14px;"><i>My heartfelt thanks are due to Eric Chin and Wendy Ang, both former directors of the National Archives of Singapore; Winnifred Wong, former principal librarian, NUS Libraries; Rahim Jalil, retired senior lawyer and owner of Zubir Said’s Joo Chiat apartment; Rohana Zubir, daughter of Zubir Said; and Yap Bei Sing, document examiner, Health Sciences Authority.</i></p>
 
