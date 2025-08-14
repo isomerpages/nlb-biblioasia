@@ -76,7 +76,7 @@ Prior to the 20th century, most towns or cities in Malaya kept localised time; n
 
 In 1894, Singapore kept a local time that was computed at 6 hours, 55 minutes and 25.05 seconds ahead of time observed at the Royal Observatory Greenwich, London. This was based on Singapore’s longitudinal position of 103.854375° east of the Greenwich Meridian, with reference to the observatory located then at Fort Fullerton.[^17]
 
-<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_observatory.jpg" style="width: 40%;">
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_observatory.jpg" style="width: 55%;">
 
 
 <div style="background-color: white;">The Royal Observatory Greenwich, London, 2009. It gave its name to the Greenwich Mean Time since the Greenwich Meridian, also known as the Prime Meridian, passes through it. <i>Photo by Adusha. From Wikimedia Commons. </i></div>
