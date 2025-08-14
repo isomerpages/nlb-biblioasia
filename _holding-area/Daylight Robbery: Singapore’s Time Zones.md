@@ -102,6 +102,13 @@ Many of the motivations behind daylight saving in 1930s Singapore were not so di
 
 In September 1941, time in Singapore was again tweaked, advancing another 10 minutes under the Daylight Saving (Amendment) Ordinance. This time, it had less to do with the health of the working majority, and more to do with the programming time slots of the British Empire’s radio network. At GMT+07:20, Singapore’s time zone presented an inconvenience as the overseas programming of the British Broadcasting Corporation began on 15-minute intervals of the hour.[^31]
 
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_malayantime.jpg" style="width: 80%;">
+
+<div style="background-color: white;">In September 1941, time in Singapore was advanced by 10 minutes to GMT+07:30 to coincide with the programming time slots of the British Broadcasting Corporation in light of the impending war. <i>Source: The Straits Times, 5 May 1941 © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
+
+
 During this period, the strategic importance of the radio network for the British Empire could not be underestimated. Hitler had invaded Poland on 1 September 1939, and Britain and France declared war on Germany two days later. Bringing Singapore’s official time up to GMT+07:30 fitted nicely into the programming time slots of the British Broadcasting Corporation.[^32] As with the time zone changes enacted under the Japanese Occupation later on, this was yet another example of timekeeping being used as a political tool to control and influence a territory.
 
 #### **Here Comes the Sun (One Hour Later)**
