@@ -7,7 +7,7 @@ description: ""
 #### In 1982, Singapore adjusted its time zone to follow Malaysia’s national synchronisation. But this was not the only instance that Singapore had undergone time zone changes. &nbsp;
 By Kenneth Tay
 
-<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_main.jpg" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_main2.png" style="width: 80%;">
 <div style="background-color: white;">The clocks show Singapore’s different time zones over the decades at either Greenwich Mean Time (GMT) of 12 am or 12 pm. </div>
 
 
