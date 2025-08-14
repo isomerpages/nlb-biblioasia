@@ -39,9 +39,7 @@ Moreover, Singapore could also share an extra half hour of overlapping business 
 
 While there were obvious advantages in moving Singapore to GMT+08:00, were there unfortunate side effects? In a 2014 survey of sleep patterns, Singapore was reported to be the third most sleep-deprived city in the world, just behind Tokyo and Seoul. On average, Singaporeans were managing with just 6 hours and 32 minutes of sleep every night.[^14]
 
-In March 2015, a reader, concerned about sleeplessness in Singapore, felt compelled to write to the _Today_ newspaper, arguing that the current time zone was to blame for it. “The sun rises at around&nbsp;
-
-7 am, when most of the children are already headed for school or in school,” G. Kavidasan wrote. “Why do our schools not open at 9 am or 10 am so the children can have a good night’s sleep, wake up around 6 am or 7 am, do some studies or exercise, have a family breakfast and then go to school?” “\[O\]ur body clock syncs with the natural clock of the sun, and Singapore’s natural time zone should be seven hours ahead of Greenwich Mean Time (GMT+07:00).”[^15]
+In March 2015, a reader, concerned about sleeplessness in Singapore, felt compelled to write to the _Today_ newspaper, arguing that the current time zone was to blame for it. “The sun rises at around 7 am, when most of the children are already headed for school or in school,” G. Kavidasan wrote. “Why do our schools not open at 9 am or 10 am so the children can have a good night’s sleep, wake up around 6 am or 7 am, do some studies or exercise, have a family breakfast and then go to school?” “\[O\]ur body clock syncs with the natural clock of the sun, and Singapore’s natural time zone should be seven hours ahead of Greenwich Mean Time (GMT+07:00).”[^15]
 
 Kavidasan’s argument was that Singaporeans should be waking up naturally when the sun rises at 7 am (GMT+08:00), or better still at 6 am (if the time zone is corrected to GMT+07:00 instead). Starting school or work at 9 am or 10 am would then allow people to have some hours of exposure to daylight, before getting on with the day’s work.&nbsp;
 
