@@ -8,7 +8,9 @@ description: ""
 By Kenneth Tay
 
 <img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_main2.png" style="width: 80%;">
-<div style="background-color: white;">The clocks show Singapore’s different time zones over the decades at either Greenwich Mean Time (GMT) of 12 am or 12 pm. </div>
+<div style="background-color: white;">The clocks show Singapore’s different time zones over the decades at either Greenwich Mean Time (GMT) of 12 am or 12 pm. (Top) Before 1 June 1905 (GMT+06:55:25); 1 June 1905–31 December 1932 (GMT+07:00); 1 January 1933–31 August 1941 (GMT+07:20); 1 September 1941–15 February 1942 (GMT+07:30). (Bottom) 16 February 1942–11 September 1945 (GMT+09:00); 12 September 1945–31 December 1981 (GMT+07:30); 1 January 1982 to present
+
+(GMT+08:00). </div>
 
 
 In 1985, 40 years after the end of the Japanese Occupation, a reader wrote to the _Singapore Monitor_ seeking advice on his or her time of birth.[^1] Born during the Occupation years, the reader’s birth time was registered as 5.30 pm on the birth certificate. The person wanted to know if this was Singapore time or Japan’s Central Standard Time (commonly referred to as “Tokyo Time”).&nbsp;
