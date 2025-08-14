@@ -23,6 +23,15 @@ When Singapore came under Japanese control in February 1942, one of the first th
 
 However, this change was not as simple or straightforward as it seemed. In February 1944, two years into the time adjustment, the _Syonan Shimbun_ reported that people in Singapore were still making appointments based on the local time observed earlier rather than Tokyo Time: “There seems to be still not a few people who have not awakened to the hour, so to speak. These people are still making appointments by ‘local’ time, with the result that there has been much confusion and often disappointment which may even be more unfortunate, if not disastrous.”&nbsp;
 
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_soldier.jpg" style="width: 80%;">
+
+
+
+<div style="background-color: white;">Japanese soldiers led by General Seishiro Itagaki marching towards the Municipal Building (later City Hall) to sign the surrender papers on 12 September 1945. The British Military Administration had announced on 7 September that Tokyo Time would be abolished. The clock tower of the Victoria Theatre and Concert Hall, in the background would have been showing the readjusted time zone of GMT+07:30.
+ <i>Courtesy of the Army Photographic Unit. From National Library Singapore.  </i></div>
+
+
+
 This was even after all public clocks in Singapore had been synchronised to Tokyo Time.[^4] (It would be fascinating to know if this non-observation of Tokyo Time was, in fact, a form of quiet resistance, a bodily non-compliance.)&nbsp;
 
 But this confusing sense of living in double time is precisely why our 1985 reader had questions regarding the registered birth time of 5.30 pm which, according to the reply by the _Singapore Monitor_, was Tokyo Time. If the reader wished to have the time changed, he or she could obtain a birth extract at the National Registration Department, they advised.[^5]
