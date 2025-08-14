@@ -128,7 +128,7 @@ While there are those who might bemoan this present state of disconnect, there a
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2rdf.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/KennethTay.png">
 <b>Kenneth Tay</b>  is a Librarian (Arts &amp; Gen Ref) with the National Library Singapore. He is interested in the histories of global systems such as the internet, logistics and time zones, and where Singapore figures in them.    </div>
 
 #### **Notes**
