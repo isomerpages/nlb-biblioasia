@@ -79,6 +79,11 @@ In 1894, Singapore kept a local time that was computed at 6 hours, 55 minutes an
 <img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_observatory.jpg" style="width: 40%;">
 
 
+<div style="background-color: white;">The Royal Observatory Greenwich, London, 2009. It gave its name to the Greenwich Mean Time since the Greenwich Meridian, also known as the Prime Meridian, passes through it. <i>Photo by Adusha. From Wikimedia Commons. </i></div>
+
+
+
+
 This, however, meant that local clocks in two nearby towns could differ by a few minutes. For much of the 19th century, these differences did not affect the daily lives of many. Farmers, for example, relied on understanding the broad seasonal changes in their work, and did not require precise timekeeping. However, this changed with the birth of the steam engine and the subsequent establishment of railway systems. This was especially so for the British Empire, including its colonies in British Malaya. Train operators had to organise train schedules across towns that had hitherto been keeping their own individual local time. This meant that commuters very often had to navigate between confusing timetables.[^18]
 
 Commuters travelling between Penang and Taiping in the year 1900 would need to know that the local time kept by the two towns differed by approximately 18 minutes and factor that into their reading of train schedules between the two towns.[^19]
