@@ -15,7 +15,7 @@ In 1985, 40 years after the end of the Japanese Occupation, a reader wrote to th
 
 When Singapore came under Japanese control in February 1942, one of the first things the Japanese did was to announce that Singapore and British Malaya would fall under the same time zone as Tokyo, which was one-and-a-half hours ahead of Malayan time.[^2] The occupation of Singapore was more than spatial; it became temporal as well, colonising Singapore through time. Public clocks in Singapore were adjusted from the local time zone of seven-and-a-half hours ahead of Greenwich Mean Time (GMT+07:30) to nine hours ahead (GMT+09:00).[^3] The residents of Singapore had to adjust their body clocks to the rhythms of Japanese imperial time. &nbsp;
 
-<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_main.jpg" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_map.jpg" style="width: 80%;">
 
 <div style="background-color: white;">This map insert presents a mapping of the various time zones around the world, with reference to 9 pm in Tokyo. It is part of a larger military map (scale 1:40,000,000) prepared and published by the Japanese Imperial Army on 15 February 1942, two weeks before Tokyo Time was implemented throughout Malaya. Image reproduced from Sekai kaishin jikyoku yōzu: Dai Tōa sensō kankei 世界改新時局要圖: 大東亜戦争関係 (Tokyo: Daido Shuppansha, 1942). <i>Lim Shao Bin Collection, National Library Singapore. </i></div>
 
@@ -28,6 +28,9 @@ This was even after all public clocks in Singapore had been synchronised to Toky
 But this confusing sense of living in double time is precisely why our 1985 reader had questions regarding the registered birth time of 5.30 pm which, according to the reply by the _Singapore Monitor_, was Tokyo Time. If the reader wished to have the time changed, he or she could obtain a birth extract at the National Registration Department, they advised.[^5]
 
 Once the Japanese Occupation ended, Singapore reverted to its previous time zone of seven-and-a-half hours ahead of GMT (GMT+07:30).[^6] This remained Singapore’s official public time until the Malaysian government announced in 1981 that it would be synchronising the time between West Malaysia (GMT+07:30) and East Malaysia (GMT+08:00), moving West Malaysia half an hour forward. Singapore’s government decided to follow suit and the change came into effect in Singapore on 1 January 1982.[^7]
+
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_main.jpg" style="width: 80%;">
+
 
 On New Year’s Eve, the _Straits Times_ quipped that merrymakers out on the town “will find their happy times ending a little sooner than they are used to” and “all because 1982 will leap in half-an-hour sooner, with midnight chiming at the ‘old’ 11.30 pm on Dec 31”.[^8]
 
