@@ -15,6 +15,12 @@ In 1985, 40 years after the end of the Japanese Occupation, a reader wrote to th
 
 When Singapore came under Japanese control in February 1942, one of the first things the Japanese did was to announce that Singapore and British Malaya would fall under the same time zone as Tokyo, which was one-and-a-half hours ahead of Malayan time.[^2] The occupation of Singapore was more than spatial; it became temporal as well, colonising Singapore through time. Public clocks in Singapore were adjusted from the local time zone of seven-and-a-half hours ahead of Greenwich Mean Time (GMT+07:30) to nine hours ahead (GMT+09:00).[^3] The residents of Singapore had to adjust their body clocks to the rhythms of Japanese imperial time. &nbsp;
 
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_main.jpg" style="width: 80%;">
+
+<div style="background-color: white;">This map insert presents a mapping of the various time zones around the world, with reference to 9 pm in Tokyo. It is part of a larger military map (scale 1:40,000,000) prepared and published by the Japanese Imperial Army on 15 February 1942, two weeks before Tokyo Time was implemented throughout Malaya. Image reproduced from Sekai kaishin jikyoku yōzu: Dai Tōa sensō kankei 世界改新時局要圖: 大東亜戦争関係 (Tokyo: Daido Shuppansha, 1942). <i>Lim Shao Bin Collection, National Library Singapore. </i></div>
+
+
+
 However, this change was not as simple or straightforward as it seemed. In February 1944, two years into the time adjustment, the _Syonan Shimbun_ reported that people in Singapore were still making appointments based on the local time observed earlier rather than Tokyo Time: “There seems to be still not a few people who have not awakened to the hour, so to speak. These people are still making appointments by ‘local’ time, with the result that there has been much confusion and often disappointment which may even be more unfortunate, if not disastrous.”&nbsp;
 
 This was even after all public clocks in Singapore had been synchronised to Tokyo Time.[^4] (It would be fascinating to know if this non-observation of Tokyo Time was, in fact, a form of quiet resistance, a bodily non-compliance.)&nbsp;
