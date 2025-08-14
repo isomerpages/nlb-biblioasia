@@ -76,6 +76,9 @@ Prior to the 20th century, most towns or cities in Malaya kept localised time; n
 
 In 1894, Singapore kept a local time that was computed at 6 hours, 55 minutes and 25.05 seconds ahead of time observed at the Royal Observatory Greenwich, London. This was based on Singapore’s longitudinal position of 103.854375° east of the Greenwich Meridian, with reference to the observatory located then at Fort Fullerton.[^17]
 
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_observatory.jpg" style="width: 40%;">
+
+
 This, however, meant that local clocks in two nearby towns could differ by a few minutes. For much of the 19th century, these differences did not affect the daily lives of many. Farmers, for example, relied on understanding the broad seasonal changes in their work, and did not require precise timekeeping. However, this changed with the birth of the steam engine and the subsequent establishment of railway systems. This was especially so for the British Empire, including its colonies in British Malaya. Train operators had to organise train schedules across towns that had hitherto been keeping their own individual local time. This meant that commuters very often had to navigate between confusing timetables.[^18]
 
 Commuters travelling between Penang and Taiping in the year 1900 would need to know that the local time kept by the two towns differed by approximately 18 minutes and factor that into their reading of train schedules between the two towns.[^19]
@@ -102,7 +105,7 @@ Many of the motivations behind daylight saving in 1930s Singapore were not so di
 
 In September 1941, time in Singapore was again tweaked, advancing another 10 minutes under the Daylight Saving (Amendment) Ordinance. This time, it had less to do with the health of the working majority, and more to do with the programming time slots of the British Empire’s radio network. At GMT+07:20, Singapore’s time zone presented an inconvenience as the overseas programming of the British Broadcasting Corporation began on 15-minute intervals of the hour.[^31]
 
-<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_malayantime.jpg" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/timezone_malayantime.jpg" style="width: 70%;">
 
 <div style="background-color: white;">In September 1941, time in Singapore was advanced by 10 minutes to GMT+07:30 to coincide with the programming time slots of the British Broadcasting Corporation in light of the impending war. <i>Source: The Straits Times, 5 May 1941 © SPH Media Limited. Permission required for reproduction. </i></div>
 
