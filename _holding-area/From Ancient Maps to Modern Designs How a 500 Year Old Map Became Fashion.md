@@ -15,3 +15,9 @@ Chen is the co-founder and design director of Reckless Ericka, a local clothing 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Afton_Chen_photo.jpg" style="width: 60%;">Afton Chen in her design studio, 2025. <i>Photo by Jolynn Lim.</i></div>
+
+When Chen first conceptualised a new collection with a travel-adventure theme, she did not know where to begin. One day, in 2021, she decided to visit the National Library Singapore for ideas. While reading up on Admiral Zheng He, Chen came across the Mao Kun Map (茅坤图), which is part of the National Library’s Rare Materials Collection.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun.jpg" style="width: 60%;">Mao Kun (茅坤) Map from _Wu Bei Zhi_ (武备志), chapter 240. <i>Collection of the National Library. Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>
