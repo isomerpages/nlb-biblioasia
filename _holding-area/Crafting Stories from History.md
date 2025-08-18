@@ -18,6 +18,13 @@ This was the case with Cheong’s upcoming graphic novel, _A Mild Case of Mass H
 
 In the graphic novel, one of the narratives involves a secret society member named Soo Tang. Cheong had originally intended for the character to fall in love with a member of the Red Butterfly gang – a notorious all-female gang, better known as Ang Hor Tiap, that had been active in the 1960s and 1970s.[^2]
 
+Cheong had planned for Soo Tang to be rebuffed romantically by the female gang member, leading him to develop Koro. However, while researching, Cheong came across a newspaper article about “gun molls” – female companions or associates of gangsters who carry weapons and serve as runners.[^3]
+
+This led Cheong to embark on a different story arc for Soo Tang, one focusing on the emotional dynamics between Soo Tang and his gun moll to explain his Koro symptoms. “Although the existence of gun molls was reported in 1958 \[…\] and my story takes place nine years later, the Freudian overtone of a woman whose job is to carry a gangster’s gun is too good to resist,” he noted.
+
+  
+
+
   
 
 * * *
@@ -26,3 +33,5 @@ In the graphic novel, one of the narratives involves a secret society member nam
 [^1]:  Koro Study Team, “The Koro “Epidemic” in Singapore,” _Singapore Medical Journal_ 10, no. 4 (December 1969): 234, [http://smj.sma.org.sg/smjmainpages/1004main.html](http://smj.sma.org.sg/smjmainpages/1004main.html).
 
 [^2]:  “[Ex-gangster: Today’s Girl Gangs Have Nothing Better to Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper20101121-1.2.3.2),” _New Paper_, 21 November 2010, 2–3. (From NewspaperSG)
+
+[^3]:  “[Police Have ‘Gun Molls’ on Record](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19580924-1.2.6),” _Singapore Standard_, 24 September 1958, 1 (From NewspaperSG)
