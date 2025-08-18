@@ -17,9 +17,14 @@ third_nav_title: 立足现在
 **活动时间**：	一年四场，二、五、八与十一月
 第一个星期三，下午3时至5时
 
-联系方式：	郭永发/陈荣裕
-91293775
-kerkeh@hotmail.com
+
+**联系人**：	郭永发/陈荣裕
+
+**联系电话**：91293775
+
+**联系电邮**：kerkeh@hotmail.com
+
+
 
 **社交媒体**：	脸书
 [https://www.facebook.com/groups/556769671157934](https://www.facebook.com/groups/556769671157934)
