@@ -46,12 +46,15 @@ The oral accounts helped paint a wider picture of Redhill. “You’re trying to
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/yeehung_uses_archival_material.jpg" style="width: 80%;">Lim Yee Hung reenacts his use of archival materials during a video shoot for “<a href="“https://www.nlb.gov.sg/main/site/beinspiredbyhistory&quot;">Be Inspired By History</a>”, a campaign by the National Library Board inviting Singaporeans to use historical records from the National Library and National Archives to create new and original works. _Photo by Ruth Wee._
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/yeehung_uses_archival_material.jpg" style="width: 80%;">Lim Yee Hung reenacts his use of archival materials during a video shoot for “<a href="“https://www.nlb.gov.sg/main/site/beinspiredbyhistory&quot;">Be Inspired By History</a>”, a campaign by the National Library Board inviting Singaporeans to use historical records from the National Library and National Archives to create new and original works. <i>Photo by Ruth Wee.</i></div>
 
-* * *
+#### **Challenges and Strengths of Working with Historical Materials**
 
-&nbsp;[\[VC1\]](#_msoanchor_1)Insert link</div>
+While the National Archives holds valuable information about the past, working with archival materials presents unique challenges. Lim describes how finding specific locations in historical photographs can be difficult, as the descriptions or captions tend to indicate the general location and are not detailed enough. For instance, when trawling through aerial photographs by the British Royal Air Force, Lim had to meticulously examine many images before he could identify the exact location he was looking for.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/aerial_photo_remnants_of_oil_tanks.jpg" style="width: 80%;">Aerial photograph showing remnants of oil tanks built by the British along Stagmont Ring during World War II, 1947. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
 
   
 
