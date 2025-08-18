@@ -30,9 +30,13 @@ Lim returned to Singapore in 2022 after a 14-year stay in the UK. “When I came
 
 Fuelled by curiosity about local lore surrounding Holland Village, Lim turned to the archives for evidence. “I knew Holland Village used to be a graveyard so I wanted to find the photos before it became the Holland V \[we know\] today,” he shared. From research, he uncovered historical photographs[^2] and oral history recordings[^3] verifying that the area used to be a Hakka cemetery.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/holland_v_chinese_cemetery.jpg" style="width: 80%;">Range of outdoor escape games offered by HiddenSG. <i>Screengrab of HiddenSG website.</i></div>
+
   
 
-* * *
+
 
 
   
