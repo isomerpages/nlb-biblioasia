@@ -41,7 +41,7 @@ For his March 2025 video on the [origins of the name Dhoby Ghaut](https://www.in
   
 
 * * *
-
+#### **Notes**
 
 [^1]:  “[Progress of Brick-Making Through the Centuries](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320102-1.2.144.27),” _Straits Times_, 2 January 1932, 11. (From NewspaperSG); Stephanie Ho, “[Pasir Panjang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ca284afb-903d-40f0-822e-df830bb0ee3f),” _Singapore Infopedia_. Article published 8 July 2016.
 
