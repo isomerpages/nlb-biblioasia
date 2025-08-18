@@ -47,7 +47,8 @@ Another fleet, known as the Southern Fleet, set out from Goa, skirted the wester
 
 Camões had gone to India as a soldier and, less than two months after his arrival in Goa, embarked on a military expedition to intervene in a conflict between two Indian kingdoms over some islets. Now, while one of those kingdoms was a vassal of Portugal, the other was on the side of the Zamorin of Calicut (the hereditary ruler of the Kingdom of Calicut, a prominent trading centre on the Malabar Coast in southern India) and was hindering the Portuguese trade in precious pepper. The Portuguese, who were greater in number, had advanced weapons, while the subjects of the so-called King of Pepper fought with bows and arrows. The battle was devastating for the population of the islets. When narrating in verse his military debut in the East, Camões did not give in to any heroic impulses, but rather spoke of the vanity and cruelty of war: “I saw in our own people such hauteur / and in the land’s owners so little, against whom / it was at once necessary to make war.”[^4] It seems certain that, from the beginning, the life of a soldier in the East disappointed him.
 
-![](/images/Vol%2021%20Issue%203/Luis/luis_map2.jpg)
+<img src="/images/Vol%2021%20Issue%203/Luis/luis_map3.png" style="width: 100%;">
+
 <div style="background-color: white;">Some of the places in Asia that Luís de Camões visited during the 17 years he spent away from Lisbon.</div>
 
 #### **Imprisonment in Goa**
