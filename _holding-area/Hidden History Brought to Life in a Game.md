@@ -4,7 +4,6 @@ permalink: /holding-area/hidden-history-brought-to-life-in-a-game/
 variant: markdown
 description: ""
 ---
-
 #### **From burial grounds to secret societies, HiddenSG brings old records from the National Archives to life, weaving historical materials into immersive adventures across the island.**
 By Ruth Wee
 <br><small>18 August 2025</small>
@@ -61,18 +60,11 @@ While the National Archives holds valuable information about the past, working w
 <br>
 <img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/aerial_photo_yew_tee_mandai_village.jpg" style="width: 80%;">Aerial photograph oriented with north on the right, shows the Yew Tee Village area in 1951.. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
 
-  
+However, Lim sees tremendous value in having access to such authoritative historical records, especially with the proliferation of AI-generated content today. With its extensive collection, the National Archives serves as a crucial reference point to distinguish authentic historical evidence from AI-generated content. “The archives are very important as a tool against the generative abilities of AI \[which\] just create whatever people want to see,” he said.
 
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src=""><b>Ruth Wee</b> is an intern with the publishing department at the National Library Singapore. Ruth has a Bachelor of Arts (Honours) in English Language and Linguistics (Distinction) from the National University of Singapore.</div>  
 
-
-  
-
-
-
-
-  
-
-* * *
 #### **Notes**
 
 [^1]:  Ng Wei Kai, “[S’pore Firm Launches New Zealand-based Adventure Game in Tie-up with Maori tribe](https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes),” _Straits Times_, 14 December 2024, [https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes](https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes).
