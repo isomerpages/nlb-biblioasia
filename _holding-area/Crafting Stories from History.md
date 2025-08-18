@@ -38,7 +38,13 @@ While researching for a new graphic, _Opium: A War Story_, about the anti-opium 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 80%;">31J Pepys Road, the residence of the Inspector General of Opium, 1980. The house was demolished in 1988. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div><i>
+<img src="" style="width: 80%;">31J Pepys Road, the residence of the Inspector General of Opium, 1980. The house was demolished in 1988. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
+
+“Up to that point, I had not come across any mention of such a government position as the Inspector General of Opium. That immediately opened another rabbit hole for me to burrow into and upon further digging, I found a name – F. Dent – but little else about him. That again allowed my imagination to fill in the gaps and create a backstory for the villain,” he said. _Opium: A War Story_ is scheduled to be published in 2027 by Penguin Random House SEA.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Opium.jpg" style="width: 80%;">Pages from <i>Opium: A War Story. </i>Courtesy of Penguin Random House SEA.</div>
   
 
 
@@ -57,4 +63,4 @@ While researching for a new graphic, _Opium: A War Story_, about the anti-opium 
 
 [^3]:  “[Police Have ‘Gun Molls’ on Record](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19580924-1.2.6),” _Singapore Standard_, 24 September 1958, 1 (From NewspaperSG)
 
-[^4]:  Ronni Pinsler, “[31J Pepys Road, Colonial Mansion Built As Residence for the Inspector General of Opium](https://www.nas.gov.sg/archivesonline/photographs/record-details/863eea4c-1162-11e3-83d5-0050568939ad),” 1980, photograph. (From National Archives of Singapore, Media - Image no. 19990007463&nbsp;-&nbsp;049)</i>
+[^4]:  Ronni Pinsler, “[31J Pepys Road, Colonial Mansion Built As Residence for the Inspector General of Opium](https://www.nas.gov.sg/archivesonline/photographs/record-details/863eea4c-1162-11e3-83d5-0050568939ad),” 1980, photograph. (From National Archives of Singapore, Media - Image no. 19990007463&nbsp;-&nbsp;049)
