@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Crafting Stories from History.md
       - From Ancient Maps to Modern Designs How a 500 Year Old Map Became
         Fashion.md
       - Luís de Camões in Asia.md
