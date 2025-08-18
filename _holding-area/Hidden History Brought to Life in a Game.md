@@ -34,9 +34,6 @@ Fuelled by curiosity about local lore surrounding Holland Village, Lim turned to
 
 * * *
 
-[\[1\]](#_ftnref1) British Royal Air Force, “[Aerial View of Holland Village with a Chinese Cemetery in the Foreground](https://www.nas.gov.sg/archivesonline/photographs/record-details/bcc81f7b-1162-11e3-83d5-0050568939ad),” 2 September 1958, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 188736)
-
-[\[2\]](#_ftnref2) Ho Teck Min, oral history interview by Lye Soo Choon, 16 June 2005, MP3 audio. Reel/Disc 2 of 3, 54:21, National Archives of Singapore ([accession no. 002940](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002940)).
 
   
 
@@ -44,3 +41,7 @@ Fuelled by curiosity about local lore surrounding Holland Village, Lim turned to
 #### **Notes**
 
 [^1]:  Ng Wei Kai, “[S’pore Firm Launches New Zealand-based Adventure Game in Tie-up with Maori tribe](https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes),” _Straits Times_, 14 December 2024, [https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes](https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes).
+
+[^2]:  British Royal Air Force, “[Aerial View of Holland Village with a Chinese Cemetery in the Foreground](https://www.nas.gov.sg/archivesonline/photographs/record-details/bcc81f7b-1162-11e3-83d5-0050568939ad),” 2 September 1958, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 188736)
+
+[^3]:  Ho Teck Min, oral history interview by Lye Soo Choon, 16 June 2005, MP3 audio. Reel/Disc 2 of 3, 54:21, National Archives of Singapore ([accession no. 002940](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002940)).
