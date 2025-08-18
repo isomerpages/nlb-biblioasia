@@ -41,6 +41,12 @@ For his March 2025 video on the [origins of the name Dhoby Ghaut](https://www.in
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Indian_Washmen.jpg" style="width: 80%;">Indian laundry men or <i>dhobies</i> in Singapore, 1900s. <i>Courtesy of National Archives of Singapore. </i></div>
+
+In many ways, the relationship between the archives and Yong is a partnership. The rewarding part, Yong noted, is when he puts an entire video together that combines archival materials with his unique brand of storytelling and understanding of the materials. “My journey has been very intertwined with archival materials. It’s not just a tool but a storyteller in itself, I feel, in what I want to convey and impress upon,” he said.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_video_shoot.jpg" style="width: 80%;">Indian laundry men or <i>dhobies</i> in Singapore, 1900s. <i>Courtesy of National Archives of Singapore. </i></div>
   
 
 * * *
