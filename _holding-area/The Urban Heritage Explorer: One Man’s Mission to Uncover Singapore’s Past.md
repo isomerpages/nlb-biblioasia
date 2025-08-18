@@ -10,4 +10,4 @@ By Jolynn Lim
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Afton_Chen_photo.jpg" style="width: 60%;">Afton Chen in her design studio, 2025. <i>Photo by Jolynn Lim.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_Tour_.jpg" style="width: 60%;">Yong conducting a tour. <i>Courtesy of the Asian Civilisations Museum.</i></div>
