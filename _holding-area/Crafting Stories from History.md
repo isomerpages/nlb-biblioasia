@@ -22,6 +22,10 @@ Cheong had planned for Soo Tang to be rebuffed romantically by the female gang m
 
 This led Cheong to embark on a different story arc for Soo Tang, one focusing on the emotional dynamics between Soo Tang and his gun moll to explain his Koro symptoms. “Although the existence of gun molls was reported in 1958 \[…\] and my story takes place nine years later, the Freudian overtone of a woman whose job is to carry a gangster’s gun is too good to resist,” he noted.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 80%;">Felix Cheong with some notes for his graphic novels. <i>Courtesy of Felix Cheong.</i></div>
+
   
 
 
