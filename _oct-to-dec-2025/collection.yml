@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2025:
     output: true
     order:
+      - "Daylight Robbery: Singapore’s Shifting Time Zones.md"
       - “Majulah Singapura” and Other Love Songs.md
       - “Majulah Singapura” Finally Repaired the Breach.md
       - "From Liguria to the Lion City: The Life and Times of Giovanni
