@@ -66,10 +66,8 @@ Besides creating content for social media, Yong collaborates on heritage venture
 
 For Yong, this insistence on keeping history alive comes from his belief that heritage is a living thread that is passed down from generation to generation. His parting shot: “What drives me is the fact that I think we have so many more stories yet to be shared that needs to be shared.”&nbsp;
 
-  
-
-  
-
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src=""><b>Jolynn Lim</b> is a former intern with the publishing department at the National Library Singapore. She graduated from the Nanyang Technological University with a Bachelor of Arts (Hons) in English in 2025.</div>  
 
 #### **Notes**
 
