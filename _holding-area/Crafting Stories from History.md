@@ -38,7 +38,7 @@ While researching for a new graphic, _Opium: A War Story_, about the anti-opium 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 80%;">Pages from <i>31J Pepys Road, the residence of the Inspector General of Opium, 1980. The house was demolished in 1988. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></i></div><i>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 80%;">31J Pepys Road, the residence of the Inspector General of Opium, 1980. The house was demolished in 1988. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div><i>
   
 
 
