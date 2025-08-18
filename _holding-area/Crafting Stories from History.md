@@ -66,23 +66,9 @@ Despite his best efforts, Cheong was not able to uncover what had taken place in
 
 Cheong’s advice to other creatives who are interested in using historical records for their work: “Be curious, be prepared to spend time and be ready to let your imagination go.”
 
-  
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src=""><b>Jolynn Lim</b> is a former intern with the publishing department at the National Library Singapore. She graduated from the Nanyang Technological University with a Bachelor of Arts (Hons) in English in 2025.</div>  
 
-* * *
-
-
-
-
-  
-
-
-
-  
-
-
-  
-
-* * *
 #### **Notes**
 
 [^1]:  Koro Study Team, “The Koro “Epidemic” in Singapore,” _Singapore Medical Journal_ 10, no. 4 (December 1969): 234, [http://smj.sma.org.sg/smjmainpages/1004main.html](http://smj.sma.org.sg/smjmainpages/1004main.html).
