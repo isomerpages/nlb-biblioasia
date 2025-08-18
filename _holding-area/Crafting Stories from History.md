@@ -24,7 +24,7 @@ This led Cheong to embark on a different story arc for Soo Tang, one focusing on
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 80%;">Felix Cheong with some notes for his graphic novels. <i>Courtesy of Felix Cheong.</i></div>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 80%;">Pages from <i>A Mild Case of Mass Hysteria. </i>Courtesy of Penguin Random House SEA.</div>
 
   
 
