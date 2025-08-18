@@ -52,11 +52,7 @@ Although the “Voyage” collection is no longer available today, the National 
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src=""><b>Jolynn Lim</b> is a former intern with the publishing department at the National Library Singapore. She graduated from the Nanyang Technological University with a Bachelor of Arts (Hons) in English in 2025.</div>  
-
-  
-
-* * *
-
+ 
 #### **Notes**
 
 [^1]:  National Library Board, _[On Paper: Singapore Before 1867](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203936524)_ (Singapore: National Library Board, 2019), 20–25. (From National Library Singapore, call no. RSING 959.5703 ON); National Library Board, _[Stories from the Stack: Selections from the National Library Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205258180)_ (Singapore: National Library Board, Singapore: Marshall Cavendish Editions 2020), 38–39. (From National Library Singapore, call no. RSING 016.95957 SIN)
