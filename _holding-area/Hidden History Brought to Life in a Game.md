@@ -34,6 +34,18 @@ Fuelled by curiosity about local lore surrounding Holland Village, Lim turned to
 <br>
 <img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/holland_v_chinese_cemetery.jpg" style="width: 80%;">Cropped photograph of Holland Village with a Chinese cemetery in the foreground taken by the British Royal Air Force, 1958. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
 
+To Lim, different archival mediums highlight different facets of history, each providing pieces of a larger puzzle. “The oral histories give you a lot more nuance”, while photographs reveal places in their former glory. Weaving together both mediums in his game provides players with a glimpse into Singapore’s past. “Because you are standing there, you’re seeing the photo and you’re listening to the \[audio track\], then your imagination kicks in,” he said.
+
+Research often leads to unexpected discoveries. He did not know that Redhill Lim used to be a notorious haven for gangs and secret societies until he chanced upon an oral history interview.[^4] “My god… all the Sa-lak-kau[^5] \[a secret society\] and everything was there, like police don’t even go there.”
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) [Ho Wan Hew](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/58bb4cb1-115e-11e3-83d5-0050568939ad?keywords=redhill&amp;keywords-type=all), oral history interview by Lai Ah Eng, 4 November 1996, MP3 audio. Reel/Disc 8 of 10, 31:04, National Archives of Singapore ([accession no. 001790](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001790)).
+
+[\[2\]](#_ftnref2) Salakau was the name of one of the oldest and more prominent secret societies or street gangs active in Singapore from the 1970s to the 1980s. _Salakau_ means the numbers “369” in Hokkien.
+
   
 
 
