@@ -26,6 +26,27 @@ This led Cheong to embark on a different story arc for Soo Tang, one focusing on
 <br>
 <img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 80%;">Pages from <i>A Mild Case of Mass Hysteria. </i>Courtesy of Penguin Random House SEA.</div>
 
+#### **Digging in the Library and Archives**
+
+           
+
+Cheong’s research process often begins with an initial trawl of [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/), the National Library’s online resource of current and historic Singapore and Malaya newspapers, using the key word search function to identify anything that might be of interest to his book project.
+
+“After mind mapping and identifying subtopics, I’d let my curiosity lead me where it will, be it archival photos or interview recordings in NAS \[National Archives of Singapore\], or books or journals in the Lee Kong Chian Reference Library.” &nbsp;
+
+While researching for a new graphic, _Opium: A War Story_, about the anti-opium movement, Cheong came across a 1980 photograph on NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline/)[\[VC2\]](#_msocom_2)&nbsp; of a colonial bungalow on Pepys Road that served as the residence of the Inspector General of Opium (he supervised the opium factory at the foot of Bukit Chandu).[\[1\]](#_ftn1)
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Ronni Pinsler, “[31J Pepys Road, Colonial Mansion Built As Residence for the Inspector General of Opium](https://www.nas.gov.sg/archivesonline/photographs/record-details/863eea4c-1162-11e3-83d5-0050568939ad),” 1980, photograph. (From National Archives of Singapore, Media - Image no. 19990007463&nbsp;-&nbsp;049)
+
+* * *
+
+&nbsp;[\[VC1\]](#_msoanchor_1)Insert link
+
+&nbsp;[\[VC2\]](#_msoanchor_2)Insert link
   
 
 
