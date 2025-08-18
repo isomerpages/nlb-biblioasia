@@ -21,3 +21,17 @@ When Chen first conceptualised a new collection with a travel-adventure theme, s
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun.jpg" style="width: 60%;">Mao Kun (茅坤) Map from _Wu Bei Zhi_ (武备志), chapter 240. <i>Collection of the National Library. Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>
+
+         
+
+“It was something I’ve not really seen before, and it \[didn’t\] look like a conventional map. So, it was a lot of firsts and we were quite excited,” Chen said.&nbsp;What especially piqued her curiosity were the three Chinese characters on the map: 淡马锡 (Danmaxi; the Chinese translation of Temasek and the ancient name of Singapore).
+
+The map was first published in the late-Ming publication _Wu Bei Zhi_ (武备志) and had been complied in 1621 by Mao Yuanyi (茅元仪). Originally drawn as a scroll, the map was recast for publication. The map is believed to be part of the personal collection of Mao’s grandfather, Mao Kun (茅坤), who owned a large and distinguished library.[^1]
+
+  
+
+* * *
+
+#### **Notes**
+
+[^1]:  National Library Board, _[On Paper: Singapore Before 1867](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203936524)_ (Singapore: National Library Board, 2019), 20–25. (From National Library Singapore, call no. RSING 959.5703 ON); National Library Board, _[Stories from the Stack: Selections from the National Library Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205258180)_ (Singapore: National Library Board, Singapore: Marshall Cavendish Editions 2020), 38–39. (From National Library Singapore, call no. RSING 016.95957 SIN)
