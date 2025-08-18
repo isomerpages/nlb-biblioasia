@@ -46,12 +46,37 @@ In many ways, the relationship between the archives and Yong is a partnership. T
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_video_shoot.jpg" style="width: 80%;">Indian laundry men or <i>dhobies</i> in Singapore, 1900s. <i>Courtesy of National Archives of Singapore. </i></div>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_video_shoot.jpg" style="width: 80%;">Yong at a video shoot for <a href="“https://www.nlb.gov.sg/main/site/beinspiredbyhistory&quot;">"Be Inspired By History"</a>, a campaign by the National Library Board inviting Singaporeans to use historical records from the National Library and National Archives to create new and original works. <i>Photo by Woo Pei Qi.</i></div>
+	
+For the 60th anniversary of Singapore’s independence, Yong created a tour in April 2025 titled “Majulah Singapura: The Untold Story of a Nation’s Anthem”, which explores the history and origins of the song, its eventual adoption as Singapore's national anthem as well as the life of its composer, Zubir Said.
+
+Places visited along the tour include the Kramat of Sultan Iskandar Shah on Fort Canning, Central Fire Station, Elgin Bridge, St Andrew’s Cathedral, Civilian War Memorial, Stamford Bridge stone stump, National Gallery Singapore, and the Victoria Theatre and Concert Hall. When both sessions of the tour were launched, they sold out within 30 minutes.
+
+The inspiration for the tour came from a _BiblioAsia_ article, “[May Singapore Flourish!](https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/maysingaporeflourish/)”, about the municipality of Singapore receiving a coat of arms by royal warrant on 9 April 1948.[^3] On the warrant document is the crest of the Singapore municipality, consisting of a lion with a coconut palm behind it, with the coat of arms below the crest.&nbsp; But what stood out for Yong were the&nbsp;words “Majulah Singapura” – Singapore’s national anthem today – inscribed just below the cost of arms.
+
+Intrigued, Yong combed through old newspaper articles on [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/), the National Library’s online resource of current and historic Singapore and Malaya newspapers, to trace the motto's original use and evolution.[^4] “It was amazing to see how much you can find out through what was shared in newspaper articles from the past,” he said.
+
+Yong spent about five months researching the history of the motto and planning the route for his tour. Since the launch, the tour has been organised exclusively for schools, organisations and private clients. He will be bringing it back for the public to coincide with the launch of SG Culture Pass (Singaporeans aged 18 and above have $100 worth of credits that they can use to defray the cost of tickets to arts and heritage programmes).
+
+#### **On a Mission**
+
+Yong is very careful to avoid looking at history through the lens of nostalgia. Most of his videos, like the one on the Stamford Canal, tend to focus on the facts and history behind each landmark or building, and how they affect the present. He recognises that although videos that evoke a sense of nostalgia may get him more views or likes, he said: “I think \[I’d\] rather stay true to what my mission is, which is making heritage accessible, alive and meaningful in constructive and productive ways.”
+
+Besides creating content for social media, Yong collaborates on heritage ventures, leads heritage walks upon requests, and works with schools and organisations to curate activities and storytelling walks.
+
+For Yong, this insistence on keeping history alive comes from his belief that heritage is a living thread that is passed down from generation to generation. His parting shot: “What drives me is the fact that I think we have so many more stories yet to be shared that needs to be shared.”&nbsp;
+
   
 
-* * *
+  
+
+
 #### **Notes**
 
 [^1]:  “[Progress of Brick-Making Through the Centuries](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320102-1.2.144.27),” _Straits Times_, 2 January 1932, 11. (From NewspaperSG); Stephanie Ho, “[Pasir Panjang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ca284afb-903d-40f0-822e-df830bb0ee3f),” _Singapore Infopedia_. Article published 8 July 2016.
 
 [^2]:  National Archives of Singapore, “[Indian Laundry Men or Dhobies in Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/adc5459f-1161-11e3-83d5-0050568939ad),” 1900s, photograph. (From National Archives of Singapore, Media - Image no. 19980007379&nbsp;-&nbsp;0033)
+	
+[^3]:  Mark Wong, “[May Singapore Flourish! Revisiting the Municipal Coat of Arms](https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/maysingaporeflourish/),” _BiblioAsia_ 13, no. 4 (January–March 2018):58–61.&nbsp;&nbsp;&nbsp;&nbsp;
+
+[^4]:  “[Official Motto for Penang Adopted: ‘United and Loyal’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19501107-1.2.73),” _Singapore Standard_, 7 November 1950, 4; Harry Miller, “[Majulah Singapura!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510923-1.2.2)” _Straits Times_, 23 September 1951, 1; “[What’s in a Motto?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19511010-1.2.88)” _Straits Times_, 10 October 1951, 6. (From NewspaperSG)
