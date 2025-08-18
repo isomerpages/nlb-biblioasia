@@ -5,3 +5,31 @@ variant: markdown
 description: ""
 third_nav_title: 立足现在
 ---
+<img src="/images/Reading%20Club%20Exhibition/Present/present_readingclub_18.png" style="width: 100%;"> 
+
+
+**成立时间**：	2015年
+
+**活动地点**：	47 Kallang Pudding Rd, Singapore 349318
+
+**活动时间**：	每周一次，不定期时间、地点进行
+
+
+
+**联系人**：	童娇玲
+
+**联系电话**：94529058
+
+**联系电邮**：jiaoling82@gmail.com
+
+
+
+**读书会简介**：	愿景:  持续传递好书价值  
+
+**使命**:  帮助3亿书友因阅读受益  
+
+**价值观**:
+* 读书向善  
+* 平等与尊重  
+* 感激反馈与帮助  
+* 终身成长
