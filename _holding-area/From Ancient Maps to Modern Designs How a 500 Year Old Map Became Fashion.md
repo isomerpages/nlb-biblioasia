@@ -20,13 +20,24 @@ When Chen first conceptualised a new collection with a travel-adventure theme, s
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun.jpg" style="width: 60%;">Mao Kun (茅坤) Map from _Wu Bei Zhi_ (武备志), chapter 240. <i>Collection of the National Library. Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>
-
-         
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun.jpg" style="width: 60%;">Mao Kun (茅坤) Map from _Wu Bei Zhi_ (武备志), chapter 240. <i>Collection of the National Library. Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>         
 
 “It was something I’ve not really seen before, and it \[didn’t\] look like a conventional map. So, it was a lot of firsts and we were quite excited,” Chen said.&nbsp;What especially piqued her curiosity were the three Chinese characters on the map: 淡马锡 (Danmaxi; the Chinese translation of Temasek and the ancient name of Singapore).
 
 The map was first published in the late-Ming publication _Wu Bei Zhi_ (武备志) and had been complied in 1621 by Mao Yuanyi (茅元仪). Originally drawn as a scroll, the map was recast for publication. The map is believed to be part of the personal collection of Mao’s grandfather, Mao Kun (茅坤), who owned a large and distinguished library.[^1]
+
+#### **From Library to Boutique**
+
+Chen realised that the map was a chance to let more people know about Singapore’s past. “Now, we have companies called Temasek Holdings, companies that have Temasek in their names, but I don’t know how many people know where this ‘Temasek’ \[comes\] from,” she said.&nbsp;
+
+Once Chen decided that this map would form the basis of her second collection, she emailed the National Library for a digitised copy of the map and acquired the licence to reproduce the map, thus beginning the journey for her new collection.&nbsp;
+
+She traced the lines of the digitised map and cleaned up the background to replicate the simplicity of the map. She then experimented with vibrant colours and fabric materials, incorporating different materials such as cotton, rayon and recycled polyester together to give a new dimension to the map.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/voyage_design.jpg" style="width: 60%;">One of the dresses that Afton Chen designed for the “Voyage” collection. <i>Photo by Jolynn Lim. </i></div>  
+
 
   
 
