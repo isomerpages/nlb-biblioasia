@@ -42,6 +42,17 @@ Research often leads to unexpected discoveries. He did not know that Redhill Lim
 <br>
 <img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/redhill_SIT_flats.jpg" style="width: 80%;">In the foreground are the Singapore Improvement Trust flats in Redhill Close, 1960s. <i>Eelke Wolters Collection, courtesy of National Archives of Singapore.</i></div>
 
+The oral accounts helped paint a wider picture of Redhill. “You’re trying to get to the point where let’s say I’m searching for the gangs in Redhill... the person will be telling you everything about Redhill. So they’ll be like, ‘by the way there’s that thing’. And so in trying to find out more about the gang, by being forced to listen to this person talk about everything with Redhill, you will learn a lot of things that you didn’t know also existed,” Lim explained.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/yeehung_uses_archival_material.jpg" style="width: 80%;">Lim Yee Hung reenacts his use of archival materials during a video shoot for “<a href="“https://www.nlb.gov.sg/main/site/beinspiredbyhistory&quot;">Be Inspired By History</a>”, a campaign by the National Library Board inviting Singaporeans to use historical records from the National Library and National Archives to create new and original works. _Photo by Ruth Wee._
+
+* * *
+
+&nbsp;[\[VC1\]](#_msoanchor_1)Insert link</div>
+
+
   
 
 
