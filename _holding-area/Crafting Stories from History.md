@@ -34,19 +34,12 @@ Cheong’s research process often begins with an initial trawl of [NewspaperSG](
 
 “After mind mapping and identifying subtopics, I’d let my curiosity lead me where it will, be it archival photos or interview recordings in NAS \[National Archives of Singapore\], or books or journals in the Lee Kong Chian Reference Library.” &nbsp;
 
-While researching for a new graphic, _Opium: A War Story_, about the anti-opium movement, Cheong came across a 1980 photograph on NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline/)[\[VC2\]](#_msocom_2)&nbsp; of a colonial bungalow on Pepys Road that served as the residence of the Inspector General of Opium (he supervised the opium factory at the foot of Bukit Chandu).[\[1\]](#_ftn1)
+While researching for a new graphic, _Opium: A War Story_, about the anti-opium movement, Cheong came across a 1980 photograph on NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline/) of a colonial bungalow on Pepys Road that served as the residence of the Inspector General of Opium (he supervised the opium factory at the foot of Bukit Chandu).[^4]
 
   
 
-* * *
 
-[\[1\]](#_ftnref1) Ronni Pinsler, “[31J Pepys Road, Colonial Mansion Built As Residence for the Inspector General of Opium](https://www.nas.gov.sg/archivesonline/photographs/record-details/863eea4c-1162-11e3-83d5-0050568939ad),” 1980, photograph. (From National Archives of Singapore, Media - Image no. 19990007463&nbsp;-&nbsp;049)
 
-* * *
-
-&nbsp;[\[VC1\]](#_msoanchor_1)Insert link
-
-&nbsp;[\[VC2\]](#_msoanchor_2)Insert link
   
 
 
@@ -60,3 +53,5 @@ While researching for a new graphic, _Opium: A War Story_, about the anti-opium 
 [^2]:  “[Ex-gangster: Today’s Girl Gangs Have Nothing Better to Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper20101121-1.2.3.2),” _New Paper_, 21 November 2010, 2–3. (From NewspaperSG)
 
 [^3]:  “[Police Have ‘Gun Molls’ on Record](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19580924-1.2.6),” _Singapore Standard_, 24 September 1958, 1 (From NewspaperSG)
+
+[^4]:  Ronni Pinsler, “[31J Pepys Road, Colonial Mansion Built As Residence for the Inspector General of Opium](https://www.nas.gov.sg/archivesonline/photographs/record-details/863eea4c-1162-11e3-83d5-0050568939ad),” 1980, photograph. (From National Archives of Singapore, Media - Image no. 19990007463&nbsp;-&nbsp;049)
