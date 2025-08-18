@@ -62,6 +62,16 @@ Cheong’s 2023 graphic novel, _The Showgirl and the Minister_, was based entire
 <br>
 <img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_Launch.jpg" style="width: 60%;">     Felix Cheong at the launch of <i>The Showgirl and the Minister</i>, 2023. <i>Courtesy of Felix Cheong.</i></div>
 
+Despite his best efforts, Cheong was not able to uncover what had taken place in those 10 days. However, this became an opportunity for Cheong to spin a tale of espionage around the two disappearances, working in the Vietnam War and Konfrontasi (also known as the&nbsp;Indonesia-Malaysia Confrontation[^6]),&nbsp;which was a period of armed conflict between Indonesia and Malaysia from 1963 to 1966. (Cheong documented his research in an epilogue in the book.)
+
+Cheong’s advice to other creatives who are interested in using historical records for their work: “Be curious, be prepared to spend time and be ready to let your imagination go.”
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Marsita Omar, “[Indonesia-Malaysia Confrontation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2008.
+
 
   
 
