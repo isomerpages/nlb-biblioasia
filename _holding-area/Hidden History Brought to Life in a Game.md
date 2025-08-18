@@ -24,6 +24,20 @@ HiddenSG has attracted over 75,000 players since its launch in mid-2022, garneri
 <br>
 <img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/hiddensg_website.jpg" style="width: 80%;">Range of outdoor escape games offered by HiddenSG. <i>Screengrab of HiddenSG website.</i></div>
 
+#### **Unearthing the Past Through the National Archives**
+
+Lim returned to Singapore in 2022 after a 14-year stay in the UK. “When I came back, I was trying to reconnect with my roots in Singapore,” Lim recalled. In a bid to get reacquainted with Singapore’s history and heritage, he stumbled upon the National Archives which proved to be a treasure trove.
+
+Fuelled by curiosity about local lore surrounding Holland Village, Lim turned to the archives for evidence. “I knew Holland Village used to be a graveyard so I wanted to find the photos before it became the Holland V \[we know\] today,” he shared. From research, he uncovered historical photographs[^2] and oral history recordings[^3] verifying that the area used to be a Hakka cemetery.
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) British Royal Air Force, “[Aerial View of Holland Village with a Chinese Cemetery in the Foreground](https://www.nas.gov.sg/archivesonline/photographs/record-details/bcc81f7b-1162-11e3-83d5-0050568939ad),” 2 September 1958, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 188736)
+
+[\[2\]](#_ftnref2) Ho Teck Min, oral history interview by Lye Soo Choon, 16 June 2005, MP3 audio. Reel/Disc 2 of 3, 54:21, National Archives of Singapore ([accession no. 002940](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002940)).
+
   
 
 * * *
