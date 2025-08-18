@@ -38,7 +38,11 @@ She traced the lines of the digitised map and cleaned up the background to repli
 <br>
 <img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/voyage_design.jpg" style="width: 60%;">One of the dresses that Afton Chen designed for the “Voyage” collection. <i>Photo by Jolynn Lim. </i></div>  
 
+In 2022, after a year of intense design work, Chen launched her second collection that she aptly named “Voyage” to represent feelings of adventure, hope and the future. In total, 23 different items – 11 dresses, five skirts, six tops and a pair of shorts – were made. The collection was well received, with some of the designs selling out shortly after its release.&nbsp;“Many customers were drawn to the historical significance of the map,” Chen remarked, sharing that it was a talking point for many customers.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Selection_of_designs.jpg" style="width: 60%;">A selection of designs from the “Voyage” collection. <i>Courtesy of Afton Chen. </i></div>  
   
 
 * * *
