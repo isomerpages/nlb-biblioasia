@@ -10,7 +10,7 @@ By Jolynn Lim
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_Tour_.jpg" style="width: 60%;">Yong conducting a tour. <i>Courtesy of the Asian Civilisations Museum.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_Tour_.jpg" style="width: 80%;">Yong conducting a tour. <i>Courtesy of the Asian Civilisations Museum.</i></div>
 
 To most people, history is a thing of the past, a memory set in stone. To Ho Yong Min, however, history is a living thread connecting historical accounts and events to the present and, more importantly, to the shared experiences of Singaporeans.
 
@@ -38,6 +38,9 @@ Yong embarked on The Urbanist Singapore to make history come alive and bridge th
 
 For his March 2025 video on the [origins of the name Dhoby Ghaut](https://www.instagram.com/p/DHuME0lTr0x/) (from&nbsp;the Hindi word _dhobi_, which means “washerman”, and&nbsp;_ghat_, which refers to the steps leading down to a body of water), Yong included a 1900s photo of Indian washermen from the [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/). These _dhobies_ used to wash laundry in the Stamford Canal. The photo provides a visual link to an old trade of Singapore that we no longer see today.[^2]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Indian_Washmen.jpg" style="width: 80%;">Indian laundry men or <i>dhobies</i> in Singapore, 1900s. <i>Courtesy of National Archives of Singapore. </i></div>
   
 
 * * *
