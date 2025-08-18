@@ -70,7 +70,7 @@ Cheong’s advice to other creatives who are interested in using historical reco
 
 * * *
 
-[\[1\]](#_ftnref1) Marsita Omar, “[Indonesia-Malaysia Confrontation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2008.
+
 
 
   
@@ -94,3 +94,5 @@ Cheong’s advice to other creatives who are interested in using historical reco
 [^4]:  Ronni Pinsler, “[31J Pepys Road, Colonial Mansion Built As Residence for the Inspector General of Opium](https://www.nas.gov.sg/archivesonline/photographs/record-details/863eea4c-1162-11e3-83d5-0050568939ad),” 1980, photograph. (From National Archives of Singapore, Media - Image no. 19990007463&nbsp;-&nbsp;049)
 
 [^5]:  Yong Chun Yuan, “[Hokkien-Teochew Riots (1854)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d555fee3-f3f7-4c27-811a-dbc4eddbf3b3),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
+
+[^6]:  Marsita Omar, “[Indonesia-Malaysia Confrontation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2008.
