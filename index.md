@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21//issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/
-      button: The Singapore and Southeast Asia Collection
+      url: /vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/
+      button: Pioneering Archaeological Research
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Hero_images_Jul_Sep_2025__11___1_.jpg
+      background: /images/Vol 21 Issue 2/Archaeologic/HeroImage_Archaeologic.jpg
       variant: center
+  - infopic:
+      title: Excavating the Past
+      subtitle: People
+      id: infopic
+      description: Writing a memoir involves personal experiences, digging deep into
+        our memories and the emphasis on factual information.
+      button: Challenges of Memoir Writing
+      url: /vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/
+      image: /images/Vol 21 Issue 3/Excavating the Past/Excavating_Topic.png
+      alt: Excavating the Past
   - infopic:
       title: The Libraries and Archives of Tomorrow
       subtitle: Op-ed
@@ -1124,16 +1134,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: Excavating the Past
-      subtitle: People
-      id: infopic
-      description: Writing a memoir involves personal experiences, digging deep into
-        our memories and the emphasis on factual information.
-      button: Challenges of Memoir Writing
-      url: /vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/
-      image: /images/Vol 21 Issue 3/Excavating the Past/Excavating_Topic.png
-      alt: Excavating the Past
   - infopic:
       title: “Majulah Singapura” Finally Breached the Gap
       subtitle: People

@@ -47,6 +47,9 @@ Another fleet, known as the Southern Fleet, set out from Goa, skirted the wester
 
 Camões had gone to India as a soldier and, less than two months after his arrival in Goa, embarked on a military expedition to intervene in a conflict between two Indian kingdoms over some islets. Now, while one of those kingdoms was a vassal of Portugal, the other was on the side of the Zamorin of Calicut (the hereditary ruler of the Kingdom of Calicut, a prominent trading centre on the Malabar Coast in southern India) and was hindering the Portuguese trade in precious pepper. The Portuguese, who were greater in number, had advanced weapons, while the subjects of the so-called King of Pepper fought with bows and arrows. The battle was devastating for the population of the islets. When narrating in verse his military debut in the East, Camões did not give in to any heroic impulses, but rather spoke of the vanity and cruelty of war: “I saw in our own people such hauteur / and in the land’s owners so little, against whom / it was at once necessary to make war.”[^4] It seems certain that, from the beginning, the life of a soldier in the East disappointed him.
 
+![](/images/Vol%2021%20Issue%203/Luis/luis_map2.jpg)
+<div style="background-color: white;">Some of the places in Asia that Luís de Camões visited during the 17 years he spent away from Lisbon.</div>
+
 #### **Imprisonment in Goa**
 
 After a second military campaign in the Persian Gulf, Camões returned to Goa in early 1554. The city, and in fact the entire Portuguese East, seemed to him a “Babylon, from which flows / the material for all the evil the world creates”. A system of corruption, extortion, venality and despotism was rife in all strata of society. Even soldiers and sailors, as Camões had witnessed, were not exempt from unworthy acts, for during military campaigns they plundered and murdered cruelly. Giving voice to his indignation, Camões wrote satirical poems criticising the prevailing corruption and debauchery. And since satire was forbidden by law, he was incarcerated in the Goa prison by Governor Francisco Barreto.
@@ -57,9 +60,6 @@ There is a portrait of Camões by an unknown artist, dated 1556, showing him in 
 <div style="background-color: white;">The cover of <i> The Collected Lyric Poems of Luís de Camões</i> (Princeton University Press, 2008), translated by Landeg White, features the painting of the poet in a prison cell in Goa (1556).</div>
 
 On the topmost sheet of paper on the table, we can make out “Canto X” (the last canto of _The Lusiads_). If we had any doubts about the long years of preparation, versions and successive revisions that Camões dedicated to his epic poem, this portrait dispels them. In Goa, Camões was already working on the last canto of _The Lusiads_, the one that mentions the regions of the Far East. At the time the portrait was painted, it is likely that the poet needed maps as he had not yet visited these places.
-
-![](/images/Vol%2021%20Issue%203/Luis/luis_map2.jpg)
-<div style="background-color: white;">Some of the places in Asia that Luís de Camões visited during the 17 years he spent away from Lisbon.</div>
 
 #### **Sojourn to Southeast Asia**
 

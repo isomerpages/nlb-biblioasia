@@ -4,6 +4,13 @@ permalink: /topics/nature/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/singapore-time-zones/">**Daylight Robbery: Singapore’s Shifting Time Zones**</a>
+
+In 1982, Singapore adjusted its time zone to follow Malaysia’s national synchronisation. But this was not the only instance that Singapore had undergone time zone changes.
+
+<img src="/images/Vol%2021%20Issue%203/Daylight%20Robbery/Time_Zones_Topics.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/1954-floods-singapore/">The Floods of 1954</a>
 The severe floods of 1954 tested community resilience, spurred significant infrastructure improvements and left a lasting impact on Singapore’s flood preparedness measures.
 
