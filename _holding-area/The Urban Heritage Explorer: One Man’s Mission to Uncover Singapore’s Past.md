@@ -46,7 +46,7 @@ In many ways, the relationship between the archives and Yong is a partnership. T
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_video_shoot.jpg" style="width: 80%;">Yong at a video shoot for <a href="“https://www.nlb.gov.sg/main/site/beinspiredbyhistory&quot;">"Be Inspired By History"</a>, a campaign by the National Library Board inviting Singaporeans to use historical records from the National Library and National Archives to create new and original works. <i>Photo by Woo Pei Qi.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_video_shoot.jpg" style="width: 80%;">Yong at a video shoot for <a href="“https://www.nlb.gov.sg/main/site/beinspiredbyhistory&quot;">Be Inspired By History</a>", a campaign by the National Library Board inviting Singaporeans to use historical records from the National Library and National Archives to create new and original works. <i>Photo by Woo Pei Qi.</i></div>
 	
 For the 60th anniversary of Singapore’s independence, Yong created a tour in April 2025 titled “Majulah Singapura: The Untold Story of a Nation’s Anthem”, which explores the history and origins of the song, its eventual adoption as Singapore's national anthem as well as the life of its composer, Zubir Said.
 
