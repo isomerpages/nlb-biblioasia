@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21//issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/
-      button: The Singapore and Southeast Asia Collection
+      url: /vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/
+      button: Pioneering Archaeological Research
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Hero_images_Jul_Sep_2025__11___1_.jpg
+      background: /images/Vol 21 Issue 2/Archaeologic/HeroImage_Archaeologic.jpg
       variant: center
   - infopic:
       title: The Libraries and Archives of Tomorrow
