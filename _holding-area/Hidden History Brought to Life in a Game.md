@@ -38,6 +38,10 @@ To Lim, different archival mediums highlight different facets of history, each p
 
 Research often leads to unexpected discoveries. He did not know that Redhill Lim used to be a notorious haven for gangs and secret societies until he chanced upon an oral history interview.[^4] “My god… all the Sa-lak-kau[^5] \[a secret society\] and everything was there, like police don’t even go there.”
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/redhill_SIT_flats.jpg" style="width: 80%;">In the foreground are the Singapore Improvement Trust flats in Redhill Close, 1960s. <i>Eelke Wolters Collection, courtesy of National Archives of Singapore.</i></div>
+
   
 
 
