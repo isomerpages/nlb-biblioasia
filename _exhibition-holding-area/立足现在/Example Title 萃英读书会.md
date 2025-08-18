@@ -16,11 +16,17 @@ Grandlink Square Singapore 399849
 
 **活动时间**：	一年12场 (每一月第一个星期六) 下午2时30分至5时30分
 
-联系方式：	张庆勇
-98009342
-admin@kongzi.org.sg
 
-**网站**：	http://gkongzi.org.sg/
+**联系人**：张庆勇
+
+**联系电话**：98009342
+
+**联系电邮**：admin@kongzi.org.sg
+
+
+
+
+**网站**：	[http://gkongzi.org.sg/](http://gkongzi.org.sg/)
 
 **社交媒体**：	脸书
 [https://www.facebook.com/nanyangkongjiaohui](https://www.facebook.com/nanyangkongjiaohui)
@@ -28,4 +34,3 @@ admin@kongzi.org.sg
 **读书会简介**：	萃英读书会作为南洋孔教会青年团常年坚持的活动,一直在青年团的年度活动中占据最重要的位置。萃英读书会旨在本地推动中华传统文化，并以“文化多元、传承儒学”为宗旨。
 
 萃英读书会创办于 2014年8月，每月1次的导读活动分别由上下两个半场进行导读。截至2025年3月，萃英读书会已完成了总共175期的导读。
-
