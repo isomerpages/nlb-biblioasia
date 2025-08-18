@@ -46,6 +46,24 @@ While researching for a new graphic, _Opium: A War Story_, about the anti-opium 
 <br>
 <img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Opium.jpg" style="width: 80%;">Pages from <i>Opium: A War Story. </i>Courtesy of Penguin Random House SEA.</div>
   
+Another work of historical fiction that Cheong is working on is a graphic novel tentatively titled _Out of the Night that Covers Me_, inspired by the [Hokkien-Teochew Riots](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d555fee3-f3f7-4c27-811a-dbc4eddbf3b3), also known as the Great Riots of 1854, or Five Catties of Rice Riots.[^5]
+
+Cheong had found out about the riots in Infopedia, the National Library electronic encyclopedia of articles on Singapore's history, culture, people and events. When he read that the riots killed more than 500 people and destroyed around 300 homes, he was intrigued and investigated further. This inspired him to write a graphic novel based on the riots. “I’d keep digging until I have exhausted every detail, or until I am exhausted, whichever comes later,” he said.
+
+To Cheong, the research is the most rewarding part of working with historical materials. “Perhaps it’s my training as a reporter, or the fact I teach research writing in the university. But I actually find the detective work invigorating and relaxing at the same time,” he said.
+
+#### **Not the End**
+
+Sometimes the research trail leads to a dead end, however, this is not necessarily a bad thing. “That’s also where the most creative part of the process kicks in, \[…\] I allow my imagination to roam and fill in the blanks.”
+
+Cheong’s 2023 graphic novel, _The Showgirl and the Minister_, was based entirely on one such research dead end. The graphic novel revolves around an incident involving the former Chief Minister Lim Yew Hock who disappeared for 10 days in June 1966 while he was the Malaysian High Commissioner to Australia. At the same time, a 19-year-old stripper also went missing. When Lim eventually turned up, he could not clearly account for what had happened to him.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_Launch.jpg" style="width: 60%;">     Felix Cheong at the launch of <i>The Showgirl and the Minister</i>, 2023. <i>Courtesy of Felix Cheong.</i></div>
+
+
+  
 
 
 
@@ -64,3 +82,5 @@ While researching for a new graphic, _Opium: A War Story_, about the anti-opium 
 [^3]:  “[Police Have ‘Gun Molls’ on Record](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19580924-1.2.6),” _Singapore Standard_, 24 September 1958, 1 (From NewspaperSG)
 
 [^4]:  Ronni Pinsler, “[31J Pepys Road, Colonial Mansion Built As Residence for the Inspector General of Opium](https://www.nas.gov.sg/archivesonline/photographs/record-details/863eea4c-1162-11e3-83d5-0050568939ad),” 1980, photograph. (From National Archives of Singapore, Media - Image no. 19990007463&nbsp;-&nbsp;049)
+
+[^5]:  Yong Chun Yuan, “[Hokkien-Teochew Riots (1854)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d555fee3-f3f7-4c27-811a-dbc4eddbf3b3),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
