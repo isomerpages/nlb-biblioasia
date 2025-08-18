@@ -43,6 +43,13 @@ In 2022, after a year of intense design work, Chen launched her second collectio
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Selection_of_designs.jpg" style="width: 60%;">A selection of designs from the “Voyage” collection. <i>Courtesy of Afton Chen. </i></div>  
+
+#### **Inspiration from Unlikely Sources**
+
+Chen often incorporates cultural references from Singapore into her designs, straddling both the historical and the contemporary. “Because we are a Singapore brand, and we want to represent the Singaporean identity on our terms, \[there is\] a lot of reflecting on the past. I feel like that makes the collection more interesting \[as well\],” she said.&nbsp;“When \[customers\] get something from us, I feel happy because they are buying stories from us.”
+
+Although the “Voyage” collection is no longer available today, the National Library continues to inspire Chen, who makes it a priority to visit the library before every new collection. “There’s just so much to dig into, it’s really worth exploring \[the library\]. There’s a whole wealth of knowledge and interesting things to see.”
+
   
 
 * * *
