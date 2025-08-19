@@ -32,7 +32,7 @@ Fuelled by curiosity about local lore surrounding Holland Village, Lim turned to
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/holland_v_chinese_cemetery.jpg" style="width: 80%;">Cropped photograph of Holland Village with a Chinese cemetery in the foreground taken by the British Royal Air Force, 1958. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/holland_v_chinese_cemetery_rev.jpg" style="width: 80%;">Cropped photograph of Holland Village with a Chinese cemetery in the foreground taken by the British Royal Air Force, 1958. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
 
 To Lim, different archival mediums highlight different facets of history, each providing pieces of a larger puzzle. “The oral histories give you a lot more nuance”, while photographs reveal places in their former glory. Weaving together both mediums in his game provides players with a glimpse into Singapore’s past. “Because you are standing there, you’re seeing the photo and you’re listening to the \[audio track\], then your imagination kicks in,” he said.
 
