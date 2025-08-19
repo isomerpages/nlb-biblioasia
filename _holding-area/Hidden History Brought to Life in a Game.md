@@ -73,6 +73,6 @@ However, Lim sees tremendous value in having access to such authoritative histor
 
 [^3]:  [Ho Teck Min](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c0f04770-1160-11e3-83d5-0050568939ad), oral history interview by Lye Soo Choon, 16 June 2005, MP3 audio. Reel/Disc 2 of 3, 54:21, National Archives of Singapore ([accession no. 002940](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002940)).
 
-[^4]:  [Ho Wan Hew](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/58bb4cb1-115e-11e3-83d5-0050568939ad?keywords=redhill&amp;keywords-type=all), oral history interview by Lai Ah Eng, 4 November 1996, MP3 audio. Reel/Disc 8 of 10, 31:04, National Archives of Singapore ([accession no. 001790](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001790)).
+[^4]:  [Ho Wan Hew](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/58bb4cb1-115e-11e3-83d5-0050568939ad), oral history interview by Lai Ah Eng, 4 November 1996, MP3 audio. Reel/Disc 8 of 10, 31:04, National Archives of Singapore ([accession no. 001790](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001790)).
 
 [^5]:  Salakau was the name of one of the oldest and more prominent secret societies or street gangs active in Singapore from the 1970s to the 1980s. _Salakau_ means the numbers “369” in Hokkien.
