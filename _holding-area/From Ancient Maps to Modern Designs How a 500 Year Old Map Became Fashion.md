@@ -20,7 +20,7 @@ When Chen first conceptualised a new collection with a travel-adventure theme, s
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun.jpg" style="width: 60%;">Mao Kun (茅坤) Map from _Wu Bei Zhi_ (武备志), chapter 240. <i>Collection of the National Library. Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>         
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun.jpg" style="width: 60%;">Mao Kun (茅坤) Map from <i>Wu Bei Zhi</i> (武备志), chapter 240. <i>Collection of the National Library Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>         
 
 “It was something I’ve not really seen before, and it \[didn’t\] look like a conventional map. So, it was a lot of firsts and we were quite excited,” Chen said.&nbsp;What especially piqued her curiosity were the three Chinese characters on the map: 淡马锡 (Danmaxi; the Chinese translation of Temasek and the ancient name of Singapore).
 
