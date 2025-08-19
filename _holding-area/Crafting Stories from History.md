@@ -50,7 +50,7 @@ Another work of historical fiction that Cheong is working on is a graphic novel 
 
 Cheong had found out about the riots in Infopedia, the National Library electronic encyclopedia of articles on Singapore's history, culture, people and events. When he read that the riots killed more than 500 people and destroyed around 300 homes, he was intrigued and investigated further. This inspired him to write a graphic novel based on the riots. “I’d keep digging until I have exhausted every detail, or until I am exhausted, whichever comes later,” he said.
 
-To Cheong, the research is the most rewarding part of working with historical materials. “Perhaps it’s my training as a reporter, or the fact I teach research writing in the university. But I actually find the detective work invigorating and relaxing at the same time,” he said.
+To Cheong, the research is the most rewarding part of working with historical materials. “Perhaps it’s my training as a reporter, or the fact I teach research writing in the university. But I actually find the detective work invigorating and relaxing at the same time.”
 
 #### **Not the End**
 
@@ -62,7 +62,7 @@ Cheong’s 2023 graphic novel, _The Showgirl and the Minister_, was based entire
 <br>
 <img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_Launch.jpg" style="width: 60%;">     Felix Cheong at the launch of <i>The Showgirl and the Minister</i>, 2023. <i>Courtesy of Felix Cheong.</i></div>
 
-Despite his best efforts, Cheong was not able to uncover what had taken place in those 10 days. However, this became an opportunity for Cheong to spin a tale of espionage around the two disappearances, working in the Vietnam War and Konfrontasi (also known as the&nbsp;Indonesia-Malaysia Confrontation[^6]),&nbsp;which was a period of armed conflict between Indonesia and Malaysia from 1963 to 1966. (Cheong documented his research in an epilogue in the book.)
+Despite his best efforts, Cheong was not able to uncover what had taken place in those 10 days. However, this became an opportunity for Cheong to spin a tale of espionage around the two disappearances, working in the Vietnam War and Konfrontasi (also known as the <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213">Indonesia-Malaysia Confrontation</a>[^6]), which was a period of armed conflict between Indonesia and Malaysia from 1963 to 1966. (Cheong documented his research in an epilogue in the book.)
 
 Cheong’s advice to other creatives who are interested in using historical records for their work: “Be curious, be prepared to spend time and be ready to let your imagination go.”
 
