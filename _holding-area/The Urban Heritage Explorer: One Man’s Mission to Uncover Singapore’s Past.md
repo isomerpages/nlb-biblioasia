@@ -71,7 +71,7 @@ For Yong, this insistence on keeping history alive comes from his belief that he
 
 #### **Notes**
 
-[^1]:  “[Progress of Brick-Making Through the Centuries](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320102-1.2.144.27),” _Straits Times_, 2 January 1932, 11. (From NewspaperSG); Stephanie Ho, “[Pasir Panjang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ca284afb-903d-40f0-822e-df830bb0ee3f),” _Singapore Infopedia_. Article published 8 July 2016.
+[^1]:  “[Progress of Brick-Making Through the Centuries](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320102-1.2.144.27),” _Straits Times_, 2 January 1932, 11. (From NewspaperSG); Stephanie Ho, “[Pasir Panjang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ca284afb-903d-40f0-822e-df830bb0ee3f),” _Singapore Infopedia_. National Library Board. Article published 8 July 2016.
 
 [^2]:  National Archives of Singapore, “[Indian Laundry Men or Dhobies in Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/adc5459f-1161-11e3-83d5-0050568939ad),” 1900s, photograph. (From National Archives of Singapore, Media - Image no. 19980007379&nbsp;-&nbsp;0033)
 	

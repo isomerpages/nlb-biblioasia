@@ -32,11 +32,11 @@ Fuelled by curiosity about local lore surrounding Holland Village, Lim turned to
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/holland_v_chinese_cemetery.jpg" style="width: 80%;">Cropped photograph of Holland Village with a Chinese cemetery in the foreground taken by the British Royal Air Force, 1958. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/holland_v_chinese_cemetery_rev.jpg" style="width: 80%;">Cropped photograph of Holland Village with a Chinese cemetery in the foreground taken by the British Royal Air Force, 1958. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
 
 To Lim, different archival mediums highlight different facets of history, each providing pieces of a larger puzzle. “The oral histories give you a lot more nuance”, while photographs reveal places in their former glory. Weaving together both mediums in his game provides players with a glimpse into Singapore’s past. “Because you are standing there, you’re seeing the photo and you’re listening to the \[audio track\], then your imagination kicks in,” he said.
 
-Research often leads to unexpected discoveries. He did not know that Redhill Lim used to be a notorious haven for gangs and secret societies until he chanced upon an oral history interview.[^4] “My god… all the Sa-lak-kau[^5] \[a secret society\] and everything was there, like police don’t even go there.”
+Research often leads to unexpected discoveries. He did not know that Redhill used to be a notorious haven for gangs and secret societies until he chanced upon an oral history interview.[^4] “My god… all the Sa-lak-kau[^5] \[a secret society\] and everything was there, like police don’t even go there.”
 
 <div style="background-color: white;">
 <br>
@@ -58,7 +58,7 @@ While the National Archives holds valuable information about the past, working w
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/aerial_photo_yew_tee_mandai_village.jpg" style="width: 80%;">Aerial photograph oriented with north on the right, shows the Yew Tee Village area in 1951.. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/aerial_photo_yew_tee_mandai_village.jpg" style="width: 80%;">Aerial photograph oriented with north on the right, shows the Yew Tee Village area in 1951. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, Lim sees tremendous value in having access to such authoritative historical records, especially with the proliferation of AI-generated content today. With its extensive collection, the National Archives serves as a crucial reference point to distinguish authentic historical evidence from AI-generated content. “The archives are very important as a tool against the generative abilities of AI \[which\] just create whatever people want to see,” he said.
 
@@ -67,12 +67,12 @@ However, Lim sees tremendous value in having access to such authoritative histor
 
 #### **Notes**
 
-[^1]:  Ng Wei Kai, “[S’pore Firm Launches New Zealand-based Adventure Game in Tie-up with Maori tribe](https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes),” _Straits Times_, 14 December 2024, [https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes](https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes).
+[^1]:  Ng Wei Kai, “S’pore Firm Launches New Zealand-based Adventure Game in Tie-up with Maori tribe,” _Straits Times_, 14 December 2024, [https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes](https://www.straitstimes.com/singapore/spore-company-launches-adventure-game-in-new-zealand-in-a-tie-up-with-maori-tribes).
 
 [^2]:  British Royal Air Force, “[Aerial View of Holland Village with a Chinese Cemetery in the Foreground](https://www.nas.gov.sg/archivesonline/photographs/record-details/bcc81f7b-1162-11e3-83d5-0050568939ad),” 2 September 1958, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 188736)
 
-[^3]:  Ho Teck Min, oral history interview by Lye Soo Choon, 16 June 2005, MP3 audio. Reel/Disc 2 of 3, 54:21, National Archives of Singapore ([accession no. 002940](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002940)).
+[^3]:  [Ho Teck Min](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c0f04770-1160-11e3-83d5-0050568939ad), oral history interview by Lye Soo Choon, 16 June 2005, MP3 audio. Reel/Disc 2 of 3, 54:21, National Archives of Singapore ([accession no. 002940](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002940)).
 
-[^4]:  [Ho Wan Hew](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/58bb4cb1-115e-11e3-83d5-0050568939ad?keywords=redhill&amp;keywords-type=all), oral history interview by Lai Ah Eng, 4 November 1996, MP3 audio. Reel/Disc 8 of 10, 31:04, National Archives of Singapore ([accession no. 001790](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001790)).
+[^4]:  [Ho Wan Hew](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/58bb4cb1-115e-11e3-83d5-0050568939ad), oral history interview by Lai Ah Eng, 4 November 1996, MP3 audio. Reel/Disc 8 of 10, 31:04, National Archives of Singapore ([accession no. 001790](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001790)).
 
 [^5]:  Salakau was the name of one of the oldest and more prominent secret societies or street gangs active in Singapore from the 1970s to the 1980s. _Salakau_ means the numbers “369” in Hokkien.
