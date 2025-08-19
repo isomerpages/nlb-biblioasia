@@ -209,7 +209,7 @@ The life of Hedwig Anuar is closely intertwined with the postcolonial developmen
 [^21]: Hedwig Anuar, [_Blueprint for Public Library Development in Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4124874) (Kuala Lumpur: Persatuan Perpustakaan Malaysia, 1968), 86–95. (From National Library Singapore, call no. RCLOS 027.4595 ANU)
 
 
-[^22]: Kennedy Gordon Tregonning, oral history interview by 31 July 2003, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/bb5238fa-115e-11e3-83d5-0050568939ad-OHC002783_005/web/html5/index.html) and MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore ([accession no. 002783](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002783)), 55–56.
+[^22]: Kennedy Gordon Tregonning, oral history interview by Jason Lim, 31 July 2003, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/bb5238fa-115e-11e3-83d5-0050568939ad-OHC002783_005/web/html5/index.html) and MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore ([accession no. 002783](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002783)), 55–56.
 
 
 [^23]: Fiona Tan, “[Pioneers of the Archives](https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/pioneers-of-archives/),” _BiblioAsia_ 15, no. 1 (April–June 2019): 14–20.
