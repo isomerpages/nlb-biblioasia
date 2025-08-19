@@ -22,7 +22,7 @@ When Chen first conceptualised a new collection with a travel-adventure theme, s
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun2.jpg" style="width: 80%;">Mao Kun (茅坤) Map from <i>Wu Bei Zhi</i> (武备志), chapter 240. <i>Collection of the National Library Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>      
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun2.jpg" style="width: 80%;">Mao Kun (茅坤) Map from <i>Wu Bei Zhi</i> (武备志), chapter 240. The Chinese characters&nbsp;淡马锡&nbsp;are on the right-hand page at the top.<i>Collection of the National Library Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>      
 
 The map was first published in the late-Ming publication _Wu Bei Zhi_ (武备志) and had been complied in 1621 by Mao Yuanyi (茅元仪). Originally drawn as a scroll, the map was recast for publication. The map is believed to be part of the personal collection of Mao’s grandfather, Mao Kun (茅坤), who owned a large and distinguished library.[^1]
 
