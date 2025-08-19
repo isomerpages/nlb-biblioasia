@@ -44,7 +44,7 @@ While researching for a new graphic, _Opium: A War Story_, about the anti-opium 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Opium.jpg" style="width: 80%;">Pages from <i>Opium: A War Story. </i>Courtesy of Penguin Random House SEA.</div>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Opium.jpg" style="width: 95%;">Pages from <i>Opium: A War Story. </i>Courtesy of Penguin Random House SEA.</div>
   
 Another work of historical fiction that Cheong is working on is a graphic novel tentatively titled _Out of the Night that Covers Me_, inspired by the [Hokkien-Teochew Riots](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d555fee3-f3f7-4c27-811a-dbc4eddbf3b3), also known as the Great Riots of 1854, or Five Catties of Rice Riots.[^5]
 
