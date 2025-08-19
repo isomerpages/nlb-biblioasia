@@ -16,15 +16,15 @@ Author and poet Felix Cheong combines historical events with creative storytelli
 
 This was the case with Cheong’s upcoming graphic novel, _A Mild Case of Mass Hysteria_, which is set to be published in 2026 by Penguin Random House SEA. The novel revolves around the Koro epidemic in Singapore in 1967. Koro is a psychiatric disorder where individuals believe their penises are retracting into their abdomen, causing intense panic.[^1]
 
-In the graphic novel, one of the narratives involves a secret society member named Soo Tang. Cheong had originally intended for the character to fall in love with a member of the Red Butterfly gang – a notorious all-female gang, better known as Ang Hor Tiap, that had been active in the 1960s and 1970s.[^2]
+In the graphic novel, one of the narratives involves a secret society member named Soo Tang. Cheong had originally intended for the character to fall in love with a member of the Red Butterfly Gang – a notorious all-female gang, better known as Ang Hor Tiap in Hokkien, that had been active in Singapore in the 1960s and 1970s.[^2]
 
-Cheong had planned for Soo Tang to be rebuffed romantically by the female gang member, leading him to develop Koro. However, while researching, Cheong came across a newspaper article about “gun molls” – female companions or associates of gangsters who carry weapons and serve as runners.[^3]
+Cheong had planned for Soo Tang to be rebuffed romantically by a female gang member, leading him to develop Koro. However, while researching, Cheong came across a newspaper article about “gun molls” – female companions or associates of gangsters who carry weapons and serve as runners.[^3]
 
 This led Cheong to embark on a different story arc for Soo Tang, one focusing on the emotional dynamics between Soo Tang and his gun moll to explain his Koro symptoms. “Although the existence of gun molls was reported in 1958 \[…\] and my story takes place nine years later, the Freudian overtone of a woman whose job is to carry a gangster’s gun is too good to resist,” he noted.
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 80%;">Pages from <i>A Mild Case of Mass Hysteria. </i>Courtesy of Penguin Random House SEA.</div>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 95%;">Pages from <i>A Mild Case of Mass Hysteria. </i>Courtesy of Penguin Random House SEA.</div>
 
 #### **Digging in the Library and Archives**
 
@@ -32,7 +32,7 @@ This led Cheong to embark on a different story arc for Soo Tang, one focusing on
 
 Cheong’s research process often begins with an initial trawl of [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/), the National Library’s online resource of current and historic Singapore and Malaya newspapers, using the key word search function to identify anything that might be of interest to his book project.
 
-“After mind mapping and identifying subtopics, I’d let my curiosity lead me where it will, be it archival photos or interview recordings in NAS \[National Archives of Singapore\], or books or journals in the Lee Kong Chian Reference Library.” &nbsp;
+“After mind mapping and identifying subtopics, I’d let my curiosity lead me where it will, be it archival photos or interview recordings in NAS \[National Archives of Singapore\], or books or journals in the Lee Kong Chian Reference Library,” he said.
 
 While researching for a new graphic, _Opium: A War Story_, about the anti-opium movement, Cheong came across a 1980 photograph on NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline/) of a colonial bungalow on Pepys Road that served as the residence of the Inspector General of Opium (he supervised the opium factory at the foot of Bukit Chandu).[^4]
 
