@@ -40,7 +40,7 @@ For his March 2025 video on the [origins of the name Dhoby Ghaut](https://www.in
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Indian_Washmen.jpg" style="width: 80%;">Indian laundry men or <i>dhobies</i> in Singapore, 1900s. <i>Courtesy of National Archives of Singapore. </i></div>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Indian_Washmen_rev.jpg" style="width: 80%;">Indian laundry men or <i>dhobies</i> in Singapore, 1900s. <i>Courtesy of National Archives of Singapore. </i></div>
 
 In many ways, the relationship between the archives and Yong is a partnership. The rewarding part, Yong noted, is when he puts an entire video together that combines archival materials with his unique brand of storytelling and understanding of the materials. “My journey has been very intertwined with archival materials. It’s not just a tool but a storyteller in itself, I feel, in what I want to convey and impress upon,” he said.
 
@@ -67,7 +67,7 @@ Besides creating content for social media, Yong collaborates on heritage venture
 For Yong, this insistence on keeping history alive comes from his belief that heritage is a living thread that is passed down from generation to generation. His parting shot: “What drives me is the fact that I think we have so many more stories yet to be shared that needs to be shared.”&nbsp;
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src=""><b>Jolynn Lim</b> is a former intern with the publishing department at the National Library Singapore. She graduated from the Nanyang Technological University with a Bachelor of Arts (Hons) in English in 2025.</div>  
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Jolynn_photo.jpg"><b>Jolynn Lim</b> is a former intern with the publishing department at the National Library Singapore. She graduated from the Nanyang Technological University with a Bachelor of Arts (Hons) in English in 2025.</div>  
 
 #### **Notes**
 

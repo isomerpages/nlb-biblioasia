@@ -20,7 +20,7 @@ When Chen first conceptualised a new collection with a travel-adventure theme, s
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun.jpg" style="width: 60%;">Mao Kun (茅坤) Map from _Wu Bei Zhi_ (武备志), chapter 240. <i>Collection of the National Library. Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>         
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun2.jpg" style="width: 80%;">Mao Kun (茅坤) Map from <i>Wu Bei Zhi</i> (武备志), chapter 240. <i>Collection of the National Library Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>         
 
 “It was something I’ve not really seen before, and it \[didn’t\] look like a conventional map. So, it was a lot of firsts and we were quite excited,” Chen said.&nbsp;What especially piqued her curiosity were the three Chinese characters on the map: 淡马锡 (Danmaxi; the Chinese translation of Temasek and the ancient name of Singapore).
 
@@ -51,7 +51,7 @@ Chen often incorporates cultural references from Singapore into her designs, str
 Although the “Voyage” collection is no longer available today, the National Library continues to inspire Chen, who makes it a priority to visit the library before every new collection. “There’s just so much to dig into, it’s really worth exploring \[the library\]. There’s a whole wealth of knowledge and interesting things to see.”
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src=""><b>Jolynn Lim</b> is a former intern with the publishing department at the National Library Singapore. She graduated from the Nanyang Technological University with a Bachelor of Arts (Hons) in English in 2025.</div>  
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Jolynn_photo.jpg"><b>Jolynn Lim</b> is a former intern with the publishing department at the National Library Singapore. She graduated from the Nanyang Technological University with a Bachelor of Arts (Hons) in English in 2025.</div>  
  
 #### **Notes**
 
