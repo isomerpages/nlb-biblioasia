@@ -51,7 +51,7 @@ Chen often incorporates cultural references from Singapore into her designs, str
 Although the “Voyage” collection is no longer available today, the National Library continues to inspire Chen, who makes it a priority to visit the library before every new collection. “There’s just so much to dig into, it’s really worth exploring \[the library\]. There’s a whole wealth of knowledge and interesting things to see.”
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src=""><b>Jolynn Lim</b> is a former intern with the publishing department at the National Library Singapore. She graduated from the Nanyang Technological University with a Bachelor of Arts (Hons) in English in 2025.</div>  
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Jolynn_photo.jpg"><b>Jolynn Lim</b> is a former intern with the publishing department at the National Library Singapore. She graduated from the Nanyang Technological University with a Bachelor of Arts (Hons) in English in 2025.</div>  
  
 #### **Notes**
 
