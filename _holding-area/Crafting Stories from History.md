@@ -16,7 +16,7 @@ Author and poet Felix Cheong combines historical events with creative storytelli
 
 This was the case with Cheong’s upcoming graphic novel, _A Mild Case of Mass Hysteria_, which is set to be published in 2026 by Penguin Random House SEA. The novel revolves around the Koro epidemic in Singapore in 1967. Koro is a psychiatric disorder where individuals believe their penises are retracting into their abdomen, causing intense panic.[^1]
 
-In the graphic novel, one of the narratives involves a secret society member named Soo Tang. Cheong had originally intended for the character to fall in love with a member of the Red Butterfly Gang – a notorious all-female gang, better known as Ang Hor Tiap in Hokkien, that had been active in Singapore in the 1960s and 1970s.[^2]
+In the graphic novel, one of the narratives involves a secret society member named Soo Tang. Cheong had originally intended for the character to fall in love with a member of the Red Butterfly Gang – a notorious all-female gang, or Ang Hor Tiap in Hokkien, that had been active in Singapore in the 1960s and 1970s.[^2]
 
 Cheong had planned for Soo Tang to be rebuffed romantically by a female gang member, leading him to develop Koro. However, while researching, Cheong came across a newspaper article about “gun molls” – female companions or associates of gangsters who carry weapons and serve as runners.[^3]
 
