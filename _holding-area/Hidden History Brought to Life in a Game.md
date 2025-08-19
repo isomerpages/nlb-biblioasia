@@ -36,7 +36,7 @@ Fuelled by curiosity about local lore surrounding Holland Village, Lim turned to
 
 To Lim, different archival mediums highlight different facets of history, each providing pieces of a larger puzzle. “The oral histories give you a lot more nuance”, while photographs reveal places in their former glory. Weaving together both mediums in his game provides players with a glimpse into Singapore’s past. “Because you are standing there, you’re seeing the photo and you’re listening to the \[audio track\], then your imagination kicks in,” he said.
 
-Research often leads to unexpected discoveries. He did not know that Redhill Lim used to be a notorious haven for gangs and secret societies until he chanced upon an oral history interview.[^4] “My god… all the Sa-lak-kau[^5] \[a secret society\] and everything was there, like police don’t even go there.”
+Research often leads to unexpected discoveries. He did not know that Redhill used to be a notorious haven for gangs and secret societies until he chanced upon an oral history interview.[^4] “My god… all the Sa-lak-kau[^5] \[a secret society\] and everything was there, like police don’t even go there.”
 
 <div style="background-color: white;">
 <br>
@@ -58,7 +58,7 @@ While the National Archives holds valuable information about the past, working w
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/aerial_photo_yew_tee_mandai_village.jpg" style="width: 80%;">Aerial photograph oriented with north on the right, shows the Yew Tee Village area in 1951.. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/aerial_photo_yew_tee_mandai_village.jpg" style="width: 80%;">Aerial photograph oriented with north on the right, shows the Yew Tee Village area in 1951. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, Lim sees tremendous value in having access to such authoritative historical records, especially with the proliferation of AI-generated content today. With its extensive collection, the National Archives serves as a crucial reference point to distinguish authentic historical evidence from AI-generated content. “The archives are very important as a tool against the generative abilities of AI \[which\] just create whatever people want to see,” he said.
 
