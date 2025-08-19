@@ -71,11 +71,11 @@ Cheong’s advice to other creatives who are interested in using historical reco
 
 #### **Notes**
 
-[^1]:  Koro Study Team, “The Koro “Epidemic” in Singapore,” _Singapore Medical Journal_ 10, no. 4 (December 1969): 234, [http://smj.sma.org.sg/smjmainpages/1004main.html](http://smj.sma.org.sg/smjmainpages/1004main.html).
+[^1]:  Koro Study Team, “The Koro 'Epidemic' in Singapore,” _Singapore Medical Journal_ 10, no. 4 (December 1969): 234, [http://smj.sma.org.sg/smjmainpages/1004main.html](http://smj.sma.org.sg/smjmainpages/1004main.html).
 
 [^2]:  “[Ex-gangster: Today’s Girl Gangs Have Nothing Better to Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper20101121-1.2.3.2),” _New Paper_, 21 November 2010, 2–3. (From NewspaperSG)
 
-[^3]:  “[Police Have ‘Gun Molls’ on Record](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19580924-1.2.6),” _Singapore Standard_, 24 September 1958, 1 (From NewspaperSG)
+[^3]:  “[Police Have ‘Gun Molls’ on Record](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19580924-1.2.6),” _Singapore Standard_, 24 September 1958, 1. (From NewspaperSG)
 
 [^4]:  Ronni Pinsler, “[31J Pepys Road, Colonial Mansion Built As Residence for the Inspector General of Opium](https://www.nas.gov.sg/archivesonline/photographs/record-details/863eea4c-1162-11e3-83d5-0050568939ad),” 1980, photograph. (From National Archives of Singapore, Media - Image no. 19990007463&nbsp;-&nbsp;049)
 
