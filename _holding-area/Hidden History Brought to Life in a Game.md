@@ -71,7 +71,7 @@ However, Lim sees tremendous value in having access to such authoritative histor
 
 [^2]:  British Royal Air Force, “[Aerial View of Holland Village with a Chinese Cemetery in the Foreground](https://www.nas.gov.sg/archivesonline/photographs/record-details/bcc81f7b-1162-11e3-83d5-0050568939ad),” 2 September 1958, photograph. (From British Royal Air Force Collection, National Archives of Singapore, accession no. 188736)
 
-[^3]:  Ho Teck Min, oral history interview by Lye Soo Choon, 16 June 2005, MP3 audio. Reel/Disc 2 of 3, 54:21, National Archives of Singapore ([accession no. 002940](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002940)).
+[^3]:  [Ho Teck Min](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c0f04770-1160-11e3-83d5-0050568939ad), oral history interview by Lye Soo Choon, 16 June 2005, MP3 audio. Reel/Disc 2 of 3, 54:21, National Archives of Singapore ([accession no. 002940](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002940)).
 
 [^4]:  [Ho Wan Hew](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/58bb4cb1-115e-11e3-83d5-0050568939ad?keywords=redhill&amp;keywords-type=all), oral history interview by Lai Ah Eng, 4 November 1996, MP3 audio. Reel/Disc 8 of 10, 31:04, National Archives of Singapore ([accession no. 001790](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001790)).
 
