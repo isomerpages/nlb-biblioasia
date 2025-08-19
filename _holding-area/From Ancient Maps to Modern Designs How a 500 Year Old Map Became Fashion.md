@@ -18,11 +18,11 @@ Chen is the co-founder and design director of Reckless Ericka, a local clothing 
 
 When Chen first conceptualised a new collection with a travel-adventure theme, she did not know where to begin. One day, in 2021, she decided to visit the National Library Singapore for ideas. While reading up on Admiral Zheng He, Chen came across the Mao Kun Map (茅坤图), which is part of the National Library’s Rare Materials Collection.
 
+“It was something I’ve not really seen before, and it \[didn’t\] look like a conventional map. So, it was a lot of firsts and we were quite excited,” Chen said.&nbsp;What especially piqued her curiosity were the three Chinese characters on the map: 淡马锡 (Danmaxi; the Chinese translation of Temasek and the ancient name of Singapore).
+
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun2.jpg" style="width: 80%;">Mao Kun (茅坤) Map from <i>Wu Bei Zhi</i> (武备志), chapter 240. <i>Collection of the National Library Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>         
-
-“It was something I’ve not really seen before, and it \[didn’t\] look like a conventional map. So, it was a lot of firsts and we were quite excited,” Chen said.&nbsp;What especially piqued her curiosity were the three Chinese characters on the map: 淡马锡 (Danmaxi; the Chinese translation of Temasek and the ancient name of Singapore).
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun2.jpg" style="width: 80%;">Mao Kun (茅坤) Map from <i>Wu Bei Zhi</i> (武备志), chapter 240. <i>Collection of the National Library Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>      
 
 The map was first published in the late-Ming publication _Wu Bei Zhi_ (武备志) and had been complied in 1621 by Mao Yuanyi (茅元仪). Originally drawn as a scroll, the map was recast for publication. The map is believed to be part of the personal collection of Mao’s grandfather, Mao Kun (茅坤), who owned a large and distinguished library.[^1]
 
