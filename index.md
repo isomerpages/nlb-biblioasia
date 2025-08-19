@@ -128,7 +128,7 @@ sections:
       description: Hedwig Anuar was not only known for being the director of the
         National Library, she was also an activist and advocate for women’s
         rights.
-      button: LIBRARIAN.ACTIVIST.ADVOCATE
+      button: LIBRARIAN. ACTIVIST. ADVOCATE
       url: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/
       image: /images/Vol 21 Issue 2/Hedwig   First Lady/hedwig_1stLady_Topic.jpg
       alt: "Hedwig Anuar: First Lady"
