@@ -150,35 +150,35 @@ These female pioneers have been largely forgotten except for Si Jing, whose work
 [^15]: _Majie_ refers to female Cantonese domestic servants mainly from Shunde, Guangdong province, who took the vow of celibacy and never married. In Singapore and Malaya, they worked in affluent Chinese and European households until at least the 1970s. They typically wore their hair in a single plait down the back or in a bun.
 
 
-[^16]: Si Jing \[Ng Soo Lui\], _Lotus from the Mud: I Was a Majie’s Foster Daughter_, trans. Geraldine Chay, Wong Hooe Wai and Wong Marn Heong (Singapore: Asiapac Books, 2002), 1–28. (From National Library Singapore, call no. RSING 895.18 SI)
+[^16]: Si Jing \[Ng Soo Lui\], [_Lotus from the Mud: I Was a Majie’s Foster Daughter_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11472147), trans. Geraldine Chay, Wong Hooe Wai and Wong Marn Heong (Singapore: Asiapac Books, 2002), 1–28. (From National Library Singapore, call no. RSING 895.18 SI)
 
 
-[^17]: Si Jing, _Lotus from the Mud_, 24–25.
+[^17]: Si Jing, [_Lotus from the Mud_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11472147), 24–25.
 
 
-[^18]: Si Jing, _Down Memory Lane in Clogs: Growing Up in Chinatown_, trans. Laurel Teo (Singapore: Asiapac Books, 2002), 130–33. (From National Library Singapore, call no. RSING 920.72 SI); Mok, “‘Kacha’ wushi nian.”
+[^18]: Si Jing, [_Down Memory Lane in Clogs: Growing Up in Chinatown_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11472149), trans. Laurel Teo (Singapore: Asiapac Books, 2002), 130–33. (From National Library Singapore, call no. RSING 920.72 SI); Mok, “[‘Kacha’ wushi nian](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19910630-1.2.66.3).”
 
 
-[^19]: Si Jing, _Lotus from the Mud_, 51–52, 54–55, 58.
+[^19]: Si Jing, [_Lotus from the Mud_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11472147), 51–52, 54–55, 58.
 
 
-[^20]: Si Jing, _Lotus from the Mud_, 168, 184; Teng Siao See, Chan Cheow Thia and Lee Huay Leng, eds., _Education at Large: Student Life and Activities in Singapore, 1945–1965_ (Singapore: Tangent, 2013), xxx–xxxi, 117–18, 151, 154, 166–67, 177–78, 194–95, 204. (From National Library Singapore, call no. RSING 373.18095957 EDU)
+[^20]: Si Jing, [_Lotus from the Mud_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11472147), 168, 184; Teng Siao See, Chan Cheow Thia and Lee Huay Leng, eds., [_Education at Large: Student Life and Activities in Singapore, 1945–1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14635303) (Singapore: Tangent, 2013), xxx–xxxi, 117–18, 151, 154, 166–67, 177–78, 194–95, 204. (From National Library Singapore, call no. RSING 373.18095957 EDU)
 
 
 
-[^21]: Si Jing, _Lotus from the Mud_, 184–86.
+[^21]: Si Jing, [_Lotus from the Mud_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11472147), 184–86.
 
 
 [^22]: Si Jing used the name of Ng See-Cheng for the submission.&nbsp;
 
 
-[^23]: For a positive appraisal of this image, which “casts Wu \[Si Jing\] as heroic”, see Roger Nelson, “Photography as a Collaborative Practice in Southeast Asia,” in _Living Pictures: Photography in Southeast Asia_, ed. Charmaine Toh (Singapore: National Gallery Singapore, 2022), 322. (From National Library Singapore, call no. RSEA 770.959 LIV)
+[^23]: For a positive appraisal of this image, which “casts Wu \[Si Jing\] as heroic”, see Roger Nelson, “Photography as a Collaborative Practice in Southeast Asia,” in [_Living Pictures: Photography in Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205870820), ed. Charmaine Toh (Singapore: National Gallery Singapore, 2022), 322. (From National Library Singapore, call no. RSEA 770.959 LIV)
 
 
-[^24]: Si Jing, _Lotus from the Mud_, 189, 191–92.
+[^24]: Si Jing, [_Lotus from the Mud_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11472147), 189, 191–92.
 
 
-[^25]: For a brief account of the preparatory meetings between Chen Tien and government representatives leading up to the Baling talks, see Chin Peng, _My Side of History_ (Singapore: Media Masters, 2003), 364–66. (From National Library Singapore, call no. RSING 959.5104092 CHI); Nik Anuar Nik Mahmud, _Tunku Abdul Rahman and His Role in the Baling Talks: A Documentary History_ (Kuala Lumpur: Memorial Tunku Abdul Rahman Putra, Arkib Negara Malaysia, 1998), 15, 23–26. (From National Library Singapore, call no. RSING 959.504 ANU)
+[^25]: For a brief account of the preparatory meetings between Chen Tien and government representatives leading up to the Baling talks, see Chin Peng, [_My Side of History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12106841) (Singapore: Media Masters, 2003), 364–66. (From National Library Singapore, call no. RSING 959.5104092 CHI); Nik Anuar Nik Mahmud, _Tunku Abdul Rahman and His Role in the Baling Talks: A Documentary History_ (Kuala Lumpur: Memorial Tunku Abdul Rahman Putra, Arkib Negara Malaysia, 1998), 15, 23–26. (From National Library Singapore, call no. RSING 959.504 ANU)
 
 
 [^26]: Han Tan Juan 韩山元, “Heping shuguang zhao shancheng” 和平曙光照山城 \[Peace dawns upon mountain town\], _Lianhe Wanbao_ 联合晚报, 13 November 1987, 23. (From NewspaperSG)
