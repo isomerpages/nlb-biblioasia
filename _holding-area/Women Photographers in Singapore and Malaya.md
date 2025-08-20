@@ -98,7 +98,7 @@ These female pioneers have been largely forgotten except for Si Jing, whose work
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/ZhuangWubin.png">
 <b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and is a former National Library Digital Fellow (2023). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
 
 #### **Notes**
