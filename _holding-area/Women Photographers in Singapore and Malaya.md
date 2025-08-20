@@ -104,129 +104,128 @@ These female pioneers have been largely forgotten except for Si Jing, whose work
 
 #### **Notes**
 
-[^1]: 
+[^1]: Wun Chek Hoi, oral history interview by Jesley Chua Chee Huan, 5 September 1991, MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 001299), 08:26.
 
+[^2]: Her name was also spelt Chiew Lian Ying in the English newspaper. See “Two Press Photographers Wed in Kuala Lumpur,” _Straits Times_, 21 February 1958, 4. (From NewspaperSG)
 
-[^2]: 
 
+[^3]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 1 of 3, 01:05.&nbsp; See also Au Yue Pak 区如柏, “Ziran Yingshe: Ban ge shiji de weixiao” 自然影社 半个世纪的微笑 \[Chew Photo Studio: Half a century of smiles\], _Lianhe Zaobao_ 联合早报, 1 January 1995, 46. (From NewspaperSG)
 
-[^3]: 
 
+[^4]: “Page 2 Miscellaneous Column 1,” _Syonan Shimbun_, 22 September 1942, 2; Au, “Ziran Yingshe.” \[New World (opened in 1923) was the first of three amusement parks in Singapore, along with Great World (1931) and Happy World (1937).\]&nbsp;
 
-[^4]: 
 
+[^5]: Mok Mei Ngan 莫美颜, “‘Kacha’ wushi nian – Yi ge sheyingshi de huiyi” “咔嚓”50年 – 一个摄影师的回忆 \[A click and 50 years – Memories of a photographer\], _Lianhe Zaobao_ 联合早报, 30 June 1991, 40. (From NewspaperSG)
 
-[^5]: 
 
+[^6]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 1 of 3, 09:05.&nbsp;
 
-[^6]: 
 
+[^7]: Mok, “‘Kacha’ wushi nian.”
 
-[^7]: 
 
+[^8]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 2 of 3, 08:26; Mok, “‘Kacha’ wushi nian.”
 
-[^8]: 
 
+[^9]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 1 of 3, 20:03.
 
-[^9]: 
 
+[^10]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 1 of 3, 04:31; Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 2 of 3, 19:52.
 
-[^10]:
 
 
 
-[^11]: 
+[^11]: Au, “Ziran yingshe.”
 
 
-[^12]: 
+[^12]: Au, “Ziran yingshe.”
 
 
-[^13]: 
+[^13]: Mok, “‘Kacha’ wushi nian.”
 
 
-[^14]: 
+[^14]: Mok, “‘Kacha’ wushi nian.”
 
 
-[^15]: 
+[^15]: _Majie_ refers to female Cantonese domestic servants mainly from Shunde, Guangdong province, who took the vow of celibacy and never married. In Singapore and Malaya, they worked in affluent Chinese and European households until at least the 1970s. They typically wore their hair in a single plait down the back or in a bun.
 
 
-[^16]: 
+[^16]: Si Jing \[Ng Soo Lui\], _Lotus from the Mud: I Was a Majie’s Foster Daughter_, trans. Geraldine Chay, Wong Hooe Wai and Wong Marn Heong (Singapore: Asiapac Books, 2002), 1–28. (From National Library Singapore, call no. RSING 895.18 SI)
 
 
-[^17]: 
+[^17]: Si Jing, _Lotus from the Mud_, 24–25.
 
 
-[^18]: 
+[^18]: Si Jing, _Down Memory Lane in Clogs: Growing Up in Chinatown_, trans. Laurel Teo (Singapore: Asiapac Books, 2002), 130–33. (From National Library Singapore, call no. RSING 920.72 SI); Mok, “‘Kacha’ wushi nian.”
 
 
-[^19]: 
+[^19]: Si Jing, _Lotus from the Mud_, 51–52, 54–55, 58.
 
 
-[^20]:
+[^20]: Si Jing, _Lotus from the Mud_, 168, 184; Teng Siao See, Chan Cheow Thia and Lee Huay Leng, eds., _Education at Large: Student Life and Activities in Singapore, 1945–1965_ (Singapore: Tangent, 2013), xxx–xxxi, 117–18, 151, 154, 166–67, 177–78, 194–95, 204. (From National Library Singapore, call no. RSING 373.18095957 EDU)
 
 
 
-[^21]: 
+[^21]: Si Jing, _Lotus from the Mud_, 184–86.
 
 
-[^22]: 
+[^22]: Si Jing used the name of Ng See-Cheng for the submission.&nbsp;
 
 
-[^23]: 
+[^23]: For a positive appraisal of this image, which “casts Wu \[Si Jing\] as heroic”, see Roger Nelson, “Photography as a Collaborative Practice in Southeast Asia,” in _Living Pictures: Photography in Southeast Asia_, ed. Charmaine Toh (Singapore: National Gallery Singapore, 2022), 322. (From National Library Singapore, call no. RSEA 770.959 LIV)
 
 
-[^24]: 
+[^24]: Si Jing, _Lotus from the Mud_, 189, 191–92.
 
 
-[^25]: 
+[^25]: For a brief account of the preparatory meetings between Chen Tien and government representatives leading up to the Baling talks, see Chin Peng, _My Side of History_ (Singapore: Media Masters, 2003), 364–66. (From National Library Singapore, call no. RSING 959.5104092 CHI); Nik Anuar Nik Mahmud, _Tunku Abdul Rahman and His Role in the Baling Talks: A Documentary History_ (Kuala Lumpur: Memorial Tunku Abdul Rahman Putra, Arkib Negara Malaysia, 1998), 15, 23–26. (From National Library Singapore, call no. RSING 959.504 ANU)
 
 
-[^26]: 
+[^26]: Han Tan Juan 韩山元, “Heping shuguang zhao shancheng” 和平曙光照山城 \[Peace dawns upon mountain town\], _Lianhe Wanbao_ 联合晚报, 13 November 1987, 23. (From NewspaperSG)
 
 
-[^27]: 
+[^27]: Han Tan Juan 韩山元, “Xinwen zhengduozhan – Hualing hetan waiyizhang” 新闻争夺战—华玲和谈外一章 \[The battle for news – An extra chapter of the Baling talks\], _Lianhe Wanbao_ 联合晚报, 27 November 1987, 19. (From NewspaperSG)
 
 
-[^28]: 
+[^28]: Han, “Xinwen zhengduozhan.”
 
 
-[^29]: 
+[^29]: For a reproduction of Chew Lan Ying’s exclusive photographs of Chen Tien arriving at Klian Intan, see Zhuang Zhiming庄之明, “Benbao jizhe zuo zai Rendan huijian Chen Tian Qu biaoshi hetan jingxing shunli” 本报记者昨在仁丹会见陈田 渠表示和谈进行顺利 \[Our newspaper reporter met Chen Tien yesterday: He said peace talks were progressing well\], _Nanyang Siang Pau_ 南洋商报, 18 November 1955, 9. (From NewspaperSG)
 
 
-[^30]:
+[^30]: “Hualing huiyi xiezhen Wei Malaiya heping dailai jiayin” 华玲会议写真 为马来亚和平带来佳音 \[Baling talks pictorial: Bringing good news to the peace in Malaya\], _Nanyang Siang Pau_ 南洋商报, 29 December 1955, 1. (From NewspaperSG)
 
 
 
-[^31]: 
+[^31]: Miao Zi 苗子 \[pseud.\], “Xingma weiyi de nü sheying jizhe Zhao Lanying” 星马唯一的女摄影记者 赵兰英 \[The only female photojournalist in Singapore and Malaya: Chew Lan Ying\], _Nanyang Siang Pau_ 南洋商报, 7 January 1959, 15. (From NewspaperSG)
 
 
-[^32]: 
+[^32]: Choi Kwai Keong 崔贵强, _Xinjiapo Huawen baokan yu baoren_ 新加坡华文报刊与报人 \[Singapore Chinese newspapers, publications and newsmen\] (Singapore: Haitian Wenhua Qiye 海天文化企业, 1993), 176. (From National Library Singapore, call no. Chinese RCO 079.5957 CGQ)
 
 
-[^33]: 
+[^33]: “_Nanyang Huabao_ di er qi mingri chuban” 南洋画报第二期明日出版 \[Second issue of _Nanyang Monthly_ to be published tomorrow\], _Nanyang Siang Pau_ 南洋商报, 31 July 1957, 6. (From NewspaperSG)
 
 
-[^34]: 
+[^34]: “Jilongpo de ertong leyuan” 吉隆坡的儿童乐园 \[Children’s paradise\], _Nanyang Monthly_ 南洋画报(April 1958): 20–21. (From National Library, call no. Chinese RCLOS 059.951 NM)
 
 
-[^35]: 
+[^35]: “Shouxiang xietong waizhang ding houri fang Tai Jianghui shang youguan liangguo gongtong wenti” 首相偕同外长定后日访泰 将会商有关两国共同问题 \[Prime minister and minister of external affairs plan to visit Thailand the day after: Will discuss problems that concern both nations\], _Nanyang Siang Pau_ 南洋商报, 26 June 1959, 9. (From NewspaperSG)
 
 
-[^36]: 
+[^36]: “Mangu fengguang” 曼谷风光 \[Bangkok sights\], _Nanyang Monthly_ 南洋画报 (September 1959): 19–21; “Lianhebang shouxiang fang Tai” 联合邦首相访泰 \[Federal prime minister’s visit to Thailand\], _Nanyang Monthly_ 南洋画报 (September 1959): 12–18. (From National Library Singapore, call no. Chinese RCLOS 059.951 NM)
 
 
-[^37]: 
+[^37]: “Lianhebang Yingyi Xiehui lüxingtuan Qianri dongshen fu donghaian Paishe yucun shenghuo tongshi juxing yingzhan” 联合邦影艺协会旅行团 前日动身赴东海岸 拍摄渔村生活同时举行影展 \[The Photographic Society of the Federation of Malaya’s travel group set off two days ago for the east coast to photograph the lives of fishing villages and to hold exhibitions\], _Nanyang Siang Pau_ 南洋商报, 16 April 1957, 11; “Lianhebang Yingyi Xiehui Zudui fangwen donghaian Quandui shiyuren qianri yi chufa” 联合邦影艺协会 组队访问东海岸 全队十余人前日已出发 \[The Photographic Society of the Federation of Malaya formed a group to visit the east coast: The group of over 10 people had set off two days ago\], _Sin Chew Jit Poh_ 星洲日报, 16 April 1957, 11. (From NewspaperSG)
 
 
-[^38]: 
+[^38]: “Zhongguo Diyijie Quanguo Sheying Zhanlan Xingma shiwuzhen zuopin ruxuan” 中国第一届全国摄影展览 星马十五帧作品入选 \[The First National Photographic Art Exhibition in China: Fifteen works from Singapore and Malaya selected\], _Nanyang Siang Pau_ 南洋商报, 8 January 1958, 9. (From NewspaperSG)
 
 
-[^39]: 
+[^39]: “Benbao zhu Long sheying jizhe Li Yaolong Zhao Lanying jiehun” 本报驻隆摄影记者李耀龙赵兰英结婚 \[Our newspaper’s Kuala Lumpur-based photojournalists Lee Yue Loong and Chew Lan Ying got married\], _Nanyang Siang Pau_ 南洋商报, 20 February 1958, 9; “Two Press Photographers Wed in Kuala Lumpur.” (From NewspaperSG)
 
 
-[^40]:
+[^40]: “Dragon Photo Service,” Advertisement, _The Perak 1st Salon of Photography_ (Ipoh: Perak Photographic Research Society, 1957), unpaginated. (From National Library Singapore, call no. Chinese RCLOS 779.2 PER-\[AKS\]) &nbsp;
 
 
 
-[^41]: 
-
+[^41]: “Benbao Long qianren sheying jizhe Li Yaolong buxing bingshi Sangjia ding jinri jubin” 本报隆前任摄影记者 李耀龙不幸病逝 丧家订今日举殡 \[Our newspaper’s former photojournalist in Kuala Lumpur, Lee Yue Loong, died unfortunately after an illness: The bereaved family plans for funeral today\], _Nanyang Siang Pau_ 南洋商报, 30 November 1970, 6. (From NewspaperSG)
