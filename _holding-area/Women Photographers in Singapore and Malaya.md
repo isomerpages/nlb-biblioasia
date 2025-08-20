@@ -67,6 +67,11 @@ After the Japanese Occupation, Si Jing’s mother kept her promise to send her t
 
 Her mother worked as a seamstress and during the lead-up to the Lunar New Year in 1946, received many orders to tailor new clothes. On the morning of New Year’s Eve, after completing her final order, Si Jing’s mother waited until the reunion dinner for the customer to collect it. With that small payment, she rushed to the fabric stalls on Smith Street to buy several yards of the “cheapest and coarsest white cloth”.&nbsp;
 
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_sijing.png" style="width: 100%;">
+
+<div style="background-color: white;"> Taken at a studio during the lunar new year in 1946, the photograph shows Si Jing (right) and her brother and sister. It was the first time that Si Jing’s mother had enough money to tailor clothes for her daughters and the occasion was commemorated with a studio portrait. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Wu Sijing. </i></div>
+
+
 Working through the night, she sewed new clothes for her two daughters. When Si Jing wore her new _samfoo_ (or _samfu_; a traditional two-piece outfit comprising a top and trousers) the next morning instead of the usual hand-me-downs, her mother’s face lit up with a rare smile. To commemorate the special occasion, Si Jing and her siblings visited a photo studio to have their photograph taken – a common Lunar New Year tradition among families.[^18]
 
 By the second half of 1947, Si Jing’s family finances had become so dire that her mother asked her to stop schooling. Tragedy struck later that year when her mother died in her sleep. Nonetheless, Si Jing’s father allowed her to remain in school until the end of 1948.[^19]
