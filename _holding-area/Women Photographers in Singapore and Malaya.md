@@ -178,54 +178,54 @@ These female pioneers have been largely forgotten except for Si Jing, whose work
 [^24]: Si Jing, [_Lotus from the Mud_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11472147), 189, 191–92.
 
 
-[^25]: For a brief account of the preparatory meetings between Chen Tien and government representatives leading up to the Baling talks, see Chin Peng, [_My Side of History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12106841) (Singapore: Media Masters, 2003), 364–66. (From National Library Singapore, call no. RSING 959.5104092 CHI); Nik Anuar Nik Mahmud, _Tunku Abdul Rahman and His Role in the Baling Talks: A Documentary History_ (Kuala Lumpur: Memorial Tunku Abdul Rahman Putra, Arkib Negara Malaysia, 1998), 15, 23–26. (From National Library Singapore, call no. RSING 959.504 ANU)
+[^25]: For a brief account of the preparatory meetings between Chen Tien and government representatives leading up to the Baling talks, see Chin Peng, [_My Side of History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12106841) (Singapore: Media Masters, 2003), 364–66. (From National Library Singapore, call no. RSING 959.5104092 CHI); Nik Anuar Nik Mahmud, [_Tunku Abdul Rahman and His Role in the Baling Talks: A Documentary History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9205998) (Kuala Lumpur: Memorial Tunku Abdul Rahman Putra, Arkib Negara Malaysia, 1998), 15, 23–26. (From National Library Singapore, call no. RSING 959.504 ANU)
 
 
-[^26]: Han Tan Juan 韩山元, “Heping shuguang zhao shancheng” 和平曙光照山城 \[Peace dawns upon mountain town\], _Lianhe Wanbao_ 联合晚报, 13 November 1987, 23. (From NewspaperSG)
+[^26]: Han Tan Juan 韩山元, “Heping shuguang zhao shancheng” [和平曙光照山城](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19871113-1.2.42.1.1) \[Peace dawns upon mountain town\], _Lianhe Wanbao_ 联合晚报, 13 November 1987, 23. (From NewspaperSG)
 
 
-[^27]: Han Tan Juan 韩山元, “Xinwen zhengduozhan – Hualing hetan waiyizhang” 新闻争夺战—华玲和谈外一章 \[The battle for news – An extra chapter of the Baling talks\], _Lianhe Wanbao_ 联合晚报, 27 November 1987, 19. (From NewspaperSG)
+[^27]: Han Tan Juan 韩山元, “Xinwen zhengduozhan – Hualing hetan waiyizhang” [新闻争夺战—华玲和谈外一章](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19871127-1.2.33.1) \[The battle for news – An extra chapter of the Baling talks\], _Lianhe Wanbao_ 联合晚报, 27 November 1987, 19. (From NewspaperSG)
 
 
-[^28]: Han, “Xinwen zhengduozhan.”
+[^28]: Han, “[Xinwen zhengduozhan](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19871127-1.2.33.1).”
 
 
-[^29]: For a reproduction of Chew Lan Ying’s exclusive photographs of Chen Tien arriving at Klian Intan, see Zhuang Zhiming庄之明, “Benbao jizhe zuo zai Rendan huijian Chen Tian Qu biaoshi hetan jingxing shunli” 本报记者昨在仁丹会见陈田 渠表示和谈进行顺利 \[Our newspaper reporter met Chen Tien yesterday: He said peace talks were progressing well\], _Nanyang Siang Pau_ 南洋商报, 18 November 1955, 9. (From NewspaperSG)
+[^29]: For a reproduction of Chew Lan Ying’s exclusive photographs of Chen Tien arriving at Klian Intan, see Zhuang Zhiming庄之明, “Benbao jizhe zuo zai Rendan huijian Chen Tian Qu biaoshi hetan jingxing shunli” [本报记者昨在仁丹会见陈田 渠表示和谈进行顺利](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19551118-1.2.35.1) \[Our newspaper reporter met Chen Tien yesterday: He said peace talks were progressing well\], _Nanyang Siang Pau_ 南洋商报, 18 November 1955, 9. (From NewspaperSG)
 
 
-[^30]: “Hualing huiyi xiezhen Wei Malaiya heping dailai jiayin” 华玲会议写真 为马来亚和平带来佳音 \[Baling talks pictorial: Bringing good news to the peace in Malaya\], _Nanyang Siang Pau_ 南洋商报, 29 December 1955, 1. (From NewspaperSG)
-
-
-
-[^31]: Miao Zi 苗子 \[pseud.\], “Xingma weiyi de nü sheying jizhe Zhao Lanying” 星马唯一的女摄影记者 赵兰英 \[The only female photojournalist in Singapore and Malaya: Chew Lan Ying\], _Nanyang Siang Pau_ 南洋商报, 7 January 1959, 15. (From NewspaperSG)
-
-
-[^32]: Choi Kwai Keong 崔贵强, _Xinjiapo Huawen baokan yu baoren_ 新加坡华文报刊与报人 \[Singapore Chinese newspapers, publications and newsmen\] (Singapore: Haitian Wenhua Qiye 海天文化企业, 1993), 176. (From National Library Singapore, call no. Chinese RCO 079.5957 CGQ)
-
-
-[^33]: “_Nanyang Huabao_ di er qi mingri chuban” 南洋画报第二期明日出版 \[Second issue of _Nanyang Monthly_ to be published tomorrow\], _Nanyang Siang Pau_ 南洋商报, 31 July 1957, 6. (From NewspaperSG)
-
-
-[^34]: “Jilongpo de ertong leyuan” 吉隆坡的儿童乐园 \[Children’s paradise\], _Nanyang Monthly_ 南洋画报(April 1958): 20–21. (From National Library, call no. Chinese RCLOS 059.951 NM)
-
-
-[^35]: “Shouxiang xietong waizhang ding houri fang Tai Jianghui shang youguan liangguo gongtong wenti” 首相偕同外长定后日访泰 将会商有关两国共同问题 \[Prime minister and minister of external affairs plan to visit Thailand the day after: Will discuss problems that concern both nations\], _Nanyang Siang Pau_ 南洋商报, 26 June 1959, 9. (From NewspaperSG)
-
-
-[^36]: “Mangu fengguang” 曼谷风光 \[Bangkok sights\], _Nanyang Monthly_ 南洋画报 (September 1959): 19–21; “Lianhebang shouxiang fang Tai” 联合邦首相访泰 \[Federal prime minister’s visit to Thailand\], _Nanyang Monthly_ 南洋画报 (September 1959): 12–18. (From National Library Singapore, call no. Chinese RCLOS 059.951 NM)
-
-
-[^37]: “Lianhebang Yingyi Xiehui lüxingtuan Qianri dongshen fu donghaian Paishe yucun shenghuo tongshi juxing yingzhan” 联合邦影艺协会旅行团 前日动身赴东海岸 拍摄渔村生活同时举行影展 \[The Photographic Society of the Federation of Malaya’s travel group set off two days ago for the east coast to photograph the lives of fishing villages and to hold exhibitions\], _Nanyang Siang Pau_ 南洋商报, 16 April 1957, 11; “Lianhebang Yingyi Xiehui Zudui fangwen donghaian Quandui shiyuren qianri yi chufa” 联合邦影艺协会 组队访问东海岸 全队十余人前日已出发 \[The Photographic Society of the Federation of Malaya formed a group to visit the east coast: The group of over 10 people had set off two days ago\], _Sin Chew Jit Poh_ 星洲日报, 16 April 1957, 11. (From NewspaperSG)
-
-
-[^38]: “Zhongguo Diyijie Quanguo Sheying Zhanlan Xingma shiwuzhen zuopin ruxuan” 中国第一届全国摄影展览 星马十五帧作品入选 \[The First National Photographic Art Exhibition in China: Fifteen works from Singapore and Malaya selected\], _Nanyang Siang Pau_ 南洋商报, 8 January 1958, 9. (From NewspaperSG)
-
-
-[^39]: “Benbao zhu Long sheying jizhe Li Yaolong Zhao Lanying jiehun” 本报驻隆摄影记者李耀龙赵兰英结婚 \[Our newspaper’s Kuala Lumpur-based photojournalists Lee Yue Loong and Chew Lan Ying got married\], _Nanyang Siang Pau_ 南洋商报, 20 February 1958, 9; “Two Press Photographers Wed in Kuala Lumpur.” (From NewspaperSG)
-
-
-[^40]: “Dragon Photo Service,” Advertisement, _The Perak 1st Salon of Photography_ (Ipoh: Perak Photographic Research Society, 1957), unpaginated. (From National Library Singapore, call no. Chinese RCLOS 779.2 PER-\[AKS\]) &nbsp;
+[^30]: “Hualing huiyi xiezhen Wei Malaiya heping dailai jiayin” [华玲会议写真 为马来亚和平带来佳音](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19551229-1.2.2) \[Baling talks pictorial: Bringing good news to the peace in Malaya\], _Nanyang Siang Pau_ 南洋商报, 29 December 1955, 1. (From NewspaperSG)
 
 
 
-[^41]: “Benbao Long qianren sheying jizhe Li Yaolong buxing bingshi Sangjia ding jinri jubin” 本报隆前任摄影记者 李耀龙不幸病逝 丧家订今日举殡 \[Our newspaper’s former photojournalist in Kuala Lumpur, Lee Yue Loong, died unfortunately after an illness: The bereaved family plans for funeral today\], _Nanyang Siang Pau_ 南洋商报, 30 November 1970, 6. (From NewspaperSG)
+[^31]: Miao Zi 苗子 \[pseud.\], “Xingma weiyi de nü sheying jizhe Zhao Lanying” [星马唯一的女摄影记者 赵兰英](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590107-1.2.36.1.1) \[The only female photojournalist in Singapore and Malaya: Chew Lan Ying\], _Nanyang Siang Pau_ 南洋商报, 7 January 1959, 15. (From NewspaperSG)
+
+
+[^32]: Choi Kwai Keong 崔贵强, _Xinjiapo Huawen baokan yu baoren_ [新加坡华文报刊与报人](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84520907) \[Singapore Chinese newspapers, publications and newsmen\] (Singapore: Haitian Wenhua Qiye 海天文化企业, 1993), 176. (From National Library Singapore, call no. Chinese RCO 079.5957 CGQ)
+
+
+[^33]: “_Nanyang Huabao_ di er qi mingri chuban” [南洋画报第二期明日出版](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570731-1.2.29.14) \[Second issue of _Nanyang Monthly_ to be published tomorrow\], _Nanyang Siang Pau_ 南洋商报, 31 July 1957, 6. (From NewspaperSG)
+
+
+[^34]: “Jilongpo de ertong leyuan” [吉隆坡的儿童乐园 \[Children’s paradise\], _Nanyang Monthly_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14242556) 南洋画报(April 1958): 20–21. (From National Library, call no. Chinese RCLOS 059.951 NM)
+
+
+[^35]: “Shouxiang xietong waizhang ding houri fang Tai Jianghui shang youguan liangguo gongtong wenti” [首相偕同外长定后日访泰 将会商有关两国共同问题](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590626-1.2.31.17) \[Prime minister and minister of external affairs plan to visit Thailand the day after: Will discuss problems that concern both nations\], _Nanyang Siang Pau_ 南洋商报, 26 June 1959, 9. (From NewspaperSG)
+
+
+[^36]: “Mangu fengguang” 曼谷风光 \[Bangkok sights\], [_Nanyang Monthly_ 南洋画报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14242556) (September 1959): 19–21; “Lianhebang shouxiang fang Tai” 联合邦首相访泰 \[Federal prime minister’s visit to Thailand\], [_Nanyang Monthly_ 南洋画报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14242556) (September 1959): 12–18. (From National Library Singapore, call no. Chinese RCLOS 059.951 NM)
+
+
+[^37]: “Lianhebang Yingyi Xiehui lüxingtuan Qianri dongshen fu donghaian Paishe yucun shenghuo tongshi juxing yingzhan” [联合邦影艺协会旅行团 前日动身赴东海岸 拍摄渔村生活同时举行影展](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570416-1.2.43.3) \[The Photographic Society of the Federation of Malaya’s travel group set off two days ago for the east coast to photograph the lives of fishing villages and to hold exhibitions\], _Nanyang Siang Pau_ 南洋商报, 16 April 1957, 11; “Lianhebang Yingyi Xiehui Zudui fangwen donghaian Quandui shiyuren qianri yi chufa” [联合邦影艺协会 组队访问东海岸 全队十余人前日已出发](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19570416-1.2.46.5) \[The Photographic Society of the Federation of Malaya formed a group to visit the east coast: The group of over 10 people had set off two days ago\], _Sin Chew Jit Poh_ 星洲日报, 16 April 1957, 11. (From NewspaperSG)
+
+
+[^38]: “Zhongguo Diyijie Quanguo Sheying Zhanlan Xingma shiwuzhen zuopin ruxuan” [中国第一届全国摄影展览 星马十五帧作品入选](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580108-1.2.26.4) \[The First National Photographic Art Exhibition in China: Fifteen works from Singapore and Malaya selected\], _Nanyang Siang Pau_ 南洋商报, 8 January 1958, 9. (From NewspaperSG)
+
+
+[^39]: “Benbao zhu Long sheying jizhe Li Yaolong Zhao Lanying jiehun” [本报驻隆摄影记者李耀龙赵兰英结婚](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580220-1.2.33.4) \[Our newspaper’s Kuala Lumpur-based photojournalists Lee Yue Loong and Chew Lan Ying got married\], _Nanyang Siang Pau_ 南洋商报, 20 February 1958, 9; “[Two Press Photographers Wed in Kuala Lumpur](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19580221-1.2.40).” (From NewspaperSG)
+
+
+[^40]: “Dragon Photo Service,” Advertisement, [_The Perak 1st Salon of Photography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13674498) (Ipoh: Perak Photographic Research Society, 1957), unpaginated. (From National Library Singapore, call no. Chinese RCLOS 779.2 PER-\[AKS\]) &nbsp;
+
+
+
+[^41]: “Benbao Long qianren sheying jizhe Li Yaolong buxing bingshi Sangjia ding jinri jubin” [本报隆前任摄影记者 李耀龙不幸病逝 丧家订今日举殡](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19701130-1.2.12.18) \[Our newspaper’s former photojournalist in Kuala Lumpur, Lee Yue Loong, died unfortunately after an illness: The bereaved family plans for funeral today\], _Nanyang Siang Pau_ 南洋商报, 30 November 1970, 6. (From NewspaperSG)
