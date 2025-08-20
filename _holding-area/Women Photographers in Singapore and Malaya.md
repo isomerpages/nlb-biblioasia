@@ -16,7 +16,7 @@ Women don’t know how to take photographs!” a customer once declared at a Sin
 
 <img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_wuncheck.png" style="width: 100%;">
 
-<div style="background-color: white;"> Portrait of Wun Chek Hoi published in <i>Lianhe Zaobao</i> in 1991. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Wu Sijing. </i></div>
+<div style="background-color: white;"> Portrait of Wun Chek Hoi published in <i>Lianhe Zaobao</i> in 1991. <i>Source: Lianhe Zaobao, 30 June 1991 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 Wun, Si Jing and Chew Lan Ying[^2] were three women who picked up the camera during the 1940s and 1950s for different reasons. Through their lens, they captured everything – from&nbsp; intimate moments of courtship to historic peace talks – discovering both pleasures and challenges while pursuing their craft and passion. &nbsp;
 
