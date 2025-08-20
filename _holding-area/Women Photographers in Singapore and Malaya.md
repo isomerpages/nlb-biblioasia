@@ -14,8 +14,7 @@ Wun, Si Jing and Chew Lan Ying[^2] were three women who picked up the camera dur
 
 #### **Wun Chek Hoi of Chew Photo Studio**
 
-Born in China in 1919, Wun Chek Hoi was a Cantonese practitioner of studio photography who came to Singapore with her parents when she was three and began her apprenticeship during the Japanese Occupation. Before the war, Wun’s father operated a lodge and knew a few Cantonese friends in studio photography. During the Occupation, they advised him to open a studio and employ his nine children to keep them productively occupied. By having them work in the studio, he also hoped that they would not be asked to work for the Japanese authorities. With the help of his friends, Chew Photo Studio&nbsp;
-
+Born in China in 1919, Wun Chek Hoi was a Cantonese practitioner of studio photography who came to Singapore with her parents when she was three and began her apprenticeship during the Japanese Occupation. Before the war, Wun’s father operated a lodge and knew a few Cantonese friends in studio photography. During the Occupation, they advised him to open a studio and employ his nine children to keep them productively occupied. By having them work in the studio, he also hoped that they would not be asked to work for the Japanese authorities. With the help of his friends, Chew Photo Studio
 (自然影社) was established on 1 April 1942 with its main branch at 230 South Bridge Road.[^3]
 
 By September 1942, Chew Photo Studio had been appointed by the Malaya Sumatra Romu Kanri Kyokai (Labour Control Office of Malaya and Sumatra) as one of its official photographers, with branches on North Bridge Road, Serangoon Road, Joo Chiat Road and Upper Serangoon Road. There was also a branch called Smile Studio at the New World amusement park.[^4]
