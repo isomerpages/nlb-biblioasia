@@ -118,7 +118,7 @@ Like her peers of that era, Chew was a versatile photographer who was assigned b
 
 Between 1957 and 1965, the newspaper published _Nanyang Monthly_ (南洋画报), a pictorial periodical that enjoyed strong readership.[^32] Its inaugural issue sold over 11,000 copies, breaking sales records for pictorial periodicals in Singapore and Malaya.[^33] Chew contributed to photo spreads in the periodical, including a notable two-page special in issue 10 (April 1958) featuring the newly completed Merdeka Park in Kuala Lumpur.[^34] Her photographs captured iconic sights, including the Merdeka Sundial, the psychedelic mushroom-shaped bandstand, and miniature caves where children played hide-and-seek.&nbsp;
 
-<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_spread.png" style="width: 100%;">
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_spread.png" style="width: 80%;">
 
 <div style="background-color: white;">  Chew Lan Ying’s photographs of the newly completed Merdeka Park in Kuala Lumpur were showcased in a two-page spread in issue 10 (April 1958) of <i>Nanyang Monthly</i>. <i>Collection of the National Library Singapore (call no. RCLOS 059.951 NM).  </i></div>
 
