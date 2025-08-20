@@ -82,11 +82,21 @@ Huang and his younger brother earned a decent income by offering photography ser
 
 Huang and Si Jing tried their hand at salon photography. With its focus on technical excellence and aesthetic beauty, salon photography (or pictorialism) was the dominant framework of art photography in Singapore and Southeast Asia in the 20th century. Huang’s images were exhibited at the Singapore Art Society’s Open Photographic Exhibition in 1951, 1952 and 1953, while Si Jing’s submission, a photograph of Clifford Pier titled “Morning”, was exhibited in 1952.[^22] This exhibition marked both the highlight and her brief foray into the male-dominated world of salon photography before family responsibilities took precedence.&nbsp; &nbsp;
 
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_pier.png" style="width: 100%;">
+
+<div style="background-color: white;"> Si Jing’s photograph of Clifford Pier, titled “Morning”, was exhibited at the Singapore Art Society’s Open Photographic Exhibition in 1952. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Wu Sijing. </i></div>
+
+
 The people and scenery Si Jing and Huang encountered during their dates became subjects in their pursuit of salon photography. They also modelled for each other’s portraits. Huang actually submitted a photograph he had taken of Si Jing at Peirce Reservoir perched on a railing snapping a picture to the Open Photographic Exhibition in 1952, but it was not selected.[^23]
 
 For Si Jing and Huang, photography served as a leisure activity, a tool of courtship, a means of income and a way to indulge in the aesthetic pleasure of salon photography. On their engagement day in either late 1951 or early 1952, they used a self-timer to take their engagement photograph at the Botanic Gardens. It shows Huang holding Si Jing’s shoulders from behind, with her head tilted back in a loving gaze at her fiancé. They did not show the image to anyone at the time as the pose was considered too intimate in the 1950s.[^24]
 
 Huang and Si Jing were married on 8 July 1952 and held their wedding dinner at the Great Southern Hotel. Following the trend for Chinese weddings at the time, they likely had their wedding photograph taken at a photo studio that same day. In 1953, Si Jing and her family moved into a new Singapore Improvement Trust flat in Tiong Bahru.&nbsp;
+
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_bride.png" style="width: 100%;">
+
+<div style="background-color: white;"> Si Jing and Huang Da Li got married on 8 July 1952. Their wedding photographs were likely taken on the same day at Natural Photographic Store on North Bridge Road. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Wu Sijing. </i></div>
+
 
 In 2002, Si Jing donated her personal collection of photographs to the National Museum of Singapore. Among these are a few showing the interior of her Tiong Bahru flat. One shows the dining table with a cabinet beside it and above the cabinet on the wall is the framed photograph of Clifford Pier exhibited at the 1952 Open Photographic Exhibition.
 
