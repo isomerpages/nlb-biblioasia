@@ -8,6 +8,10 @@ description: ""
 By Zhuang Wubin
 
 
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_main.jpg" style="width: 100%;">
+
+<div style="background-color: white;"> This photograph of Si Jing at Peirce Reservoir was taken by her future husband Huang Da Li. Titled “A Photographer in Action”, Huang submitted the image to the Singapore Art Society’s Open Photographic Exhibition in 1952 but it was not selected. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Wu Sijing. </i></div>
+
 Women don’t know how to take photographs!” a customer once declared at a Singapore photo studio. Wun Chek Hoi, the apprentice at the receiving end, proved him wrong and went on to become an accomplished woman studio photographer – a rare feat in that era of Singapore.[^1]
 
 Wun, Si Jing and Chew Lan Ying[^2] were three women who picked up the camera during the 1940s and 1950s for different reasons. Through their lens, they captured everything – from&nbsp; intimate moments of courtship to historic peace talks – discovering both pleasures and challenges while pursuing their craft and passion. &nbsp;
