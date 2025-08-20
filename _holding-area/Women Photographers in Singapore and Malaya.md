@@ -104,47 +104,47 @@ These female pioneers have been largely forgotten except for Si Jing, whose work
 
 #### **Notes**
 
-[^1]: Wun Chek Hoi, oral history interview by Jesley Chua Chee Huan, 5 September 1991, MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 001299), 08:26.
+[^1]: Wun Chek Hoi, oral history interview by Jesley Chua Chee Huan, 5 September 1991, MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore ([accession no. 001299](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001299)), 08:26.
 
-[^2]: Her name was also spelt Chiew Lian Ying in the English newspaper. See “Two Press Photographers Wed in Kuala Lumpur,” _Straits Times_, 21 February 1958, 4. (From NewspaperSG)
-
-
-[^3]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 1 of 3, 01:05.&nbsp; See also Au Yue Pak 区如柏, “Ziran Yingshe: Ban ge shiji de weixiao” 自然影社 半个世纪的微笑 \[Chew Photo Studio: Half a century of smiles\], _Lianhe Zaobao_ 联合早报, 1 January 1995, 46. (From NewspaperSG)
+[^2]: Her name was also spelt Chiew Lian Ying in the English newspaper. See “[Two Press Photographers Wed in Kuala Lumpur](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19580221-1.2.40),” _Straits Times_, 21 February 1958, 4. (From NewspaperSG)
 
 
-[^4]: “Page 2 Miscellaneous Column 1,” _Syonan Shimbun_, 22 September 1942, 2; Au, “Ziran Yingshe.” \[New World (opened in 1923) was the first of three amusement parks in Singapore, along with Great World (1931) and Happy World (1937).\]&nbsp;
+[^3]: [Wun Chek Hoi](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001299), oral history interview, 5 September 1991, Reel/Disc 1 of 3, 01:05.&nbsp; See also Au Yue Pak 区如柏, “Ziran Yingshe: Ban ge shiji de weixiao” [自然影社 半个世纪的微笑](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19950101-1.2.73.1) \[Chew Photo Studio: Half a century of smiles\], _Lianhe Zaobao_ 联合早报, 1 January 1995, 46. (From NewspaperSG)
 
 
-[^5]: Mok Mei Ngan 莫美颜, “‘Kacha’ wushi nian – Yi ge sheyingshi de huiyi” “咔嚓”50年 – 一个摄影师的回忆 \[A click and 50 years – Memories of a photographer\], _Lianhe Zaobao_ 联合早报, 30 June 1991, 40. (From NewspaperSG)
+[^4]: “[Page 2 Miscellaneous Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420922-1.2.30.1),” _Syonan Shimbun_, 22 September 1942, 2; Au, “[Ziran Yingshe](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19950101-1.2.73.1).” \[New World (opened in 1923) was the first of three amusement parks in Singapore, along with Great World (1931) and Happy World (1937).\]&nbsp;
 
 
-[^6]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 1 of 3, 09:05.&nbsp;
+[^5]: Mok Mei Ngan 莫美颜, “‘Kacha’ wushi nian – Yi ge sheyingshi de huiyi” “[咔嚓”50年 – 一个摄影师的回忆](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19910630-1.2.66.3) \[A click and 50 years – Memories of a photographer\], _Lianhe Zaobao_ 联合早报, 30 June 1991, 40. (From NewspaperSG)
 
 
-[^7]: Mok, “‘Kacha’ wushi nian.”
+[^6]: [Wun Chek Hoi](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001299), oral history interview, 5 September 1991, Reel/Disc 1 of 3, 09:05.&nbsp;
 
 
-[^8]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 2 of 3, 08:26; Mok, “‘Kacha’ wushi nian.”
+[^7]: Mok, “[‘Kacha’ wushi nian](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19910630-1.2.66.3).”
 
 
-[^9]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 1 of 3, 20:03.
+[^8]: [Wun Chek Hoi](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2778a17b-115e-11e3-83d5-0050568939ad), oral history interview, 5 September 1991, Reel/Disc 2 of 3, 08:26; Mok, “[‘Kacha’ wushi nian](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19910630-1.2.66.3).”
 
 
-[^10]: Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 1 of 3, 04:31; Wun Chek Hoi, oral history interview, 5 September 1991, Reel/Disc 2 of 3, 19:52.
+[^9]: [Wun Chek Hoi](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001299), oral history interview, 5 September 1991, Reel/Disc 1 of 3, 20:03.
+
+
+[^10]: [Wun Chek Hoi](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001299), oral history interview, 5 September 1991, Reel/Disc 1 of 3, 04:31; [Wun Chek Hoi](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001299), oral history interview, 5 September 1991, Reel/Disc 2 of 3, 19:52.
 
 
 
 
-[^11]: Au, “Ziran yingshe.”
+[^11]: Au, “[Ziran yingshe](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19950101-1.2.73.1).”
 
 
-[^12]: Au, “Ziran yingshe.”
+[^12]: Au, “[Ziran yingshe](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19950101-1.2.73.1).”
 
 
-[^13]: Mok, “‘Kacha’ wushi nian.”
+[^13]: Mok, “[‘Kacha’ wushi nian](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19910630-1.2.66.3).”
 
 
-[^14]: Mok, “‘Kacha’ wushi nian.”
+[^14]: Mok, “[‘Kacha’ wushi nian](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19910630-1.2.66.3).”
 
 
 [^15]: _Majie_ refers to female Cantonese domestic servants mainly from Shunde, Guangdong province, who took the vow of celibacy and never married. In Singapore and Malaya, they worked in affluent Chinese and European households until at least the 1970s. They typically wore their hair in a single plait down the back or in a bun.
