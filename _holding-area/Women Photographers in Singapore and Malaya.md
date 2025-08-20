@@ -8,11 +8,7 @@ description: ""
 By Zhuang Wubin
 
 
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; line-height: 11.0px; font: 57.0px Helvetica; color: #ff89d3} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; line-height: 11.0px; font: 11.0px 'Minion Pro'} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 19.9px; line-height: 11.0px; font: 11.0px 'Minion Pro'} p.p4 {margin: 14.2px 0.0px 5.7px 0.0px; line-height: 13.0px; font: 13.0px 'Minion Std'} p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 11.0px; font: 11.0px 'Minion Pro'} span.s1 {letter-spacing: 0.2px} span.s2 {letter-spacing: -0.2px} span.s3 {font: 9.0px 'DFPHeiW3-GB'; letter-spacing: -0.2px} span.s4 {letter-spacing: -0.3px} span.s5 {letter-spacing: -0.1px} span.s6 {font: 9.0px 'DFPHeiW3-GB'; letter-spacing: -0.1px} span.s7 {letter-spacing: 0.1px} span.s8 {font: 9.0px 'DFPHeiW3-GB'}
-
-**W**
-
-omen don’t know how to take photographs!” a customer once declared at a Singapore photo studio. Wun Chek Hoi, the apprentice at the receiving end, proved him wrong and went on to become an accomplished woman studio photographer – a rare feat in that era of Singapore.1&nbsp;
+Women don’t know how to take photographs!” a customer once declared at a Singapore photo studio. Wun Chek Hoi, the apprentice at the receiving end, proved him wrong and went on to become an accomplished woman studio photographer – a rare feat in that era of Singapore.1&nbsp;
 
 Wun, Si Jing and Chew Lan Ying2 were three women who picked up the camera during the 1940s and 1950s for different reasons. Through their lens, they captured everything – from&nbsp; intimate moments of courtship to historic peace talks – discovering both pleasures and challenges while pursuing their craft and passion. &nbsp;
 
@@ -135,5 +131,4 @@ These female pioneers have been largely forgotten except for Si Jing, whose work
 [^9]: 
 
 
-[^0]: 
-
+[^0]:
