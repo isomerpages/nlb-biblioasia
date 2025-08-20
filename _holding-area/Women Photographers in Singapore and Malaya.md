@@ -46,6 +46,11 @@ After the Japanese Occupation, the experienced operators left to start their own
 
 The business peaked between 1963 and 1975. During auspicious days when Chinese couples held their weddings, there would often be a long queue outside Chew Photo Studio. Their record was photographing 42 couples in a day.[^11]
 
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_wedding.jpg" style="width: 100%;">
+
+<div style="background-color: white;"> A wedding photograph by Chew Photo Studio, undated. <i>Courtesy of Zhuang Wubin.</i></div>
+
+
 Wun was also very popular among Hindu customers. As the studio was located beside the historic Sri Mariamman Temple, many couples and their families and friends would visit the studio to have their photographs taken after their wedding ceremony at the temple, insisting that Wun helm the camera.[^12]
 
 In the business of studio photography, keeping up with the latest technology and changing customer tastes was crucial. As Wun and her siblings aged, it became harder to keep up with the relentless pace of innovation and competition. In late 1994, after more than half a century in business, Chew Photo Studio closed for good.[^13]
