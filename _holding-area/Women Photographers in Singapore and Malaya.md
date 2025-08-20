@@ -14,6 +14,7 @@ By Zhuang Wubin
 
 Women don’t know how to take photographs!” a customer once declared at a Singapore photo studio. Wun Chek Hoi, the apprentice at the receiving end, proved him wrong and went on to become an accomplished woman studio photographer – a rare feat in that era of Singapore.[^1]
 
+
 <img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_wuncheck.png" style="width: 100%;">
 
 <div style="background-color: white;"> Portrait of Wun Chek Hoi published in <i>Lianhe Zaobao</i> in 1991. <i>Source: Lianhe Zaobao, 30 June 1991 © SPH Media Limited. Permission required for reproduction. </i></div>
@@ -22,8 +23,12 @@ Wun, Si Jing and Chew Lan Ying[^2] were three women who picked up the camera dur
 
 #### **Wun Chek Hoi of Chew Photo Studio**
 
-Born in China in 1919, Wun Chek Hoi was a Cantonese practitioner of studio photography who came to Singapore with her parents when she was three and began her apprenticeship during the Japanese Occupation. Before the war, Wun’s father operated a lodge and knew a few Cantonese friends in studio photography. During the Occupation, they advised him to open a studio and employ his nine children to keep them productively occupied. By having them work in the studio, he also hoped that they would not be asked to work for the Japanese authorities. With the help of his friends, Chew Photo Studio
-(自然影社) was established on 1 April 1942 with its main branch at 230 South Bridge Road.[^3]
+Born in China in 1919, Wun Chek Hoi was a Cantonese practitioner of studio photography who came to Singapore with her parents when she was three and began her apprenticeship during the Japanese Occupation. Before the war, Wun’s father operated a lodge and knew a few Cantonese friends in studio photography. During the Occupation, they advised him to open a studio and employ his nine children to keep them productively occupied. By having them work in the studio, he also hoped that they would not be asked to work for the Japanese authorities. With the help of his friends, Chew Photo Studio (自然影社) was established on 1 April 1942 with its main branch at 230 South Bridge Road.[^3]
+
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_studio.png" style="width: 100%;">
+
+<div style="background-color: white;"> Chew Photo Studio (left unit) along South Bridge Road, 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001373 - 0092). </i></div>
+
 
 By September 1942, Chew Photo Studio had been appointed by the Malaya Sumatra Romu Kanri Kyokai (Labour Control Office of Malaya and Sumatra) as one of its official photographers, with branches on North Bridge Road, Serangoon Road, Joo Chiat Road and Upper Serangoon Road. There was also a branch called Smile Studio at the New World amusement park.[^4]
 
