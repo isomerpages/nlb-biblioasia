@@ -8,19 +8,19 @@ description: ""
 By Zhuang Wubin
 
 
-Women don’t know how to take photographs!” a customer once declared at a Singapore photo studio. Wun Chek Hoi, the apprentice at the receiving end, proved him wrong and went on to become an accomplished woman studio photographer – a rare feat in that era of Singapore.1&nbsp;
+Women don’t know how to take photographs!” a customer once declared at a Singapore photo studio. Wun Chek Hoi, the apprentice at the receiving end, proved him wrong and went on to become an accomplished woman studio photographer – a rare feat in that era of Singapore.[^1]
 
-Wun, Si Jing and Chew Lan Ying2 were three women who picked up the camera during the 1940s and 1950s for different reasons. Through their lens, they captured everything – from&nbsp; intimate moments of courtship to historic peace talks – discovering both pleasures and challenges while pursuing their craft and passion. &nbsp;
+Wun, Si Jing and Chew Lan Ying[^2] were three women who picked up the camera during the 1940s and 1950s for different reasons. Through their lens, they captured everything – from&nbsp; intimate moments of courtship to historic peace talks – discovering both pleasures and challenges while pursuing their craft and passion. &nbsp;
 
-Wun Chek Hoi of Chew Photo Studio
+#### **Wun Chek Hoi of Chew Photo Studio**
 
 Born in China in 1919, Wun Chek Hoi was a Cantonese practitioner of studio photography who came to Singapore with her parents when she was three and began her apprenticeship during the Japanese Occupation. Before the war, Wun’s father operated a lodge and knew a few Cantonese friends in studio photography. During the Occupation, they advised him to open a studio and employ his nine children to keep them productively occupied. By having them work in the studio, he also hoped that they would not be asked to work for the Japanese authorities. With the help of his friends, Chew Photo Studio&nbsp;
 
-(自然影社) was established on 1 April 1942 with its main branch at 230 South Bridge Road.3 &nbsp;
+(自然影社) was established on 1 April 1942 with its main branch at 230 South Bridge Road.[^3]
 
-By September 1942, Chew Photo Studio had been appointed by the Malaya Sumatra Romu Kanri Kyokai (Labour Control Office of Malaya and Sumatra) as one of its official photographers, with branches on North Bridge Road, Serangoon Road, Joo Chiat Road and Upper Serangoon Road. There was also a branch called Smile Studio at the New World amusement park.4&nbsp;
+By September 1942, Chew Photo Studio had been appointed by the Malaya Sumatra Romu Kanri Kyokai (Labour Control Office of Malaya and Sumatra) as one of its official photographers, with branches on North Bridge Road, Serangoon Road, Joo Chiat Road and Upper Serangoon Road. There was also a branch called Smile Studio at the New World amusement park.[^4]
 
-At the time, Wun was already in her early 20s and of marriageable age. However, she was worried about her mother who had suffered much hardship when she had to look after her many siblings; now, she had to contend with bringing up her own children. Wun felt that getting married and starting her own family would add to her mother’s burdens. As the eldest among nine children, Wun decided not to get married but to work in the family business and help her parents instead.5&nbsp;
+At the time, Wun was already in her early 20s and of marriageable age. However, she was worried about her mother who had suffered much hardship when she had to look after her many siblings; now, she had to contend with bringing up her own children. Wun felt that getting married and starting her own family would add to her mother’s burdens. As the eldest among nine children, Wun decided not to get married but to work in the family business and help her parents instead.[^5]
 
 At first, Chew Photo Studio hired experienced practitioners and photographers while Wun and her siblings served as apprentices. In those days, Chinese-owned photo studios operated on a strict hierarchical system that governed relationships between employees of different seniority and apprentices. Despite being the owner’s children, Wun and her siblings were not given preferential treatment. They were expected to “wash the floor, clean the toilet, do everything, pour tea for the _sifu_ \[teacher-mentors\] to drink, wait on them”.6 &nbsp;
 
