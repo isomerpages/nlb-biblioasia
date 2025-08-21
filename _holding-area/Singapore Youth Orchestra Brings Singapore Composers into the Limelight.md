@@ -57,7 +57,7 @@ Now regarded as the doyen of pioneer Singapore composers, Leong was, at the time
 
 #### **“Variations on Dayong Sampan” by Phoon Yew Tien (1985)**
 
-“Variations on Dayong Sampan” premiered in Singapore on 9 June 1985. It was also performed in Chorley, Lancashire in the UK on 20 June 1985.
+“Variations on Dayong Sampan” premiered in Singapore on 9 June 1985. It was also performed in Chorley, Lancashire in the United Kingdom on 20 June 1985.
 
 Phoon Yew Tien’s (1952–) “Variations” was commissioned by the SYO specially for its visit to England. Based on the popular Malay folk song “Dayong Sampan”, this composition comprises 12 variations and a finale. The work discards the traditional practice of introducing the theme (referring to the tune of “Dayong Sampan”) at the beginning and instead goes straight into the first variation. The subsequent variations are linked via transitions that shared a common chordal structure. The piece shifts from one variation to another with the theme emerging gradually and building up to the finale.
 
@@ -85,11 +85,11 @@ Percussionist Daphne Tan recalled the laborious task of fetching water and prepa
 
 “At the concert in Perth, our passive resistance melted away. Perhaps we were in awe of the concert venue, or maybe the thought of performing our programme to new musician friends our age spurred us on. Somehow, all of us became singularly focused from the first strike to make the music come alive to the audience.”[^16]
 
+Tsao (1953–96) started playing the piano at the age of six. When he was 16, he received the Licentiate of the Royal School of Music in piano performance and Grade 8 qualification in theory. Topping his cohort at National Junior College, Tsao received a scholarship from the Singapore Armed Forces to study engineering at the University of Manchester Institute of Science and Technology.[^17] His time in Manchester was instrumental in the broadening of his musical and cultural horizons. &nbsp;
+
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/tsao_chieh.png" style="width: 60%;"> Tsao Chieh in 1986.<i> Source: The Straits Times, 15 February 1986 © SPH Media Limited. Permission required for reproduction.</i></div>
-
-Tsao (1953–96) started playing the piano at the age of six. When he was 16, he received the Licentiate of the Royal School of Music in piano performance and Grade 8 qualification in theory. Topping his cohort at National Junior College, Tsao received a scholarship from the Singapore Armed Forces to study engineering at the University of Manchester Institute of Science and Technology.[^17] His time in Manchester was instrumental in the broadening of his musical and cultural horizons. &nbsp;
 
 In 1980, Tsao was offered a scholarship to Stanford University’s doctoral programme in Electrical Engineering in the U.S. In between his engineering course, he took extra classes in music and realised that “with a little more effort, \[he\] could get a master’s in music composition \[and\] went for it”.[^18] He also won first prize in the Jean and Paul Hanna music composition competition for his work “Four Songs from Romantic Poets for Soprano and Chamber Ensemble”. He subsequently wrote “Singapore Symphonic Suite of Large Orchestra”, which was performed by the Singapore Symphony Orchestra during the 1986 Arts Festival.[^19] He died of liver cancer just short of his 43rd birthday, leaving behind a wife and two children.[^20]
 
