@@ -28,9 +28,17 @@ Six months later, Yong left his job at the Singapore Management University as th
 
 One of his most popular videos is on the [forgotten Stamford Canal](https://www.instagram.com/p/C4ekEKtS6Ra/), released on 8 March 2024, which has since garnered more than 47,000 likes on Tiktok and over 4,000 likes on Instagram. It started with him wondering why there were so many escalators at Citylink Mall. People had to go down an escalator only to go up again about 10 m away, and there was also no direct connection between Basement 1 of Raffles City and City Hall MRT Station. It turned out that the numerous escalators were structured in such a way to avoid the still present but concealed Stamford Canal.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Stamford_2.jpg" style="width: 60%;">Screen grab from Yong’s video on the Stamford Canal.&gt;</div>
+
 When Yong was researching his video on the [Anchorpoint](https://www.instagram.com/p/C1_qxdOSLzC/)&nbsp;shopping mall, he discovered the interesting story behind the name of the nearby ABC Brickworks Market &amp; Food Centre. The letters &nbsp;“ABC” came from the food centre’s proximity to the former Archipelago Brewery Company (ABC), the producer of Anchor beer, while “Brickworks” referred to Alexandra Brickworks which once stood at the junction of Pasir Panjang and Alexandra roads.[^1] \[Fun fact: The bricks produced by the company were used to construct public buildings, including the&nbsp;former National Library on Stamford Road, the Tiong Bahru flats by the Singapore Improvement Trust and the Gillman Barracks.\] This inspired him to make a video on the history and heritage of the [ABC Brickworks Market &amp; Food Centre](https://www.instagram.com/reel/DEV0OamyYWq/), released in January 2025.
 
 “Sometimes, you also stumble upon things that you were not searching for, but because you were clicking here and there, you see other images, images that \[showed a place\] you never knew look like \[this\]. And then, maybe that sparks off an idea for another video,” Yong said.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/ABC_2.jpg" style="width: 60%;">Screen grab from Yong’s video on the ABC Brickworks Market &amp; Food Centre.</div>
 
 #### **Working with Historical Records**
 
@@ -40,7 +48,7 @@ For his March 2025 video on the [origins of the name Dhoby Ghaut](https://www.in
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Indian_Washmen_rev.jpg" style="width: 80%;">Indian laundry men or <i>dhobies</i> in Singapore, 1900s. <i>Courtesy of National Archives of Singapore. </i></div>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Indian_Washmen2.jpg" style="width: 80%;">Indian laundry men or <i>dhobies</i> in Singapore, 1900s. <i>Courtesy of National Archives of Singapore. </i></div>
 
 In many ways, the relationship between the archives and Yong is a partnership. The rewarding part, Yong noted, is when he puts an entire video together that combines archival materials with his unique brand of storytelling and understanding of the materials. “My journey has been very intertwined with archival materials. It’s not just a tool but a storyteller in itself, I feel, in what I want to convey and impress upon,” he said.
 

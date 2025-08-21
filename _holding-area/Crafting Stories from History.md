@@ -4,7 +4,7 @@ permalink: /holding-area/crafting-stories-from-history/
 variant: markdown
 description: ""
 ---
-#### **From research to reimagination, the library and archives are shaping Felix Cheong’s creative processes.**
+#### **From research to reimagination, the library and archives have shaped Felix Cheong’s creative processes.**
 By Jolynn Lim
 <br><small>18 August 2025</small>
 
@@ -38,7 +38,7 @@ While researching for a new graphic, _Opium: A War Story_, about the anti-opium 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/31J_Pepys_Road.jpg" style="width: 80%;">31J Pepys Road, the residence of the Inspector General of Opium, 1980. The house was demolished in 1988. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/31J_Pepys_Road2.jpg" style="width: 80%;">31J Pepys Road, the residence of the Inspector General of Opium, 1980. The house was demolished in 1988. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
 “Up to that point, I had not come across any mention of such a government position as the Inspector General of Opium. That immediately opened another rabbit hole for me to burrow into and upon further digging, I found a name – F. Dent – but little else about him. That again allowed my imagination to fill in the gaps and create a backstory for the villain,” he said. _Opium: A War Story_ is scheduled to be published in 2027 by Penguin Random House SEA.
 
