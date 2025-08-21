@@ -36,6 +36,10 @@ When Yong was researching his video on the [Anchorpoint](https://www.instagram.c
 
 “Sometimes, you also stumble upon things that you were not searching for, but because you were clicking here and there, you see other images, images that \[showed a place\] you never knew look like \[this\]. And then, maybe that sparks off an idea for another video,” Yong said.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/ABC_2.jpg" style="width: 80%;">Screen grab from Yong’s video on the ABC Brickworks Market &amp; Food Centre.</div>
+
 #### **Working with Historical Records**
 
 Yong embarked on The Urbanist Singapore to make history come alive and bridge the past and the present. “I want to use old photos to show \[people\] what it is like today or \[do a\] compare and contrast, to talk and have discussions around what’s still here and what’s gone,” he said.
