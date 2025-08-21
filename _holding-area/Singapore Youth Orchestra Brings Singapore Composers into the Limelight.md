@@ -113,15 +113,15 @@ Conducted by Lee Tsu Hock, “Fanfare for Joy” premiered on 7 September 1986 a
 
 A violinist and conductor, Yan Yin Wing obtained the ARCM in violin teaching at the Royal College of Music in London in 1976–78. He received a scholarship for a Summer Conductors’ Course organised by the Ernest Read Music Association in 1978. In 1984, he pursued an Advanced Orchestra Conducting Course at Sweelinck Conservatorium Amsterdam and attended an Orchestra Conducting Master Class at the International Sommerakademie of the Mozarteum in Salzburg, Austria.[^22] Back in Singapore, he formed the Emmanuel Chamber Orchestra (1980), Emmanuel String Orchestra (1988),[^23] conducted the Chinese Churches Orchestra as well as the National Junior College String Orchestra.[^24]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/yan_yan_wing.png" style="width: 65%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano) and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+
 As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), one of Singapore’s first community orchestras, Yan dedicated himself to nurturing young local talents. He also initiated exchange programmes with overseas orchestras such as the Korean Symphony Orchestra, Japan Philharmonic Orchestra and the Penang Symphony Orchestra.[^25]
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/braddell_heights.png" style="width: 65%;">Braddell Heights Symphony Orchestra, 1990.<i> Source: Straits Times, 16 November 1990 © SPH Media Limited. Permission required for reproduction.</i></div>
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/yan_yan_wing.png" style="width: 65%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano) and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 ####  **“Symphony no.1” by Bernard Tan (1990)**
 
