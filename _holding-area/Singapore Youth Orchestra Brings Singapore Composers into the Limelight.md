@@ -125,11 +125,11 @@ As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), o
 
 ####  **“Symphony no. 1” by Bernard Tan (1990)**
 
+“Symphony no. 1” was performed in 1990 at a concert marking the SYO’s 10th anniversary and farewell of its resident conductor, Vivien Goh. Bernard Tan described his first symphony, as “a conservative and more or less neo-classical style in four movements”.
+
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Dr Bernard Tan, 1989.<i> Source: Straits Times, 30 September 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
-
-“Symphony no. 1” was performed in 1990 at a concert marking the SYO’s 10th anniversary and farewell of its resident conductor, Vivien Goh. Bernard Tan described his first symphony, as “a conservative and more or less neo-classical style in four movements”.
 
 The first movement unfolds gently with the unassuming principal subject in the bassoons. The brooding second subject is first heard in the lower strings under repeated wind chords. The second movement is lively, infused with rapid semiquaver activity. This is followed by an elegiac slow movement featuring a clarinet solo. The dance-like main theme of the lively final movement is complemented by a more lyrical second subject first heard on oboes and then flutes in thirds. The dance-like subject and its opening motif permeate the movement and are reiterated by the entire orchestra in octaves in the final bars of the movement.
 
