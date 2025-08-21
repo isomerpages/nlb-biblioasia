@@ -109,7 +109,7 @@ Conducted by Lee Tsu Hock, “Fanfare for Joy” premiered on 7 September 1986 a
 
 #### **“Ascent” by Yan Yin Wing (1987)**
 
-“Ascent” was composed “especially for the SYO…to reflect the challenge of overcoming problems and reaching excellence – something which is in keeping with Singapore’s present approach to nation-building.” It expresses hope, hard work and achievement. But also carries “a slight touch of turmoil and bleakness to pose the challenges, odds which can be overcome by trying hard to succeed”.[^21] It premiered on 4 August 1987 at the World Trade Centre Auditorium.
+“Ascent” was composed “especially for the SYO… to reflect the challenge of overcoming problems and reaching excellence – something which is in keeping with Singapore’s present approach to nation-building”. It expresses hope, hard work and achievement. But also carries “a slight touch of turmoil and bleakness to pose the challenges, odds which can be overcome by trying hard to succeed”.[^21] It premiered on 4 August 1987 at the World Trade Centre Auditorium.
 
 A violinist and conductor, Yan Yin Wing obtained the ARCM in violin teaching at the Royal College of Music in London in 1976–78. He received a scholarship for a Summer Conductors’ Course organised by the Ernest Read Music Association in 1978. In 1984, he pursued an Advanced Orchestra Conducting Course at Sweelinck Conservatorium Amsterdam and attended an Orchestra Conducting Master Class at the International Sommerakademie of the Mozarteum in Salzburg, Austria.[^22] Back in Singapore, he formed the Emmanuel Chamber Orchestra (1980), Emmanuel String Orchestra (1988),[^23] conducted the Chinese Churches Orchestra as well as the National Junior College String Orchestra.[^24]
 
