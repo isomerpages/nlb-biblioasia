@@ -161,7 +161,7 @@ De Souza has composed over a hundred school songs and written countless arrangem
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_8_Dec_1985_programme_cp.jpg" style="width: 50%;">Singapore Youth Orchestra 8 December 1985 programme. De Souza’s works were performed at this concert.<i> Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
 
-#### **“Jingli Zuguo” (Salute to my Homeland) by Lim Chin Tiong (1987)**
+#### **“Jingli Zuguo” (Salute to My Homeland) by Lim Chin Tiong (1987)**
 
 Lim Chin Tiong (1937?–) took four years to compose “Salute”, his first orchestral work. The resulting symphonic suite is neither descriptive of local scenery nor society. Rather, it is a vehicle through which Lim tries to convey his thoughts and feelings for Singapore and to express his love for his homeland in four movements. “The first movement depicts my ideal country… The second is about the people, their happy and peaceful way of life. The third is about our heritage, while the last movement depicts hope for a peaceful future.” The SYO premiered the work on 1 March 1987.[^33]
 
