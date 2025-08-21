@@ -173,11 +173,11 @@ Lim was among the first batch of graduates (1959) from Nanyang University (now N
 
 #### **“Singapore Suite” by David Campbell (1984)**
 
-David Campbell is an American pianist, organist, teacher and composer in the New York area. He graduated from Florida State University and served on the music faculties of the City University of New York, and Brooklyn College.
+David Campbell is an American pianist, organist, teacher and composer from New York. He graduated from Florida State University and served on the music faculties of the City University of New York and Brooklyn College.
 
-“Singapore Suite” was written in February 1983 during Campbell’s first visit to the country. It was conceived as a musical postcard album of the various sights and sounds he experienced. Each of the six movements was an homage to the city, such as “Serangoon”, “Chinatown”, “SAF on Parade”, and “Sentosa Reverie”. As the first bars of “Singapore Suite” were played, there was confusion in the audience, “\[but\] gradually it became clear to them. Those random notes were the sounds of Singapore stirring to life in the morning… By the conclusion, \[they\] were enthusiastically applauding…”[^35]
+“Singapore Suite” was written in February 1983 during Campbell’s first visit to the country. It was conceived as a musical postcard album of the various sights and sounds he experienced. Each of the six movements was an homage to the city, such as “Serangoon”, “Chinatown”, “SAF on Parade” and “Sentosa Reverie”. As the first bars of “Singapore Suite” were played, there was confusion in the audience, “\[but\] gradually it became clear to them. Those random notes were the sounds of Singapore stirring to life in the morning… By the conclusion, \[they\] were enthusiastically applauding…”[^35]
 
-“Singapore Suite” was premiered on 1 April 1984 at Victoria Concert Hall and was dedicated to Campbell’s wife, Christina Soh Kee Mei, as well as the people of Singapore.[^36]
+“Singapore Suite” premiered on 1 April 1984 at Victoria Concert Hall and was dedicated to Campbell’s wife, Christina Soh Kee Mei, as well as the people of Singapore.[^36]
 
 <div style="background-color: white;">
 <br>
