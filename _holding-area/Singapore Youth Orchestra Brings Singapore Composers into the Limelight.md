@@ -7,7 +7,7 @@ description: ""
 #### **The Singapore Youth Orchestra’s practice of commissioning and performing the works of local composers was instrumental in the growth of Singapore music.**
 By Vivien Goh
 
-When the Singapore Youth Orchestra (SYO) was formed in 1980, part of its mission was to be a feeder to the Singapore Symphony Orchestra which had been set up the year before. However, in addition to nurturing young musicians, the orchestra’s other major contribution to Singapore was to feature the works of local composers. The founding chairman of the board of SYO, Bernard Tan, noted that the intention of the orchestra was to “show our support for Singaporean composers and to build up a body of Singapore works. No other music group, as far as I know, was doing this at the time”. This allowed Singapore composers to get their works performed while also exposing SYO members to local composers.[^1]
+When the Singapore Youth Orchestra (SYO) was formed in 1980, part of its mission was to be a feeder to the Singapore Symphony Orchestra which had been set up the year before. However, in addition to nurturing young musicians, the orchestra’s other major contribution to Singapore was to feature the works of local composers. The founding chairman of the board of SYO, Bernard Tan (1943–), noted that the intention of the orchestra was to “show our support for Singaporean composers and to build up a body of Singapore works. No other music group, as far as I know, was doing this at the time”. This allowed Singapore composers to get their works performed while also exposing SYO members to local composers.[^1]
 
 “I would like to think that our policy acted as a strong catalyst for Singapore composers to write orchestra works, and also served as an important showcase for them,” he added. “It also encouraged other music groups to perform the works of Singapore composers.”[^2]
 
@@ -123,9 +123,13 @@ As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), o
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/braddell_heights.png" style="width: 65%;">Braddell Heights Symphony Orchestra, 1990.<i> Source: Straits Times, 16 November 1990 © SPH Media Limited. Permission required for reproduction.</i></div>
 
-####  **“Symphony no.1” by Bernard Tan (1990)**
+####  **“Symphony no. 1” by Bernard Tan (1990)**
 
-“Symphony no. 1” was performed in 1990 at a concert marking the SYO’s 10th anniversary and farewell of its resident conductor, Vivien Goh. Bernard Tan (1943–) described his first symphony, as “a conservative and more or less neo-classical style in four movements”.
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Dr Bernard Tan, 1989.<i> Source: Straits Times, 30 September 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+“Symphony no. 1” was performed in 1990 at a concert marking the SYO’s 10th anniversary and farewell of its resident conductor, Vivien Goh. Bernard Tan described his first symphony, as “a conservative and more or less neo-classical style in four movements”.
 
 The first movement unfolds gently with the unassuming principal subject in the bassoons. The brooding second subject is first heard in the lower strings under repeated wind chords. The second movement is lively, infused with rapid semiquaver activity. This is followed by an elegiac slow movement featuring a clarinet solo. The dance-like main theme of the lively final movement is complemented by a more lyrical second subject first heard on oboes and then flutes in thirds. The dance-like subject and its opening motif permeate the movement and are reiterated by the entire orchestra in octaves in the final bars of the movement.
 
@@ -133,11 +137,7 @@ _Business Times_ reviewer J. Gordon noted that the “two outer movements were m
 
 In his review of the concert for the _Straits Times_, Terence Dawson remarked that the “scherzo was sparkling and deeply nostalgic. Andante was given an almost-glowing warmth. One must hope that he will be encouraged to produce further large-scale works”.[^27]
 
-Tan was the Chairman of the SYO’s Management Committee from 1980–2002. A physics professor at the National University of Singapore (NUS), Tan’s early musical training was in piano. In 1962, he received his Licentiate of the Royal Schools of Music in pianoforte. From 1977–78, he was Acting Head of the Department of Music at NUS and the Associate Director of the Centre for Musical Activities when he created “Symphony no. 1”. He is a prolific composer, writing for many genres such as mixed chorus and piano for a poem’s setting, incidental music for plays and ballet, music for string orchestras, various solo instruments and choral music. He received the Public Service Medal in 1982 and the Public Service Star in 1990.[^28]
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Dr Bernard Tan, 1989.<i> Source: Straits Times, 30 September 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+Tan was the chairman of the SYO’s Management Committee from 1980–2002. A physics professor at the National University of Singapore (NUS), Tan’s early musical training was in piano. In 1962, he received his Licentiate of the Royal Schools of Music in pianoforte. From 1977–78, he was Acting Head of the Department of Music at NUS and the Associate Director of the Centre for Musical Activities when he created “Symphony no. 1”. He is a prolific composer, writing for many genres such as mixed chorus and piano for a poem’s setting, incidental music for plays and ballet, music for string orchestras, various solo instruments and choral music. He received the Public Service Medal in 1982 and the Public Service Star in 1990.[^28]
 
 #### **“Undaunted” by J.J. De Souza (1984)**
 
