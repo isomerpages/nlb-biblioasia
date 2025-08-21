@@ -141,11 +141,11 @@ Tan was the chairman of the SYO’s Management Committee from 1980–2002. A phy
 
 #### **“Undaunted” by J.J. De Souza (1984)**
 
+From 1981 to 1989, under Goh, the SYO would present an annual pop concert in December to mark the end of each season. They would perform contemporary popular pieces such as film scores, pop hits and choral works. For the 1985 concert, John James De Souza (J.J. De Souza) was commissioned to write an orchestral arrangement of his composition “Undaunted” (the theme song for Singapore’s “25 Years of Nation Building” celebrations), originally created in collaboration with his ECAC colleague, Seah Lye Huat, in 1985.[^29]
+
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_James_de_Souza_1_cp.jpg" style="width: 50%;">Composer John James De Souza, 1985.<i>  Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
-
-From 1981 to 1989, under Goh, the SYO would present an annual pop concert in December to mark the end of each season. They would perform contemporary popular pieces such as film scores, pop hits and choral works. For the 1985 concert, John James De Souza (J.J. De Souza) was commissioned to write an orchestral arrangement of his composition “Undaunted” (the theme song for Singapore’s “25 Years of Nation Building” celebrations), originally created in collaboration with his ECAC colleague, Seah Lye Huat, in 1985.[^29]
 
 <div style="background-color: white;">
 <br>
