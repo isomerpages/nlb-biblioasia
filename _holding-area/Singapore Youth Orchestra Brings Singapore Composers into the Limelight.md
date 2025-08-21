@@ -23,7 +23,7 @@ In addition, the SYO also featured the works of American composers who resided i
 
 While the objective of supporting local composers was noble, the efforts were not always appreciated at the time, ironically by the musicians. SYO’s Goh recalled that the musicians usually “approached new compositions with feelings bordering on distaste. Since they often had to struggle with poor \[hand-written\] manuscripts, copyists’ errors, last minute changes by composers and submissions by composers two weeks before performance date, this is not surprising. To top all this, nobody knew what it was going to sound like at first reading. Sometimes even the composers were surprised by what they heard”.[^3]
 
-Composers were told to temper the technical difficulties of their compositions considering the SYO’s young musicians, but some still “\[gave\] free rein to their imaginations. Once unleashed, the occasional result was music which was unlike anything the young musicians had ever played in their lives.”[^4]
+Composers were told to temper the technical difficulties of their compositions considering the SYO’s young musicians, but some still “\[gave\] free rein to their imaginations. Once unleashed, the occasional result was music which was unlike anything the young musicians had ever played in their lives”.[^4]
 
 <div style="background-color: white;">
 <br>
