@@ -187,6 +187,10 @@ David Campbell is an American pianist, organist, teacher and composer from New Y
 
 Texas-born John Sharpley (1956–) had a comprehensive and varied education in both the United States and Europe. He came to Singapore in 1990 as Director of the Boston University Music Programme (at that time associated with Yamaha Music School). During his stay in Singapore, he composed for groups such as the People’s Association, NUS Symphonic Band, Singapore Guitar Society and the Singapore Dance Theatre. “Sojourn” was commissioned by the SYO in 1989 and premiered on 1 August 1989 at the Victoria Concert Hall.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley2.png" style="width: 35%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+
 The performance included “bird whistles, a whip, a siren”, “with Asian influence in the melody and the gamelan effect”. Sharpley’s piece also called for unusual percussion instruments such as “the guiro (a South American gourd-like instrument), temple blocks and a harp”. [^37]
 
 Of the work, Sharpley said “I believe that there is some extraordinary way we are all on a sojourn, or temporary stay. This is punctuated by three ‘events’ in time, birth, life, death. The first movement, _Unfolding_, is a meditation on birth, this process of being… The contrasting second movement, _Burlesque_, explores a world of humour and satire: by-products, no doubt, from ‘everyday life’... The last movement, _Journey’s End_ is contemplation, on transcendence, the dropping of illusion. In such a manner, the three movements of Sojourn are progressive (as opposed to cyclic).”[^38]
@@ -194,10 +198,6 @@ Of the work, Sharpley said “I believe that there is some extraordinary way we 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_3_Aug_1989_programme.png" style="width: 45%;">Singapore Youth Orchestra 3 August 1989 programme.<i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley2.png" style="width: 35%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
 
 Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
 
