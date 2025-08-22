@@ -111,7 +111,7 @@ Conducted by Lee Tsu Hock, “Fanfare for Joy” premiered on 7 September 1986 a
 
 “Ascent” was composed “especially for the SYO… to reflect the challenge of overcoming problems and reaching excellence – something which is in keeping with Singapore’s present approach to nation-building”. It expresses hope, hard work and achievement. But also carries “a slight touch of turmoil and bleakness to pose the challenges, odds which can be overcome by trying hard to succeed”.[^21] It premiered on 4 August 1987 at the World Trade Centre Auditorium.
 
-A violinist and conductor, Yan Yin Wing obtained the ARCM in violin teaching at the Royal College of Music in London in 1976–78. He received a scholarship for a Summer Conductors’ Course organised by the Ernest Read Music Association in 1978. In 1984, he pursued an Advanced Orchestra Conducting Course at Sweelinck Conservatorium Amsterdam and attended an Orchestra Conducting Master Class at the International Sommerakademie of the Mozarteum in Salzburg, Austria.[^22] Back in Singapore, he formed the Emmanuel Chamber Orchestra (1980), Emmanuel String Orchestra (1988),[^23] conducted the Chinese Churches Orchestra as well as the National Junior College String Orchestra.[^24]
+A violinist and conductor, Yan Yin Wing obtained the "ARCM (Associate of the Royal College of Music)” in violin teaching at the Royal College of Music in London in 1976–78. He received a scholarship for a Summer Conductors’ Course organised by the Ernest Read Music Association in 1978. In 1984, he pursued an Advanced Orchestra Conducting Course at Sweelinck Conservatorium Amsterdam and attended an Orchestra Conducting Master Class at the International Sommerakademie of the Mozarteum in Salzburg, Austria.[^22] Back in Singapore, he formed the Emmanuel Chamber Orchestra (1980), Emmanuel String Orchestra (1988),[^23] conducted the Chinese Churches Orchestra as well as the National Junior College String Orchestra.[^24]
 
 <div style="background-color: white;">
 <br>
@@ -141,19 +141,19 @@ Tan was the chairman of the SYO’s Management Committee from 1980–2002. A phy
 
 #### **“Undaunted” by J.J. De Souza (1984)**
 
-From 1981 to 1989, under Goh, the SYO would present an annual pop concert in December to mark the end of each season. They would perform contemporary popular pieces such as film scores, pop hits and choral works. For the 1985 concert, John James De Souza (J.J. De Souza) was commissioned to write an orchestral arrangement of his composition “Undaunted” (the theme song for Singapore’s “25 Years of Nation Building” celebrations), originally created in collaboration with his ECAC colleague, Seah Lye Huat, in 1985.[^29]
+From 1981 to 1989, under Goh, the SYO would present an annual pop concert in December to mark the end of each season. They would perform contemporary popular pieces such as film scores, pop hits and choral works. For the 1985 concert, John James de Souza (J.J. de Souza) was commissioned to write an orchestral arrangement of his composition “Undaunted” (the theme song for Singapore’s “25 Years of Nation Building” celebrations), originally created in collaboration with Seah Lye Huat, his colleague at the Ministry of Education’s Extra-Curricular Activities Branch, in 1985.[^29]
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_James_de_Souza_1_cp.jpg" style="width: 50%;">Composer John James De Souza, 1985.<i>  Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
 
+At its December 1985 concert, the SYO performed “Undaunted”, “Sentosa” (De Souza’s winning entry in the Sentosa Song Writing Competition in 1980)[^30] as well as his arrangements of “We are the World”, “Flash Dance (What a Feeling)” and the theme song from the film _E.T_.[^31]
+
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score_rev.jpg" style="width: 50%;">Music score for “Sentosa”, 1980.<i> Courtesy of Vivien Goh.</i></div>
 
-At its December 1985 concert, the SYO performed “Undaunted”, “Sentosa” (De Souza’s winning entry in the Sentosa Song Writing Competition in 1980)[^30] as well as his arrangements of “We are the World”, “Flash Dance (What a Feeling)” and the theme song from the film _E.T_.[^31]
-
-De Souza was a self-taught musician. At the age of 17, he took formal piano lessons from Victor Doggett, a well-known British piano teacher in Singapore. After five years, he obtained the LRSM Teaching Diploma. He was a schoolteacher for 10 years before transferring to the Music Section of the Extra Curricular Activities Centre under the Ministry of Education, first as a peripatetic music teacher and then as a band teacher. In 1970, he was awarded a scholarship for a Band Master’s Course at the Balcombe Military School of Music in Australia. Upon his return in 1971, he was appointed Supervisor of Secondary School Bands and in 1982, he was appointed Specialist Inspector of Music. He was one of Singapore’s pioneer band instructors who was tasked with creating school bands in every school in the early days of the Republic.[^32]
+De Souza was a self-taught musician. At the age of 17, he took formal piano lessons from Victor Doggett, a well-known British piano teacher in Singapore. After five years, he obtained the "LRSM" (Licentiate of the Royal Schools of Music) Teaching Diploma. He was a schoolteacher for 10 years before transferring to the Music Section of the Extra Curricular Activities Centre under the Ministry of Education, first as a peripatetic music teacher and then as a band teacher. In 1970, he was awarded a scholarship for a Band Master’s Course at the Balcombe Military School of Music in Australia. Upon his return in 1971, he was appointed Supervisor of Secondary School Bands and in 1982, he was appointed Specialist Inspector of Music. He was one of Singapore’s pioneer band instructors who was tasked with creating school bands in every school in the early days of the Republic.[^32]
 
 De Souza has composed over a hundred school songs and written countless arrangements for piano, brass and symphonic band. One of his great achievements was to have one of his compositions (“Say You’ll Always Be Mine”) chosen for the semifinals of the World Popular Song Festival held in Japan in 1975. In 1985, he worked on a project to arrange and record a collection of songs for schools, including “Undaunted”. He was among those honoured at the 1985 National Day Awards with an Efficiency Medal.
 
@@ -194,6 +194,8 @@ Texas-born John Sharpley (1956–) had a comprehensive and varied education in b
 The performance included “bird whistles, a whip, a siren”, “with Asian influence in the melody and the gamelan effect”. Sharpley’s piece also called for unusual percussion instruments such as “the guiro (a South American gourd-like instrument), temple blocks and a harp”. [^37]
 
 Of the work, Sharpley said “I believe that there is some extraordinary way we are all on a sojourn, or temporary stay. This is punctuated by three ‘events’ in time, birth, life, death. The first movement, _Unfolding_, is a meditation on birth, this process of being… The contrasting second movement, _Burlesque_, explores a world of humour and satire: by-products, no doubt, from ‘everyday life’... The last movement, _Journey’s End_ is contemplation, on transcendence, the dropping of illusion. In such a manner, the three movements of Sojourn are progressive (as opposed to cyclic).”[^38]
+
+#### **Singapore’s Evolving Orchestral Landscape**
 
 Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
 

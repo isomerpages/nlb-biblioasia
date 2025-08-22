@@ -1,6 +1,6 @@
 ---
 title: Crafting Stories from History
-permalink: /holding-area/crafting-stories-from-history/
+permalink: /people/2025/8/felix-cheong-author-poet-graphic-novels/
 variant: markdown
 description: ""
 ---

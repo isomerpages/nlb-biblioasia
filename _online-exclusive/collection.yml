@@ -2,6 +2,9 @@ collections:
   online-exclusive:
     output: true
     order:
+      - From Ancient Maps to Modern Designs How a 500 Year Old Map Became
+        Fashion.md
+      - Crafting Stories from History.md
       - The Many Facets of Liu Kang.md
       - In Search of Silvestr.md
       - Historical Photos of Chin Woo’s Golden Lions.md

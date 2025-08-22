@@ -1,6 +1,6 @@
 ---
 title: Women Photographers in Singapore and Malaya
-permalink: /holding-area/vol-21/issue-3/oct-dec-2025/women-photographers-in-singapore-and-malaya/
+permalink: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
 variant: markdown
 description: ""
 ---
@@ -100,6 +100,10 @@ Huang and Si Jing were married on 8 July 1952 and held their wedding dinner at t
 
 In 2002, Si Jing donated her personal collection of photographs to the National Museum of Singapore. Among these are a few showing the interior of her Tiong Bahru flat. One shows the dining table with a cabinet beside it and above the cabinet on the wall is the framed photograph of Clifford Pier exhibited at the 1952 Open Photographic Exhibition.
 
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_flat.jpg" style="width: 80%;">
+
+<div style="background-color: white;"> Si Jing’s Singapore Improvement Trust flat in Tiong Bahru. On the wall above the cabinet is a framed photograph of Clifford Pier&nbsp;taken by Si Jing and&nbsp;exhibited at the Open Photographic Exhibition in 1952. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Wu Sijing.</i></div>
+
 #### **Chew Lan Ying, the Pioneering Photojournalist&nbsp;**
 
 At the end of 1955, the sleepy town of Baling in Kedah was thrust into the spotlight when Tunku Abdul Rahman, first chief minister of Malaya, and Chin Peng, secretary general of the Malayan Communist Party (MCP), met for peace talks there. In the lead-up to the meeting, MCP’s deputy head of propaganda, Chen Tien, and courier guide, Lee Chin Hee, turned up at the tin-mining village of Klian Intan in northern Malaya on 17 October 1955 to begin preparatory talks with government representatives.[^25] Their sudden appearance caught newspapers in Malaya and Singapore unawares as they had not dispatched any journalists in advance.[^26]
@@ -127,6 +131,10 @@ When Abdul Razak Hussein, prime minister of Malaya, made a diplomatic visit to T
 Beyond news photography, Chew participated in salon photography as a member of the Photographic Society of the Federation of Malaya. In April 1957, she joined 11 other society members on a road trip to the east coast of Malaya to photograph life in the fishing villages. They brought along prints to hold exhibitions and also interacted with photography enthusiasts from the area.[^37]
 
 Interestingly, a submission by Chew was selected for the inaugural National Photographic Art Exhibition in China at the end of 1957.[^38] The selected photograph featured two fishermen from the Malayan east coast mending their net, with the sun casting long shadows in the foreground. The image might have been captured during the excursion.
+
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_fishermen.jpg" style="width: 80%;">
+
+<div style="background-color: white;"> Chiew Lian Ying’s photograph of two fishermen mending their net was selected for the inaugural National Photographic Art Exhibition held in China at the end of 1957. <i>Source: Nanyang Siang Pau, 22 December 1957 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 In 1958, Chew married Lee Yue Loong, a fellow photojournalist at _Nanyang Siang Pau_.[^39] Lee owned Dragon Photo Service on High Street, which handled photo commissions as well as developing and printing work.[^40] After her marriage, Chew worked at their photo business until her husband’s untimely demise in 1970.[^41] Her contributions to _Nanyang Siang Pau_ decreased significantly after 1960.&nbsp;
 
