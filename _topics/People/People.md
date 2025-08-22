@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/felix-cheong-author-poet-graphic-novels/">Crafting Stories from History</a>
+
+ <p>From research to reimagination, the library and archives&nbsp;have shaped&nbsp;Felix Cheong’s creative processes.</p> 
+
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/">**From Liguria to the Lion City: The Life and Times of Giovanni Gaggino**</a>
 The remarkable story of an Italian merchant who once owned Pulau Bukom and authored an Italian-Malay dictionary in colonial Singapore.
 
