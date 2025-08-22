@@ -5,6 +5,14 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/afton-chen-reckless-ericka-mao-kun-map/">**From Ancient Maps to Modern Designs: How a 500-Year-Old Map Became Fashion**</a>
+
+When Singapore designer Afton Chen chanced upon the Mao Kun Map, she decided to embark on a new fashion collection.
+
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/voyage_design_Topics.jpg" style="width:80%;"> 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/felix-cheong-author-poet-graphic-novels/">Crafting Stories from History</a>
 
  <p>From research to reimagination, the library and archives&nbsp;have shaped&nbsp;Felix Cheong’s creative processes.</p> 
