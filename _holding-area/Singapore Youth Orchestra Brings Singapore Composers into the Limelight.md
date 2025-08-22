@@ -7,6 +7,10 @@ description: ""
 #### **The Singapore Youth Orchestra’s practice of commissioning and performing the works of local composers was instrumental in the growth of Singapore music.**
 By Vivien Goh
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_camp.jpg" style="width: 80%;">Singapore Youth Orchestra music camp concert in 1981. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 13. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+
 When the Singapore Youth Orchestra (SYO) was formed in 1980, part of its mission was to be a feeder to the Singapore Symphony Orchestra which had been set up the year before. However, in addition to nurturing young musicians, the orchestra’s other major contribution to Singapore was to feature the works of local composers. The founding chairman of the board of SYO, Bernard Tan (1943–), noted that the intention of the orchestra was to “show our support for Singaporean composers and to build up a body of Singapore works. No other music group, as far as I know, was doing this at the time”. This allowed Singapore composers to get their works performed while also exposing SYO members to local composers.[^1]
 
 “I would like to think that our policy acted as a strong catalyst for Singapore composers to write orchestra works, and also served as an important showcase for them,” he added. “It also encouraged other music groups to perform the works of Singapore composers.”[^2]
@@ -24,10 +28,6 @@ In addition, the SYO also featured the works of American composers who resided i
 While the objective of supporting local composers was noble, the efforts were not always appreciated at the time, ironically by the musicians. SYO’s Goh recalled that the musicians usually “approached new compositions with feelings bordering on distaste. Since they often had to struggle with poor \[hand-written\] manuscripts, copyists’ errors, last minute changes by composers and submissions by composers two weeks before performance date, this is not surprising. To top all this, nobody knew what it was going to sound like at first reading. Sometimes even the composers were surprised by what they heard”.[^3]
 
 Composers were told to temper the technical difficulties of their compositions considering the SYO’s young musicians, but some still “\[gave\] free rein to their imaginations. Once unleashed, the occasional result was music which was unlike anything the young musicians had ever played in their lives”.[^4]
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_camp.jpg" style="width: 80%;">Singapore Youth Orchestra music camp concert in 1981. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 13. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
 
 <div style="background-color: white;">
 <br>
