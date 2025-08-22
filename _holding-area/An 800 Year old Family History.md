@@ -117,8 +117,13 @@ Our fifth-generation ancestor, Zhuang Jing, played a pivotal role in preserving 
 
 These words reflect Zhuang Jing’s unwavering dedication to education and duty. He saw the imperial examinations not just as a path to personal success, but as a means to serve the nation and uphold the family’s legacy. His efforts were not only for his own achievements, but also to honour his ancestors and inspire future generations to pursue knowledge and virtue.
 
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_family.png" style="width: 80%;">
+<div style="background-color: white;">         Photograph taken after a family dinner with my brother (right) and our families in Singapore, 2025. Our children represent the fourth generation of the Zhuang family in Singapore.<i>  Courtesy of Chung Kwang Tong.</i></div>
+
 Reading Zhuang Jing’s words centuries later, I felt a deep sense of connection. His values – hard work, scholarship and responsibility to both family and country – are the very ideals that continue to shape us today. I will be sure to pass on these values to my children and descendants.
 
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_book.png" style="width: 80%;">
+<div style="background-color: white;">           The front cover of volume 2 of Chung Kwang Tong’s family _zupu_, 庄氏族谱: 天水郡.<i>  From National Library Singapore (call no. RSEA 929.20951 ZSZ).</i></div>
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
