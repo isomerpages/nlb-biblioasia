@@ -72,7 +72,7 @@ In October 1963, library staff conducted surveys of community centres, where man
 ![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_9.png)
 <div style="background-color:white;">The mobile library van at Tanjong Pagar Community Centre, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
-Nee Soon was added in May 1965, quickly becoming the busiest of the three service points, followed by Bukit Panjang in February 1966. The mobile library service received a significant boost in September 1965 when the New Zealand government provided a book grant of £10,000 under the Colombo Plan for the enhancement of the mobile library collection. This donation funded the purchase of 23,519 books in 1966 for the two unused book trailers, facilitating the service’s expansion.[^20]
+Nee Soon was added in May 1965, quickly becoming the busiest of the three service points, followed by Bukit Panjang in February 1966. The mobile library service received a significant boost in September 1965 when the New Zealand government provided a book grant of NZ£10,000 under the Colombo Plan for the enhancement of the mobile library collection. This donation funded the purchase of 23,519 books in 1966 for the two unused book trailers, facilitating the service’s expansion.[^20]
 
 ![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_20.png)
 <div style="background-color:white;">Registration of new members at the opening of the mobile library service point at Nee Soon Community Centre, 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>

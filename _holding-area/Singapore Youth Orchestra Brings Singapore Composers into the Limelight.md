@@ -7,7 +7,11 @@ description: ""
 #### **The Singapore Youth Orchestra’s practice of commissioning and performing the works of local composers was instrumental in the growth of Singapore music.**
 By Vivien Goh
 
-When the Singapore Youth Orchestra (SYO) was formed in 1980, part of its mission was to be a feeder to the Singapore Symphony Orchestra which had been set up the year before. However, in addition to nurturing young musicians, the orchestra’s other major contribution to Singapore was to feature the works of local composers. The founding chairman of the board of SYO, Bernard Tan, noted that the intention of the orchestra was to “show our support for Singaporean composers and to build up a body of Singapore works. No other music group, as far as I know, was doing this at the time.” This allowed Singapore composers to get their works performed while also exposing SYO members to local composers.[^1]
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_camp.jpg" style="width: 80%;">Singapore Youth Orchestra music camp concert in 1981. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 13. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+
+When the Singapore Youth Orchestra (SYO) was formed in 1980, part of its mission was to be a feeder to the Singapore Symphony Orchestra which had been set up the year before. However, in addition to nurturing young musicians, the orchestra’s other major contribution to Singapore was to feature the works of local composers. The founding chairman of the board of SYO, Bernard Tan (1943–), noted that the intention of the orchestra was to “show our support for Singaporean composers and to build up a body of Singapore works. No other music group, as far as I know, was doing this at the time”. This allowed Singapore composers to get their works performed while also exposing SYO members to local composers.[^1]
 
 “I would like to think that our policy acted as a strong catalyst for Singapore composers to write orchestra works, and also served as an important showcase for them,” he added. “It also encouraged other music groups to perform the works of Singapore composers.”[^2]
 
@@ -15,21 +19,21 @@ When the Singapore Youth Orchestra (SYO) was formed in 1980, part of its mission
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/1985_SYO_orchestra_cp.jpg" style="width: 80%;">The 1985 Singapore Youth Orchestra. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985), n.p. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
 
-During its first decade, under SYO’s founding music director and resident conductor Vivien Goh, a total of seven works were commissioned from local composers and one by the American John Sharpley. The new local works were “Dance Suite” by Leong Yoon Pin (premiered in 1982); “Variations on Dayong Sampan” by Phoon Yew Tien (premiered in 1985); “Stasis” by Tsao Chieh (premiered in 1988); “Fanfare for Joy” by Leong Yoon Pin (premiered in 1986); “Ascent” by Yan Yin Wing (premiered in 1987); “Symphony no. 1” by Bernard Tan (premiered in 1990); and “Salute to My Homeland” by Lim Chin Tiong (premiered in 1987). In 1985, John De Souza was commissioned to write an orchestral arrangement for his composition “Undaunted” that had originally been composed earlier that year. The SYO performed “Undaunted” and his 1980 composition “Sentosa” in 1985. In addition, the SYO also featured the works of American composers who resided in Singapore: David Campbell’s “Singapore Suite” (premiered in 1986) and Sharpley’s “Sojourn” (commissioned in 1988). Three commissioned works were taken on tour: “Dance Suite” to Rome, “Variations of Dayong Sampan” to Lancashire and London, and “Stasis” to Perth.
+During its first decade, under SYO’s founding music director and resident conductor Vivien Goh, a total of seven works were commissioned from local composers and one by the American John Sharpley. The new local works were “Dance Suite” by Leong Yoon Pin (premiered in 1982); “Variations on Dayong Sampan” by Phoon Yew Tien (premiered in 1985); “Stasis” by Tsao Chieh (premiered in 1988); “Fanfare for Joy” by Leong Yoon Pin (premiered in 1986); “Ascent” by Yan Yin Wing (premiered in 1987); “Symphony no. 1” by Bernard Tan (premiered in 1990); and “Salute to My Homeland” by Lim Chin Tiong (premiered in 1987). 
 
-While the objective of supporting local composers was noble, the efforts were not always appreciated at the time, ironically by the musicians. SYO’s Goh recalled that the musicians usually “approached new compositions with feelings bordering on distaste. Since they often had to struggle with poor \[hand-written\] manuscripts, copyists’ errors, last minute changes by composers and submissions by composers two weeks before performance date, this is not surprising. To top all this, nobody knew what it was going to sound like at first reading. Sometimes even the composers were surprised by what they heard.”[^3]
+In 1985, John De Souza was commissioned to write an orchestral arrangement for his composition “Undaunted” that had originally been composed earlier that year. The SYO performed “Undaunted” and his 1980 composition “Sentosa” in 1985. 
 
-Composers were told to temper the technical difficulties of their compositions considering the SYO’s young musicians, but some still “\[gave\] free rein to their imaginations. Once unleashed, the occasional result was music which was unlike anything the young musicians had ever played in their lives.”[^4]
+In addition, the SYO also featured the works of American composers who resided in Singapore: David Campbell’s “Singapore Suite” (premiered in 1986) and Sharpley’s “Sojourn” (commissioned in 1988). Three commissioned works were taken on tour: “Dance Suite” to Rome, “Variations of Dayong Sampan” to Lancashire and London, and “Stasis” to Perth.
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_camp.jpg" style="width: 80%;">Singapore Youth Orchestra music camp concert 1981. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 13. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+While the objective of supporting local composers was noble, the efforts were not always appreciated at the time, ironically by the musicians. SYO’s Goh recalled that the musicians usually “approached new compositions with feelings bordering on distaste. Since they often had to struggle with poor \[hand-written\] manuscripts, copyists’ errors, last minute changes by composers and submissions by composers two weeks before performance date, this is not surprising. To top all this, nobody knew what it was going to sound like at first reading. Sometimes even the composers were surprised by what they heard”.[^3]
+
+Composers were told to temper the technical difficulties of their compositions considering the SYO’s young musicians, but some still “\[gave\] free rein to their imaginations. Once unleashed, the occasional result was music which was unlike anything the young musicians had ever played in their lives”.[^4]
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_Public_Concert_1982_cp.jpg" style="width: 80%;">Singapore Youth Orchestra public performance in 1982. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 12. (From National Library Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
 
-From the 1990s to 2011, the SYO continued to commission new works by composers such as Tsao Chieh (“Prelude”, “Fugue” and “Fugato”, 1992), Leong Yoon Pin (“Metamorphosis”, 1993), Er Yenn Chwen (“Three Sketches for Choral and Orchestra”, 1994; “Opening Hearts for Choral and Orchestra”, 2002), Joyce Bee Tuan Koh (“Above Dancing Waters”, 1996), Howard John (“Symphonic Variations on Westron Wynde”, 1997), Kelly Tang (“Sinfonia Concertante”, 1998, “Symphonic Suite”, 2008), Ho Chee Kong (“Enchanted Paths”, 2000), Bernard Tan (“Overture to Youth”, 2001), Philip Tan (“Ten Months”, 2003), Robert Casteels (“Kriesleriana”, 2004), Phoon Yew Tien ( “Summer Rhapsody”, 2009), and Chen Zhangyi ( “A Carp Emerges”, 2011).[^5]
+From the 1990s to 2011, the SYO continued to commission new works by composers such as Tsao Chieh (“Prelude”, “Fugue” and “Fugato”, 1992), Leong Yoon Pin (“Metamorphosis”, 1993), Er Yenn Chwen (“Three Sketches for Choral and Orchestra”, 1994; “Opening Hearts for Choral and Orchestra”, 2002), Joyce Bee Tuan Koh (“Above Dancing Waters”, 1996), Howard John (“Symphonic Variations on Westron Wynde”, 1997), Kelly Tang (“Sinfonia Concertante”, 1998, “Symphonic Suite”, 2008), Ho Chee Kong (“Enchanted Paths”, 2000), Bernard Tan (“Overture to Youth”, 2001), Philip Tan (“Ten Months”, 2003), Robert Casteels (“Kriesleriana”, 2004), Phoon Yew Tien ( “Summer Rhapsody”, 2009), and Chen Zhangyi (“A Carp Emerges”, 2011).[^5]
 
 #### **“Dance Suite” by Leong Yoon Pin (1982)**
 
@@ -53,7 +57,7 @@ Now regarded as the doyen of pioneer Singapore composers, Leong was, at the time
 
 #### **“Variations on Dayong Sampan” by Phoon Yew Tien (1985)**
 
-“Variations on Dayong Sampan” premiered in Singapore on 9 June 1985. It was also performed in Chorley, Lancashire in the UK on 20 June 1985.
+“Variations on Dayong Sampan” premiered in Singapore on 9 June 1985. It was also performed in Chorley, Lancashire in the United Kingdom on 20 June 1985.
 
 Phoon Yew Tien’s (1952–) “Variations” was commissioned by the SYO specially for its visit to England. Based on the popular Malay folk song “Dayong Sampan”, this composition comprises 12 variations and a finale. The work discards the traditional practice of introducing the theme (referring to the tune of “Dayong Sampan”) at the beginning and instead goes straight into the first variation. The subsequent variations are linked via transitions that shared a common chordal structure. The piece shifts from one variation to another with the theme emerging gradually and building up to the finale.
 
@@ -81,13 +85,13 @@ Percussionist Daphne Tan recalled the laborious task of fetching water and prepa
 
 “At the concert in Perth, our passive resistance melted away. Perhaps we were in awe of the concert venue, or maybe the thought of performing our programme to new musician friends our age spurred us on. Somehow, all of us became singularly focused from the first strike to make the music come alive to the audience.”[^16]
 
+Tsao (1953–96) started playing the piano at the age of six. When he was 16, he received the Licentiate of the Royal School of Music in piano performance and Grade 8 qualification in theory. Topping his cohort at National Junior College, Tsao received a scholarship from the Singapore Armed Forces to study engineering at the University of Manchester Institute of Science and Technology.[^17] His time in Manchester was instrumental in the broadening of his musical and cultural horizons. &nbsp;
+
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/tsao_chieh.png" style="width: 60%;"> Tsao Chieh in 1986.<i> Source: The Straits Times, 15 February 1986 © SPH Media Limited. Permission required for reproduction.</i></div>
 
-Tsao (1953–96) started playing the piano at the age of six. When he was 16, he received the Licentiate of the Royal School of Music in piano performance and Grade 8 qualification in theory. Topping his cohort at National Junior College, Tsao received a scholarship from the Singapore Armed Forces to study engineering at the University of Manchester Institute of Science and Technology.[^17] His time in Manchester was instrumental in the broadening of his musical and cultural horizons. &nbsp;
-
-In 1980, Tsao was offered a scholarship to Stanford University’s doctoral programme in Electrical Engineering in the U.S. In between his engineering course, he took extra classes in music and realised that “with a little more effort, \[he\] could get a master’s in music composition \[and\] went for it”.[^18] He also won first prize in the Jean and Paul Hanna music composition competition for his work “Four Songs from Romantic Poets for Soprano and Chamber Ensemble”. He subsequently wrote “Singapore Symphonic Suite of Large Orchestra”, which was performed by the Singapore Symphony Orchestra during the 1986 Arts Festival.[^19] He died of liver cancer just short of his 43rd birthday, leaving behind a wife and two children.[^20]
+In 1980, Tsao was offered a scholarship to Stanford University’s doctoral programme in Electrical Engineering in the United States. In between his engineering course, he took extra classes in music and realised that “with a little more effort, \[he\] could get a master’s in music composition \[and\] went for it”.[^18] He also won first prize in the Jean and Paul Hanna music composition competition for his work “Four Songs from Romantic Poets for Soprano and Chamber Ensemble”. He subsequently wrote “Singapore Symphonic Suite of Large Orchestra”, which was performed by the Singapore Symphony Orchestra during the 1986 Arts Festival.[^19] He died of liver cancer just short of his 43rd birthday, leaving behind a wife and two children.[^20]
 
 #### **“Fanfare for Joy” by Leong Yoon Pin (1986)**
 
@@ -105,9 +109,13 @@ Conducted by Lee Tsu Hock, “Fanfare for Joy” premiered on 7 September 1986 a
 
 #### **“Ascent” by Yan Yin Wing (1987)**
 
-“Ascent” was composed “especially for the SYO…to reflect the challenge of overcoming problems and reaching excellence – something which is in keeping with Singapore’s present approach to nation-building.” It expresses hope, hard work and achievement. But also carries “a slight touch of turmoil and bleakness to pose the challenges, odds which can be overcome by trying hard to succeed”.[^21] It premiered on 4 August 1987 at the World Trade Centre Auditorium.
+“Ascent” was composed “especially for the SYO… to reflect the challenge of overcoming problems and reaching excellence – something which is in keeping with Singapore’s present approach to nation-building”. It expresses hope, hard work and achievement. But also carries “a slight touch of turmoil and bleakness to pose the challenges, odds which can be overcome by trying hard to succeed”.[^21] It premiered on 4 August 1987 at the World Trade Centre Auditorium.
 
 A violinist and conductor, Yan Yin Wing obtained the ARCM in violin teaching at the Royal College of Music in London in 1976–78. He received a scholarship for a Summer Conductors’ Course organised by the Ernest Read Music Association in 1978. In 1984, he pursued an Advanced Orchestra Conducting Course at Sweelinck Conservatorium Amsterdam and attended an Orchestra Conducting Master Class at the International Sommerakademie of the Mozarteum in Salzburg, Austria.[^22] Back in Singapore, he formed the Emmanuel Chamber Orchestra (1980), Emmanuel String Orchestra (1988),[^23] conducted the Chinese Churches Orchestra as well as the National Junior College String Orchestra.[^24]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/yan_yan_wing.png" style="width: 65%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano) and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), one of Singapore’s first community orchestras, Yan dedicated himself to nurturing young local talents. He also initiated exchange programmes with overseas orchestras such as the Korean Symphony Orchestra, Japan Philharmonic Orchestra and the Penang Symphony Orchestra.[^25]
 
@@ -115,13 +123,13 @@ As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), o
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/braddell_heights.png" style="width: 65%;">Braddell Heights Symphony Orchestra, 1990.<i> Source: Straits Times, 16 November 1990 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+####  **“Symphony no. 1” by Bernard Tan (1990)**
+
+“Symphony no. 1” was performed in 1990 at a concert marking the SYO’s 10th anniversary and farewell of its resident conductor, Vivien Goh. Bernard Tan described his first symphony, as “a conservative and more or less neo-classical style in four movements”.
+
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/yan_yan_wing.png" style="width: 65%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano), and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
-
-####  **“Symphony no.1” by Bernard Tan (1990)**
-
-“Symphony no. 1” was performed in 1990 at a concert marking the SYO’s 10th anniversary and farewell of its resident conductor, Vivien Goh. Bernard Tan (1943–) described his first symphony, as “a conservative and more or less neo-classical style in four movements”.
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Dr Bernard Tan, 1989.<i> Source: Straits Times, 30 September 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The first movement unfolds gently with the unassuming principal subject in the bassoons. The brooding second subject is first heard in the lower strings under repeated wind chords. The second movement is lively, infused with rapid semiquaver activity. This is followed by an elegiac slow movement featuring a clarinet solo. The dance-like main theme of the lively final movement is complemented by a more lyrical second subject first heard on oboes and then flutes in thirds. The dance-like subject and its opening motif permeate the movement and are reiterated by the entire orchestra in octaves in the final bars of the movement.
 
@@ -129,25 +137,11 @@ _Business Times_ reviewer J. Gordon noted that the “two outer movements were m
 
 In his review of the concert for the _Straits Times_, Terence Dawson remarked that the “scherzo was sparkling and deeply nostalgic. Andante was given an almost-glowing warmth. One must hope that he will be encouraged to produce further large-scale works”.[^27]
 
-Tan was the Chairman of the SYO’s Management Committee from 1980–2002. A physics professor at the National University of Singapore (NUS), Tan’s early musical training was in piano. In 1962, he received his Licentiate of the Royal Schools of Music in pianoforte. From 1977–78, he was Acting Head of the Department of Music at NUS and the Associate Director of the Centre for Musical Activities when he created “Symphony no. 1”. He is a prolific composer, writing for many genres such as mixed chorus and piano for a poem’s setting, incidental music for plays and ballet, music for string orchestras, various solo instruments and choral music. He received the Public Service Medal in 1982 and the Public Service Star in 1990.[^28]
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Dr Bernard Tan, 1989.<i> Source: Straits Times, 30 September 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+Tan was the chairman of the SYO’s Management Committee from 1980–2002. A physics professor at the National University of Singapore (NUS), Tan’s early musical training was in piano. In 1962, he received his Licentiate of the Royal Schools of Music in pianoforte. From 1977–78, he was Acting Head of the Department of Music at NUS and the Associate Director of the Centre for Musical Activities when he created “Symphony no. 1”. He is a prolific composer, writing for many genres such as mixed chorus and piano for a poem’s setting, incidental music for plays and ballet, music for string orchestras, various solo instruments and choral music. He received the Public Service Medal in 1982 and the Public Service Star in 1990.[^28]
 
 #### **“Undaunted” by J.J. De Souza (1984)**
 
 From 1981 to 1989, under Goh, the SYO would present an annual pop concert in December to mark the end of each season. They would perform contemporary popular pieces such as film scores, pop hits and choral works. For the 1985 concert, John James De Souza (J.J. De Souza) was commissioned to write an orchestral arrangement of his composition “Undaunted” (the theme song for Singapore’s “25 Years of Nation Building” celebrations), originally created in collaboration with his ECAC colleague, Seah Lye Huat, in 1985.[^29]
-
-At its December 1985 concert, the SYO performed “Undaunted”, “Sentosa” (De Souza’s winning entry in the Sentosa Song Writing Competition in 1980)[^30] as well as his arrangements of “We are the World”, “Flash Dance (What a Feeling)” and the theme from the film _E.T_.[^31]
-
-De Souza was a self-taught musician. At the age of 17, he took formal piano lessons from Victor Doggett, a well-known British piano teacher in Singapore. After five years, he obtained the LRSM Teaching Diploma. He was a schoolteacher for 10 years before transferring to the Music Section of the Extra Curricular Activities Centre under the Ministry of Education, first as a peripatetic music teacher and then as a band teacher. In 1970, he was awarded a scholarship for a Band Master’s Course at the Balcombe Military School of Music in Australia. Upon his return in 1971, he was appointed Supervisor of Secondary School Bands and in 1982, he was appointed Specialist Inspector of Music. He was one of Singapore’s pioneer band instructors who was tasked with creating school bands in every school in the early days of the Republic.[^32]
-
-De Souza has composed over a hundred school songs and written countless arrangements for piano, brass and symphonic band. One of his great achievements was to have one of his compositions (“Say You’ll Always Be Mine”) chosen for the semifinals of the World Popular Song Festival held in Japan in 1975. In 1985, he worked on a project to arrange and record a collection of songs for schools, including “Undaunted”. He was among those honoured at the 1985 National Day Awards with an Efficiency Medal.
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score_rev.jpg" style="width: 50%;">Music score for “Sentosa”, 1980.<i> Courtesy of Vivien Goh.</i></div>
 
 <div style="background-color: white;">
 <br>
@@ -155,9 +149,19 @@ De Souza has composed over a hundred school songs and written countless arrangem
 
 <div style="background-color: white;">
 <br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score_rev.jpg" style="width: 50%;">Music score for “Sentosa”, 1980.<i> Courtesy of Vivien Goh.</i></div>
+
+At its December 1985 concert, the SYO performed “Undaunted”, “Sentosa” (De Souza’s winning entry in the Sentosa Song Writing Competition in 1980)[^30] as well as his arrangements of “We are the World”, “Flash Dance (What a Feeling)” and the theme song from the film _E.T_.[^31]
+
+De Souza was a self-taught musician. At the age of 17, he took formal piano lessons from Victor Doggett, a well-known British piano teacher in Singapore. After five years, he obtained the LRSM Teaching Diploma. He was a schoolteacher for 10 years before transferring to the Music Section of the Extra Curricular Activities Centre under the Ministry of Education, first as a peripatetic music teacher and then as a band teacher. In 1970, he was awarded a scholarship for a Band Master’s Course at the Balcombe Military School of Music in Australia. Upon his return in 1971, he was appointed Supervisor of Secondary School Bands and in 1982, he was appointed Specialist Inspector of Music. He was one of Singapore’s pioneer band instructors who was tasked with creating school bands in every school in the early days of the Republic.[^32]
+
+De Souza has composed over a hundred school songs and written countless arrangements for piano, brass and symphonic band. One of his great achievements was to have one of his compositions (“Say You’ll Always Be Mine”) chosen for the semifinals of the World Popular Song Festival held in Japan in 1975. In 1985, he worked on a project to arrange and record a collection of songs for schools, including “Undaunted”. He was among those honoured at the 1985 National Day Awards with an Efficiency Medal.
+
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_8_Dec_1985_programme_cp.jpg" style="width: 50%;">Singapore Youth Orchestra 8 December 1985 programme. De Souza’s works were performed at this concert.<i> Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
 
-#### **“Jingli Zuguo” (Salute to my Homeland) by Lim Chin Tiong (1987)**
+#### **“Jingli Zuguo” (Salute to My Homeland) by Lim Chin Tiong (1987)**
 
 Lim Chin Tiong (1937?–) took four years to compose “Salute”, his first orchestral work. The resulting symphonic suite is neither descriptive of local scenery nor society. Rather, it is a vehicle through which Lim tries to convey his thoughts and feelings for Singapore and to express his love for his homeland in four movements. “The first movement depicts my ideal country… The second is about the people, their happy and peaceful way of life. The third is about our heritage, while the last movement depicts hope for a peaceful future.” The SYO premiered the work on 1 March 1987.[^33]
 
@@ -169,11 +173,11 @@ Lim was among the first batch of graduates (1959) from Nanyang University (now N
 
 #### **“Singapore Suite” by David Campbell (1984)**
 
-David Campbell is an American pianist, organist, teacher and composer in the New York area. He graduated from Florida State University and served on the music faculties of the City University of New York, and Brooklyn College.
+David Campbell is an American pianist, organist, teacher and composer from New York. He graduated from Florida State University and served on the music faculties of the City University of New York and Brooklyn College.
 
-“Singapore Suite” was written in February 1983 during Campbell’s first visit to the country. It was conceived as a musical postcard album of the various sights and sounds he experienced. Each of the six movements was an homage to the city, such as “Serangoon”, “Chinatown”, “SAF on Parade”, and “Sentosa Reverie”. As the first bars of “Singapore Suite” were played, there was confusion in the audience, “\[but\] gradually it became clear to them. Those random notes were the sounds of Singapore stirring to life in the morning… By the conclusion, \[they\] were enthusiastically applauding…”[^35]
+“Singapore Suite” was written in February 1983 during Campbell’s first visit to the country. It was conceived as a musical postcard album of the various sights and sounds he experienced. Each of the six movements was an homage to the city, such as “Serangoon”, “Chinatown”, “SAF on Parade” and “Sentosa Reverie”. As the first bars of “Singapore Suite” were played, there was confusion in the audience, “\[but\] gradually it became clear to them. Those random notes were the sounds of Singapore stirring to life in the morning… By the conclusion, \[they\] were enthusiastically applauding…”[^35]
 
-“Singapore Suite” was premiered on 1 April 1984 at Victoria Concert Hall and was dedicated to Campbell’s wife, Christina Soh Kee Mei, as well as the people of Singapore.[^36]
+“Singapore Suite” premiered on 1 April 1984 at Victoria Concert Hall and was dedicated to Campbell’s wife, Christina Soh Kee Mei, as well as the people of Singapore.[^36]
 
 <div style="background-color: white;">
 <br>
@@ -181,21 +185,21 @@ David Campbell is an American pianist, organist, teacher and composer in the New
 
 #### **“Sojourn” by John Sharpley (1988)**
 
-Texas-born John Sharpley (1956–) had a comprehensive and varied education in both the United States and Europe. He came to Singapore in 1990 as Director of the Boston University Music Programme (at that time associated with Yamaha Music School). During his stay in Singapore, he composed for groups such as the People’s Association, NUS Symphonic Band, Singapore Guitar Society, and the Singapore Dance Theatre. “Sojourn” was commissioned by the SYO in 1989 and premiered on 1 August 1989 at the Victoria Concert Hall.
+Texas-born John Sharpley (1956–) had a comprehensive and varied education in both the United States and Europe. He came to Singapore in 1990 as Director of the Boston University Music Programme (at that time associated with Yamaha Music School). During his stay in Singapore, he composed for groups such as the People’s Association, NUS Symphonic Band, Singapore Guitar Society and the Singapore Dance Theatre. “Sojourn” was commissioned by the SYO in 1989 and premiered on 1 August 1989 at the Victoria Concert Hall.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley2.png" style="width: 35%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
 
 The performance included “bird whistles, a whip, a siren”, “with Asian influence in the melody and the gamelan effect”. Sharpley’s piece also called for unusual percussion instruments such as “the guiro (a South American gourd-like instrument), temple blocks and a harp”. [^37]
 
 Of the work, Sharpley said “I believe that there is some extraordinary way we are all on a sojourn, or temporary stay. This is punctuated by three ‘events’ in time, birth, life, death. The first movement, _Unfolding_, is a meditation on birth, this process of being… The contrasting second movement, _Burlesque_, explores a world of humour and satire: by-products, no doubt, from ‘everyday life’... The last movement, _Journey’s End_ is contemplation, on transcendence, the dropping of illusion. In such a manner, the three movements of Sojourn are progressive (as opposed to cyclic).”[^38]
 
+Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
+
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_3_Aug_1989_programme.png" style="width: 45%;">Singapore Youth Orchestra 3 August 1989 programme.<i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 35%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
-
-Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
 
 In 2001, the SYO was renamed the Singapore National Youth Orchestra (SNYO). Its principal conductor has been Joshua Tan since 2018. In 2015, the SNYO came under the purview of the Ministry of Culture, Community and Youth. A year later, the Singapore Symphony Group took full operational and management control of the SNYO. Today, the SYO comprises the SNYO and the Singapore National Youth Sinfonia (under the baton of Seow Yibin). It has more than 180 members from more than 60 schools across Singapore and continues its mission to nurture and develop young local talent.
 
