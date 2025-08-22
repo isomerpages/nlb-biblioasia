@@ -1145,6 +1145,28 @@ sections:
       image: /images/Vol 21 Issue 3/Composer/composer_main_topic.jpg
       alt: Majulah Singapura
   - infopic:
+      title: Crafting Stories from History
+      subtitle: People
+      id: infopic
+      description: From research to reimagination, the library and archives have
+        shaped Felix Cheong’s creative processes.
+      button: DIGGING IN THE LIBRARY AND ARCHIVES
+      url: /people/2025/8/felix-cheong-author-poet-graphic-novels/
+      image: /images/Online Only Articles/Crafting Stories from
+        History/Felix_Topics.jpg
+      alt: Crafting Stories from History
+  - infopic:
+      title: How a 500-Year-Old Map Became Fashion
+      subtitle: People
+      id: infopic
+      description: When Singapore designer Afton Chen chanced upon the Mao Kun Map,
+        she decided to embark on a new fashion collection.
+      button: FROM LIBRARY TO BOUTIQUE
+      url: /people/2025/8/afton-chen-reckless-ericka-mao-kun-map/
+      image: /images/Online Only Articles/Ancient Maps to Modern
+        Designs/voyage_design_Topics.jpg
+      alt: Ancient Maps to Modern Designs
+  - infopic:
       title: Dutch Burghers in British Malaya
       subtitle: People
       id: infopic
