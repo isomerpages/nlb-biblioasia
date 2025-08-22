@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - An 800 Year old Family History.md
       - Hidden History Brought to Life in a Game.md
       - "The Urban Heritage Explorer: One Man’s Mission to Uncover Singapore’s
         Past.md"
