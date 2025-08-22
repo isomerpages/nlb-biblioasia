@@ -108,6 +108,9 @@ Each stop along the way was like turning the pages of a history book, except thi
 
 What struck me the most was how deeply intertwined everyone in the village was. In this town, everyone was connected somehow, bound together by shared ancestry, history and stories passed down through generations.
 
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_hall.jpg" style="width: 80%;">
+<div style="background-color: white;">         The Zhuang Ancestral Hall in Dayou Village dedicated to the Zhihuan branch of the Zhuang lineage, 2024. A school was later built adjacent to it. Despite visiting the village several times with my parents, I was previously unable to locate it as it was “hidden” within the school compound walls. <i> Courtesy of Chung Kwang Tong.</i></div>
+
 Our fifth-generation ancestor, Zhuang Jing, played a pivotal role in preserving our family’s history. In the foreword of the first compilation of the _zupu_, he left behind a message that still resonates today:
 
 “新天子登位竟欲于选举之中再精拔其有贤德者，我愈愤志读书，留心简册，適开科取士，我又复中秋闈，现补教授。则上可对诸祖宗，下可劝诸孙子。” (“I strived to study hard to become a scholar in the imperial examinations to serve the country, and in doing so, I can face my ancestors with honour and also encourage my descendants.”)
