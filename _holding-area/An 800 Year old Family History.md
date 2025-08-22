@@ -13,9 +13,10 @@ By Chung Kwang Tong
 
 One afternoon in the mid-1990s, when I was around 12, I found myself flipping through a book that my grandfather had pulled from his drawer. It was our family’s _zupu_ (族谱), the genealogical record that traces the Zhuang (庄) lineage through generations. My mother turned to a page and ran her finger down the rows of names. “There you are,” she said, pointing at the Chinese characters of my name. I saw my father’s name above mine, followed by my grandfather’s… My mother moved her finger further up the page. “That’s your great-grandfather… and your great-great-grandfather…” she continued.
 
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_selfie.jpg" style="width: 80%;">
-
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_a.jpg" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_b.png" style="width: 80%;">
 <div style="background-color: white;"> A  selfie in front of the ancestral hall dedicated to Zhuang Sizong, 2024.<i> Courtesy of Chung Kwang Tong.</i></div>
+
 
 A sense of wonder stirred within me. Who were these people? Where had they lived? What were their lives like? My family’s genealogical record awakened a curiosity within me and a deep desire to understand where I came from.
 
@@ -33,6 +34,7 @@ When my grandfather passed away in 2008, my father took his copy of the _zupu_ a
 
 His name was Zhuang Sizong (庄嗣宗), with the courtesy name of Zhuang Fang (庄方). He came from Putian, Fujian, and was a scholar who had successfully passed the imperial examinations during the Chunxi era (1174–89) of the Southern Song dynasty.
 
+
 In the first year of the Qingyuan era (1195), he arrived in Hainan, not as a refugee nor a tradesman, but as a Prefect of Qiongzhou, or Qiong Prefecture (琼州知府), and Pacification Commissioner (安抚都监) – a high-ranking official tasked with governing the region and maintaining order. Qiong Prefecture, as it was called then, is what we now know as Hainan province.
 
 Reading those words, I felt a surge of pride and amazement. The questions I had carried for years – how my ancestors ended up in Hainan and why – finally had an answer. It wasn’t just a journey of survival or opportunity. It was a duty, a mission, a legacy that had unknowingly shaped the generations that followed.
@@ -46,6 +48,11 @@ My grandfather was the one who left Hainan, venturing to Singapore in search of 
 #### **Compiling the Zupu**
 
 My journey to reconnect with my family’s history took an unexpected turn when I became acquainted with the Zhuang Ancestral Hall in Dayou village. This connection came through Chuang Tsu Li, the president of the Singapore Chuang and Ngiam Clansmen’s Association.
+
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_selfie.jpg" style="width: 80%;">
+
+<div style="background-color: white;"> A  selfie in front of the ancestral hall dedicated to Zhuang Sizong, 2024.<i> Courtesy of Chung Kwang Tong.</i></div>
+
 
 While Tsu Li and I came from different Zhuang lineages – his ancestors had arrived in Hainan at a later date – there was a twist of fate. Tsu Li has a cousin that he was in touch with and who lives in Dayou village. That cousin, in turn, introduced me to Zhuang Gengli in March 2022, the person in charge of compiling the Zhuang _zupu_.
 
