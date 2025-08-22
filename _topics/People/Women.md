@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/">Women Photographers in Singapore and Malaya</a>
+
+In the male-dominated world of 1940s and 1950s photography, three women in Singapore and Malaya found different ways to participate in their craft.
+
+<img src="/images/Vol%2021%20Issue%203/Photographer/Photographer_Topics.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/">**Excavating the Past**</a>
 
 Writing a memoir involves personal experiences, digging deep into our memories and the emphasis on factual information.
