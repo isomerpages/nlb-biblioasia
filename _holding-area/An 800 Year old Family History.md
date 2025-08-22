@@ -77,6 +77,10 @@ As I walked through the historic halls, a thought struck me – there was a high
 
 One of the most exciting features of the museum was an interactive digital archive where visitors could search for the names of scholars who had passed the imperial examinations – records dating all the way back to the Sui dynasty, when the Civil Service Examination System was first introduced in 605 CE. I searched for Zhuang Sizong under his courtesy name, Zhuang Fang. His name appeared in the archive! But that wasn’t all – I also found another name, Zhuang Jing (庄敬), a fifth-generation ancestor who also sat for the imperial examinations.
 
+
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_booth.jpg" style="width: 80%;">
+<div style="background-color: white;">    An interactive booth at the Nanjing Imperial Examination Museum, Jiangnan Examination Hall (江南貢院), displaying the list of all <i>Jinshi</i> (進士), the highest academic degree in the Civil Service Examination System, 2023. The Jiangnan Examination Hall was the largest imperial examination hall in ancient China.<i>  Courtesy of Chung Kwang Tong.</i></div>
+
 Excited by this discovery, I shared it with the Zupu Revision Committee. We had been regularly exchanging new findings from local gazetteers and historical records. Every piece of information brought us closer to understanding our past, and this was yet another confirmation of our lineage’s deep roots in history.
 
 #### **Reflections**
@@ -90,6 +94,9 @@ Now, that tradition has evolved. This shift acknowledged the significance of dau
 After travel restrictions were lifted following the Covid-19 pandemic, I finally had the opportunity to visit Hainan again in January 2024. This trip was more than just a homecoming – it was a chance to reconnect with my roots in a way I had never done before.
 
 One of my first stops was the Zhuang Ancestral Hall, now located within the premises of the village school. Walking into the hall, I was filled with a sense of awe and belonging, surrounded by the generations who came before me. I met with relatives and members of the Zupu Revision Committee, who had worked tirelessly to preserve our family’s lineage.
+
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_work.jpg" style="width: 80%;">
+<div style="background-color: white;">        My grandfather and his brother, after working in Singapore, remitted funds back home to rebuild this ancestral house in Dayou Village.<i>  Courtesy of Chung Kwang Tong.</i></div>
 
 What happened next was something truly special. As we drove through the village, they stopped at various graves, pointing them out one by one.
 
