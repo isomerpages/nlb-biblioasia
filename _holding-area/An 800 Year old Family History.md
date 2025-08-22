@@ -14,7 +14,7 @@ A sense of wonder stirred within me. Who were these people? Where had they lived
 
 Just then, something caught my eye. Above my name, there were stickers and pen markings – something wasn’t right. Looking closer, I realised a glaring error: I have been mistakenly recorded as my uncle’s son instead of my father’s. My grandfather had manually corrected the error in his copy of the _zupu_, but the official records remained wrong. I remembered feeling a surge of frustration. What’s the point of fixing our copy but not in the original record? Isn’t that wrong? I was just a child in primary school then, who would even take me seriously? The desire to correct the mistake in the _zupu_ never truly left me though.
 
-Over the years, my parents would often take me to visit our ancestral village Dayou (大有村) in the town of Huiwen in Wenchang city, Hainan province (海南省文昌市会文镇), but we never managed to connect with the people in charge of the _zupu_. Our relatives there weren’t sure who oversaw the updates and with each visit, the possibility of setting the record straight seemed to drift further away. Yet, deep down, I held onto the hope that one day, I would find a way to uncover and preserve the true story of my family. 
+Over the years, my parents would often take me to visit our ancestral village Dayou (大有村) in the town of Huiwen in Wenchang city, Hainan province (海南省文昌市会文镇), but we never managed to connect with the people in charge of the _zupu_. Our relatives there weren’t sure who oversaw the updates and with each visit, the possibility of setting the record straight seemed to drift further away. Yet, deep down, I held onto the hope that one day, I would find a way to uncover and preserve the true story of my family.&nbsp;
 
 #### **Who Am I?**
 
@@ -34,7 +34,7 @@ According to the records, Zhuang Sizong completed his tenure as Prefect of Qiong
 
 Generation after generation, our lineage continued. And now, 23 generations later, here I am – a descendant of Zhuang Sizong.
 
-My grandfather was the one who left Hainan, venturing to Singapore in search of better opportunities. He worked hard, built a life here and eventually decided that this island, so different from the one our ancestors once governed, would be his home. 
+My grandfather was the one who left Hainan, venturing to Singapore in search of better opportunities. He worked hard, built a life here and eventually decided that this island, so different from the one our ancestors once governed, would be his home.&nbsp;
 
 #### **Compiling the Zupu**
 
@@ -95,3 +95,10 @@ Our fifth-generation ancestor, Zhuang Jing, played a pivotal role in preserving 
 These words reflect Zhuang Jing’s unwavering dedication to education and duty. He saw the imperial examinations not just as a path to personal success, but as a means to serve the nation and uphold the family’s legacy. His efforts were not only for his own achievements, but also to honour his ancestors and inspire future generations to pursue knowledge and virtue.
 
 Reading Zhuang Jing’s words centuries later, I felt a deep sense of connection. His values – hard work, scholarship and responsibility to both family and country – are the very ideals that continue to shape us today. I will be sure to pass on these values to my children and descendants.
+
+
+
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+On 21 September 2024, the National Library Board (NLB) and the Genealogy Society Singapore (GSS) signed a memorandum of understanding to jointly promote interest in genealogy among Singaporeans by organising talks, workshops and exhibitions. GSS members donated seven <i>zupu</i> (族谱; genealogy books) to NLB, which included Chung Kwang Tong’s <i>zupu</i>, 庄氏族谱: 天水郡 (volumes 1 and 2). Singaporeans are encouraged to donate their <i>zupu</i> to NLB for permanent preservation. By making these books publicly accessible to scholars, it will benefit researchers and anyone else interested in tracing their family history.
+<br>
+</div>
