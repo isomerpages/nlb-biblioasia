@@ -31,3 +31,54 @@ Call no. RSING 940.548641095951 KEN-[WAR]
 During World War II, agents of the Special Operations Executive infiltrated Japanese-occupied Malaya. Rebecca Kenneison examines the agency’s operations, providing new insights into its impact on Malayan politics, the nature of Malayan communism’s challenge to colonial rule and British postwar intelligence in Malaya.
 
 
+#### **[Tapestry and the Golden Thread: Singapore Sport Heritage (1819–1941)]()**
+By Nick Aplin 
+
+Sport Singapore (2025), 283 pages
+
+Call no. RSING 796.0605957 APL  
+
+![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+
+A compendium of stories and insights into the growth of sports in Singapore, _Tapestry and the Golden Thread_ traces the development of Singapore’s sporting culture and how it has evolved over the years.
+
+
+
+#### **[The First Fools: B-Sides of Lee Kuan Yew’s A-Team]()**
+Edited by Peh Shing Huei
+
+The Nutgraf Books (2025), 237 pages 
+
+Call no. RSING 959.570510922 FIR [HIS]
+
+![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+
+
+This anthology offers a different perspective to the founding fathers of Singapore (the Old Guard): Lee Kuan Yew the lover, S. Rajaratnam the fiction writer, and more.
+
+
+
+
+#### **[Lee Ek Tieng: The Green General of Lee Kuan Yew]()**
+By Samantha Boh, Pearl Lee and Matthew Gan 
+
+The Nutgraf Books (2025), 192 pages
+
+Call no. RSING 959.5705 BOH-[HIS]
+
+![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+
+One of the most prolific civil servants in newly independent Singapore, Lee Ek Tieng helped transform Singapore’s environment, including revamping its sewage and trash disposal systems, heading the Singapore River clean-up project, and tackling pollution and other environmental issues.
+
+
+
+#### **[My Father is Police, Lah!   ]()**
+By Rowena Hawkins 
+
+Earnshaw Books (2025), 232 pages 
+
+Call no. RSING 959.57092 HAW  
+
+![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+
+As the daughter of an immigrant family from Ceylon and whose father was a detective chief inspector in the colonial police force, Rowena Hawkins grew up in a large bungalow and enjoyed a life of privilege. In this memoir, Rowena recounts her childhood in 1960s colonial Singapore, offering a witty and humorous view of life from a bygone time.
