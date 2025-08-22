@@ -14,10 +14,9 @@ By Chung Kwang Tong
 One afternoon in the mid-1990s, when I was around 12, I found myself flipping through a book that my grandfather had pulled from his drawer. It was our family’s _zupu_ (族谱), the genealogical record that traces the Zhuang (庄) lineage through generations. My mother turned to a page and ran her finger down the rows of names. “There you are,” she said, pointing at the Chinese characters of my name. I saw my father’s name above mine, followed by my grandfather’s… My mother moved her finger further up the page. “That’s your great-grandfather… and your great-great-grandfather…” she continued.
 
 <img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_a.jpg" style="width: 80%;">
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_b.png" style="width: 80%;">
-<div style="background-color: white;"> A  selfie in front of the ancestral hall dedicated to Zhuang Sizong, 2024.<i> Courtesy of Chung Kwang Tong.</i></div>
-
-
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_b_copy.png" style="width: 80%;">
+<div style="background-color: white;"> The interior of the ancestral hall dedicated to Zhuang Sizong, 2024. The largest tablet in the centre bears the inscription: “Zhuang Sizong and wife, first ancestors to migrate to Hainan during the Song dynasty.” His tablet is flanked by those of his sons and grandsons.<i>  Courtesy of Chung Kwang Tong.</i></div>
+]
 A sense of wonder stirred within me. Who were these people? Where had they lived? What were their lives like? My family’s genealogical record awakened a curiosity within me and a deep desire to understand where I came from.
 
 Just then, something caught my eye. Above my name, there were stickers and pen markings – something wasn’t right. Looking closer, I realised a glaring error: I have been mistakenly recorded as my uncle’s son instead of my father’s. My grandfather had manually corrected the error in his copy of the _zupu_, but the official records remained wrong. I remembered feeling a surge of frustration. What’s the point of fixing our copy but not in the original record? Isn’t that wrong? I was just a child in primary school then, who would even take me seriously? The desire to correct the mistake in the _zupu_ never truly left me though.
