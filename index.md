@@ -1154,4 +1154,15 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
       image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
       alt: Dutch Burghers
+  - infopic:
+      title: Crafting Stories from History
+      subtitle: People
+      id: infopic
+      description: From research to reimagination, the library and archives have
+        shaped Felix Cheong’s creative processes.
+      button: DIGGING IN THE LIBRARY AND ARCHIVES
+      url: /people/2025/8/felix-cheong-author-poet-graphic-novels/
+      image: /images/Online Only Articles/Crafting Stories from
+        History/Felix_Topics.jpg
+      alt: Crafting Stories from History
 ---
