@@ -7,8 +7,15 @@ description: ""
 #### Thanks to his ancestry book (_zupu_) and a lot of persistence, a practising Taoist priest was able to trace his ancestry all the way back to 1195.  
 By Chung Kwang Tong
 
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_main.jpg" style="width: 80%;">
+
+<div style="background-color: white;"> Exterior view of the ancestral hall dedicated to Zhuang Sizong in the village of Xianling in Tanniu town, Wenchang (海南省文昌市潭牛镇新桥墟仙岭村), 2024. It honours over 20 generations of the Zhuang lineage. On the right are stone steles inscribed with the names of contributors to the reconstruction of the hall. These stone steles have since been mounted onto the walls inside the hall. <i> Courtesy of Chung Kwang Tong.</i></div>
 
 One afternoon in the mid-1990s, when I was around 12, I found myself flipping through a book that my grandfather had pulled from his drawer. It was our family’s _zupu_ (族谱), the genealogical record that traces the Zhuang (庄) lineage through generations. My mother turned to a page and ran her finger down the rows of names. “There you are,” she said, pointing at the Chinese characters of my name. I saw my father’s name above mine, followed by my grandfather’s… My mother moved her finger further up the page. “That’s your great-grandfather… and your great-great-grandfather…” she continued.
+
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_selfie.jpg" style="width: 80%;">
+
+<div style="background-color: white;"> A  selfie in front of the ancestral hall dedicated to Zhuang Sizong, 2024.<i> Courtesy of Chung Kwang Tong.</i></div>
 
 A sense of wonder stirred within me. Who were these people? Where had they lived? What were their lives like? My family’s genealogical record awakened a curiosity within me and a deep desire to understand where I came from.
 
@@ -102,3 +109,9 @@ Reading Zhuang Jing’s words centuries later, I felt a deep sense of connection
 On 21 September 2024, the National Library Board (NLB) and the Genealogy Society Singapore (GSS) signed a memorandum of understanding to jointly promote interest in genealogy among Singaporeans by organising talks, workshops and exhibitions. GSS members donated seven <i>zupu</i> (族谱; genealogy books) to NLB, which included Chung Kwang Tong’s <i>zupu</i>, 庄氏族谱: 天水郡 (volumes 1 and 2). Singaporeans are encouraged to donate their <i>zupu</i> to NLB for permanent preservation. By making these books publicly accessible to scholars, it will benefit researchers and anyone else interested in tracing their family history.
 <br>
 </div>
+
+
+
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray25.png">
+<b>Chung Kwang Tong</b>  is an ordained Taoist priest and an active participant in Singapore’s inter-faith sector. He is the president of the Quan Zhen Cultural Society and has a Masters in Malay Studies from the National University of Singapore.   </div>
