@@ -195,6 +195,8 @@ The performance included “bird whistles, a whip, a siren”, “with Asian inf
 
 Of the work, Sharpley said “I believe that there is some extraordinary way we are all on a sojourn, or temporary stay. This is punctuated by three ‘events’ in time, birth, life, death. The first movement, _Unfolding_, is a meditation on birth, this process of being… The contrasting second movement, _Burlesque_, explores a world of humour and satire: by-products, no doubt, from ‘everyday life’... The last movement, _Journey’s End_ is contemplation, on transcendence, the dropping of illusion. In such a manner, the three movements of Sojourn are progressive (as opposed to cyclic).”[^38]
 
+#### **Singapore’s Evolving Orchestral Landscape**
+
 Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
 
 <div style="background-color: white;">
