@@ -53,7 +53,8 @@ The Nutgraf Books (2025), 237 pages
 
 Call no. RSING 959.570510922 FIR [HIS]
 
-![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Fools.png" style="width: 80%;">
 
 
 This anthology offers a different perspective to the founding fathers of Singapore (the Old Guard): Lee Kuan Yew the lover, S. Rajaratnam the fiction writer, and more.
@@ -68,7 +69,7 @@ The Nutgraf Books (2025), 192 pages
 
 Call no. RSING 959.5705 BOH-[HIS]
 
-![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Lee.png" style="width: 80%;">
 
 One of the most prolific civil servants in newly independent Singapore, Lee Ek Tieng helped transform Singapore’s environment, including revamping its sewage and trash disposal systems, heading the Singapore River clean-up project, and tackling pollution and other environmental issues.
 
@@ -81,6 +82,8 @@ Earnshaw Books (2025), 232 pages
 
 Call no. RSING 959.57092 HAW  
 
-![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Father.png" style="width: 80%;">
+
 
 As the daughter of an immigrant family from Ceylon and whose father was a detective chief inspector in the colonial police force, Rowena Hawkins grew up in a large bungalow and enjoyed a life of privilege. In this memoir, Rowena recounts her childhood in 1960s colonial Singapore, offering a witty and humorous view of life from a bygone time.
