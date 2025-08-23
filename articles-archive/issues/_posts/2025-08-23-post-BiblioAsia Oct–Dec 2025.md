@@ -60,3 +60,28 @@ Hong Lim Park was named after Cheang Hong Lim. Cheang and his descendants were o
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">Luís de Camões in Asia </a><br>
 Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ternate, was shipwrecked near the Mekong Delta and worked as the Superintendent for the Dead in Macau. *Isabel Rio Novo*.[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
+
+
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">An 800-Year-Old Family History </a><br>
+Thanks to his ancestry book (zupu) and a lot of persistence, a practising Taoist priest was able to trace his ancestry all the way back to 1195. *Chung Kwang Tong*.[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
+
+
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">Dutch Burghers in British Malaya </a><br>
+A murder mystery sheds light on the little-known story of the Ceylonese pioneers from the Dutch Burgher community who joined the subordinate government ranks in British Malaya.
+*Yorim Spoelder*.[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
+
+
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">Excavating the Past </a><br>
+Writing a memoir involves personal experiences, digging deep into our memories and the emphasis on factual information. *Meira Chand*.[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
+
+
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">New Books on Singapore History</a><br>
+*Ink and influence: An OB Markers Sequel*; *Lee Ek Tieng: The Green General of Lee Kuan Yew*; and *The Special Operations Executive in Malaya: World War II and the Path to Independence* are some new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
