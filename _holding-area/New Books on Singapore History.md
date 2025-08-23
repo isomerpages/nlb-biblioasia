@@ -11,7 +11,8 @@ World Scientific Publishing (2025), 321 pages
 
 Call no. RSING 079.5957 CHE 
 
-![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Ink.png" style="width: 80%;">
 
 
 Cheong Yip Seng, who spent two decades as the editor-in-chief of the _Straits Times_, recounts Singapore’s history from a newsroom perspective, sharing stories of interactions with local politicians.
@@ -25,7 +26,7 @@ Bloomsbury Academic (2025), 246 pages
 
 Call no. RSING 940.548641095951 KEN-[WAR]
 
-![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Malaya.png" style="width: 100%;">
 
 
 During World War II, agents of the Special Operations Executive infiltrated Japanese-occupied Malaya. Rebecca Kenneison examines the agency’s operations, providing new insights into its impact on Malayan politics, the nature of Malayan communism’s challenge to colonial rule and British postwar intelligence in Malaya.
@@ -38,7 +39,8 @@ Sport Singapore (2025), 283 pages
 
 Call no. RSING 796.0605957 APL  
 
-![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective21.jpg)
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Tapestry.png" style="width: 100%;">
+
 
 A compendium of stories and insights into the growth of sports in Singapore, _Tapestry and the Golden Thread_ traces the development of Singapore’s sporting culture and how it has evolved over the years.
 
