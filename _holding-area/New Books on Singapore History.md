@@ -26,7 +26,7 @@ Bloomsbury Academic (2025), 246 pages
 
 Call no. RSING 940.548641095951 KEN-[WAR]
 
-<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Malaya.png" style="width: 100%;">
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Malaya.png" style="width: 80%;">
 
 
 During World War II, agents of the Special Operations Executive infiltrated Japanese-occupied Malaya. Rebecca Kenneison examines the agency’s operations, providing new insights into its impact on Malayan politics, the nature of Malayan communism’s challenge to colonial rule and British postwar intelligence in Malaya.
@@ -39,7 +39,7 @@ Sport Singapore (2025), 283 pages
 
 Call no. RSING 796.0605957 APL  
 
-<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Tapestry.png" style="width: 100%;">
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Tapestry.png" style="width: 80%;">
 
 
 A compendium of stories and insights into the growth of sports in Singapore, _Tapestry and the Golden Thread_ traces the development of Singapore’s sporting culture and how it has evolved over the years.
