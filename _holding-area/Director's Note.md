@@ -13,11 +13,11 @@ must-read as we mark SG60.
 
 Accompanying this is an excerpt from a conversation that we had with music
 director Julian Wong, the man responsible for the critically acclaimed production,
-Don’t Call Him Mr Mari Kita, which delves into the life of Zubir Said, the composer
+_Don’t Call Him Mr Mari Kita_, which delves into the life of Zubir Said, the composer
 of “Majulah Singapura”. After reading this excerpt, we hope you will be inspired
 to listen to the entire podcast.
 
-At BiblioAsia, we pride ourselves on shining a spotlight on hidden stories
+At _BiblioAsia_, we pride ourselves on shining a spotlight on hidden stories
 about Singapore and this issue is particularly strong in this regard. While many
 people might be aware that back in the early 1980s, Singapore shifted its time zone
 forward by half an hour to align itself with Malaysia, reference librarian Kenneth
