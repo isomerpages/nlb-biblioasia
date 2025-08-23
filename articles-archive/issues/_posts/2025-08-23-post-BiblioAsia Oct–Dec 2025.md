@@ -40,24 +40,23 @@ colonial Singapore. *Alex Foo*.[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep202
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">“Majulah Singapura” Finally Repaired the Breach </a><br>
-In a BiblioAsia+ podcast, music director Julian Wong reveals little-known details about the composer of Singapore’s national anthem. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">Daylight Robbery: Singapore’s Shifting Time Zones </a><br>
+Time has not stood still for Singapore. In the last 100 years, Singapore had changed time zones seven times. *Kenneth Tay.*[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">“Majulah Singapura” Finally Repaired the Breach </a><br>
-In a BiblioAsia+ podcast, music director Julian Wong reveals little-known details about the composer of Singapore’s national anthem. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">Bacalah Singapura: Reading Habits in Singapore (1960s–1990s) </a><br>
+Reading surveys in the nation-building years reveal what Singaporeans read and why it mattered. *Janice Loo.*[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">“Majulah Singapura” Finally Repaired the Breach </a><br>
-In a BiblioAsia+ podcast, music director Julian Wong reveals little-known details about the composer of Singapore’s national anthem. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">The House of Cheang </a><br>
+Hong Lim Park was named after Cheang Hong Lim. Cheang and his descendants were once among Singapore’s most illustrious Baba-Nonya families. *Walter Woon.*[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">“Majulah Singapura” Finally Repaired the Breach </a><br>
-In a BiblioAsia+ podcast, music director Julian Wong reveals little-known details about the composer of Singapore’s national anthem. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
-
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">Luís de Camões in Asia </a><br>
+Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ternate, was shipwrecked near the Mekong Delta and worked as the Superintendent for the Dead in Macau. *Isabel Rio Novo*.[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
