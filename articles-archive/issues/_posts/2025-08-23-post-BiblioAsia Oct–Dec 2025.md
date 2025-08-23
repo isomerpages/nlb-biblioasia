@@ -40,19 +40,19 @@ colonial Singapore. *Alex Foo*.[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep202
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">Daylight Robbery: Singapore’s Shifting Time Zones </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/singapore-time-zones/">Daylight Robbery: Singapore’s Shifting Time Zones </a><br>
 Time has not stood still for Singapore. In the last 100 years, Singapore had changed time zones seven times. *Kenneth Tay.*[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">Bacalah Singapura: Reading Habits in Singapore (1960s–1990s) </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/">Bacalah Singapura: Reading Habits in Singapore (1960s–1990s) </a><br>
 Reading surveys in the nation-building years reveal what Singaporeans read and why it mattered. *Janice Loo.*[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">The House of Cheang </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/">The House of Cheang </a><br>
 Hong Lim Park was named after Cheang Hong Lim. Cheang and his descendants were once among Singapore’s most illustrious Baba-Nonya families. *Walter Woon.*[(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
 
 
