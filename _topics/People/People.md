@@ -5,6 +5,14 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/ho-yong-min-urbanist-singapore/">**The Urban Heritage Explorer: One Man’s Mission to Uncover Singapore’s Past**</a>
+
+From leading heritage walks to educating on social media platforms, Ho Yong Min is reintroducing the history of Singapore’s urban landscape.
+
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_Tour_Topics.jpg" style="width:80%;"> 
+																																																										
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/afton-chen-reckless-ericka-mao-kun-map/">**From Ancient Maps to Modern Designs: How a 500-Year-Old Map Became Fashion**</a>
 
 When Singapore designer Afton Chen chanced upon the Mao Kun Map, she decided to embark on a new fashion collection.
