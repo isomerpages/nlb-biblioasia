@@ -26,7 +26,7 @@ sections:
       button: DIGGING IN THE LIBRARY AND ARCHIVES
       url: /people/2025/8/felix-cheong-author-poet-graphic-novels/
       image: /images/Online Only Articles/Crafting Stories from
-        History/Felix_Topics.jpg
+        History/Felix_Topics2.jpg
       alt: Crafting Stories from History
   - infopic:
       title: “Majulah Singapura” Finally Breached the Gap
