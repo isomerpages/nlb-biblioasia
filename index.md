@@ -9,14 +9,35 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/
-      button: Pioneering Archaeological Research
+      url: /vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/
+      button: Legal Deposit Legislation in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Archaeologic/HeroImage_Archaeologic.jpg
+      background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
       variant: center
+  - infopic:
+      title: Crafting Stories from History
+      subtitle: People
+      id: infopic
+      description: From research to reimagination, the library and archives have
+        shaped Felix Cheong’s creative processes.
+      button: DIGGING IN THE LIBRARY AND ARCHIVES
+      url: /people/2025/8/felix-cheong-author-poet-graphic-novels/
+      image: /images/Online Only Articles/Crafting Stories from
+        History/Felix_Topics.jpg
+      alt: Crafting Stories from History
+  - infopic:
+      title: “Majulah Singapura” Finally Breached the Gap
+      subtitle: People
+      id: infopic
+      description: In a BiblioAsia+ podcast, music director Julian Wong reveals
+        little-known details about the composer of Singapore’s national anthem.
+      button: MORE THAN MR MARI KITA
+      url: /vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/
+      image: /images/Vol 21 Issue 3/Composer/composer_main_topic.jpg
+      alt: Majulah Singapura
   - infopic:
       title: Excavating the Past
       subtitle: People
@@ -1134,27 +1155,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: “Majulah Singapura” Finally Breached the Gap
-      subtitle: People
-      id: infopic
-      description: In a BiblioAsia+ podcast, music director Julian Wong reveals
-        little-known details about the composer of Singapore’s national anthem.
-      button: MORE THAN MR MARI KITA
-      url: /vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/
-      image: /images/Vol 21 Issue 3/Composer/composer_main_topic.jpg
-      alt: Majulah Singapura
-  - infopic:
-      title: Crafting Stories from History
-      subtitle: People
-      id: infopic
-      description: From research to reimagination, the library and archives have
-        shaped Felix Cheong’s creative processes.
-      button: DIGGING IN THE LIBRARY AND ARCHIVES
-      url: /people/2025/8/felix-cheong-author-poet-graphic-novels/
-      image: /images/Online Only Articles/Crafting Stories from
-        History/Felix_Topics.jpg
-      alt: Crafting Stories from History
   - infopic:
       title: How a 500-Year-Old Map Became Fashion
       subtitle: People
