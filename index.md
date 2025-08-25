@@ -1167,16 +1167,6 @@ sections:
         Designs/voyage_design_Topics.jpg
       alt: Ancient Maps to Modern Designs
   - infopic:
-      title: Dutch Burghers in British Malaya
-      subtitle: People
-      id: infopic
-      description: A murder mystery sheds light on the little-known story of the
-        Ceylonese pioneers from the Dutch Burgher community in British Malaya.
-      button: EURASIAN OR BURGHER
-      url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
-      image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
-      alt: Dutch Burghers
-  - infopic:
       title: SYO Brings Singapore Composers into the Limelight
       subtitle: Culture
       id: infopic
@@ -1187,4 +1177,14 @@ sections:
       url: /culture/2025/4/singapore-youth-orchestra-singapore-composers-music
       image: /images/Online Only Articles/Spore Youth Orchestra/SYO_Topics.jpg
       alt: Singapore Youth Orchestra
+  - infopic:
+      title: Dutch Burghers in British Malaya
+      subtitle: People
+      id: infopic
+      description: A murder mystery sheds light on the little-known story of the
+        Ceylonese pioneers from the Dutch Burgher community in British Malaya.
+      button: EURASIAN OR BURGHER
+      url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
+      image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
+      alt: Dutch Burghers
 ---
