@@ -8,7 +8,7 @@ variant: markdown
 
 Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ternate, was shipwrecked near the Mekong Delta and worked as the Superintendent for the Dead and Missing in Macau.
 
-<img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_2.jpg" style="width:80%;">
+<img src="/images/Vol%2021%20Issue%203/Luis/luis_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/"> **Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)**</a>
