@@ -2,6 +2,8 @@ collections:
   online-exclusive:
     output: true
     order:
+      - "The Urban Heritage Explorer: One Man’s Mission to Uncover Singapore’s
+        Past.md"
       - From Ancient Maps to Modern Designs How a 500 Year Old Map Became
         Fashion.md
       - Crafting Stories from History.md
