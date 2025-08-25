@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/
-      button: Pioneering Archaeological Research
+      url: /vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/
+      button: Legal Deposit Legislation in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Archaeologic/HeroImage_Archaeologic.jpg
+      background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
       variant: center
   - infopic:
       title: Excavating the Past
