@@ -30,7 +30,7 @@ One of his most popular videos is on the [forgotten Stamford Canal](https://www.
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Stamford_2.jpg" style="width: 60%;">Screen grab from Yong’s video on the Stamford Canal.&gt;</div>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Stamford_2.jpg" style="width: 60%;">Screen grab from Yong’s video on the Stamford Canal.</div>
 
 When Yong was researching his video on the [Anchorpoint](https://www.instagram.com/p/C1_qxdOSLzC/)&nbsp;shopping mall, he discovered the interesting story behind the name of the nearby ABC Brickworks Market &amp; Food Centre. The letters &nbsp;“ABC” came from the food centre’s proximity to the former Archipelago Brewery Company (ABC), the producer of Anchor beer, while “Brickworks” referred to Alexandra Brickworks which once stood at the junction of Pasir Panjang and Alexandra roads.[^1] \[Fun fact: The bricks produced by the company were used to construct public buildings, including the&nbsp;former National Library on Stamford Road, the Tiong Bahru flats by the Singapore Improvement Trust and the Gillman Barracks.\] This inspired him to make a video on the history and heritage of the [ABC Brickworks Market &amp; Food Centre](https://www.instagram.com/reel/DEV0OamyYWq/), released in January 2025.
 
