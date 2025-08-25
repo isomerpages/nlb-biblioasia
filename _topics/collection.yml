@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - Inspired by History.md
       - Editor's Picks.md
       - Adventure and Travel.md
       - Archaeology.md
@@ -19,6 +18,7 @@ collections:
       - Food.md
       - Governance.md
       - History.md
+      - Inspired by History.md
       - Local Icons.md
       - Maps.md
       - Medicine.md
