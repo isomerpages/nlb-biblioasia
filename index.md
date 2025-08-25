@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
       variant: center
   - infopic:
+      title: Crafting Stories from History
+      subtitle: People
+      id: infopic
+      description: From research to reimagination, the library and archives have
+        shaped Felix Cheong’s creative processes.
+      button: DIGGING IN THE LIBRARY AND ARCHIVES
+      url: /people/2025/8/felix-cheong-author-poet-graphic-novels/
+      image: /images/Online Only Articles/Crafting Stories from
+        History/Felix_Topics.jpg
+      alt: Crafting Stories from History
+  - infopic:
       title: “Majulah Singapura” Finally Breached the Gap
       subtitle: People
       id: infopic
@@ -1144,17 +1155,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: Crafting Stories from History
-      subtitle: People
-      id: infopic
-      description: From research to reimagination, the library and archives have
-        shaped Felix Cheong’s creative processes.
-      button: DIGGING IN THE LIBRARY AND ARCHIVES
-      url: /people/2025/8/felix-cheong-author-poet-graphic-novels/
-      image: /images/Online Only Articles/Crafting Stories from
-        History/Felix_Topics.jpg
-      alt: Crafting Stories from History
   - infopic:
       title: How a 500-Year-Old Map Became Fashion
       subtitle: People
