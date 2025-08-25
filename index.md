@@ -1156,17 +1156,6 @@ sections:
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
   - infopic:
-      title: How a 500-Year-Old Map Became Fashion
-      subtitle: People
-      id: infopic
-      description: When Singapore designer Afton Chen chanced upon the Mao Kun Map,
-        she decided to embark on a new fashion collection.
-      button: FROM LIBRARY TO BOUTIQUE
-      url: /people/2025/8/afton-chen-reckless-ericka-mao-kun-map/
-      image: /images/Online Only Articles/Ancient Maps to Modern
-        Designs/voyage_design_Topics.jpg
-      alt: Ancient Maps to Modern Designs
-  - infopic:
       title: SYO Brings Singapore Composers into the Limelight
       subtitle: Culture
       id: infopic
@@ -1177,6 +1166,17 @@ sections:
       url: /culture/2025/4/singapore-youth-orchestra-singapore-composers-music
       image: /images/Online Only Articles/Spore Youth Orchestra/SYO_Topics.jpg
       alt: Singapore Youth Orchestra
+  - infopic:
+      title: How a 500-Year-Old Map Became Fashion
+      subtitle: People
+      id: infopic
+      description: When Singapore designer Afton Chen chanced upon the Mao Kun Map,
+        she decided to embark on a new fashion collection.
+      button: FROM LIBRARY TO BOUTIQUE
+      url: /people/2025/8/afton-chen-reckless-ericka-mao-kun-map/
+      image: /images/Online Only Articles/Ancient Maps to Modern
+        Designs/voyage_design_Topics.jpg
+      alt: Ancient Maps to Modern Designs
   - infopic:
       title: Dutch Burghers in British Malaya
       subtitle: People
