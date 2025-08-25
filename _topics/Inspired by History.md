@@ -4,6 +4,14 @@ permalink: /inspired-by-history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/lim-yee-hung-hidden-singapore-game/">**Hidden History Brought to Life in a Game**</a>
+
+From burial grounds to secret societies, HiddenSG weaves historical materials into immersive adventures across the island.
+
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/hiddensg_website_Topics.jpg" style="width:80%;"> 
+																																																										
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/ho-yong-min-urbanist-singapore/">**The Urban Heritage Explorer: One Man’s Mission to Uncover Singapore’s Past**</a>
 
 From leading heritage walks to educating on social media platforms, Ho Yong Min is reintroducing the history of Singapore’s urban landscape.
