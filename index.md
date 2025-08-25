@@ -19,7 +19,7 @@ sections:
       variant: center
   - infopic:
       title: Crafting Stories from History
-      subtitle: People
+      subtitle: Inspired by History
       id: infopic
       description: From research to reimagination, the library and archives have
         shaped Felix Cheong’s creative processes.
