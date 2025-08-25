@@ -4,6 +4,13 @@ permalink: /topics/culture/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/culture/2025/4/singapore-youth-orchestra-singapore-composers-music">**Singapore Youth Orchestra Brings Singapore Composers into the Limelight**</a>
+
+The Singapore Youth Orchestra’s practice of commissioning and performing the works of local composers was instrumental in the growth of Singapore music.
+
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/">Historical Photos of Chin Woo’s Golden Lions</a>
 
 The Singapore Chin Woo (Athletic) Association’s lion dance troupe opens their archives for a peek into the rich history of their Golden Lions.
