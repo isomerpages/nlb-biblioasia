@@ -5,3 +5,38 @@ variant: markdown
 description: ""
 third_nav_title: 立足现在
 ---
+<img src="/images/Reading%20Club%20Exhibition/Present/present_readingclub_23.png" style="width: 100%;"> 
+
+
+
+**成立时间**：	2019年
+
+**活动地点**：
+单月：
+蔡厝港公共图书馆
+节目室一
+
+**双月**：
+芽笼东公共图书馆
+1楼活动室
+
+**活动时间**：	每月第四个星期六
+傍晚6时30分至7时30分
+
+联系方式：	童纬強
+94359199
+twkmobile@gmail.com
+
+
+**联系人**：	童纬強
+
+**联系电话**：4359199
+
+**联系电邮**：twkmobile@gmail.com
+
+**网站**：	https://www.youtube.com/@hanculturalsocietysingap-to4rn
+
+**社交媒体**：	[WhatsApp群组](https://chat.whatsapp.com/IRyXK6PKp2P8Fd4YrRjX47)
+
+**读书会简介**：	我们读书会主要希望能推广传统汉文化，希望能把华夏文化在我国发扬光大。主要导读中文传统经典及小说。
+
