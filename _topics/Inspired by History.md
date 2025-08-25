@@ -32,7 +32,7 @@ When Singapore designer Afton Chen chanced upon the Mao Kun Map, she decided to 
 
  <p>From research to reimagination, the library and archives&nbsp;have shaped&nbsp;Felix Cheong’s creative processes.</p> 
 
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_Topics.jpg" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_Topics2.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/">**Excavating the Past**</a>
