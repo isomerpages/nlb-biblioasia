@@ -32,3 +32,24 @@ History, research and compelling storytelling come together to bring the story o
 
 <img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Karikal_Topic.jpg" style="width:80%;">
 <hr>
+
+#### **Interview with Rachel Heng**
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; right:0; bottom: 0; margin: auto; width: 80%; height: 80%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/jQjegt2YxCc?si=KJmfweHMNm12V4Dll" frameborder="0" allowfullscreen=""></iframe></div>
+
+<i>The Great Reclamation</i>&nbsp;is a work of historical fiction set in Singapore that has received rave reviews from the&nbsp;_New Yorker_&nbsp;and the&nbsp;_New York Times_. A coming-of-age love story, the novel took Singaporean author Rachel Heng five years of research into topics such as land reclamation, the Japanese Occupation, and postwar politics in Singapore. [We speak to her about her book, her research process, and the challenges of writing historical fiction.](https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/)
+
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur">The Borobudur, Mysterious Gold Plates and Singing Maps</a>
+<p>Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller The Java Enigma by debut novelist Erni Salleh.</p>
+
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur_topic.png" style="width:80%;">
+
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/diff-sky/">A Different Sky: The Other Side of the Looking Glass</a>
+
+**Meira Chand**&nbsp;recounts how hours of listening to oral history interviews permeated her subconscious and created a memory that she could call her own when writing her novel.
+
+<img src="/images/Vol-16-issue-3/diff-sky/adiffsky-cover.jpg" style="width:80%;">
+<hr>
