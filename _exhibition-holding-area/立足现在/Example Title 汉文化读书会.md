@@ -23,10 +23,6 @@ third_nav_title: 立足现在
 **活动时间**：	每月第四个星期六
 傍晚6时30分至7时30分
 
-联系方式：	童纬強
-94359199
-twkmobile@gmail.com
-
 
 **联系人**：	童纬強
 
@@ -39,4 +35,3 @@ twkmobile@gmail.com
 **社交媒体**：	[WhatsApp群组](https://chat.whatsapp.com/IRyXK6PKp2P8Fd4YrRjX47)
 
 **读书会简介**：	我们读书会主要希望能推广传统汉文化，希望能把华夏文化在我国发扬光大。主要导读中文传统经典及小说。
-
