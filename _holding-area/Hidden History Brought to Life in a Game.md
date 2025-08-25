@@ -50,11 +50,7 @@ While the National Archives holds valuable information about the past, working w
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/aerial_photo_remnants_of_oil_tanks.jpg" style="width: 80%;">Aerial photograph showing remnants of oil tanks built by the British along Stagmont Ring during World War II, 1947. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/aerial_photo_yew_tee_mandai_village.jpg" style="width: 80%;">Aerial photograph oriented with north on the right, shows the Yew Tee Village area in 1951. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/aerial_photo_yew_tee_mandai_village.jpg" style="width: 80%;">Aerial photograph oriented with north on the right shows the Yew Tee Village area in 1951. <i>British Royal Air Force Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, Lim sees tremendous value in having access to such authoritative historical records, especially with the proliferation of AI-generated content today. With its extensive collection, the National Archives serves as a crucial reference point to distinguish authentic historical evidence from AI-generated content. “The archives are very important as a tool against the generative abilities of AI \[which\] just create whatever people want to see,” he said.
 
