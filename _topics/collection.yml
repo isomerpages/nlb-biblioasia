@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - National Symbols.md
       - Editor's Picks.md
       - Adventure and Travel.md
       - Archaeology.md
@@ -23,6 +22,7 @@ collections:
       - Local Icons.md
       - Maps.md
       - Medicine.md
+      - National Symbols.md
       - Nature and the Environment .md
       - Places and Buildings/.keep
       - Places and Buildings/Architecture.md
