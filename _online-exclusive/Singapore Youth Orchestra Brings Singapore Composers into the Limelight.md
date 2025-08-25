@@ -1,6 +1,6 @@
 ---
 title: Singapore Youth Orchestra Brings Singapore Composers into the Limelight
-permalink: /holding-area/singapore-youth-orchestra-brings-singapore-composers-into-the-limelight/
+permalink: /culture/2025/4/singapore-youth-orchestra-singapore-composers-music/
 variant: markdown
 description: ""
 ---

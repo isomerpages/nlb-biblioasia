@@ -5,6 +5,29 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/">**Luís de Camões in Asia**</a>
+
+Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ternate, was shipwrecked near the Mekong Delta and worked as the Superintendent for the Dead and Missing in Macau.
+
+<img src="/images/Vol%2021%20Issue%203/Luis/luis_topics.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/lim-yee-hung-hidden-singapore-game/">**Hidden History Brought to Life in a Game**</a>
+
+From burial grounds to secret societies, HiddenSG weaves historical materials into immersive adventures across the island.
+
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/hiddensg_website_Topics.jpg" style="width:80%;"> 
+																																																										
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/ho-yong-min-urbanist-singapore/">**The Urban Heritage Explorer: One Man’s Mission to Uncover Singapore’s Past**</a>
+
+From leading heritage walks to educating on social media platforms, Ho Yong Min is reintroducing the history of Singapore’s urban landscape.
+
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_Tour_Topics.jpg" style="width:80%;"> 
+																																																										
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/afton-chen-reckless-ericka-mao-kun-map/">**From Ancient Maps to Modern Designs: How a 500-Year-Old Map Became Fashion**</a>
 
 When Singapore designer Afton Chen chanced upon the Mao Kun Map, she decided to embark on a new fashion collection.
@@ -17,7 +40,7 @@ When Singapore designer Afton Chen chanced upon the Mao Kun Map, she decided to 
 
  <p>From research to reimagination, the library and archives&nbsp;have shaped&nbsp;Felix Cheong’s creative processes.</p> 
 
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_Topics.jpg" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_Topics2.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/">**From Liguria to the Lion City: The Life and Times of Giovanni Gaggino**</a>
