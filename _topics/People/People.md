@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/">**Luís de Camões in Asia**</a>
+
+Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ternate, was shipwrecked near the Mekong Delta and worked as the Superintendent for the Dead and Missing in Macau.
+
+<img src="/images/Vol%2021%20Issue%203/Luis/luis_topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/lim-yee-hung-hidden-singapore-game/">**Hidden History Brought to Life in a Game**</a>
 
 From burial grounds to secret societies, HiddenSG weaves historical materials into immersive adventures across the island.
