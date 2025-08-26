@@ -8,13 +8,17 @@ description: ""
 By Jolynn Lim
 <br><small>18 August 2025</small>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_notes2.jpg" style="width: 60%;">Felix Cheong with some notes for his graphic novels. <i>Courtesy of Felix Cheong.</i></div>
+
 Author and poet Felix Cheong combines historical events with creative storytelling to create works that blur the lines between fact and fiction. As a writer, Cheong recognises the value of historical records to writers and poets in their creative process. “Historical records can take your writing – and your reader – into alleys and cul-de-sacs you might not have thought of,” he said.
+
+This was the case with Cheong’s upcoming graphic novel, _A Mild Case of Mass Hysteria_, which is set to be published in 2026 by Penguin Random House SEA. The novel revolves around the Koro epidemic in Singapore in 1967. Koro is a psychiatric disorder where individuals believe their penises are retracting into their abdomen, causing intense panic.[^1]
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Felix_notes.jpg" style="width: 60%;">Felix Cheong with some notes for his graphic novels. <i>Courtesy of Felix Cheong.</i></div>
-
-This was the case with Cheong’s upcoming graphic novel, _A Mild Case of Mass Hysteria_, which is set to be published in 2026 by Penguin Random House SEA. The novel revolves around the Koro epidemic in Singapore in 1967. Koro is a psychiatric disorder where individuals believe their penises are retracting into their abdomen, causing intense panic.[^1]
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Mass_Hysteria.jpg" style="width: 80%;"><i>A Mild Case of Mass Hysteria. </i><i>Courtesy of Penguin Random House SEA.</i>
 
 In the graphic novel, one of the narratives involves a secret society member named Soo Tang. Cheong had originally intended for the character to fall in love with a member of the Red Butterfly Gang – a notorious all-female gang, or Ang Hor Tiap in Hokkien, that had been active in Singapore in the 1960s and 1970s.[^2]
 
@@ -26,15 +30,17 @@ This led Cheong to embark on a different story arc for Soo Tang, one focusing on
 <br>
 <img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Pages_Mild_case.jpg" style="width: 90%;">Pages from <i>A Mild Case of Mass Hysteria. </i><i>Courtesy of Penguin Random House SEA.</i></div>
 
-#### **Digging in the Library and Archives**
-
-           
+#### **Digging in the Library and Archives**           
 
 Cheong’s research process often begins with an initial trawl of [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/), the National Library’s online resource of current and historic Singapore and Malaya newspapers, using the key word search function to identify anything that might be of interest to his book project.
 
 “After mind mapping and identifying subtopics, I’d let my curiosity lead me where it will, be it archival photos or interview recordings in NAS \[National Archives of Singapore\], or books or journals in the Lee Kong Chian Reference Library,” he said.
 
 While researching for a new graphic, _Opium: A War Story_, about the anti-opium movement, Cheong came across a 1980 photograph on NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline/) of a colonial bungalow on Pepys Road that served as the residence of the Inspector General of Opium (he supervised the opium factory at the foot of Bukit Chandu).[^4]
+
+	<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Opium_war_story.png" style="width: 80%;"><i>Opium: A War Story.&nbsp;Courtesy of Penguin Random House SEA.</i></div>	
 
 <div style="background-color: white;">
 <br>
@@ -81,4 +87,4 @@ Cheong’s advice to other creatives who are interested in using historical reco
 
 [^5]:  Yong Chun Yuan, “[Hokkien-Teochew Riots (1854)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d555fee3-f3f7-4c27-811a-dbc4eddbf3b3),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
 
-[^6]:  Marsita Omar, “[Indonesia-Malaysia Confrontation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2008.
+[^6]:  Marsita Omar, “[Indonesia-Malaysia Confrontation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2008.</div>

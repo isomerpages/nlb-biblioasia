@@ -1156,6 +1156,17 @@ sections:
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
   - infopic:
+      title: SYO Brings Singapore Composers into the Limelight
+      subtitle: Culture
+      id: infopic
+      description: The Singapore Youth Orchestra’s practice of commissioning and
+        performing the works of local composers was instrumental in the growth
+        of Singapore music.
+      button: Making Music
+      url: /culture/2025/4/singapore-youth-orchestra-singapore-composers-music
+      image: /images/Online Only Articles/Spore Youth Orchestra/SYO_Topics.jpg
+      alt: Singapore Youth Orchestra
+  - infopic:
       title: How a 500-Year-Old Map Became Fashion
       subtitle: People
       id: infopic
