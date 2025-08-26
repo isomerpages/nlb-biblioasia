@@ -6,6 +6,7 @@ description: ""
 third_nav_title: 文章概览
 ---
 ### **数码时代的读书会**
+<img src="/images/Reading%20Club%20Exhibition/Future/Portrait_9.png" style="width: 100%;">
 *夏夏*
 
 #### **前言**
