@@ -18,7 +18,7 @@ This was the case with Cheong’s upcoming graphic novel, _A Mild Case of Mass H
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Mass_Hysteria.jpg" style="width: 80%;"><i>A Mild Case of Mass Hysteria. </i><i>Courtesy of Penguin Random House SEA.</i>
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Mass_Hysteria.jpg" style="width: 60%;"><i>A Mild Case of Mass Hysteria. </i><i>Courtesy of Penguin Random House SEA.</i></div>
 
 In the graphic novel, one of the narratives involves a secret society member named Soo Tang. Cheong had originally intended for the character to fall in love with a member of the Red Butterfly Gang – a notorious all-female gang, or Ang Hor Tiap in Hokkien, that had been active in Singapore in the 1960s and 1970s.[^2]
 
@@ -38,9 +38,9 @@ Cheong’s research process often begins with an initial trawl of [NewspaperSG](
 
 While researching for a new graphic, _Opium: A War Story_, about the anti-opium movement, Cheong came across a 1980 photograph on NAS’ [Archives Online](https://www.nas.gov.sg/archivesonline/) of a colonial bungalow on Pepys Road that served as the residence of the Inspector General of Opium (he supervised the opium factory at the foot of Bukit Chandu).[^4]
 
-	<div style="background-color: white;">
+<div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Opium_war_story.png" style="width: 80%;"><i>Opium: A War Story.&nbsp;Courtesy of Penguin Random House SEA.</i></div>	
+<img src="/images/Online%20Only%20Articles/Crafting%20Stories%20from%20History/Opium_war_story.png" style="width: 60%;"><i>Opium: A War Story.&nbsp;Courtesy of Penguin Random House SEA.</i></div>	
 
 <div style="background-color: white;">
 <br>
@@ -87,4 +87,4 @@ Cheong’s advice to other creatives who are interested in using historical reco
 
 [^5]:  Yong Chun Yuan, “[Hokkien-Teochew Riots (1854)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d555fee3-f3f7-4c27-811a-dbc4eddbf3b3),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
 
-[^6]:  Marsita Omar, “[Indonesia-Malaysia Confrontation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2008.</div>
+[^6]:  Marsita Omar, “[Indonesia-Malaysia Confrontation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2008.
