@@ -8,13 +8,13 @@ description: ""
 By Jolynn Lim
 <br><small>18 August 2025</small>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Afton_Chen_photo2.jpg" style="width: 60%;">Afton Chen in her design studio, 2025. <i>Photo by Jolynn Lim.</i></div>
+
 Admiral Zheng He (郑和) demonstrated Chinese naval power during the Ming dynasty when he led seven naval expeditions across the Indian Ocean between 1405 and 1433. Those expeditions helped chart the waters around Southeast Asia and in the Indian ocean. More than 500 years later, the charts that emerged from these expeditions received a new lease of life thanks to the creative efforts of fashion designer Afton Chen.
 
 Chen is the co-founder and design director of Reckless Ericka, a local clothing brand that specialises in sustainable women’s wear. The brand, launched in 2009, produces clothes that are designed for Singapore’s climate.
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Afton_Chen_photo.jpg" style="width: 60%;">Afton Chen in her design studio, 2025. <i>Photo by Jolynn Lim.</i></div>
 
 When Chen first conceptualised a new collection with a travel-adventure theme, she did not know where to begin. One day, in 2021, she decided to visit the National Library Singapore for ideas. While reading up on Admiral Zheng He, Chen came across the Mao Kun Map (茅坤图), which is part of the National Library’s Rare Materials Collection.
 
