@@ -1219,4 +1219,14 @@ sections:
       image: /images/Online Only Articles/Hidden History Brought to
         Life/hiddensg_website_Topics.jpg
       alt: Hidden History in a Game
+  - infopic:
+      title: The Life and Times of Giovanni Gaggino
+      subtitle: People
+      id: infopic
+      description: The remarkable story of an Italian merchant who once owned Pulau
+        Bukom and authored an Italian-Malay dictionary in colonial Singapore.
+      button: A MAN OF MANY INTERESTS
+      url: /vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/
+      image: /images/Vol 21 Issue 3/Giovanni/giovanni_Topics3.jpg
+      alt: From Liguria to the Lion City
 ---
