@@ -1198,10 +1198,14 @@ sections:
       image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
       alt: Dutch Burghers
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: One Man’s Mission to Uncover Singapore’s Past
+      subtitle: Inspired by History
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: From leading heritage walks to educating on social media platforms,
+        Ho Yong Min is reintroducing the history of Singapore’s urban landscape.
+      button: THE URBANIST SINGAPORE
+      alt: The Urban Heritage Explorer
+      url: /people/2025/8/ho-yong-min-urbanist-singapore/
+      image: /images/Online Only Articles/The Urban Heritage
+        Explorer/Yong_Tour_Topics.jpg
 ---
