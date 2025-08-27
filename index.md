@@ -1188,16 +1188,6 @@ sections:
       image: /images/Vol 21 Issue 3/Bacalah Singapura/Bacalah_Topics.jpg
       alt: Image alt text
   - infopic:
-      title: Dutch Burghers in British Malaya
-      subtitle: People
-      id: infopic
-      description: A murder mystery sheds light on the little-known story of the
-        Ceylonese pioneers from the Dutch Burgher community in British Malaya.
-      button: EURASIAN OR BURGHER
-      url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
-      image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
-      alt: Dutch Burghers
-  - infopic:
       title: One Man’s Mission to Uncover Singapore’s Past
       subtitle: Inspired by History
       id: infopic
@@ -1208,4 +1198,25 @@ sections:
       url: /people/2025/8/ho-yong-min-urbanist-singapore/
       image: /images/Online Only Articles/The Urban Heritage
         Explorer/Yong_Tour_Topics.jpg
+  - infopic:
+      title: Dutch Burghers in British Malaya
+      subtitle: People
+      id: infopic
+      description: A murder mystery sheds light on the little-known story of the
+        Ceylonese pioneers from the Dutch Burgher community in British Malaya.
+      button: EURASIAN OR BURGHER
+      url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
+      image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
+      alt: Dutch Burghers
+  - infopic:
+      title: Hidden History Brought to Life in a Game
+      subtitle: Inspired by History
+      id: infopic
+      description: From burial grounds to secret societies, HiddenSG weaves historical
+        materials into immersive adventures across the island.
+      button: NOT SO HIDDEN AFTER ALL
+      url: /people/2025/8/lim-yee-hung-hidden-singapore-game/
+      image: /images/Online Only Articles/Hidden History Brought to
+        Life/hiddensg_website_Topics.jpg
+      alt: Hidden History in a Game
 ---
