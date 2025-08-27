@@ -1187,4 +1187,14 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
       image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
       alt: Dutch Burghers
+  - infopic:
+      title: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
+      subtitle: Print
+      id: infopic
+      description: Reading surveys in the nation-building years reveal what
+        Singaporeans read and why it mattered.
+      button: READING IS FOR ALL
+      url: /vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/
+      image: /images/Vol 21 Issue 3/Bacalah Singapura/Bacalah_Topics.jpg
+      alt: Image alt text
 ---
