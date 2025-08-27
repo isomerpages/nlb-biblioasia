@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/">**“Majulah Singapura” and Other Love Songs**</a>
+
+National anthems often start off as songs for different purposes. Singapore’s “Majulah Singapura” is no different.
+
+ <img src="/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_main_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/">The Search for Home, Truly (and Other National Day Songs)</a>
 
 The effort to find songs that express a national identity goes back to the 1970s.
