@@ -1168,7 +1168,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: How a 500-Year-Old Map Became Fashion
-      subtitle: People
+      subtitle: Inspired by History
       id: infopic
       description: When Singapore designer Afton Chen chanced upon the Mao Kun Map,
         she decided to embark on a new fashion collection.
@@ -1197,4 +1197,11 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
       image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
       alt: Dutch Burghers
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
