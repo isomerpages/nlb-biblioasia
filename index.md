@@ -1229,4 +1229,14 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/
       image: /images/Vol 21 Issue 3/Giovanni/giovanni_Topics3.jpg
       alt: From Liguria to the Lion City
+  - infopic:
+      title: “Majulah Singapura” and Other Love Songs
+      subtitle: National Symbols
+      id: infopic
+      description: National anthems often start off as songs for different purposes.
+        Singapore’s “Majulah Singapura” is no different.
+      button: A LOVE SONG FOR SINGAPORE
+      url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
+      image: /images/Vol 21 Issue 3/Majulah Singapura/anthem_main_Topics.jpg
+      alt: “Majulah Singapura”
 ---
