@@ -41,7 +41,7 @@ sections:
       alt: Crafting Stories from History
   - infopic:
       title: “Majulah Singapura” Finally Breached the Gap
-      subtitle: People
+      subtitle: National Symbols
       id: infopic
       description: In a BiblioAsia+ podcast, music director Julian Wong reveals
         little-known details about the composer of Singapore’s national anthem.
