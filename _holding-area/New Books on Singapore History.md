@@ -16,16 +16,28 @@ Call no. RSING 079.5957 CHE
 Cheong Yip Seng, who spent two decades as the editor-in-chief of the _Straits Times_, recounts Singapore’s history from a newsroom perspective, sharing stories of interactions with local politicians.
 
 
+#### **[Lee Ek Tieng: The Green General of Lee Kuan Yew]()**
+By Samantha Boh, Pearl Lee and Matthew Gan   <br>
+The Nutgraf Books (2025), 192 pages  <br>
+Call no. RSING 959.5705 BOH-[HIS]
 
-#### **[The Special Operations Executive in Malaya: 	World War II and the Path to Independence]()**
-By Rebecca Kenneison     <br>
-Bloomsbury Academic (2025), 246 pages  <br>
-Call no. RSING 940.548641095951 KEN-[WAR]
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Lee.png" style="width: 80%;">
 
-<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Malaya.png" style="width: 80%;">
+One of the most prolific civil servants in newly independent Singapore, Lee Ek Tieng helped transform Singapore’s environment, including revamping its sewage and trash disposal systems, heading the Singapore River clean-up project, and tackling pollution and other environmental issues.
 
 
-During World War II, agents of the Special Operations Executive infiltrated Japanese-occupied Malaya. Rebecca Kenneison examines the agency’s operations, providing new insights into its impact on Malayan politics, the nature of Malayan communism’s challenge to colonial rule and British postwar intelligence in Malaya.
+
+
+#### **[My Father is Police, Lah!   ]()**
+By Rowena Hawkins   <br>
+Earnshaw Books (2025), 232 pages   <br>
+Call no. RSING 959.57092 HAW  
+
+
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Father.png" style="width: 80%;">
+
+
+As the daughter of an immigrant family from Ceylon and whose father was a detective chief inspector in the colonial police force, Rowena Hawkins grew up in a large bungalow and enjoyed a life of privilege. In this memoir, Rowena recounts her childhood in 1960s colonial Singapore, offering a witty and humorous view of life from a bygone time.
 
 
 #### **[Tapestry and the Golden Thread: Singapore Sport Heritage (1819–1941)]()**
@@ -54,24 +66,13 @@ This anthology offers a different perspective to the founding fathers of Singapo
 
 
 
-#### **[Lee Ek Tieng: The Green General of Lee Kuan Yew]()**
-By Samantha Boh, Pearl Lee and Matthew Gan   <br>
-The Nutgraf Books (2025), 192 pages  <br>
-Call no. RSING 959.5705 BOH-[HIS]
+#### **[The Special Operations Executive in Malaya: 	World War II and the Path to Independence]()**
+By Rebecca Kenneison     <br>
+Bloomsbury Academic (2025), 246 pages  <br>
+Call no. RSING 940.548641095951 KEN-[WAR]
 
-<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Lee.png" style="width: 80%;">
-
-One of the most prolific civil servants in newly independent Singapore, Lee Ek Tieng helped transform Singapore’s environment, including revamping its sewage and trash disposal systems, heading the Singapore River clean-up project, and tackling pollution and other environmental issues.
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Malaya.png" style="width: 80%;">
 
 
+During World War II, agents of the Special Operations Executive infiltrated Japanese-occupied Malaya. Rebecca Kenneison examines the agency’s operations, providing new insights into its impact on Malayan politics, the nature of Malayan communism’s challenge to colonial rule and British postwar intelligence in Malaya.
 
-#### **[My Father is Police, Lah!   ]()**
-By Rowena Hawkins   <br>
-Earnshaw Books (2025), 232 pages   <br>
-Call no. RSING 959.57092 HAW  
-
-
-<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Father.png" style="width: 80%;">
-
-
-As the daughter of an immigrant family from Ceylon and whose father was a detective chief inspector in the colonial police force, Rowena Hawkins grew up in a large bungalow and enjoyed a life of privilege. In this memoir, Rowena recounts her childhood in 1960s colonial Singapore, offering a witty and humorous view of life from a bygone time.
