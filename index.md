@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
       variant: center
   - infopic:
+      title: How a 500-Year-Old Map Became Fashion
+      subtitle: Inspired by History
+      id: infopic
+      description: When Singapore designer Afton Chen chanced upon the Mao Kun Map,
+        she decided to embark on a new fashion collection.
+      button: FROM LIBRARY TO BOUTIQUE
+      url: /people/2025/8/afton-chen-reckless-ericka-mao-kun-map/
+      image: /images/Online Only Articles/Ancient Maps to Modern
+        Designs/voyage_design_Topics.jpg
+      alt: Ancient Maps to Modern Designs
+  - infopic:
       title: SYO Brings Singapore Composers into the Limelight
       subtitle: Culture
       id: infopic
@@ -41,7 +52,7 @@ sections:
       alt: Crafting Stories from History
   - infopic:
       title: “Majulah Singapura” Finally Breached the Gap
-      subtitle: People
+      subtitle: National Symbols
       id: infopic
       description: In a BiblioAsia+ podcast, music director Julian Wong reveals
         little-known details about the composer of Singapore’s national anthem.
@@ -1167,17 +1178,6 @@ sections:
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
   - infopic:
-      title: How a 500-Year-Old Map Became Fashion
-      subtitle: People
-      id: infopic
-      description: When Singapore designer Afton Chen chanced upon the Mao Kun Map,
-        she decided to embark on a new fashion collection.
-      button: FROM LIBRARY TO BOUTIQUE
-      url: /people/2025/8/afton-chen-reckless-ericka-mao-kun-map/
-      image: /images/Online Only Articles/Ancient Maps to Modern
-        Designs/voyage_design_Topics.jpg
-      alt: Ancient Maps to Modern Designs
-  - infopic:
       title: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
       subtitle: Print
       id: infopic
@@ -1188,6 +1188,17 @@ sections:
       image: /images/Vol 21 Issue 3/Bacalah Singapura/Bacalah_Topics.jpg
       alt: Image alt text
   - infopic:
+      title: One Man’s Mission to Uncover Singapore’s Past
+      subtitle: Inspired by History
+      id: infopic
+      description: From leading heritage walks to educating on social media platforms,
+        Ho Yong Min is reintroducing the history of Singapore’s urban landscape.
+      button: THE URBANIST SINGAPORE
+      alt: The Urban Heritage Explorer
+      url: /people/2025/8/ho-yong-min-urbanist-singapore/
+      image: /images/Online Only Articles/The Urban Heritage
+        Explorer/Yong_Tour_Topics.jpg
+  - infopic:
       title: Dutch Burghers in British Malaya
       subtitle: People
       id: infopic
@@ -1197,4 +1208,35 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
       image: /images/Vol 21 Issue 3/Dutch Burghers/burghers_Topics.jpg
       alt: Dutch Burghers
+  - infopic:
+      title: Hidden History Brought to Life in a Game
+      subtitle: Inspired by History
+      id: infopic
+      description: From burial grounds to secret societies, HiddenSG weaves historical
+        materials into immersive adventures across the island.
+      button: NOT SO HIDDEN AFTER ALL
+      url: /people/2025/8/lim-yee-hung-hidden-singapore-game/
+      image: /images/Online Only Articles/Hidden History Brought to
+        Life/hiddensg_website_Topics.jpg
+      alt: Hidden History in a Game
+  - infopic:
+      title: The Life and Times of Giovanni Gaggino
+      subtitle: People
+      id: infopic
+      description: The remarkable story of an Italian merchant who once owned Pulau
+        Bukom and authored an Italian-Malay dictionary in colonial Singapore.
+      button: A MAN OF MANY INTERESTS
+      url: /vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/
+      image: /images/Vol 21 Issue 3/Giovanni/giovanni_Topics3.jpg
+      alt: From Liguria to the Lion City
+  - infopic:
+      title: “Majulah Singapura” and Other Love Songs
+      subtitle: National Symbols
+      id: infopic
+      description: National anthems often start off as songs for different purposes.
+        Singapore’s “Majulah Singapura” is no different.
+      button: A LOVE SONG FOR SINGAPORE
+      url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
+      image: /images/Vol 21 Issue 3/Majulah Singapura/anthem_main_Topics.jpg
+      alt: “Majulah Singapura”
 ---
