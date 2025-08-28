@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Vol%2021%20Issue%202/ContentPage_Cover.jpg">
+<img src="/images/Vol%2021%20Issue%203/ContentPage_Cover_213.png">
 
 <a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-3/oct-dec-2025/director-s-note/">Director's Note</a><br>
 

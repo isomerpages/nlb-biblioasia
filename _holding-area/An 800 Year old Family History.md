@@ -7,21 +7,26 @@ description: ""
 #### Thanks to his ancestry book (_zupu_) and a lot of persistence, a practising Taoist priest was able to trace his ancestry all the way back to 1195.  
 By Chung Kwang Tong
 
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_main.jpg" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_main2.png" style="width: 80%;">
 
 <div style="background-color: white;"> Exterior view of the ancestral hall dedicated to Zhuang Sizong in the village of Xianling in Tanniu town, Wenchang (海南省文昌市潭牛镇新桥墟仙岭村), 2024. It honours over 20 generations of the Zhuang lineage. On the right are stone steles inscribed with the names of contributors to the reconstruction of the hall. These stone steles have since been mounted onto the walls inside the hall. <i> Courtesy of Chung Kwang Tong.</i></div>
 
 One afternoon in the mid-1990s, when I was around 12, I found myself flipping through a book that my grandfather had pulled from his drawer. It was our family’s _zupu_ (族谱), the genealogical record that traces the Zhuang (庄) lineage through generations. My mother turned to a page and ran her finger down the rows of names. “There you are,” she said, pointing at the Chinese characters of my name. I saw my father’s name above mine, followed by my grandfather’s… My mother moved her finger further up the page. “That’s your great-grandfather… and your great-great-grandfather…” she continued.
 
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_a.jpg" style="width: 80%;">
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_b_copy.png" style="width: 80%;">
-<div style="background-color: white;"> The interior of the ancestral hall dedicated to Zhuang Sizong, 2024. The largest tablet in the centre bears the inscription: “Zhuang Sizong and wife, first ancestors to migrate to Hainan during the Song dynasty.” His tablet is flanked by those of his sons and grandsons.<i>  Courtesy of Chung Kwang Tong.</i></div>
-]
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_book.png" style="width: 80%;">
+<div style="background-color: white;">           The front cover of volume 2 of Chung Kwang Tong’s family <i>zupu</i>, 庄氏族谱: 天水郡.<i>  From National Library Singapore (call no. RSEA 929.20951 ZSZ).</i></div>
+
+
 A sense of wonder stirred within me. Who were these people? Where had they lived? What were their lives like? My family’s genealogical record awakened a curiosity within me and a deep desire to understand where I came from.
 
 Just then, something caught my eye. Above my name, there were stickers and pen markings – something wasn’t right. Looking closer, I realised a glaring error: I have been mistakenly recorded as my uncle’s son instead of my father’s. My grandfather had manually corrected the error in his copy of the _zupu_, but the official records remained wrong. I remembered feeling a surge of frustration. What’s the point of fixing our copy but not in the original record? Isn’t that wrong? I was just a child in primary school then, who would even take me seriously? The desire to correct the mistake in the _zupu_ never truly left me though.
 
 Over the years, my parents would often take me to visit our ancestral village Dayou (大有村) in the town of Huiwen in Wenchang city, Hainan province (海南省文昌市会文镇), but we never managed to connect with the people in charge of the _zupu_. Our relatives there weren’t sure who oversaw the updates and with each visit, the possibility of setting the record straight seemed to drift further away. Yet, deep down, I held onto the hope that one day, I would find a way to uncover and preserve the true story of my family.&nbsp;
+
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_selfie.jpg" style="width: 80%;">
+
+<div style="background-color: white;"> A  selfie in front of the ancestral hall dedicated to Zhuang Sizong, 2024.<i> Courtesy of Chung Kwang Tong.</i></div>
+
 
 #### **Who Am I?**
 
@@ -32,6 +37,11 @@ I asked my parents, but they didn’t have many answers. They had heard some sto
 When my grandfather passed away in 2008, my father took his copy of the _zupu_ as a keepsake. About a year later, I flipped through its pages, pausing at the foreword. That was when I made a discovery that left me in awe – the first Zhuang to settle in Hainan wasn’t just an ordinary migrant. He was an imperial official during the Song dynasty!
 
 His name was Zhuang Sizong (庄嗣宗), with the courtesy name of Zhuang Fang (庄方). He came from Putian, Fujian, and was a scholar who had successfully passed the imperial examinations during the Chunxi era (1174–89) of the Southern Song dynasty.
+
+
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_a.jpg" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_b_copy.png" style="width: 80%;">
+<div style="background-color: white;"> The interior of the ancestral hall dedicated to Zhuang Sizong, 2024. The largest tablet in the centre bears the inscription: “Zhuang Sizong and wife, first ancestors to migrate to Hainan during the Song dynasty.” His tablet is flanked by those of his sons and grandsons.<i>  Courtesy of Chung Kwang Tong.</i></div>
 
 
 In the first year of the Qingyuan era (1195), he arrived in Hainan, not as a refugee nor a tradesman, but as a Prefect of Qiongzhou, or Qiong Prefecture (琼州知府), and Pacification Commissioner (安抚都监) – a high-ranking official tasked with governing the region and maintaining order. Qiong Prefecture, as it was called then, is what we now know as Hainan province.
@@ -47,11 +57,6 @@ My grandfather was the one who left Hainan, venturing to Singapore in search of 
 #### **Compiling the Zupu**
 
 My journey to reconnect with my family’s history took an unexpected turn when I became acquainted with the Zhuang Ancestral Hall in Dayou village. This connection came through Chuang Tsu Li, the president of the Singapore Chuang and Ngiam Clansmen’s Association.
-
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_selfie.jpg" style="width: 80%;">
-
-<div style="background-color: white;"> A  selfie in front of the ancestral hall dedicated to Zhuang Sizong, 2024.<i> Courtesy of Chung Kwang Tong.</i></div>
-
 
 While Tsu Li and I came from different Zhuang lineages – his ancestors had arrived in Hainan at a later date – there was a twist of fate. Tsu Li has a cousin that he was in touch with and who lives in Dayou village. That cousin, in turn, introduced me to Zhuang Gengli in March 2022, the person in charge of compiling the Zhuang _zupu_.
 
@@ -95,9 +100,8 @@ After travel restrictions were lifted following the Covid-19 pandemic, I finally
 
 One of my first stops was the Zhuang Ancestral Hall, now located within the premises of the village school. Walking into the hall, I was filled with a sense of awe and belonging, surrounded by the generations who came before me. I met with relatives and members of the Zupu Revision Committee, who had worked tirelessly to preserve our family’s lineage.
 
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_work.jpg" style="width: 80%;">
-<div style="background-color: white;">        My grandfather and his brother, after working in Singapore, remitted funds back home to rebuild this ancestral house in Dayou Village.<i>  Courtesy of Chung Kwang Tong.</i></div>
-
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_hall.jpg" style="width: 80%;">
+<div style="background-color: white;">         The Zhuang Ancestral Hall in Dayou Village dedicated to the Zhihuan branch of the Zhuang lineage, 2024. A school was later built adjacent to it. Despite visiting the village several times with my parents, I was previously unable to locate it as it was “hidden” within the school compound walls. <i> Courtesy of Chung Kwang Tong.</i></div>
 What happened next was something truly special. As we drove through the village, they stopped at various graves, pointing them out one by one.
 
 “That’s the grave of your great-grandfather.”
@@ -108,8 +112,8 @@ Each stop along the way was like turning the pages of a history book, except thi
 
 What struck me the most was how deeply intertwined everyone in the village was. In this town, everyone was connected somehow, bound together by shared ancestry, history and stories passed down through generations.
 
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_hall.jpg" style="width: 80%;">
-<div style="background-color: white;">         The Zhuang Ancestral Hall in Dayou Village dedicated to the Zhihuan branch of the Zhuang lineage, 2024. A school was later built adjacent to it. Despite visiting the village several times with my parents, I was previously unable to locate it as it was “hidden” within the school compound walls. <i> Courtesy of Chung Kwang Tong.</i></div>
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_work.jpg" style="width: 80%;">
+<div style="background-color: white;">        My grandfather and his brother, after working in Singapore, remitted funds back home to rebuild this ancestral house in Dayou Village.<i>  Courtesy of Chung Kwang Tong.</i></div>
 
 Our fifth-generation ancestor, Zhuang Jing, played a pivotal role in preserving our family’s history. In the foreword of the first compilation of the _zupu_, he left behind a message that still resonates today:
 
@@ -122,10 +126,6 @@ These words reflect Zhuang Jing’s unwavering dedication to education and duty.
 
 Reading Zhuang Jing’s words centuries later, I felt a deep sense of connection. His values – hard work, scholarship and responsibility to both family and country – are the very ideals that continue to shape us today. I will be sure to pass on these values to my children and descendants.
 
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_book.png" style="width: 80%;">
-<div style="background-color: white;">           The front cover of volume 2 of Chung Kwang Tong’s family _zupu_, 庄氏族谱: 天水郡.<i>  From National Library Singapore (call no. RSEA 929.20951 ZSZ).</i></div>
-
-
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 On 21 September 2024, the National Library Board (NLB) and the Genealogy Society Singapore (GSS) signed a memorandum of understanding to jointly promote interest in genealogy among Singaporeans by organising talks, workshops and exhibitions. GSS members donated seven <i>zupu</i> (族谱; genealogy books) to NLB, which included Chung Kwang Tong’s <i>zupu</i>, 庄氏族谱: 天水郡 (volumes 1 and 2). Singaporeans are encouraged to donate their <i>zupu</i> to NLB for permanent preservation. By making these books publicly accessible to scholars, it will benefit researchers and anyone else interested in tracing their family history.
 <br>
@@ -134,5 +134,4 @@ On 21 September 2024, the National Library Board (NLB) and the Genealogy Society
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray25.png">
 <b>Chung Kwang Tong</b>  is an ordained Taoist priest and an active participant in Singapore’s inter-faith sector. He is the president of the Quan Zhen Cultural Society and has a Masters in Malay Studies from the National University of Singapore.   </div>
