@@ -6,13 +6,13 @@ description: ""
 ---
 As Singapore celebrates the 60th anniversary of its independence in 2025, we
 thought we would mark the occasion by taking a closer look at “Majulah Singapura”.
-In this issue, we have not one, but two stories relating to our national anthem.
+In this issue, we have not one, but two stories relating to our [national anthem](https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/).
 Emeritus Professor Bernard Tan’s piece on national anthems, “Majulah Singapura”
 in particular, and his deep dive into how the song has changed over time is a
 must-read as we mark SG60.
 
 Accompanying this is an excerpt from a conversation that we had with music
-director Julian Wong, the man responsible for the critically acclaimed production,
+director [Julian Wong](https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/), the man responsible for the critically acclaimed production,
 _Don’t Call Him Mr Mari Kita_, which delves into the life of Zubir Said, the composer
 of “Majulah Singapura”. After reading this excerpt, we hope you will be inspired
 to listen to the entire podcast.
