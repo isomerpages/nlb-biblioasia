@@ -18,10 +18,8 @@ Cheong Yip Seng, who spent two decades as the editor-in-chief of the _Straits Ti
 
 
 #### **[The Special Operations Executive in Malaya: 	World War II and the Path to Independence]()**
-By Rebecca Kenneison   
-
-Bloomsbury Academic (2025), 246 pages
-
+By Rebecca Kenneison     <br>
+Bloomsbury Academic (2025), 246 pages  <br>
 Call no. RSING 940.548641095951 KEN-[WAR]
 
 <img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Malaya.png" style="width: 80%;">
@@ -31,10 +29,8 @@ During World War II, agents of the Special Operations Executive infiltrated Japa
 
 
 #### **[Tapestry and the Golden Thread: Singapore Sport Heritage (1819–1941)]()**
-By Nick Aplin 
-
-Sport Singapore (2025), 283 pages
-
+By Nick Aplin   <br>
+Sport Singapore (2025), 283 pages  <br>
 Call no. RSING 796.0605957 APL  
 
 <img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Tapestry.png" style="width: 80%;">
@@ -45,10 +41,8 @@ A compendium of stories and insights into the growth of sports in Singapore, _Ta
 
 
 #### **[The First Fools: B-Sides of Lee Kuan Yew’s A-Team]()**
-Edited by Peh Shing Huei
-
-The Nutgraf Books (2025), 237 pages 
-
+Edited by Peh Shing Huei  <br>
+The Nutgraf Books (2025), 237 pages   <br>
 Call no. RSING 959.570510922 FIR [HIS]
 
 
@@ -61,10 +55,8 @@ This anthology offers a different perspective to the founding fathers of Singapo
 
 
 #### **[Lee Ek Tieng: The Green General of Lee Kuan Yew]()**
-By Samantha Boh, Pearl Lee and Matthew Gan 
-
-The Nutgraf Books (2025), 192 pages
-
+By Samantha Boh, Pearl Lee and Matthew Gan   <br>
+The Nutgraf Books (2025), 192 pages  <br>
 Call no. RSING 959.5705 BOH-[HIS]
 
 <img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Lee.png" style="width: 80%;">
@@ -74,10 +66,8 @@ One of the most prolific civil servants in newly independent Singapore, Lee Ek T
 
 
 #### **[My Father is Police, Lah!   ]()**
-By Rowena Hawkins 
-
-Earnshaw Books (2025), 232 pages 
-
+By Rowena Hawkins   <br>
+Earnshaw Books (2025), 232 pages   <br>
 Call no. RSING 959.57092 HAW  
 
 
