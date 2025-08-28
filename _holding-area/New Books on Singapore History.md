@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 ---
 #### **[Ink and Influence: An OB Markers Sequel]()**
-By Cheong Yip Seng  
-
-World Scientific Publishing (2025), 321 pages
-
+By Cheong Yip Seng  <br>
+World Scientific Publishing (2025), 321 pages<br>
 Call no. RSING 079.5957 CHE 
 
 
