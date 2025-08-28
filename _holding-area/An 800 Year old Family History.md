@@ -7,7 +7,7 @@ description: ""
 #### Thanks to his ancestry book (_zupu_) and a lot of persistence, a practising Taoist priest was able to trace his ancestry all the way back to 1195.  
 By Chung Kwang Tong
 
-<img src="/images/Vol%2021%20Issue%203/Family%20History/history_main.jpg" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%203/Family%20History/history_main2.png" style="width: 80%;">
 
 <div style="background-color: white;"> Exterior view of the ancestral hall dedicated to Zhuang Sizong in the village of Xianling in Tanniu town, Wenchang (海南省文昌市潭牛镇新桥墟仙岭村), 2024. It honours over 20 generations of the Zhuang lineage. On the right are stone steles inscribed with the names of contributors to the reconstruction of the hall. These stone steles have since been mounted onto the walls inside the hall. <i> Courtesy of Chung Kwang Tong.</i></div>
 
