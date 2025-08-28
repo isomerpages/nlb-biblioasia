@@ -22,14 +22,14 @@ about Singapore and this issue is particularly strong in this regard. While many
 people might be aware that back in the early 1980s, Singapore shifted its time zone
 forward by half an hour to align itself with Malaysia, reference librarian Kenneth
 Tay reveals a lesser-known fact: in the last hundred years or so, Singapore has
-adjusted its clocks no fewer than seven times.
+[adjusted its clocks](https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/singapore-time-zones/) no fewer than seven times.
 
 We also have an interesting piece by former National Library Digital Fellow
-Zhuang Wubin about three women who made a name for themselves in the world
+Zhuang Wubin about [three women](https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/) who made a name for themselves in the world
 of photography in Singapore in the 1940s and 1950s. Our story brings these women
 out of the darkroom and into the light.
 
-Finally, I want to share the fascinating history of Giovanni Gaggino written by
+Finally, I want to share the fascinating history of [Giovanni Gaggino](https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/) written by
 Alex Foo, a manager with NLB’s partnership department. Gaggino was an Italian
 entrepreneur who once owned Pulau Bukom and also authored an Italian-Malay
 dictionary in 1884. The story of his remarkable life illustrates that in Singapore,
