@@ -16,7 +16,7 @@ One afternoon in the mid-1990s, when I was around 12, I found myself flipping th
 <img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_a.jpg" style="width: 80%;">
 <img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_b_copy.png" style="width: 80%;">
 <div style="background-color: white;"> The interior of the ancestral hall dedicated to Zhuang Sizong, 2024. The largest tablet in the centre bears the inscription: “Zhuang Sizong and wife, first ancestors to migrate to Hainan during the Song dynasty.” His tablet is flanked by those of his sons and grandsons.<i>  Courtesy of Chung Kwang Tong.</i></div>
-]
+
 A sense of wonder stirred within me. Who were these people? Where had they lived? What were their lives like? My family’s genealogical record awakened a curiosity within me and a deep desire to understand where I came from.
 
 Just then, something caught my eye. Above my name, there were stickers and pen markings – something wasn’t right. Looking closer, I realised a glaring error: I have been mistakenly recorded as my uncle’s son instead of my father’s. My grandfather had manually corrected the error in his copy of the _zupu_, but the official records remained wrong. I remembered feeling a surge of frustration. What’s the point of fixing our copy but not in the original record? Isn’t that wrong? I was just a child in primary school then, who would even take me seriously? The desire to correct the mistake in the _zupu_ never truly left me though.
@@ -134,5 +134,4 @@ On 21 September 2024, the National Library Board (NLB) and the Genealogy Society
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray25.png">
 <b>Chung Kwang Tong</b>  is an ordained Taoist priest and an active participant in Singapore’s inter-faith sector. He is the president of the Quan Zhen Cultural Society and has a Masters in Malay Studies from the National University of Singapore.   </div>
