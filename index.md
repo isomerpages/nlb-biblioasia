@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
       variant: center
   - infopic:
+      title: How a 500-Year-Old Map Became Fashion
+      subtitle: Inspired by History
+      id: infopic
+      description: When Singapore designer Afton Chen chanced upon the Mao Kun Map,
+        she decided to embark on a new fashion collection.
+      button: FROM LIBRARY TO BOUTIQUE
+      url: /people/2025/8/afton-chen-reckless-ericka-mao-kun-map/
+      image: /images/Online Only Articles/Ancient Maps to Modern
+        Designs/voyage_design_Topics.jpg
+      alt: Ancient Maps to Modern Designs
+  - infopic:
       title: SYO Brings Singapore Composers into the Limelight
       subtitle: Culture
       id: infopic
@@ -1166,17 +1177,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: How a 500-Year-Old Map Became Fashion
-      subtitle: Inspired by History
-      id: infopic
-      description: When Singapore designer Afton Chen chanced upon the Mao Kun Map,
-        she decided to embark on a new fashion collection.
-      button: FROM LIBRARY TO BOUTIQUE
-      url: /people/2025/8/afton-chen-reckless-ericka-mao-kun-map/
-      image: /images/Online Only Articles/Ancient Maps to Modern
-        Designs/voyage_design_Topics.jpg
-      alt: Ancient Maps to Modern Designs
   - infopic:
       title: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
       subtitle: Print
