@@ -16,7 +16,7 @@ Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ter
 
 From burial grounds to secret societies, HiddenSG weaves historical materials into immersive adventures across the island.
 
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/hiddensg_website_Topics.jpg" style="width:80%;"> 
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/yee_hung_hiddenSG_Topics.jpg" style="width:80%;"> 
 																																																										
 <hr>
 
