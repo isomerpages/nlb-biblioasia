@@ -40,6 +40,7 @@ His name was Zhuang Sizong (庄嗣宗), with the courtesy name of Zhuang Fang (�
 
 
 <img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_a.jpg" style="width: 80%;">
+<br>
 <img src="/images/Vol%2021%20Issue%203/Family%20History/history_interior_b_copy.png" style="width: 80%;">
 <div style="background-color: white;"> The interior of the ancestral hall dedicated to Zhuang Sizong, 2024. The largest tablet in the centre bears the inscription: “Zhuang Sizong and wife, first ancestors to migrate to Hainan during the Song dynasty.” His tablet is flanked by those of his sons and grandsons.<i>  Courtesy of Chung Kwang Tong.</i></div>
 
