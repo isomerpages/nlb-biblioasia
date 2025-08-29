@@ -54,7 +54,7 @@ In many ways, the relationship between the archives and Yong is a partnership. T
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_video_shoot.jpg" style="width: 80%;">Yong at a video shoot for "<a href="“https://www.nlb.gov.sg/main/site/beinspiredbyhistory;">Be Inspired By History</a>", a campaign by the National Library Board inviting Singaporeans to use historical records from the National Library and National Archives to create new and original works. <i>Photo by Woo Pei Qi.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20Urban%20Heritage%20Explorer/Yong_video_shoot.jpg" style="width: 80%;">Yong at a video shoot for "<a href="“https://www.nlb.gov.sg/main/site/beinspiredbyhistory">Be Inspired By History</a>", a campaign by the National Library Board inviting Singaporeans to use historical records from the National Library and National Archives to create new and original works. <i>Photo by Woo Pei Qi.</i></div>
 	
 For the 60th anniversary of Singapore’s independence, Yong created a tour in April 2025 titled “Majulah Singapura: The Untold Story of a Nation’s Anthem”, which explores the history and origins of the song, its eventual adoption as Singapore's national anthem as well as the life of its composer, Zubir Said.
 
@@ -64,7 +64,7 @@ The inspiration for the tour came from a _BiblioAsia_ article, “[May Singapore
 
 Intrigued, Yong combed through old newspaper articles on [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/), the National Library’s online resource of current and historic Singapore and Malaya newspapers, to trace the motto's original use and evolution.[^4] “It was amazing to see how much you can find out through what was shared in newspaper articles from the past,” he said.
 
-Yong spent about five months researching the history of the motto and planning the route for his tour. Since the launch, the tour has been organised exclusively for schools, organisations and private clients. He will be bringing it back for the public to coincide with the launch of SG Culture Pass (From September 2025, Singaporeans aged 18 and above have $100 worth of credits that they can use to defray the cost of tickets to arts and heritage programmes).
+Yong spent about five months researching the history of the motto and planning the route for his tour. Since the launch, the tour has been organised exclusively for schools, organisations and private clients. He will be bringing it back for the public to coincide with the launch of SG Culture Pass (from September 2025, Singaporeans aged 18 and above have $100 worth of credits that they can use to defray the cost of tickets to arts and heritage programmes).
 
 #### **On a Mission**
 
