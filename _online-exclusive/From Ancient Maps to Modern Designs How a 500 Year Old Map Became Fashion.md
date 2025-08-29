@@ -12,7 +12,7 @@ By Jolynn Lim
 <br>
 <img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Afton_Chen_photo2.jpg" style="width: 60%;">Afton Chen in her design studio, 2025. <i>Photo by Jolynn Lim.</i></div>
 
-Admiral Zheng He (郑和) demonstrated Chinese naval power during the Ming dynasty when he led seven naval expeditions across the Indian Ocean between 1405 and 1433. Those expeditions helped chart the waters around Southeast Asia and in the Indian ocean. More than 500 years later, the charts that emerged from these expeditions received a new lease of life thanks to the creative efforts of fashion designer Afton Chen.
+Admiral Zheng He (郑和) demonstrated Chinese naval power during the Ming dynasty when he led seven naval expeditions across the Indian Ocean between 1405 and 1433. Those expeditions helped chart the waters around Southeast Asia and in the Indian Ocean. More than 500 years later, the charts that emerged from these expeditions received a new lease of life thanks to the creative efforts of fashion designer Afton Chen.
 
 Chen is the co-founder and design director of Reckless Ericka, a local clothing brand that specialises in sustainable women’s wear. The brand, launched in 2009, produces clothes that are designed for Singapore’s climate.
 
@@ -22,9 +22,9 @@ When Chen first conceptualised a new collection with a travel-adventure theme, s
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun2.jpg" style="width: 80%;">Mao Kun (茅坤) Map from <i>Wu Bei Zhi</i> (武备志), chapter 240. The Chinese characters&nbsp;淡马锡&nbsp;are on the right-hand page at the top.<i>Collection of the National Library Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>      
+<img src="/images/Online%20Only%20Articles/Ancient%20Maps%20to%20Modern%20Designs/Map_Mao_Kun2.jpg" style="width: 80%;">Mao Kun (茅坤) Map from <i>Wu Bei Zhi</i> (武备志), chapter 240. The Chinese characters&nbsp;淡马锡&nbsp;are on the right-hand page at the top.<i> Collection of the National Library Singapore. Donated by the Singapore Federation of Chinese Clan Associations. </i></div>      
 
-The map was first published in the late-Ming publication _Wu Bei Zhi_ (武备志) and had been complied in 1621 by Mao Yuanyi (茅元仪). Originally drawn as a scroll, the map was recast for publication. The map is believed to be part of the personal collection of Mao’s grandfather, Mao Kun (茅坤), who owned a large and distinguished library.[^1]
+The map was first published in the late-Ming publication _Wu Bei Zhi_ (武备志) and had been compiled in 1621 by Mao Yuanyi (茅元仪). Originally drawn as a scroll, the map was recast for publication. The map is believed to be part of the personal collection of Mao’s grandfather, Mao Kun (茅坤), who owned a large and distinguished library.[^1]
 
 #### **From Library to Boutique**
 
@@ -55,4 +55,4 @@ Although the “Voyage” collection is no longer available today, the National 
  
 #### **Notes**
 
-[^1]:  National Library Board, _[On Paper: Singapore Before 1867](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203936524)_ (Singapore: National Library Board, 2019), 20–25. (From National Library Singapore, call no. RSING 959.5703 ON); National Library Board, _[Stories from the Stack: Selections from the National Library Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205258180)_ (Singapore: National Library Board, Singapore: Marshall Cavendish Editions 2020), 38–39. (From National Library Singapore, call no. RSING 016.95957 SIN)
+[^1]:  National Library Board, _[On Paper: Singapore Before 1867](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203936524)_ (Singapore: National Library Board, 2019), 20–25. (From National Library Singapore, call no. RSING 959.5703 ON); National Library Board, _[Stories from the Stack: Selections from the National Library Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205258180)_ (Singapore: National Library Board, Singapore: Marshall Cavendish Editions, 2020), 38–39. (From National Library Singapore, call no. RSING 016.95957 SIN)
