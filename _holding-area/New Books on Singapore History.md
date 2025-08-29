@@ -4,7 +4,7 @@ permalink: /holding-area/vol-21/issue-3/oct-dec-2025/new-books-on-singapore-hist
 variant: markdown
 description: ""
 ---
-#### **[Ink and Influence: An OB Markers Sequel]()**
+#### **[Ink and Influence: An OB Markers Sequel](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300118049)**
 By Cheong Yip Seng  <br>
 World Scientific Publishing (2025), 321 pages<br>
 Call no. RSING 079.5957 CHE 
@@ -16,7 +16,7 @@ Call no. RSING 079.5957 CHE
 Cheong Yip Seng, who spent two decades as the editor-in-chief of the _Straits Times_, recounts Singapore’s history from a newsroom perspective, sharing stories of interactions with local politicians.
 
 
-#### **[Lee Ek Tieng: The Green General of Lee Kuan Yew]()**
+#### **[Lee Ek Tieng: The Green General of Lee Kuan Yew](https://catalogue.nlb.gov.sg/search/card?recordId=300099607)**
 By Samantha Boh, Pearl Lee and Matthew Gan   <br>
 The Nutgraf Books (2025), 192 pages  <br>
 Call no. RSING 959.5705 BOH-[HIS]
@@ -28,7 +28,7 @@ One of the most prolific civil servants in newly independent Singapore, Lee Ek T
 
 
 
-#### **[My Father is Police, Lah!   ]()**
+#### **[My Father is Police, Lah!   ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300139646)**
 By Rowena Hawkins   <br>
 Earnshaw Books (2025), 232 pages   <br>
 Call no. RSING 959.57092 HAW  
@@ -40,7 +40,7 @@ Call no. RSING 959.57092 HAW
 As the daughter of an immigrant family from Ceylon and whose father was a detective chief inspector in the colonial police force, Rowena Hawkins grew up in a large bungalow and enjoyed a life of privilege. In this memoir, Rowena recounts her childhood in 1960s colonial Singapore, offering a witty and humorous view of life from a bygone time.
 
 
-#### **[Tapestry and the Golden Thread: Singapore Sport Heritage (1819–1941)]()**
+#### **[Tapestry and the Golden Thread: Singapore Sport Heritage (1819–1941)](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300133126)**
 By Nick Aplin   <br>
 Sport Singapore (2025), 283 pages  <br>
 Call no. RSING 796.0605957 APL  
@@ -52,7 +52,7 @@ A compendium of stories and insights into the growth of sports in Singapore, _Ta
 
 
 
-#### **[The First Fools: B-Sides of Lee Kuan Yew’s A-Team]()**
+#### **[The First Fools: B-Sides of Lee Kuan Yew’s A-Team](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300130882)**
 Edited by Peh Shing Huei  <br>
 The Nutgraf Books (2025), 237 pages   <br>
 Call no. RSING 959.570510922 FIR [HIS]
@@ -66,7 +66,7 @@ This anthology offers a different perspective to the founding fathers of Singapo
 
 
 
-#### **[The Special Operations Executive in Malaya: 	World War II and the Path to Independence]()**
+#### **[The Special Operations Executive in Malaya: 	World War II and the Path to Independence](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300109511)**
 By Rebecca Kenneison     <br>
 Bloomsbury Academic (2025), 246 pages  <br>
 Call no. RSING 940.548641095951 KEN-[WAR]
@@ -75,4 +75,3 @@ Call no. RSING 940.548641095951 KEN-[WAR]
 
 
 During World War II, agents of the Special Operations Executive infiltrated Japanese-occupied Malaya. Rebecca Kenneison examines the agency’s operations, providing new insights into its impact on Malayan politics, the nature of Malayan communism’s challenge to colonial rule and British postwar intelligence in Malaya.
-
