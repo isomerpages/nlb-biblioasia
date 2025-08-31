@@ -2,7 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - Director's Note.md
-      - New Books on Singapore History.md
-      - An 800 Year old Family History.md
       - Sample article.md

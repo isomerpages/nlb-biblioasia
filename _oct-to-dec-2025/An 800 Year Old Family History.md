@@ -1,6 +1,6 @@
 ---
-title: An 800 Year old Family History
-permalink: /holding-area/vol-21/issue-3/oct-dec-2025/an-800-year-old-family-history/
+title: An 800 Year Old Family History
+permalink: /vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/
 variant: markdown
 description: ""
 ---

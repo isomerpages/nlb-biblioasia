@@ -4,6 +4,13 @@ permalink: /topic/fake-news/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/">**An 800-Year-Old Family History**</a>
+
+Thanks to his ancestry book (_zupu_) and a lot of persistence, a practising Taoist priest was able to trace his ancestry all the way back to 1195.
+
+<img src="/images/Vol%2021%20Issue%203/Family%20History/Zupu_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/">**Excavating the Past**</a>
 
 Writing a memoir involves personal experiences, digging deep into our memories and the emphasis on factual information.

@@ -1,6 +1,6 @@
 ---
 title: Director's Note
-permalink: /holding-area/vol-21/issue-3/oct-dec-2025/director-s-note/
+permalink: /vol-21/issue-3/oct-dec-2025/director-s-note/
 variant: markdown
 description: ""
 ---
