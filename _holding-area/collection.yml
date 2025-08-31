@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - An 800 Year Old Family History.md
       - Sample article.md
