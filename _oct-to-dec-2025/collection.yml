@@ -2,8 +2,6 @@ collections:
   oct-to-dec-2025:
     output: true
     order:
-      - An 800 Year Old Family History.md
-      - New Books on Singapore History.md
       - Director's Note.md
       - “Majulah Singapura” and Other Love Songs.md
       - “Majulah Singapura” Finally Repaired the Breach.md
@@ -14,5 +12,7 @@ collections:
       - "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s).md"
       - The House of Cheang.md
       - Luís de Camões in Asia.md
+      - An 800 Year Old Family History.md
       - Dutch Burghers in British Malaya.md
       - Excavating the Past.md
+      - New Books on Singapore History.md
