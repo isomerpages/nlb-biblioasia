@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2025:
     output: true
     order:
+      - An 800 Year Old Family History.md
       - New Books on Singapore History.md
       - Director's Note.md
       - “Majulah Singapura” and Other Love Songs.md
