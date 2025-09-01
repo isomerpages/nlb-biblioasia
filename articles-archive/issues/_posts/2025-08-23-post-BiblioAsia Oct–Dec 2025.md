@@ -14,12 +14,11 @@ variant: markdown
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/">“Majulah Singapura” and Other Love Songs </a><br>
 National anthems often begin life as something else. Singapore’s
-“Majulah Singapura” is no different. *Bernard T.G. Tan* . [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
-
+“Majulah Singapura” is no different. *Bernard T.G. Tan* . [(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Majulah_Singapura.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/">“Majulah Singapura” Finally Repaired the Breach </a><br>
-In a BiblioAsia+ podcast, music director Julian Wong reveals little-known details about the composer of Singapore’s national anthem. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow-.pdf)
+In a BiblioAsia+ podcast, music director Julian Wong reveals little-known details about the composer of Singapore’s national anthem. [(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Interview.pdf)
 
 
 
