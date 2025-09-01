@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/
-      button: Legal Deposit Legislation in Singapore
+      url: /vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/
+      button: A Recent History of Legal Deposit in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
