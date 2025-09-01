@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
       variant: center
   - infopic:
+      title: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
+      subtitle: Print
+      id: infopic
+      description: Reading surveys in the nation-building years reveal what
+        Singaporeans read and why it mattered.
+      button: READING IS FOR ALL
+      url: /vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/
+      image: /images/Vol 21 Issue 3/Bacalah Singapura/Bacalah_Topics.jpg
+      alt: Image alt text
+  - infopic:
       title: How a 500-Year-Old Map Became Fashion
       subtitle: Inspired by History
       id: infopic
@@ -1176,16 +1186,6 @@ sections:
       button: New Reads
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
-      alt: Image alt text
-  - infopic:
-      title: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
-      subtitle: Print
-      id: infopic
-      description: Reading surveys in the nation-building years reveal what
-        Singaporeans read and why it mattered.
-      button: READING IS FOR ALL
-      url: /vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/
-      image: /images/Vol 21 Issue 3/Bacalah Singapura/Bacalah_Topics.jpg
       alt: Image alt text
   - infopic:
       title: One Man’s Mission to Uncover Singapore’s Past
