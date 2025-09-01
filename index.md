@@ -1239,4 +1239,15 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
       image: /images/Vol 21 Issue 3/Majulah Singapura/anthem_main_Topics.jpg
       alt: “Majulah Singapura”
+  - infopic:
+      title: "Daylight Robbery: Singapore’s Shifting Time Zones"
+      subtitle: Nature and the Environment
+      id: infopic
+      description: In 1982, Singapore adjusted its time zone to follow Malaysia’s
+        national synchronisation. This was not the only instance that Singapore
+        changes time zone.
+      button: TIME DID NOT STAND STILL
+      url: /vol-21/issue-3/oct-dec-2025/singapore-time-zones/
+      image: /images/Vol 21 Issue 3/Daylight Robbery/Time_Zones_Topics.jpg
+      alt: Daylight Robbery
 ---
