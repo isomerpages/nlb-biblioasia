@@ -1250,4 +1250,15 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/singapore-time-zones/
       image: /images/Vol 21 Issue 3/Daylight Robbery/Time_Zones_Topics.jpg
       alt: Daylight Robbery
+  - infopic:
+      title: Luís de Camões in Asia
+      subtitle: People
+      id: infopic
+      description: Portugal’s most important poet was once imprisoned in Goa, saw
+        fighting in Ternate and worked as the Superintendent for the Dead and
+        Missing in Macau.
+      button: AUTHOR OF POEM, OS LUSÍADAS
+      url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
+      image: /images/Vol 21 Issue 3/Luis/luis_topics.jpg
+      alt: Luís de Camões in Asia
 ---
