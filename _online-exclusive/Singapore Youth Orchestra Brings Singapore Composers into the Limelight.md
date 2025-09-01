@@ -39,7 +39,7 @@ From the 1990s to 2011, the SYO continued to commission new works by composers s
 
 The world premiere of “Dance Suite” was performed by the SYO on 1 March 1982 at Victoria Concert Hall.
 
-Leong Yoon Pin (1931–2011) had been inspired by Malay folksongs “Katak Lompat” and “Ondeh Ondeh”, an Indian folksong called “The Highway”_,_ and Chinese folksongs “Counting Ducks’ Eggs” and “Smile When the Sun Shines”_._ In a 1982 interview, Leong said, “It seems so contrived to say that I’m influenced by many cultures in Singapore, but one can’t run away from them...” Leong was also inspired by poetry, particularly Tang poets such as Li Po and Tu Mu.[^6]
+Leong Yoon Pin (1931–2011) had been inspired by Malay folksongs “Katak Lompat” and “Ondeh Ondeh”, an Indian folksong called “The Highway”_,_ and Chinese folksongs “Counting Ducks’ Eggs” and “Smile When the Sun Shines”_._ In a 1982 interview, Leong said, “It seems so contrived to say that I’m influenced by many cultures in Singapore, but one can’t run away from them...” Leong was also inspired by poetry, particularly Tang poets such as Li Bai and Du Mu.[^6]
 
 “Dance Suite” incorporates interesting compositional techniques like a 12-tone introduction (where all 12 notes of the chromatic scale are sounded equally often, avoiding the emphasis of any one note), alternating combinations of groups of instruments, and varying rhythmic structures of the chosen themes. In doing so, Leong created sound textures that evoked the sentiments of the original songs.
 
@@ -95,7 +95,7 @@ In 1980, Tsao was offered a scholarship to Stanford University’s doctoral prog
 
 #### **“Fanfare for Joy” by Leong Yoon Pin (1986)**
 
-The Singapore Youth Training Orchestra was inaugurated in September 1986. As the training arm of the SYO, its objective was to give less experienced orchestra players an opportunity to learn the basics of orchestra playing. Eric Lee, a double bassist in the Singapore Symphony Orchestra, was its conductor.
+The Singapore Youth Training Orchestra was inaugurated in September 1986. As the training arm of the SYO, its objective was to give less experienced orchestra players an opportunity to learn the basics of orchestra playing. Eric Lee Tsu Hock, a double bassist in the Singapore Symphony Orchestra, was its conductor.
 
 <div style="background-color: white;">
 <br>
@@ -141,7 +141,7 @@ Tan was the chairman of the SYO’s Management Committee from 1980–2002. A phy
 
 #### **“Undaunted” by J.J. De Souza (1984)**
 
-From 1981 to 1989, under Goh, the SYO would present an annual pop concert in December to mark the end of each season. They would perform contemporary popular pieces such as film scores, pop hits and choral works. For the 1985 concert, John James de Souza (J.J. de Souza) was commissioned to write an orchestral arrangement of his composition “Undaunted” (the theme song for Singapore’s “25 Years of Nation Building” celebrations), originally created in collaboration with Seah Lye Huat, his colleague at the Ministry of Education’s Extra-Curricular Activities Branch, in 1985.[^29]
+From 1981 to 1989, under Goh, the SYO would present an annual "pops" concert in December to mark the end of each season. They would perform contemporary popular pieces such as film scores, pop hits and choral works. For the 1985 concert, John James de Souza (J.J. de Souza) was commissioned to write an orchestral arrangement of his composition “Undaunted” (the theme song for Singapore’s “25 Years of Nation Building” celebrations), originally created in collaboration with Seah Lye Huat, his colleague at the Ministry of Education’s Extra-Curricular Activities Branch, in 1985.[^29]
 
 <div style="background-color: white;">
 <br>
