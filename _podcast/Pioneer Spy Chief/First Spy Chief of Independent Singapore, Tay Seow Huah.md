@@ -33,31 +33,30 @@ a giant role serving a newly independent Singapore.</p>
 <p></p>
 <p></p>
 <h4><strong>What Simon Talked About</strong></h4>
-<p>00:00 – The 1974 Laju hijacking and its significance
-<br>02:00 – Tay Seow Huah’s legacy and role in Singapore’s security operations
-<br>04:00 – Why Simon’s wrote the book Enigmas
-<br>06:00 – Background on the Laju hijackers and geopolitical tensions in
-the 1970s
-<br>08:00 – Singapore’s strategic and diplomatic response to the Laju incident
-<br>10:00 – Why Lee Kuan Yew appointed Tay to lead the Special Branch
-<br>12:00 – Challenges of writing about classified events and uncovering the
-past
-<br>14:00 – Insights from S. R. Nathan’s memoir and limited disclosures
-<br>16:00 – Why Tay did not accompany hijackers to Kuwait although he volunteered
-<br>18:00 – Tay’s childhood in Malaya and educational achievements
-<br>20:00 – Speculations about Tay’s post-university activities before joining
-civil service
-<br>22:00 – Comparison between Tay and James Bond
-<br>24:00 – Writing approach and archival research
-<br>26:00 – How Simon’s relationship with his father changed after Tay’s heart
-attack
-<br>28:00 – Tay’s declining health and early retirement from civil service
-<br>30:00 – Tay’s struggles in his retirement years
-<br>32:00 – Simon’s reflections on his grandmother’s strength and complexity
-<br>34:00 – Tay’s relationship with food and how childhood hunger shaped his
-habits
-<br>36:00 – Tay’s party trick
-<br>38:00 – Simon on his public service journey</p>
+<p>00:00 – The 1974 Laju hijacking and its significance</p>
+<p>02:03 – Tay Seow Huah’s legacy and role in Singapore’s security operations</p>
+<p>07:37 – Singapore’s strategic and diplomatic response to the Laju incident</p>
+<p>10:38 – Why Lee Kuan Yew appointed Tay to lead the Special Branch</p>
+<p>11:50 – Background on the Laju hijackers and geopolitical tensions in
+the 1970s</p>
+<p>16:39 – Insights from S. R. Nathan’s memoir</p>
+<p>17:38 – Why Tay did not accompany hijackers to Kuwait although he volunteered</p>
+<p>17:42– Challenges of writing about classified events and uncovering the
+past</p>
+<p>19:05 – Tay’s childhood in Malaya and educational achievements</p>
+<p>19:56 – Speculations about Tay’s post-university activities before joining
+civil service</p>
+<p>22:23 – Comparison between Tay and James Bond</p>
+<p>28:02 – How Simon’s relationship with his father changed after Tay’s heart
+attack</p>
+<p>30:26 – Tay’s declining health and early retirement from civil service</p>
+<p>32:19 – Tay’s struggles in his retirement years</p>
+<p>33:03 – Simon’s reflections on his grandmother’s strength and complexity</p>
+<p>35:13 – How Tay’s childhood hunger shaped his habits</p>
+<p>35:57 – Tay’s party trick</p>
+<p>38:09 – Simon on his public service journey</p>
+<p>43:45 – Why Simon’s wrote the book <em>Enigmas</em>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
