@@ -1,4 +1,5 @@
 collections:
   exhibition-eng-holding-area:
     output: true
-    order: []
+    order:
+      - Present/.keep
