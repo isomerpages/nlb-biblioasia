@@ -26,7 +26,7 @@ In a BiblioAsia+ podcast, music director Julian Wong reveals little-known detail
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/">Women Photographers in Singapore and Malaya </a><br>
 In the male-dominated world of 1940s and 1950s photography,
 three women in Singapore and Malaya found different ways to
-participate in the profession. *Zhuang Wubin*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Women_Photographerspdf)
+participate in the profession. *Zhuang Wubin*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Women_Photographers.pdf)
 
 
 
@@ -77,7 +77,7 @@ A murder mystery sheds light on the little-known story of the Ceylonese pioneers
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/">Excavating the Past </a><br>
-Writing a memoir involves personal experiences, digging deep into our memories and the emphasis on factual information. *Meira Chand*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___ Excavating_the_Past.pdf)
+Writing a memoir involves personal experiences, digging deep into our memories and the emphasis on factual information. *Meira Chand*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Excavating_the_Past.pdf)
 
 
 
