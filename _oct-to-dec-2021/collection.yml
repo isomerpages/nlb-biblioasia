@@ -1,0 +1,20 @@
+collections:
+  oct-to-dec-2021:
+    output: true
+    order:
+      - directors-note.md
+      - Comics Past And Present/.keep
+      - "Comics Past And Present/Singapore Comics: Panels Past and Present.md"
+      - Comics Past And Present/A List of Singapore Comics.md
+      - Unravelling the Mystery of Ubin's German Girl Shrine.md
+      - The Role of Foraging in Malay Cuisine.md
+      - the-modern-girls-of-pre-war-singapore.md
+      - Ancient Gold in Southeast Asia.md
+      - Strange Visions of Singapore and the Malay Peninsula.md
+      - the-story-of-changi-airport/.keep
+      - the-story-of-changi-airport/How Changi Airport Came  To Be.md
+      - "the-story-of-changi-airport/More About Changi Airport: A Photo Essay.md"
+      - "Carving Cultural Imprints: The Hui'an in Singapore.md"
+      - Exhibiting Photography in Prewar Singapore.md
+      - "Making the Invisible Visible: Restoring the Statues of St Joseph’s
+        Church on Victoria Street.md"
