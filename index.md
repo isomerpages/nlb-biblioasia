@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
       variant: center
   - infopic:
+      title: The Making of "Majulah Singapura" as We Know It
+      subtitle: podcast
+      id: infopic
+      description: Emeritus Professor Bernard Tan plays the different versions of
+        "Majulah Singapura" on his piano.
+      button: listen to the episode
+      url: /podcast/the-making-of-majulah-singapura-as-we-know-it-bernard-tan/
+      image: /images/Podcast/bernard_tan_600_by_400.jpg
+      alt: Making of "Majulah Singapura"
+  - infopic:
       title: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
       subtitle: Print
       id: infopic
