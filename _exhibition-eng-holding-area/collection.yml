@@ -2,4 +2,4 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - Present/.keep
+      - The Present/.keep
