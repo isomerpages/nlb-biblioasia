@@ -5,6 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: The Present
 ---
+<img src="/images/Reading%20Club%20Exhibition/Present/present_readingclub_2.png" style="width: 100%;"> 
+	
+
 **Established**:	18 October 1998
 
 **Venue**:	library@chinatown
@@ -23,4 +26,3 @@ sgwritings@gmail.com
 
 
 **About**:	SG Writings Reading Club, originally founded as the Tea Chapter Reading Club on 18 October 1998, is dedicated to fostering a love of reading whilst providing a platform for literary discussion and discovery. The club's mission encompasses encouraging regular reading habits, facilitating the exchange of literary insights, exploring the essence of great works, enhancing members' appreciation abilities, and nurturing their inherent artistic sensibilities. Over its more than two-decade history, the club has organised over 200 reading activities, demonstrating its commitment to sustained literary engagement. The club's book selections reflect remarkable diversity, spanning world literary classics, Chinese literature, and local works, alongside titles in philosophy, history, economics, management, travel writing, motivational literature, and biographical works. This breadth ensures that members encounter varied perspectives and genres, enriching their reading experience and broadening their intellectual horizons.
-
