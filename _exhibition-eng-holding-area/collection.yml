@@ -2,7 +2,6 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Present/3G Reading Club.md
       - The Present/.keep
       - The Present/Xin Zhi Reading Club.md
       - The Present/SG Writings Reading Club.md
@@ -12,3 +11,4 @@ collections:
       - The Present/Hanlin Reading Club.md
       - The Present/Interacting Point Chinese Book Club.md
       - The Present/Taxi Shifu and Friends Reading Club.md
+      - The Present/3G Reading Club.md
