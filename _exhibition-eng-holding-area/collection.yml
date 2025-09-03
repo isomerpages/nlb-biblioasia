@@ -2,7 +2,6 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Present/Yio Chu Kang CC Chinese Reading Club.md
       - The Present/.keep
       - The Present/Xin Zhi Reading Club.md
       - The Present/SG Writings Reading Club.md
@@ -16,3 +15,4 @@ collections:
       - The Present/RIRIXIN Reading Club.md
       - The Present/Clementi CC Chinese Reading Club.md
       - The Present/Bishan CC Women‘s Executive Committee Reading Club.md
+      - The Present/Yio Chu Kang CC Chinese Reading Club.md
