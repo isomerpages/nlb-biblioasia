@@ -18,6 +18,10 @@ Incorporating materials from the [National Archives of Singapore](https://www.na
 
 Led by Void Deck Cat, the game’s in-house mascot and AI chatbot, players receive clues that bring them on quests around Singapore. As they explore different locations, players can text their answers to the cat or ask for hints if they are lost.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/Game_Screenshot_4rev.jpg" style="width: 60%;">Interacting with Void Deck Cat.&nbsp;<i>Courtesy of Lim Yee Hung.</i></div>
+
 HiddenSG has attracted over 75,000 players since its launch in mid-2022, garnering rave reviews about its interactive and historical elements. The game has since expanded internationally, with Hidden Aotearoa launching in New Zealand in December 2024 in a partnership with one of the country’s largest Māori tribes.[^1] There are plans to bring similar experiences to Australia, the United Kingdom and the United States.
 
 <div style="background-color: white;">
