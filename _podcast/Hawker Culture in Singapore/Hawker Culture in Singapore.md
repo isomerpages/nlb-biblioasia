@@ -26,23 +26,23 @@ colonial period and what hawker centres have come to represent.</p>
 <p>00:00 – How the term “hawker” is understood differently in Singapore compared
 to in other countries
 <br>04:44 – When hawking might have started in Singapore
-<br>05:32 – Preconditions for hawking
-<br>07:40 – Colonial records, and hygiene and urban discipline issues during
+<br>05:20 – Preconditions for hawking
+<br>07:11 – Colonial records, and hygiene and urban discipline issues during
 colonial times
-<br>09:56 – Why hawking was an attractive and accessible job then
-<br>11:00 – Challenges colonial authorities faced in controlling hawkers
-<br>11:49 – Post-independence reforms in hawking
-<br>14:00 – Establishment of hawker centres and their purpose
-<br>16:20 – How rent subsidies keep hawker food affordable
-<br>18:08 – Origins of the first hawker centre and differences from hawker
+<br>09:06 – Why hawking was an attractive and accessible job then
+<br>10:39 – Challenges colonial authorities faced in controlling hawkers
+<br>11:47 – Post-independence reforms in hawking
+<br>14:25 – Establishment of hawker centres and their purpose
+<br>15:47 – How rent subsidies keep hawker food affordable
+<br>17:43 – Origins of the first hawker centre and differences from hawker
 shelters
-<br>21:22 – Loss of food heritage
-<br>24:00 – Gentrification in hawker centres
-<br>26:00 – Hawking as a vocation in the past and today
-<br>30:10 – Why Singapore’s hawker culture won the UNESCO recognition for
+<br>20:12 – Loss of food heritage
+<br>23:27 – Gentrification in hawker centres
+<br>25:27 – Hawking as a vocation in the past and today
+<br>27:44 – Why Singapore’s hawker culture won the UNESCO recognition for
 intangible cultural heritage
-<br>31:15 – Contemporary political use of hawker centres
-<br>33:00 – What Ryan is working on and what his favourite hawker centre is
+<br>30:04 – Contemporary political use of hawker centres
+<br>31:51 – What Ryan is working on and what his favourite hawker centre is
 <br>36:47 – Hawking is…</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
