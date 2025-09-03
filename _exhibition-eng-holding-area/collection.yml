@@ -2,6 +2,7 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
+      - The Present/CEO Reading Club.md
       - The Present/.keep
       - The Present/Xin Zhi Reading Club.md
       - The Present/SG Writings Reading Club.md
