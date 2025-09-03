@@ -1,5 +1,5 @@
 ---
-title: An 800 Year Old Family History
+title: "An 800-Year-Old Family History"
 permalink: /vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/
 variant: markdown
 description: ""

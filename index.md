@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
       variant: center
   - infopic:
+      title: The Making of "Majulah Singapura" as We Know It
+      subtitle: podcast
+      id: infopic
+      description: Emeritus Professor Bernard Tan plays the different versions of
+        "Majulah Singapura" on his piano.
+      button: listen to the episode
+      url: /podcast/the-making-of-majulah-singapura-as-we-know-it-bernard-tan/
+      image: /images/Podcast/bernard_tan_600_by_400.jpg
+      alt: Making of "Majulah Singapura"
+  - infopic:
       title: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
       subtitle: Print
       id: infopic
@@ -1239,4 +1249,26 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
       image: /images/Vol 21 Issue 3/Majulah Singapura/anthem_main_Topics.jpg
       alt: “Majulah Singapura”
+  - infopic:
+      title: "Daylight Robbery: Singapore’s Shifting Time Zones"
+      subtitle: Nature and the Environment
+      id: infopic
+      description: In 1982, Singapore adjusted its time zone to follow Malaysia’s
+        national synchronisation. This was not the only instance that Singapore
+        changes time zone.
+      button: TIME DID NOT STAND STILL
+      url: /vol-21/issue-3/oct-dec-2025/singapore-time-zones/
+      image: /images/Vol 21 Issue 3/Daylight Robbery/Time_Zones_Topics.jpg
+      alt: Daylight Robbery
+  - infopic:
+      title: Luís de Camões in Asia
+      subtitle: People
+      id: infopic
+      description: Portugal’s most important poet was once imprisoned in Goa, saw
+        fighting in Ternate and worked as the Superintendent for the Dead and
+        Missing in Macau.
+      button: AUTHOR OF POEM, OS LUSÍADAS
+      url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
+      image: /images/Vol 21 Issue 3/Luis/luis_topics.jpg
+      alt: Luís de Camões in Asia
 ---
