@@ -2,7 +2,6 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Present/Interacting Point Chinese Book Club.md
       - The Present/.keep
       - The Present/Xin Zhi Reading Club.md
       - The Present/SG Writings Reading Club.md
@@ -10,3 +9,4 @@ collections:
       - The Present/Prison Chinese Reading Club.md
       - The Present/Women Prison Chinese Reading Club.md
       - The Present/Hanlin Reading Club.md
+      - The Present/Interacting Point Chinese Book Club.md
