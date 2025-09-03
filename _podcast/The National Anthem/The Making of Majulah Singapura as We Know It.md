@@ -25,57 +25,23 @@ differ on his piano.&nbsp;
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Prof Tan Talked About</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>00:00 – Introduction to Singapore’s national anthem</p>
-</li>
-<li>
-<p>03:16 – How “Majulah Singapura” came about</p>
-</li>
-<li>
-<p>04:14 – Zubir Said’s composition of “Majulah Singapura”</p>
-</li>
-<li>
-<p>06:18 – Adoption of the anthem and its unauthorised shortening</p>
-</li>
-<li>
-<p>09:24 – Comparison of different versions and musical implications</p>
-</li>
-<li>
-<p>15:18 – Prof Tan’s detective work to verify Zubir Said’s original manuscript</p>
-</li>
-<li>
-<p>19:31 – Fanfare introduction and early concert arrangements</p>
-</li>
-<li>
-<p>22:22 – Government-led initiative to reorchestrate the anthem</p>
-</li>
-<li>
-<p>25:48 – Lowering the anthem’s key from G major to F major</p>
-</li>
-<li>
-<p>27:45 – Lee Kuan Yew’s suggestion on the anthem</p>
-</li>
-<li>
-<p>33:18 – Controversial arrangements of "Majulah Singapura"</p>
-</li>
-<li>
-<p>36:57 – Origin of “Negaraku”, Malaysia’s national anthem &nbsp;</p>
-</li>
-<li>
-<p>40:22 – How Prof Tan juggles his roles as a composer, professor of physics
-and SSO board member</p>
-</li>
-<li>
-<p>42:51 – How he helped found the SSO</p>
-</li>
-<li>
-<p>48:44 – His career at NUS</p>
-</li>
-<li>
-<p>51:20 – Similarities between scientific research to music writing</p>
-</li>
-</ul>
+<p>00:00 – Introduction to Singapore’s national anthem
+<br>03:16 – How “Majulah Singapura” came about
+<br>04:14 – Zubir Said’s composition of “Majulah Singapura”
+<br>06:18 – Adoption of the anthem and its unauthorised shortening
+<br>09:24 – Comparison of different versions and musical implications
+<br>15:18 – Prof Tan’s detective work to verify Zubir Said’s original manuscript
+<br>19:31 – Fanfare introduction and early concert arrangements
+<br>22:22 – Government-led initiative to reorchestrate the anthem
+<br>25:48 – Lowering the anthem’s key from G major to F major
+<br>27:45 – Lee Kuan Yew’s suggestion on the anthem
+<br>33:18 – Controversial arrangements of "Majulah Singapura"
+<br>36:57 – Origin of “Negaraku”, Malaysia’s national anthem &nbsp;
+<br>40:22 – How Prof Tan juggles his roles as a composer, professor of physics
+and SSO board member
+<br>42:51 – How he helped found the SSO
+<br>48:44 – His career at NUS
+<br>51:20 – Similarities between scientific research to music writing</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About the Guest</summary>
