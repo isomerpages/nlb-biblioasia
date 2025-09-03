@@ -26,7 +26,7 @@ HiddenSG has attracted over 75,000 players since its launch in mid-2022, garneri
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/hiddensg_website.jpg" style="width: 80%;">Range of outdoor escape games offered by HiddenSG. <i>Screengrab of HiddenSG website.</i></div>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/People_Playing__1_.jpg" style="width: 80%;">Players during a game. <i>Courtesy of Lim Yee Hung.</i></div>
 
 #### **Unearthing the Past Through the National Archives**
 
