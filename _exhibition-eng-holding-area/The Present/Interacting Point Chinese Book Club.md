@@ -28,13 +28,10 @@ Social Media:	<a rel="noopener noreferrer" target="_blank" href="https://www.fac
 *Mission* <br>
 To provide a platform for adult and senior readers to exchange thoughts and share wisdom
 
-*Vision * <br>
+*Vision* <br>
 To become a paradise for seniors' reading and growth
 
-*Goals * <br>
+*Goals* <br>
 Through reading and exchange, increase wisdom, enrich life, illuminate the golden years, and create a scholarly society together. 
 
 The reading club combines in-person and online Zoom formats, discussing domestic and international literary classics, translated works, and books published by local authors. Authors are often invited to attend in person or online to interact with participants.
-
-
-
