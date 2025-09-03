@@ -19,16 +19,17 @@ the refugees spent their days in the camp and their lives after Singapore.</p>
 <p></p>
 <h4><strong>What Rebecca Talked About</strong></h4>
 <p>﻿00:00 – Background on the Hawkins Road camp
-<br>01:17 – Providing shelter and food
-<br>04:59 – Involvement of volunteers
-<br>06:05 – Daily routines
-<br>07:08 – Interviews with former residents
-<br>09:39 – Educational opportunities for refugees
-<br>13:12 – Stories of escape and adaptation
-<br>16:43 – Refugees’ contributions to the local community
-<br>19:18 – End of camp operations and relocation
-<br>20:42 – Legacy of the Hawkins Road camp
-<br>24:26 – Libraries and archives are...</p>
+<br>03:18 – Life in the refugee camp
+<br>08:08 – Singapore’s plan for long-term refugees
+<br>10:17 – What the refugees said about Singapore
+<br>11:20 – Singapore's evolving refugee policy
+<br>14:41 – How Rebecca knew about the refugee camp
+<br>15:25 – Rebecca’s research
+<br>16:49 – Interview with a Hawkins Road camp refugee who still lives in
+Singapore
+<br>22:07 – Being a librarian at Toa Payoh Public Library
+<br>24:26 – The libraries and archives are...</p>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
