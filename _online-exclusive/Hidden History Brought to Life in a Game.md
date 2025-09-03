@@ -20,7 +20,7 @@ Led by Void Deck Cat, the game’s in-house mascot and AI chatbot, players recei
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/Game_Screenshot_4rev.jpg" style="width: 60%;">Interacting with Void Deck Cat.&nbsp;<i>Courtesy of Lim Yee Hung.</i></div>
+<img src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/Game_Screenshot_4rev.jpg" style="width: 45%;">Interacting with Void Deck Cat.&nbsp;<i>Courtesy of Lim Yee Hung.</i></div>
 
 HiddenSG has attracted over 75,000 players since its launch in mid-2022, garnering rave reviews about its interactive and historical elements. The game has since expanded internationally, with Hidden Aotearoa launching in New Zealand in December 2024 in a partnership with one of the country’s largest Māori tribes.[^1] There are plans to bring similar experiences to Australia, the United Kingdom and the United States.
 
