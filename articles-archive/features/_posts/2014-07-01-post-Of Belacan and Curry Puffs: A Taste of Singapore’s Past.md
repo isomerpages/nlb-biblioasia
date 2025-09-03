@@ -5,11 +5,12 @@ permalink: /vol-10/issue-2/jul-sep-2014/belachan-curry-puff-singapore-food-herit
 image: /images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 #### **Bonny Tan** pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore's multicultural character.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg" style="width:70%;">
 <i>Belacan</i> is used extensively in Malayan cooking and gives it its distinctive taste.</div>
 
@@ -40,12 +41,12 @@ The pungent <i>belacan</i> is manufactured through a crude process of fermenting
 <i>Belacan</i> may have been indispensable for flavouring local food, but newspapers reveal that its overpowering olfactory presence, particularly in the 19th and early 20th centuries when Singapore had several belacan factories by the coast, offended the European population's sense of smell. <i>Belacan</i> naturally became one of the few local food items written about in English newspapers, almost always because of its potent stink. An 1891 letter from "one with a sensitive nose" complaining about the nefarious effusions from a government licensed <i>belacan</i> factory along Tanjong Rhu, a coastal health getaway in colonial Singapore, described it thus: "The odour of <i>blachang</i> [sic] is peculiarly Asiatic, there is nothing in Europe to contend with it; it is ghastly, penetrating and abominable... if a tired city man happens to land at ‘Sandy Point’ to reach Tanjong Katong... then a whiff comes from the <i>blachang</i> factory that makes his hair stand on end, and fills him with criminal impulses”.[^10]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_packing.jpg" style="width:60%;">
 <i>Belacan</i> in traditional packing.</div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_bought_by_Portuguese.jpg" style="width:70%;">
 <i>Belacan</i> is thought to have been brought to Southeast Asia by the Portuguese.</div>
 
@@ -62,19 +63,19 @@ A scan through digitised British newspapers of the early 20th century show that 
 The famous Polar Cafe is believed to have created the first baked curry puff in Singapore. The recipe for the spicy chicken curry filling supposedly came from an Indian merchant while the flaky and buttery puff pastry was a British influence.[^27] The resulting Polar curry puff was a product of the ingenious marriage between colonial and colonised taste buds. Founded in the mid-1920s by Hong Konger Chan Hinky, who arrived in Singapore with little money, the Western-style café along High Street sold baked goods and ice cream, which soon became popular with the parliamentarians, lawyers and the rich who worked and lived around the Supreme Court and Parliament House. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/chan_hinky.jpg" style="width:60%;">
-Founder of Polar Cafe, Chan Hinky, arrived in Singapore in the early 20th century, with little to his name. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
+Founder of Polar Cafe, Chan Hinky, arrived in Singapore in the early 20th century, with little to his name. <i>Courtesy of Polar Puffs &amp; Cakes Pte Ltd.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/polar_cafe.jpg" style="width:70%;">
-The original Polar Cafe was located along High Street in the 1920s and popular with those who frequented the area. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
+The original Polar Cafe was located along High Street in the 1920s and popular with those who frequented the area. <i>Courtesy of Polar Puffs &amp; Cakes Pte Ltd.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/curry_puff.jpg" style="width:70%;">
-Established in the 1920s, the flaky polar puff can now be found island-wide in convenience stores and supermarkets. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
+Established in the 1920s, the flaky polar puff can now be found island-wide in convenience stores and supermarkets. <i>Courtesy of Polar Puffs &amp; Cakes Pte Ltd.</i></div>
 
 By the 1980s, frozen versions of this baked curry puff were being mass produced for sale, and included exotic variations such as the black pepper chicken puff. These Western curry puffs were shaped and served as pies, with hot meat and potato filling encased in flaky puff pastry and eaten in a restaurant setting. Today, these trademark snacks known as “Polar puffs” come with a variety of fillings and are sold everywhere in Singapore, including petrol stations, convenience stores and supermarkets. 
 
@@ -85,7 +86,7 @@ Old Chang Kee probably has redefined and popularised what is today considered a 
 Linda Neo’s article[^31] details how in the 1980s, Old Chang Kee’s founder, Chang Swang Boo, had assistants bring his prepared curry puffs from Albert Street around the corner to MacKenzie Lane where they were deep-fried on the spot for waiting customers. These curry puffs were thereafter associated with the Rex cinema along MacKenzie Lane, thus earning it its early nickname – Rex curry puff. With two other curry puff competitors coming on board, MacKenzie Lane soon came to be called <i>Kali Pup</i> lane – a play on the Chinese mispronunciation of the words curry puff.[^32] 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/old_chang_kee.jpg">
 Established in the 1980s, Old Chang Kee is now a household name and is best known for its curry puffs. <i>Courtesy of Old Chang Kee Ltd.</i></div>
 
@@ -94,7 +95,7 @@ Established in the 1980s, Old Chang Kee is now a household name and is best know
 In exploring iconic local dishes, newspaper articles help paint a multi-dimensional picture of local dishes and their consumption over time. In the case of <i>belacan</i>, these articles reveal how local flavours influenced dishes across racial boundaries, signaling the blurring of lines between communities. Similarly, the humble curry puff is truly an East meets West success story, drawing influences from both India and Britain before being adopted and then adapted by cooks in Singapore and Malaysia. Food is a canvas upon which cultures and communities are able to create new narratives, drawing together and integrating different peoples and races, making Singapore a true (and tasty) melting pot in the process.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/filling_and_sealing.jpg" style="width:70%;">
 Workers filling and sealing curry puffs to be baked and sold. <i>Image from currypuff.com. All rights reserved.</i></div>
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
@@ -115,19 +116,19 @@ Brazil, D. (1991). *[Street smart Singapore](https://eservice.nlb.gov.sg/item_ho
 
 Butcher, J.G. (1979). *[The British in Malaya, 1880–1941: The social history of a European community in colonial South-East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870)*. Kuala Lumpur: Oxford University Press. (Call no.: RSING 301.4512105951033 BUT)
 
-Cheung, S.C.H., & Tan, C.B. (Eds.). (2007). *[Food and foodways in Asia: Resource, tradition and cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884)*. London: Routledge. (Call no.: RSEA 394.12095 FOO)
+Cheung, S.C.H., &amp; Tan, C.B. (Eds.). (2007). *[Food and foodways in Asia: Resource, tradition and cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884)*. London: Routledge. (Call no.: RSEA 394.12095 FOO)
 
 Leong-Salobir, C. (2011). *[Food culture in colonial Asia: A taste of empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765)*. New York: Routledge. (Call no.: RSING 394.12095 LEO)
 
 Peet, G.L. (2011). *[Within Changi’s walls: A record of civilian internment in World War II](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13796733)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.53175957092 PEE)
 
-Mazelan bin Anuar., Law, C., & Soh, W.Y. (2012, August). <i>Challenges of digitizing vernacular newspapers & preliminary study of user behaviour on newspaperSG’s multilingual UI</i> [Paper presented at IFLA Pre-Conference in Mikkeli, Finland]. Retrieved from IFLA website.
+Mazelan bin Anuar., Law, C., &amp; Soh, W.Y. (2012, August). <i>Challenges of digitizing vernacular newspapers &amp; preliminary study of user behaviour on newspaperSG’s multilingual UI</i> [Paper presented at IFLA Pre-Conference in Mikkeli, Finland]. Retrieved from IFLA website.
 
 Tan, C.B. (Ed.). (2011). *[Chinese food and foodways in Southeast Asia and beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14100852)*. Singapore: NUS Press. (Call no.: RSEA 394.12089951059 CHI)
 
 Turnbull, C.M. (1995). *[Dateline Singapore: 150 years of the Straits Times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471414)*. Singapore: Times Editions for Singapore Press Holdings. (Call no.: RSING 079.5957 TUR)
 
-Wu, D.Y.H., & Tan, C.B. (Eds.). (2001). *[Changing Chinese foodways in Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10858495)*. Hong Kong: The Chinese United Nation Press. (Call no.: RSING 641.300951 CHA)
+Wu, D.Y.H., &amp; Tan, C.B. (Eds.). (2001). *[Changing Chinese foodways in Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10858495)*. Hong Kong: The Chinese United Nation Press. (Call no.: RSING 641.300951 CHA)
 
 **Newspaper articles**
 
@@ -255,7 +256,7 @@ The British Newspaper Archive.
 
 [^24]: Particularly The women’s page. (1917, June 8). <i>The Land</i>, pp. 10–11. Retrieved from The Australian Trove.
 
-[^25]: Even into the 1960s, curry puffs seemed to be the norm for Christmas delights in children’s parties. [300 children go gay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601220-1.2.84). (1960, December 20). <i>The Singapore Free Press</i>, p. 8. Retrieved from NewspaperSG.
+[^25]: [1,200 children entertained](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19361224-1.2.82). (1936, 24 December).&nbsp;_The Straits Budget_, p. 14;&nbsp;[1,500 children enjoy Rotary Christmas Party](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19391216-1.2.56). (1939, 16 December).&nbsp;_The Straits Times_, p. 11. Retrieved from NewspaperSG. \[Note: Even into the 1960s, curry puffs seemed to be the norm for Christmas delights in children’s parties.&nbsp;See&nbsp;[300 children go gay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601220-1.2.84). (1960, December 20).&nbsp;_The Singapore Free Press_, p. 8. Retrieved from NewspaperSG.\]
 
 [^26]: [Page 1 Advertisements Column 1: Adelphi Hotel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320122-1.2.4.1). (1932, January 22). <i>The Singapore Free Press</i>, p. 1. Retrieved from NewspaperSG.
 
