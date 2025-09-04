@@ -31,33 +31,18 @@ third_nav_title: The Present
 <a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/tbas-graceful-life/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2014a.png" style="width: 100%;"> </a>
 <a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/cui-ying/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2014b.png" style="width: 100%;"> </a>
 <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2015.png" style="width: 100%;">
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/spiritual-wealth/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2015a.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/qing-history/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2015b.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/bukit-timah-literary-centre/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2015_2.png" style="width: 100%;"> </a>
-
-<img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2018.png" style="width: 100%;">
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/taiji/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2018a.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/tone/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2018b.png" style="width: 100%;"> </a>
-
-<img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2019.png" style="width: 100%;"> 
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/han-cultural/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2019a.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/xin-yue-community/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2019b.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/reading-through-turbulent-times/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2019c.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/growing-parents-reading-club/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2020.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/sg-happiness-study/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2021.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/yue-yi/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2022.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/youth-readers-club/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2023.png" style="width: 100%;"> </a>
-
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/starry-rain-book-house/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2024.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/spiritual-wealth/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2015a.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/qing-history/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2015b.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/bukit-timah-literary-centre/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2015c.png" style="width: 100%;"> </a>
+<img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2018.png" style="width: 100%;">
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/taiji/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2018a.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/tone/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2018b.png" style="width: 100%;"> </a>
+<img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2019.png" style="width: 100%;"> 
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/han-cultural/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2019a.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/xin-yue-community/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2019b.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/reading-through-turbulent-times/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2019c.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/growing-parents-reading-club/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2020.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/sg-happiness-study/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2021.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/yue-yi/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2022.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/youth-readers-club/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2023.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/starry-rain-book-house/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2024.png" style="width: 100%;"> </a>
