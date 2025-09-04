@@ -34,9 +34,3 @@ Help 300 million book friends benefit from reading
 * Equality and respect
 * Gratitude, feedback and help
 * Lifelong growth
-
-
-
-
-
-
