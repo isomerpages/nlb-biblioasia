@@ -25,31 +25,31 @@ third_nav_title: The Present
 
 <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2005.png" style="width: 100%;"> 
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/interacting-point/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2005a.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/interacting-point/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2005a.png" style="width: 100%;"> </a>
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/taxi-shifu-and-friends/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2005b.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/taxi-shifu-and-friends/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2005b.png" style="width: 100%;"> </a>
 
-<img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2006.png" style="width: 100%;">
+<img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2006.png" style="width: 100%;">
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/3g/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2006a.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/3g/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2006a.png" style="width: 100%;"> </a>
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/ririxin/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2006b.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/ririxin/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2006b.png" style="width: 100%;"> </a>
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/clementi-cc/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2007.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/clementi-cc/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2007.png" style="width: 100%;"> </a>
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/bishan-cc/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2008.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/bishan-cc/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2008.png" style="width: 100%;"> </a>
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/yio-chu-kang/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2009.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/yio-chu-kang/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2009.png" style="width: 100%;"> </a>
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/xin-sheng/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2010.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/xin-sheng/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2010.png" style="width: 100%;"> </a>
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/sharing/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2013.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/sharing/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2013.png" style="width: 100%;"> </a>
 
-<img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2014.png" style="width: 100%;"> 
+<img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2014.png" style="width: 100%;"> 
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/tbas-graceful-life/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2014a.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/tbas-graceful-life/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2014a.png" style="width: 100%;"> </a>
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/cui-ying/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2014b.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/cui-ying/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2014b.png" style="width: 100%;"> </a>
 
 <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2015.png" style="width: 100%;">
 
