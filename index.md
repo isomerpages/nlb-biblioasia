@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
       variant: center
   - infopic:
+      title: One Man’s Mission to Uncover Singapore’s Past
+      subtitle: Inspired by History
+      id: infopic
+      description: From leading heritage walks to educating on social media platforms,
+        Ho Yong Min is reintroducing the history of Singapore’s urban landscape.
+      button: THE URBANIST SINGAPORE
+      alt: The Urban Heritage Explorer
+      url: /people/2025/8/ho-yong-min-urbanist-singapore/
+      image: /images/Online Only Articles/The Urban Heritage
+        Explorer/Yong_Tour_Topics.jpg
+  - infopic:
       title: The Making of "Majulah Singapura" as We Know It
       subtitle: podcast
       id: infopic
@@ -1197,17 +1208,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: One Man’s Mission to Uncover Singapore’s Past
-      subtitle: Inspired by History
-      id: infopic
-      description: From leading heritage walks to educating on social media platforms,
-        Ho Yong Min is reintroducing the history of Singapore’s urban landscape.
-      button: THE URBANIST SINGAPORE
-      alt: The Urban Heritage Explorer
-      url: /people/2025/8/ho-yong-min-urbanist-singapore/
-      image: /images/Online Only Articles/The Urban Heritage
-        Explorer/Yong_Tour_Topics.jpg
   - infopic:
       title: Dutch Burghers in British Malaya
       subtitle: People
