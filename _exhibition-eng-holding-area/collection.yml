@@ -2,7 +2,6 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Present/TBAS Graceful Life Reading Club.md
       - The Present/.keep
       - The Present/Xin Zhi Reading Club.md
       - The Present/SG Writings Reading Club.md
@@ -19,3 +18,4 @@ collections:
       - The Present/Yio Chu Kang CC Chinese Reading Club.md
       - The Present/Xin Sheng Poets' Society Reading Club.md
       - The Present/Sharing Chinese Book Club.md
+      - The Present/TBAS Graceful Life Reading Club.md
