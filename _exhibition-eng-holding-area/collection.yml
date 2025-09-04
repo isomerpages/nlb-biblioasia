@@ -2,7 +2,6 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Present/Taiji Book Club.md
       - The Present/.keep
       - The Present/Xin Zhi Reading Club.md
       - The Present/SG Writings Reading Club.md
@@ -24,3 +23,4 @@ collections:
       - The Present/Spiritual Wealth Club.md
       - The Present/Qing History Reading Club.md
       - The Present/Bukit Timah Literary Centre Book Club.md
+      - The Present/Taiji Book Club.md
