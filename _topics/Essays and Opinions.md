@@ -1,6 +1,6 @@
 ---
-title: Op-Ed
-permalink: /topic/fake-news/
+title: Essays and Opinions
+permalink: /topic/essays-opinions/
 variant: markdown
 description: ""
 ---
