@@ -14,7 +14,7 @@ third_nav_title: The Present
 
 **Meeting Time**:	Irregular
 
-**Contact person**:	Du Pei Yong/Shen Zhi Yuan
+**Contact Person**:	Du Pei Yong/Shen Zhi Yuan
 
 **Phone**: 96264970
 
