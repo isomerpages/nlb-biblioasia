@@ -17,7 +17,7 @@ third_nav_title: The Present
 
 **Meeting Time**:	Four sessions per year, in February, May, August and November First Wednesday, 3:00 PM to 5:00 PM
 
-**Contact person**:	Kerk Eng Huat/Tan Eng Joo
+**Contact Person**:	Kerk Eng Huat/Tan Eng Joo
 
 **Phone**: 91293775
 
