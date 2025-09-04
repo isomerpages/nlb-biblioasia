@@ -15,7 +15,7 @@ Level 4 Activity Room
 **Meeting Time**:	Third Wednesday of every month
 2:00 PM to 4:00 PM
 
-**Contact person**:	Tan Seng Thye
+**Contact Person**:	Tan Seng Thye
 
 **Phone**: 96445832
 
