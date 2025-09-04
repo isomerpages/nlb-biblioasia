@@ -16,9 +16,11 @@ Programme Zone
 **Meeting Time**:	Last Sunday of every month
 3:00 PM to 5:00 PM
 
-**Contact**:	Wang Hua Lei
-96975497
-sgwritings@gmail.com
+**Contact Person**:	Wang Hua Lei
+
+**Phone**: 96975497
+
+**Email**: sgwritings@gmail.com
 
 **Website**:	<a rel="noopener noreferrer" target="_blank" href="https://www.sgwritings.com">www.sgwritings.com</a>
 
