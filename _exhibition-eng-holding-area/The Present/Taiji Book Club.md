@@ -41,4 +41,3 @@ Through practising Taiji, maintain good health. Under the premise of high medica
 
 *Book Discussion Scope*<br>
 Self-care, Taiji and traditional martial arts, Chinese classics.
-
