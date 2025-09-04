@@ -9,9 +9,9 @@ third_nav_title: The Present
 
 
 <br><br>
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/xin-zhi/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_1997.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/xin-zhi/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_1997.png" style="width: 100%;"> </a>
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/sg-writings/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_1998.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/sg-writings/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_1998.png" style="width: 100%;"> </a>
 
 <a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/ceo/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_1999.png" style="width: 100%;"> </a>
 
