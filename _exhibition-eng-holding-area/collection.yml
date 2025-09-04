@@ -2,7 +2,6 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Present/Qing History Reading Club.md
       - The Present/.keep
       - The Present/Xin Zhi Reading Club.md
       - The Present/SG Writings Reading Club.md
@@ -22,3 +21,4 @@ collections:
       - The Present/TBAS Graceful Life Reading Club.md
       - The Present/Cui Ying Reading Club.md
       - The Present/Spiritual Wealth Club.md
+      - The Present/Qing History Reading Club.md
