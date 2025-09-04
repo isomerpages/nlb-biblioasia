@@ -13,9 +13,11 @@ third_nav_title: The Present
 
 **Meeting Time**:	Second Thursday of every month 7:00 PM to 9:30 PM
 
-**Contact**:	Lim Loo Hua
-81184658
-info.singzhi@gmail.com
+**Contact Person**:	Lim Loo Hua
+
+**Phone**: 81184658
+
+**Email**: info.singzhi@gmail.com
 
 **Social Media**:	<a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/SingZhiXinZhi">Facebook</a>
 
