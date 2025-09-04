@@ -51,7 +51,7 @@ third_nav_title: The Present
 
 <a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/cui-ying/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2014b.png" style="width: 100%;"> </a>
 
-<img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2015.png" style="width: 100%;">
+<img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2015.png" style="width: 100%;">
 
 <a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/present/spiritual-wealth/"> <img src="/images/Reading%20Club%20Exhibition/Timeline/Timeline_2015a.png" style="width: 100%;"> </a>
 
