@@ -16,7 +16,7 @@ Programme Zone
 **Meeting Time**:	Fourth Saturday of every two months (odd months)
 6:30 PM to 8:30 PM
 
-**Contact person**:	Wu Hao
+**Contact Person**:	Wu Hao
 
 **Email**: wu_hao@nlb.gov.sg
 
