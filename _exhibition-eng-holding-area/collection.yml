@@ -2,7 +2,6 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Present/Growing Parents Reading Club.md
       - The Present/.keep
       - The Present/Xin Zhi Reading Club.md
       - The Present/SG Writings Reading Club.md
@@ -29,3 +28,4 @@ collections:
       - The Present/Han Cultural Reading Club.md
       - The Present/Xin Yue Reading Community.md
       - The Present/Reading Through Turbulent Times.md
+      - The Present/Growing Parents Reading Club.md
