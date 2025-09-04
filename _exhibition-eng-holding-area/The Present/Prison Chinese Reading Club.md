@@ -16,7 +16,7 @@ third_nav_title: The Present
 **Meeting Time**:	Every Monday,
 2:00 PM to 4:00 PM
 
-**Contact person**:	Lee Kok Meng
+**Contact Person**:	Lee Kok Meng
 
 **Phone**: 96263208
 
