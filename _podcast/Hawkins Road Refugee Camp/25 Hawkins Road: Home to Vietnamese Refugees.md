@@ -14,7 +14,11 @@ refugees until it closed in 1996. Researcher Rebecca Tan talks about how
 the refugees spent their days in the camp and their lives after Singapore.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/episode/7LwTTulWBHrXJV7vnZ7Gi8"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/25-hawkins-road-home-to-vietnamese-refugees/id1688142751?i=1000725054718"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/25-Hawkins-Road--Home-to-Vietnamese-Refugees-3022406"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Colored.png"></a>
+<p></p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Rebecca Talked About</strong></h4>
