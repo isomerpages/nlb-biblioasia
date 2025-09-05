@@ -14,7 +14,7 @@ Visitors' Briefing Room
 
 **Meeting Time**:	Once per quarter
 
-**Contact person**:	Ong Eng Hong
+**Contact Person**:	Ong Eng Hong
 
 **Phone**: 97658873
 

@@ -15,7 +15,7 @@ third_nav_title: The Present
 **Meeting Time**:	Third Saturday of every month
 10:00 AM to 1:30 PM
 
-**Contact person**:	Chow Meng Pong
+**Contact Person**:	Chow Meng Pong
 
 **Phone**: 93803748
 

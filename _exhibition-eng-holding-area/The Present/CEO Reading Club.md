@@ -14,7 +14,7 @@ third_nav_title: The Present
 
 **Meeting Time**:	Third Saturday of every two months
 
-**Contact person**:	Cao Yuan
+**Contact Person**:	Cao Yuan
 
 **Phone**: 94368086
 
