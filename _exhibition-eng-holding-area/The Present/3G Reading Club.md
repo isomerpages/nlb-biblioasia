@@ -14,7 +14,7 @@ third_nav_title: The Present
 **Meeting Time**:	Last Saturday of every month
 2:30 PM to 4:00 PM
 
-**Contact person**:	Zhou Liang
+**Contact Person**:	Zhou Liang
 
 **Phone**: 96601135
 

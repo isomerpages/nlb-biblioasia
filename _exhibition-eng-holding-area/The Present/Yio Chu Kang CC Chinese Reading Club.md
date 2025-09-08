@@ -13,7 +13,7 @@ third_nav_title: The Present
 **Meeting Time**:	Third Sunday of every two months
 2:00 PM to 4:30 PM
 
-**Contact person**:	Mary Low
+**Contact Person**:	Mary Low
 
 **Phone**: 96417361
 
