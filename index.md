@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/
-      button: A Recent History of Legal Deposit in Singapore
+      url: /vol-21/issue-2/jul-sep-2025/part-time-libraries/
+      button: Remembering the Part-Time Libraries
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Legal Deposit/HeroImage_LegalDeposit.jpg
+      background: /images/Vol 21 Issue 2/Part Time Libraries/HeroImage_Part_Time.jpg
       variant: center
   - infopic:
       title: Dutch Burghers in British Malaya
