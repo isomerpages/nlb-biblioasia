@@ -1282,5 +1282,5 @@ sections:
       button: PURSUING THEIR PASSION
       url: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
       image: /images/Vol 21 Issue 3/Photographer/Photographer_Topics.jpg
-      alt: Image alt text
+      alt: Women Photographers
 ---
