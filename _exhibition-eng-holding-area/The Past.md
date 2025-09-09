@@ -25,11 +25,15 @@ Schools: Beginning with Chongwen Ge in 1849 and Chui Eng Si E (also known as Chu
 Bookstores: From the Commercial Press establishing a branch in Singapore in 1912, Chung Hwa Book Company setting up a branch in 1917, to the addition of Union Book Company in the 1950s, bookstores not only sold books but also became cultural spaces for literati to exchange ideas. The flourishing reading culture of the 1950s and 1960s further promoted the development of the bookstore industry.
 
  
-1965: The bustling scene during Shanghai Book Company's book sale (courtesy of Shanghai Book Company)
+![](/images/Reading%20Club%20Exhibition/Past/Past_1965.png)
+<div style="background-color:white;">1965: The bustling scene during Shanghai Book Company's book sale. <i>Courtesy of Shanghai Book Company</i></div>
+
 
 Before the 1980s, Singapore's three public libraries (Central, Toa Payoh, Queenstown) also organised reading clubs, mainly targeting secondary school students, but these were gradually discontinued due to insufficient manpower.
  
-The packed reading room of Queenstown Branch Library, 1970s. PictureSG, National Library, Singapore.
+![](/images/Reading%20Club%20Exhibition/Past/Past_1970.png)
+<div style="background-color:white;">The packed reading room of Queenstown Branch Library, 1970s. <i>PictureSG, National Library, Singapore.</i></div>
+
 
 
 #### **Flourishing development stage**
