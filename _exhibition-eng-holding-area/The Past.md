@@ -169,11 +169,11 @@ Committee to Promote Chinese Language Learning, Xin Zhi Reading Club, Mrs Kiang-
 
 1.	<a rel="noopener noreferrer" target="_blank" href="https://culturepaedia.singaporeccc.org.sg/communities/an-overview-of-chinese-community-organisations-in-singapore/">An overview of Chinese community organisations in Singapore</a>, Culturepaedia, Singapore Chinese Cultural Centre.
 
-2.	[Chinese-medium schools and their founders in pre-independence Singapore](https://culturepaedia.singaporeccc.org.sg/language-education/chinese-medium-schools-and-their-founders-in-pre-independence-singapore), Culturepaedia, Singapore Chinese Cultural Centre.
+2.	<a rel="noopener noreferrer" target="_blank" href="https://culturepaedia.singaporeccc.org.sg/language-education/chinese-medium-schools-and-their-founders-in-pre-independence-singapore">Chinese-medium schools and their founders in pre-independence Singapore</a>, Culturepaedia, Singapore Chinese Cultural Centre.
 
-3.	[A Brief History of the Chinese Book Industry in Singapore](https://biblioasia.nlb.gov.sg/vol-8/issue-1/may-2012/singapore-history-chinese-book/), BiblioAsia, Issue May 2012.
+3.	<a rel="noopener noreferrer" target="_blank" href="https://biblioasia.nlb.gov.sg/vol-8/issue-1/may-2012/singapore-history-chinese-book/">A Brief History of the Chinese Book Industry in Singapore</a>, BiblioAsia, Issue May 2012.
 
-4.	[Looking Back at Queenstown Library’s 50 Years](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/queenstown/), BiblioAsia, Issue Oct-Dec 2020.
+4.	<a rel="noopener noreferrer" target="_blank" href="https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/queenstown/">Looking Back at Queenstown Library’s 50 Years</a>, BiblioAsia, Issue Oct-Dec 2020.
 
 5.	Opening a Book: Singapore Chinese Reading Clubs Development Special Edition 2002, Reading Development Association (Singapore) and Xin Zhi Reading Club, 2002. (Call no.: RSING 367.95957 KJ) [https://catalogue.nlb.gov.sg/search/card?recordId=13558413](https://catalogue.nlb.gov.sg/search/card?recordId=13558413)
 
@@ -214,5 +214,3 @@ Committee to Promote Chinese Language Learning, Xin Zhi Reading Club, Mrs Kiang-
 10.《<a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/news/fukan/cover/story20200601-1057716">疫情下不孤读 本地线上导读会活跃</a>》，联合早报，2020年6月1日。
 
 11.《<a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/lifestyle/gen/story20240411-3347003">大学生办读书会 不只是读书还为改变人们的交谈方式</a>》，联合早报，2024年4月11日。
-
-
