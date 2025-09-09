@@ -12,12 +12,12 @@ description: ""
 #### **Introduction**
 Singapore's Chinese reading clubs have played a pivotal role in promoting Chinese reading culture within the local community. Today, numerous active Chinese reading clubs operate across Singapore, organising reading activities in diverse and innovative formats.
 The evolution of Singapore's Chinese reading clubs can be broadly categorised into three distinct phases:
-	Early germination stage (pre-1990s) 
-	Flourishing development stage (1990s–2000s)
-	Steady progress stage (2010s–present)
+* &nbsp; Early germination stage (pre-1990s) 
+* &nbsp; Flourishing development stage (1990s–2000s)
+* &nbsp; Steady progress stage (2010s–present)
 This exhibition uses a chronological framework to illustrate the emergence, development, and growth of Chinese reading clubs, as well as the key milestone events in this process.
 
-Early Germination Stage
+#### **Early Germination Stage**
 
 Although formal records of early Chinese reading clubs are lacking, reading activities had already been nurtured and grown in three major domains:
 Clan associations: From the 1840s onwards, Hokkien Huay Kuan, Hainan Hwee Kuan, Teochew Poit Ip Huay Kuan and others were established successively. Besides setting up reading rooms, they also undertook the important mission of cultural heritage preservation. These venues became important places for early reading activities.
