@@ -1272,4 +1272,15 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
       image: /images/Vol 21 Issue 3/Luis/luis_topics.jpg
       alt: Luís de Camões in Asia
+  - infopic:
+      title: Women Photographers in Singapore and Malaya
+      subtitle: Photography
+      id: infopic
+      description: In the male-dominated world of 1940s and 1950s photography, three
+        women in Singapore and Malaya found different ways to participate in
+        their craft.
+      button: PURSUING THEIR PASSION
+      url: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
+      image: /images/Vol 21 Issue 3/Photographer/Photographer_Topics.jpg
+      alt: Image alt text
 ---
