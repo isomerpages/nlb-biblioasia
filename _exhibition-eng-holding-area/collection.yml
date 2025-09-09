@@ -2,6 +2,7 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
+      - Landing Page.md
       - The Present/Timeline.md
       - The Present/.keep
       - The Present/Xin Zhi Reading Club.md
