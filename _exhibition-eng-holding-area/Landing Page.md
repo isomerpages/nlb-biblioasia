@@ -18,7 +18,7 @@ If you have any comments or suggestions about this exhibition, please share your
 This exhibition is available in both Chinese and English. Click [here](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/holding-area/exhibition-landing-page/landing-page/) to browse the Chinese version.
 
  
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/past/"> <img src="/images/Reading%20Club%20Exhibition/Landing%20Page/Past_Banner3.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/past/"> <img src="/images/Reading%20Club%20Exhibition/Landing%20Page/Past_Banner3.png" style="width: 100%;"> </a>
 
 The emergence, development and expansion of Chinese reading clubs, including key milestone events along the way.
 
