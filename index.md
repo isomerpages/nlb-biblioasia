@@ -1272,4 +1272,26 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
       image: /images/Vol 21 Issue 3/Luis/luis_topics.jpg
       alt: Luís de Camões in Asia
+  - infopic:
+      title: Women Photographers in Singapore and Malaya
+      subtitle: Photography
+      id: infopic
+      description: In the male-dominated world of 1940s and 1950s photography, three
+        women in Singapore and Malaya found different ways to participate in
+        their craft.
+      button: PURSUING THEIR PASSION
+      url: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
+      image: /images/Vol 21 Issue 3/Photographer/Photographer_Topics.jpg
+      alt: Women Photographers
+  - infopic:
+      title: An 800-Year-Old Family History
+      subtitle: Essays and Opinions
+      id: infopic
+      description: Thanks to his ancestry book (zupu) and a lot of persistence, a
+        practising Taoist priest was able to trace his ancestry all the way back
+        to 1195.
+      button: MY FAMILY ZUPU
+      url: /vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/
+      image: /images/Vol 21 Issue 3/Family History/Zupu_Topics.jpg
+      alt: An 800-Year-Old Family History
 ---

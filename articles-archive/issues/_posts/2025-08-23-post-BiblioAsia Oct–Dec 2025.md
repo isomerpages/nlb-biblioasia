@@ -9,7 +9,7 @@ variant: markdown
 ---
 <img src="/images/Vol%2021%20Issue%203/ContentPage_Cover_213.png">
 
-<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-3/oct-dec-2025/director-s-note/">Director's Note</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/director-s-note/">Director's Note</a><br>
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/">“Majulah Singapura” and Other Love Songs </a><br>
@@ -82,5 +82,5 @@ Writing a memoir involves personal experiences, digging deep into our memories a
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/">New Books on Singapore History</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/">New Books on Singapore History</a><br>
 *Ink and influence: An OB Markers Sequel*; *Lee Ek Tieng: The Green General of Lee Kuan Yew*; and *The Special Operations Executive in Malaya: World War II and the Path to Independence* are some new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___NewBook.pdf)
