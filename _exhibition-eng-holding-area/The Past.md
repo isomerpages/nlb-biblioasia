@@ -175,42 +175,19 @@ Committee to Promote Chinese Language Learning, Xin Zhi Reading Club, Mrs Kiang-
 
 4.	<a rel="noopener noreferrer" target="_blank" href="https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/queenstown/">Looking Back at Queenstown Library’s 50 Years</a>, BiblioAsia, Issue Oct-Dec 2020.
 
-5.	Opening a Book: Singapore Chinese Reading Clubs Development Special Edition 2002, Reading Development Association (Singapore) and Xin Zhi Reading Club, 2002. (Call no.: RSING 367.95957 KJ) [https://catalogue.nlb.gov.sg/search/card?recordId=13558413](https://catalogue.nlb.gov.sg/search/card?recordId=13558413)
+5.	<a rel="noopener noreferrer" target="_blank" href="https://catalogue.nlb.gov.sg/search/card?recordId=13558413">Opening a Book: Singapore Chinese Reading Clubs Development Special Edition 2002</a>, Reading Development Association (Singapore) and Xin Zhi Reading Club, 2002. (Call no.: RSING 367.95957 KJ) 
 
 6.	Fragrance of Books in Lion City: 15 Years of Singapore Reading Clubs (1997-2012), Xin Zhi Reading Club, 2012.
 
-7.	Chinese Reading Clubs in Singapore, Committee to Promote Chinese Language Learning, 2016. (Call no.: SING 367.95957 CHI) [https://catalogue.nlb.gov.sg/search/card?recordId=202573679](https://catalogue.nlb.gov.sg/search/card?recordId=202573679)
+7.	<a rel="noopener noreferrer" target="_blank" href="https://catalogue.nlb.gov.sg/search/card?recordId=202573679">Chinese Reading Clubs in Singapore</a>, Committee to Promote Chinese Language Learning, 2016. (Call no.: SING 367.95957 CHI) 
 
-8.	“Bu dushu shidai de dushuhui fengjing” [不读书时代的读书会风景](https://www.zaobao.com.sg/culture/books/local-authors/story20160329-598324) [Reading Clubs in the Age of Non-Reading], Lianhe Zaoba 联合早报, 29 March 2016. 
+8.	“Bu dushu shidai de dushuhui fengjing” <a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/culture/books/local-authors/story20160329-598324">不读书时代的读书会风景</a> [Reading Clubs in the Age of Non-Reading], Lianhe Zaoba 联合早报, 29 March 2016. 
 
-9.	“Qiu shen qiu zhuan qiu guang - bendi dushuhui xin qixiang” [求深 求专 求广 —— 本地读书会新气象](https://gccprod-my.sharepoint.com/personal/wu_hao_nlb_gov_sg/Documents/Microsoft Teams Chat Files/1.%09https:/www.zaobao.com.sg/news/fukan/cover/story20180108-825097) [Pursuit of Depth, Specialisation, and Breadth: New Developments in Local Reading Clubs] Lianhe Zaoba 联合早报, 8 January 2018. 
+9.	“Qiu shen qiu zhuan qiu guang - bendi dushuhui xin qixiang” <a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/news/fukan/cover/story20180108-825097">求深 求专 求广 —— 本地读书会新气象</a> [Pursuit of Depth, Specialisation, and Breadth: New Developments in Local Reading Clubs] Lianhe Zaoba 联合早报, 8 January 2018. 
 
-10.	“Yiqing xia bu gudu bendi xianshang daoduhui huoyue” [疫情下不孤读 本地线上导读会活跃](https://www.zaobao.com.sg/news/fukan/cover/story20200601-1057716) [Not Reading Alone: How Local Reading Clubs Thrived Online During the Pandemic], Lianhe Zaoba 联合早报, 1 June 2020. 
+10.	“Yiqing xia bu gudu bendi xianshang daoduhui huoyue” <a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/news/fukan/cover/story20200601-1057716">疫情下不孤读 本地线上导读会活跃</a> [Not Reading Alone: How Local Reading Clubs Thrived Online During the Pandemic], Lianhe Zaoba 联合早报, 1 June 2020. 
 
-11.	“Daxuesheng ban dushuhui bu zhishi dushu hai wei gaibian renmen de jiaotan fangshi” [大学生办读书会 不只是读书还为改变人们的交谈方式](https://www.zaobao.com.sg/lifestyle/gen/story20240411-3347003) [University Students Organise Reading Clubs: not just Reading, but also Changing How We Talk] Lianhe Zaoba 联合早报, 11 April 2024.
-
-
+11.	“Daxuesheng ban dushuhui bu zhishi dushu hai wei gaibian renmen de jiaotan fangshi” <a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/lifestyle/gen/story20240411-3347003">大学生办读书会 不只是读书还为改变人们的交谈方式</a> [University Students Organise Reading Clubs: not just Reading, but also Changing How We Talk] Lianhe Zaoba 联合早报, 11 April 2024.
 
 
 
-1.《<a rel="noopener noreferrer" target="_blank" href="https://culturepaedia.singaporeccc.org.sg/zh/communities/an-overview-of-chinese-community-organisations-in-singapore/?g=1.%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8D%8E%E4%BA%BA%E7%A4%BE%E5%9B%A2%E6%A6%82%E8%BF%B0">新加坡华人社团概述</a>》，新加坡华族文化百科，新加坡华族文化中心。
-
-2.《<a rel="noopener noreferrer" target="_blank" href="https://culturepaedia.singaporeccc.org.sg/zh/language-education/chinese-medium-schools-and-their-founders-in-pre-independence-singapore/?g=2.%E5%BB%BA%E5%9B%BD%E5%89%8D%E7%9A%84%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%B0%91%E5%8A%9E%E5%8D%8E%E6%A0%A1%E5%8F%8A%E5%85%B6%E5%A5%A0%E5%9F%BA%E4%BA%BA">建国前的新加坡民办华校及其奠基人</a>》，新加坡华族文化百科，新加坡华族文化中心。
-
-3.《<a rel="noopener noreferrer" target="_blank" href="https://biblioasia.nlb.gov.sg/vol-8/issue-1/may-2012/singapore-history-chinese-book/">新加坡华文书业历史简述A Brief History of the Chinese Book Industry in Singapore</a>》，BiblioAsia（2012年5月刊）
-
-4.“<a rel="noopener noreferrer" target="_blank" href="https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/queenstown/">Looking Back at Queenstown Library’s 50 Years</a>”，BiblioAsia（2020年10月-12月）
-
-5.《<a rel="noopener noreferrer" target="_blank" href="https://catalogue.nlb.gov.sg/search/card?recordId=13558413">开卷：新加坡华文读书会发展特辑2002</a>》，新加坡读书会发展协会、新智读书会，2002。（索书号：RSING 367.95957 KJ）
-
-6.《书香·狮城：新加坡读书会15年（1997-2012）》，新智读书会，2012。
-
-7.《<a rel="noopener noreferrer" target="_blank" href="https://catalogue.nlb.gov.sg/search/card?recordId=202573679">品书香：新加坡华文读书会特辑</a>》，推广华文学习委员会，2016。（索书号：SING 367.95957 CHI）
-
-8.《<a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/culture/books/local-authors/story20160329-598324">不读书时代的读书会风景</a>》，联合早报，2016年3月29日。
-
-9.《<a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/news/fukan/cover/story20180108-825097">求深 求专 求广 —— 本地读书会新气象</a>》，联合早报，2018年1月8日。
-
-10.《<a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/news/fukan/cover/story20200601-1057716">疫情下不孤读 本地线上导读会活跃</a>》，联合早报，2020年6月1日。
-
-11.《<a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/lifestyle/gen/story20240411-3347003">大学生办读书会 不只是读书还为改变人们的交谈方式</a>》，联合早报，2024年4月11日。
