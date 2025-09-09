@@ -58,13 +58,25 @@ In 2000, Singapore's Chinese reading clubs entered a new phase of development. E
 These reading clubs not only collaborated on joint activities but also actively assisted schools, clan associations, community clubs, and prisons in establishing their own reading clubs. By 2002, the number of reading clubs island-wide had grown to 16. Despite operating with limited resources, these grassroots organisations played pivotal roles in the nascent development of reading clubs and emerged as the driving force behind the annual "World Book Day in Singapore" activities.
 Particularly noteworthy is the establishment of reading clubs in prison. Lawyer Ellen Lee Geck Hoon from Fengshan Reading Club and Xin Zhi Reading Club Chairman Tan Koon Poh began liaising with Singapore prison authorities in 2000, engaging in multiple rounds of dialogue and consultation. Through their persistent advocacy and dedication, they successfully established the Prison Chinese Reading Club and Women's Prison Chinese Reading Club in March 2001.
  
-Opening a Book: Singapore Chinese Reading Clubs Development Special Edition 2002
- 
-2004 "World Book Day in Singapore" brochure
+![](/images/Reading%20Club%20Exhibition/Past/Past_2002.png)
+<div style="background-color:white;">Opening a Book: Singapore Chinese Reading Clubs Development Special Edition 2002</div>
+
+
+
+![](/images/Reading%20Club%20Exhibition/Past/Past_2004.png)
+<div style="background-color:white;">2004 "World Book Day in Singapore" brochure</div>
+
+
 
 In 2005, Singapore's reading promotion efforts achieved two major breakthroughs. The National Library Board launched the groundbreaking multilingual "READ! Singapore" campaign, leveraging all four official languages as platforms to cultivate reading habits across society by assisting diverse groups in establishing reading clubs.  Driven by this campaign, reading club development expanded beyond traditional boundaries to include taxi drivers, hairdressers, healthcare workers, schools, and government agencies. Concurrently, the Committee to Promote Chinese Language Learning (CPCLL) was established in 2005, with a mandate to strengthen collaboration between schools, community organisations, and media outlets. In 2006, "World Book Day in Singapore" activities entered a transformative new phase. For the first time, CPCLL co-organised this flagship event alongside NLB, Xin Zhi Reading Club, and the Singapore Chinese Teachers' Union.
  
-2005 "READ! Singapore" Guide to Chinese Language Activities 
+ 
+ 
+![](/images/Reading%20Club%20Exhibition/Past/Past_2005_1.png)
+<div style="background-color:white;">2005 "READ! Singapore" Guide to Chinese Language Activities </div>
+
+ 
+
  
 Two taxi drivers reading during their leisure time. They are members of the newly established Taxi Shifu Reading Club. 27 July 2005. (SPH-ID: 7793466, Photo: ST) Source: The Straits Times © SPH Media Limited. Permission required for reproduction for this photo.
  
