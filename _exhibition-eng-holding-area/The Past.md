@@ -162,17 +162,28 @@ Looking forward, provided that reading clubs continue to embrace contemporary de
 Prepared by: Wu Hao 
 Edited by: Jane Wee
 
-Special Thanks to Committee to Promote Chinese Language Learning, Xin Zhi Reading Club, Mrs Kiang-Koh Lai Lin and Mr Tan Koon Poh for providing materials and personal collections.
+#### **Special Thanks to** 
+Committee to Promote Chinese Language Learning, Xin Zhi Reading Club, Mrs Kiang-Koh Lai Lin and Mr Tan Koon Poh for providing materials and personal collections.
 
-Reference
-1.	An overview of Chinese community organisations in Singapore, Culturepaedia, Singapore Chinese Cultural Centre.
-2.	Chinese-medium schools and their founders in pre-independence Singapore, Culturepaedia, Singapore Chinese Cultural Centre.
-3.	A Brief History of the Chinese Book Industry in Singapore, BiblioAsia, Issue May 2012.
-4.	Looking Back at Queenstown Library’s 50 Years, BiblioAsia, Issue Oct-Dec 2020.
-5.	Opening a Book: Singapore Chinese Reading Clubs Development Special Edition 2002, Reading Development Association (Singapore) and Xin Zhi Reading Club, 2002. (Call no.: RSING 367.95957 KJ) https://catalogue.nlb.gov.sg/search/card?recordId=13558413
+#### **Reference**
+1.	[An overview of Chinese community organisations in Singapore](https://culturepaedia.singaporeccc.org.sg/communities/an-overview-of-chinese-community-organisations-in-singapore/), Culturepaedia, Singapore Chinese Cultural Centre.
+
+2.	[Chinese-medium schools and their founders in pre-independence Singapore](https://culturepaedia.singaporeccc.org.sg/language-education/chinese-medium-schools-and-their-founders-in-pre-independence-singapore), Culturepaedia, Singapore Chinese Cultural Centre.
+
+3.	[A Brief History of the Chinese Book Industry in Singapore](https://biblioasia.nlb.gov.sg/vol-8/issue-1/may-2012/singapore-history-chinese-book/), BiblioAsia, Issue May 2012.
+
+4.	[Looking Back at Queenstown Library’s 50 Years](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/queenstown/), BiblioAsia, Issue Oct-Dec 2020.
+
+5.	Opening a Book: Singapore Chinese Reading Clubs Development Special Edition 2002, Reading Development Association (Singapore) and Xin Zhi Reading Club, 2002. (Call no.: RSING 367.95957 KJ) [https://catalogue.nlb.gov.sg/search/card?recordId=13558413](https://catalogue.nlb.gov.sg/search/card?recordId=13558413)
+
 6.	Fragrance of Books in Lion City: 15 Years of Singapore Reading Clubs (1997-2012), Xin Zhi Reading Club, 2012.
-7.	Chinese Reading Clubs in Singapore, Committee to Promote Chinese Language Learning, 2016. (Call no.: SING 367.95957 CHI) https://catalogue.nlb.gov.sg/search/card?recordId=202573679
-8.	“Bu dushu shidai de dushuhui fengjing” 不读书时代的读书会风景 [Reading Clubs in the Age of Non-Reading], Lianhe Zaoba 联合早报, 29 March 2016. 
-9.	“Qiu shen qiu zhuan qiu guang - bendi dushuhui xin qixiang” 求深 求专 求广 —— 本地读书会新气象 [Pursuit of Depth, Specialisation, and Breadth: New Developments in Local Reading Clubs] Lianhe Zaoba 联合早报, 8 January 2018. 
-10.	“Yiqing xia bu gudu bendi xianshang daoduhui huoyue” 疫情下不孤读 本地线上导读会活跃 [Not Reading Alone: How Local Reading Clubs Thrived Online During the Pandemic], Lianhe Zaoba 联合早报, 1 June 2020. 
-11.	“Daxuesheng ban dushuhui bu zhishi dushu hai wei gaibian renmen de jiaotan fangshi” 大学生办读书会 不只是读书还为改变人们的交谈方式 [University Students Organise Reading Clubs: not just Reading, but also Changing How We Talk] Lianhe Zaoba 联合早报, 11 April 2024.
+
+7.	Chinese Reading Clubs in Singapore, Committee to Promote Chinese Language Learning, 2016. (Call no.: SING 367.95957 CHI) [https://catalogue.nlb.gov.sg/search/card?recordId=202573679](https://catalogue.nlb.gov.sg/search/card?recordId=202573679)
+
+8.	“Bu dushu shidai de dushuhui fengjing” [不读书时代的读书会风景](https://www.zaobao.com.sg/culture/books/local-authors/story20160329-598324) [Reading Clubs in the Age of Non-Reading], Lianhe Zaoba 联合早报, 29 March 2016. 
+
+9.	“Qiu shen qiu zhuan qiu guang - bendi dushuhui xin qixiang” [求深 求专 求广 —— 本地读书会新气象](https://gccprod-my.sharepoint.com/personal/wu_hao_nlb_gov_sg/Documents/Microsoft Teams Chat Files/1.%09https:/www.zaobao.com.sg/news/fukan/cover/story20180108-825097) [Pursuit of Depth, Specialisation, and Breadth: New Developments in Local Reading Clubs] Lianhe Zaoba 联合早报, 8 January 2018. 
+
+10.	“Yiqing xia bu gudu bendi xianshang daoduhui huoyue” [疫情下不孤读 本地线上导读会活跃](https://www.zaobao.com.sg/news/fukan/cover/story20200601-1057716) [Not Reading Alone: How Local Reading Clubs Thrived Online During the Pandemic], Lianhe Zaoba 联合早报, 1 June 2020. 
+
+11.	“Daxuesheng ban dushuhui bu zhishi dushu hai wei gaibian renmen de jiaotan fangshi” [大学生办读书会 不只是读书还为改变人们的交谈方式](https://www.zaobao.com.sg/lifestyle/gen/story20240411-3347003) [University Students Organise Reading Clubs: not just Reading, but also Changing How We Talk] Lianhe Zaoba 联合早报, 11 April 2024.
