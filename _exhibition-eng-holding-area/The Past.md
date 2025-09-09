@@ -42,7 +42,10 @@ Against this favourable backdrop, Singapore's first officially registered Chines
 On 13 March 1997, Xin Zhi Reading Club was officially established. Its members embarked on multiple study missions to Malaysia and Taiwan for observation and learning, simultaneously promoting reading concepts whilst enhancing their own expertise. Subsequently, Xin Zhi Reading Club actively promoted Chinese reading and assisted in establishing other reading clubs, such as Fengshan Reading Club in July 1998 and Tea Chapter’s Chinese Reading Club in November 1998, ushering in a new era of flourishing growth for Singapore's Chinese reading clubs.
 On 23 April 1999, at the initiative of Xin Zhi Reading Club, National Library Board, Lianhe Zaobao's "Supplement" section, and Xin Zhi Reading Club jointly organised the first "World Book Day in Singapore" event. The opening ceremony was held at News Centre Auditorium, officiated by former Senior Minister of State for Education Peter Chen Min Liang, with local writer Dr. Liang Wern Fook sharing his insights.
  
-1999 "World Book Day in Singapore" Opening Ceremony poster
+![](/images/Reading%20Club%20Exhibition/Past/Past_1999_1.png)
+<div style="background-color:white;">1999 "World Book Day in Singapore" Opening Ceremony poster</div>
+
+
 
 During 1999 World Book Day, 77 Read Club and Xin Geng Reading Club from Taiwan were invited to share their experiences in organizing learning camps and managing reading clubs. This learning camp trained several reading club leaders and led to the establishment of more reading clubs: Tampines Regional Library Reading Club, Ai Xin Hui Huang Reading Club, CEO Reading Club, and Kim Mui Reading Club.
  
