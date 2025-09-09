@@ -139,12 +139,23 @@ In recent years, many reading clubs have explored innovative directions, with th
 The COVID-19 pandemic outbreak marked a major turning point in the development of Singapore's Chinese reading clubs. With the suspension of in-person gatherings, reading clubs were forced to move their sessions online. While mastering online meeting platforms presented initial challenges, it simultaneously unlocked unprecedented opportunities. Several reading clubs ventured into collaborative partnerships with overseas reading communities across mainland China, Taiwan, Hong Kong, Malaysia, and beyond, co-hosting cross-border reading activities. Through these digital exchanges, participating clubs developed deeper mutual appreciation of each other's reading philosophies and distinctive approaches. Concurrently, reading club facilitators enhanced their leadership capabilities through peer observation and cross-cultural learning.
 
  
-Online sharing sessions facilitated through collaboration between local and overseas reading communities
+![](/images/Reading%20Club%20Exhibition/Past/Past_zoom.png)
+<div style="background-color:white;">Online sharing sessions facilitated through collaboration between local and overseas reading communities</div>
+
+
+
 
 In 2025, the "World Book Day and Literature Under the April Sky" was renamed "World Book Day" to better emphasise its core mission of promoting reading. The event adopted dual themes of "Science Fiction/Artificial Intelligence" and "Singapore's 60th Anniversary of Independence", organizing various reading activities around these themes, making World Book Day the premier annual celebration of reading and literary culture.
  
-2025 World Book Day Opening Ceremony
-Conclusion
+ 
+![](/images/Reading%20Club%20Exhibition/Past/Past_2025.png)
+<div style="background-color:white;">2025 World Book Day Opening Ceremony</div>
+
+
+
+
+
+#### **Conclusion**
 From 1995 to 2025, Singapore's Chinese reading clubs have traversed three transformative decades. Throughout this journey, reading clubs evolved through distinct phases—from initial germination to flourishing expansion, and ultimately to steady progress. As society transformed, reading clubs demonstrated remarkable adaptability: transitioning from traditional face-to-face gatherings to virtual reading sessions, evolving from singular formats to diversified programming, and expanding from local exchanges to transnational collaboration. These evolutionary changes have not only enriched Singapore's literary and cultural landscape but have also unlocked new horizons for future growth.
 Looking forward, provided that reading clubs continue to embrace contemporary developments, maintain their spirit of openness and innovation, and harness technological advances to pioneer new frontiers, the “fragrance of books” will undoubtedly continue to permeate the Lion City, adding ever more vibrant chapters to Singapore's ongoing cultural legacy.
 
