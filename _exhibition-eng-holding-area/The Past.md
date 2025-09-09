@@ -30,7 +30,9 @@ Bookstores: From the Commercial Press establishing a branch in Singapore in 1912
 Before the 1980s, Singapore's three public libraries (Central, Toa Payoh, Queenstown) also organised reading clubs, mainly targeting secondary school students, but these were gradually discontinued due to insufficient manpower.
  
 The packed reading room of Queenstown Branch Library, 1970s. PictureSG, National Library, Singapore.
-Flourishing development stage 
+
+
+#### **Flourishing development stage**
 The year 1995 marked a watershed moment for Singapore's Chinese reading clubs. That year witnessed the official establishment of the National Library Board (NLB), which centralised the planning and management of library resources across the island. Concurrently, in November, UNESCO designated 23 April as "World Book and Copyright Day"—commonly known as "World Book Day"—thereby injecting fresh momentum into reading promotion efforts worldwide.
 Against this favourable backdrop, Singapore's first officially registered Chinese reading club was to be born. In 1996, Chen Shi Ying, father of renowned Hong Kong dancer Tina Chen, visited Singapore and shared the inspiring success story of Taiwan's 77 Read Club with Dr Soh Kay Cheng of Catalysts of Knowledge Club (later renamed to Sing Zhi Culture &amp; Education Development Association). This chance encounter planted the seeds for local reading club development. Catalysts of Knowledge Club subsequently dispatched representatives to Taiwan for observational study tours to absorb best practices.
 On 13 March 1997, Xin Zhi Reading Club was officially established. Its members embarked on multiple study missions to Malaysia and Taiwan for observation and learning, simultaneously promoting reading concepts whilst enhancing their own expertise. Subsequently, Xin Zhi Reading Club actively promoted Chinese reading and assisted in establishing other reading clubs, such as Fengshan Reading Club in July 1998 and Tea Chapter’s Chinese Reading Club in November 1998, ushering in a new era of flourishing growth for Singapore's Chinese reading clubs.
