@@ -49,7 +49,11 @@ On 23 April 1999, at the initiative of Xin Zhi Reading Club, National Library Bo
 
 During 1999 World Book Day, 77 Read Club and Xin Geng Reading Club from Taiwan were invited to share their experiences in organizing learning camps and managing reading clubs. This learning camp trained several reading club leaders and led to the establishment of more reading clubs: Tampines Regional Library Reading Club, Ai Xin Hui Huang Reading Club, CEO Reading Club, and Kim Mui Reading Club.
  
-77 Read Club and Xin Geng Reading Club sharing at "World Book Day". (Courtesy of Tan Koon Poh)
+![](/images/Reading%20Club%20Exhibition/Past/Past_1999_2.png)
+<div style="background-color:white;">77 Read Club and Xin Geng Reading Club sharing at "World Book Day". <i>Courtesy of Tan Koon Poh</i></div>
+
+
+
 In 2000, Singapore's Chinese reading clubs entered a new phase of development. Eight active reading clubs began collaborating to jointly organise the annual World Book Day activities: Xin Zhi Reading Club, Fengshan Reading Club, Tea Chapter’s Chinese Reading Club, Tampines Regional Library Reading Club, Ai Xin Hui Huang Reading Club, CEO Reading Club, Kim Mui Reading Club, and Geylang East Home for the Aged Reading Club. 
 These reading clubs not only collaborated on joint activities but also actively assisted schools, clan associations, community clubs, and prisons in establishing their own reading clubs. By 2002, the number of reading clubs island-wide had grown to 16. Despite operating with limited resources, these grassroots organisations played pivotal roles in the nascent development of reading clubs and emerged as the driving force behind the annual "World Book Day in Singapore" activities.
 Particularly noteworthy is the establishment of reading clubs in prison. Lawyer Ellen Lee Geck Hoon from Fengshan Reading Club and Xin Zhi Reading Club Chairman Tan Koon Poh began liaising with Singapore prison authorities in 2000, engaging in multiple rounds of dialogue and consultation. Through their persistent advocacy and dedication, they successfully established the Prison Chinese Reading Club and Women's Prison Chinese Reading Club in March 2001.
