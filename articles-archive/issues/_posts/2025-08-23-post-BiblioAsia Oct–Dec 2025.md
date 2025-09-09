@@ -57,7 +57,7 @@ Hong Lim Park was named after Cheang Hong Lim. Cheang and his descendants were o
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/luis-de-camoes-in-asia/">Luís de Camões in Asia </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/">Luís de Camões in Asia </a><br>
 Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ternate, was shipwrecked near the Mekong Delta and worked as the Superintendent for the Dead in Macau. *Isabel Rio Novo*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Louis_de_Camoes.pdf)
 
 
