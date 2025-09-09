@@ -97,15 +97,29 @@ In 2005, Singapore's reading promotion efforts achieved two major breakthroughs.
 Entering the 2010s, Chinese reading clubs transitioned from a developmental phase to a period of stabilisation. As social organisations that depend on regular programming and structured governance, reading clubs face inherent sustainability challenges. Many previously established Chinese reading clubs proved transient, gradually losing momentum before eventually discontinuing their activities. Those that endured were typically steered by individuals with exceptional organisational capabilities and skilled reading facilitators.
 The handbook "Fragrance of Books in Lion City: 15 Years of Chinese Reading Clubs in Singapore (1997-2012)" produced by Xin Zhi Reading Club recorded information about 12 active reading clubs at the time, including Xin Zhi Reading Club, CEO Reading Club, Taxi Shifu Reading Club, Bishan CC Women’s Executive Committee Reading Club, Xin Sheng Poets' Society Reading Club, and others.
  
-The handbook " Fragrance of Books in Lion City: 15 Years of Chinese Singapore Reading Clubs (1997-2012)"
+
+![](/images/Reading%20Club%20Exhibition/Past/Past_2012.png)
+<div style="background-color:white;">The handbook " Fragrance of Books in Lion City: 15 Years of Chinese Singapore Reading Clubs (1997-2012)"</div>
+
+
+
 
 Since 2006, NLB and CPCLL have jointly served as the principal organisers of World Book Day, with various reading clubs sending representatives to the organising committee meetings. This flagship event gradually evolved into an annual gathering that unites Singapore's Chinese reading club community. 
  
-2007-2014 "World Book Day in Singapore" brochures and posters
+![](/images/Reading%20Club%20Exhibition/Past/Past_2007.png)
+<div style="background-color:white;">2007-2014 "World Book Day in Singapore" brochures and posters</div>
+
+
+
 
 To implement the spirit of sharing the joy of reading on World Book Day, CPCLL launched "World Book Day@Campus" in 2012, a month-long initiative encouraging teachers to organise classroom reading activities during the World Book Day period. In 2015, "World Book Day in Singapore" was renamed "World Book Day and Literature Under the April Sky." The " Literature Under the April Sky" derives from “You are the April of this World”, which is the title of a Chinese modern poem by Lin Huiyin (Phyllis Whei Yin Lin), a renowned Chinese architect, writer and poet, where "April" represents "spring," symbolizing awakening, vitality,  hope,  and literary creation. This made World Book Day not only a festival of reading but also an opportunity for overseas and local writers to share writing insights with students and cultivate their interest in literary creation.
  
-2015-2024 " World Book Day and Literature Under the April Sky" brochures
+![](/images/Reading%20Club%20Exhibition/Past/Past_2015.png)
+<div style="background-color:white;">2015-2024 " World Book Day and Literature Under the April Sky" brochures</div>
+
+
+
+
 From 2015 onwards, World Book Day activities have become increasingly sophisticated, including grand opening ceremonies, inviting overseas and local speakers to address teachers, students, and the public, and organizing reading activities in schools and libraries. Local Chinese reading clubs use this opportunity to conduct reading sharing sessions, promote local and overseas Chinese works, introduce reading clubs, and recruit new members.
  
 2016 " World Book Day and Literature Under the April Sky" Opening Ceremony
