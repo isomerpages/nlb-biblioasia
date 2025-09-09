@@ -1302,6 +1302,6 @@ sections:
         collection.
       button: New Reads
       url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
-      image: /images/Vol 21 Issue 3/New Books/NewBooks_Topics.jpg
+      image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
       alt: New Books
 ---
