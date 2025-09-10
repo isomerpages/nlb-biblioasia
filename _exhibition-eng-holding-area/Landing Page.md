@@ -29,7 +29,7 @@ The emergence, development and expansion of Chinese reading clubs, including key
 Information about the many active reading clubs today, including where and when they hold their activities.
 
 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/future/list-of-articles/"> <img src="/images/Reading%20Club%20Exhibition/Landing%20Page/Future_banner5.png" style="width: 100%;"> </a>
+<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/future/list-of-articles/"> <img src="/images/Reading%20Club%20Exhibition/Landing%20Page/Future_banner5.png" style="width: 100%;"> </a>
 
 
  
