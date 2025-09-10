@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 2/Part Time Libraries/HeroImage_Part_Time.jpg
       variant: center
   - infopic:
+      title: Hidden History Brought to Life in a Game
+      subtitle: Inspired by History
+      id: infopic
+      description: From burial grounds to secret societies, HiddenSG weaves historical
+        materials into immersive adventures across the island.
+      button: NOT SO HIDDEN AFTER ALL
+      url: /people/2025/8/lim-yee-hung-hidden-singapore-game/
+      image: /images/Online Only Articles/Hidden History Brought to
+        Life/yee_hung_hiddenSG_Topics.jpg
+      alt: Hidden History in a Game
+  - infopic:
       title: Dutch Burghers in British Malaya
       subtitle: People
       id: infopic
@@ -1220,17 +1231,6 @@ sections:
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
   - infopic:
-      title: Hidden History Brought to Life in a Game
-      subtitle: Inspired by History
-      id: infopic
-      description: From burial grounds to secret societies, HiddenSG weaves historical
-        materials into immersive adventures across the island.
-      button: NOT SO HIDDEN AFTER ALL
-      url: /people/2025/8/lim-yee-hung-hidden-singapore-game/
-      image: /images/Online Only Articles/Hidden History Brought to
-        Life/hiddensg_website_Topics.jpg
-      alt: Hidden History in a Game
-  - infopic:
       title: The Life and Times of Giovanni Gaggino
       subtitle: People
       id: infopic
@@ -1294,4 +1294,14 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/
       image: /images/Vol 21 Issue 3/Family History/Zupu_Topics.jpg
       alt: An 800-Year-Old Family History
+  - infopic:
+      title: New Books on Singapore History (Oct 2025)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at six new books available in the National Library's
+        collection.
+      button: New Reads
+      url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
+      image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
+      alt: New Books
 ---
