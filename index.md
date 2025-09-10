@@ -26,7 +26,7 @@ sections:
       button: NOT SO HIDDEN AFTER ALL
       url: /people/2025/8/lim-yee-hung-hidden-singapore-game/
       image: /images/Online Only Articles/Hidden History Brought to
-        Life/hiddensg_website_Topics.jpg
+        Life/yee_hung_hiddenSG_Topics.jpg
       alt: Hidden History in a Game
   - infopic:
       title: Dutch Burghers in British Malaya
