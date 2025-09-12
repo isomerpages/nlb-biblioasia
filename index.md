@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/part-time-libraries/
-      button: Remembering the Part-Time Libraries
+      url: /vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/
+      button: "Books on Wheels: Singapore's Mobile Libraries"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Part Time Libraries/HeroImage_Part_Time.jpg
+      background: /images/Vol 21 Issue 2/Books on Wheels/HeroImage_Mobile_libraries.jpg
       variant: center
   - infopic:
       title: The Life and Times of Giovanni Gaggino
