@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/part-time-libraries/
-      button: Remembering the Part-Time Libraries
+      url: /vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/
+      button: "Books on Wheels: Singapore's Mobile Libraries"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Part Time Libraries/HeroImage_Part_Time.jpg
+      background: /images/Vol 21 Issue 2/Books on Wheels/HeroImage_Mobile_libraries.jpg
       variant: center
+  - infopic:
+      title: The Life and Times of Giovanni Gaggino
+      subtitle: People
+      id: infopic
+      description: The remarkable story of an Italian merchant who once owned Pulau
+        Bukom and authored an Italian-Malay dictionary in colonial Singapore.
+      button: A MAN OF MANY INTERESTS
+      url: /vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/
+      image: /images/Vol 21 Issue 3/Giovanni/giovanni_Topics3.jpg
+      alt: From Liguria to the Lion City
   - infopic:
       title: Hidden History Brought to Life in a Game
       subtitle: Inspired by History
@@ -1230,16 +1240,6 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: The Life and Times of Giovanni Gaggino
-      subtitle: People
-      id: infopic
-      description: The remarkable story of an Italian merchant who once owned Pulau
-        Bukom and authored an Italian-Malay dictionary in colonial Singapore.
-      button: A MAN OF MANY INTERESTS
-      url: /vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/
-      image: /images/Vol 21 Issue 3/Giovanni/giovanni_Topics3.jpg
-      alt: From Liguria to the Lion City
   - infopic:
       title: “Majulah Singapura” and Other Love Songs
       subtitle: National Symbols
