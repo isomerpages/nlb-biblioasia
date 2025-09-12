@@ -211,7 +211,7 @@ The National Archives of Singapore building at Canning Rise. <i>Collection of th
 [^8]: George Yeo, interview, 31 January 2025.
 
 
-[^9]: “Permanent Secretary (Information, Communications and the Arts),” Public Service Division, Prime Minister’s Office, 12 November 2007, [https://www.psd.gov.sg/files/press-release---12-nov-2007-permanent-secretary-of-mica-retires.pdf](https://www.psd.gov.sg/files/press-release---12-nov-2007-permanent-secretary-of-mica-retires.pdf).
+[^9]: “Permanent Secretary (Information, Communications and the Arts),” Public Service Division, Prime Minister’s Office, 12 November 2007, [https://isomer-user-content.by.gov.sg/147/19d2ea69-f9c3-44fd-a44e-0b097c6dbc6c/press-release---12-nov-2007-permanent-secretary-of-mica-retires.pdf](https://isomer-user-content.by.gov.sg/147/19d2ea69-f9c3-44fd-a44e-0b097c6dbc6c/press-release---12-nov-2007-permanent-secretary-of-mica-retires.pdf).
 
 
 [^10]: George Yeo Yong-Boon, [_George Yeo: Musings Series 3_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206112155) (Singapore; Hackensack, NJ: World Scientific Publishing Co. Pte. Ltd., 2024), 154. (From National Library Singapore, call no. RSING 959.57052092 YEO)&nbsp;
