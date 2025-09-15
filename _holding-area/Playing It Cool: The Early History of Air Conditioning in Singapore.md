@@ -169,4 +169,3 @@ In 1999, while Singapore’s first prime minister, Lee Kuan Yew, famously credit
 
 
 [^29]: “Air-Con Gets My Vote, Says SM Lee,” _Straits Times_, 19 January 1999, 1. (From NewspaperSG)
-
