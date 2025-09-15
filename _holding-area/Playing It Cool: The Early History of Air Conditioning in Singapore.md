@@ -91,44 +91,44 @@ In 1999, while Singapore’s first prime minister, Lee Kuan Yew, famously credit
 [^3]: Archive and Historical Resource Center, United Technologies Corporation: Anne Millbrooke, _Carrier in the Pacific and the Far East_ (1983), Historical Report No. 32, Box No. 154393, 3. The author wishes to thank Chang Jiat Hwee, Dean’s Chair Associate Professor at the Department of Architecture, College of Design and Engineering, National University of Singapore, for sharing this file.&nbsp;
 
 
-[^4]: “Untitled,” _Malaya Tribune_, 24 June 1938, 8. (From NewspaperSG); Millbrooke, _Carrier in the Pacific_, 34.&nbsp;
+[^4]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19380624-1.2.51),” _Malaya Tribune_, 24 June 1938, 8. (From NewspaperSG); Millbrooke, _Carrier in the Pacific_, 34.&nbsp;
 
 
-[^5]: “Modern Air-Conditioning System,” _Morning Tribune_, 30 March 1936, 15. (From NewspaperSG)
+[^5]: “[Modern Air-Conditioning System](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19360330-1.2.73),” _Morning Tribune_, 30 March 1936, 15. (From NewspaperSG)
 
 
-[^6]: “A Boon to the Worker,” _Malaya Tribune_, 23 December 1937, 13. (From NewspaperSG)
+[^6]: “[A Boon to the Worker](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19371223-1.2.85),” _Malaya Tribune_, 23 December 1937, 13. (From NewspaperSG)
 
 
-[^7]: R. E. Thompson, “Promoting Greater Efficiency and Less Fatigue,” _Malaya Tribune_, 10 July 1939, 9. (From NewspaperSG)&nbsp;
+[^7]: R. E. Thompson, “[Promoting Greater Efficiency and Less Fatigue](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390710-1.2.190.22),” _Malaya Tribune_, 10 July 1939, 9. (From NewspaperSG)&nbsp;
 
 
-[^8]: “What Air-Conditioning Really Is,” _Morning Tribune_, 15 June 1938, 6. (From NewspaperSG)
+[^8]: “[What Air-Conditioning Really Is](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380615-1.2.131.5),” _Morning Tribune_, 15 June 1938, 6. (From NewspaperSG)
 
 
-[^9]: Joseph M. Siry, _Air-Conditioning in Modern American Architecture_ (University Park:&nbsp; Pennsylvania State University Press, 2021), 12–18, https://www.psupress.org/books/titles/978-0-271-08694-1.html.
+[^9]: Joseph M. Siry, _Air-Conditioning in Modern American Architecture_ (University Park:&nbsp; Pennsylvania State University Press, 2021), 12–18, [https://www.psupress.org/books/titles/978-0-271-08694-1.html](https://www.psupress.org/books/titles/978-0-271-08694-1.html).
 
 
-[^10]: “Sea Breezes at the Capitol,” _Straits Times_ 29 April 1930, 19. (From NewspaperSG)
+[^10]: “[Sea Breezes at the Capitol](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300429-1.2.137),” _Straits Times_ 29 April 1930, 19. (From NewspaperSG)
 
 
 
-[^11]: “Grand New Alhambra Opens with Excellent Film,” _Morning Tribune_, 28 July 1938, 3. (From NewspaperSG)
+[^11]: “[Grand New Alhambra Opens with Excellent Film](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380728-1.2.26),” _Morning Tribune_, 28 July 1938, 3. (From NewspaperSG)
 
 
-[^12]: “Weather Problems,” _Morning Tribune_, 27 July 1938, 7; “Grand New Alhambra Opens with Excellent Film”; “Grand New Alhambra Opens with Excellent Film (continued).”&nbsp;
+[^12]: “[Weather Problems](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380727-1.2.136.27),” _Morning Tribune_, 27 July 1938, 7; “[Grand New Alhambra Opens with Excellent Film”; “Grand New Alhambra Opens with Excellent Film (continued)](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380728-1.2.27).”&nbsp;
 
 
-[^13]: “Page 7 Advertisements Column 2: New World Dance Palace,” _Morning Tribune_, 28 July 1938, 7. (From NewspaperSG); Wong Yunn Chii and Tan Kar Lin, “Emergence of a Cosmopolitan Space for Culture and Consumption: The New World Amusement Park-Singapore (1923–70) in the Inter-War Years,” _Inter-Asia Cultural Studies_ 5, no. 2 (2004): 279–304, https://www.tandfonline.com/doi/abs/10.1080/1464937042000236757.
+[^13]: “[Page 7 Advertisements Column 2: New World Dance Palace](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380728-1.2.37.2),” _Morning Tribune_, 28 July 1938, 7. (From NewspaperSG); Wong Yunn Chii and Tan Kar Lin, “Emergence of a Cosmopolitan Space for Culture and Consumption: The New World Amusement Park-Singapore (1923–70) in the Inter-War Years,” _Inter-Asia Cultural Studies_ 5, no. 2 (2004): 279–304, [https://www.tandfonline.com/doi/abs/10.1080/1464937042000236757](https://www.tandfonline.com/doi/abs/10.1080/1464937042000236757).
 
 
-[^14]: “Singapore’s Latest Cabaret,” _Straits Times_, 15 May 1938, 3. (From NewspaperSG)
+[^14]: “[Singapore’s Latest Cabaret](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380515-1.2.22),” _Straits Times_, 15 May 1938, 3. (From NewspaperSG)
 
 
-[^15]: “Singapore’s Newest Cabaret,” _Morning Tribune_, 16 May 1938, 2. (From NewspaperSG)
+[^15]: “[Singapore’s Newest Cabaret](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380516-1.2.16),” _Morning Tribune_, 16 May 1938, 2. (From NewspaperSG)
 
 
-[^16]: Bonny Tan, “Living It Up at the Capitol,” _BiblioAsia_ 13, no. 4 (January–March 2018), 16–21; “Air-Conditioned Capitol Has 1,000 New Seats,” _Straits Times_, 31 January 1940, 15. (From NewspaperSG)
+[^16]: Bonny Tan, “[Living It Up at the Capitol](https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/living-up-at-capitol/),” _BiblioAsia_ 13, no. 4 (January–March 2018), 16–21; “[Air-Conditioned Capitol Has 1,000 New Seats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19400131-1.2.70),” _Straits Times_, 31 January 1940, 15. (From NewspaperSG)
 
 
 [^17]: “Friesians Will Form Nucleus of Local Dairy Herd,” _Straits Times_, 24 March 1946, 2; “Air Conditioning for Racehorses,” _Malaya Tribune_, 20 December 1938, 2. (From NewspaperSG)
