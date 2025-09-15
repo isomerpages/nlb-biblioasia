@@ -131,41 +131,41 @@ In 1999, while Singapore’s first prime minister, Lee Kuan Yew, famously credit
 [^16]: Bonny Tan, “[Living It Up at the Capitol](https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/living-up-at-capitol/),” _BiblioAsia_ 13, no. 4 (January–March 2018), 16–21; “[Air-Conditioned Capitol Has 1,000 New Seats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19400131-1.2.70),” _Straits Times_, 31 January 1940, 15. (From NewspaperSG)
 
 
-[^17]: “Friesians Will Form Nucleus of Local Dairy Herd,” _Straits Times_, 24 March 1946, 2; “Air Conditioning for Racehorses,” _Malaya Tribune_, 20 December 1938, 2. (From NewspaperSG)
+[^17]: “[Friesians Will Form Nucleus of Local Dairy Herd](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460324-1.2.23),” _Straits Times_, 24 March 1946, 2; “[Air Conditioning for Racehorses](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19381220-1.2.3),” _Malaya Tribune_, 20 December 1938, 2. (From NewspaperSG)
 
 
-[^18]: “An All-Electric World in 1963,” _Sunday Tribune_, 15 May 1938, 18. (From NewspaperSG)
+[^18]: “[An All-Electric World in 1963](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19380515-1.2.127),” _Sunday Tribune_, 15 May 1938, 18. (From NewspaperSG)
 
 
-[^19]: “The War of the Future,” _Straits Times_, 11 April 1930, 12. (From NewspaperSG)
+[^19]: “[The War of the Future](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300411-1.2.46),” _Straits Times_, 11 April 1930, 12. (From NewspaperSG)
 
 
-[^20]: “New Architecture in Singapore,” _Straits Times_, 6 March 1938, 32. (From NewspaperSG)
+[^20]: “[New Architecture in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380306-1.2.234),” _Straits Times_, 6 March 1938, 32. (From NewspaperSG)
 
 
 
-[^21]: “Cool Comfort,” _Morning Tribune_, 11 August 1937, 10. (From NewspaperSG); Keen Meng Choy and Ichiro Sugimoto, “Staple Trade, Real Wages, and Living Standards in Singapore, 1870–1939,” _Economic History of Developing Regions_ 33, no. 1 (2018): 18–50, 38, https://www.tandfonline.com/doi/abs/10.1080/20780389.2018.1430512.&nbsp;
+[^21]: “[Cool Comfort](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19370811-1.2.47),” _Morning Tribune_, 11 August 1937, 10. (From NewspaperSG); Keen Meng Choy and Ichiro Sugimoto, “Staple Trade, Real Wages, and Living Standards in Singapore, 1870–1939,” _Economic History of Developing Regions_ 33, no. 1 (2018): 18–50, 38, [https://www.tandfonline.com/doi/abs/10.1080/20780389.2018.1430512](https://www.tandfonline.com/doi/abs/10.1080/20780389.2018.1430512).&nbsp;
 
 
-[^22]: “The Heat Wave,” _Singapore Free Press_, 14 April 1926, 8. (From NewspaperSG)&nbsp;
+[^22]: “[The Heat Wave](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19260414-1.2.40),” _Singapore Free Press_, 14 April 1926, 8. (From NewspaperSG)&nbsp;
 
 
-[^23]: “Heat Wave: No Break in Weather,” _Malaya Tribune_, 11 June 1948, 1. (From NewspaperSG)&nbsp;
+[^23]: “[Heat Wave: No Break in Weather](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19480611-1.2.24),” _Malaya Tribune_, 11 June 1948, 1. (From NewspaperSG)&nbsp;
 
 
-[^24]: Goh Eng Wah, oral history interview by Jesley Chua Chee Huan, 25 June 1997, MP3 audio, Reel/Disc&nbsp; 5 of 14, National Archives of Singapore (accession no. 001907), 03:58.
+[^24]: Goh Eng Wah, oral history interview by Jesley Chua Chee Huan, 25 June 1997, MP3 audio, Reel/Disc&nbsp; 5 of 14, National Archives of Singapore ([accession no. 001907](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001907)), 03:58.
 
 
-[^25]: Patrick James Kiely, oral history interview by Rosemary Lim, 8 May 2008, MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore (accession no. 003297), 25:10.
+[^25]: Patrick James Kiely, oral history interview by Rosemary Lim, 8 May 2008, MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore ([accession no. 003297](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003297)), 25:10.
 
 
-[^26]: David Penberthy, self-recording, 1 April 2006, transcript and MP3 audio, Reel/Disc 1 of 6, National Archives of Singapore (accession no. 003074), 8–9.
+[^26]: David Penberthy, self-recording, 1 April 2006, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/eb006a47-1160-11e3-83d5-0050568939ad-OHC003074_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 6, National Archives of Singapore ([accession no. 003074](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003074)), 8–9.
 
 
 [^27]: Millbrooke, _Carrier in the Pacific_, 3.&nbsp;
 
 
-[^28]: Chan Thye Seng, oral history interview by Jason Lim, 10 May 2000, transcript and MP3 audio, Reel/Disc 9 of 15, National Archives of Singapore (accession no. 002265), 105.&nbsp;
+[^28]: Chan Thye Seng, oral history interview by Jason Lim, 10 May 2000, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html) and MP3 audio, Reel/Disc 9 of 15, National Archives of Singapore ([accession no. 002265](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002265)), 105.&nbsp;
 
 
-[^29]: “Air-Con Gets My Vote, Says SM Lee,” _Straits Times_, 19 January 1999, 1. (From NewspaperSG)
+[^29]: “[Air-Con Gets My Vote, Says SM Lee](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990119-1.2.4),” _Straits Times_, 19 January 1999, 1. (From NewspaperSG)
