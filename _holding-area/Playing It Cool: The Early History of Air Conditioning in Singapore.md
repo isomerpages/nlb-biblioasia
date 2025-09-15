@@ -82,10 +82,10 @@ In 1999, while Singapore’s first prime minister, Lee Kuan Yew, famously credit
 
 #### **Notes**
 
-[^1]: Marjorie Binnie, quoted from Margaret Shennan, _Out in the Midday Sun: The British in Malaya 1880–1960_ (Singapore: Monsoon Books, 2015), 86. (From National Library Singapore, call no. RSING 398.4 SKE)
+[^1]: Marjorie Binnie, quoted from Margaret Shennan, [_Out in the Midday Sun: The British in Malaya 1880–1960_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201374576) (Singapore: Monsoon Books, 2015), 86. (From National Library Singapore, call no. RSING 398.4 SKE)
 
 
-[^2]: “Prickly Heat,” _Singapore Free Press_, 10 July 1889, 43; “The Prevention of Sunstroke,” _Singapore Free Press_, 18 July 1896, 2. (From NewspaperSG)
+[^2]: “[Prickly Heat](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18890710-1.2.24),” _Singapore Free Press_, 10 July 1889, 43; “[The Prevention of Sunstroke](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18960718-1.2.6),” _Singapore Free Press_, 18 July 1896, 2. (From NewspaperSG)
 
 
 [^3]: Archive and Historical Resource Center, United Technologies Corporation: Anne Millbrooke, _Carrier in the Pacific and the Far East_ (1983), Historical Report No. 32, Box No. 154393, 3. The author wishes to thank Chang Jiat Hwee, Dean’s Chair Associate Professor at the Department of Architecture, College of Design and Engineering, National University of Singapore, for sharing this file.&nbsp;
