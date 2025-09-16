@@ -24,7 +24,7 @@ To avoid “prickly heat” (heat rash), people were advised to avoid too much s
 
 Air conditioning first came to Singapore in the 1920s and the largest supplier of the technology during the inter-war era was the Carrier Air Conditioning Company of America. Carrier entered the Asian market in the early 1930s, subsequently setting up a regional headquarters in Singapore alongside Tokyo, Hong Kong and Sydney.[^3]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_cabaret.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_carrier.png" style="width: 80%;">
 
 
 <div style="background-color: white;">  An advertisement by United Engineers Limited for its Carrier air conditioners. <i> Image reproduced from the Straits Times, 21 May 1937, 8. (From NewspaperSG).</i></div>
@@ -71,7 +71,7 @@ Before long, other entertainment spots in Singapore began incorporating air cond
 
 The _Morning Tribune_ said that the dance and cabaret hall was “destined to be the most modern and luxurious in the whole of Malaya” and could “comfortably hold 1,500 people who can dance in a cool, dehumidified building”.[^15]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_cabaret.png" style="width: 50%;">
+<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_cabaret.png" style="width: 80%;">
 
 
 <div style="background-color: white;">   The new cabaret of New World amusement park was air-conditioned and “designed to give the cool and refreshing atmosphere of a hill station”. <i> Source: The Straits Times, 15 May 1938 © SPH Media Limited. Permission required for reproduction. </i></div>
