@@ -125,7 +125,7 @@ This essay is adapted from Chapter 7, “Regulating Heat, Controlling Urban Airs
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray26.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/FionaWilliamson.png">
 <b>Fiona Williamson</b> is Professor of Environmental History in the College of Integrative Studies and Associate Dean (Undergraduate Education) at the Singapore Management University. She is interested in the history of climate, meteorology and extreme weather in Singapore, Malaysia and Hong Kong.   </div>
 
 #### **Notes**
