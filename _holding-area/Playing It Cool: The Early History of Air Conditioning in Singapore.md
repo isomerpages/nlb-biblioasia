@@ -24,7 +24,7 @@ To avoid “prickly heat” (heat rash), people were advised to avoid too much s
 
 Air conditioning first came to Singapore in the 1920s and the largest supplier of the technology during the inter-war era was the Carrier Air Conditioning Company of America. Carrier entered the Asian market in the early 1930s, subsequently setting up a regional headquarters in Singapore alongside Tokyo, Hong Kong and Sydney.[^3]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_cabaret.png" style="width: 50%;">
+<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_cabaret.png" style="width: 80%;">
 
 
 <div style="background-color: white;">  An advertisement by United Engineers Limited for its Carrier air conditioners. <i> Image reproduced from the Straits Times, 21 May 1937, 8. (From NewspaperSG).</i></div>
