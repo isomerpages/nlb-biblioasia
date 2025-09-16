@@ -63,7 +63,7 @@ Before long, other entertainment spots in Singapore began incorporating air cond
 
 
 <div style="background-color: white;">  The entrance to the New World amusement park at Jalan Besar, 1945. <i> David Turner Collection, courtesy of National Archives of Singapore (Media - Image no.20060000528 - 0005). </i></div>
-<br><br>
+<br>
 <img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_dance.png" style="width: 50%;">
 
 
