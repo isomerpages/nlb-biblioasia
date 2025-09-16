@@ -54,6 +54,11 @@ Within a decade, however, this cooling system was becoming obsolete. The Alhambr
 
 Before long, other entertainment spots in Singapore began incorporating air conditioning into their design as a marketing ploy. In 1938, the New World amusement park, which had opened in 1923, advertised its air-conditioned Dance Palace where patrons could “Dance in Perpetual Coolness”.[^13] Costing $48,500, the _Straits Times_ wrote that the “air-conditioning plant has been designed to give the cool and refreshing atmosphere of a hill station, even when there are more than 1,000 people inside”.[^14]
 
+<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_entrance.png" style="width: 80%;">
+
+
+<div style="background-color: white;">  The entrance to the New World amusement park at Jalan Besar, 1945. <i> David Turner Collection, courtesy of National Archives of Singapore (Media - Image no.20060000528 - 0005). </i></div>
+<br><br>
 <img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_dance.png" style="width: 50%;">
 
 
