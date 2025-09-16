@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - "Playing It Cool: The Early History of Air Conditioning in Singapore.md"
       - Sample article.md
