@@ -39,7 +39,7 @@ Two years later, a study on air conditioning in the tropics was published, which
 
 In June 1938, the _Morning Tribune_ explained that the main purpose of air conditioning was not to cool but to remove the excess moisture which was considered dangerous to health. “\[I\]n Singapore, we have too much moisture in the air. The relative humidity is high. We become uncomfortable and suffer because perspiration and body heat are not removed fast enough,” the newspaper wrote. “Air conditioning, therefore, is called upon to remove the excess moisture and lower the relative humidity.”[^8]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_supplement.png" style="width: 60%;">
+<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_supplement.png" style="width: 80%;">
 
 
 <div style="background-color: white;">A supplement in the <i>Morning Tribune</i> on the reopening of Alhambra Theatre in July 1938. It was described as “Malaya’s Coolest Cinema”. <i>Image reproduced from the Morning Tribune, 27 July 1938, 2. (From NewspaperSG).  </i></div>
