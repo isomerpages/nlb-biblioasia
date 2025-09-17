@@ -18,6 +18,4 @@ third_nav_title: The Present
 
 **Email**: chan_pan_fong@nlb.gov.sg
 
-**About**:	Our programme connects teenagers aged 13 to 17 who share an interest in Chinese literature through guided reading sessions facilitated by experienced tertiary students. Through careful reading and thoughtful reflection on selected texts, participants engage with fundamental life questions and universal themes that resonate with their developmental stage. The collaborative nature of our sessions ensures that participants not only develop their literary appreciation skills but also grow alongside peers who share their intellectual curiosity and cultural interests. This shared journey of discovery helps maintain and deepen their engagement with Chinese literature whilst building lasting friendships rooted in mutual respect for learning and cultural heritage.
-
-We warmly welcome secondary school students who are eager to read Chinese books and contribute to meaningful discussions.
+**About**:	Through guided reading sessions led by tertiary students, we bring together teenagers aged 13 to 17 who are interested in Chinese literature. By reading and reflecting on texts together, participants explore life topics, learn alongside their peers, and maintain their passion for Chinese books. We welcome secondary school students who enjoy reading Chinese books and participating in discussions to join our guided sessions, make friends through literature, and embark on journeys of discovery!
