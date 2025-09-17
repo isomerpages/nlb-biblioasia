@@ -2,6 +2,8 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
+      - "The Future/Diversified Reading Guidance: Emerging Technology, Finance,
+        and Humanities.md"
       - The Future/.keep
       - The Future/List of Articles.md
       - The Future/The Future of Reading Clubs.md
