@@ -250,7 +250,7 @@ For 30 years, part-time libraries brought books to the people and extended libra
 [^35]: National Library Singapore, [_Report for the Period April 1979–March 1980_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394249) (Singapore: Singapore National Printers Pte Ltd, 1980), 15. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “[New Branch Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810111-1.2.32),” _Straits Times_, 11 January 1981, 6; “[Page 13 Miscellaneous Column 3](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850813-1.2.76.19.3),” _Straits Times_, 13 August 1985, 13. (From NewspaperSG)
 
 
-[^36]: Audrey Perera, “[Bedok Library Under Siege](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810111-1.2.32),” _Straits Times_, 6 October 1985, 11. (From NewspaperSG); National Library Singapore, [_Report for the Period FY85_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394249) (Singapore: National Library Singapore, 1986), 35. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+[^36]: Audrey Perera, “[Bedok Library Under Siege](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851006-1.2.21.11),” _Straits Times_, 6 October 1985, 11. (From NewspaperSG); National Library Singapore, [_Report for the Period FY85_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394249) (Singapore: National Library Singapore, 1986), 35. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
 
 [^37]: “[Bookworms’ Delight](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19811216-1.2.33),” _New Nation_, 16 December 1981, 8. (From NewspaperSG)
