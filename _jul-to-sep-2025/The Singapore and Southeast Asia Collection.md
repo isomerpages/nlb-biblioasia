@@ -107,7 +107,7 @@ More recently, in 2022–23, Sharad Pandian, who graduated from the Nanyang Tech
 ![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_books.jpg)
 <div style="background-color:white;"> Librarians compile catalogues, bibliographies and resource guides featuring the rich Singapore and Southeast Asia Collection. The National Library also organises talks, exhibitions and programmes to promote the discovery and appreciation of the collection. <i> Collection of the National Library Singapore. </i></div>
 
-Library patrons have increasingly relied on digitised resources that the librarians put up online. The National Library Collections Directory (www.nlb.gov.sg/main/nlcollectionsdirectory) provides an overview of the library’s rich Singapore content through a wide range of resources, including donor materials across different subjects and formats.&nbsp;
+Library patrons have increasingly relied on digitised resources that the librarians put up online. [The National Library Collections Directory](https://www.nlb.gov.sg/main/nlcollectionsdirectory) provides an overview of the library’s rich Singapore content through a wide range of resources, including donor materials across different subjects and formats.&nbsp;
 
 As research methods evolve over time with resources available beyond print, the strong link between collections, librarians and library users will remain constant.
 
@@ -177,7 +177,7 @@ As research methods evolve over time with resources available beyond print, the 
 [^19]: “Rare Historical Materials Made Accessible Through Partnership Between British Library and National Library Board of Singapore,” National Library Board, 19 August 2013, [https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2013/rare-histo-materials-made-accessible-through-partnership-between-british-library-and-nlb-of-singa](https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2013/rare-histo-materials-made-accessible-through-partnership-between-british-library-and-nlb-of-singa).
 
 
-[^20]: Anh Sy Huy Le, “Trade, Colonialism and Diaspora: Chinese Rice Commerce and the Transformation of Sài Gòn–Chợ Lớn&nbsp; in Colonial Vietnam,” in [_Chapters on Asia 2020_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=d319feb6-6fab-4db4-85ec-c4df5c2bffdc) (Singapore: National Library Board, 2021), 7–37. (From National Library Online)&nbsp;
+[^20]: Anh Sy Huy Le, “Trade, Colonialism and Diaspora: Chinese Rice Commerce and the Transformation of Sài Gòn–Chợ Lớn in Colonial Vietnam,” in [_Chapters on Asia 2020_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=d319feb6-6fab-4db4-85ec-c4df5c2bffdc) (Singapore: National Library Board, 2021), 7–37. (From National Library Online)&nbsp;
 
 
 [^21]: Sharad Pandian, “‘Prosperity Through Quality and Reliability’: SISIR and the Making of a Quality Conscious Nation,” _Chapters on Asia_, 2024, [https://biblioasia.nlb.gov.sg/chapters-on-asia-2024/sisir-standards-quality-control/](https://biblioasia.nlb.gov.sg/chapters-on-asia-2024/sisir-standards-quality-control/).
