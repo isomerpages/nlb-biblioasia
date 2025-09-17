@@ -23,19 +23,20 @@ third_nav_title: The Present
 
 **Email:** kerkeh@hotmail.com
 
-Social Media:	Facebook 
-https://www.facebook.com/groups/556769671157934
+Social Media:	<a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/groups/556769671157934">Facebook</a>
 
-**About**:	The Reading Club operates in partnership with the National Library Board to advance Chinese reading culture, foster sustainable reading habits, and cultivate the shared joy of literary discovery within the community. 
+
+
+**About**:	The Reading Club operates in partnership with the National Library Board to promote Chinese reading, encourage reading habits, and share the joy of reading. 
 
 *Book Selection* <br>
 Our carefully curated book selections encompass diverse topics and genres, with particular emphasis on celebrating and promoting works by local authors. 
 
 *Mission*<br> 
-We believe in the transformative power of literature to forge meaningful connections, operating under the principle of "making friends through books" whilst actively promoting and nurturing local reading culture. 
+We believe in the transformative power of literature to forge meaningful connections, operating under the principle of "making friends through books" while actively promoting and nurturing local reading culture. 
 
 *Goals and Activities*<br> 
-We regularly organise engaging book discussions that seamlessly integrate literary exploration with vibrant cultural activities, including traditional Chinese New Year riddles, interactive games, and seasonal celebrations. 
+We regularly organise reading sessions that combine discussions with cultural activities (such as Chinese New Year riddles and games) to make reading more lively and interesting.
 
 *Vision*<br> 
-Our ultimate aspiration is to create and sustain a warm, inclusive, and vibrant reading community.
+Our vision is to create and sustain a warm and vibrant reading community.
