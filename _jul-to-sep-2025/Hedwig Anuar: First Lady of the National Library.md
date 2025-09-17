@@ -49,7 +49,7 @@ In a 1980 letter to Wee Joo Gim, president of the Library Association of Singapo
 
 In 1955, Anuar was awarded a training grant and studied librarianship at North Western Polytechnic in London. When she arrived in London, she got involved with the community of Malayan students there. Most of&nbsp;them&nbsp;were already friends and acquaintances. More importantly, one of her good friends, John Eber, was the secretary of&nbsp;the Malayan Forum. [^8]
 
-The forum was started in 1948 by Tunku Abdul Razak Hussein, Goh Keng Swee and Maurice Baker. It formally became an organisation in October 1949 as a place for young Malayans in the United Kingdom to discuss the future of Malaya and&nbsp; various political possibilities. [^9]
+The forum was started in 1948 by Tunku Abdul Razak Hussein, Goh Keng Swee and Maurice Baker. It formally became an organisation in October 1949 as a place for young Malayans in the United Kingdom to discuss the future of Malaya and various political possibilities. [^9]
 
 After they left (Tunku in 1950 and Goh in 1951), Eber’s group had taken over and reduced it to being their own mouthpiece. A survey of their last issue of the forum’s newsletter, _Suara Merdeka_ (Voice of Freedom), in January 1956 before they were voted out showed it to be more a summary of the news, with the only external content being an article reprinted from a British paper, the _New Statesman &amp; Nation_. [^10]
 
