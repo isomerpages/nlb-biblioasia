@@ -24,4 +24,4 @@ third_nav_title: The Present
 
 **Email**: sunlifelcx@gamil.com
 
-**About**:	We are founded upon the fundamental belief that parental growth serves as the cornerstone of children's development, recognising that when parents continue to learn and evolve, they create an environment that naturally fosters their children's growth and potential. Growing Parents Reading Club provides a dedicated platform where parents can embark on their own journey of continuous learning and self-improvement, understanding that this personal development directly benefits their children's wellbeing and development. Our book discussions encompass three interconnected areas that are essential to effective parenting: parenting methodologies and strategies, cultural understanding and transmission, and personal self-growth and development.
+**About**:	We believe that when parents grow, their children grow too. Growing Parents Reading Club provides a platform for parents to support their children's development through their own personal growth, by discussing books on parenting, culture, and self-improvement.
