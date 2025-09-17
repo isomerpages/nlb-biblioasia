@@ -2,13 +2,13 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Future/Love of Books, Love of Reading Clubs.md
       - The Future/.keep
       - The Future/List of Articles.md
       - The Future/The Future of Reading Clubs.md
       - The Future/When Reading Meets Technology.md
       - The Future/Writers and Reading Clubs.md
       - The Future/How to Attract Young People to Read Chinese.md
+      - The Future/Love of Books, Love of Reading Clubs.md
       - Landing Page.md
       - The Past.md
       - The Present/.keep
