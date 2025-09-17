@@ -26,6 +26,7 @@ By leading discussions on historical fiction, reading clubs can bring together l
 Leading historical fiction discussions in reading clubs significantly enhances cultural understanding and fosters reading enthusiasm. Interest is what drives these groups at every stage—it brings them together initially, helps them grow over time, and will guide their future development.
 
 
-#### **Chinese Title Translations**1.	Ming mo bian jun yi xiao bing 《明末边军一小兵》[A Common Soldier in the Late Ming Border Forces]
+#### **Chinese Title Translations**
+1.	Ming mo bian jun yi xiao bing 《明末边军一小兵》[A Common Soldier in the Late Ming Border Forces]
 2.	Hui dao san guo de tezhong juji shou《回到三国的特种狙击手》[Special Forces Sniper: Back to the Three Kingdoms]
 3.	Fenghuo fenlian《烽火焚炼》[Forged by Beacon Fires]
