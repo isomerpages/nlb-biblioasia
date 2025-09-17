@@ -2,6 +2,8 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
+      - The Future/Historical Fiction by Modern Writers – How the Past Speaks to
+        the Present.md
       - The Future/.keep
       - The Future/List of Articles.md
       - The Future/The Future of Reading Clubs.md
