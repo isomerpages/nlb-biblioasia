@@ -191,7 +191,7 @@ The NAS receives photographs through transfers from two sources: namely governme
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/LuWenshi.png">
-<b>Lu Wenshi</b> &nbsp;is a Senior Manager with the National Archives of Singapore, who has an innate interest in photographs, old and contemporary. She oversees the speeches and press release collections, content curation and crowdsourcing for the Archives Services department.</div>
+<b>Lu Wenshi</b> is a Senior Manager with the National Archives of Singapore, who has an innate interest in photographs, old and contemporary. She oversees the speeches and press release collections, content curation and crowdsourcing for the Archives Services department.</div>
 
 
 
