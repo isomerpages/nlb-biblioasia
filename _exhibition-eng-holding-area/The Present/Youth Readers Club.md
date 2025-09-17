@@ -23,4 +23,4 @@ Level 2 Programme Zone
 
 **Email**: qingnianshuyuan.official@gmail.com
 
-**About**:	Youth Readers Club is a dedicated literary community that brings together young people aged 17 to 25 who share a passion for reading and intellectual exploration. The club maintains a structured yet flexible programme, hosting eight book discussion sessions annually on the fourth Sunday of each month at the library. Our book selections span a wide array of fields and disciplines, reflecting the diverse interests and academic pursuits of our young adult membership. The club's primary focus lies in fostering in-depth reading and meaningful exchange amongst participants.
+**About**:	Youth Readers Club brings together young people aged 17 to 25 who love reading. We hold eight guided reading sessions per year, meeting on the fourth Sunday of each month at the library. Our reading selections span various fields, with the aim of fostering in-depth discussion and exchange of ideas.
