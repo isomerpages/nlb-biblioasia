@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - The Future/.keep
-      - The Future/Articles.md
+      - The Future/List of Articles.md
       - The Future/The Future of Reading Clubs.md
       - Landing Page.md
       - The Past.md
