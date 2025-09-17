@@ -107,7 +107,7 @@ More recently, in 2022–23, Sharad Pandian, who graduated from the Nanyang Tech
 ![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_books.jpg)
 <div style="background-color:white;"> Librarians compile catalogues, bibliographies and resource guides featuring the rich Singapore and Southeast Asia Collection. The National Library also organises talks, exhibitions and programmes to promote the discovery and appreciation of the collection. <i> Collection of the National Library Singapore. </i></div>
 
-Library patrons have increasingly relied on digitised resources that the librarians put up online. [The National Library Collections Directory](www.nlb.gov.sg/main/nlcollectionsdirectory) provides an overview of the library’s rich Singapore content through a wide range of resources, including donor materials across different subjects and formats.&nbsp;
+Library patrons have increasingly relied on digitised resources that the librarians put up online. [The National Library Collections Directory](https://www.nlb.gov.sg/main/nlcollectionsdirectory) provides an overview of the library’s rich Singapore content through a wide range of resources, including donor materials across different subjects and formats.&nbsp;
 
 As research methods evolve over time with resources available beyond print, the strong link between collections, librarians and library users will remain constant.
 
