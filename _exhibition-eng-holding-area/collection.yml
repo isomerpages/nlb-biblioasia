@@ -2,19 +2,6 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Future/.keep
-      - The Future/List of Articles.md
-      - The Future/The Future of Reading Clubs.md
-      - The Future/When Reading Meets Technology.md
-      - The Future/Writers and Reading Clubs.md
-      - The Future/How to Attract Young People to Read Chinese.md
-      - The Future/Love of Books, Love of Reading Clubs.md
-      - "The Future/Diversified Reading Guidance: Emerging Technology, Finance,
-        and Humanities.md"
-      - The Future/Reading Clubs as Platforms for Cultural Exchange.md
-      - The Future/Historical Fiction by Modern Writers – How the Past Speaks to
-        the Present.md
-      - The Future/Reading Clubs in the Digital Age.md
       - Landing Page.md
       - The Past.md
       - The Present/.keep
@@ -49,3 +36,16 @@ collections:
       - The Present/Yue Yi Reading Club.md
       - The Present/Youth Readers Club.md
       - The Present/Starry Rain Book House.md
+      - The Future/.keep
+      - The Future/List of Articles.md
+      - The Future/The Future of Reading Clubs.md
+      - The Future/When Reading Meets Technology.md
+      - The Future/Writers and Reading Clubs.md
+      - The Future/How to Attract Young People to Read Chinese.md
+      - The Future/Love of Books, Love of Reading Clubs.md
+      - "The Future/Diversified Reading Guidance: Emerging Technology, Finance,
+        and Humanities.md"
+      - The Future/Reading Clubs as Platforms for Cultural Exchange.md
+      - The Future/Historical Fiction by Modern Writers – How the Past Speaks to
+        the Present.md
+      - The Future/Reading Clubs in the Digital Age.md
