@@ -60,3 +60,48 @@ In today's era of rapid advancement in emerging technology and fintech, we belie
 
 [Read Full Article](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/future/article6/)
 <br><br>
+
+
+#### **《Reading Clubs as Platforms for Cultural Exchange》**
+Author: Wang Hongyu 
+<br>
+Looking ahead, Rain Studio will continue to build on its distinctive strengths in cultural creativity and artistic expression. We plan to expand academic exchanges with institutions and research centres both locally and internationally, establishing robust international academic networks. At the same time, we will actively engage in publishing initiatives and strengthen our outreach capabilities to promote cultural sharing, with particular focus on Nanyang cultural studies.
+
+[Read Full Article](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/future/article7/)
+<br><br>
+
+
+#### **《Historical Fiction by Modern Writers – How the Past Speaks to the Present》**
+Author: Yu Yun 
+<br>
+Through guided discussions of historical fiction, reading clubs can bring together like-minded readers for meaningful exchange. While such novels often obscure historical truth by incorporating contemporary elements, facilitators who thoroughly research primary sources can guide readers in distinguishing fact from fiction, thereby fostering deeper discussions. 
+
+[Read Full Article](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/future/article8/)
+<br><br>
+
+
+#### **《Reading Clubs in the Digital Age》**
+Author: Xia Xia
+<br>
+The digital age presents reading clubs with both new opportunities and challenges. While technological tools make reading and communication more convenient, they also bring issues such as divided attention. For organisers, the key lies in leveraging digital advantages while preserving the essence of reading clubs – promoting deep reading and intellectual discourse. Reading clubs are no longer just interest groups; they can establish their brand as knowledge hubs or even open up new career pathways.
+
+[Read Full Article](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/future/article9/)
+<br><br>
+
+
+#### **《The Value of Reading Clubs》**
+Author: Lim Jie Xi
+<br>
+The power of literature lies in how authors give voice to diverse characters within narrative frameworks, allowing these voices to explore issues from multiple perspectives. When we read these stories, we can temporarily set aside our own positions, listen to these varied voices, and connect emotionally with the characters. This was precisely the motivation behind "Reading through Turbulent Times " reading club’s decision to move online during the pandemic. By bringing together authors and readers from all over the world, the club aimed to encourage participants to set aside their prejudices, immerse themselves in the stories, and foster empathy that would deepen mutual understanding.
+
+[Read Full Article](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/future/article10/)
+<br><br>
+
+
+#### **《Exploring the Reading World of Young Readers》**
+Author: Tan Haoxuan 
+<br>
+A 2021 survey by the National Institute of Education showed that fewer than 40% of local Secondary 4 students had regular reading habits. Despite this trend, there are still young people who choose to read books in their spare time. They too feel worn out by their busy schedules, but they believe reading can transport them to different worlds, bringing endless joy and enrichment.
+
+[Read Full Article](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/future/article11/)
+<br><br>
