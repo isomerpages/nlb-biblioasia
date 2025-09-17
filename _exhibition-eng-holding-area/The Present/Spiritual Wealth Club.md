@@ -24,13 +24,13 @@ third_nav_title: The Present
 **About**:	
 
 *Vision*<br>
-Continuously deliver the value of good books 
+Continuously deliver the value of good books.
 
 *Mission*<br>
-Help 300 million book friends benefit from reading 
+Help 300 million book friends benefit from reading. 
 
 *Values*<br>
 * Reading for good
 * Equality and respect
-* Gratitude, feedback and help
+* Gratitude, feedback and mutual help
 * Lifelong growth
