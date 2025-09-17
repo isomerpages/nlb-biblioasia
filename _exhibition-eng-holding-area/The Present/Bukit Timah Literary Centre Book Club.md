@@ -22,5 +22,6 @@ third_nav_title: The Present
 
 **Email**: quekys1951@gmail.com
 
-**About**:	Bukit Timah Literary Centre operates as one of the principal activity units under Bukit Timah Community Club. The reading club functions as an integral component of this broader literary organisation. The Literary Centre maintains an active publishing programme, producing literary books and magazines that contribute to Singapore's Chinese literary landscape. 
-The reading club is specifically dedicated to promoting and developing Singapore Chinese literature, recognising the importance of nurturing local literary culture whilst connecting it to broader Chinese literary traditions. Through systematic discussions of literary books and magazines, the reading club fulfils a dual purpose: fostering critical appreciation of literary works amongst participants whilst serving as a platform for recommending exceptional publications to the wider community.
+**About**:	
+Bukit Timah Literary Centre is one of the activity units under Bukit Timah Community Club. The Literary Centre publishes literary books and magazines and organises performances related to literature and arts. The Bukit Timah Literary Centre Book Club falls under the Literary Centre, with the purpose of promoting and developing Singapore Chinese literature and recommending good books through guided reading of literary books and magazines.
+
