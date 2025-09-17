@@ -2,10 +2,10 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Future/When Reading Meets Technology.md
       - The Future/.keep
       - The Future/List of Articles.md
       - The Future/The Future of Reading Clubs.md
+      - The Future/When Reading Meets Technology.md
       - Landing Page.md
       - The Past.md
       - The Present/.keep
