@@ -2,9 +2,9 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
-      - The Future/The Future of Reading Clubs.md
-      - The Future/Articles.md
       - The Future/.keep
+      - The Future/Articles.md
+      - The Future/The Future of Reading Clubs.md
       - Landing Page.md
       - The Past.md
       - The Present/.keep
