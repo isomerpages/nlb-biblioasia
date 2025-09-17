@@ -2,6 +2,7 @@ collections:
   exhibition-eng-holding-area:
     output: true
     order:
+      - The Future/Reading Clubs as Platforms for Cultural Exchange.md
       - The Future/.keep
       - The Future/List of Articles.md
       - The Future/The Future of Reading Clubs.md
