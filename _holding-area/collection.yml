@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - A Mansion in Serangoon Whampoa House Bendemeer.md
       - "Playing It Cool: The Early History of Air Conditioning in Singapore.md"
       - Sample article.md
