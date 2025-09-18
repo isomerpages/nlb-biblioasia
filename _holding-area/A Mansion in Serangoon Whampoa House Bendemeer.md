@@ -135,7 +135,7 @@ By the 1950s, Bendemeer had fallen into disrepair, with its once-magnificent gar
 
 [^17]:  “Bendemeer” was inspired by the song “Bendemeer’s Stream” by Thomas Moore from his Oriental romance poem, _Lalla Rookh_, first published in 1817.&nbsp;
 
-[^18]:  Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 55; “[The Opening of ‘Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18950329-1.2.8)’,”
+[^18]:  Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 55; “[The Opening of ‘Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18950329-1.2.8)’.”
 
 [^19]:  Lee Kip Lin, [_The Singapore House: 1819–1942_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5087274) (Singapore: Times Editions \[for\] Preservation of Monuments Board, 1988), 150. (From National Library Singapore, call no. RSING 728.095957 LEE); “[_The Opening of Bendemeer_](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18950329-1.2.8).”
 
