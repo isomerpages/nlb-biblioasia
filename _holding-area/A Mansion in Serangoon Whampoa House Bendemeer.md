@@ -64,6 +64,36 @@ After Whampoa’s death in 1880,[^16] Seah Liang Seah, one of Singapore’s weal
 
 Although the architect and author Lee Kip Lin speculated that Seah “demolished” Whampoa’s house and built a new structure, an 1895 report by the _Singapore Free Press_ _and Mercantile Advertiser_ mentions that Whampoa “built a house at Serangoon over the water, which is still standing as well as the fine house standing in the grounds which has been acquired by Mr. Seah Liang Seah”.[^19]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Whampoa%20House/19980005646___IMG0072.jpg" style="width: 80%;">Side view of Bendemeer, 1963. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980005646&nbsp;-&nbsp;0072).</i></div>
+
+        
+
+Following his predecessor’s tradition, Seah hosted lavish parties where guests included royalty, governors, performing artistes, revolutionaries, businessmen and government officials. These were often described in detail in the newspapers of the day.
+
+For his housewarming party in March 1895, Seah invited 500 guests, including Governor Mitchell, who “remembered nearly 40 years ago visiting ‘Whampoa’s House’, Singapore, which was well-known in England and elsewhere, and he hoped the present owner would make it as famous as the former owner had”. Among the guests were some 120 Chinese “of all classes of the community” who were treated to a dinner that did not end until many felicitations in Chinese were offered. The European guests had earlier been served refreshments “on an extensive scale” in the dining room that Whampoa had expanded along the verandas. “An “Austrian band was stationed in the inner vestibule, and throughout the evening it rendered a fine selection of music”.[\[1\]](#_ftn1)
+
+In August 1896, Seah hosted a luncheon at Bendemeer for 50 people in honour of King Chulalongkorn (Rama V) of Siam (present-day Thailand), with the famous gardens serving as a backdrop for commemorative photos.[\[2\]](#_ftn2) In April, a month earlier, Seah had also welcomed Li Hung Chang, the ambassador from the Emperor of China, for an evening visit.[\[3\]](#_ftn3)
+
+The visits and grand parties continued well into the 1900s. On 2 May 1902, the _Straits Times_ reported that “His Highness Prince Tsai Cheng \[of China\] accompanied by his suite and the Chinese Consul-General visited Bendemeer yesterday afternoon”.[\[4\]](#_ftn4) Beyond officials from the Qing court, Bendemeer welcomed anti-Qing revolutionaries in the early 1900s, including Sun Yat-sen himself.[\[5\]](#_ftn5) European leaders also visited Bendemeer, among them Prime Minister of France Georges Clemenceau, who expressed delight in touring Bendemeer and viewing Seah’s “famous collection of China and other articles of vertu” in 1920.[\[6\]](#_ftn6)
+
+On 9 February 1909, Seah threw a particularly lavish party at Bendemeer. “Mr. Seah Liang Seah, the doyen of Straits-born Chinese, held a most successful ‘At Home’ at his fine house, Bendemeer, Sirangoon-rd \[sic\], yesterday afternoon,” reported the _Singapore Free Press and Mercantile Advertiser_. “The house and grounds are always worth looking over, and as the afternoon was beautifully fine, till quite late, the proceedings were animated and successful.[\[7\]](#_ftn7)
+
+The gathering brought together Singapore’s colonial elite and numerous Chinese businessmen. Guests included Governor of the Straits Settlements John Anderson, Major General Perrott and Mrs Perrott, Sir W. Hyndman and Lady Hyndman Jones, and Sir Arthur Young and Lady Evelyn Young. Refreshments were served “in the true Seah style” and Seah “did everything possible for the comfort and enjoyment of his guests, and worthily sustained the hospitable traditions of Bendemeer”.[\[8\]](#_ftn8)
+
+Entertainment included games such as clock golf, croquet, driving, and fishing and shooting competitions, with attractive prizes, while the 99th Deccans Band played music. The governor gave a speech of thanks, and in response, Seah congratulated him for selecting a day with the finest weather before his departure from Singapore.[\[9\]](#_ftn9)&nbsp;
+
+Among those that Seah invited to tea at Bendemeer was the English writer Mrs Florence Caddy, who toured the Far East aboard the Duke of Sutherland’s yacht, the _Sans Peur._ She described “dishes of curious confectionary, and all the fruits of the country arranged with flowers, ferns, and above all, roses”. The roses were particularly noteworthy as Singapore was too hot to grow them, requiring Seah to import fresh rose bushes every year from China.[\[10\]](#_ftn10)
+
+  
+
+* * *
+
+
+
+
+
   
 
 * * *
@@ -124,3 +154,23 @@ Although the architect and author Lee Kip Lin speculated that Seah “demolished
 [^18]:  Song, [One Hundred Years’ History of the Chinese in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 55; “[The Opening of ‘Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18950329-1.2.8)’,”
 
 [^19]:  Lee Kip Lin, [_The Singapore House: 1819–1942_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5087274) (Singapore: Times Editions \[for\] Preservation of Monuments Board, 1988), 150. (From National Library Singapore, call no. RSING 728.095957 LEE); “[The Opening of Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18950329-1.2.8).”
+
+[^20]:  “[The Opening of Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18950329-1.2.8).”
+
+[^21]:  “[The King of Siam](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18960804-1.2.106),” _Singapore Free Press and Mercantile Advertiser_ (Weekly), 4 August 1896, 14. (From NewspaperSG). King Chulalongkorn visited Singapore on three occasions:&nbsp; 1871, 1896 and 1901.
+
+[^22]:  “[H.E. Li Hung Chang](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18960414-1.2.35),” _Singapore Free Press and Mercantile Advertiser_, 14 April 1896, 5. (From NewspaperSG)
+
+[^23]:  “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19020502-1.2.38),” _Straits Times_, 2 May 1902, 4. (From NewspaperSG)
+
+[^24]:  Gloria Chandy, “[Mansion That Was Hub of the Social Set](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800303-1.2.36),” _New Nation_, 3 March 1980, 9. (From NewspaperSG)
+
+[^25]:  “[M. Clemenceau’s Week](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19201021-1.2.56),” _Straits Times_, 21 October 1920, 7. (From NewspaperSG)
+
+[^26]:  “‘[At Home’ at Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19090210-1.2.38),” _Singapore Free Press and Mercantile Advertiser_, 10 February 1909, 5. (From NewspaperSG)
+
+[\[8\]](#_ftnref8) “‘[At Home’ at Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19090210-1.2.38).”
+
+[\[9\]](#_ftnref9) “‘[At Home’ at Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19090210-1.2.38).”
+
+[\[10\]](#_ftnref10) Mrs Florence Caddy, [_To Siam and Malaya in the Duke of Sutherland’s Yatch ‘Sans Peur_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0a4a9320-10da-448e-87b1-f749f74252bb)’ (London: Hurst and Blackett, 1889), 84. (From National Library Online)
