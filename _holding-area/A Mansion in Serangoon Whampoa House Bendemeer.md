@@ -54,7 +54,7 @@ Besides Whampoa House, Whampoa owned several other commercial and private establ
 
 In choosing a location away from the city, Whampoa pioneered a trend that other wealthy Chinese would emulate in the 1890s. He recognised how a home’s size, opulence and novelty could serve both as a symbol and a statement of social standing. However, not all of Whampoa’s businesses, particularly the ones jointly held with Europeans, did well.[^14] The _Singapore Free Press and Mercantile Advertiser_ noted that, “towards the latter end of his life… Whampoa had to restrict his former lavish expenditure”.[^15]
 
-**New Owner, New Name**
+#### **New Owner, New Name**
 
 After Whampoa’s death in 1880,[^16] Seah Liang Seah, one of Singapore’s wealthiest and most prominent Chinese towkays, purchased Nam Sang Hua Yuan in the late 1890s. He renamed it “Bendemeer”,[^17] at the suggestion of Governor of the Straits Settlements Charles Mitchell, or Ming Li Yuan (明丽园) in Chinese.[^18]
 
@@ -66,9 +66,7 @@ Although the architect and author Lee Kip Lin speculated that Seah “demolished
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Whampoa%20House/19980005646___IMG0072.jpg" style="width: 80%;">Side view of Bendemeer, 1963. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980005646&nbsp;-&nbsp;0072).</i></div>
-
-        
+<img src="/images/Online%20Only%20Articles/Whampoa%20House/19980005646___IMG0072.jpg" style="width: 80%;">Side view of Bendemeer, 1963. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980005646&nbsp;-&nbsp;0072).</i></div>        
 
 Following his predecessor’s tradition, Seah hosted lavish parties where guests included royalty, governors, performing artistes, revolutionaries, businessmen and government officials. These were often described in detail in the newspapers of the day.
 
@@ -86,28 +84,24 @@ Entertainment included games such as clock golf, croquet, driving, and fishing a
 
 Among those that Seah invited to tea at Bendemeer was the English writer Mrs Florence Caddy, who toured the Far East aboard the Duke of Sutherland’s yacht, the _Sans Peur._ She described “dishes of curious confectionary, and all the fruits of the country arranged with flowers, ferns, and above all, roses”. The roses were particularly noteworthy as Singapore was too hot to grow them, requiring Seah to import fresh rose bushes every year from China.[^29]
 
+#### **Not All Roses**
+
+        
+
+At Bendemeer, as with several other _rumah besar_ (Malay for “large house”), unpleasant incidents occurred from time to time. On one occasion, a Chinese coolie was arrested for attempting to “stupefy the fish” in the garden ponds. Caught red-handed with a bucket ready for his haul, the coolie was made to pay a $25 fine or face a month’s hard imprisonment.[^30]
+
+In contrast to the praise leveled on the piggery’s cleanliness during Whampoa’s time, Seah became embroiled in controversy over unsanitary pig farming in the suburbs in 1895. Public complaints were relating to the accumulation of pig faeces and the smell of pig urine along Serangoon Road. Involved in rearing pigs himself, Seah was called to testify on behalf of pig farmers against calls to halt pig farming in the area.[^31]
+
+  
+
+* * *
+
+
   
 
 * * *
 
 
-
-
-
-  
-
-* * *
-
-
-
-  
-
-
-
-
-  
-
-* * *
 
 
 
@@ -174,3 +168,7 @@ Among those that Seah invited to tea at Bendemeer was the English writer Mrs Flo
 [^28]:  “‘[At Home’ at Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19090210-1.2.38).”
 
 [^29]:  Mrs Florence Caddy, [_To Siam and Malaya in the Duke of Sutherland’s Yatch ‘Sans Peur_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0a4a9320-10da-448e-87b1-f749f74252bb)’ (London: Hurst and Blackett, 1889), 84. (From National Library Online)
+
+[^30]:  “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19090309-1.2.43),” _Straits Times_, 9 March 1909, 6. (From NewspaperSG)
+
+[^31]:  “[Suburban Piggeries](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18951009-1.2.3),” _Mid-day Herald_, 9 October 1895, 2. (From NewspaperSG)
