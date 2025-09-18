@@ -4,7 +4,7 @@ permalink: /holding-area/a-mansion-in-serangoon-whampoa-house-bendemeer/
 variant: markdown
 description: ""
 ---
-#### **In the 19th century, Whampoa’s legendary home was a nexus of wealth, power and extravagant entertainment.**
+#### In the 19th century, Whampoa’s legendary home was a nexus of wealth, power and extravagant entertainment.
 By Dr Patricia Lin
 <br><small>18 September 2025</small>
 
