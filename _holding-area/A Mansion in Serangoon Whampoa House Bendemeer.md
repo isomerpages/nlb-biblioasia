@@ -107,7 +107,7 @@ By the 1950s, Bendemeer had fallen into disrepair, with its once-magnificent gar
 
 [^3]:  Whampoa may have known about the ancient Chinese formula for making ice using nitre.&nbsp; It was possible that he may have also tried initially to make ice on site. However, it became evident that going into partnership with Frederic Tudor, the so-called “Ice King” was more feasible. Rather than making ice artificially, Tudor carved&nbsp; natural ice from frozen American rivers and sent the blocks downstream to ports where the blocks of ice were loaded into the cargo holds of ships.
 
-[^4]:  Song, [One Hundred Years’ History of the Chinese in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 55.
+[^4]:  Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 55.
 
 [^5]:  Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court visited Whampoa House in December 1876. See Benjamin J.Q. Khoo, “[The Curious Visit of Qing Ambassadors to Singapore](https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/),” _BiblioAsia_ 19, no. 4 (January–March 2024): 32–39.
 
