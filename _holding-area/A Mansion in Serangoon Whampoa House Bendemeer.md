@@ -127,7 +127,7 @@ By the 1950s, Bendemeer had fallen into disrepair, with its once-magnificent gar
 
 [^13]:  Donald Davies, “[Whampoa’s Showpiece of the Island](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541205-1.2.101),” _Straits Times_, 5 December 1954, 12. (From NewspaperSG)
 
-[^14]:  Davies, “[Whampoa’s Showpiece of the Island](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541205-1.2.101).”
+[^14]:  Davies, “[_Whampoa’s Showpiece of the Island_](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541205-1.2.101).”
 
 [^15]:  “[The Opening of ‘Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18950329-1.2.8)’.” Whampoa lived large and generously and was well-known for his philanthropic gifts. These included 25 hectares to the government for the establishment of what is today the Singapore Botanic Gardens. Another lesser-known recipient of his largesse was Raffles Girls’ School which received his financial donations at its foundation in 1879.
 
