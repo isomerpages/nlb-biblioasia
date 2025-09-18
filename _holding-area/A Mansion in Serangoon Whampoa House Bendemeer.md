@@ -96,25 +96,6 @@ Seah died on 14 September 1925 after a long and illustrious career as a legislat
 
 By the 1950s, Bendemeer had fallen into disrepair, with its once-magnificent gardens overtaken by wild plants. In 1964, the Singapore government acquired the site and demolished the stately home, which had hosted royalty and other luminaries, to make way for the Kallang Basin housing and industrial development. The site is today part of the Boon Keng housing estate.[^33]
 
-  
-
-* * *
-
-
-  
-
-
-
-
-  
-
-* * *
-
-
-
-
-
-
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/EU%20Villa/Patricia_photo.png"><b>Dr Patricia Lin</b> has a PhD in Comparative Literature and Critical Theory from the University of Southern California. She is retired Professor Emeritus in the Department of Gender, Ethnicity, and Multicultural Studies at California State Polytechnic University.</div>
 
