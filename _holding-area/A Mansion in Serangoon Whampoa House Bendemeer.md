@@ -84,17 +84,26 @@ Entertainment included games such as clock golf, croquet, driving, and fishing a
 
 Among those that Seah invited to tea at Bendemeer was the English writer Mrs Florence Caddy, who toured the Far East aboard the Duke of Sutherland’s yacht, the _Sans Peur._ She described “dishes of curious confectionary, and all the fruits of the country arranged with flowers, ferns, and above all, roses”. The roses were particularly noteworthy as Singapore was too hot to grow them, requiring Seah to import fresh rose bushes every year from China.[^29]
 
-#### **Not All Roses**
-
-        
+#### **Not All Roses**        
 
 At Bendemeer, as with several other _rumah besar_ (Malay for “large house”), unpleasant incidents occurred from time to time. On one occasion, a Chinese coolie was arrested for attempting to “stupefy the fish” in the garden ponds. Caught red-handed with a bucket ready for his haul, the coolie was made to pay a $25 fine or face a month’s hard imprisonment.[^30]
 
 In contrast to the praise leveled on the piggery’s cleanliness during Whampoa’s time, Seah became embroiled in controversy over unsanitary pig farming in the suburbs in 1895. Public complaints were relating to the accumulation of pig faeces and the smell of pig urine along Serangoon Road. Involved in rearing pigs himself, Seah was called to testify on behalf of pig farmers against calls to halt pig farming in the area.[^31]
 
+#### **The End of an Era**
+
+Seah died on 14 September 1925 after a long and illustrious career as a legislator, philanthropist and prominent public figure. It remains unclear whether he lived at Bendemeer in his final years, as his mile-long funeral cortege was said to have departed from his home at 14 North Boat Quay rather than Bendemeer.[^32]
+
+By the 1950s, Bendemeer had fallen into disrepair, with its once-magnificent gardens overtaken by wild plants. In 1964, the Singapore government acquired the site and demolished the stately home, which had hosted royalty and other luminaries, to make way for the Kallang Basin housing and industrial development. The site is today part of the Boon Keng housing estate.[^33]
+
   
 
 * * *
+
+
+  
+
+
 
 
   
@@ -172,3 +181,7 @@ In contrast to the praise leveled on the piggery’s cleanliness during Whampoa�
 [^30]:  “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19090309-1.2.43),” _Straits Times_, 9 March 1909, 6. (From NewspaperSG)
 
 [^31]:  “[Suburban Piggeries](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18951009-1.2.3),” _Mid-day Herald_, 9 October 1895, 2. (From NewspaperSG)
+
+[^32]:  “[Mr. Seah Liang Seah](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19250915-1.2.39),” _Malaya Tribune_, 15 September 1925, 6; “[Millionaire's Funeral](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251221-1.2.70),” _Straits Times_, 21 December 1925, 9. (From NewspaperSG)
+
+[^33]:  “[Govt Buys Historic Whampoa House for $3.8 Mil](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640325-1.2.107),” _Straits Times_, 25 March 1964, 13. (From NewspaperSG); “My Father’s Old House Near Nam Sang Hua&nbsp;Yuan,” Times of My Life blog, 30 September 2009, [https://timesofmylife.wordpress.com/2009/09/30/my-fathers-old-house-near-nam-sang-hua-yuan/](https://timesofmylife.wordpress.com/2009/09/30/my-fathers-old-house-near-nam-sang-hua-yuan/).
