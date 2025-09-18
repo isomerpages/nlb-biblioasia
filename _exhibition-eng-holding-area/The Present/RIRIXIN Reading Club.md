@@ -20,4 +20,6 @@ Visitors' Briefing Room
 
 **Email**: enghong.ong@gmail.com
 
-**About**:	We regularly conduct comprehensive book sharing sessions that span a diverse range of disciplines, including Chinese philosophy, history and literature, finance and economics, world politics and social sciences, and emerging technologies. Our commitment extends beyond mere information sharing; we aim to foster a holistic understanding of Chinese culture whilst ensuring participants remain well-informed about contemporary developments in finance, economics, global politics, social sciences, and technological innovation. This dual focus recognises that cultural grounding and contemporary awareness are equally essential for navigating today's rapidly evolving world.
+**About**:	We regularly host book sharing sessions covering diverse topics such as Chinese philosophy, history, literature, finance, economics, world politics, social sciences, and emerging technologies.
+
+We aim to help participants understand Chinese culture while keeping them informed about current developments in finance, politics, technology, and other important contemporary fields.

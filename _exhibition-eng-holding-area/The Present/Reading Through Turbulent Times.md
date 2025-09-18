@@ -25,4 +25,4 @@ third_nav_title: The Present
 **Social Media**:	<a rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/lit_connoisseur">Instagram</a>	
 
 
-**About**:	In our increasingly turbulent and interconnected world, reading and writing emerge as powerful means of engaging with, challenging, and critically examining contemporary realities. Our vision extends beyond traditional boundaries, allowing reading to transcend geographical limitations and linguistic barriers, creating a truly global conversation that connects diverse voices and perspectives. We believe in the importance of rigorous textual analysis—scrutinising words with precision and care—whilst simultaneously transforming intellectual engagement into concrete action and meaningful intervention.
+**About**:	In an increasingly turbulent world, reading and writing become powerful tools for engagement, resistance, and critical thinking. Let reading transcend the boundaries of geography and language. As we examine words closely, we transform thought into action, allowing literature to actively shape our world.

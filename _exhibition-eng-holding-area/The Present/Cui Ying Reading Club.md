@@ -26,4 +26,6 @@ third_nav_title: The Present
 **Social Media**:	<a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/nanyangkongjiaohui">Facebook</a>
 
 
-**About**:	As the flagship activity of the Nanyang Confucian Association Youth Group, Cui Ying Reading Club holds a position of paramount importance within the organisation's annual programme, representing the cornerstone of its cultural and educational mission. The reading club is dedicated to promoting traditional Chinese culture within the local community, operating under the guiding mission of "cultural diversity, Confucian heritage". Since its establishment in August 2014, the club has maintained a consistent and structured approach to literary engagement, conducting monthly book discussion activities organised into two complementary sessions. The club's sustained commitment to regular programming has yielded impressive results: as of March 2025, Cui Ying Reading Club has successfully completed 175 book discussion sessions.
+**About**:	As the flagship activity of the Nanyang Confucian Association Youth Group, Cui Ying Reading Club has always occupied the most important position in the Youth Group's activities. Cui Ying Reading Club aims to promote traditional Chinese culture locally, with the mission of "Cultural diversity, Confucian heritage”.
+
+Cui Ying Reading Club was established in August 2014. The monthly reading activities are structured as two-part sessions. As of March 2025, Cui Ying Reading Club has completed a total of 175 reading sessions.

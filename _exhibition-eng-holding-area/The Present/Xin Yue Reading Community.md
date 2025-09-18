@@ -21,4 +21,6 @@ third_nav_title: The Present
 
 **Email**: guolinjing@outlook.sg
 
-**About**:	Xin Yue Reading Community is an offline collaborative reading and in-depth discussion platform founded and organised by Grace Guo Lin Jing. The platform is designed to help members expand their intellectual horizons, deepen their understanding of complex themes and ideas, and discover the inherent healing power that emerges from thoughtful engagement with literature. The book club distinguishes itself through its emphasis on strong interactivity and exceptionally high levels of member participation. Central to the community's philosophy is the guiding concept of "understanding oneself, transcending oneself, and delighting oneself". This three-fold framework encourages participants to use reading as a mirror for self-reflection, a catalyst for personal growth beyond perceived limitations, and ultimately, a source of genuine joy and fulfilment.
+**About**:	Xin Yue Reading Community is an offline collaborative reading and in-depth discussion platform organised by founder Grace Guo Lin Jing. Through regular reading and exchange, it aims to help members broaden their thinking, deepen their understanding, and explore the healing power of reading.
+
+The book club distinguishes itself through its strong interactivity and high participation levels. The book club centres around the philosophy of "reading oneself, transcending oneself, and delighting oneself", encouraging participants to understand themselves through reading, transcend limitations, and find joy in reading.

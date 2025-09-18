@@ -31,13 +31,13 @@ Level 6 Programme Zone
 **About**:	
 
 *Mission*<br>
-Through promoting and popularising Taiji, help people achieve physical fitness and have strong physiques. 
+Through promoting and popularising Taiji, help people achieve physical fitness and develop strong physiques. 
 
 *Purpose*<br>
-Achieve the concept of "superior medicine treats" from the Yellow Emperor's Classic of Internal Medicine. Let everyone achieve the effect of treating illness when sick and maintaining health when healthy through practising Taiji. 
+Realise the concept of "superior medicine treats" from the Yellow Emperor's Classic of Internal Medicine. Enable everyone to achieve the effect of treating illness when sick and maintaining health when healthy through practising Taiji. 
 
 *Vision*<br>
-Through practising Taiji, maintain good health. Under the premise of high medical costs, reduce dependence on doctors. 
+Through practising Taiji, maintain good health. Given the high cost of medical care, reduce dependence on doctors. 
 
 *Book Discussion Scope*<br>
 Self-care, Taiji and traditional martial arts, Chinese classics.

@@ -34,4 +34,4 @@ Geylang East Public Library Level 1 Activity Room
 Social Media:	<a rel="noopener noreferrer" target="_blank" href="https://chat.whatsapp.com/IRyXK6PKp2P8Fd4YrRjX47">WhatsApp Group </a>	
 
 
-**About**:	Our reading club is dedicated to promoting traditional Han culture and fostering the development of Chinese cultural heritage within Singapore. Our discussions primarily focus on traditional Chinese classics and novels, encompassing both foundational philosophical texts and significant works of literature that have shaped Chinese thought and artistic expression throughout history.
+**About**:	Our reading club hopes to promote traditional Han culture and develop Chinese cultural heritage in Singapore. We mainly discuss traditional Chinese classics and novels.
