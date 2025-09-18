@@ -60,7 +60,7 @@ After Whampoa’s death in 1880,[^16] Seah Liang Seah, one of Singapore’s weal
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Whampoa%20House/Seah_Liang_Seah.png" style="width: 80%;">Portrait of Seah Liang Seah by G.R. Lambert &amp; Co., 1900. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 212. Collection of the National Library Singapore (call no. RRARE 959.57 SON).</i></div>
+<img src="/images/Online%20Only%20Articles/Whampoa%20House/Seah_Liang_Seah.png" style="width: 50%;">Portrait of Seah Liang Seah by G.R. Lambert &amp; Co., 1900. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 212. Collection of the National Library Singapore (call no. RRARE 959.57 SON).</i></div>
 
   
 
