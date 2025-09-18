@@ -62,6 +62,14 @@ After Whampoa’s death in 1880,[^16] Seah Liang Seah, one of Singapore’s weal
 <br>
 <img src="/images/Online%20Only%20Articles/Whampoa%20House/Seah_Liang_Seah.png" style="width: 50%;">Portrait of Seah Liang Seah by G.R. Lambert &amp; Co., 1900. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 212. Collection of the National Library Singapore (call no. RRARE 959.57 SON).</i></div>
 
+Although the architect and author Lee Kip Lin speculated that Seah “demolished” Whampoa’s house and built a new structure, an 1895 report by the _Singapore Free Press_ _and Mercantile Advertiser_ mentions that Whampoa “built a house at Serangoon over the water, which is still standing as well as the fine house standing in the grounds which has been acquired by Mr. Seah Liang Seah”.[^19]
+
+  
+
+* * *
+
+
+
   
 
 
@@ -114,3 +122,5 @@ After Whampoa’s death in 1880,[^16] Seah Liang Seah, one of Singapore’s weal
 [^17]:  “Bendemeer” was inspired by the song “Bendemeer’s Stream” by Thomas Moore from his Oriental romance poem, _Lalla Rookh_, first published in 1817.&nbsp;
 
 [^18]:  Song, [One Hundred Years’ History of the Chinese in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 55; “[The Opening of ‘Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18950329-1.2.8)’,”
+
+[^19]:  Lee Kip Lin, [_The Singapore House: 1819–1942_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5087274) (Singapore: Times Editions \[for\] Preservation of Monuments Board, 1988), 150. (From National Library Singapore, call no. RSING 728.095957 LEE); “[The Opening of Bendemeer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18950329-1.2.8).”
