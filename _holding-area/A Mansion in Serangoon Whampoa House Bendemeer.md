@@ -111,7 +111,7 @@ By the 1950s, Bendemeer had fallen into disrepair, with its once-magnificent gar
 
 [^5]:  Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court visited Whampoa House in December 1876. See Benjamin J.Q. Khoo, “[The Curious Visit of Qing Ambassadors to Singapore](https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/),” _BiblioAsia_ 19, no. 4 (January–March 2024): 32–39.
 
-[^6]:  Ivan Goncharov, _The Voyage of the Frigate Pallada,_ chapter 6 (New York: St Martin’s Press, 1987). The National Library has the 1965 version. See Ivan Goncharov, [The Voyage of the Frigate Pallada](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4096634) (London: Folio Society, 1965). (From National Library Singapore, call no. RCLOS 910.4 GON-\[JSB\])
+[^6]:  Ivan Goncharov, _The Voyage of the Frigate Pallada,_ chapter 6 (New York: St Martin’s Press, 1987). The National Library has the 1965 version. See Ivan Goncharov, [_The Voyage of the Frigate Pallada_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4096634) (London: Folio Society, 1965). (From National Library Singapore, call no. RCLOS 910.4 GON-\[JSB\])
 
 [^7]:  Peter Keys, “[Memories of Some Fine Country Houses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820307-1.2.78.7.1),” _Straits Times_, 7 March 1982, 8. (From NewspaperSG)
 
