@@ -145,8 +145,7 @@ In many respects, these transoceanic pollinations of the coco-de-mer are even mo
 [^3]: Alan Tan, “Seychelles Nut, Coco-De-Mer, or Double Coconut: A Spectacular Palm in the Gardens,” _Gardenwise_ vol. 9 (July 1997): 13, [https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=1997](https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=1997).
 
 
-[^4]: Stephen Blackmore et al., “Observations on the Morphology,  
-Pollination and Cultivation of Coco de Mer (_Lodoicea Maldivica_ (J F Gmel.) Pers., Palmae),” _Journal of Botany_ (March 2012): 1, [https://doi.org/10.1155/2012/687832](https://doi.org/10.1155/2012/687832).
+[^4]: Stephen Blackmore et al., “Observations on the Morphology, Pollination and Cultivation of Coco de Mer (_Lodoicea Maldivica_ (J F Gmel.) Pers., Palmae),” _Journal of Botany_ (March 2012): 1, [https://doi.org/10.1155/2012/687832](https://doi.org/10.1155/2012/687832).
 
 
 [^5]: George Staples and Aung Thame, “Matchmaking Palms–Double Coconuts Find Love Across the Seas,” _Gardenwise_ 38 (January 2012): 34, [https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=2012](https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=2012); Blackmore et al., “Observations on the Morphology,” 1.
