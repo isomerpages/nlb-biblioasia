@@ -33,7 +33,7 @@ After completing his education in 1895, Kung, then 16, joined the Raffles Librar
 
 In April 1897, Kung was promoted to First Clerk and his salary was raised from a monthly $15 to $25.[^5] He began work on the catalogue in September 1898, which was completed seven years later and published as the _Catalogue of the Raffles Library Singapore 1900_ in November 1905. It is one of the most massive catalogues compiled by the Raffles Library and includes the titles from the Logan and Rost collections acquired in 1880 and 1897 respectively.[^6]
 
-Concurrently, Kung collated the _Catalogue of Literature Relating to China Contained in the Raffles Library_ at the request of Lim Boon Keng, a prominent member of the Straits Chinese community and a Raffles Library committee member.[^7] This listing focused on works about China held in the Raffles Library and was published as a supplement to&nbsp;a 1900 or 1901 annual catalogue by the library on new additions to its collection.
+Concurrently, Kung collated the _Catalogue of Literature Relating to China Contained in the Raffles Library_ at the request of Lim Boon Keng, a prominent member of the Straits Chinese community and a Raffles Library committee member.[^7] This listing focused on works about China held in the Raffles Library and was published as a supplement to one of the library’s catalogues.
 
 In between these projects, the fluently bilingual Kung saw better prospects as an interpreter, at double his salary, working as First Clerk at the Chinese Protectorate in Penang.[^8] Recently married to Pang Ah Kang, he left the Raffles Library in early 1900 but the overloaded Hanitsch could not do without his competent First Clerk.[^9]
 
