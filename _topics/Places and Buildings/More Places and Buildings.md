@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/9/whampoa-house-bendemeer-hoo-ah-kay-seah-liang-seah/">A Mansion in Serangoon: Whampoa House-Bendemeer</a>
+
+In the 19th century, Whampoa’s legendary home was a nexus of wealth, power and extravagant entertainment.
+
+<img src="/images/Online%20Only%20Articles/Whampoa%20House/Whampoa_House_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/">Pages of Progress: The Toa Payoh Public Library</a>
 
 Over the last five decades, the library has developed to keep pace 
