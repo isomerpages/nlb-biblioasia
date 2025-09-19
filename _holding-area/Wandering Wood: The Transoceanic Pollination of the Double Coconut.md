@@ -25,6 +25,12 @@ The double coconut tree is a tall, straight-trunked palm that can grow up to 25 
 
 The palm is a dioecious plant, meaning that it bears male and female flowers on separate trees. Male flowers are small and borne on distinctive sausage-like stalks (or “inflorescences”) up to 2 m long, while female flowers grow out of thick, bulbed stalks. Once fertilised, the female flower takes six or more years to fully mature into a single fruit.[^3]
 
+<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_young.png" style="width: 50%;">
+
+
+<div style="background-color: white;">A young female double coconut palm at the Singapore Botanic Gardens, 9 January 2025. <i>Photo by Choo Ruizhi.</i></div>
+
+
 By the time Western observers first encountered it in 1563, the double coconut was already highly esteemed for its medicinal properties in localities along the coastlines of the Indian Ocean, and as far afield as Indonesia, China and Japan.[^4] Yet their means of reproduction remained a mystery. Because they also washed up regularly on the shores of Sri Lanka and the Maldives during the monsoon season, these nuts were widely believed to grow on mythical submerged trees, a persistent legend that resulted in the moniker “coco-de-mer”, or coconut of the sea.&nbsp;
 
 When the plant species was first incorporated into Western scientific taxonomies, the botanist Johann Gmelin had assumed the plant originated in the Maldives and accorded it the species name _maldivica_. Although Gmelin’s perspectives were later proven false, the rules of scientific nomenclature required that the first valid species label be retained. The double coconut’s scientific designation thus reflects earlier Western perceptions of the tree. It was only in 1768 that the nut was finally traced to Praslin in the Seychelles archipelago by a French expedition helmed by the explorer Marc-Joseph Marion du Fresne.[^5]
