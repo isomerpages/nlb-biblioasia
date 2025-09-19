@@ -106,36 +106,36 @@ In many respects, these transoceanic pollinations of the coco-de-mer are even mo
 
 #### **Notes**
 
-[^1]: George Staples and Winifred Singeo, “Desiccating Palm Pollen – a Technique for Pollinating Rare Palm Species Over Long Distance,” _Palms_ 58, no. 1 (January 2014): 49, https://www.researchgate.net/publication/311668148\_Dessicating\_palm\_pollen\_-\_a\_technique\_for\_pollinating\_rare\_palm\_species\_over\_long\_distance.
+[^1]: George Staples and Winifred Singeo, “Desiccating Palm Pollen – a Technique for Pollinating Rare Palm Species Over Long Distance,” _Palms_ 58, no. 1 (January 2014): 49, [https://www.researchgate.net/publication/311668148\_Dessicating\_palm\_pollen\_-\_a\_technique\_for\_pollinating\_rare\_palm\_species\_over\_long\_distance](https://www.researchgate.net/publication/311668148_Dessicating_palm_pollen_-_a_technique_for_pollinating_rare_palm_species_over_long_distance).
 
 
 
-[^2]: Lucy Rist et al., “Sustainable Harvesting of Coco de Mer, Lodoicea Maldivica, in the Vallée de Mai, Seychelles,” _Forest Ecology and Management_ 260, no. 12 (December 2010): 2224–231, https://www.researchgate.net/publication/251586378\_Sustainable\_Harvesting\_of\_Coco\_de\_Mer\_Lodoicea\_maldivica\_in\_the\_Vallee\_de\_Mai\_Seychelles.
+[^2]: Lucy Rist et al., “Sustainable Harvesting of Coco de Mer, Lodoicea Maldivica, in the Vallée de Mai, Seychelles,” _Forest Ecology and Management_ 260, no. 12 (December 2010): 2224–231, [https://www.researchgate.net/publication/251586378\_Sustainable\_Harvesting\_of\_Coco\_de\_Mer\_Lodoicea\_maldivica\_in\_the\_Vallee\_de\_Mai\_Seychelles](https://www.researchgate.net/publication/251586378_Sustainable_Harvesting_of_Coco_de_Mer_Lodoicea_maldivica_in_the_Vallee_de_Mai_Seychelles).
 
 
-[^3]: Alan Tan, “Seychelles Nut, Coco-De-Mer, or Double Coconut: A Spectacular Palm in the Gardens,” _Gardenwise_ vol. 9 (July 1997): 13, https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=1997.
+[^3]: Alan Tan, “Seychelles Nut, Coco-De-Mer, or Double Coconut: A Spectacular Palm in the Gardens,” _Gardenwise_ vol. 9 (July 1997): 13, [https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=1997](https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=1997).
 
 
 [^4]: Stephen Blackmore et al., “Observations on the Morphology,  
-Pollination and Cultivation of Coco de Mer (_Lodoicea Maldivica_ (J F Gmel.) Pers., Palmae),” _Journal of Botany_ (March 2012): 1, https://doi.org/10.1155/2012/687832.
+Pollination and Cultivation of Coco de Mer (_Lodoicea Maldivica_ (J F Gmel.) Pers., Palmae),” _Journal of Botany_ (March 2012): 1, [https://doi.org/10.1155/2012/687832](https://doi.org/10.1155/2012/687832).
 
 
-[^5]: George Staples and Aung Thame, “Matchmaking Palms–Double Coconuts Find Love Across the Seas,” _Gardenwise_ 38 (January 2012): 34, https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=2012; Blackmore et al., “Observations on the Morphology,” 1.
+[^5]: George Staples and Aung Thame, “Matchmaking Palms–Double Coconuts Find Love Across the Seas,” _Gardenwise_ 38 (January 2012): 34, [https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=2012](https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=2012); Blackmore et al., “Observations on the Morphology,” 1.
 
 
 [^6]: Blackmore et al., “Observations on the Morphology,” 1, 10.
 
 
-[^7]: Alexis Rochon, _A Voyage to Madagascar, and the East Indies By the Abbe Rochon, Translated from the French, Illustrated with an Accurate Map of the Island of Madagascar to Which Is Added a Memoir on the Chinese Trade_, trans. by Joseph Trapp (London: Printed for G.G.J. and J. Robinson, 1792), 380. (From National Library Online)
+[^7]: Alexis Rochon,[ _A Voyage to Madagascar, and the East Indies By the Abbe Rochon, Translated from the French, Illustrated with an Accurate Map of the Island of Madagascar to Which Is Added a Memoir on the Chinese Trade_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=cc3d842a-95bb-48b0-9972-6db554cfde4f), trans. by Joseph Trapp (London: Printed for G.G.J. and J. Robinson, 1792), 380. (From National Library Online)
 
 
-[^8]: Lucile H. Brockway, _Science and Colonial Expansion: The Role of the British Royal Botanic Gardens_ (United States: Academic Press, 1979), xi, Yale University Press, https://yalebooks.yale.edu/book/9780300091434/science-and-colonial-expansion/.
+[^8]: Lucile H. Brockway, _Science and Colonial Expansion: The Role of the British Royal Botanic Gardens_ (United States: Academic Press, 1979), xi, Yale University Press, [https://yalebooks.yale.edu/book/9780300091434/science-and-colonial-expansion/](https://yalebooks.yale.edu/book/9780300091434/science-and-colonial-expansion/).
 
 
-[^9]: William Watson, “The Coco-De-Mer in Cultivation,” _Nature (London)_ 43, no. 19 (November 1890): 19, https://doi.org/10.1038/043019a0.
+[^9]: William Watson, “The Coco-De-Mer in Cultivation,” _Nature (London)_ 43, no. 19 (November 1890): 19, [https://doi.org/10.1038/043019a0](https://doi.org/10.1038/043019a0).
 
 
-[^10]: Felix F. Merklinger, “The Singapore Botanic Gardens Palm Collection – Historical Perspective, Representation, Conservation and Direction,” _Palms_ 60, no. 1 (March 2016): 19, https://www.researchgate.net/publication/301655414\_The\_Singapore\_Botanic\_Gardens\_Palm\_Collection\_-\_Historical\_Perspective\_Representation\_Conservation\_and\_Direction; Henry James Murton, _Report on Government Botanic Gardens for 1875_ (Singapore: Government Printing Office, 1876), cccxix, Wikimedia Commons, https://upload.wikimedia.org/wikipedia/commons/1/15/Annual\_report\_on\_the\_botanic\_gardens%2C\_Singapore%2C\_for\_the\_year\_1879-1890\_%28IA\_annualreportonb00strac%29.pdf.
+[^10]: Felix F. Merklinger, “The Singapore Botanic Gardens Palm Collection – Historical Perspective, Representation, Conservation and Direction,” _Palms_ 60, no. 1 (March 2016): 19, [https://www.researchgate.net/publication/301655414\_The\_Singapore\_Botanic\_Gardens\_Palm\_Collection\_-\_Historical\_Perspective\_Representation\_Conservation\_and\_Direction](https://www.researchgate.net/publication/301655414_The_Singapore_Botanic_Gardens_Palm_Collection_-_Historical_Perspective_Representation_Conservation_and_Direction); Henry James Murton, _Report on Government Botanic Gardens for 1875_ (Singapore: Government Printing Office, 1876), cccxix, Wikimedia Commons, [https://upload.wikimedia.org/wikipedia/commons/1/15/Annual\_report\_on\_the\_botanic\_gardens%2C\_Singapore%2C\_for\_the\_year\_1879-1890\_%28IA\_annualreportonb00strac%29.pdf](https://upload.wikimedia.org/wikipedia/commons/1/15/Annual_report_on_the_botanic_gardens%2C_Singapore%2C_for_the_year_1879-1890_%28IA_annualreportonb00strac%29.pdf).
 
 
 
