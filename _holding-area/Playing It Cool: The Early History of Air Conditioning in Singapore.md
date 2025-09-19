@@ -31,7 +31,7 @@ Air conditioning first came to Singapore in the 1920s and the largest supplier o
 
 The company operated locally through United Engineers Limited which employed Singapore-based contractors for all types of government and commercial air conditioning installations of that era, among other electrical work. As trade picked up from 1936, Carrier appointed a separate marketing representative for Singapore, and the company eventually spread north to Kuala Lumpur (1948) and Penang (1952).[^4]
 
-Air conditioning fits futuristic vision of modernity and progress, and the technology was closely aligned with ideas of health as much as simply staying cool. Air conditioning was hailed as an invention that would not only provide comfort but better health, as influenced by new concerns about industrial pollutants, motorcar fumes and dust in the rapidly growing town. In 1936, for example, a _Morning Tribune_ staff writer concluded: “Singapore may be a beauty spot and its strategic position superb, but its climatic conditions have always been a moot point with residents and medical men alike. Its humidity or dampness is the sore point, but the marvels of modern science and invention can transform the air condition of the interior of Singapore’s buildings to the most delightful and healthiest obtaining anywhere.”[^5]
+Air conditioning fits a futuristic vision of modernity and progress, and the technology was closely aligned with ideas of health as much as simply staying cool. Air conditioning was hailed as an invention that would not only provide comfort but better health, as influenced by new concerns about industrial pollutants, motorcar fumes and dust in the rapidly growing town. In 1936, for example, a _Morning Tribune_ staff writer concluded: “Singapore may be a beauty spot and its strategic position superb, but its climatic conditions have always been a moot point with residents and medical men alike. Its humidity or dampness is the sore point, but the marvels of modern science and invention can transform the air condition of the interior of Singapore’s buildings to the most delightful and healthiest obtaining anywhere.”[^5]
 
 The benefits to workplace productivity were also frequently cited by the press. In December 1937, the _Malaya Tribune_ wrote: “Air conditioning has come as a boon to humanity. It had made it possible for men to work in places where the temperature previously rendered it impossible for them to carry out their employment.” The newspaper added that the technology reduced the incidence of tuberculosis, then a major scourge for Singaporean inhabitants, and also contributed to increased efficiency among workers.[^6]
 
@@ -39,10 +39,6 @@ Two years later, a study on air conditioning in the tropics was published, which
 
 In June 1938, the _Morning Tribune_ explained that the main purpose of air conditioning was not to cool but to remove the excess moisture which was considered dangerous to health. “\[I\]n Singapore, we have too much moisture in the air. The relative humidity is high. We become uncomfortable and suffer because perspiration and body heat are not removed fast enough,” the newspaper wrote. “Air conditioning, therefore, is called upon to remove the excess moisture and lower the relative humidity.”[^8]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_supplement.png" style="width: 80%;">
-
-
-<div style="background-color: white;">A supplement in the <i>Morning Tribune</i> on the reopening of Alhambra Theatre in July 1938. It was described as “Malaya’s Coolest Cinema”. <i>Image reproduced from the Morning Tribune, 27 July 1938, 2. (From NewspaperSG).  </i></div>
 
 #### **Air Conditioning in Singapore**
 
@@ -57,6 +53,10 @@ Within a decade, however, this cooling system was becoming obsolete. The Alhambr
 
 “Entertainment in the East is controlled for the most part by the problem of weather. It is a remarkable fact that the idea of installing an air conditioning plant has not been thought of before,” noted the _Morning Tribune_. “There is no doubt that the air conditioning is a huge success – all through the evening there was a pleasant sense of cool dehumidified air. It was perfectly cool and there was no suggestion of any intolerable heat that can so often ruin an evening’s entertainment.”[^12]
 
+<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_supplement.png" style="width: 80%;">
+
+
+<div style="background-color: white;">A supplement in the <i>Morning Tribune</i> on the reopening of Alhambra Theatre in July 1938. It was described as “Malaya’s Coolest Cinema”. <i>Image reproduced from the Morning Tribune, 27 July 1938, 2. (From NewspaperSG).  </i></div>
 Before long, other entertainment spots in Singapore began incorporating air conditioning into their design as a marketing ploy. In 1938, the New World amusement park, which had opened in 1923, advertised its air-conditioned Dance Palace where patrons could “Dance in Perpetual Coolness”.[^13] Costing $48,500, the _Straits Times_ wrote that the “air-conditioning plant has been designed to give the cool and refreshing atmosphere of a hill station, even when there are more than 1,000 people inside”.[^14]
 
 <img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_entrance.png" style="width: 80%;">
@@ -164,7 +164,7 @@ This essay is adapted from Chapter 7, “Regulating Heat, Controlling Urban Airs
 [^11]: “[Grand New Alhambra Opens with Excellent Film](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380728-1.2.26),” _Morning Tribune_, 28 July 1938, 3. (From NewspaperSG)
 
 
-[^12]: “[Weather Problems](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380727-1.2.136.27),” _Morning Tribune_, 27 July 1938, 7; “[Grand New Alhambra Opens with Excellent Film”; “Grand New Alhambra Opens with Excellent Film (continued)](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380728-1.2.27).”&nbsp;
+[^12]: “[Weather Problems](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380727-1.2.136.27),” _Morning Tribune_, 27 July 1938, 7; “[Grand New Alhambra Opens with Excellent Film](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380728-1.2.26)”; “[Grand New Alhambra Opens with Excellent Film (continued)](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380728-1.2.27).”&nbsp;
 
 
 [^13]: “[Page 7 Advertisements Column 2: New World Dance Palace](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380728-1.2.37.2),” _Morning Tribune_, 28 July 1938, 7. (From NewspaperSG); Wong Yunn Chii and Tan Kar Lin, “Emergence of a Cosmopolitan Space for Culture and Consumption: The New World Amusement Park-Singapore (1923–70) in the Inter-War Years,” _Inter-Asia Cultural Studies_ 5, no. 2 (2004): 279–304, [https://www.tandfonline.com/doi/abs/10.1080/1464937042000236757](https://www.tandfonline.com/doi/abs/10.1080/1464937042000236757).
