@@ -7,7 +7,7 @@ description: ""
 #### In 2011, pollen from coco-de-mer trees in Singapore successfully fertilised female plants of this rare endangered species in Hawaii, thanks to the efforts of resourceful, determined botanists.&nbsp;
 By Choo Ruizhi
 
-<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_main.png" style="width: 40%;">
+<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_main.png" style="width: 70%;">
 
 
 <div style="background-color: white;">A Seychellois boy at Vallée de Mai, Praslin, Seychelles, early 1970s. The fruit of the double coconut has two lobes and loosely resembles a woman’s pelvis. The male flowers are borne on sausage-like stalks that can grow up to 2 m long. Photo by Dino Sassi - Marcel Fayon, Photo Eden Ltd. <i>From Wikimedia Commons.</i></div>
@@ -31,7 +31,7 @@ The double coconut tree is a tall, straight-trunked palm that can grow up to 25 
 
 The palm is a dioecious plant, meaning that it bears male and female flowers on separate trees. Male flowers are small and borne on distinctive sausage-like stalks (or “inflorescences”) up to 2 m long, while female flowers grow out of thick, bulbed stalks. Once fertilised, the female flower takes six or more years to fully mature into a single fruit.[^3]
 
-<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_young.png" style="width: 50%;">
+<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_young.png" style="width: 70%;">
 
 
 <div style="background-color: white;">A young female double coconut palm at the Singapore Botanic Gardens, 9 January 2025. <i>Photo by Choo Ruizhi.</i></div>
@@ -47,7 +47,7 @@ In its native environment, the coco-de-mer is a keystone species and supports ma
 
 To humans, however, it is the coco-de-mer’s gigantic nuts which have been most coveted. Partly due to its suggestive shape, which loosely resembles a woman’s pelvis, the nut was long believed by many cultures to possess great medicinal value, serving variously as an aphrodisiac, an antiscorbutic (cure for scurvy), a cure for venereal disease and an antidote against poisons. The French naturalist A.M. Rochon recorded that the nuts were “in so much request all over Asia, that it was not uncommon, about the year 1759... to see them sold for upwards of four hundred pounds sterling each”.[^7]
 
-<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_woman.png" style="width: 40%;">
+<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_woman.png" style="width: 70%;">
 
 
 <div style="background-color: white;">A woman holding a double coconut and a sausage-like stalk of male flowers at Vallée de Mai, Praslin, Seychelles, early 1970s. Photo by Dino Sassi - Marcel Fayon, Photo Eden Ltd. <i>From Wikimedia Commons.</i></div>
@@ -65,7 +65,7 @@ The plant was featured in the SBG’s 1955 annual report when it mentioned that 
 
 In 2012, _Gardenwise_, the SBG’s magazine, reported that the Gardens possessed “three mature double coconuts, one female and two males, plus several younger trees”. The mature individuals likely stemmed from the 1955 planting. SBG staff have since successfully pollinated the female tree using pollen from the male plants on several occasions, resulting in a growing number of young palms and developing fruits.[^13]
 
-<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_palm.png" style="width: 50%;">
+<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_palm.png" style="width: 70%;">
 
 
 <div style="background-color: white;">One of the female double coconut palms at the Foster Botanical Gardens in Honolulu, 21 September 2024. Fruits on the tree indicate that this individual was successfully pollinated.  <i>Photo by Choo Ruizhi.</i></div>
