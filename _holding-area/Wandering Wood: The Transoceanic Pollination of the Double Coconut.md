@@ -101,99 +101,100 @@ In many respects, these transoceanic pollinations of the coco-de-mer are even mo
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/ChooRuizhi.png">
 <b>Choo Ruizhi</b> is a PhD student at the Department of History, University of Hawai’i at Mānoa. He is interested in histories of science, technology and animals in Southeast Asia.</div>
 
 #### **Notes**
 
-[^1]: 
-
-
-[^2]: 
-
-
-[^3]: 
-
-
-[^4]: 
-
-
-[^5]: 
-
-
-[^6]: 
-
-
-[^7]: 
-
-
-[^8]: 
-
-
-[^9]: 
-
-
-[^10]: 
+[^1]: George Staples and Winifred Singeo, “Desiccating Palm Pollen – a Technique for Pollinating Rare Palm Species Over Long Distance,” _Palms_ 58, no. 1 (January 2014): 49, https://www.researchgate.net/publication/311668148\_Dessicating\_palm\_pollen\_-\_a\_technique\_for\_pollinating\_rare\_palm\_species\_over\_long\_distance.
 
 
 
-[^11]: 
+[^2]: Lucy Rist et al., “Sustainable Harvesting of Coco de Mer, Lodoicea Maldivica, in the Vallée de Mai, Seychelles,” _Forest Ecology and Management_ 260, no. 12 (December 2010): 2224–231, https://www.researchgate.net/publication/251586378\_Sustainable\_Harvesting\_of\_Coco\_de\_Mer\_Lodoicea\_maldivica\_in\_the\_Vallee\_de\_Mai\_Seychelles.
 
 
-[^12]: 
+[^3]: Alan Tan, “Seychelles Nut, Coco-De-Mer, or Double Coconut: A Spectacular Palm in the Gardens,” _Gardenwise_ vol. 9 (July 1997): 13, https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=1997.
 
 
-[^13]: 
+[^4]: Stephen Blackmore et al., “Observations on the Morphology,  
+Pollination and Cultivation of Coco de Mer (_Lodoicea Maldivica_ (J F Gmel.) Pers., Palmae),” _Journal of Botany_ (March 2012): 1, https://doi.org/10.1155/2012/687832.
 
 
-[^14]: 
+[^5]: George Staples and Aung Thame, “Matchmaking Palms–Double Coconuts Find Love Across the Seas,” _Gardenwise_ 38 (January 2012): 34, https://www.nparks.gov.sg/sbg/research/publications/gardenwise?year=2012; Blackmore et al., “Observations on the Morphology,” 1.
 
 
-[^15]: 
+[^6]: Blackmore et al., “Observations on the Morphology,” 1, 10.
 
 
-[^16]: 
+[^7]: Alexis Rochon, _A Voyage to Madagascar, and the East Indies By the Abbe Rochon, Translated from the French, Illustrated with an Accurate Map of the Island of Madagascar to Which Is Added a Memoir on the Chinese Trade_, trans. by Joseph Trapp (London: Printed for G.G.J. and J. Robinson, 1792), 380. (From National Library Online)
 
 
-[^17]: 
+[^8]: Lucile H. Brockway, _Science and Colonial Expansion: The Role of the British Royal Botanic Gardens_ (United States: Academic Press, 1979), xi, Yale University Press, https://yalebooks.yale.edu/book/9780300091434/science-and-colonial-expansion/.
 
 
-[^18]: 
+[^9]: William Watson, “The Coco-De-Mer in Cultivation,” _Nature (London)_ 43, no. 19 (November 1890): 19, https://doi.org/10.1038/043019a0.
 
 
-[^19]: 
-
-
-[^0]: 
+[^10]: Felix F. Merklinger, “The Singapore Botanic Gardens Palm Collection – Historical Perspective, Representation, Conservation and Direction,” _Palms_ 60, no. 1 (March 2016): 19, https://www.researchgate.net/publication/301655414\_The\_Singapore\_Botanic\_Gardens\_Palm\_Collection\_-\_Historical\_Perspective\_Representation\_Conservation\_and\_Direction; Henry James Murton, _Report on Government Botanic Gardens for 1875_ (Singapore: Government Printing Office, 1876), cccxix, Wikimedia Commons, https://upload.wikimedia.org/wikipedia/commons/1/15/Annual\_report\_on\_the\_botanic\_gardens%2C\_Singapore%2C\_for\_the\_year\_1879-1890\_%28IA\_annualreportonb00strac%29.pdf.
 
 
 
-[^21]: 
+[^11]: I.H. Burkhill, _The Botanic Gardens, Singapore: Illustrated Guide_ (Singapore: Botanic Gardens Singapore, 1927), 21. (The National Library Singapore has the 1900 edition, call no. RCLOS 580.744 BUR-\[RFL\].)&nbsp;
 
 
-[^22]: 
+[^12]: J.W. Purseglove, _Annual Report of the Botanic Gardens Department for 1955_ (Singapore: Government Printing Office, 1956), 5. (From National Library Singapore, call no. RCLOS 580.744 SBGAR)
 
 
-[^23]: 
+[^13]: Staples and Aung, “Matchmaking Palms–Double Coconuts,” 34.
 
 
-[^24]: 
+[^14]: F. Fleischer-Dogley, M.J. Huber and S. Ismail, “Double Coconut Palm: _Lodoicea maldivica_,” The IUCN Red List of Threatened Species, 1 February 2007, https://www.iucnredlist.org/species/38602/10136618.
 
 
-[^25]: 
+[^15]: Rist et al., “Sustainable Harvesting of Coco de Mer, Seychelles,” 9.
 
 
-[^26]: 
+[^16]: Blackmore et al., “Observations on the Morphology,” 5. \[Note: These are dollar values from 2010. See “Inflation Calculator | Find US Dollar’s Value From 1913–2025,” accessed 26 August 2025, https://www.usinflationcalculator.com/.\]
 
 
-[^27]: 
+[^17]: Blackmore et al., “Observations on the Morphology,” 5; Rist et al., “Sustainable Harvesting of Coco de Mer,” 4.
 
 
-[^28]: 
+[^18]: Blackmore et al., “Observations on the Morphology,” 5.
 
 
-[^29]: 
+[^19]: Winifred Singeo, personal communication, 13 December 2024; Staples and Singeo, “Desiccating Palm Pollen,” 46. &nbsp;
 
 
-[^30]: 
+[^20]: Winifred Singeo, personal communication, 13 December 2024.
 
+
+
+[^21]: Staples and Singeo, “Dessicating Palm Pollen,” 46; Robert W. Read, “Live Storage of Plant Pollen,” _Principes_ 23, no. 1 (1979): 33–35.
+
+
+[^22]: Staples and Aung, “Matchmaking Palms–Double Coconuts,” 35.
+
+
+[^23]: Staples and Aung, “Matchmaking Palms–Double Coconuts,” 35; Staples and Singeo, “Dessicating Palm Pollen,” 46, 49.
+
+
+[^24]: Staples and Singeo, “Dessicating Palm Pollen,” 48.
+
+
+[^25]: Honolulu (GMT-10) is 18 hours behind Singapore (GMT+8). The package was only successfully delivered on the morning of 1 June, Singapore time.&nbsp;
+
+
+[^26]: Staples and Singeo, “Dessicating Palm Pollen,” 48.
+
+
+[^27]: Staples and Singeo, “Dessicating Palm Pollen,” 49.
+
+
+[^28]: Timothy P. Barnard, _Nature’s Colony: Empire, Nation, and Environment in the Singapore Botanic Gardens_ (Singapore: NUS Press, 2016), 120–52. (From National Library Singapore, call no. RSING 580.735957 BAR)
+
+
+[^29]: Winifred Singeo, personal communication, 13 December 2024.
+
+
+[^30]: A.B. Damania, “The Coco-de-Mer or the Double Coconut (Lodoicea Maldivica): Myths and Facts,” _Asian Agri-History_ 17, no. 4 (October 2013): 304, https://www.researchgate.net/publication/288662446\_The\_Coco-de-mer\_or\_the\_double\_coconut\_Lodoicea\_maldivica\_Myths\_and\_facts; Blackmore et al., “Observations on the Morphology,” 2; “Garden of Eden,” NOVA, 28 November 2000, https://www.pbs.org/wgbh/nova/transcripts/2714eden.html.
