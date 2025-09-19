@@ -4,9 +4,14 @@ permalink: /wandering-wood-the-transoceanic-pollination-of-the-double-coconut/
 variant: markdown
 description: ""
 ---
-#### In 2011, pollen from  
-#### coco-de-mer trees in Singapore successfully fertilised female plants of this rare endangered species in Hawaii, thanks to the efforts of resourceful, determined botanists.&nbsp;
+#### In 2011, pollen from coco-de-mer trees in Singapore successfully fertilised female plants of this rare endangered species in Hawaii, thanks to the efforts of resourceful, determined botanists.&nbsp;
 By Choo Ruizhi
+
+<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_main.png" style="width: 40%;">
+
+
+<div style="background-color: white;">A Seychellois boy at Vallée de Mai, Praslin, Seychelles, early 1970s. The fruit of the double coconut has two lobes and loosely resembles a woman’s pelvis. The male flowers are borne on sausage-like stalks that can grow up to 2 m long. Photo by Dino Sassi - Marcel Fayon, Photo Eden Ltd. <i>From Wikimedia Commons.</i></div>
+
 
 On the afternoon of 31 May 2011, about five days after they had been dispatched from Singapore’s Botanic Gardens, pollen from a rare and endangered palm species, the double coconut (_Lodoicea maldivica_), made landfall in Honolulu, Hawaii. Having travelled nearly 11,000 km, the grains were immediately applied to female flowers of the palm at the Foster Botanical Garden, a garden within the network of the Honolulu Botanical Gardens. Although many of the flowers “were already... past optimal time for successful pollination”, the fertilisation was successful; weeks later, a single fruit began to develop.&nbsp;
 
@@ -41,6 +46,12 @@ For instance, perusing more than a century of the Gardens’ publications, Felix
 The plant was featured in the SBG’s 1955 annual report when it mentioned that two coco-de-mer trees had died: one killed by red stripe weevils (_Rhynchophorus schach_); the second cut down after being severely damaged by the falling branches of an adjacent tree. Fortunately, the SBG was able to obtain four more double coconut seeds directly from Seychelles that same year for cultivation.[^12]
 
 In 2012, _Gardenwise_, the SBG’s magazine, reported that the Gardens possessed “three mature double coconuts, one female and two males, plus several younger trees”. The mature individuals likely stemmed from the 1955 planting. SBG staff have since successfully pollinated the female tree using pollen from the male plants on several occasions, resulting in a growing number of young palms and developing fruits.[^13]
+
+<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_palm.png" style="width: 50%;">
+
+
+<div style="background-color: white;">One of the female double coconut palms at the Foster Botanical Gardens in Honolulu, 21 September 2024. Fruits on the tree indicate that this individual was successfully pollinated.  <i>Photo by Choo Ruizhi.</i></div>
+
 
 #### **Conserving Unruly Giants**
 
