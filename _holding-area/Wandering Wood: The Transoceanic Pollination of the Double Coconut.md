@@ -47,6 +47,12 @@ In its native environment, the coco-de-mer is a keystone species and supports ma
 
 To humans, however, it is the coco-de-mer’s gigantic nuts which have been most coveted. Partly due to its suggestive shape, which loosely resembles a woman’s pelvis, the nut was long believed by many cultures to possess great medicinal value, serving variously as an aphrodisiac, an antiscorbutic (cure for scurvy), a cure for venereal disease and an antidote against poisons. The French naturalist A.M. Rochon recorded that the nuts were “in so much request all over Asia, that it was not uncommon, about the year 1759... to see them sold for upwards of four hundred pounds sterling each”.[^7]
 
+<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_woman.png" style="width: 40%;">
+
+
+<div style="background-color: white;">A woman holding a double coconut and a sausage-like stalk of male flowers at Vallée de Mai, Praslin, Seychelles, early 1970s. Photo by Dino Sassi - Marcel Fayon, Photo Eden Ltd. <i>From Wikimedia Commons.</i></div>
+
+
 The coco-de-mer became entangled with the British Empire in the 19th century when Britain became the world’s preeminent industrial, commercial and imperial power.[^8] Living nuts first arrived at the Royal Botanic Gardens, Kew in 1827, although efforts to germinate them in Britain were consistently unsuccessful even up to 1890.[^9]
 
 Germination attempts in other British botanical gardens around the world were more successful where the double coconut had been sent to be studied and cultivated for its potential economic and horticultural value.
