@@ -182,7 +182,7 @@ In many respects, these transoceanic pollinations of the coco-de-mer are even mo
 [^15]: Rist et al., “Sustainable Harvesting of Coco de Mer, Seychelles,” 9.
 
 
-[^16]: Blackmore et al., “Observations on the Morphology,” 5. \[Note: These are dollar values from 2010. See “Inflation Calculator | Find US Dollar’s Value From 1913–2025,” accessed 26 August 2025, [https://www.usinflationcalculator.com/](https://www.usinflationcalculator.com).\]
+[^16]: Blackmore et al., “Observations on the Morphology,” 5. \[Note: These are dollar values from 2010. See “Inflation Calculator \| Find US Dollar’s Value From 1913–2025,” accessed 26 August 2025, [https://www.usinflationcalculator.com/](https://www.usinflationcalculator.com).\]
 
 
 [^17]: Blackmore et al., “Observations on the Morphology,” 5; Rist et al., “Sustainable Harvesting of Coco de Mer,” 4.
