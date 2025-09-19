@@ -1,0 +1,7 @@
+collections:
+  holding-area:
+    output: true
+    order:
+      - "Wandering Wood: The Transoceanic Pollination of the Double Coconut.md"
+      - "Playing It Cool: The Early History of Air Conditioning in Singapore.md"
+      - Sample article.md
