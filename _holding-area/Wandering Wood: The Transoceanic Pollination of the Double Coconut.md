@@ -23,6 +23,12 @@ The double coconut is a remarkable plant. It is named for the two distinct round
 
 The double coconut tree is a tall, straight-trunked palm that can grow up to 25 m. It occurs in the wild on only two islands in the Seychelles archipelago: Praslin and Curieuse. The palm is one of the slowest-growing plant species, taking 25 to 40 years to reach sexual maturity and about a century to reach full size. The oldest individuals are estimated to be over 200 years old.[^2]
 
+<img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_map.png" style="width: 80%;">
+
+
+<div style="background-color: white;">The double coconut is endemic to Praslin and Curieuse in the Seychelles archipelago. In 2011, pollen from male plants in Singapore successfully fertilised female plants in Honolulu.</div>
+
+
 The palm is a dioecious plant, meaning that it bears male and female flowers on separate trees. Male flowers are small and borne on distinctive sausage-like stalks (or “inflorescences”) up to 2 m long, while female flowers grow out of thick, bulbed stalks. Once fertilised, the female flower takes six or more years to fully mature into a single fruit.[^3]
 
 <img src="/images/Vol%2022%20Issue%201/Wandering%20Wood/coconut_young.png" style="width: 50%;">
