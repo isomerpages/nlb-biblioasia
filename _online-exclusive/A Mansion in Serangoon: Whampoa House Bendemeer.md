@@ -1,5 +1,5 @@
 ---
-title: "A Mansion in Serangoon: Whampoa House Bendemeer"
+title: "A Mansion in Serangoon: Whampoa House - Bendemeer"
 permalink: /people/2025/9/whampoa-house-bendemeer-hoo-ah-kay-seah-liang-seah/
 variant: markdown
 description: ""
