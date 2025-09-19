@@ -142,19 +142,19 @@ Pollination and Cultivation of Coco de Mer (_Lodoicea Maldivica_ (J F Gmel.) Per
 [^11]: I.H. Burkhill, _The Botanic Gardens, Singapore: Illustrated Guide_ (Singapore: Botanic Gardens Singapore, 1927), 21. (The National Library Singapore has the 1900 edition, call no. RCLOS 580.744 BUR-\[RFL\].)&nbsp;
 
 
-[^12]: J.W. Purseglove, _Annual Report of the Botanic Gardens Department for 1955_ (Singapore: Government Printing Office, 1956), 5. (From National Library Singapore, call no. RCLOS 580.744 SBGAR)
+[^12]: J.W. Purseglove, [_Annual Report of the Botanic Gardens Department for 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201529802) (Singapore: Government Printing Office, 1956), 5. (From National Library Singapore, call no. RCLOS 580.744 SBGAR)
 
 
 [^13]: Staples and Aung, “Matchmaking Palms–Double Coconuts,” 34.
 
 
-[^14]: F. Fleischer-Dogley, M.J. Huber and S. Ismail, “Double Coconut Palm: _Lodoicea maldivica_,” The IUCN Red List of Threatened Species, 1 February 2007, https://www.iucnredlist.org/species/38602/10136618.
+[^14]: F. Fleischer-Dogley, M.J. Huber and S. Ismail, “Double Coconut Palm: _Lodoicea maldivica_,” The IUCN Red List of Threatened Species, 1 February 2007, [https://www.iucnredlist.org/species/38602/10136618](https://www.iucnredlist.org/species/38602/10136618).
 
 
 [^15]: Rist et al., “Sustainable Harvesting of Coco de Mer, Seychelles,” 9.
 
 
-[^16]: Blackmore et al., “Observations on the Morphology,” 5. \[Note: These are dollar values from 2010. See “Inflation Calculator | Find US Dollar’s Value From 1913–2025,” accessed 26 August 2025, https://www.usinflationcalculator.com/.\]
+[^16]: Blackmore et al., “Observations on the Morphology,” 5. \[Note: These are dollar values from 2010. See “Inflation Calculator | Find US Dollar’s Value From 1913–2025,” accessed 26 August 2025, [https://www.usinflationcalculator.com/](https://www.usinflationcalculator.com/).\]
 
 
 [^17]: Blackmore et al., “Observations on the Morphology,” 5; Rist et al., “Sustainable Harvesting of Coco de Mer,” 4.
@@ -191,10 +191,10 @@ Pollination and Cultivation of Coco de Mer (_Lodoicea Maldivica_ (J F Gmel.) Per
 [^27]: Staples and Singeo, “Dessicating Palm Pollen,” 49.
 
 
-[^28]: Timothy P. Barnard, _Nature’s Colony: Empire, Nation, and Environment in the Singapore Botanic Gardens_ (Singapore: NUS Press, 2016), 120–52. (From National Library Singapore, call no. RSING 580.735957 BAR)
+[^28]: Timothy P. Barnard, [_Nature’s Colony: Empire, Nation, and Environment in the Singapore Botanic Gardens_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202468295) (Singapore: NUS Press, 2016), 120–52. (From National Library Singapore, call no. RSING 580.735957 BAR)
 
 
 [^29]: Winifred Singeo, personal communication, 13 December 2024.
 
 
-[^30]: A.B. Damania, “The Coco-de-Mer or the Double Coconut (Lodoicea Maldivica): Myths and Facts,” _Asian Agri-History_ 17, no. 4 (October 2013): 304, https://www.researchgate.net/publication/288662446\_The\_Coco-de-mer\_or\_the\_double\_coconut\_Lodoicea\_maldivica\_Myths\_and\_facts; Blackmore et al., “Observations on the Morphology,” 2; “Garden of Eden,” NOVA, 28 November 2000, https://www.pbs.org/wgbh/nova/transcripts/2714eden.html.
+[^30]: A.B. Damania, “The Coco-de-Mer or the Double Coconut (Lodoicea Maldivica): Myths and Facts,” _Asian Agri-History_ 17, no. 4 (October 2013): 304, [https://www.researchgate.net/publication/288662446\_The\_Coco-de-mer\_or\_the\_double\_coconut\_Lodoicea\_maldivica\_Myths\_and\_facts](https://www.researchgate.net/publication/288662446_The_Coco-de-mer_or_the_double_coconut_Lodoicea_maldivica_Myths_and_facts); Blackmore et al., “Observations on the Morphology,” 2; “Garden of Eden,” NOVA, 28 November 2000, [https://www.pbs.org/wgbh/nova/transcripts/2714eden.html](https://www.pbs.org/wgbh/nova/transcripts/2714eden.html).
