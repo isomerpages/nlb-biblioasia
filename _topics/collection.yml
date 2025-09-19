@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - Technology.md
       - Editor's Picks.md
       - Adventure and Travel.md
       - Archaeology.md
@@ -36,4 +35,5 @@ collections:
       - People/Women.md
       - Print.md
       - Sports.md
+      - Technology.md
       - War and Military.md
