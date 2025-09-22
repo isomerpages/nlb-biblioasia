@@ -8,11 +8,11 @@ description: ""
 By Dr Patricia Lin
 <br><small>18 September 2025</small>
 
-The name Nam Sang Hua Yuan (南生花园), or Nam-sang Fa-un in Cantonese, may not ring a bell today but in the mid-19th century, it was one of Singapore’s most famous residences, attracting visitors from all over the world. Also known as Whampoa House, it was built by the businessman and community leader Hoo Ah Kay (胡亞基, Hu Ya Ji; better known as Whampoa), and located about 5 km outside the city on Serangoon Road.
-
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Whampoa%20House/Whampoa_House.jpg" style="width: 80%;">Whampoa Hoo Ah Kay and guests at a moon gate of his mansion, mid-19th century. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
+The name Nam Sang Hua Yuan (南生花园), or Nam-sang Fa-un in Cantonese, may not ring a bell today but in the mid-19th century, it was one of Singapore’s most famous residences, attracting visitors from all over the world. Also known as Whampoa House, it was built by the businessman and community leader Hoo Ah Kay (胡亞基, Hu Ya Ji; better known as Whampoa), and located about 5 km outside the city on Serangoon Road.
 
 #### **An Astute Businessman**
 
