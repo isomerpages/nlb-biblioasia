@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Books on Wheels/HeroImage_Mobile_libraries.jpg
       variant: center
   - infopic:
+      title: “Majulah Singapura” and Other Love Songs
+      subtitle: National Symbols
+      id: infopic
+      description: National anthems often start off as songs for different purposes.
+        Singapore’s “Majulah Singapura” is no different.
+      button: A LOVE SONG FOR SINGAPORE
+      url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
+      image: /images/Vol 21 Issue 3/Majulah Singapura/anthem_main_Topics.jpg
+      alt: “Majulah Singapura”
+  - infopic:
       title: The Life and Times of Giovanni Gaggino
       subtitle: People
       id: infopic
@@ -841,16 +851,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: “Majulah Singapura” and Other Love Songs
-      subtitle: National Symbols
-      id: infopic
-      description: National anthems often start off as songs for different purposes.
-        Singapore’s “Majulah Singapura” is no different.
-      button: A LOVE SONG FOR SINGAPORE
-      url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
-      image: /images/Vol 21 Issue 3/Majulah Singapura/anthem_main_Topics.jpg
-      alt: “Majulah Singapura”
   - infopic:
       title: "Daylight Robbery: Singapore’s Shifting Time Zones"
       subtitle: Nature and the Environment
