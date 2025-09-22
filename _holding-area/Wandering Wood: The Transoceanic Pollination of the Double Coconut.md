@@ -15,9 +15,19 @@ By Choo Ruizhi
 
 On the afternoon of 31 May 2011, about five days after they had been dispatched from Singapore’s Botanic Gardens, pollen from a rare and endangered palm species, the double coconut (_Lodoicea maldivica_), made landfall in Honolulu, Hawaii. Having travelled nearly 11,000 km, the grains were immediately applied to female flowers of the palm at the Foster Botanical Garden, a garden within the network of the Honolulu Botanical Gardens. Although many of the flowers “were already... past optimal time for successful pollination”, the fertilisation was successful; weeks later, a single fruit began to develop.&nbsp;
 
+<img src="/images/Vol%2021%20Issue%204/Wandering%20Wood/coconut_palm.png" style="width: 70%;">
+
+
+<div style="background-color: white;">One of the female double coconut palms at the Foster Botanical Gardens in Honolulu, 21 September 2024. Fruits on the tree indicate that this individual was successfully pollinated.  <i>Photo by Choo Ruizhi.</i></div>
+
 It was a historic accomplishment, marking the culmination of numerous unsuccessful pollination attempts since 1984. Working together, botanists from Honolulu and Singapore had devised techniques to collect and ship pollen from a palm, native to Seychelles and propagated in Singapore, to fertilise another specimen across the Pacific Ocean.[^1]
 
 The double coconut is a remarkable plant. It is named for the two distinct rounded lobes on its fruit that resemble two coconuts joined together, a provocative shape that has aroused comparisons to other parts of the human anatomy. Each fruit can weigh up to 45 kg, the heaviest and largest in the plant kingdom. They often contain one seed, or nut, also the heaviest in the plant kingdom, weighing up to 25 kg.&nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/Wandering%20Wood/coconut_fruit.png" style="width: 70%;">
+
+
+<div style="background-color: white;">The fruit of the double coconut has two distinct lobes, 2010.&nbsp;Photo by Brocken Inaglory. <i>From Wikimedia Commons.</i></div>
 
 #### **Geographical Distribution and Characteristics**
 
@@ -30,11 +40,6 @@ The double coconut tree is a tall, straight-trunked palm that can grow up to 25 
 
 
 The palm is a dioecious plant, meaning that it bears male and female flowers on separate trees. Male flowers are small and borne on distinctive sausage-like stalks (or “inflorescences”) up to 2 m long, while female flowers grow out of thick, bulbed stalks. Once fertilised, the female flower takes six or more years to fully mature into a single fruit.[^3]
-
-<img src="/images/Vol%2021%20Issue%204/Wandering%20Wood/coconut_young.png" style="width: 70%;">
-
-
-<div style="background-color: white;">A young female double coconut palm at the Singapore Botanic Gardens, 9 January 2025. <i>Photo by Choo Ruizhi.</i></div>
 
 
 By the time Western observers first encountered it in 1563, the double coconut was already highly esteemed for its medicinal properties in localities along the coastlines of the Indian Ocean, and as far afield as Indonesia, China and Japan.[^4] Yet their means of reproduction remained a mystery. Because they also washed up regularly on the shores of Sri Lanka and the Maldives during the monsoon season, these nuts were widely believed to grow on mythical submerged trees, a persistent legend that resulted in the moniker “coco-de-mer”, or coconut of the sea.&nbsp;
@@ -59,21 +64,27 @@ Germination attempts in other British botanical gardens around the world were mo
 
 One of these localities was the Singapore Botanic Gardens (SBG). Colonial scientists first attempted to raise the double coconut in Singapore in 1875. Although this individual did not survive, several more attempts were made to cultivate the coco-de-mer over the years.[^10]
 
+<img src="/images/Vol%2021%20Issue%204/Wandering%20Wood/coconut_young.png" style="width: 70%;">
+
+
+<div style="background-color: white;">A young female double coconut palm at the Singapore Botanic Gardens, 9 January 2025. <i>Photo by Choo Ruizhi.</i></div>
+
 For instance, perusing more than a century of the Gardens’ publications, Felix Merklinger, horticulture manager at the SBG between September 2014 and February 2017, notes that a juvenile coco-de-mer was pictured in I.H. Burkhill’s _The Botanic Gardens, Singapore: Illustrated Guide_ (first published in 1900).[^11]
 
 The plant was featured in the SBG’s 1955 annual report when it mentioned that two coco-de-mer trees had died: one killed by red stripe weevils (_Rhynchophorus schach_); the second cut down after being severely damaged by the falling branches of an adjacent tree. Fortunately, the SBG was able to obtain four more double coconut seeds directly from Seychelles that same year for cultivation.[^12]
 
 In 2012, _Gardenwise_, the SBG’s magazine, reported that the Gardens possessed “three mature double coconuts, one female and two males, plus several younger trees”. The mature individuals likely stemmed from the 1955 planting. SBG staff have since successfully pollinated the female tree using pollen from the male plants on several occasions, resulting in a growing number of young palms and developing fruits.[^13]
 
-<img src="/images/Vol%2021%20Issue%204/Wandering%20Wood/coconut_palm.png" style="width: 70%;">
-
-
-<div style="background-color: white;">One of the female double coconut palms at the Foster Botanical Gardens in Honolulu, 21 September 2024. Fruits on the tree indicate that this individual was successfully pollinated.  <i>Photo by Choo Ruizhi.</i></div>
 
 
 #### **Conserving Unruly Giants**
 
 Efforts to propagate the coco-de-mer have become more urgent since 2007 when the palm was categorised as “Endangered” in the International Union for Conservation of Nature (IUCN) Red List of Threatened Species.[^14] In the wild, there are only three natural populations totalling about 8,200 mature individuals on the Praslin and Curieuse islands in the Seychelles archipelago, making them highly vulnerable to sudden, catastrophic events like earthquakes and tsunamis.[^15]
+
+<img src="/images/Vol%2021%20Issue%204/Wandering%20Wood/coconut_valley.png" style="width: 70%;">
+
+
+<div style="background-color: white;">Valley of the coco-de-mer on Praslin, Seychelles, 1908. <i>Image reproduced from Michael John Nicoll, Three Voyages of a Naturalist: Being an Account of Many Little-Known Islands in Three Oceans Visited by the 'Valhalla' R.Y.S. (London, England: Whitherby &amp; Co., 1908), facing p. 130. Freshwater and Marine Image Bank, University Libraries, University of Washington.</i></div>
 
 The palm is primarily threatened by the over-harvesting of its nuts for tourist and commodity markets. Depending on size and symmetry, it was reported that in 2010 a single polished specimen could fetch up to US$400 (about US$593 today), while the kernels, extracted from harvested nuts and also exported to Asia, sold for at least US$65 per kg (around US$96 per kg today).[^16]
 
