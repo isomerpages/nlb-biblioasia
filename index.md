@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/
-      button: "Books on Wheels: Singapore's Mobile Libraries"
+      url: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
+      button: Reading With Molly Today
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Books on Wheels/HeroImage_Mobile_libraries.jpg
+      background: /images/Vol 21 Issue 2/Molly/HeroImage_Molly.jpg
       variant: center
+  - infopic:
+      title: “Majulah Singapura” and Other Love Songs
+      subtitle: National Symbols
+      id: infopic
+      description: National anthems often start off as songs for different purposes.
+        Singapore’s “Majulah Singapura” is no different.
+      button: A LOVE SONG FOR SINGAPORE
+      url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
+      image: /images/Vol 21 Issue 3/Majulah Singapura/anthem_main_Topics.jpg
+      alt: “Majulah Singapura”
   - infopic:
       title: The Life and Times of Giovanni Gaggino
       subtitle: People
@@ -842,15 +852,15 @@ sections:
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
   - infopic:
-      title: “Majulah Singapura” and Other Love Songs
-      subtitle: National Symbols
+      title: "A Mansion in Serangoon: Whampoa House-Bendemeer"
+      subtitle: More Places and Buildings
       id: infopic
-      description: National anthems often start off as songs for different purposes.
-        Singapore’s “Majulah Singapura” is no different.
-      button: A LOVE SONG FOR SINGAPORE
-      url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
-      image: /images/Vol 21 Issue 3/Majulah Singapura/anthem_main_Topics.jpg
-      alt: “Majulah Singapura”
+      description: In the 19th century, Whampoa’s legendary home was a nexus of
+        wealth, power and extravagant entertainment.
+      button: The palatial home of two Chinese towkays
+      url: /people/2025/9/whampoa-house-bendemeer-hoo-ah-kay-seah-liang-seah/
+      image: /images/Online Only Articles/Whampoa House/Whampoa_House_Topics.jpg
+      alt: Whampoa House-Bendemeer
   - infopic:
       title: "Daylight Robbery: Singapore’s Shifting Time Zones"
       subtitle: Nature and the Environment
