@@ -905,4 +905,14 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
       image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
       alt: New Books
+  - infopic:
+      title: "A Mansion in Serangoon: Whampoa House-Bendemeer"
+      subtitle: More Places and Buildings
+      id: infopic
+      description: In the 19th century, Whampoa’s legendary home was a nexus of
+        wealth, power and extravagant entertainment.
+      button: The palatial home of two Chinese towkays
+      url: /people/2025/9/whampoa-house-bendemeer-hoo-ah-kay-seah-liang-seah/
+      image: /images/Online Only Articles/Whampoa House/Whampoa_House_Topics.jpg
+      alt: Whampoa House-Bendemeer
 ---
