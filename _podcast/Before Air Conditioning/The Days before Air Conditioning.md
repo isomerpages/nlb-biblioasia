@@ -6,11 +6,13 @@ description: ""
 image: /images/Podcast/Fiona_Williamson_600_400.jpg
 third_nav_title: Before Air Conditioning
 ---
-<p>The national anthem that we know today wasn't the original version composed
-by Zubir Said. His first version was longer and was set at a higher key.
-Emeritus Professor Bernard Tan talks about how "Majulah Singapura" came
-about and how it changed over the decades, and illustrates how these versions
-differ on his piano.&nbsp;
+<p>Before air-conditioning was introduced in Singapore in the 1920s, temperature
+control was a matter of architectural design. Environmental historian Fiona
+Williamson tells us how people kept themselves cool before air-conditioning
+arrived, why weather science was important to the colonial enterprise,
+and what environmental history can tell us about a city’s development.
+&nbsp;</p>
+<p>
 <br>
 </p>
 <p></p>
@@ -37,7 +39,12 @@ Singapore Management University.</p>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Fiona Williamson, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">Playing It Cool: The Early History of Air Conditioning in Singapore</a>,” <em>BiblioAsia</em> 21,
+no. 4 (January–March 2026).
+<br>Fiona Williamson, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803" rel="noopener noreferrer nofollow" target="_blank">Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya</a> </em>(Pittsburgh:
+University of Pittsburgh Press, 2025).
+<br>
+</p>
 </div>
 </details>
 <details class="isomer-details">
