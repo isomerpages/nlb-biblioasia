@@ -15,15 +15,15 @@ boxing superstar?</p>
 </div>
 <p></p>
 <h4><strong>Season 3</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-days-before-air-conditioning-fiona-williamson/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Days Before Air-Conditioning" src="/images/Podcast/Fiona_Williamson_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Days Before Air-Conditioning  </div><div class="isomer-card-description">Environmental historian Fiona Williamson tells us how people kept themselves cool before air-conditioning arrived, why weather science was important to the colonial enterprise, and what environmental history can tell us about a city’s development.  </div><div class="isomer-card-link">Coming in November</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/negotiating-boundaries-running-straits-times-newsroom-cheong-yip-seng/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-days-before-air-conditioning-fiona-williamson/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Days Before Air-Conditioning" src="/images/Podcast/Fiona_Williamson_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Days Before Air-Conditioning</div><div class="isomer-card-description">Environmental historian Fiona Williamson tells us how people kept themselves cool before air-conditioning arrived, why weather science was important to the colonial enterprise, and what environmental history can tell us about a city’s development.</div><div class="isomer-card-link">Coming in November</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/negotiating-ob-markers-when-running-straits-times-cheong-yip-seng/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cheong Yip Seng" src="/images/Podcast/Cheong_Yip_Seng_600_by_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Negotiating Boundaries When Running the Straits&nbsp;Times&nbsp;Newsroom</div>
+<div class="isomer-card-title">Negotiating OB Markers When Running the Straits&nbsp;Times</div>
 <div class="isomer-card-description">Former Straits Times editor-in-chief Cheong Yip Seng tells us about how
 he negotiated OB markers with the government during his tenure (1987–2006),
 how he juggled the interests of the paper’s stakeholders, and which news
