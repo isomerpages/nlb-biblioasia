@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Before Air Conditioning/Transcript.md
       - Before Air Conditioning/The Days before Air Conditioning.md
       - Before Air Conditioning/.keep
       - Negotiating OB Markers/.keep
