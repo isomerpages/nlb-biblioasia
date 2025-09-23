@@ -1,4 +1,5 @@
 collections:
   jan-to-mar-2026:
     output: true
-    order: []
+    order:
+      - "Playing It Cool: The Early History of Air Conditioning in Singapore.md"
