@@ -9,9 +9,7 @@ image: /images/Podcast/Cheong_Yip_Seng_600_by_400.jpg
 how he negotiated OB markers with the government during his tenure (1987–2006),
 how he juggled the interests of the paper’s stakeholders, and which news
 story he nearly went to jail for.</p>
-<p>
-<br>
-</p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/the-making-of-majulah-singapura-as-we-know-it/id1688142751?i=1000720140263"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Colored.png"></a>
