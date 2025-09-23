@@ -916,13 +916,13 @@ sections:
       image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
       alt: New Books
   - infopic:
-      title: "Wandering Wood: The Transoceanic Pollination-Double Coconut"
+      title: The Transoceanic Pollination of the Double Coconut
       subtitle: Nature and the Environment
       id: infopic
-      description: Pollen from coco-de-mer trees in Singapore successfully fertilised
-        female plants of this rare endangered species in Hawaii.
+      description: In 2011, pollen from coco-de-mer trees in Singapore successfully
+        fertilised female plants in Hawaii.
       button: SAVING AN ENDANGERED SPECIES
       url: /vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/
       image: /images/Vol 21 Issue 4/Wandering Wood/coconut_woman_Topics.png
-      alt: Image alt text
+      alt: Wandering Wood
 ---
