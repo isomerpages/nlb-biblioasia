@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - "Wandering Wood: The Transoceanic Pollination of the Double Coconut.md"
       - Sample article.md
