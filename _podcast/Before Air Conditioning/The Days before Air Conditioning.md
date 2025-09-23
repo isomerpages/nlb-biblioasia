@@ -12,12 +12,10 @@ Williamson tells us how people kept themselves cool before air-conditioning
 arrived, why weather science was important to the colonial enterprise,
 and what environmental history can tell us about a city’s development.
 &nbsp;</p>
-<p>
-<br>
-</p>
+<p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/the-making-of-majulah-singapura-as-we-know-it/id1688142751?i=1000720140263"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
 <p></p>
-<p></p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Colored.png"></a>
 <p></p>
 <p></p>
 <p>Subscribe to get notified when the next episode drops.</p>
