@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Negotiating OB Markers/Transcript.md
       - Negotiating OB Markers/Negotiating OB Markers When Running the Straits
         Times.md
       - Negotiating OB Markers/.keep
