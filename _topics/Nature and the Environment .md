@@ -4,6 +4,13 @@ permalink: /topics/nature/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/">Wandering Wood: The Transoceanic Pollination of the Double Coconut</a>
+
+In 2011, pollen from coco-de-mer trees in Singapore successfully fertilised female plants of this rare endangered species in Hawaii, thanks to the efforts of resourceful, determined botanists.
+
+<img src="/images/Vol%2021%20Issue%204/Wandering%20Wood/coconut_woman_Topics.png" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/singapore-time-zones/">**Daylight Robbery: Singapore’s Shifting Time Zones**</a>
 
 In 1982, Singapore adjusted its time zone to follow Malaysia’s national synchronisation. But this was not the only instance that Singapore had undergone time zone changes.
