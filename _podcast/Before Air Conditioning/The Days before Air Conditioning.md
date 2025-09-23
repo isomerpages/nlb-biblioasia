@@ -50,13 +50,17 @@ University of Pittsburgh Press, 2025).
 <details class="isomer-details">
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
+Gek Han. Sound engineering was done by Nookcha Films. The background music
+"Di Tanjong Katong" was composed by Ahmad Patek and performed by Chords
+Haven. Special thanks to Fiona for coming on the show.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>About the Podcast</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>BiblioAsia+ is a podcast about Singapore history by the National Library
+Singapore.</p>
 </div>
 </details>
 <p></p>
