@@ -1,6 +1,6 @@
 ---
 title: "Playing It Cool: The Early History of Air Conditioning in Singapore"
-permalink: /holding-area/vol-22/issue-1/jan-apr-2026/air-conditioning-in-singapore/
+permalink: /vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/
 variant: markdown
 description: ""
 ---
@@ -8,7 +8,7 @@ description: ""
 By Fiona Williamson
 
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_main.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_main.png" style="width: 80%;">
 
 
 <div style="background-color: white;">Alhambra Theatre on Beach Road, 1947. It is considered the first cinema in Malaya to have modern air conditioning.  <i>Tan Kok Kheng Collection, courtesy of National Archives of Singapore (Media - Image no:.20050001019 - 0036). </i></div>
@@ -24,7 +24,7 @@ To avoid “prickly heat” (heat rash), people were advised to avoid too much s
 
 Air conditioning first came to Singapore in the 1920s and the largest supplier of the technology during the inter-war era was the Carrier Air Conditioning Company of America. Carrier entered the Asian market in the early 1930s, subsequently setting up a regional headquarters in Singapore alongside Tokyo, Hong Kong and Sydney.[^3]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_carrier.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_carrier.png" style="width: 80%;">
 
 
 <div style="background-color: white;">  An advertisement by United Engineers Limited for its Carrier air conditioners. <i> Image reproduced from the Straits Times, 21 May 1937, 8. (From NewspaperSG).</i></div>
@@ -44,7 +44,7 @@ In June 1938, the _Morning Tribune_ explained that the main purpose of air condi
 
 Mechanical air ventilation systems for entertainment spaces in Singapore were the first iteration of the transition to modern cooled and healthy buildings.[^9] The new Capitol Theatre, for example, which opened in May 1930, incorporated a mechanical air cooling system in which air was circulated around the theatre from a suction fan in the basement passed through a ventilation system, which filtered, purified and “washed” the air before it was electrically charged in an Ozonair machine and pushed out into the theatre through air vents “with all the freshness of a cool breeze”.[^10]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_theatre.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_theatre.png" style="width: 80%;">
 
 
 <div style="background-color: white;"> Capitol Theatre at the junction of Stamford Road and North Bridge Road, c. 1964. <i>RAFSA Collection, courtesy of National Archives of Singapore (Media - Image no. 20170000052 - 0034). </i></div>
@@ -53,32 +53,32 @@ Within a decade, however, this cooling system was becoming obsolete. The Alhambr
 
 “Entertainment in the East is controlled for the most part by the problem of weather. It is a remarkable fact that the idea of installing an air conditioning plant has not been thought of before,” noted the _Morning Tribune_. “There is no doubt that the air conditioning is a huge success – all through the evening there was a pleasant sense of cool dehumidified air. It was perfectly cool and there was no suggestion of any intolerable heat that can so often ruin an evening’s entertainment.”[^12]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_supplement.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_supplement.png" style="width: 80%;">
 
 
 <div style="background-color: white;">A supplement in the <i>Morning Tribune</i> on the reopening of Alhambra Theatre in July 1938. It was described as “Malaya’s Coolest Cinema”. <i>Image reproduced from the Morning Tribune, 27 July 1938, 2. (From NewspaperSG).  </i></div>
 Before long, other entertainment spots in Singapore began incorporating air conditioning into their design as a marketing ploy. In 1938, the New World amusement park, which had opened in 1923, advertised its air-conditioned Dance Palace where patrons could “Dance in Perpetual Coolness”.[^13] Costing $48,500, the _Straits Times_ wrote that the “air-conditioning plant has been designed to give the cool and refreshing atmosphere of a hill station, even when there are more than 1,000 people inside”.[^14]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_entrance.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_entrance.png" style="width: 80%;">
 
 
 <div style="background-color: white;">  The entrance to the New World amusement park at Jalan Besar, 1945. <i> David Turner Collection, courtesy of National Archives of Singapore (Media - Image no.20060000528 - 0005). </i></div>
 <br>
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_dance.png" style="width: 50%;">
+<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_dance.png" style="width: 50%;">
 
 
 <div style="background-color: white;">  The New World amusement park advertising its new air-conditioned Dance Palace. <i> Image reproduced from the Morning Tribune, 28 July 1938, 7. (From NewspaperSG). </i></div>
 
 The _Morning Tribune_ said that the dance and cabaret hall was “destined to be the most modern and luxurious in the whole of Malaya” and could “comfortably hold 1,500 people who can dance in a cool, dehumidified building”.[^15]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_cabaret.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_cabaret.png" style="width: 80%;">
 
 
 <div style="background-color: white;">   The new cabaret of New World amusement park was air-conditioned and “designed to give the cool and refreshing atmosphere of a hill station”. <i> Source: The Straits Times, 15 May 1938 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 Not to be outdone, almost 10 years after Capitol Theatre first opened, the premises underwent a $50,000 refurbishment during which a new, modern air conditioning system was installed – all without closing the theatre. Completed in January 1940, the work involved a massive structural redesign, removing fans and ventilation shafts as well as adding&nbsp; a cooling tower in the roof to remove heat. Like many systems of the era, it was also designed to extract the vast amounts of cigarette fumes generated by public smoking, replacing the stale air with around one ton of new cooled air every minute. This was equivalent to melting 125 tons of ice per day.[^16]
 
-<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_refurb.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_refurb.png" style="width: 80%;">
 
 
 <div style="background-color: white;"> In 1940, Capitol Theatre underwent a major refurbishment during which a new, modern air conditioning system was installed.  <i>Source: The Straits Times, 31 January 1940 © SPH Media Limited. Permission required for reproduction.  </i></div>
@@ -118,7 +118,7 @@ In 1999, while Singapore’s first prime minister, Lee Kuan Yew, famously credit
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-	<img src="/images/Vol%2022%20Issue%201/Air%20Conditioning/ac_imperial.png" style="width: 70%;"><br>
+	<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_imperial.png" style="width: 70%;"><br>
 This essay is adapted from Chapter 7, “Regulating Heat, Controlling Urban Airs”, from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803"><i>Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya</i></a> (University of Pittsburgh Press, 2025) by Fiona Williamson. The book is available for sale at online bookstores and for reference at the Lee Kong Chian Reference Library (call no. RSEA 959.503 WIL).
 </div>
 

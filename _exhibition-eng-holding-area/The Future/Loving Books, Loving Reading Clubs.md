@@ -1,5 +1,5 @@
 ---
-title: Love of Books, Love of Reading Clubs
+title: Loving Books, Loving Reading Clubs
 permalink: /exhibition-holding-area/eng/future/article5/
 variant: markdown
 description: ""
