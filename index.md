@@ -924,5 +924,5 @@ sections:
       button: SAVING AN ENDANGERED SPECIES
       url: /vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/
       image: /images/Vol 21 Issue 4/Wandering Wood/coconut_woman_Topics.png
-      alt: Wandering Wood
+      alt: Wandering Wood Double Coconut
 ---
