@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - Editor's Picks.md
       - Adventure and Travel.md
       - Archaeology.md
       - Arts/.keep
