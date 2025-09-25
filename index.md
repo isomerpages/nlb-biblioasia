@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Molly/HeroImage_Molly.jpg
       variant: center
   - infopic:
+      title: "A Mansion in Serangoon: Whampoa House-Bendemeer"
+      subtitle: More Places and Buildings
+      id: infopic
+      description: In the 19th century, Whampoa’s legendary home was a nexus of
+        wealth, power and extravagant entertainment.
+      button: The palatial home of two Chinese towkays
+      url: /people/2025/9/whampoa-house-bendemeer-hoo-ah-kay-seah-liang-seah/
+      image: /images/Online Only Articles/Whampoa House/Whampoa_House_Topics.jpg
+      alt: Whampoa House-Bendemeer
+  - infopic:
       title: “Majulah Singapura” and Other Love Songs
       subtitle: National Symbols
       id: infopic
@@ -851,16 +861,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: "A Mansion in Serangoon: Whampoa House-Bendemeer"
-      subtitle: More Places and Buildings
-      id: infopic
-      description: In the 19th century, Whampoa’s legendary home was a nexus of
-        wealth, power and extravagant entertainment.
-      button: The palatial home of two Chinese towkays
-      url: /people/2025/9/whampoa-house-bendemeer-hoo-ah-kay-seah-liang-seah/
-      image: /images/Online Only Articles/Whampoa House/Whampoa_House_Topics.jpg
-      alt: Whampoa House-Bendemeer
   - infopic:
       title: "Daylight Robbery: Singapore’s Shifting Time Zones"
       subtitle: Nature and the Environment
