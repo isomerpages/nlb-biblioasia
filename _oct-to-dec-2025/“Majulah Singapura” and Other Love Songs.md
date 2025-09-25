@@ -102,7 +102,7 @@ The initial official recordings of “Majulah Singapura” were by the Radio Sin
 
 ![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_vinyl2.jpg)
 ![](/images/Vol%2021%20Issue%203/Majulah%20Singapura/anthem_vinylb.jpg)
-<div style="background-color:white;">A copy of the first vinyl record of “Majulah Singapura” produced by the Gramophone Company Ltd in 1959. This copy was the one presented to Minister for Culture S. Rajaratnam. Side 1 features the full and salute versions played by the Band of the Singapore Military Forces, while side 2 contains the version sung by the Ministry of Education Choir. <i>Courtesy of National Archives of Singapore. </i></div>
+<div style="background-color:white;">A copy of the first vinyl record of “Majulah Singapura” produced by the Gramophone Company Ltd in 1959. This copy was presented to Minister for Culture S. Rajaratnam. Side 1 features the full and salute versions played by the Band of the Singapore Military Forces, while side 2 contains the version sung by the Ministry of Education Choir. <i>Courtesy of National Archives of Singapore. </i></div>
 
 #### **Revised Orchestrations**
 
