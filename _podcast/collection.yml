@@ -2,6 +2,13 @@ collections:
   podcast:
     output: true
     order:
+      - Before Air Conditioning/.keep
+      - Before Air Conditioning/The Days before Air Conditioning.md
+      - Before Air Conditioning/Transcript.md
+      - Negotiating OB Markers/.keep
+      - Negotiating OB Markers/Negotiating OB Markers When Running the Straits
+        Times.md
+      - Negotiating OB Markers/Transcript.md
       - Hawkins Road Refugee Camp/.keep
       - "Hawkins Road Refugee Camp/25 Hawkins Road: Home to Vietnamese
         Refugees.md"

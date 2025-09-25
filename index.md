@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Molly/HeroImage_Molly.jpg
       variant: center
   - infopic:
+      title: "A Mansion in Serangoon: Whampoa House-Bendemeer"
+      subtitle: More Places and Buildings
+      id: infopic
+      description: In the 19th century, Whampoa’s legendary home was a nexus of
+        wealth, power and extravagant entertainment.
+      button: The palatial home of two Chinese towkays
+      url: /people/2025/9/whampoa-house-bendemeer-hoo-ah-kay-seah-liang-seah/
+      image: /images/Online Only Articles/Whampoa House/Whampoa_House_Topics.jpg
+      alt: Whampoa House-Bendemeer
+  - infopic:
       title: “Majulah Singapura” and Other Love Songs
       subtitle: National Symbols
       id: infopic
@@ -852,16 +862,6 @@ sections:
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
   - infopic:
-      title: "A Mansion in Serangoon: Whampoa House-Bendemeer"
-      subtitle: More Places and Buildings
-      id: infopic
-      description: In the 19th century, Whampoa’s legendary home was a nexus of
-        wealth, power and extravagant entertainment.
-      button: The palatial home of two Chinese towkays
-      url: /people/2025/9/whampoa-house-bendemeer-hoo-ah-kay-seah-liang-seah/
-      image: /images/Online Only Articles/Whampoa House/Whampoa_House_Topics.jpg
-      alt: Whampoa House-Bendemeer
-  - infopic:
       title: "Daylight Robbery: Singapore’s Shifting Time Zones"
       subtitle: Nature and the Environment
       id: infopic
@@ -915,4 +915,25 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
       image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
       alt: New Books
+  - infopic:
+      title: The Early History of Air Conditioning in Singapore
+      subtitle: Technology
+      id: infopic
+      description: The humble air conditioner is an innovation that we take for
+        granted today. But for the people of Singapore in the mid-20th century,
+        it was a luxury.
+      button: A COOL INVENTION
+      url: /vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/
+      image: /images/Vol 21 Issue 4/Air Conditioning/ac_supplement_topics.jpg
+      alt: History of Air Conditioning
+  - infopic:
+      title: The Transoceanic Pollination of the Double Coconut
+      subtitle: Nature and the Environment
+      id: infopic
+      description: In 2011, pollen from coco-de-mer trees in Singapore successfully
+        fertilised female plants in Hawaii.
+      button: SAVING AN ENDANGERED SPECIES
+      url: /vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/
+      image: /images/Vol 21 Issue 4/Wandering Wood/coconut_woman_Topics.png
+      alt: Wandering Wood Double Coconut
 ---
