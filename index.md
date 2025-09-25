@@ -873,6 +873,16 @@ sections:
       image: /images/Vol 21 Issue 3/Daylight Robbery/Time_Zones_Topics.jpg
       alt: Daylight Robbery
   - infopic:
+      title: New Books on Singapore History (Oct 2025)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at six new books available in the National Library's
+        collection.
+      button: New Reads
+      url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
+      image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
+      alt: New Books
+  - infopic:
       title: Luís de Camões in Asia
       subtitle: People
       id: infopic
@@ -905,16 +915,6 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/
       image: /images/Vol 21 Issue 3/Family History/Zupu_Topics.jpg
       alt: An 800-Year-Old Family History
-  - infopic:
-      title: New Books on Singapore History (Oct 2025)
-      subtitle: Literature
-      id: infopic
-      description: A quick look at six new books available in the National Library's
-        collection.
-      button: New Reads
-      url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
-      image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
-      alt: New Books
   - infopic:
       title: The Early History of Air Conditioning in Singapore
       subtitle: Technology
