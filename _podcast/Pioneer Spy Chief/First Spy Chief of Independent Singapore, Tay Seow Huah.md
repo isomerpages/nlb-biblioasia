@@ -55,7 +55,7 @@ attack
 <br>35:13 – How Tay’s childhood hunger shaped his habits
 <br>35:57 – Tay’s party trick
 <br>38:09 – Simon on his public service journey
-<br>43:45 – Why Simon’s wrote the book <em>Enigmas</em>
+<br>43:45 – Why Simon wrote the book <em>Enigmas</em>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
