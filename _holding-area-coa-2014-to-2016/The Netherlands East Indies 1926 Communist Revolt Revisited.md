@@ -215,30 +215,36 @@ singapore newspapers in 1925? Since communist activities in the NEI were
 frequently mentioned in the mid-1920s, probably because of the PKI revolt,
 the keyword search terms “‘communist(s)’ AND ‘Java’” are used (Fig. 2).19
 
-![](/images/COA%202014%20to%202016/Netherlands/Figure_2.jpg)
 <img src="/images/COA%202014%20to%202016/Netherlands/Figure_2.jpg" style="width:90%;">
-<div style="background-color: white;"><center>Fig. 2 Keywords: communist(s) AND Java20</center></div>
+<div style="background-color: white;"><center>Fig. 2 Keywords: communist(s) AND Java.</center></div>
+
 From Fig. 2 it is evident that discussions about NEI communist activities
-surged in 1925 and peaked in 1926. articles that contained both terms
+surged in 1925 and peaked in 1926.20 Articles that contained both terms
 “communist(s)” and “Java” grew by 545.5 percent, from 14 in 1924 to 71 in 1925. Is it possible that the media in singapore coincidentally increased the coverage of Java and communism as two separate events? In other words, was the Singapore press actually concerned about communist activities *in* Java from 1925 to 1927? We can rule out this possibility by using the term “Java” alone (Fig. 3).
 
 Fig. 3 shows that the term “Java” saw an overall 14.5 percent growth from
 6,819 in 1924 to 7,808 in 1925 – a steady increase for sure, but certainly not as
-pronounced as the terms “‘communist(s)’ AND ‘Java’”. Understandably, while
+pronounced as the terms “‘communist(s)’ AND ‘Java’”.21 Understandably, while
 the volume of Java-related articles remained constant in the next two years,
 news reports on communism in Java reached its peak in 1926 and remained
 high in 1927 due to the PKI insurrections. The media’s growing general
 interests aside, it is clear that the communist movement in the NEI had
 already attracted significant attention a year prior to the outbreak of the revolt.
 
+<img src="/images/COA%202014%20to%202016/Netherlands/Figure_3.jpg" style="width:90%;">
+<div style="background-color: white;"><center>Fig. 3 Keywords: Java.</center></div>
+
 To better understand the impact of the 1926/27 revolt in British Malaya,
 we can compare the search results of the terms “‘communist(s)’ AND
-‘Java’” and “‘communist(s)’ AND ‘China’” (Fig. 4). This chart shows that
+‘Java’” and “‘communist(s)’ AND ‘China’” (Fig. 4).22 This chart shows that
 overall, communist activities in China (broadly defined) exerted a far
 greater influence in British Malaya than their Indonesian counterparts
 over the years, with the only exception being 1926, presumably due to the PKI revolt. Starting from 1927, however, while China’s influence
 fluctuated (at a relatively high level) over the years, the impact of the NEI 
 communist movement became significantly weaker.
+
+<img src="/images/COA%202014%20to%202016/Netherlands/Figure_4.jpg" style="width:90%;">
+<div style="background-color: white;">Fig. 4 Keywords: communist(s) AND Java (light blue) vs. communist(s) AND China (dark blue).</div>
 
 Technically speaking, this is a highly problematic comparison, which is
 due to the inherent shortcomings of digital newspaper archives mentioned
