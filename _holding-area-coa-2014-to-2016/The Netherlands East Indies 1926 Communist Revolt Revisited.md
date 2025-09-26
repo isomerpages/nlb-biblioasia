@@ -178,59 +178,59 @@ this research should be supplemented with other materials.
 people commonly associate the origins of communist activity in British
 malaya with the ethnic Chinese community and political infl uences from
 mainland China. such an association is likely derived from the fact that
-the membership of the mCp was predominantly ethnic Chinese. although
-the mCp was not formally established until 1930, yong Ching Fatt suggests
-that Chinese communists had been operating in British malaya as early as
-1921.15 due to contradictions in diff erent sources, the exact founding dates
-of malaya’s early communist organisations are diffi cult to pinpoint. it is
-generally agreed that the Communist party of China (CpC) established an
-overseas branch in British malaya around 1925 to 1926. Th e CpC branch
-gradually transformed into the nanyang (or south seas) Communist party
-(ssCp) in 1927 with the goal of expanding to all parts of the nanyang
+the membership of the MCP was predominantly ethnic Chinese. although
+the mCp was not formally established until 1930, Yong Ching Fatt suggests
+that Chinese communists had been operating in British Malaya as early as
+1921.15 Due to contradictions in diff erent sources, the exact founding dates
+of malaya’s early communist organisations are difficult to pinpoint. it is
+generally agreed that the Communist party of China (CPC) established an
+overseas branch in British Malaya around 1925 to 1926. The CPC branch
+gradually transformed into the Nanyang (or South Seas) Communist Party
+(SSCP) in 1927 with the goal of expanding to all parts of the Nanyang
 area.16 Following this timeline, one would expect an upsurge in the coverage
 of local communist activities in singapore’s print media from 1925 onwards.
-Th e search results from newspapersg, on the contrary, show a rather
+The search results from newspaperSG, on the contrary, show a rather
 complex situation:
 
-Th results of keyword search terms “‘communist(s)’ or ‘communism’”
+The results of keyword search terms “‘communist(s)’ OR ‘communism’”
 (Fig. 1) indicate that there was indeed a steady growth (of the use of the
-terms) that started from 1920. Th e sudden increase in 1925 is also consistent
+terms) that started from 1920. The sudden increase in 1925 is also consistent
 with the alleged establishment of the early communist organisations in
 malaya. however, when consulted, the relevant newspaper articles were
-mostly concerned with communist movements outside of British malaya.
-Th roughout the 1920s, the ssCp was only mentioned twice in 1928 and once
-in 1929. similarly, there were no results for organisations such as the CpC’s
-nanyang provisional Committee, south seas Branch Committee, south
-seas general labour union, and only one result for the Communist youth
-league.18 although it is possible that errors could have distorted the results
-due to translation or other technical issues, the diff erence is negligible.
-Th e results indicate that early communist organisations had a very limited
-impact in the public sphere of British malaya prior to the 1930s.
+mostly concerned with communist movements outside of British Malaya.
+Throughout the 1920s, the SSCP was only mentioned twice in 1928 and once
+in 1929. similarly, there were no results for organisations such as the CPC’s
+Nanyang Provisional Committee, South Seas Branch Committee, South
+Seas General Labour Union, and only one result for the Communist Youth
+League.18 Although it is possible that errors could have distorted the results
+due to translation or other technical issues, the difference is negligible.
+The results indicate that early communist organisations had a very limited
+impact in the public sphere of British Malaya prior to the 1930s.
 
 What contributed to the surge of communism-related discussions in
-singapore newspapers in 1925? since communist activities in the nei were
-frequently mentioned in the mid-1920s, probably because of the pki revolt,
-the keyword search terms “‘communist(s)’ and ‘Java’” are used (Fig. 2).19
+singapore newspapers in 1925? since communist activities in the NEI were
+frequently mentioned in the mid-1920s, probably because of the PKI revolt,
+the keyword search terms “‘communist(s)’ AND ‘Java’” are used (Fig. 2).19
 
-From Fig. 2 it is evident that discussions about nei communist activities
-surged in 1925 and peaked in 1926. articles that contained both te rms
-“communist(s)” and “Java” grew by 545.5 percent, from 14 in 1924 to 71 in 1925. Is it possible that the media in singapore coincidentally increased the coverage of Java and communism as two separate events? in other words, was the singapore press actually concerned about communist activities in Java from 1925 to 1927? we can rule out this possibility by using the term “Java” alone (Fig. 3).
+From Fig. 2 it is evident that discussions about NEI communist activities
+surged in 1925 and peaked in 1926. articles that contained both terms
+“communist(s)” and “Java” grew by 545.5 percent, from 14 in 1924 to 71 in 1925. Is it possible that the media in singapore coincidentally increased the coverage of Java and communism as two separate events? In other words, was the Singapore press actually concerned about communist activities in Java from 1925 to 1927? We can rule out this possibility by using the term “Java” alone (Fig. 3).
 
 Fig. 3 shows that the term “Java” saw an overall 14.5 percent growth from
 6,819 in 1924 to 7,808 in 1925 – a steady increase for sure, but certainly not as
-pronounced as the terms “‘communist(s)’ and ‘Ja va’”. understandably, while
+pronounced as the terms “‘communist(s)’ AND ‘Java’”. Understandably, while
 the volume of Java-related articles remained constant in the next two years,
 news reports on communism in Java reached its peak in 1926 and remained
-high in 1927 due to the pki insurrections. Th e media’s growing general
-interests aside, it is clear that the communist movement in the nei had
-already attracted signifi cant attention a year prior to the outbreak of the revolt.
+high in 1927 due to the PKI insurrections. The media’s growing general
+interests aside, it is clear that the communist movement in the NEI had
+already attracted significant attention a year prior to the outbreak of the revolt.
 
-To better understand the impact of the 1926/27 revolt in British malaya,
-we can compare the search results of the terms “‘communist(s)’ and
-‘Java’” and “‘communist(s)’ and ‘China’” (Fig. 4). Th is chart shows that
-overall, communist activities in China (broadly defi ned) exerted a far
-greater infl uence in British malaya than their indonesian counterparts
-over the years, with the only exception being 1926, presumably due to the PKI revolt. starting from 1927, however, while China’s influence
+To better understand the impact of the 1926/27 revolt in British Malaya,
+we can compare the search results of the terms “‘communist(s)’ AND
+‘Java’” and “‘communist(s)’ AND ‘China’” (Fig. 4). Th is chart shows that
+overall, communist activities in China (broadly defined) exerted a far
+greater influence in British Malaya than their Indonesian counterparts
+over the years, with the only exception being 1926, presumably due to the PKI revolt. Starting from 1927, however, while China’s influence
 fluctuated (at a relatively high level) over the years, the impact of the NEI 
 communist movement became significantly weaker.
 
@@ -239,17 +239,17 @@ due to the inherent shortcomings of digital newspaper archives mentioned
 earlier. when performing a search with multiple words (Figs. 2 and 4), a lot
 of “noise”, such as inappropriate text encoding or extraction, may interfere
 with the desired outcome. For example, some of the search results in Fig. 4
-could refer to “China” in one report and “communist(s)” in a diff erent
+could refer to “China” in one report and “communist(s)” in a different
 report, but the two reports are somehow interpreted as being in the same
-newspaper article. it is possible that although both reports are unrelated,
+newspaper article. It is possible that although both reports are unrelated,
 such an article might still pop up in a keyword search.
 
-Hence, while newspapersg’s search term visualiser is a useful tool in
-illustrating general trends of word use, it is insuffi cient to tell a full story.
+Hence, while NewspaperSG’s search term visualiser is a useful tool in
+illustrating general trends of word use, it is insufficient to tell a full story.
 But by performing a basic keyword search, we can draw the preliminary
-conclusion that the mention of nei communist activities in the singapore
+conclusion that the mention of NEI communist activities in the singapore
 press rapidly increased in 1925 and peaked in 1926, which could be associated
-with the PKI uprisings. Th e intensive media coverage on NEI communism
+with the PKI uprisings. The intensive media coverage on NEI communism
 preceded the rise of the largely Chinese-influenced local communist
 organisations in British Malaya. To better understand the impact of the PKI revolt on Malaya, it is worthwhile to delve deeper into the actual content of
 the newspaper articles.
@@ -368,4 +368,3 @@ Archipelago.38 Although many of these plots turned out to be insignificant,
 with colonial authorities usually putting down such unrest without much
 difficulty, the seemingly ubiquitous communist activities created enormous fear among the public. In September 1926, for example, ST ran a story about
 the annual Gambir Fair in Batavia:
-
