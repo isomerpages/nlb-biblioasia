@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/netherlands-east-indies-comm
 variant: markdown
 description: ""
 ---
-*   *[…] In the Dutch East Indies, the demeanour of the native<br>
+   *[…] In the Dutch East Indies, the demeanour of the native<br>
    towards the European has passed by successive stages from an almost*<br>
    *abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
@@ -223,7 +223,7 @@ surged in 1925 and peaked in 1926.[^20] Articles that contained both terms
 
 Fig. 3 shows that the term “Java” saw an overall 14.5 percent growth from
 6,819 in 1924 to 7,808 in 1925 – a steady increase for sure, but certainly not as
-pronounced as the terms “‘communist(s)’ AND ‘Java’”.21 Understandably, while
+pronounced as the terms “‘communist(s)’ AND ‘Java’”.[^21] Understandably, while
 the volume of Java-related articles remained constant in the next two years,
 news reports on communism in Java reached its peak in 1926 and remained
 high in 1927 due to the PKI insurrections. The media’s growing general
@@ -235,7 +235,7 @@ already attracted significant attention a year prior to the outbreak of the revo
 
 To better understand the impact of the 1926/27 revolt in British Malaya,
 we can compare the search results of the terms “‘communist(s)’ AND
-‘Java’” and “‘communist(s)’ AND ‘China’” (Fig. 4).22 This chart shows that
+‘Java’” and “‘communist(s)’ AND ‘China’” (Fig. 4).[^22] This chart shows that
 overall, communist activities in China (broadly defined) exerted a far
 greater influence in British Malaya than their Indonesian counterparts
 over the years, with the only exception being 1926, presumably due to the PKI revolt. Starting from 1927, however, while China’s influence
@@ -273,12 +273,12 @@ agitators. The NEI colonial authorities managed to arrest a number of
 communist leaders for their roles in organising strikes, holding meetings
 and delivering “seditious speeches”. The police’s crackdown on communist
 activities was effective in major hotbed cities such as Bandung, Surabaya
-and Padang.23
+and Padang.[^23]
 
 From the second half of 1925, there were frequent news reports in the
 Singapore press concerning Chinese disturbances in Medan, bomb threats
 across Java, labour disputes in Surabaya and various forms of the Islamic
-movement.24 These incidents hardly caused the government any serious
+movement.[^24] These incidents hardly caused the government any serious
 consequences. There was also no solid evidence suggesting that the PKI
 was behind all these disturbances. The extremists often operated without
 coherent party leadership, but their activities were so ubiquitous and
@@ -294,40 +294,40 @@ attributed the widespread disturbances to communist agitation:
    *The strike agitation in Surabaya continues… there are rumours<br> 
    of impending difficulties with the harbour coolies, although the<br> 
    Surabaya press declares that the [coolies have] declined to answer<br> 
-   the call of communist leaders.*25<br><br>  
+   the call of communist leaders.*[^25]<br><br>  
    *The Arabian journalist Alfothak, editor of the Arabian paper<br> 
-   Alwivak, which has communist tendencies, is to be deported.*26<br><br>  
+   Alwivak, which has communist tendencies, is to be deported.*[^26]<br><br>  
    *The strike among the workers of the Tegal Proa Co. was a result<br> 
    of the discharge of six of their number [sic] who had communist<br> 
-   tendencies*.27
+   tendencies*.[^27]
 
 Consequently, the colonial authorities adopted stringent anti-communist
 measures. On top of carrying out numerous crackdowns, the government
-promised to imprison or banish communist leaders.28 Not only did the
+promised to imprison or banish communist leaders.[^28] Not only did the
 authorities forbid the PKI and its associated trade unions from holding
-meetings, but they also kept a tight rein on the local press.29 The police
+meetings, but they also kept a tight rein on the local press.[^29] The police
 captured several editors of non-European newspapers for their alleged
 communist tendencies and for publishing anti-government articles. Besides
 the Arabian journalist Al-fothak mentioned earlier, other arrests included
 Lauw Giok Lam, an editor of the Malay-Chinese daily *Keng Po* in Batavia,
-and Gondojoewono, an editor of a native paper named *Njala*.30 The authorities
+and Gondojoewono, an editor of a native paper named *Njala*.[^30] The authorities
 also seized the Bandung-based Chinese newspaper *Sin Bin* for reprinting an
-article that had previously appeared in communist publication *Soerapati*.31
+article that had previously appeared in communist publication *Soerapati*.[^31]
 
 In their attempts to “check communist agitation”, the government issued
 rigid restrictions on the freedom of assembly among employees in heavily
 PKI -influenced industries such as shipping, railway and sugar throughout
-the NEI.32 From March to May 1926, there were at least four instances where
+the NEI.[^32] From March to May 1926, there were at least four instances where
 the Singapore press reported that the government punished both civil and
 military personnel for their involvement in PKI activities. The communist
-suspects were either demoted or fired.33
+suspects were either demoted or fired.[^33]
 
 Such measures notwithstanding, communist disturbances were frequently
 reported across the NEI. While the PKI and its affiliated trade unions were
 under strict surveillance, alleged communist propaganda was carried out by
 local Muslim organisations such as Perserikatan Kommunist Islam (Islamic
 Communist Association). The colonial government discovered similar
-movements in Padang, West Sumatra and Makassar, South Celebes.34
+movements in Padang, West Sumatra and Makassar, South Celebes.[^34]
 The most serious unrest of this sort broke out in mid-February 1926 when
 approximately 2,000 natives gathered in Solo under the auspices of a
 Muslim communist organisation called Moalimin:
@@ -337,7 +337,7 @@ Muslim communist organisation called Moalimin:
    insignia of Moscow on it. The so-called religious society Moalimin<br> 
    preached to its members with considerable zeal the continuance of<br> 
    the holy war against the Christians and also communistic ideals<br> 
-   which were not in accordance with the Koran*.35
+   which were not in accordance with the Koran*.[^35]
 
 While continuous arrests did not seem to eradicate communist disturbances
 as expected, the authorities’ frequent policing drew considerable scepticism
@@ -354,7 +354,7 @@ the coast of West Sumatra. As an ST correspondent wrote:
    in regards [sic] the communist activities in the Netherlands Indies,<br> 
    a deplorable absence of well-proved and reliable statements on<br> 
    the part of the authorities, which is not what one would expect in<br> 
-   enlightened times*.36*
+   enlightened times*.[^36]
 
 Worsening matters was the death of Hadji Misbach, the well-known
 “Red Haji” who had made his name combining communist propaganda
@@ -368,10 +368,10 @@ commentator remarked:
    *… one might well ask if the government has been very wise by<br> 
    creating in this way a martyr in the eyes of certain groups of the<br> 
    population. Would it not have been better policy to have facilitated<br> 
-   the agitator’s departure from the colony?* 37
+   the agitator’s departure from the colony?*[^37]
 
 In the meantime, alleged communist plots kept popping up across the
-Archipelago.38 Although many of these plots turned out to be insignificant,
+Archipelago.[^38] Although many of these plots turned out to be insignificant,
 with colonial authorities usually putting down such unrest without much
 difficulty, the seemingly ubiquitous communist activities created enormous fear among the public. In September 1926, for example, ST ran a story about
 the annual Gambir Fair in Batavia:
@@ -384,7 +384,7 @@ the annual Gambir Fair in Batavia:
    be a bomb… The European community has a tendency to show<br>
    at certain times an exaggerated nervousness, the reports in the<br>
    newspapers are not seldom fundamentally incorrect, and to obtain<br>
-   reliable information from the police is extremely difficult*.39
+   reliable information from the police is extremely difficult*.[^39]
 
 As a result, the tension brought about widespread discontent towards the
 head of the colonial government, Governor-General Dirk Fock. According
@@ -401,7 +401,7 @@ Graeff explained that he would try to deal with communism differently:
    force of arms, although when necessary he would not hesitate to<br>
    make use of some, but in his opinion there was much to be done in<br>
    connection with the obtaining of closer cooperation with the native<br>
-   officials and this would be his aim*.40
+   officials and this would be his aim*.[^40]
 
 In the months leading up to the PKI revolt in November 1926, the
 Singapore press published many perceptive critiques of the political situation
