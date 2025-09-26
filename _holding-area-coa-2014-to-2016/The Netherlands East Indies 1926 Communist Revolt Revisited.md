@@ -8,11 +8,11 @@ description: ""
    towards the European has passed by successive stages from an almost<br>
    abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
-   of the present “ethical” policy.1 Knowledge of the natives’ history<br>
+   of the present “ethical” policy.[^1] Knowledge of the natives’ history<br>
    encourages the colonists in the view that the extreme plasticity of the<br>
    native character renders outside influences particularly powerful<br>
    in Java, and that it will prove disastrous if the Government stands<br>
-   weakly aside in the presence of subversive agitation.*2
+   weakly aside in the presence of subversive agitation.[^2]
 
 #### **Introduction**
 
@@ -29,13 +29,13 @@ Islamicism – with fertile grounds on which to grow.
 
 As the Dutch gradually lost their prestige in the natives’ eyes by “perpetrating
 acts of injustice and, often, uncontrolled violence”, extremist ideologies such
-as communism gained significant support from the indigenous population.3
+as communism gained significant support from the indigenous population.[^3]
 The author indicated that communist propagandists had successfully worked
 their way into schools, trade unions, government departments and military
 units. With the growing impudence of the local press and the increase in
 disruptive activities, it was evident that extremism had experienced a rapid
 upsurge in recent years. The article ended by exhorting the Dutch to take
-sterner measures to curb this dangerous communist agitation.4
+sterner measures to curb this dangerous communist agitation.[^4]
 
 Printed alongside advertisements on the newspaper’s page six, the opinion
 piece probably did not receive the attention it deserved despite its persuasive
@@ -47,7 +47,7 @@ unprepared when the uprising happened? Why did the SFP print the article,
 or rather, why did political issues in the NEI even matter to newspaper
 readers in British Malaya?
 
-Through NewspaperSG , a digital newspaper database developed and
+Through NewspaperSG, a digital newspaper database developed and
 managed by the National Library Board (NL B) of Singapore, this paper aims to add more nuanced views to the understanding of the 1926/27
 communist insurrections in the NEI , especially their broader impact on
 Malaya. This paper argues that partly because of the extensive public
@@ -60,7 +60,7 @@ from its inception and never had a real chance to pose serious threats to the
 colonial regime before World War II (WWII ).
 
 A few scholars have studied the history of early communist movements
-in the NEI and British Malaya.5 Ruth McVey’s *The Rise of Indonesian
+in the NEI and British Malaya.[^5] Ruth McVey’s *The Rise of Indonesian
 Communism* (1965) is by far the most comprehensive account of the origins
 of the Indonesian Communist Party (PKI ) until its disintegration in 1927.
 Using both Dutch and Indonesian materials, McVey has produced a very
@@ -87,10 +87,10 @@ individuals, which left a gap for further studies.
 
 Many historians consider the PKI uprisings as important precursors of
 Indonesia’s nationalist movement, which ultimately led to the country’s
-independence.6 When it comes to the actual course of events, however,
+independence.[^6] When it comes to the actual course of events, however,
 existing narratives tend to describe the abortive revolts as ill-prepared, poorly
 organised and easily suppressed – and consequently, of limited impact in
-shaking the foundation of the Dutch colonial regime.7 It is also commonly
+shaking the foundation of the Dutch colonial regime.[^7] It is also commonly
 understood that in the aftermath of the rebellions, Dutch authorities dealt
 a crushing blow to the PKI and its associated organisations by carrying out
 large-scale arrests, imprisonments, executions and banishments. Beyond
@@ -107,7 +107,7 @@ uprisings also generated considerable uneasiness in British Malaya.
 Due to communist organisations’ illegal status in both the NEI and British
 Malaya, and the fact that many documents did not survive WWII and
 the post-independence era that followed, historians have lacked a large
-source base to understand early communist movements in the region.8 For
+source base to understand early communist movements in the region.[^8] For
 this reason, newspapers can serve as valuable sources and make up for the
 shortage of original party documents. Moreover, they also add more nuanced
 views to the one-sided narratives that were solely based on official documents
@@ -118,14 +118,14 @@ lot of time sifting through information to find something significant.
 First launched in March 2009, the digital newspaper archive NewspaperSG
 presents new possibilities in approaching historical issues in Singapore and the surrounding areas. With its Optical Character Recognition (OCR)
 feature, scholars can now perform keyword searches to locate desired
-content in 43 newspapers published in Singapore between 1831 and 2006.9
+content in 43 newspapers published in Singapore between 1831 and 2006.[^9]
 For this paper, newspapers used include the SFP, *The Straits Times* (ST),
-*Malaya Tribune* (MT ) and *Malayan Saturday Post* (MSP ).10 The Singapore
+*Malaya Tribune* (MT ) and *Malayan Saturday Post* (MSP ).[^10] The Singapore
 press received their information from various sources such as Reuters, its
 Dutch counterpart *Aneta* and local NEI newspapers in multiple languages.
 ST and SFP also hired their own correspondents, who regularly wrote
 reports for the papers’ special NEI columns entitled “The Week in Java”,
-“Java Notes” and “Java Press Cables”.11
+“Java Notes” and “Java Press Cables”.[^11]
 
 In addition to the ease of access to the vast amount of information, digital
 archives have a lot more to offer than traditional newspapers in many other
@@ -146,7 +146,7 @@ sense of complex issues by tracing the progression of time and capturing
 historical moments in the virtual pages of digital archives.
 
 Furthermore, digital newspaper archives open the door for scholars to
-conduct quantitative textual analysis in addition to the content-focused “close reading”.12 The latest version of NewspaperSG has a simple yet
+conduct quantitative textual analysis in addition to the content-focused “close reading”.[^12] The latest version of NewspaperSG has a simple yet
 powerful analytic tool called the Search Term Visualiser, through which
 researchers are able to grasp the changing trends of word use in Singapore
 media during the selected period. The following section includes a few
@@ -165,13 +165,12 @@ Searches in other languages, however, still require further optimisation
 due to greater technical challenges to performing OCR for non-romanised
 characters. As a result, one should be conscious of the risk of basing their
 analysis primarily on a handful of English-language newspapers published
-in an extremely heterogeneous colonial society. ST , for example, enjoyed the
+in an extremely heterogeneous colonial society. ST, for example, enjoyed the
 reputation of being Malaya’s leading newspaper. Popular only among the
 English-educated elites, however, it had a readership of only around 6,000 to
-7,000 towards the end of the 1920s.13 This is a low number when compared to
-Singapore’s total population – around 400,000 – at the time.14 For this reason,
+7,000 towards the end of the 1920s.[^13] This is a low number when compared to
+Singapore’s total population – around 400,000 – at the time.[^14] For this reason,
 this research should be supplemented with other materials.
-
 
 #### **Making Sense of the Numbers**
 
@@ -181,20 +180,20 @@ mainland China. Such an association is likely derived from the fact that
 the membership of the MCP was predominantly ethnic Chinese. although
 the MCP was not formally established until 1930, Yong Ching Fatt suggests
 that Chinese communists had been operating in British Malaya as early as
-1921.15 Due to contradictions in different sources, the exact founding dates
+1921.[^15] Due to contradictions in different sources, the exact founding dates
 of malaya’s early communist organisations are difficult to pinpoint. It is
 generally agreed that the Communist party of China (CPC) established an
 overseas branch in British Malaya around 1925 to 1926. The CPC branch
 gradually transformed into the Nanyang (or South Seas) Communist Party
 (SSCP) in 1927 with the goal of expanding to all parts of the Nanyang
-area.16 Following this timeline, one would expect an upsurge in the coverage
+area.[^16] Following this timeline, one would expect an upsurge in the coverage
 of local communist activities in singapore’s print media from 1925 onwards.
 The search results from newspaperSG, on the contrary, show a rather
 complex situation:
 
 The results of keyword search terms “‘communist(s)’ OR ‘communism’”
 (Fig. 1) indicate that there was indeed a steady growth (of the use of the
-terms) that started from 1920.17 The sudden increase in 1925 is also consistent
+terms) that started from 1920.[^17] The sudden increase in 1925 is also consistent
 with the alleged establishment of the early communist organisations in
 malaya. However, when consulted, the relevant newspaper articles were
 mostly concerned with communist movements outside of British Malaya.
@@ -202,7 +201,7 @@ Throughout the 1920s, the SSCP was only mentioned twice in 1928 and once
 in 1929. similarly, there were no results for organisations such as the CPC’s
 Nanyang Provisional Committee, South Seas Branch Committee, South
 Seas General Labour Union, and only one result for the Communist Youth
-League.18 Although it is possible that errors could have distorted the results
+League.[^18] Although it is possible that errors could have distorted the results
 due to translation or other technical issues, the difference is negligible.
 The results indicate that early communist organisations had a very limited
 impact in the public sphere of British Malaya prior to the 1930s.
@@ -213,13 +212,13 @@ impact in the public sphere of British Malaya prior to the 1930s.
 What contributed to the surge of communism-related discussions in
 singapore newspapers in 1925? Since communist activities in the NEI were
 frequently mentioned in the mid-1920s, probably because of the PKI revolt,
-the keyword search terms “‘communist(s)’ AND ‘Java’” are used (Fig. 2).19
+the keyword search terms “‘communist(s)’ AND ‘Java’” are used (Fig. 2).[^19]
 
 <img src="/images/COA%202014%20to%202016/Netherlands/Figure_2.jpg" style="width:90%;">
 <div style="background-color: white;"><center>Fig. 2 Keywords: communist(s) AND Java.</center></div>
 
 From Fig. 2 it is evident that discussions about NEI communist activities
-surged in 1925 and peaked in 1926.20 Articles that contained both terms
+surged in 1925 and peaked in 1926.[^20] Articles that contained both terms
 “communist(s)” and “Java” grew by 545.5 percent, from 14 in 1924 to 71 in 1925. Is it possible that the media in singapore coincidentally increased the coverage of Java and communism as two separate events? In other words, was the Singapore press actually concerned about communist activities *in* Java from 1925 to 1927? We can rule out this possibility by using the term “Java” alone (Fig. 3).
 
 Fig. 3 shows that the term “Java” saw an overall 14.5 percent growth from
