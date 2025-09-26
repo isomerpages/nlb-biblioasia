@@ -13,7 +13,7 @@ This was what the _Singapore Free Press and Mercantile Advertiser_ wrote in thei
 
 Mrs Lee was no stranger to the limelight.The media frequently wrote about her – from her fashion choices to her mission to improve the lives of Singapore women. This was not the first time she had made the news, and it would certainly not be the last.3
 
-A Woman of Change
+#### **A Woman of Change**
 
 The press’s fascination with Mrs Lee may be attributed to the fact that she was one of a handful of local women living a new and modern way of life in early 20th-century Singapore when most of her contemporaries were still bound by societal rules, norms and expectations.
 
@@ -21,7 +21,7 @@ When Chinese and Peranakan (Straits Chinese) women were still confined at home a
 
 More importantly, Mrs Lee was one of very few women able to bridge the gap between Singapore’s British leaders and the general population, at a time when there was mostly mutual incomprehension. In the early decades of the 20th century, she created a link between Western and Asian sensibilities. For instance, she adopted new ideas from the West such as education for girls, social welfare and philanthropy, and introduced these in her unique and understandable way to Singapore society. She was not a dour do-gooder, but led by example with such glamour and style that the trends she set were eagerly followed by others.&nbsp;
 
-Scion of an Influential Family
+#### **Scion of an Influential Family**
 
 Mrs Lee’s unusual mindset was the product of an unusual childhood. Born Tan Teck Neo in Singapore in 1877, she was the third daughter of the Melaka-born Peranakan entrepreneur Tan Keong Saik. He had moved to Singapore when it became a crown colony under direct British control in 1867. Tan Keong Saik soon became a prominent leader of the new Chinese community, a member of the Chinese Advisory Board and a Justice of the Peace.5&nbsp;
 
@@ -33,7 +33,7 @@ Blackmore was invited to teach Tan Keong Saik’s daughters at home, which was h
 
 Tan Keong Saik also supported gender equality, becoming one of the first members of the newly formed Po Leung Kuk – the Society for the Protection of Girls and Women established by the Chinese Protectorate in 1888. The society was a refuge for slave girls and victims of forced prostitution, whose work Tan Teck Neo continued to support after her marriage.8
 
-Stepping into High Society&nbsp;
+#### **Stepping into High Society**
 
 In 1900, Tan Teck Neo married Lee Choon Guan, a Straits Chinese businessman established in shipping and banking, and an esteemed member of the Chinese community.9 In Mr Lee,  
 Tan Teck Neo found not only a wise and cosmopolitan husband, but also an ally and partner.
@@ -56,7 +56,7 @@ Sometime around 1915, the press started to document the novel appearance of Chin
 
 The Lees were often invited to dine with Governor Arthur Young and his wife Lady Evelyn Young, and they reciprocated with invitations to Mandalay Villa. These led to cordial friendships between the two women, and Lady Evelyn began to call upon Mrs Lee to help steer women’s committees. For instance, Mrs Lee represented Singapore women, along with wives of leaders in other local communities, in the consultation with Lady Evelyn on what they should give Queen Mary for her Silver Wedding Day in June 1918.19&nbsp;
 
-Formidable Friends
+#### **Formidable Friends**
 
 Mr Lee Choon Guan was a member of the Straits Chinese British Association (SCBA), which had been formed in 1900 and some of whose members were English-educated.20 The association was a vocal force for social transformation in Singapore. It was through her husband’s connections with the SCBA that Mrs Lee met other like-minded and educated wives like herself.
 
@@ -72,7 +72,7 @@ In 1916, the SCBA held a charity bazaar to raise money for the Red Cross and St 
 
 The _Straits Times_ noted that “this was the first time that Chinese ladies have come forward to assist in a public charity or other function of the kind”.25 This was a watershed. Women across Singapore soon adopted the charity bazaar as their preferred form of fundraising.&nbsp;
 
-Supporting Local Causes
+#### **Supporting Local Causes**
 
 In the following years, the Lees were involved in many high society occasions, becoming well known as generous hosts and donors. They enthusiastically supported charitable causes and Mrs Lee often turned fundraising events into grand social occasions.&nbsp;
 
@@ -80,7 +80,7 @@ Among other causes, they gave to the Children’s Aid Society, the YWCA Building
 
 On 27 August 1924, however, everything came to an abrupt halt. Mr Lee suddenly died just aged 56. Mrs Lee was only in her forties. Of Mr Lee, the _Singapore Free Press and Mercantile Advertiser_&nbsp; wrote: “The influence of his death will be very widely felt for he was a man of many activities and interests, having been for a very large number of years a warm supporter of all movements which had for their purpose the betterment of the Chinese in the country.” The newspaper described Mrs Lee as “a most enthusiastic supporter of all her husband’s social and public activities”.28 After his death, Mrs Lee withdrew from society and nothing was heard about her in the press for some time.&nbsp;
 
-A Different Singapore
+#### **A Different Singapore**
 
 It would take a few years before Mrs Lee reappeared in society, accompanied by family and stalwart friends, and still found much to do. The Qing dynasty had ended, schools for girls were on the rise and suffrage was in the air. But she felt that social infrastructure for women and children in Singapore was still inadequate, so she focused on improving social welfare.&nbsp;
 
@@ -90,7 +90,7 @@ Mrs Lee also returned to hosting grand parties at Mandalay. Her beloved annual b
 
 But everything would change again. Singapore fell to the Japanese on 15 February 1942 and the Lees escaped to India. Now it was Mrs Lee’s granddaughter Alice who picked up the baton and volunteered with the Red Cross.&nbsp;
 
-Leaving a Legacy
+#### **Leaving a Legacy**
 
 Mrs Lee was 68 years old when she returned to Singapore in 1945. Mandalay Villa was in shambles and Singapore was now looking away from the British towards independence. The Peranakans, at their zenith in a British colonial world, were disappearing as a distinct group, absorbed into the growing Chinese community.&nbsp;
 
@@ -209,4 +209,3 @@ Today, Mrs Lee’s philanthropic work carries on through the Mrs Lee Choon Guan 
 
 
 [^34]: “Tan Teck Neo,” Singapore Women’s Hall of Fame, last updated 11 March 2021, https://www.swhf.sg/profiles/tan-teck-neo/.
-
