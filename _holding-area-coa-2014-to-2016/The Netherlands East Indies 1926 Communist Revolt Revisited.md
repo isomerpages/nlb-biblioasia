@@ -207,7 +207,7 @@ The results indicate that early communist organisations had a very limited
 impact in the public sphere of British Malaya prior to the 1930s.
 
 <img src="/images/COA%202014%20to%202016/Netherlands/Figure_1.jpg" style="width:90%;">
-<div style="background-color: white;"><center>Fig. 1 Keywords: communist(s) OR communism.</center></div>
+<div style="background-color: white;"><center>Keywords: communist(s) OR communism.</center></div>
 
 What contributed to the surge of communism-related discussions in
 singapore newspapers in 1925? Since communist activities in the NEI were
@@ -215,7 +215,7 @@ frequently mentioned in the mid-1920s, probably because of the PKI revolt,
 the keyword search terms “‘communist(s)’ AND ‘Java’” are used (Fig. 2).[^19]
 
 <img src="/images/COA%202014%20to%202016/Netherlands/Figure_2.jpg" style="width:90%;">
-<div style="background-color: white;"><center>Fig. 2 Keywords: communist(s) AND Java.</center></div>
+<div style="background-color: white;"><center>Keywords: communist(s) AND Java.</center></div>
 
 From Fig. 2 it is evident that discussions about NEI communist activities
 surged in 1925 and peaked in 1926.[^20] Articles that contained both terms
@@ -231,7 +231,7 @@ interests aside, it is clear that the communist movement in the NEI had
 already attracted significant attention a year prior to the outbreak of the revolt.
 
 <img src="/images/COA%202014%20to%202016/Netherlands/Figure_3.jpg" style="width:90%;">
-<div style="background-color: white;"><center>Fig. 3 Keywords: Java.</center></div>
+<div style="background-color: white;"><center>Keywords: Java.</center></div>
 
 To better understand the impact of the 1926/27 revolt in British Malaya,
 we can compare the search results of the terms “‘communist(s)’ AND
@@ -243,7 +243,7 @@ fluctuated (at a relatively high level) over the years, the impact of the NEI
 communist movement became significantly weaker.
 
 <img src="/images/COA%202014%20to%202016/Netherlands/Figure_4.jpg" style="width:90%;">
-<div style="background-color: white;"><center>Fig. 4 Keywords: communist(s) AND Java (light blue) vs. communist(s) AND China (dark blue).</center></div>
+<div style="background-color: white;"><center>Keywords: communist(s) AND Java (light blue) vs. communist(s) AND China (dark blue).</center></div>
 
 Technically speaking, this is a highly problematic comparison, which is
 due to the inherent shortcomings of digital newspaper archives mentioned
