@@ -700,10 +700,10 @@ SS authorities for banning the film *The Only Way*, as its theme of the
 French Revolution was deemed seditious and thus inappropriate for the
 Malayan audience: 
 
-  &amp;emsp*The Only Way, which was banned here, has successfully passed a<br> 
-  &amp;emspfull board of nine censors without dissent for exhibition in Java,<br> 
-  &amp;emspa rider being added that “the production is an excellent one”*.
-   *Having regard to the recent communist disturbances in the Dutch<br> 
+   *The Only Way, which was banned here, has successfully passed a<br> 
+   full board of nine censors without dissent for exhibition in Java,<br> 
+   a rider being added that “the production is an excellent one”*.<br> 
+   Having regard to the recent communist disturbances in the Dutch<br> 
    Indies, the above decision is at least notable*.82
 
 #### **Conclusion**
