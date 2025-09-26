@@ -105,33 +105,33 @@ Today, Mrs Lee’s philanthropic work carries on through the Mrs Lee Choon Guan 
 
 #### **Notes**
 
-[^1]: “As I Was Saying,” _Singapore Free Press and Mercantile Advertiser_, 24 January 1934, 8. (From NewspaperSG)
+[^1]: “[As I Was Saying](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340124-1.2.51),” _Singapore Free Press and Mercantile Advertiser_, 24 January 1934, 8. (From NewspaperSG)
 
-[^2]: “As I Was Saying.”
-
-
-[^3]: Mrs Lee was also known as the “Diamond Queen” as she often wore the many jewels lavished on her by her husband. For a more detailed record of her contributions to philanthropy as well as of other women of her time, please see “200 Years of Philanthropy in Singapore,” Centre for Computing for Social Good &amp; Philanthropy, accessed 10 September 2025, https://www.ccsgp.comp.nus.edu.sg/200-years-of-philanthropy-in-singapore.
+[^2]: “[As I Was Saying](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340124-1.2.51).”
 
 
-[^4]: _Chinese Women’s Association: 100 Fabulous Years_ (Singapore: Editions Didier Millet Pte Ltd, 2015), 18. (From National Library Singapore, call no. RSING 305.488951095957 CHI)
+[^3]: Mrs Lee was also known as the “Diamond Queen” as she often wore the many jewels lavished on her by her husband. For a more detailed record of her contributions to philanthropy as well as of other women of her time, please see “200 Years of Philanthropy in Singapore,” Centre for Computing for Social Good &amp; Philanthropy, accessed 10 September 2025, [https://www.ccsgp.comp.nus.edu.sg/200-years-of-philanthropy-in-singapore](https://www.ccsgp.comp.nus.edu.sg/200-years-of-philanthropy-in-singapore).
 
 
-[^5]: Song Ong Siang, _One Hundred Years’ History of the Chinese in Singapore_ (London: John Murray, 1923 ), 223. (From National Library Online)
+[^4]: [_Chinese Women’s Association: 100 Fabulous Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201295198) (Singapore: Editions Didier Millet Pte Ltd, 2015), 18. (From National Library Singapore, call no. RSING 305.488951095957 CHI)
 
 
-[^6]: William Fitzjames Oldham, _Thoburn – Called of God_ (New York, Cincinnati: The Methodist Book Concern, 1918), 134–35, Internet Archive, https://archive.org/details/thoburncalledofg00oldh.
+[^5]: Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923 ), 223. (From National Library Online)
 
 
-[^7]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 541; Lee Choo Neo, “The Chinese Girl in Singapore 1912,” in _Chinese Women’s Association: 100 Fabulous Years_, 16.
+[^6]: William Fitzjames Oldham, _Thoburn – Called of God_ (New York, Cincinnati: The Methodist Book Concern, 1918), 134–35, Internet Archive, [https://archive.org/details/thoburncalledofg00oldh](https://archive.org/details/thoburncalledofg00oldh).
 
 
-[^8]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 223; Joanna Tan Hwang Soo, “Singapore Poh Leung Kuk,” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2020.
+[^7]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 541; Lee Choo Neo, “The Chinese Girl in Singapore 1912,” in [_Chinese Women’s Association: 100 Fabulous Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201295198), 16.
+
+
+[^8]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 223; Joanna Tan Hwang Soo, “[Singapore Poh Leung Kuk](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7db6c9b6-f567-4cca-a72e-64c5882fccb4),” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2020.
 
 
 [^9]: Lee Choon Guan (1868–1824) first worked for his Melaka-born father Lee Cheng Yan and then moved into shipping as the director of the Straits Steamship Co. He also founded several banks that later merged to form the Oversea Chinese Bank.
 
 
-[^10]: Peter Lee and Jennifer Chen, _The Straits Chinese House: Domestic Life and Traditions_ (Singapore: Editions Didier Millet: National Museum of Singapore, 2006), 25, 27. (From National Library Singapore. call no. RCLOS 305.895105957 LEE); Yap Jo Lin, “Towkays at Home in Singapore,” _BiblioAsia_ 17, no. 4 (January–March 2022): 50–57.
+[^10]: Peter Lee and Jennifer Chen, [_The Straits Chinese House: Domestic Life and Traditions_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200039888) (Singapore: Editions Didier Millet: National Museum of Singapore, 2006), 25, 27. (From National Library Singapore. call no. RCLOS 305.895105957 LEE); Yap Jo Lin, “[Towkays at Home in Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/towkays-houses/),” _BiblioAsia_ 17, no. 4 (January–March 2022): 50–57.
 
 
 
