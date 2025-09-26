@@ -777,3 +777,169 @@ Shiraishi, Takashi. [_An Age in Motion: Popular Radicalism in Java, 1912–1926_
 Turnbull, C. M. [_Dateline Singapore: 150 Years of The Straits Times_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414). Singapore: Singapore Press Holdings, 1995. (From National Library Singapore, call no. RCLOS 079.5957 TUR)
 
 Yong, C. F. [_The Origins of Malayan Communism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203957302). Singapore: South Seas Society, 1997. (From National Singapore, call no. RSING 320.9595 YON)
+
+#### **NOTES**
+
+1 The Ethical Policy was adopted at the outset of the 20th century with the goal of taking moral responsibility for Dutch subjects. The policy emphasised improving living conditions, creating more opportunities for education and giving more autonomy and greater political rights to the native population. Despite the progress, the policy was often criticised for being too costly and pushing change too rapidly. The Ethical Policy virtually ceased to exist in the 1930s due to the effects of the Great Depression and the burgeoning Indonesian nationalist movement.
+
+2 “[Dutch Policy in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261007-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 7 October 1926, 6. (From NewspaperSG)
+
+3 To illustrate his point, the author used two examples. The first was the construction of a road in Java, which cost 8,000 lives; the second was the “1923 Tangerang incident”, in which authorities failed to handle an armed insurrection effectively due to their indecision. He concluded that the Dutch swung from one extreme to another, which undermined their prestige. See “[Dutch Policy in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261007-1.2.15).”
+
+4 “[Dutch Policy in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261007-1.2.15).”
+
+5 There are a number of other scholars who have conducted research on the NEI or Malayan communist movements in later periods. In this article, I regard early communist movements as movements before WWII.
+
+6 George McTurnan Kahin, [_Nationalism and Revolution in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11958026) (Ithaca, N.Y: Southeast Asia Program Publications, Southeast Asia Program, Cornell University, 2003), 83–86 (From National Library Singapore, call no. RSEA 959.8 KAH); Takashi Shiraishi, [_An Age in Motion: Popular Radicalism in Java, 1912–1926_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5265770) (Ithaca: Cornell University Press, 1990), 339. (From National Library Singapore, call no. RSEA 959.82 SHI)
+
+7 Ruth Thomas McVey, [_The Rise of Indonesian Communism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12876932) (New York: Cornell University Press, 1965), xi. (From National Library Singapore, call no. RSEA 329.9598 MAC)
+
+8 Cheah Boon Kheng, ed., [_From PKI to the Comintern, 1924–1941: The Apprenticeship of the Malayan Communist Party: Selected Documents and Discussion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6343977) (Ithaca: Southeast Asia Program, Cornell University, 1992), 6. (From National Library Singapore, call no. RSING 324.2595075 CHE)
+
+9 There are 43 newspaper titles available with the OCR feature as of 15 May 2017. In addition to searchable content, there are also seven unsearchable “page view only” newspapers. Retrieved from NewspaperSG website: [https://eresources.nlb.gov.sg/newspapers/](https://eresources.nlb.gov.sg/newspapers/)
+
+10 Due to NewspaperSG’s limited OCR accuracy in the Chinese language, this paper does not include the Chinese-language _Nanyang Siang Pau_. Singapore’s first independent Malay-language daily _Warta Malaya_ did not emerge until 1930, which was after the period under consideration in this paper.
+
+11 The author consulted _The Straits Times_ and _The Singapore Free Press_ from 1925 to 1930 for this research.
+
+12 Research methods in digital humanities have been undergoing rapid development in recent years. With the help of various tools, skilled researchers can now perform very sophisticated quantitative textual analyses. For this paper, however, I have primarily focused on the content and used the quantitative method to supplement my textual analysis. For this purpose, I used NewspaperSG’s builtin Search Term Visualiser when statistics were involved.
+
+13 C. M. Turnbull, [_Dateline Singapore: 150 Years of The Straits Times_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414) (Singapore: Singapore Press Holdings, 1995), 80–81. (From National Library Singapore, call no. RCLOS 079.5957 TUR)
+
+14 According to the 1931 Census, Singapore’s total population was 445,778. While Europeans and Eurasians numbered 6,584 and 6,043 respectively, the number of other ethnic groups were much larger: 340,645 Chinese; 43,424 Malays; 41,848 Indians and 7,234 Others. Although the Englishspeaking population was not limited to the Europeans and Eurasians, it is problematic to equate views expressed by the English press to public opinions. The readership of Chinese newspapers was comparable to, if not greater than, that of the English papers. See Lin Renjun 林任君, _Wo men de qi shi nian_ [我们的七十年](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84521538) \[Our 70 years: history of leading Chinese newspapers in Singapore\] (新加坡: 新加坡报业控股华文报集团, 1993), 57–58 (From National Library Singapore, call no. Chinese RCO 079.5957 OUR). For a brief summary of the 1931 Census, see “[The 1931 Census of Singapore](The%201931%20Census%20of%20Singapore),” _Singapore Free Press and Mercantile_ _Advertiser (1884–1942)_, 29 May 1931, 10. (From NewspaperSG)
+
+15 Yong C. F., [_The Origins of Malayan Communism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203957302) (Singapore: South Seas Society, 1997), 41–89. (From National Singapore, call no. RSING 320.9595 YON). The Communist Party of China was established on 1 July 1921. Given that the CPC itself would have still been in its infancy, it is doubtful whether the propaganda was actually carried out under the banner of communism in Malaya in the early years of the 1920s.
+
+16 Cheah, [_From PKI to the Comintern, 1924–1941_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6343977), 13–14.
+
+17 Search Term Visualiser, NewspaperSG, accessed February 14, 2017, [http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist OR communists OR communism&amp;NPT=&amp;CTA=&amp;DF=01/01/1920&amp;DT=31/12/1943](http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist%20OR%20communists%20OR%20communism&amp;NPT=&amp;CTA=&amp;DF=01/01/1920&amp;DT=31/12/1943).
+
+18 Yong and Cheah discussed these organisations in their work and verifi ed their existence by referring to various sources, including offi cial records in the colonial archives.
+
+19 Singapore newspapers frequently used “Java” (rather than Dutch/Netherlands East Indies) to refer to the Dutch colony as it was the economic and political centre. Java was also where news agencies and correspondents dispatched their reports about the NEI. Therefore, “Java” was used instead of “NEI” in the search.
+
+20 Search Term Visualiser, NewspaperSG, accessed January 11, 2017, [http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist java&amp;NPT=&amp;CTA=&amp;DF=01/01/1918&amp;DT=01/01/1943](http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist%20java&amp;NPT=&amp;CTA=&amp;DF=01/01/1918&amp;DT=01/01/1943).
+
+21 Search Term Visualiser, NewspaperSG.
+
+22 Search Term Visualiser, NewspaperSG, accessed April 11, 2017, [http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist java OR communists java|communist china OR communists china&amp;NPT=&amp;CTA=&amp;DF=01/01/1920&amp;DT=31/12/1943&amp;itemChanges=communist java or communists java,communist china or communists china](http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist%20java%20OR%20communists%20java|communist%20china%20OR%20communists%20china&amp;NPT=&amp;CTA=&amp;DF=01/01/1920&amp;DT=31/12/1943&amp;itemChanges=communist%20java%20or%20communists%20java,communist%20china%20or%20communists%20china).
+
+23 See “[Java Sensation](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19250121-1.2.55),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 21 January 1925, 9; “[Communism in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250202-1.2.62),” _Straits Times_, 2 February 1925, 9: “[The Week in Java: Communism in Bandoeng](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250207-1.2.3),” _Straits Times_, 7 February 1925, 2. (From NewspaperSG)
+
+24 For Chinese disturbances see “[The Week in Java: The Chinese Agitation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250721-1.2.82),” _Straits Times_, 21 July 1925, 10 (From NewspaperSG); Bomb threats across Java, see “[Java Press Cables](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251103-1.2.84),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 3 November 1925, 16 (From NewspaperSG); Labour disputes in Surabaya, see “[Java Press Cables: Strike in a Machine Factory; Ice Factory Strike](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19251128-1.2.29),” _Singapore Free Press_, 28 November 1925, 7 (From NewspaperSG); Islamic Movement, see “[Wireless Telegram: Miscellaneous](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260111-1.2.71),” _Straits Times_, 11 January 1926, 9; “[Wireless Telegram: Native Communists Sentenced](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260130-1.2.75),” _Straits Times_, 30 January 1926, 9. (From NewspaperSG)
+
+25 The original text was confusing and did not give further details. It is unclear what the call of the communist leaders was and why the coolies declined to answer. It is clear, however, that the authorities suspected that the communists were behind the strike, although not all the coolies actually followed the PKI instructions. See “[Java Press Cables: Arab Conflict](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251031-1.2.29),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 31 October 1925, 7. (From NewspaperSG)
+
+26 “[Java Press Cables: Arab Conflict](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251031-1.2.29).”
+
+27 Bomb threats across Java, see “[Java Press Cables](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251103-1.2.84).”
+
+28 “[The Week in Java: The Strikes in Sourabaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251210-1.2.85),” _Straits Times_, 10 December 1925, 10. (From NewspaperSG)
+
+29 “[Java Note: Important Political Measures Taken Against Communists](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19251208-1.2.20),” _Singapore Free Press_, 8 December 1925, 5. (From NewspaperSG)
+
+30 “[Java Notes: The Communist Movement](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19250922-1.2.63),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 22 September 1925, 9. (From NewspaperSG)
+
+31 “[Java Press Cables: Chinese Paper Seized](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19251222-1.2.54),” _Singapore Free Press_, 22 December 1925, 9. (From NewspaperSG)
+
+32 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260127-1.2.63),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 27 January 1926, 9. (From NewspaperSG)
+
+33 See “[Java Press Cables: Communists Arrests](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19260329-1.2.94),” _Singapore Free Press_, 29 March 1926, 14; “[Java Press Cables: Communists in the Army](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19260413-1.2.27),” _Singapore Free Press_, 13 April 1926, 7; “[Java Notes: The Communists](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19260512-1.2.33),” _Singapore Free Press_, 12 May 1926, 7; “[Java Press Cables: Communist Arrested](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19260313-1.2.27),” _Singapore Free Press_, 13 March 1926, 7. (From NewspaperSG)
+
+34 For Islamic movements, see “[Wireless Telegram: Miscellaneous](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260111-1.2.71),” _Straits Times_, 11 January 1926, 9; “[Wireless Telegram: Native Communists Sentenced](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260130-1.2.75),” _Straits Times_, 20 January 1926, 9. (From NewspaperSG)
+
+35 “[Wireless Telegrams: Communism in Solo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260223-1.2.101),” _Straits Times_, 23 February 1926, 12. (From NewspaperSG)
+
+36 “[Java Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260608-1.2.98),” _Straits Times_, 8 June 1926, 12. (From NewspaperSG)
+
+37 “[Java Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260608-1.2.98).”
+
+38 From July to September 1926, colonial authorities uncovered a number of so-called communist plots: in Sabang, see “[Java Notes: A Plot at Sabang](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260713-1.2.27),” _Singapore Free Press and Mercantile_ _Advertiser (1884–1942)_, 13 July 1926, 7; in Tegal, see “[Java Notes: The Riot at Tegal](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260810-1.2.27),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 10 August 1926, 7; in Bantam, see “[Java Notes: Unrest in Bantam](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260824-1.2.38),” _Singapore_ _Free Press and Mercantile Advertiser (1884–1942)_, 24 August 1926, 8. (From NewspaperSG)
+
+39 “[The Week in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260903-1.2.72),” _Straits Times_, 3 September 1926, 13. (From NewspaperSG)
+
+40 “[Java Notes: The Arrival of the New Governor](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260914-1.2.82),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 14 September 1926, 16. (From NewspaperSG)
+
+41 “[The Week in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260109-1.2.85),” _Straits Times_, 9 January 1926, 10. (From NewspaperSG)
+
+42 “[Java Notes: The Acheen Affair](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19260317-1.2.27),” _Singapore Free Press_, 17 March 1926, 7. (From NewspaperSG)
+
+43 “[Dutch Colonial Policy](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260924-1.2.40),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 24 September 1926, 7. (From NewspaperSG)
+
+44 “[Java Disorders](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261115-1.2.63),” _Straits Times_, 15 November 1926, 9. (From NewspaperSG)
+
+45 “[Singapore Free Press: Weekend Comment](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261115-1.2.34.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 15 November 1926, 8. (From NewspaperSG)
+
+46 “[Javanese Riots](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19261115-1.2.36),” _Malaya Tribune_, 15 November 1926, 7. (From NewspaperSG)
+
+47 “[The Javanese Riots](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19261116-1.2.31),” _Malaya Tribune_, 16 November 1926, 7. (From NewspaperSG)
+
+48 “[Communist Riots in Batavia](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261116-1.2.29),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 16 November 1926, 8. (From NewspaperSG)
+
+49 “[The Java Communist Outbreak](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261117-1.2.49),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 17 November 1926, 9. (From NewspaperSG)
+
+50 “[Java Disorders](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261117-1.2.49),” _Straits Times_, 17 November 1926, 9. (From NewspaperSG)
+
+51 “[Java Disorders: Disturbances Incited on Sugar Estates](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261118-1.2.56),” _Straits Times_, 18 November 1926, 9. (From NewspaperSG)
+
+52 “[The Javanese Rising](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19261118-1.2.31),” _Malaya Tribune_, 18 November 1926, 7. (From NewspaperSG)
+
+53 “[Java Disorders](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261120-1.2.41),” _Straits Times_, 20 November 1926, 9. (From NewspaperSG)
+
+54 “[The Communist Outbreak in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261120-1.2.89),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 20 November 1926, 16. (From NewspaperSG)
+
+55 See “[Singapore Free Press: The Java Revolt](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261123-1.2.27),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 23 November 1926, 8; “[The Riots in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261129-1.2.71),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 29 November 1926, 11; “[Java Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261130-1.2.96),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 30 November 1926, 16; “[Java Disorders](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261127-1.2.97),” _Straits Times_, 27 November 1926, 13. (From NewspaperSG)
+
+56 “[Singapore Free Press: The Java Revolt](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261123-1.2.27).”
+
+57 “[Singapore Free Press: The Java Revolt](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261123-1.2.27).”
+
+58 The insurgencies were briefly mentioned as “minor irregularities” in Singapore newspapers in December. See “[Java Notes: The Communist Action](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261215-1.2.8),” _Singapore Free Press and_ _Mercantile Advertiser (1884–1942)_, 15 December 1926, 3; “[Java Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261221-1.2.90),” _Singapore Free Press_ _and Mercantile Advertiser (1884–1942)_, 21 December 1926, 16; “[Moscow and Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261221-1.2.56),” _Straits_ _Times_, 21 December 1926, 9. (From NewspaperSG)
+
+59 “[Java Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270113-1.2.65),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 13 January 1927, 14; “[Java Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270119-1.2.36),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 19 January 1927, 7. (From NewspaperSG)
+
+60 “[The Straits Times: The Work of Agitators](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261116-1.2.26),” _Straits Times_, 16 November 1926, 8. (From NewspaperSG)
+
+61 “[The Work of Agitators](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261116-1.2.26).”
+
+62 According to Ruth McVey’s research, prior to the outbreak of the PKI revolt, at least three centres claimed authority over the party: Tan Malaka and his supporters in Malaya, the revolutionary committee in Batavia and the least important official headquarters in Bandung. It was discovered that the Batavia branch revolted without consent from the real party leadership. See McVey, [_The Rise of Indonesian Communism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12876932), 334.
+
+63 “[Java Disorders](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261117-1.2.49).”
+
+64 “[Moscow and Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261221-1.2.56).”
+
+65 The two PKI leaders in Singapore were probably Sardjono and Kusnogunoko, see “[Communism in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270122-1.2.65),” _Straits Times_, 22 January 1927, 9 (From NewspaperSG); and Partai Komunis Indonesia (PKI), _Pemberontakan Nasional Pertama Di Indonesia, 1926_ \[The first nationalist uprising of Indonesia, 1926\] (Djakarta: Jajasan Pembaruan, 1961) or see Chinese-language edition: _Yindunixiya di yi ci min zu qi yi (1926 nian)_ 印度尼西亚第一次民族起义(1926年) \[Institute of history of the communist party of Indonesia\] (北京: 世界知识出版社, 1963). (From National Library Singapore, call no. Chinese RUR 335.4309598 PEM)
+
+66 “[Communism in the Indies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19270125-1.2.10),” _Malaya Tribune_, 25 January 1927, 6. (From NewspaperSG)
+
+67 “[Java Communists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270107-1.2.58),” _Straits Times_, 7 January 1927, 9. (From NewspaperSG)
+
+68 “[Java Communists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19271215-1.2.46),” _Straits Times_, 15 December 1927, 9. (From NewspaperSG)
+
+69 McVey, [_The Rise of Indonesian Communism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12876932), 202.
+
+70 The Singapore press first briefly reported about Philips’ article in “[Communists in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271203-1.2.88),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 3 December 1927, 11 (From NewspaperSG). The full texts of the two articles were not reprinted until 27 and 31 December respectively.
+
+71 See “[Singapore Free Press: Communists and the Straits](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271207-1.2.67),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 7 December 1927, 10 (From NewspaperSG); “[Java Communists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19271215-1.2.46).”
+
+72 “[Playthings of the Reds](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19271231-1.2.46),” _Straits Times_, 31 December 1927, 9. (From NewspaperSG)
+
+73 “[TO BOLSHEVISE ASIA](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19271227-1.2.44),” _Straits Times_, 27 December 1927, 9. (From NewspaperSG)
+
+74 “[Java Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270119-1.2.36).”
+
+75 “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261214-1.2.67),” _Straits Times_, 14 December 1926, 9. (From NewspaperSG)
+
+76 “[Java Notes: Communism by Wireless](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270804-1.2.14),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 4 August 1927, 5. (From NewspaperSG)
+
+77 “[Singapore Free Press: Wireless Propaganda](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270906-1.2.51),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 6 September 1927, 8. (From NewspaperSG)
+
+78 “[Java Notes: Matters Communist](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271026-1.2.93),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 26 October 1927, 15. (From NewspaperSG)
+
+79 “[New Books](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19281110-1.2.137),” _Straits Times_, 10 November 1928, 15; “[Literary Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290429-1.2.7),” _Malaya Tribune_, 29 April 1929, 3. (From NewspaperSG)
+
+80 “[A Literary Page – New Books Reviewed: A Java Novel](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19291122-1.2.12),” _Straits Times_, 22 November 1929, 8. (From NewspaperSG)
+
+81 “[Notes of the Day: The “Reds” in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300214-1.2.39),” _Straits Times_, 14 February 1930, 12. (From NewspaperSG)
+
+82 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270311-1.2.60),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 11 March 1927, 8. (From NewspaperSG)
