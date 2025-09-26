@@ -765,7 +765,7 @@ Contesting Equality: A History of the Malayan Peopleâ€™s Socialist Front, 1957â€
 
 
 #### **BIBLIOGRAPHY**
-***Periodicals***
+***Periodicals***<br>
 *Malayan Saturday Post*<br><br>
 *Malaya Tribune*<br><br>
 *The Singapore Free Press and Mercantile Advertiser*<br><br>
