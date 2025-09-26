@@ -260,4 +260,51 @@ organisations in British malaya. to better understand the impact of the PKI revo
 the newspaper articles.
 
 #### **The 1926 PKI Revolt Through the Eyes of the Singapore Media**
-***Precursor***
+***Precursor***<br> 
+The situation in the NEI in the first half of 1925 was generally peaceful
+except for sporadic clashes between the police and alleged communist
+agitators. The NEI colonial authorities managed to arrest a number of
+communist leaders for their roles in organising strikes, holding meetings
+and delivering “seditious speeches”. The police’s crackdown on communist
+activities was effective in major hotbed cities such as Bandung, Surabaya
+and Padang.23
+
+From the second half of 1925, there were frequent news reports in the
+Singapore press concerning Chinese disturbances in Medan, bomb threats
+across Java, labour disputes in Surabaya and various forms of the Islamic
+movement.24 These incidents hardly caused the government any serious
+consequences. There was also no solid evidence suggesting that the PKI
+was behind all these disturbances. The extremists often operated without
+coherent party leadership, but their activities were so ubiquitous and
+unpredictable that fear inevitably arose among government officials and
+the public. For example, at the end of October 1925, the Singapore press
+reported several seemingly unrelated acts of unrest that took place in
+various locations across Java and Sumatra. Some of these events appeared
+to be labour disputes and some were intertwined with politically sensitive
+groups such as Chinese coolies, Arabian intellectuals and rebel Acehnese.
+Without concrete proof, the authorities and media both conveniently
+attributed the widespread disturbances to communist agitation:
+
+   *The strike agitation in Surabaya continues… there are rumours<br> 
+   of impending difficulties with the harbour coolies, although the<br> 
+   Surabaya press declares that the [coolies have] declined to answer<br> 
+   the call of communist leaders.*25<br><br>  
+   *The Arabian journalist Alfothak, editor of the Arabian paper<br> 
+   Alwivak, which has communist tendencies, is to be deported.*26<br><br>  
+   *The strike among the workers of the Tegal Proa Co. was a result<br> 
+   of the discharge of six of their number [sic] who had communist<br> 
+   tendencies*.27
+
+Consequently, the colonial authorities adopted stringent anti-communist
+measures. On top of carrying out numerous crackdowns, the government
+promised to imprison or banish communist leaders.28 Not only did the
+authorities forbid the PKI and its associated trade unions from holding
+meetings, but they also kept a tight rein on the local press.29 The police
+captured several editors of non-European newspapers for their alleged
+communist tendencies and for publishing anti-government articles. Besides
+the Arabian journalist Al-fothak mentioned earlier, other arrests included
+Lauw Giok Lam, an editor of the Malay-Chinese daily *Keng Po* in Batavia,
+and Gondojoewono, an editor of a native paper named *Njala*.30 The authorities
+also seized the Bandung-based Chinese newspaper *Sin Bin* for reprinting an
+article that had previously appeared in communist publication *Soerapati*.31
+
