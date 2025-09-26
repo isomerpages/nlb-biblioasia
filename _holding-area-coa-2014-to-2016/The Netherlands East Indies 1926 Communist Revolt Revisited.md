@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/netherlands-east-indies-comm
 variant: markdown
 description: ""
 ---
-*[…] In the Dutch East Indies, the demeanour of the native<br>
+   *[…] In the Dutch East Indies, the demeanour of the native<br>
    towards the European has passed by successive stages from an almost<br>
    abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
@@ -12,7 +12,7 @@ description: ""
    encourages the colonists in the view that the extreme plasticity of the<br>
    native character renders outside influences particularly powerful<br>
    in Java, and that it will prove disastrous if the Government stands<br>
-weakly aside in the presence of subversive agitation.*2
+   weakly aside in the presence of subversive agitation.*2
 
 #### **Introduction**
 
@@ -214,12 +214,7 @@ the keyword search terms “‘communist(s)’ and ‘Java’” are used (Fig. 
 
 From Fig. 2 it is evident that discussions about nei communist activities
 surged in 1925 and peaked in 1926. articles that contained both te rms
-“communist(s)” and “Java” grew by 545.5 percent, from 14 in 1924 to 71 in
-1925. is it possible that the media in singapore coincidentally increased the
-coverage of Java and communism as two separate events? in other words,
-was the singapore press actually concerned about communist activities in
-Java from 1925 to 1927? we can rule out this possibility by using the term
-“Java” alone (Fig. 3).
+“communist(s)” and “Java” grew by 545.5 percent, from 14 in 1924 to 71 in 1925. Is it possible that the media in singapore coincidentally increased the coverage of Java and communism as two separate events? in other words, was the singapore press actually concerned about communist activities in Java from 1925 to 1927? we can rule out this possibility by using the term “Java” alone (Fig. 3).
 
 Fig. 3 shows that the term “Java” saw an overall 14.5 percent growth from
 6,819 in 1924 to 7,808 in 1925 – a steady increase for sure, but certainly not as
@@ -230,14 +225,14 @@ high in 1927 due to the pki insurrections. Th e media’s growing general
 interests aside, it is clear that the communist movement in the nei had
 already attracted signifi cant attention a year prior to the outbreak of the revolt.
 
-to better understand the impact of the 1926/27 revolt in British malaya,
+To better understand the impact of the 1926/27 revolt in British malaya,
 we can compare the search results of the terms “‘communist(s)’ and
 ‘Java’” and “‘communist(s)’ and ‘China’” (Fig. 4). Th is chart shows that
 overall, communist activities in China (broadly defi ned) exerted a far
 greater infl uence in British malaya than their indonesian counterparts
-over the years, with the only exception being 1926, presumably due to the pki revolt. starting from 1927, however, while China’s infl uence
-fl uctuated (at a relatively high level) over the years, the impact of the nei
-communist movement became signifi cantly weaker.
+over the years, with the only exception being 1926, presumably due to the PKI revolt. starting from 1927, however, while China’s influence
+fluctuated (at a relatively high level) over the years, the impact of the NEI 
+communist movement became significantly weaker.
 
 Technically speaking, this is a highly problematic comparison, which is
 due to the inherent shortcomings of digital newspaper archives mentioned
@@ -254,9 +249,9 @@ illustrating general trends of word use, it is insuffi cient to tell a full stor
 But by performing a basic keyword search, we can draw the preliminary
 conclusion that the mention of nei communist activities in the singapore
 press rapidly increased in 1925 and peaked in 1926, which could be associated
-with the pki uprisings. Th e intensive media coverage on nei communism
-preceded the rise of the largely Chinese-infl uenced local communist
-organisations in British malaya. to better understand the impact of the PKI revolt on Malaya, it is worthwhile to delve deeper into the actual content of
+with the PKI uprisings. Th e intensive media coverage on NEI communism
+preceded the rise of the largely Chinese-influenced local communist
+organisations in British Malaya. To better understand the impact of the PKI revolt on Malaya, it is worthwhile to delve deeper into the actual content of
 the newspaper articles.
 
 #### **The 1926 PKI Revolt Through the Eyes of the Singapore Media**
@@ -307,4 +302,3 @@ Lauw Giok Lam, an editor of the Malay-Chinese daily *Keng Po* in Batavia,
 and Gondojoewono, an editor of a native paper named *Njala*.30 The authorities
 also seized the Bandung-based Chinese newspaper *Sin Bin* for reprinting an
 article that had previously appeared in communist publication *Soerapati*.31
-
