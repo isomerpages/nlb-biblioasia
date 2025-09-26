@@ -528,3 +528,181 @@ Sumatra insurgencies were much more severe than Java’s.59 As the colonial
 authorities continued to take tough measures against the rebels, the
 subsequent news reports were full of similar stories concerning massive
 arrests, internment and banishment of the alleged communist agitators.
+
+#### **Discussing Our Neighbours’ Troubles**
+
+The Singapore media did not report on the revolt only as a special NEI
+issue. Newspaper articles regarding the NEI communist uprisings often
+appeared in conjunction with lengthy discussions of relevant issues in British
+Malaya. On 16 November 1926, just one day after the Java insurrection was
+first reported in the Singapore press, a long article in ST expressed sympathy
+towards the Dutch:
+
+   *Our Dutch neighbours have been troubled with these sporadic<br> 
+   outbreaks for a considerable time, and we in Malaya sympathise<br> 
+   with the difficult task which has been theirs. What has occurred<br> 
+   serves to emphasise the amazing freedom from agitation and<br> 
+   disaffection which, in the midst of considerable turmoil throughout<br> 
+   the East, [Malaya] has had the good fortune to enjoy. For this we<br> 
+   have to thank not only the sturdy sense of a people who all derive<br> 
+   benefit from a prosperous country but a comparative absence of the<br> 
+   menace of the agitator*.60
+
+The author continued by calling for the solidarity of the Malayan people in
+support of the government’s effort to crack down on similar movements:
+
+   *What has happened in Java emphasises the need for constant<br> 
+   vigilance, and, as we have said before, there is a duty devolving<br> 
+   upon the leaders of all nationalities in Malaya to support the<br> 
+   authorities in Malaya to support the authorities in seeing that the<br> 
+   would-be sower of sedition has short shrift*.61
+
+As more details about the PKI revolt surfaced, there were heated discussions
+about whether the Indonesian communists plotted the uprisings in Java
+and Sumatra in Singapore.62 Based on an Aneta telegram, ST first reported
+that the NEI communists might have used Singapore as a hub to transport
+firearms.63 About a month later, an ST correspondent cited sources from
+local NEI newspapers, pointing out that Singapore had been a “rendezvous
+of communist ringleaders”. PKI leaders frequently stayed and passed through
+Singapore en route to China, Russia and Europe. Therefore, the correspondent
+suggested that NEI and Straits Settlements (SS) governments should take
+coordinated action in arresting communist agitators and hand them over
+when necessary.64 Dachlan, who was arrested for heading the uprisings in
+West Java, confessed under interrogation that he had received instructions
+from two PKI leaders in Singapore.65 An MT reporter, apparently confused by
+the real causes of the NEI uprisings and the ongoing communist movement
+in China, passionately wrote that the NEI government needed sympathy and
+practical help from Malaya to curb the revolution:
+
+   *The Chinese in Malaya can, and do, exert an influence over the<br>
+   Chinese of the Dutch Indies. If they value the friendship that has<br>
+   existed between the many races in both countries, they will lose no<br>
+   time in making an energetic resistance to the ingress of the subtle <br>
+   Red poison that is upsetting the balance of young Chinese overseas.<br>
+   Singapore enjoys the distinction of being a centre of radiation<br>
+   for many purposes; she can be used as the centre of an anti-Red<br>
+   campaign by the Chinese, which would greatly assist our Dutch<br>
+   friends in their job*.66
+
+As the NEI government’s wholesale crackdown on communism reached
+an unprecedented scale, rumours emerged that many PKI fugitives
+managed to evade arrest by hiding in Singapore. On 18 December 1926,
+the arrests of Alimin and Musso – two well-known PKI leaders suspected
+of plotting the Java uprisings – in Singapore substantiated the rumours.
+ST regarded the event as a positive result of the cooperation between
+the NEI and SS governments in deterring communism. The article also
+reported that the NEI media expressed their “wholehearted support” for the
+authorities in Singapore for taking care of the common interests of the two
+colonies. In doing so, Singapore was no longer a rendezvous for the NEI
+communists.67 However, to the Dutch authorities’ great disappointment,
+the SS government quickly released the two PKI leaders despite repeated
+extradition requests from the Dutch. The decision was made on the grounds
+that they did not pose direct threats to the public security of British
+Malaya.68 Alimin and Musso then proceeded to China and then Russia to
+study at the Lenin School in the years that followed.69
+
+The case of Alimin and Musso triggered even wider public discussions when
+Sir Percival Philips, a renowned American journalist, published a series of
+articles in the British newspaper *Daily Mail* in December 1927. Based on
+his in-depth investigations in the NEI earlier that year, Philips wrote that
+the Dutch authorities were entitled to criticise the SS government for its
+poor handling of the extradition of Alimin and Musso.70 Philips’ articles
+immediately attracted the attention of the British parliament. William
+Ormsby-Gore, the Under-Secretary of State for the Colonies, responded to the queries of the House of Commons that the government was ready to
+rectify the revised Banishment Ordinance and the phrase “conducive to the
+public good” would enjoy a much broader interpretation. In other words, by
+fixing the legislative loopholes, NEI communist agitators would be deemed
+as dangerous to Malaya as they were to Java and Sumatra.71 ST finally
+reprinted Philips’ two *Daily Mail* articles in full towards the end of 1927. In
+his writings, Philips pointed out that the Soviet influence in the NEI was
+very dangerous and would pose enormous threats to British Malaya:
+
+   *While the present state of the communist movement in the<br> 
+   Netherlands Indies gives no particular cause for alarm, its future<br> 
+   is regarded with undisguised anxiety… An important feature<br> 
+   of the anti-communist policy of the (Dutch) government is close<br> 
+   cooperation with the authorities of the Straits Settlements… “Our<br> 
+   interests are identical with yours,” a high official of the government<br> 
+   here said to me, “We have the same problems and are confronted<br> 
+   with the same danger*.” 72
+
+Philips further suggested that the SS government should learn from
+their Dutch counterparts in terms of suppressing insurgencies, banning
+subversive literature and deporting dangerous propagandists. According
+to him, banishment had proved to be the most effective way of dealing
+with communism.73
+
+Deterring the spread of communist agitation was not only a political
+matter, but also a technical one. On 19 January 1927, an SFP correspondent
+specifically mentioned the superiority of trucks in transporting troops. The
+Dutch authorities achieved great success in using this method to stamp out
+insurgencies rapidly in both Java and Sumatra. As railway transportation
+could be easily disrupted and was not widely accessible, the use of trucks
+was critical to curbing the insurgencies promptly.74 It was frequently
+reported that the PKI rebels managed to paralyse official communication
+by occupying telephone exchange offices and cutting wires during the revolt. To prevent such scenarios from happening in Malaya, a member of
+the SS Legislative Council suggested that the government build a wireless
+telegraphic or telephonic system for policing and military purposes.
+
+   *It was easy to imagine the possibilities of interruption during an<br> 
+   internal disturbance. There had been a recent illustration of this in<br> 
+   the communistic disturbances in Java. One heard that communists<br> 
+   took possession of the telephone exchange in Batavia and that several<br> 
+   of the employees were either forced to join, or willingly joined them.<br> 
+   It was easy to understand that owing to the exposed wire system<br> 
+   employed that during any sudden unexpected rising it would be<br> 
+   possible to throw out of gear, or even temporarily destroy, telephonic<br> 
+   and telegraphic communication in Singapore and generally<br> 
+   throughout the colony, or, for that matter, anywhere in Malaya*.75
+
+Technology is often a double-edged sword. Public anxiety was especially
+palpable when technology was used for communist propaganda. In August
+1927, the SFP was shocked to report that Batavia radio amateurs had picked
+up a radio signal from Moscow, Russia, through which both music and
+speeches had been broadcasted.76 A month later, a Chinese listener claimed
+to have picked up transmissions from Vladivostok, Russia. Spoken in very
+clear Malay, the broadcast urged people in the NEI to rise against the
+Dutch. The SFP expressed its grave concern over the issue:
+
+   *If this be true, and there is no reason to discredit it since we know<br>
+   with what thoroughness and care the Soviet school of propagandists<br>
+   have been conducted, it is clear that Soviet agitation may become a<br>
+   matter of serious concern… It would therefore seem that the Soviet<br>
+   organisation has discovered another and very effective method of<br>
+   spreading its doctrines abroad, a method much more difficult to<br>
+   deal with than the method of books and pamphlets, which can be<br>
+   seized and confiscated*.77
+
+Similarly, in an October 1927 article, the SFP reported another similar
+case, where the NEI authorities discovered that the communists had been
+using gramophone records as a new means of propaganda.78
+
+Extensive discussions about the PKI uprisings also extended to the cultural
+sphere in British Malaya. Hubert Banner, a British writer who lived in
+the NEI during the time of the PKI revolt, released his fictional novel
+*The Mountain of Terror* in 1928. Although Banner’s work was first and
+foremost a romance about a Eurasian girl’s love for an English planter in
+Java, book reviews in the Singapore press repeatedly highlighted the “up-todate
+communist intrigue” in the novel and praised Banner for having “real
+knowledge” about the colony that enabled him to “paint a convincing and
+authentic picture”.79 Towards the end of 1929, Banner published another
+novel called *Red Cobra*, which covered the communist influence in Java in
+greater detail.80 In response to accusations that *Red Cobra* exaggerated the
+impact of communist influence in Java, Banner asserted that his writing was
+based on historical facts and that the real situation was far worse than what
+the outside world realised: “A massacre of Chinese in Kudus was traceable to
+the visit of a white communist agitator. Hadji Hassan and his followers did
+plot to murder Europeans. Rebels seized the Batavia Telegraph Office and
+the troops had been out for weeks!”81
+
+In March 1928, the Singapore press voiced their disappointment at the
+SS authorities for banning the film *The Only Way*, as its theme of the
+French Revolution was deemed seditious and thus inappropriate for the
+Malayan audience: 
+
+  &amp;emsp*The Only Way, which was banned here, has successfully passed a<br> 
+  &amp;emspfull board of nine censors without dissent for exhibition in Java,<br> 
+  &amp;emspa rider being added that “the production is an excellent one”*.
+   *Having regard to the recent communist disturbances in the Dutch<br> 
+   Indies, the above decision is at least notable*.82
+
