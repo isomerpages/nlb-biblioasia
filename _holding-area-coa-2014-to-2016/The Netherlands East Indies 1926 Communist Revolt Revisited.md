@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/netherlands-east-indies-comm
 variant: markdown
 description: ""
 ---
-*[…] In the Dutch East Indies, the demeanour of the native<br>
+*   […] In the Dutch East Indies, the demeanour of the native<br>
    towards the European has passed by successive stages from an almost<br>
    abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
@@ -339,15 +339,11 @@ legitimacy in mid-1926, when large-scale unrest broke out on Telo Island off
 the coast of West Sumatra. As an ST correspondent wrote: 
 
 
-   *Without wishing to be over-critical, the fact remains that there is,<br> 
-
+   *Without wishing to be over-critical, the fact remains that there is,<br> 	
    in regards [sic] the communist activities in the Netherlands Indies,<br> 
-
    a deplorable absence of well-proved and reliable statements on<br> 
-
    the part of the authorities, which is not what one would expect in<br> 
-
-   enlightened times*.36
+   enlightened times*.36*
 
 Worsening matters was the death of Hadji Misbach, the well-known
 “Red Haji” who had made his name combining communist propaganda
@@ -408,7 +404,8 @@ to communist agitation:
    intellectual as well as the intellectual classes of the population. It is<br> 
    noticeable that neither in the People’s Council (Volksraad) nor in<br> 
    many of the local councils, the native intellectuals are represented,<br> 
-   and in some instances one might well speak of    decided non-<br> cooperation on their part*.41
+   and in some instances one might well speak of decided non-<br> 
+   cooperation on their part*.41
 
 In March, the same newspaper questioned the long-term effectiveness of
 the wholesale crackdown of the communist movement. The correspondent
@@ -428,3 +425,5 @@ exploiting the political situation:
    conducted by Hajis, the natural leaders of Moslem opinion,<br>
    and the teachings of the theosophical societies, have made the<br>
    Government policy much harder to carry out*.43
+	 
+	 
