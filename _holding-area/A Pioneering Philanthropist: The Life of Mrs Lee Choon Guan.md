@@ -87,7 +87,7 @@ Mrs Lee was not an activist as such, but it was through the influence of these n
 
 In 1915, Mrs Lee and 23 women established the Chinese Ladies’ Association (known as the Chinese Women’s Association today). Created “for the general improvement of young Chinese ladies”, it conducted classes focusing on domestic skills but whose main objective was to encourage girls from different families to meet outside their homes. Mrs Lee became its first president and hosted everyone at Magenta Cottage on Killiney Road. It was the first association that allowed girls to mingle outside their family compounds. The association subsequently became a powerful peer network where information was shared, from the latest fashion trends to news of turmoil in China.[^23]
 
-<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_friends.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_friends.png" style="width: 70%;">
 
 
 <div style="background-color: white;">Friends and founding members of the Chinese Ladies’ Association, c. 1917. (From left) Mrs S.Y. Wong, Mrs Lee Choon Guan, Mrs S.K. Wong and an unknown gentleman. <i>Courtesy of Mrs Ivy Kwa.
