@@ -100,7 +100,7 @@ Today, Mrs Lee’s philanthropic work carries on through the Mrs Lee Choon Guan 
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2-.png">
 <b>Yu-lin Ooi</b> is a historian and anthropologist who chronicles social change in Singapore, especially among women.  </div>
 
 #### **Notes**
