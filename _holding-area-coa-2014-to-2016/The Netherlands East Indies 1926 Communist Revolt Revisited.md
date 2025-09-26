@@ -194,7 +194,7 @@ complex situation:
 
 The results of keyword search terms “‘communist(s)’ OR ‘communism’”
 (Fig. 1) indicate that there was indeed a steady growth (of the use of the
-terms) that started from 1920. The sudden increase in 1925 is also consistent
+terms) that started from 1920.17 The sudden increase in 1925 is also consistent
 with the alleged establishment of the early communist organisations in
 malaya. However, when consulted, the relevant newspaper articles were
 mostly concerned with communist movements outside of British Malaya.
@@ -207,15 +207,17 @@ due to translation or other technical issues, the difference is negligible.
 The results indicate that early communist organisations had a very limited
 impact in the public sphere of British Malaya prior to the 1930s.
 
-<img src="/images/COA%202014%20to%202016/Netherlands/Figure_1.jpg" style="width:80%;">
- <div style="background-color: white;"><center>Fig. 1 Keywords: communist(s) OR communism.17</center></div>
-
+<img src="/images/COA%202014%20to%202016/Netherlands/Figure_1.jpg" style="width:90%;">
+<div style="background-color: white;"><center>Fig. 1 Keywords: communist(s) OR communism.</center></div>
 
 What contributed to the surge of communism-related discussions in
 singapore newspapers in 1925? Since communist activities in the NEI were
 frequently mentioned in the mid-1920s, probably because of the PKI revolt,
 the keyword search terms “‘communist(s)’ AND ‘Java’” are used (Fig. 2).19
 
+![](/images/COA%202014%20to%202016/Netherlands/Figure_2.jpg)
+<img src="/images/COA%202014%20to%202016/Netherlands/Figure_2.jpg" style="width:90%;">
+<div style="background-color: white;"><center>Fig. 2 Keywords: communist(s) AND Java20</center></div>
 From Fig. 2 it is evident that discussions about NEI communist activities
 surged in 1925 and peaked in 1926. articles that contained both terms
 “communist(s)” and “Java” grew by 545.5 percent, from 14 in 1924 to 71 in 1925. Is it possible that the media in singapore coincidentally increased the coverage of Java and communism as two separate events? In other words, was the Singapore press actually concerned about communist activities *in* Java from 1925 to 1927? We can rule out this possibility by using the term “Java” alone (Fig. 3).
