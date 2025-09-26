@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/netherlands-east-indies-comm
 variant: markdown
 description: ""
 ---
-   *[…] In the Dutch East Indies, the demeanour of the native<br>
+*[…] In the Dutch East Indies, the demeanour of the native<br>
    towards the European has passed by successive stages from an almost<br>
    abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
@@ -302,3 +302,70 @@ Lauw Giok Lam, an editor of the Malay-Chinese daily *Keng Po* in Batavia,
 and Gondojoewono, an editor of a native paper named *Njala*.30 The authorities
 also seized the Bandung-based Chinese newspaper *Sin Bin* for reprinting an
 article that had previously appeared in communist publication *Soerapati*.31
+
+In their attempts to “check communist agitation”, the government issued
+rigid restrictions on the freedom of assembly among employees in heavily
+PKI -influenced industries such as shipping, railway and sugar throughout
+the NEI .32 From March to May 1926, there were at least four instances where
+the Singapore press reported that the government punished both civil and
+military personnel for their involvement in PKI activities. The communist
+suspects were either demoted or fired.33
+
+Such measures notwithstanding, communist disturbances were frequently
+reported across the NEI. While the PKI and its affiliated trade unions were
+under strict surveillance, alleged communist propaganda was carried out by
+local Muslim organisations such as Perserikatan Kommunist Islam (Islamic
+Communist Association). The colonial government discovered similar
+movements in Padang, West Sumatra and Makassar, South Celebes.34
+The most serious unrest of this sort broke out in mid-February 1926 when
+approximately 2,000 natives gathered in Solo under the auspices of a
+Muslim communist organisation called Moalimin:
+
+   *It was clearly evident that this crowd of Javanese were confirmed<br> 
+   communists and every one of them carried a small red flag with the<br> 
+   insignia of Moscow on it. The so-called religious society Moalimin<br> 
+   preached to its members with considerable zeal the continuance of<br> 
+   the holy war against the Christians and also communistic ideals<br> 
+   which were not in accordance with the Koran*.35
+
+While continuous arrests did not seem to eradicate communist disturbances
+as expected, the authorities’ frequent policing drew considerable scepticism
+from the public. Local media questioned the government’s credibility
+in labelling people’s expressions of discontent as being exclusively communist-influenced. Repeated police statements notwithstanding, the
+so-called communist agitators were rarely brought to trial. With the almost
+constant lack of convincing information, the government’s attempts to fully
+crack down on communist activities encountered an enormous crisis of
+legitimacy in mid-1926, when large-scale unrest broke out on Telo Island off
+the coast of West Sumatra. As an ST correspondent wrote: 
+
+
+   *Without wishing to be over-critical, the fact remains that there is,<br> 
+
+   in regards [sic] the communist activities in the Netherlands Indies,<br> 
+
+   a deplorable absence of well-proved and reliable statements on<br> 
+
+   the part of the authorities, which is not what one would expect in<br> 
+
+   enlightened times*.36
+
+Worsening matters was the death of Hadji Misbach, the well-known
+“Red Haji” who had made his name combining communist propaganda
+with Islamic doctrine. He had died of black fever around the same period
+during his banishment in Manokwari, New Guinea. His death triggered
+wide public discourse regarding the government’s inhumane treatment of
+dissidents. Some European newspapers even paid tribute to Hadji Misbach
+for the great sacrifices he made for his political views. The same ST
+commentator remarked:
+
+   *… one might well ask if the government has been very wise by<br> 
+   creating in this way a martyr in the eyes of certain groups of the<br> 
+   population. Would it not have been better policy to have facilitated<br> 
+   the agitator’s departure from the colony?* 37
+
+In the meantime, alleged communist plots kept popping up across the
+Archipelago.38 Although many of these plots turned out to be insignificant,
+with colonial authorities usually putting down such unrest without much
+difficulty, the seemingly ubiquitous communist activities created enormous fear among the public. In September 1926, for example, ST ran a story about
+the annual Gambir Fair in Batavia:
+
