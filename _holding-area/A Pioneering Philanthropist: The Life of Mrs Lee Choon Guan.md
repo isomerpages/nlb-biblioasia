@@ -8,7 +8,7 @@ description: ""
 By Yu-lin Ooi
 
 
-<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_main.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_main.png" style="width: 70%;">
 
 
 <div style="background-color: white;">Portrait of Mrs Lee Choon Guan, 1920s. She was made a Member of the Most Excellent Order of the British Empire in 1918 for her charity work and contributions to the British Red Cross during World War I. The medal is pinned on her blouse.  <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
@@ -47,6 +47,12 @@ Tan Teck Neo found not only a wise and cosmopolitan husband, but also an ally an
 
 Lee Choon Guan and his late wife had had four children together, and now with his marriage to Tan Teck Neo, two more children joined the Lee family: son Pang Soo and daughter Poh Neo. The family subsequently moved into Mandalay Villa at 29 Amber Road, built by Lee Choon Guan’s father Lee Cheng Yan as a holiday bungalow.[^10]
 
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_villa.png" style="width: 80%;">
+
+
+<div style="background-color: white;">Mandalay Villa in 1968. It was built in 1902 as a holiday resort by Peranakan businessman Lee Cheng Yan, the father-in-law of Mrs Lee Choon Guan. She lived there until her death in 1978. <i>Lee Kip Lin Collection, National Library Singapore.</i></div>
+
+
 Mandalay Villa, by the Katong seaside, came to play an important part in Mrs Lee’s life, for it was here on its beautiful grounds that she gradually established herself as a peerless hostess. The Lees held what became fabled parties and balls for family, friends, high society and charity at the villa. Mrs Lee served drinks on the verandah overlooking the sea and lined the expansive lawn with rows of tables of sumptuous food from the finest local restaurants.[^11]
 
 When Mrs Lee’s brother Tan Cheng Kee acquired The Alhambra on Beach Road in 1909,[^12] its famous live orchestra often provided entertainment at these gatherings, playing the latest dance music alternating with _ronggeng_, a popular local Malay dance form.&nbsp;
@@ -56,6 +62,12 @@ Each year on Mrs Lee’s birthday on 18 December, the residents of Kampong Amber
 The Lees travelled frequently. In 1914 when they set sail for Europe, they took an entourage with them, including two of their children and Mr Lee’s trusted cousin Lee Chim Tuan, delighting in adventure and discovery.[^15] It would be the start of a lifetime of travel for Mrs Lee, who eventually sailed around the world twice.
 
 The Lees were abroad at the outbreak of World War I. Mrs Lee went to England where she volunteered with the British Red Cross to help the wounded. For her wartime efforts and charitable acts, Mrs Lee was made a Member of the Most Excellent Order of the British Empire (MBE) in 1918 by King George V, becoming the first Chinese woman to receive the honour. She and Mr Lee were even summoned to a Royal Garden Party at Buckingham Palace in June 1920 where she had the “honour of a personal conversation with Their Majesties the King and Queen” and where the King “expressed the pleasure it gave him to see Mrs Lee Choon Guan in Chinese attire, which he much admired”.[^16]
+
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_dressed.png" style="width: 60%;">
+
+
+<div style="background-color: white;">Mr and Mrs Lee Choon Guan dressed to meet King George V and Queen Mary at Buckingham Palace, 1920. <i>Courtesy of Mrs Alice Chua.</i></div>
+
 
 Mrs Lee was also the first Chinese woman in Singapore to get her driver’s licence, a testament to her independence.[^17]
 
