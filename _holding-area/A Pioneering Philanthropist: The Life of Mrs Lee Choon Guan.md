@@ -135,22 +135,22 @@ Today, Mrs Lee’s philanthropic work carries on through the Mrs Lee Choon Guan 
 
 
 
-[^11]: Thulaja Naidu Ratnala, “Mandalay Villa,” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2017.
+[^11]: Thulaja Naidu Ratnala, “[Mandalay Villa](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c154c428-174c-48b1-84e2-76b2b074b371),” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2017.
 
 
-[^12]: Mathias Andri Diener, “The Alhambra – Over 70 Years of Theatre at the Beach Road in Singapore,” 21 September 2014, https://thealhambrasingapore.wordpress.com/2014/09/21/the-alhambra-over-70-years-of-cinema-at-the-beach-road-in-singapore/; Barbara Quek, “Cinema Pioneer Tan Cheng Kee,” _BiblioAsia_ 18, no. 1 (April–June 2022): 54–57.&nbsp; &nbsp;
+[^12]: Mathias Andri Diener, “The Alhambra – Over 70 Years of Theatre at the Beach Road in Singapore,” 21 September 2014, [https://thealhambrasingapore.wordpress.com/2014/09/21/the-alhambra-over-70-years-of-cinema-at-the-beach-road-in-singapore/](https://thealhambrasingapore.wordpress.com/2014/09/21/the-alhambra-over-70-years-of-cinema-at-the-beach-road-in-singapore/); Barbara Quek, “[Cinema Pioneer Tan Cheng Kee](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/),” _BiblioAsia_ 18, no. 1 (April–June 2022): 54–57.&nbsp; &nbsp;
 
 
-[^13]: Lee Kip Lin, _The Singapore House 1819–1942_ (Singapore: Times Editions \[for\] Preservation of Monuments Board, 1988), 192–93. (From National Library Singapore, call no. RSING 728.095957); Yap, “Towkays at Home in Singapore.”
+[^13]: Lee Kip Lin, [_The Singapore House 1819–1942_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5087274) (Singapore: Times Editions \[for\] Preservation of Monuments Board, 1988), 192–93. (From National Library Singapore, call no. RSING 728.095957); Yap, “[Towkays at Home in Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/towkays-houses/).”
 
 
-[^14]: “Mrs Lee Choon Guan,” _Straits Times_, 19 December 1931, 12; “Mrs Lee Choon Guan,” _Straits Times_, 19 December 1932, 12. (From NewspaperSG); Lee Kuan Yew, _The Singapore Story: Memoirs of Lee Kuan Yew_ (Singapore: Marshall Cavendish Editions: Straits Times Press, 2015), 92–93. (From National Library Singapore, call no. RSING 959.5705092 LEE)
+[^14]: “[Mrs Lee Choon Guan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19311219-1.2.58),” _Straits Times_, 19 December 1931, 12; “[Mrs Lee Choon Guan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321219-1.2.76),” _Straits Times_, 19 December 1932, 12. (From NewspaperSG); Lee Kuan Yew, [_The Singapore Story: Memoirs of Lee Kuan Yew_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201266968) (Singapore: Marshall Cavendish Editions: Straits Times Press, 2015), 92–93. (From National Library Singapore, call no. RSING 959.5705092 LEE)
 
 
-[^15]: “Social and Personal,” _Straits Times_, 14 February 1914, 8. (From NewspaperSG)&nbsp;
+[^15]: “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19140214-1.2.44),” _Straits Times_, 14 February 1914, 8. (From NewspaperSG)&nbsp;
 
 
-[^16]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 542; “Social and Personal,” _Straits Times_, 7 August 1920, 8. (From NewspaperSG)&nbsp;
+[^16]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 542; “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19200807-1.2.43),” _Straits Times_, 7 August 1920, 8. (From NewspaperSG)&nbsp;
 
 
 [^17]: Conversations between Yu-lin Ooi and the family of Mrs Lee Choon Guan, 2015.
@@ -160,46 +160,46 @@ Today, Mrs Lee’s philanthropic work carries on through the Mrs Lee Choon Guan 
 
 
 
-[^19]: “S’pore ‘Women’s Day’,” _Singapore Free Press and Mercantile Advertiser_, 28 June 1918, 5. (From NewspaperSG)&nbsp;
+[^19]: “[S’pore ‘Women’s Day’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180628-1.2.19),” _Singapore Free Press and Mercantile Advertiser_, 28 June 1918, 5. (From NewspaperSG)&nbsp;
 
 
-[^20]: Zoe Yeo, “Straits Chinese British Association,” in _Singapore Infopedia_. National Library Board. Article published 21 November 2017.
-
-
-
-[^21]: Ooi Yu-Lin, _Philanthropy in Transition: An Exploratory Study of Asian Women and Philanthropy in Singapore, 1900–1945_, Philanthropy in Asia: Working Paper no. 2 (Singapore: Asia Centre for Social Entrepreneurship &amp; Philanthropy, NUS Business School, National University of Singapore, 2016). (From PublicationSG)&nbsp;
-
-
-[^22]: “Malayan Aircraft Fund: Gift from Chinese Ladies,” _Straits Times_, 22 April 1916, 10. (From NewspaperSG)
-
-
-[^23]: _Chinese Women’s Association: 100 Fabulous Years_, 20.
-
-
-[^24]: “Our Day Fund: Successful Effort for the Children,” _Straits Times_, 16 October 1916, 10. (From NewspaperSG)&nbsp;
-
-
-[^25]: “Our Day Fund: Successful Effort for the Children.”
-
-
-[^26]: “Children’s Aid Society,” _Singapore Free Press and Mercantile Advertiser_, 19 November 1915, 10; “Y.W.C.A. Building Fund,” _Straits Times_, 18 August 1917, 9; “St Andrew’s Mission Hospital,” _Malaya Tribune_, 15 August 1922, 8. (From NewspaperSG)
-
-
-[^27]: “Raffles College,” _Malaya Tribune_, 20 September 1919, 4. (From NewspaperSG). In 1949, Raffles College merged with King Edward VII College of Medicine to form the University of Malaya, which became known as the University of Singapore in 1962. It merged with Nanyang University in 1980 to form the National University of Singapore.
+[^20]: Zoe Yeo, “[Straits Chinese British Association](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b4eb0b21-095a-462a-9428-91be9cf53ee3),” in _Singapore Infopedia_. National Library Board. Article published 21 November 2017.
 
 
 
-[^28]: “Mr. Lee Choon Guan,” _Singapore Free Press and Mercantile Advertiser_, 29 August 1924, 7. (From NewspaperSG)
+[^21]: Ooi Yu-Lin, [_Philanthropy in Transition: An Exploratory Study of Asian Women and Philanthropy in Singapore, 1900–1945_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204378555), Philanthropy in Asia: Working Paper no. 2 (Singapore: Asia Centre for Social Entrepreneurship &amp; Philanthropy, NUS Business School, National University of Singapore, 2016). (From PublicationSG)&nbsp;
 
 
-[^29]: “As I Was Saying”; “Untitled,” _Straits Times_, 11 February 1930, 12; “The Colony’s Social Evil,” _Singapore Free Press and Mercantile Advertiser_, 3 October 1930, 11; “Mandalay Villa: Mrs Lee Choon Guan’s ‘At Home’,” _Straits Times_, 21 March 1932, 14. (From NewspaperSG)&nbsp;
+[^22]: “[Malayan Aircraft Fund: Gift from Chinese Ladies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19160422-1.2.50),” _Straits Times_, 22 April 1916, 10. (From NewspaperSG)
 
 
-[^30]: “Once Listless, Weary Mites,” _Straits Times_, 4 April 1933. 12. (From NewspaperSG)
+[^23]: [_Chinese Women’s Association: 100 Fabulous Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201295198), 20.
+
+
+[^24]: “[Our Day Fund: Successful Effort for the Children](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19161016-1.2.45),” _Straits Times_, 16 October 1916, 10. (From NewspaperSG)&nbsp;
+
+
+[^25]: “[Our Day Fund: Successful Effort for the Children](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19161016-1.2.45).”
+
+
+[^26]: “[Children’s Aid Society](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19151119-1.2.69),” _Singapore Free Press and Mercantile Advertiser_, 19 November 1915, 10; “[Y.W.C.A. Building Fund](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19170818-1.2.46),” _Straits Times_, 18 August 1917, 9; “[St Andrew’s Mission Hospital](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220815-1.2.51),” _Malaya Tribune_, 15 August 1922, 8. (From NewspaperSG)
+
+
+[^27]: “[Raffles College](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19190920-1.2.8),” _Malaya Tribune_, 20 September 1919, 4. (From NewspaperSG). In 1949, Raffles College merged with King Edward VII College of Medicine to form the University of Malaya, which became known as the University of Singapore in 1962. It merged with Nanyang University in 1980 to form the National University of Singapore.
 
 
 
-[^31]: “Untitled,” _Straits Times_, 19 December 1930, 12. (From NewspaperSG); _Chinese Women’s Association: 100 Fabulous Years_, 33.&nbsp;
+[^28]: “[Mr. Lee Choon Guan](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19240829-1.2.35),” _Singapore Free Press and Mercantile Advertiser_, 29 August 1924, 7. (From NewspaperSG)
+
+
+[^29]: “[As I Was Saying](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340124-1.2.51)”; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300211-1.2.48),” _Straits Times_, 11 February 1930, 12; “[The Colony’s Social Evil](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301003-1.2.63),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1930, 11; “[Mandalay Villa: Mrs Lee Choon Guan’s ‘At Home’]()https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320321-1.2.83,” _Straits Times_, 21 March 1932, 14. (From NewspaperSG)&nbsp;
+
+
+[^30]: “[Once Listless, Weary Mites](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330404-1.2.62),” _Straits Times_, 4 April 1933. 12. (From NewspaperSG)
+
+
+
+[^31]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301219-1.2.45),” _Straits Times_, 19 December 1930, 12. (From NewspaperSG); [_Chinese Women’s Association: 100 Fabulous Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201295198), 33.&nbsp;
 
 
 [^32]: “Grand Old Lady of Singapore Dies at 100,” _Straits Times_, 28 February 1978, 17. (From NewspaperSG)
