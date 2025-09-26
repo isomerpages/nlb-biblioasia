@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan.md"
       - Sample article.md
