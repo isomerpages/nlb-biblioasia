@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/netherlands-east-indies-comm
 variant: markdown
 description: ""
 ---
-   *[…] In the Dutch East Indies, the demeanour of the native<br>
+*[…] In the Dutch East Indies, the demeanour of the native<br>
    towards the European has passed by successive stages from an almost*<br>
    *abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
@@ -833,7 +833,7 @@ Yong, C. F. [_The Origins of Malayan Communism_](https://eservice.nlb.gov.sg/red
 
 21 Search Term Visualiser, NewspaperSG.
 
-22 Search Term Visualiser, NewspaperSG, accessed April 11, 2017, [http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist java OR communists java|communist china OR communists china&amp;NPT=&amp;CTA=&amp;DF=01/01/1920&amp;DT=31/12/1943&amp;itemChanges=communist java or communists java,communist china or communists china](http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist%20java%20OR%20communists%20java|communist%20china%20OR%20communists%20china&amp;NPT=&amp;CTA=&amp;DF=01/01/1920&amp;DT=31/12/1943&amp;itemChanges=communist%20java%20or%20communists%20java,communist%20china%20or%20communists%20china).
+22  Search Term Visualiser, NewspaperSG, accessed April 11, 2017, [http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist java OR communists java|communist china OR communists china&amp;NPT=&amp;CTA=&amp;DF=01/01/1920&amp;DT=31/12/1943&amp;itemChanges=communist java or communists java,communist china or communists china](http://eresources.nlb.gov.sg/newspapers/Visualiser?keyword=communist%20java%20OR%20communists%20java|communist%20china%20OR%20communists%20china&amp;NPT=&amp;CTA=&amp;DF=01/01/1920&amp;DT=31/12/1943&amp;itemChanges=communist%20java%20or%20communists%20java,communist%20china%20or%20communists%20china).
 
 23 See “[Java Sensation](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19250121-1.2.55),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 21 January 1925, 9; “[Communism in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250202-1.2.62),” _Straits Times_, 2 February 1925, 9: “[The Week in Java: Communism in Bandoeng](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250207-1.2.3),” _Straits Times_, 7 February 1925, 2. (From NewspaperSG)
 
