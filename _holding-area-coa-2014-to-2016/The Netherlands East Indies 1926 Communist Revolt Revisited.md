@@ -214,7 +214,7 @@ the keyword search terms “‘communist(s)’ AND ‘Java’” are used (Fig. 
 
 From Fig. 2 it is evident that discussions about NEI communist activities
 surged in 1925 and peaked in 1926. articles that contained both terms
-“communist(s)” and “Java” grew by 545.5 percent, from 14 in 1924 to 71 in 1925. Is it possible that the media in singapore coincidentally increased the coverage of Java and communism as two separate events? In other words, was the Singapore press actually concerned about communist activities in Java from 1925 to 1927? We can rule out this possibility by using the term “Java” alone (Fig. 3).
+“communist(s)” and “Java” grew by 545.5 percent, from 14 in 1924 to 71 in 1925. Is it possible that the media in singapore coincidentally increased the coverage of Java and communism as two separate events? In other words, was the Singapore press actually concerned about communist activities *in* Java from 1925 to 1927? We can rule out this possibility by using the term “Java” alone (Fig. 3).
 
 Fig. 3 shows that the term “Java” saw an overall 14.5 percent growth from
 6,819 in 1924 to 7,808 in 1925 – a steady increase for sure, but certainly not as
@@ -368,3 +368,63 @@ Archipelago.38 Although many of these plots turned out to be insignificant,
 with colonial authorities usually putting down such unrest without much
 difficulty, the seemingly ubiquitous communist activities created enormous fear among the public. In September 1926, for example, ST ran a story about
 the annual Gambir Fair in Batavia:
+
+   *A few days before the opening there were rumours current that<br>
+   communists were to attempt bomb outrages and that the police<br>
+   had made several arrests. These stories, however, seem frightfully<br>
+   overdone, and find their origin in the fact that recently two<br>
+   natives were killed by an accidental explosion of what was said to<br>
+   be a bomb… The European community has a tendency to show<br>
+   at certain times an exaggerated nervousness, the reports in the<br>
+   newspapers are not seldom fundamentally incorrect, and to obtain<br>
+   reliable information from the police is extremely difficult*.39
+
+As a result, the tension brought about widespread discontent towards the
+head of the colonial government, Governor-General Dirk Fock. According
+to the SFP correspondent, Fock’s autocratic yet ineffective handling of
+political disturbances made him very unpopular. Articles in the local press
+criticised the Fock administration for failing to listen to the legitimate
+demands of the native population. Andries de Graeff arrived in Batavia as
+the NEI ’s new Governor-General in September 1926. In his very first speech
+before the members of the Volksraad (the People’s Council for the NEI ), de
+Graeff explained that he would try to deal with communism differently:
+
+   *As regards the communist movement [de Graeff] was of the<br>
+   opinion that the solution of this problem should not be sought in<br>
+   force of arms, although when necessary he would not hesitate to<br>
+   make use of some, but in his opinion there was much to be done in<br>
+   connection with the obtaining of closer cooperation with the native<br>
+   officials and this would be his aim*.40
+
+In the months leading up to the PKI revolt in November 1926, the
+Singapore press published many perceptive critiques of the political situation
+in the NEI. The insightful analysis presented at the beginning of this paper
+was by no means unique in Malayan newspapers at the time. For instance,
+in January 1926 an ST correspondent cast doubt on the Dutch colonial government’s claim that the labour dispute in Surabaya was due exclusively
+to communist agitation:
+
+   *… notwithstanding the activities of the police against the so-called<br> 
+   communists, anti-Dutch agitation continues amongst the semi-<br>
+   intellectual as well as the intellectual classes of the population. It is<br> 
+   noticeable that neither in the People’s Council (Volksraad) nor in<br> 
+   many of the local councils, the native intellectuals are represented,<br> 
+   and in some instances one might well speak of    decided non-<br> cooperation on their part*.41
+
+In March, the same newspaper questioned the long-term effectiveness of
+the wholesale crackdown of the communist movement. The correspondent
+suggested that while relying on armed measures to deal with disturbances,
+the government failed to see native issues in “their right proportions”. In
+other words, the endless raids and arrests merely scratched the surface of the
+problem, which would never lead to the desired results if the government
+failed to address the significant issues facing the vast native population.42
+In September, the SFP published another lengthy article analysing the
+contradiction of the increasingly centralised rule of the Dutch colonial
+government and the growing demand for “decentralisation”, namely seeking
+greater autonomy for the native population under the Ethical Policy. The
+article astutely pointed out that the NEI communists were very good at
+exploiting the political situation:
+
+   *Communistic and revolutionary propaganda, especially if<br>
+   conducted by Hajis, the natural leaders of Moslem opinion,<br>
+   and the teachings of the theosophical societies, have made the<br>
+   Government policy much harder to carry out*.43
