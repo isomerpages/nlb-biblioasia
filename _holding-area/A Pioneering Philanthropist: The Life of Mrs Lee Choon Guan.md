@@ -202,10 +202,10 @@ Today, Mrs Lee’s philanthropic work carries on through the Mrs Lee Choon Guan 
 [^31]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301219-1.2.45),” _Straits Times_, 19 December 1930, 12. (From NewspaperSG); [_Chinese Women’s Association: 100 Fabulous Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201295198), 33.&nbsp;
 
 
-[^32]: “Grand Old Lady of Singapore Dies at 100,” _Straits Times_, 28 February 1978, 17. (From NewspaperSG)
+[^32]: “[Grand Old Lady of Singapore Dies at 100](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780228-1.2.100.24),” _Straits Times_, 28 February 1978, 17. (From NewspaperSG)
 
 
-[^33]: “Mrs Lee Choon Guan Trust Fund,” Givepedia, accessed 23 May 2025, https://givepedia.org/charity/mrs-lee-choon-guan-trust-fund; Genevieve Chua, “Building a Legacy of Giving,” _Business Times_, 4 December 2017, https://www.businesstimes.com.sg/wealth-december-2017/building-legacy-giving; “Business Times: Preserving a Century-Old Legacy of Giving,” Community Foundation of Singapore, 20 August 2018, https://cf.org.sg/media-coverage/business-times-preserving-a-century-old-legacy-of-giving/.
+[^33]: “Mrs Lee Choon Guan Trust Fund,” Givepedia, accessed 23 May 2025, [https://givepedia.org/charity/mrs-lee-choon-guan-trust-fund](https://givepedia.org/charity/mrs-lee-choon-guan-trust-fund); Genevieve Chua, “Building a Legacy of Giving,” _Business Times_, 4 December 2017, [https://www.businesstimes.com.sg/wealth-december-2017/building-legacy-giving](https://www.businesstimes.com.sg/wealth-december-2017/building-legacy-giving); “Business Times: Preserving a Century-Old Legacy of Giving,” Community Foundation of Singapore, 20 August 2018, [https://cf.org.sg/media-coverage/business-times-preserving-a-century-old-legacy-of-giving/](https://cf.org.sg/media-coverage/business-times-preserving-a-century-old-legacy-of-giving/).
 
 
-[^34]: “Tan Teck Neo,” Singapore Women’s Hall of Fame, last updated 11 March 2021, https://www.swhf.sg/profiles/tan-teck-neo/.
+[^34]: “Tan Teck Neo,” Singapore Women’s Hall of Fame, last updated 11 March 2021, [https://www.swhf.sg/profiles/tan-teck-neo/](https://www.swhf.sg/profiles/tan-teck-neo/).
