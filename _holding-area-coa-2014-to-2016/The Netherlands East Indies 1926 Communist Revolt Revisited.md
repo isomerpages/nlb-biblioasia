@@ -706,3 +706,48 @@ Malayan audience:
    *Having regard to the recent communist disturbances in the Dutch<br> 
    Indies, the above decision is at least notable*.82
 
+#### **Conclusion**
+Given the relative lack of primary materials, digital newspaper archives
+such as NewspaperSG provide researchers with a number of alternatives to
+approach understudied subjects. In addition to serving as valuable sources
+of information, digital newspaper archives offer additional possibilities to
+exploit data, including quantitative textual analysis, tracing the development
+of historical events and making sense of the broader contexts.
+
+The preliminary result of NewspaperSG ’s keyword search shows that
+public discussions on communism in British Malaya predated the formal
+establishment of the MCP in 1930. The Singapore press showed particular
+interest in the communist movement in the NEI from 1925 to 1927. The
+1926 PKI revolt generated a far greater influence on British Malaya than the
+MCP predecessors in the late 1920s.
+
+Content-wise, Singapore’s press coverage on the NEI communist revolt
+was detailed, comprehensive, up-to-date and multi-faceted. With frequent
+updates on various forms of communist disturbances since 1925, the
+outbreak of the 1926 PKI revolt was unsurprising to the Dutch authorities
+and political observers in Malaya. Although the NEI government quickly
+suppressed the uprisings in Java and Sumatra, the wholesale crackdown on
+communism and its relevance to the other side of the Malacca Straits kept
+public discussions going in Malaya. In this regard, the impact of the poorly
+organised PKI uprisings was far-reaching, as anxiety about communism
+persisted and became contagious in the years that followed. As a result,
+communism as “our neighbours’ trouble” was gradually internalised as “our
+trouble”, which compelled British authorities to adopt harsh anti-communist
+measures long before the MCP took shape.
+
+Digitised newspapers are useful sources, but to rely solely on such sources
+is highly problematic due to some of their inherent shortcomings such as
+the unbalanced coverage of different languages, variable quality of OCR outcomes, inevitable noise in the original data, as well as inappropriate text
+encoding and extraction. While it is hoped that the further development
+of technology will unlock the greater potential of digital archives, further
+discovery of traditional materials will also be conducive to enriching this
+research in many significant ways. Ultimately, different sources should
+complement each other.
+
+<div>
+<b>Kankan Xie</b> is a PhD candidate in Southeast Asian Studies, with a Designated
+Emphasis (minor) in Dutch Studies, at the University of California, Berkeley. His
+research interests include ethnicity and identity politics, left-wing movements, as well
+as transnational networks across the Malay Archipelago. He obtained his Master of
+Arts in Southeast Asian Studies (2010–2012) from Cornell University, with his thesis
+Contesting Equality: A History of the Malayan People’s Socialist Front, 1957–1965.</div>
