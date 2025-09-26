@@ -791,11 +791,11 @@ Yong, C. F. [_The Origins of Malayan Communism_](https://eservice.nlb.gov.sg/red
 
 #### **NOTES**
 
-1 The Ethical Policy was adopted at the outset of the 20th century with the goal of taking moral responsibility for Dutch subjects. The policy emphasised improving living conditions, creating more opportunities for education and giving more autonomy and greater political rights to the native population. Despite the progress, the policy was often criticised for being too costly and pushing change too rapidly. The Ethical Policy virtually ceased to exist in the 1930s due to the effects of the Great Depression and the burgeoning Indonesian nationalist movement.
+[^1]: The Ethical Policy was adopted at the outset of the 20th century with the goal of taking moral responsibility for Dutch subjects. The policy emphasised improving living conditions, creating more opportunities for education and giving more autonomy and greater political rights to the native population. Despite the progress, the policy was often criticised for being too costly and pushing change too rapidly. The Ethical Policy virtually ceased to exist in the 1930s due to the effects of the Great Depression and the burgeoning Indonesian nationalist movement.
 
-2 “[Dutch Policy in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261007-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 7 October 1926, 6. (From NewspaperSG)
+[^2]: “[Dutch Policy in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261007-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 7 October 1926, 6. (From NewspaperSG)
 
-3 To illustrate his point, the author used two examples. The first was the construction of a road in Java, which cost 8,000 lives; the second was the “1923 Tangerang incident”, in which authorities failed to handle an armed insurrection effectively due to their indecision. He concluded that the Dutch swung from one extreme to another, which undermined their prestige. See “[Dutch Policy in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261007-1.2.15).”
+[^3]: To illustrate his point, the author used two examples. The first was the construction of a road in Java, which cost 8,000 lives; the second was the “1923 Tangerang incident”, in which authorities failed to handle an armed insurrection effectively due to their indecision. He concluded that the Dutch swung from one extreme to another, which undermined their prestige. See “[Dutch Policy in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261007-1.2.15).”
 
 4 “[Dutch Policy in Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19261007-1.2.15).”
 
