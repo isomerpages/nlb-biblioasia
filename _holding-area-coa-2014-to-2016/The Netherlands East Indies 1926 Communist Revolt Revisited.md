@@ -175,11 +175,11 @@ this research should be supplemented with other materials.
 
 #### **Making Sense of the Numbers**
 
-people commonly associate the origins of communist activity in British
-malaya with the ethnic Chinese community and political infl uences from
-mainland China. such an association is likely derived from the fact that
+People commonly associate the origins of communist activity in British
+Malaya with the ethnic Chinese community and political influences from
+mainland China. Such an association is likely derived from the fact that
 the membership of the MCP was predominantly ethnic Chinese. although
-the mCp was not formally established until 1930, Yong Ching Fatt suggests
+the MCP was not formally established until 1930, Yong Ching Fatt suggests
 that Chinese communists had been operating in British Malaya as early as
 1921.15 Due to contradictions in diff erent sources, the exact founding dates
 of malaya’s early communist organisations are difficult to pinpoint. it is
@@ -206,6 +206,10 @@ League.18 Although it is possible that errors could have distorted the results
 due to translation or other technical issues, the difference is negligible.
 The results indicate that early communist organisations had a very limited
 impact in the public sphere of British Malaya prior to the 1930s.
+
+<img src="/images/COA%202014%20to%202016/Netherlands/Figure_1.jpg" style="width:80%;">
+ <div style="background-color: white;"><center>Fig. 1 Keywords: communist(s) OR communism.17</center></div>
+
 
 What contributed to the surge of communism-related discussions in
 singapore newspapers in 1925? since communist activities in the NEI were
