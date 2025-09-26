@@ -751,3 +751,29 @@ research interests include ethnicity and identity politics, left-wing movements,
 as transnational networks across the Malay Archipelago. He obtained his Master of
 Arts in Southeast Asian Studies (2010–2012) from Cornell University, with his thesis
 Contesting Equality: A History of the Malayan People’s Socialist Front, 1957–1965.</div>
+
+
+#### **BIBLIOGRAPHY**
+***Periodicals***
+*Malayan Saturday Post*<br><br>
+*Malaya Tribune*<br><br>
+*The Singapore Free Press and Mercantile Advertiser*<br><br>
+*The Straits Times*<br><br>    
+
+**_Publications_**
+   
+Cheah, Boon Kheng, ed., [_From PKI to the Comintern, 1924–1941: The Apprenticeship of the Malayan Communist Party: Selected Documents and Discussion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6343977). Ithaca: Southeast Asia Program, Cornell University, 1992. (From National Library Singapore, call no. RSING 324.2595075 CHE)
+
+Kahin, George McTurnan. [_Nationalism and Revolution in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11958026). Ithaca, N.Y: Southeast Asia Program Publications, Southeast Asia Program, Cornell University, 2003. (From National Library Singapore, call no. RSEA 959.8 KAH)
+
+Lin, Renjun 林任君. _Wo men de qi shi nian_ [我们的七十年](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84521538) \[Our 70 years: history of leading Chinese newspapers in Singapore\]. 新加坡: 新加坡报业控股华文报集团, 1993. (From National Library Singapore, call no. Chinese RCO 079.5957 OUR)
+
+McVey, Ruth Thomas. [_The Rise of Indonesian Communism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12876932)_._ New York: Cornell University Press, 1965. (From National Library Singapore, call no. RSEA 329.9598 MAC)
+
+Partai Komunis Indonesia (PKI). _Pemberontakan Nasional Pertama Di Indonesia, 1926_ \[The first nationalist uprising of Indonesia, 1926\]. Djakarta: Jajasan Pembaruan, 1961.
+
+Shiraishi, Takashi. [_An Age in Motion: Popular Radicalism in Java, 1912–1926_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5265770). Ithaca: Cornell University Press, 1990. (From National Library Singapore, call no. RSEA 959.82 SHI)
+
+Turnbull, C. M. [_Dateline Singapore: 150 Years of The Straits Times_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414). Singapore: Singapore Press Holdings, 1995. (From National Library Singapore, call no. RCLOS 079.5957 TUR)
+
+Yong, C. F. [_The Origins of Malayan Communism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203957302). Singapore: South Seas Society, 1997. (From National Singapore, call no. RSING 320.9595 YON)
