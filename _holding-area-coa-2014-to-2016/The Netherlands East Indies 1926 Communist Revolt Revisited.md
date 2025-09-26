@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/netherlands-east-indies-comm
 variant: markdown
 description: ""
 ---
-   *[…] In the Dutch East Indies, the demeanour of the native<br>
+*[…] In the Dutch East Indies, the demeanour of the native<br>
    towards the European has passed by successive stages from an almost*<br>
    *abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
@@ -416,7 +416,7 @@ to communist agitation:
    noticeable that neither in the People’s Council (Volksraad) nor in<br> 
    many of the local councils, the native intellectuals are represented,<br> 
    and in some instances one might well speak of decided non-<br> 
-   cooperation on their part*.41
+   cooperation on their part*.[^41]
 
 In March, the same newspaper questioned the long-term effectiveness of
 the wholesale crackdown of the communist movement. The correspondent
@@ -424,7 +424,7 @@ suggested that while relying on armed measures to deal with disturbances,
 the government failed to see native issues in “their right proportions”. In
 other words, the endless raids and arrests merely scratched the surface of the
 problem, which would never lead to the desired results if the government
-failed to address the significant issues facing the vast native population.42
+failed to address the significant issues facing the vast native population.[^42]
 In September, the SFP published another lengthy article analysing the
 contradiction of the increasingly centralised rule of the Dutch colonial
 government and the growing demand for “decentralisation”, namely seeking
@@ -435,7 +435,7 @@ exploiting the political situation:
    *Communistic and revolutionary propaganda, especially if<br>
    conducted by Hajis, the natural leaders of Moslem opinion,<br>
    and the teachings of the theosophical societies, have made the<br>
-   Government policy much harder to carry out*.43
+   Government policy much harder to carry out*.[^43]
 	 
 #### **The Uprisings**
 The PKI revolt broke out in Java on Friday, 12 November 1926. Three days
@@ -445,17 +445,17 @@ uprising. It reported that hundreds of communists entered the native district
 headman’s house and murdered the chief and two other natives in Menes,
 Bantam. Shortly after, a European railway surveyor named Benjamin
 was found murdered. The authorities responded promptly by killing and
-arresting a large number of rebels.44
+arresting a large number of rebels.[^44]
 
 The SFP, in contrast, dispassionately reported that the uprising was not at
 all unexpected for people who had been following the news for the past few
 weeks. Its correspondent believed that the disturbance was just a small test
 for the new governor-general and that the situation would not be out of the
-government’s control.45 Based on news reports from Reuters, MT mentioned
+government’s control.[^45] Based on news reports from Reuters, MT mentioned
 the insurrections in West Java only very briefly and, surprisingly, linked it
 to the recent seizure of two proletarian Chinese schools in Surabaya, which
 had been found to have maintained close communication with Chinese
-communists in Guangdong, China.46
+communists in Guangdong, China.[^46]
 
 In the days that followed, the Singapore press covered the NEI communist
 uprisings in great detail. While all the mainstream newspapers enjoyed good
@@ -463,37 +463,37 @@ access to information from multiple sources, the actual reports came across
 as very confusing. On 16 November, the SFP and MT both published an
 identical piece (based on *Reuters*’ telegram from Amsterdam) that reported
 that the NEI authorities had easily dispersed the mobs and attributed the
-unrest to the maladministration of former Governor-General Dirk Fock.47
+unrest to the maladministration of former Governor-General Dirk Fock.[^47]
 The SFP elaborated that the PKI uprisings were poorly organised and
 disconnected from each other. The movement lacked careful planning and
 had no clear purpose. The mobs accomplished very little except cutting off
 telephone communications and attacking isolated police officers at small
-stations.48 A day later, the same *Reuters* story reappeared, which was followed
+stations.[^48] A day later, the same *Reuters* story reappeared, which was followed
 by a contradictory report directly from Batavia.
 
 According to this very brief report, about 500 rebels had attacked a
 garrison in Laboean. The authorities knew little about the details because
 communication had been cut off. Military reinforcement had difficulties
-reaching the destination in time due to broken bridges and blocked roads.49
+reaching the destination in time due to broken bridges and blocked roads.[^49]
 However, based on the *Aneta* report, ST reported on the same day that
 the government had already put down the insurgency in Laboean with
 25 rebels killed and 29 arrested. Meanwhile, *The Straits Times* ran a very
 worrisome piece from *Reuters* that the uprisings had spread to Central and
-East Java. The government arrested 30 communist agitators in Surabaya.50
+East Java. The government arrested 30 communist agitators in Surabaya.[^50]
 On 18 November, *Aneta* confirmed that the situation was still out of
 control. Entitled “Serious Position in Mid-Java Areas”, MT reported that
 “numbers of communists swarmed out of the sugar estate areas in order to
 incite disturbances”.51 A *Reuters* telegram from Amsterdam, in comparison,
 delivered a positive message stating that “… there is no cause for anxiety.
 49 rebels have surrendered to the local police, and the whole executive of
-the communist party at Bandung has been arrested”.52
+the communist party at Bandung has been arrested”.[^52]
 
 The Dutch authorities suppressed the PKI revolt within a week. Based
 on *Reuters*’ telegram from Batavia, ST reported on 20 November that
 the major insurgency in West Java had been put down, except for minor
 skirmishes in Bantam. In the absence of official dispatches, the Dutch
 Colonial Minister Koningsberger assured the media that the insurrection
-was only a question of sporadic happenings.53 Meanwhile, the SFP published
+was only a question of sporadic happenings.[^53] Meanwhile, the SFP published
 its NEI correspondent’s article, which reviewed the uprising in far greater
 detail than the previously telegram-based news reports and praised the
 government for taking prompt measures:
@@ -506,11 +506,11 @@ government for taking prompt measures:
    expected trouble had broken out. With the exception of the police,<br>  
    military and a few journalists, nobody in the town knew anything<br>  
    about the matter until the following morning! Police and military<br>  
-   had done good work whilst Batavia slept*.54
+   had done good work whilst Batavia slept*.[^54]
 
 Singapore newspapers published many such updates in the following
 weeks, which provided readers with exhaustive first-hand coverage of the
-insurrection and the counter-insurgency operations that followed.55 More
+insurrection and the counter-insurgency operations that followed.[^55] More
 often than not, the content of these articles was repetitive, but their writers
 tried to supplement the facts with (sometimes contradictory) personal
 opinions. For instance, only three days after praising the authorities in
@@ -522,7 +522,7 @@ correspondent sharply criticised the Dutch administration for lacking
    as the organisation and carrying out of the attack. It seemed to<br>
    have waited for the revolt, although it knew it was impending<br>
    and, having dealt with it, to have become quiescent again until<br>
-   there were fresh outbursts*.56
+   there were fresh outbursts*.[^56]
 
 Despite what had happened, the correspondent regarded the revolt as a
 series of “attacks of loafers and bad characters led by a few communists”.
@@ -530,12 +530,12 @@ He suggested that it “[was] more than probable that the actual number
 of offenders, who were really ‘dyed in the wool’ communists, was
 comparatively small”. The public, however, could have had a very
 unbalanced view on such issues, as the articles included widespread
-rumours and exaggerated details.57
+rumours and exaggerated details.[^57]
 
 Surprisingly, the Singapore press did not pay much attention to the
-uprisings in West Sumatra that occurred a month later.58 It was not until
+uprisings in West Sumatra that occurred a month later.[^58] It was not until
 mid-January 1927 that the newspapers started to report that the West
-Sumatra insurgencies were much more severe than Java’s.59 As the colonial
+Sumatra insurgencies were much more severe than Java’s.[^59] As the colonial
 authorities continued to take tough measures against the rebels, the
 subsequent news reports were full of similar stories concerning massive
 arrests, internment and banishment of the alleged communist agitators.
@@ -557,7 +557,7 @@ towards the Dutch:
    the East, [Malaya] has had the good fortune to enjoy. For this we<br> 
    have to thank not only the sturdy sense of a people who all derive<br> 
    benefit from a prosperous country but a comparative absence of the<br> 
-   menace of the agitator*.60
+   menace of the agitator*.[^60]
 
 The author continued by calling for the solidarity of the Malayan people in
 support of the government’s effort to crack down on similar movements:
