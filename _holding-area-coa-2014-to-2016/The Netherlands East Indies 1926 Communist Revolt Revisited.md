@@ -243,7 +243,7 @@ fluctuated (at a relatively high level) over the years, the impact of the NEI
 communist movement became significantly weaker.
 
 <img src="/images/COA%202014%20to%202016/Netherlands/Figure_4.jpg" style="width:90%;">
-<div style="background-color: white;">Fig. 4 Keywords: communist(s) AND Java (light blue) vs. communist(s) AND China (dark blue).</div>
+<div style="background-color: white;"><center>Fig. 4 Keywords: communist(s) AND Java (light blue) vs. communist(s) AND China (dark blue).</center></div>
 
 Technically speaking, this is a highly problematic comparison, which is
 due to the inherent shortcomings of digital newspaper archives mentioned
