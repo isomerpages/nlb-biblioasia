@@ -181,8 +181,8 @@ mainland China. Such an association is likely derived from the fact that
 the membership of the MCP was predominantly ethnic Chinese. although
 the MCP was not formally established until 1930, Yong Ching Fatt suggests
 that Chinese communists had been operating in British Malaya as early as
-1921.15 Due to contradictions in diff erent sources, the exact founding dates
-of malaya’s early communist organisations are difficult to pinpoint. it is
+1921.15 Due to contradictions in different sources, the exact founding dates
+of malaya’s early communist organisations are difficult to pinpoint. It is
 generally agreed that the Communist party of China (CPC) established an
 overseas branch in British Malaya around 1925 to 1926. The CPC branch
 gradually transformed into the Nanyang (or South Seas) Communist Party
@@ -196,7 +196,7 @@ The results of keyword search terms “‘communist(s)’ OR ‘communism’”
 (Fig. 1) indicate that there was indeed a steady growth (of the use of the
 terms) that started from 1920. The sudden increase in 1925 is also consistent
 with the alleged establishment of the early communist organisations in
-malaya. however, when consulted, the relevant newspaper articles were
+malaya. However, when consulted, the relevant newspaper articles were
 mostly concerned with communist movements outside of British Malaya.
 Throughout the 1920s, the SSCP was only mentioned twice in 1928 and once
 in 1929. similarly, there were no results for organisations such as the CPC’s
@@ -212,7 +212,7 @@ impact in the public sphere of British Malaya prior to the 1930s.
 
 
 What contributed to the surge of communism-related discussions in
-singapore newspapers in 1925? since communist activities in the NEI were
+singapore newspapers in 1925? Since communist activities in the NEI were
 frequently mentioned in the mid-1920s, probably because of the PKI revolt,
 the keyword search terms “‘communist(s)’ AND ‘Java’” are used (Fig. 2).19
 
@@ -231,7 +231,7 @@ already attracted significant attention a year prior to the outbreak of the revo
 
 To better understand the impact of the 1926/27 revolt in British Malaya,
 we can compare the search results of the terms “‘communist(s)’ AND
-‘Java’” and “‘communist(s)’ AND ‘China’” (Fig. 4). Th is chart shows that
+‘Java’” and “‘communist(s)’ AND ‘China’” (Fig. 4). This chart shows that
 overall, communist activities in China (broadly defined) exerted a far
 greater influence in British Malaya than their Indonesian counterparts
 over the years, with the only exception being 1926, presumably due to the PKI revolt. Starting from 1927, however, while China’s influence
@@ -240,7 +240,7 @@ communist movement became significantly weaker.
 
 Technically speaking, this is a highly problematic comparison, which is
 due to the inherent shortcomings of digital newspaper archives mentioned
-earlier. when performing a search with multiple words (Figs. 2 and 4), a lot
+earlier. When performing a search with multiple words (Figs. 2 and 4), a lot
 of “noise”, such as inappropriate text encoding or extraction, may interfere
 with the desired outcome. For example, some of the search results in Fig. 4
 could refer to “China” in one report and “communist(s)” in a different
@@ -310,7 +310,7 @@ article that had previously appeared in communist publication *Soerapati*.31
 In their attempts to “check communist agitation”, the government issued
 rigid restrictions on the freedom of assembly among employees in heavily
 PKI -influenced industries such as shipping, railway and sugar throughout
-the NEI .32 From March to May 1926, there were at least four instances where
+the NEI.32 From March to May 1926, there were at least four instances where
 the Singapore press reported that the government punished both civil and
 military personnel for their involvement in PKI activities. The communist
 suspects were either demoted or fired.33
@@ -385,7 +385,7 @@ to the SFP correspondent, Fock’s autocratic yet ineffective handling of
 political disturbances made him very unpopular. Articles in the local press
 criticised the Fock administration for failing to listen to the legitimate
 demands of the native population. Andries de Graeff arrived in Batavia as
-the NEI ’s new Governor-General in September 1926. In his very first speech
+the NEI’s new Governor-General in September 1926. In his very first speech
 before the members of the Volksraad (the People’s Council for the NEI ), de
 Graeff explained that he would try to deal with communism differently:
 
