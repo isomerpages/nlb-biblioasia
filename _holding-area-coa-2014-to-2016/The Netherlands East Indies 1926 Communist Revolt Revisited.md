@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/netherlands-east-indies-comm
 variant: markdown
 description: ""
 ---
-*[…] In the Dutch East Indies, the demeanour of the native<br>
+   *[…] In the Dutch East Indies, the demeanour of the native<br>
    towards the European has passed by successive stages from an almost*<br>
    *abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
@@ -483,7 +483,7 @@ East Java. The government arrested 30 communist agitators in Surabaya.[^50]
 On 18 November, *Aneta* confirmed that the situation was still out of
 control. Entitled “Serious Position in Mid-Java Areas”, MT reported that
 “numbers of communists swarmed out of the sugar estate areas in order to
-incite disturbances”.51 A *Reuters* telegram from Amsterdam, in comparison,
+incite disturbances”.[^51] A *Reuters* telegram from Amsterdam, in comparison,
 delivered a positive message stating that “… there is no cause for anxiety.
 49 rebels have surrendered to the local police, and the whole executive of
 the communist party at Bandung has been arrested”.[^52]
@@ -505,8 +505,7 @@ government for taking prompt measures:
    was happening and only a few of the guests were aware that the<br>   
    expected trouble had broken out. With the exception of the police,<br>  
    military and a few journalists, nobody in the town knew anything<br>  
-   about the matter until the following morning! Police and military<br>  
-   had done good work whilst Batavia slept*.[^54]
+   about the matter until the following morning! Police and military<br>   had done good work whilst Batavia slept*.[^54]
 
 Singapore newspapers published many such updates in the following
 weeks, which provided readers with exhaustive first-hand coverage of the
