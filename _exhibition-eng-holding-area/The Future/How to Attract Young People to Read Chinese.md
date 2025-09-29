@@ -28,7 +28,7 @@ With countless books published each year, we must carefully read and thoughtfull
 #### **Conclusion**
 Traditional culture must evolve with the times, and there must be a bridge that enables traditional culture to stay relevant while being preserved. The Equatorial Wind Cultural Association is a young organisation whose core team members juggle full-time jobs elsewhere, with some editorial committee members also having their own commitments in other community organisations or associations. Despite these challenges, we are all committed to our efforts, striving to excel in activities that encourage young people to read.
 
-#### **参考资料**
+#### **References**
 
 1.	“Diaocha: geng duo ren pianhao yuedu zhizhi shu chaoguo qi cheng qingshaonian xihuan yuedu”<a rel="noopener noreferrer" target="_blank" href="https://www.zaobao.com.sg/news/singapore/story20180802-879926">调查：更多人偏好阅读纸质书 超过七成青少年喜欢阅读</a> [Survey: Physical Books Preferred by More People; Over 70% of Teenagers Enjoy Reading], Lianhe Zaobao 联合早报, 2 August 2018. 
 
