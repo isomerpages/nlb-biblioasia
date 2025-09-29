@@ -107,8 +107,8 @@ in the *Calcutta China Times*.12 After the war, he moved to Singapore in
 1946, working as a translator at *Nanyang Siang Pau* and as a teacher at The
 Chinese High School. Prior to joining *Nanyang Siang Pau*, Xing Ying had
 little experience in editing and translation, and had rejected an offer to be
-the editor of the literary supplement, *Lü Zhou*. He eventually took over editorship of *Wen Feng*, the literary supplement of *Nanyang Siang Pau*, in
-1954. Not only was he successful in his journalism career, Xing Ying was a
+the editor of the literary supplement, *Lü Zhou*. He eventually took over editorship of *Wen Feng*, the literary supplement of *Nanyang Siang Pau*, in 1954. 
+Not only was he successful in his journalism career, Xing Ying was a
 good prose writer and wrote books such as *While You Are Young* (趁年轻的
 时候, 1958), *Books and People* (书与人, 1960) and *Century of the Fools* (愚人的
 世纪, 1960), etc. He also contributed regularly to the literary supplements,
@@ -139,6 +139,7 @@ In Lü Zhou and Wen Feng, Yao Zi and Xing Ying honed their respective
 editorial styles, which became amplified in their later supplements.
 
 ***Lü Zhou: Bringing Literary Aesthetics into the Nanyang Literary Scene***
+
 Yao Zi was the editor of the literary supplement *Lü Zhou* in *Nanfang
 Evening Post* from 15 November 1952 to 3 January 1953, editing a total of 33
 issues. *Lü Zhou* published news on regional literature and introduced local
@@ -219,6 +220,7 @@ Zhou was telling of the significance Yao Zi placed on the Russian writer.
 world literature.”28
 
 ***Wen Feng: Xing Ying and His Communication Tool with Readers***
+
 Xing Ying was the editor of *Wen Feng* in *Nanyang Siang Pau* from 18
 January 1954 to 15 August 1958, during which 828 issues of the supplement
 were published. In the first two years, *Wen Feng* was published daily;
