@@ -524,3 +524,39 @@ Music with Friends” (与友人学音乐) by Gao Xiu (高秀), “Music and Lif
 Chinese Folk Dance” (我看《跑驴》:中国民间舞蹈) and “The New School
 Song” (新校舍歌) by Shan Ba Zi (山芭子).85
 
+#### **Conclusion**
+Both* Nanyang Siang Pau* and *Nanfang Evening Post* had significant
+readerships, which contributed to the influence of their literary supplements.
+As an editor, Yao Zi focused more on literary aesthetics, relying on a group
+of regular contributors, while Xing Ying focused more on developing
+writers and engaging readers. However, in *Zhou Mo Qing Nian*, Yao Zi, too,
+accepted amateur works from young writers.
+
+Given their positions of influence, Yao Zi and Xing Ying played an
+important role in promoting local literature and writers, many of whom
+later became established figures in the Chinese literary scene. In addition,
+both editors brought world literature and new ideas to local readers,
+including Western writing techniques, translations of foreign classics,
+and international literary news. They also promoted multiculturalism
+by publishing translations of Malay literary works and original essays
+in Chinese discussing Malay literature. Vibrant, cross-cultural and
+multilingual, the literary scene in the 1950s and 1960s is an area that
+deserves further study.
+
+#### **Acknowledgments**
+*I would like to thank Goh Yu Mei for helping me locate the research materials, Joanna
+Tan for her assistance in administrative matters during my fellowship at the National
+Library of Singapore, and the librarians – Kevin Seet, Juffri Supa’at, Ang Seow Leng,
+Lim Tin Seng and others – who helped me retrieve closed access materials and shared
+information with me. I would also like to thank Professor Chan Tah Wei for giving
+his comments and advice on the article, and Soh Gek Han and the editorial team for
+patiently editing my paper*.
+
+<div>
+<b>Seah Cheng Ta</b> obtained his PhD in Chinese Language and Literature from the
+Chinese University of Hong Kong and is currently a research associate at the School of
+Humanities at Nanyang Technological University, Singapore. He was a visiting scholar
+at UCLA and a Lee Kong Chian Research Fellow at the National Library of Singapore.
+He has won the Fang Xiu (方修) literary award in Singapore and Taiwan’s Zhou
+Meng Die (周梦蝶) literary award. His research interests include Singapore Chinese
+literature, Southeast Asian history and global Chinese studies.</div>
