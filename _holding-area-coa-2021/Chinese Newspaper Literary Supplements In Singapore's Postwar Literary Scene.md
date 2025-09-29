@@ -147,7 +147,7 @@ local literary supplement. In his first editorial in 1952, he wrote with palpabl
 better tomorrow”.13
 
 <img src="/images/COA%202021/Chinese%20Newspaper%20Literary/L__Zhou_____9_December_1952_.jpg" style="width:80%;">
- <div style="background-color: white;"> <center><i>Lü Zhou</i> 绿洲, 9 December 1952, 3. (Microfilm NL3714) </center></div>
+ <div style="background-color: white;">   <i>Lü Zhou</i> 绿洲, 9 December 1952, 3. (Microfilm NL3714) </div>
 
 Yao Zi was responsible for publishing a variety of genres in a single
 issue. For example, the 9 December 1952 issue of *Lü Zhou* (Figure 1) contains
