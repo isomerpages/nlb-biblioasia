@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/netherlands-east-indies-comm
 variant: markdown
 description: ""
 ---
-*[…] In the Dutch East Indies, the demeanour of the native<br>
+   *In the Dutch East Indies, the demeanour of the native<br>
    towards the European has passed by successive stages from an almost*<br>
    *abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
@@ -498,14 +498,7 @@ its NEI correspondent’s article, which reviewed the uprising in far greater
 detail than the previously telegram-based news reports and praised the
 government for taking prompt measures:
 
-   *Luckily the authorities were aware that trouble was brewing<br>  
-   several days beforehand; they had taken what measures they could.<br>  
-   It is therefore worthy of mention that whilst fighting was going on<br>  
-   in the old town, the reception at the Palace continued as if nothing<br>  
-   was happening and only a few of the guests were aware that the<br>   
-   expected trouble had broken out. With the exception of the police,<br>  
-   military and a few journalists, nobody in the town knew anything<br>  
-   about the matter until the following morning! Police and military<br>   had done good work whilst Batavia slept*.[^54]
+   *Luckily the authorities were aware that trouble was brewing<br>   several days beforehand; they had taken what measures they could.<br>   It is therefore worthy of mention that whilst fighting was going on<br>   in the old town, the reception at the Palace continued as if nothing<br>   was happening and only a few of the guests were aware that the<br>    expected trouble had broken out. With the exception of the police,<br>   military and a few journalists, nobody in the town knew anything<br>   about the matter until the following morning! Police and military<br>   had done good work whilst Batavia slept*.[^54]
 
 Singapore newspapers published many such updates in the following
 weeks, which provided readers with exhaustive first-hand coverage of the
