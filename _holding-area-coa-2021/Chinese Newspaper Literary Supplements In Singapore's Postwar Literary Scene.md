@@ -387,6 +387,7 @@ students in their own way.
 
 ***Qing Nian Wen Yi: Nurturing Writers and Promoting Multiculturalism***
 
+
 In July 1960, Xing Ying became editor of *Qing Nian Wen Yi* in *Nanyang
 Siang Pau*, which became one of the longest-running literary supplements
 of the 1960s, when some newspapers
@@ -449,6 +450,7 @@ writing advice.
 
 ***Zhou Mo Qing Nian and Youth Square***
 
+
 Yao Zi was the editor of the weekly literary supplement *Zhou Mo Qing
 Nian*, producing eight issues during his tenure from 1 November 1952
 to 27 December 1952. He created *Zhou Mo Qing Nian* in response to
@@ -491,6 +493,7 @@ Move” (迫迁) by Li Yin (李音), and “Laughter by the Seashore” (海滨�
 笑声) by Xiao Ling (小绫).77
 
 ***Xin Miao: Music Meets Literature***
+
 
 Xing Ying was the editor of *Xin Miao*, the “brother supplement” of *Wen
 Feng*. The publication of these two literary supplements in *Nanyang Siang
