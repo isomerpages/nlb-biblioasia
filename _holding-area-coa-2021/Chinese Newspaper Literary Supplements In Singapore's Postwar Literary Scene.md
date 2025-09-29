@@ -322,6 +322,11 @@ criticisms he faced. In “A Note to Myself at Age Thirty: A Reply to My
 Friends” (三十自题:兼答关怀我的朋友们), he wrote: “Worldly ups and downs
 are within my destiny, how can others judge my glory or downfall?”44
 
+<img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Anti_Yellow_Culture.jpg" style="width:80%;">
+<div style="background-color: white;">Chen Ye Huang (陈烨煌), “Anti-Yellow Culture”, <i>Shi Ji Lu</i> 世纪路, 14 January 1954, 8. Chen’s
+illustration depicts the eradication of yellow culture from Malaya, with a huge, fiery foot kicking a
+cameraman shooting a yellow film, and a yellow-film actress fleeing the scene. (Microfilm NL2702)</div>
+
 During this period, Yao Zi was supported by a group of writer friends.
 This further cemented his practice of relying on a small group of trusted
 writers for the supplement. *Shi Ji Lu*’s three regular contributors were Xing
@@ -409,6 +414,10 @@ tagline in *Qing Nian Wen Yi*’s title plate
 “Published every Wednesday, a writing
 platform for the youth”.
 
+<img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Qing_Nian.jpg" style="width:50%;">
+<div style="background-color: white;">Title plate of <i>Qing Nian
+Wen Yi</i> taken from the inaugural issue, 20 July 1960, 14. (Microfilm NL2758)</div>
+
 *Qing Nian Wen Yi* published poems,
 essays and literature reviews by students.
 Compared to Xing Ying’s prior literary
@@ -488,6 +497,9 @@ in his selection of articles to be published in the school journal.76 The issues
 supplement’s young readership. Hence, *Zhou Mo Qing Nian* was more than
 a literary supplement for the youth; it was a publication that concerned itself
 with youth welfare.
+
+<img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Zhou_Mo_Qing_Nian.jpg" style="width:80%;">
+<div style="background-color: white;"><i>Zhou Mo Qing Nian</i>, with its poetry column (bottom left) and Youth Square (top right). 27 December 1952, 3. (Microfilm NL3714)</div>
 
 Besides Youth Square, *Zhou Mo Qing Nian* had another regular feature:
 a poetry column that showcased about five to seven poems by young writers
