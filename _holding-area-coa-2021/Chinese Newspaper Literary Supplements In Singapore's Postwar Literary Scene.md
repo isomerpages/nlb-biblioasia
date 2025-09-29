@@ -130,11 +130,10 @@ from 1969 to 1977. Yao Zi passed away in 1982, at age 62.
 *Lü Zhou* and *Wen Feng*, edited by Yao Zi and Xing Ying respectively, are
 considered the two early literary supplements of the 1950s. The two men had
 different editorial philosophies. Yao Zi’s focus on literary aesthetics likely
-stemmed from his literary values as a novelist, and under his editorship, Lü
-Zhou published both international and local literature. Xing Ying focused
-on developing young writers, and with Wen Feng, he created a vibrant
+stemmed from his literary values as a novelist, and under his editorship, *Lü Zhou* published both international and local literature. Xing Ying focused
+on developing young writers, and with *Wen Feng*, he created a vibrant
 supplement that allowed greater interaction between readers and the editor.
-In Lü Zhou and Wen Feng, Yao Zi and Xing Ying honed their respective
+In *Lü Zhou* and *Wen Feng*, Yao Zi and Xing Ying honed their respective
 editorial styles, which became amplified in their later supplements.
 
 ***Lü Zhou: Bringing Literary Aesthetics into the Nanyang Literary Scene***
@@ -146,6 +145,9 @@ writers, including Xing Ying and Wei Bei Hua (威北华), both of whom later
 became renowned writers and editors. *Lü Zhou* was Yao Zi’s first edited
 local literary supplement. In his first editorial in 1952, he wrote with palpable optimism that “hope brings light and joy to life”, and “one can hope for a
 better tomorrow”.13
+
+<img src="/images/COA%202021/Chinese%20Newspaper%20Literary/L__Zhou_____9_December_1952_.jpg" style="width:90%;">
+ <div style="background-color: white;"><i>Lü Zhou</i> 绿洲, 9 December 1952, 3. (Microfilm NL3714)</div>
 
 Yao Zi was responsible for publishing a variety of genres in a single
 issue. For example, the 9 December 1952 issue of *Lü Zhou* (Figure 1) contains
@@ -384,6 +386,7 @@ their different editorial philosophies, both editors promoted social justice for
 students in their own way.
 
 ***Qing Nian Wen Yi: Nurturing Writers and Promoting Multiculturalism***
+
 In July 1960, Xing Ying became editor of *Qing Nian Wen Yi* in *Nanyang
 Siang Pau*, which became one of the longest-running literary supplements
 of the 1960s, when some newspapers
@@ -445,6 +448,7 @@ social problems that students faced, while Xing Ying offered the students
 writing advice.
 
 ***Zhou Mo Qing Nian and Youth Square***
+
 Yao Zi was the editor of the weekly literary supplement *Zhou Mo Qing
 Nian*, producing eight issues during his tenure from 1 November 1952
 to 27 December 1952. He created *Zhou Mo Qing Nian* in response to
@@ -487,6 +491,7 @@ Move” (迫迁) by Li Yin (李音), and “Laughter by the Seashore” (海滨�
 笑声) by Xiao Ling (小绫).77
 
 ***Xin Miao: Music Meets Literature***
+
 Xing Ying was the editor of *Xin Miao*, the “brother supplement” of *Wen
 Feng*. The publication of these two literary supplements in *Nanyang Siang
 Pau* overlapped by six months, from March to August 1958, which was also
