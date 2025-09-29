@@ -113,3 +113,64 @@ Yuan Si (原思). That the review was published in full over three issues of *L�
 “The works of Turgenev,” he wrote, “are among the greatest in modern
 world literature.”28
 
+***Wen Feng: Xing Ying and His Communication Tool with Readers***
+Xing Ying was the editor of *Wen Feng* in *Nanyang Siang Pau* from 18
+January 1954 to 15 August 1958, during which 828 issues of the supplement
+were published. In the first two years, *Wen Feng* was published daily;
+after 1956, its publication became less regular, partly because of its narrow
+thematic scope – almost half of the works revolved around the lives of
+rubber plantation workers, employer-employee relationships, and the
+difficulties of finding employment.29
+
+Unlike Yao Zi, who focused on publishing highly aesthetic literary
+works, Xing Ying used *Wen Feng* to encourage literature-loving youths
+to write freely,30 in line with his belief that journalism was a meaningful been less vibrant, and there would not have been so many youths interested in literature.”36
+
+Xing Ying created an editorial column – Random Notes (补白杂记),
+later renamed *Wen Feng* Mailbox (文风信箱) – to express his views and
+communicate with the supplement’s readers, who responded well to it.37
+One reader, Mian Ti (缅堤), wrote that this column was “a great inspiration”
+and his favourite thing to read in *Wen Feng*.38 Xing Ying also used this
+column to encourage young writers: “Please write about the issues in life, on contributors becoming well-known writers and editors, for instance Xing
+Ying, Zhao Rong, Wei Bei Hua, Xie Ke, Lian Shi Sheng (连士升), Miao Xiu
+(苗秀), Wei Yun (韦晕) and Liu Bei An (柳北岸), among others.
+
+The first issue of *Shi Ji Lu* was published four days after the rape
+and murder of Zhuang Yu Zhen, the case that sparked the anti-yellow
+culture movement (Figure 4). Yao Zi was accused of being a yellow writer
+(黄色作家), for his novels such as *Miss Hideko* (秀子姑娘, 1949) and *Ural
+Mountains* (乌拉山之夜, 1950) contained descriptions of female body parts
+and sex scenes. Some of his poems published in *Shi Ji Lu* hint at the
+criticisms he faced. In “A Note to Myself at Age Thirty: A Reply to My
+Friends” (三十自题:兼答关怀我的朋友们), he wrote: “Worldly ups and downs
+are within my destiny, how can others judge my glory or downfall?”44
+
+During this period, Yao Zi was supported by a group of writer friends.
+This further cemented his practice of relying on a small group of trusted
+writers for the supplement. *Shi Ji Lu*’s three regular contributors were Xing
+Ying, Zhao Rong and Miao Xiu, whose articles formed the supplement’s regular group of contributors supplied *Shi Ji Lu* with articles of literary
+merit, it resulted in less diversity of writing styles.
+
+As a consequence of the anti-yellow culture movement, the atmosphere
+in the literary scene became more conservative. Yet, Yao Zi remained a
+creative and experimental editor. Under his editorship, *Shi Ji Lu* ushered
+in a new wave of Western literature to the postwar Nanyang literary scene.
+Compared to *Lü Zhou*, *Shi Ji Lu* featured more international content. The
+inaugural issue included two American short stories in translation – “The
+Cop and the Anthem” (警察和赞美诗) by O. Henry and translated by Jiang
+Nan Liu (江南柳), and “The Tax Collector” (给收税员) by J. P. McEvoy and
+translated by Zhu Ai (主艾) – and an essay on the American writer Jack
+London. Other works of Western literature subsequently published in *Shi Ji Lu* included “L’Aventure” (The Adventure, 艳遇) by the Norwegian writer
+Knut Hamsun, translated by Ya Ji (亞玑);50 “The Legend of Sleepy Hollow”
+(睡谷的传说) by the American writer Washington Irving, translated by
+Jiang Nan Liu (江南柳);51 “A String of Blue Beads” (一串蓝珠) by the
+American writer Charles Fulton Oursler, translated by Xi Bang (希邦);52
+and the poem “Out of the Night That Covers Me” (夜幕笼罩着我) by the
+British poet William Ernest Henley, translated by Shou Ming (受明).53 *Shi
+Ji Lu* occasionally also published translations of biographies of well-known
+writers, such as “The Life of O. Henry” (奥·亨利的生平), translated by Jia
+Sheng (加生).54
+
+Yao Zi also published works by Hong Kong writers such as Lü Lun55
+and Liu Yichang (刘以鬯). Liu contributed the short story “Enchanting."
+
