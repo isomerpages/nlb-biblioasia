@@ -15,7 +15,8 @@ Team: Jane Wee, Yang Qinli, Agnes Ang, Chan Pan Fong, Wu Hao
 
 If you have any comments or suggestions about this exhibition, please share your feedback with us through this [link](https://go.gov.sg/sgchinesereadingclubs-feedback).
 
-This exhibition is available in both Chinese and English. Click [here](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/holding-area/exhibition-landing-page/landing-page/) to browse the Chinese version.
+This exhibition is available in both Chinese and English. Click <a rel="noopener noreferrer" target="_blank" href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/holding-area/exhibition-landing-page/landing-page/">here</a>
+to browse the Chinese version.
 
  
 <a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/past/"> <img src="/images/Reading%20Club%20Exhibition/Landing%20Page/Past_Banner3.png" style="width: 100%;"> </a>
