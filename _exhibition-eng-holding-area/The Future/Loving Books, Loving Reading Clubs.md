@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: The Future
 ---
-### **Love of Books, Love of Reading Clubs**
+### **Loving Books, Loving Reading Clubs**
 
 <img src="/images/Reading%20Club%20Exhibition/Future/Portrait_5.png" style="width: 100%;">
 <p style="text-align: center;"><i>Lee Bee Yong</i></p>
