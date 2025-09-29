@@ -107,8 +107,7 @@ in the *Calcutta China Times*.12 After the war, he moved to Singapore in
 1946, working as a translator at *Nanyang Siang Pau* and as a teacher at The
 Chinese High School. Prior to joining *Nanyang Siang Pau*, Xing Ying had
 little experience in editing and translation, and had rejected an offer to be
-the editor of the literary supplement, *Lü Zhou*. He eventually took over editorship of *Wen Feng*, the literary supplement of *Nanyang Siang Pau*, in 1954. 
-Not only was he successful in his journalism career, Xing Ying was a
+the editor of the literary supplement, *Lü Zhou*. He eventually took over editorship of *Wen Feng*, the literary supplement of *Nanyang Siang Pau*, in  1954. Not only was he successful in his journalism career, Xing Ying was a
 good prose writer and wrote books such as *While You Are Young* (趁年轻的
 时候, 1958), *Books and People* (书与人, 1960) and *Century of the Fools* (愚人的
 世纪, 1960), etc. He also contributed regularly to the literary supplements,
