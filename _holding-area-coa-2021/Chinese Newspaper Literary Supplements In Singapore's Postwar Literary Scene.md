@@ -186,6 +186,13 @@ by his other pen names, Wei Bei Hua and Lu Bai Ye (鲁白野).20 Such columns in
 literature to Chinese readers were quite a common sight in the newspaper
 literary supplements of the 1950s.21
 
+<img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Yue_Zi_Geng_s_column.jpg" style="width:50%;">
+ <div style="background-color: white;">Yue Zi Geng’s column,
+Introduction to Indonesia Poetry,
+featuring the poem, “Last Night” (昨夜),
+in <i>Lü Zhou</i> 绿洲, 5 December 1952, 3.
+(Microfilm NL3714)</div>
+
 Each issue contained translated Western literary works, such as the
 poem, “A Slave’s Dream” (一个奴隶的梦), by the American poet Henry
 Wadsworth Longfellow and translated by Lin Qiu (林酋), and “The
