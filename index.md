@@ -9,14 +9,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
-      button: Reading With Molly Today
+      url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
+      button: "Pages of Progress: The Toa Payoh Public Library"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Molly/HeroImage_Molly.jpg
+      background: /images/Vol 21 Issue 2/Toa Payoh/HeroImage_ToaPayoh_2.jpg
       variant: center
+  - infopic:
+      title: "Daylight Robbery: Singapore’s Shifting Time Zones"
+      subtitle: Nature and the Environment
+      id: infopic
+      description: In 1982, Singapore adjusted its time zone to follow Malaysia’s
+        national synchronisation. This was not the only instance that Singapore
+        changes time zone.
+      button: TIME DID NOT STAND STILL
+      url: /vol-21/issue-3/oct-dec-2025/singapore-time-zones/
+      image: /images/Vol 21 Issue 3/Daylight Robbery/Time_Zones_Topics.jpg
+      alt: Daylight Robbery
   - infopic:
       title: "A Mansion in Serangoon: Whampoa House-Bendemeer"
       subtitle: More Places and Buildings
@@ -862,16 +873,15 @@ sections:
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
   - infopic:
-      title: "Daylight Robbery: Singapore’s Shifting Time Zones"
-      subtitle: Nature and the Environment
+      title: New Books on Singapore History (Oct 2025)
+      subtitle: Literature
       id: infopic
-      description: In 1982, Singapore adjusted its time zone to follow Malaysia’s
-        national synchronisation. This was not the only instance that Singapore
-        changes time zone.
-      button: TIME DID NOT STAND STILL
-      url: /vol-21/issue-3/oct-dec-2025/singapore-time-zones/
-      image: /images/Vol 21 Issue 3/Daylight Robbery/Time_Zones_Topics.jpg
-      alt: Daylight Robbery
+      description: A quick look at six new books available in the National Library's
+        collection.
+      button: New Reads
+      url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
+      image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
+      alt: New Books
   - infopic:
       title: Luís de Camões in Asia
       subtitle: People
@@ -905,16 +915,6 @@ sections:
       url: /vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/
       image: /images/Vol 21 Issue 3/Family History/Zupu_Topics.jpg
       alt: An 800-Year-Old Family History
-  - infopic:
-      title: New Books on Singapore History (Oct 2025)
-      subtitle: Literature
-      id: infopic
-      description: A quick look at six new books available in the National Library's
-        collection.
-      button: New Reads
-      url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
-      image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
-      alt: New Books
   - infopic:
       title: The Early History of Air Conditioning in Singapore
       subtitle: Technology
