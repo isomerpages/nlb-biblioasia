@@ -552,6 +552,11 @@ Music with Friends” (与友人学音乐) by Gao Xiu (高秀), “Music and Lif
 Chinese Folk Dance” (我看《跑驴》:中国民间舞蹈) and “The New School
 Song” (新校舍歌) by Shan Ba Zi (山芭子).85
 
+<img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Xin_Miao.jpg" style="width:80%;">
+<div style="background-color: white;"><i>Xin Miao</i> published music scores (middle) and satirical comics (left) alongside the usual
+literary contributions. The scores were presented in Chinese-style numerical notation, rather than
+Western-style notation. 15 March 1958, 19. (Microfilm NL2736)</div>
+
 #### **Conclusion**
 Both* Nanyang Siang Pau* and *Nanfang Evening Post* had significant
 readerships, which contributed to the influence of their literary supplements.
