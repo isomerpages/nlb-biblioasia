@@ -295,6 +295,7 @@ group of talented writers, while Xing Ying focused on nurturing writers,
 accepting many contributions from amateurs.
 
 ***Shi Ji Lu: Maintaining Literary Aesthetics in a Literary Supplement***
+
 Yao Zi edited a total of 65 issues of *Shi Ji Lu* from its inception on 8 October
 1953, to its end on 16 January 1954.43 In that short span, *Shi Ji Lu* became
 one of the most influential literary supplements in Singapore, with many contributors becoming well-known writers and editors, for instance Xing
@@ -380,4 +381,146 @@ Yao Zi replied sarcastically that Huang’s anger seemed misplaced: it suited
 English-school students to watch substandard American movies.61 Despite
 their different editorial philosophies, both editors promoted social justice for
 students in their own way.
+
+***Qing Nian Wen Yi: Nurturing Writers and Promoting Multiculturalism***
+In July 1960, Xing Ying became editor of *Qing Nian Wen Yi* in *Nanyang
+Siang Pau*, which became one of the longest-running literary supplements
+of the 1960s, when some newspapers
+supplements did not last even a month.62
+It ran for 729 issues over nearly six and a
+half years, from 20 July 1960 to 6 February
+1967.63 *Qing Nian Wen Yi* was the last literary
+supplement edited by Xing Ying, and with
+his death, the supplement ended too. The
+tagline in *Qing Nian Wen Yi*’s title plate
+(Figure 5) was a clear statement of its mission:
+“Published every Wednesday, a writing
+platform for the youth”.
+
+*Qing Nian Wen Yi* published poems,
+essays and literature reviews by students.
+Compared to Xing Ying’s prior literary
+supplements, *Wen Feng* and *Xin Miao*, *Qing
+Nian Wen Yi* featured more articles on world
+literature; in this sense, it was more similar
+to Yao Zi’s *Lü Zhou* and *Shi Ji Lu*. Notable
+Western works appeared in translation, such
+as the essay “On National Prejudices” (爱国的偏见) by the Irish writer
+Oliver Goldsmith, and Mark Twain’s essay on writing technique, “How I
+Start Writing Essays” (我怎样开始写文章).64
+
+This international perspective was partly due to Xing Ying’s love for
+foreign literature and exposure to Japan as a teenager. It can also be seen as
+a move to introduce world literature to young readers. Some of Xing Ying’s
+favourite foreign writers were Bernard Shaw, Anton Chekhov, Alexander
+Pushkin, Friedrich Schiller, William Somerset Maugham, Romain Rolland, Leo Tolstoy and Mark Twain. In 1960, Xing Ying was invited by Radio
+Singapore to give a series of 10 lectures on Japanese culture.65
+
+Besides foreign literature, *Qing Nian Wen Yi* published writings related
+to international affairs. For instance, in the issue of 8 March 1961, the
+supplement ran a special column of student poems dedicated to Congo,
+in commemoration of the innocent lives lost during the ongoing Congo
+Crisis.66 Compared to *Wen Feng*, which focused on literary news, *Qing Nian
+Wen Yi* offered broader world news coverage.
+
+*Qing Nian Wen Yi* also published translated articles on Malay literature,
+including M. Zain Salleh’s “The Mission of Literature during Nation
+Building” (建设时期的文学的任务), and an essay titled “An Outstanding
+Malay Poet: Tongkat Warrant” (东革·华兰: 杰出的马来诗人), introducing
+the poet who was better known by his pen name, Osman Awang.67 There
+were also original writings in Chinese on Malay literature, including an
+essay by Bi Cheng (碧澄), who praised Ishak Haji Muhammad for his
+persevering attitude towards writing (依萨哈芝穆哈末: 一位勤于写作的
+马来作家).68 Such articles show that Chinese readers then were interested
+in Malay literature.
+
+#### **The Need for an Additional Supplement: Zhou Mo Qing Nian and Xin Miao**
+The literary supplements edited by Yao Zi and Xing Ying were so popular
+with readers and contributors that new literary supplements – *Zhou Mo
+Qing Nian* in *Nanfang Evening Post*, and *Xin Miao* with *Qing Nian Wen Yi* in *Nanyang Siang Pau* – were created to accommodate the increasing
+number of contributions from young writers. While both editors were
+concerned about the youth of Singapore, Yao Zi focused more on the
+social problems that students faced, while Xing Ying offered the students
+writing advice.
+
+***Zhou Mo Qing Nian and Youth Square***
+Yao Zi was the editor of the weekly literary supplement *Zhou Mo Qing
+Nian*, producing eight issues during his tenure from 1 November 1952
+to 27 December 1952. He created *Zhou Mo Qing Nian* in response to
+aspiring young writers who could not get published in* Lü Zhou*. In an
+editorial, Yao Zi wrote that the articles in *Zhou Mo Qing Nian* might not
+be “up to standard”, but they focused more on content and less on writing
+technique.69
+
+While *Lü Zhou* was more literary, *Zhou Mo Qing Nian* was targeted at
+the youth.70 The articles dealt with issues that concerned this demographic,
+such as education and social justice. Writings on observations about
+society included “Rubber Tappers” (割胶的工人) by Lin Jian (林建) and
+“Unemployment” (失业) by Yuan Yuan (媛媛).71 Other articles gave tips and
+encouragement to young writers who wanted to have their works published
+in newspapers, such as “How to Practise Writing” (怎样练习稿子) by Bu
+Dong Shi (不懂事),72 and “My Experience with Manuscript Rejection” (投稿
+失败给我的经验) by Qin Kai (秦凯).73
+
+As he would later do in *Shi Ji Lu* as well, Yao Zi created a column in
+*Zhou Mo Qing Nian* called Youth Square (青年广场), to allow students to
+give voice to injustices they suffered or observed (Figure 6). Yao Zi made
+it clear that the column was not a place to vent one’s personal anger; its
+purpose was to improve Chinese education in Malaya, by providing a forum
+for those treated unjustly to speak up, so that the school authorities could not turn a blind eye to abuses of power.74 In one case, a student had to
+put his studies on hold for a semester, but the school continued to charge
+tuition fees;75 in another case, a principal was called out for being partial
+in his selection of articles to be published in the school journal.76 The issues might seem immature and trivial, but they were serious matters for the
+supplement’s young readership. Hence, *Zhou Mo Qing Nian* was more than
+a literary supplement for the youth; it was a publication that concerned itself
+with youth welfare.
+
+Besides Youth Square, *Zhou Mo Qing Nian* had another regular feature:
+a poetry column that showcased about five to seven poems by young writers
+in each issue. This demonstrates that Yao Zi was keen to encourage poetry
+writing among the youth, despite his overall emphasis on literary aesthetics.
+The poems tended to revolve around youthful aspirations and experiences,
+such as “Hope” (期待) by Xue Zi (学子), “If” (假使) by Wang Shao Quan
+(王绍全), “Awaking from a Dream” (梦醒) by Fa Yuan (发源), “Forced to
+Move” (迫迁) by Li Yin (李音), and “Laughter by the Seashore” (海滨的
+笑声) by Xiao Ling (小绫).77
+
+***Xin Miao: Music Meets Literature***
+Xing Ying was the editor of *Xin Miao*, the “brother supplement” of *Wen
+Feng*. The publication of these two literary supplements in *Nanyang Siang
+Pau* overlapped by six months, from March to August 1958, which was also
+the lifespan of *Xin Miao*. *Xin Miao* did not have a fixed publication schedule
+– it was initially published thrice a week, but the frequency later dropped to
+once a week. Like Random Notes in *Wen Feng*, *Xin Miao* Mailbox served as
+a forum for readers and Xing Ying to communicate with one another.78
+
+In creating *Xin Miao*, Xing Ying hoped to give secondary school
+students a platform to publish their writings. Ever the nurturer of writers,
+he wrote in his first editorial: “If you keep writing, the article gets better.
+If you keep using the pen, it gets sharper.”79 Singaporean writer Liu Shun
+(柳舜), who used to contribute to *Xin Miao*, recalled that Xing Ying was
+approachable and kind to younger writers, and listened to their concerns.80
+
+*Xin Miao* published fiction, poems, essays, playscripts, illustrations and
+woodblock prints. Similar to *Zhou Mo Qing Nian*, the topics and themes
+were relevant to the lives of younger readers, with articles like “My First Overseas Trip” (我的第一次旅行) by Yang Zhi (杨之).81 Th e issue on 15
+March 1958 (Figure 7), for example, included contributions such as “The
+First Test” (第一次测验), “Mango” (芒果), “Rabbit, Wolf, Elephant, Fox”
+(兔子·狼·大象·狐狸) and “In the Rubber Plantation” (在胶林里).82 Writings
+on local conditions were also popular, such as “Life in the Lower-income
+Class in Singapore and Malaya” (新马的一部分底层生活) by Xue Li Si
+(学裏思), “To the Wet Market” (上巴刹) by Xiao Yun (小韵), “My Village”
+(我的乡村) by Zhu Ying (竹影), “A Fire in Geylang” (芽笼的火灾) by Hong
+Xing (红星), and “Queenstown” (女皇镇), a poem by Gao Bang (高邦).83
+
+*Xin Miao* was also a platform for music education and appreciation,
+with several of the issues featuring musical scores and music-related writing.
+*Xin Miao* published four scores, all composed by Huang Hun (黄昏), with
+lyrics by Hu Yang (湖洋): “Lullaby” (摇篮曲), “Midnight” (子夜), “A Nursery
+Rhyme My Mother Taught Me” (母亲教我一首儿歌) and “Idyllic Fields”
+(田园芳草) (Figure 7).84 Articles with musical themes included “Learning
+Music with Friends” (与友人学音乐) by Gao Xiu (高秀), “Music and Life”
+(音乐与人生) by Yu Si Yi (余思毅), and “My View on ‘Running Donkey’:
+Chinese Folk Dance” (我看《跑驴》:中国民间舞蹈) and “The New School
+Song” (新校舍歌) by Shan Ba Zi (山芭子).85
 
