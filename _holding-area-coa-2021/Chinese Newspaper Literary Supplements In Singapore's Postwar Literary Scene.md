@@ -187,11 +187,8 @@ literature to Chinese readers were quite a common sight in the newspaper
 literary supplements of the 1950s.21
 
 <img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Yue_Zi_Geng_s_column.jpg" style="width:50%;">
- <div style="background-color: white;">Yue Zi Geng’s column,
-Introduction to Indonesia Poetry,
-featuring the poem, “Last Night” (昨夜),
-in <i>Lü Zhou</i> 绿洲, 5 December 1952, 3.
-(Microfilm NL3714)</div>
+<div style="background-color: white;">Yue Zi Geng’s column, Introduction to Indonesia Poetry, featuring the poem, “Last Night” (昨夜),
+in <i>Lü Zhou</i> 绿洲, 5 December 1952, 3. (Microfilm NL3714)</div>
 
 Each issue contained translated Western literary works, such as the
 poem, “A Slave’s Dream” (一个奴隶的梦), by the American poet Henry
@@ -258,6 +255,9 @@ to individual writers. The 19 October 1954 special issue commemorating
 the Chinese writer Lu Xun (魯迅) featured poems and literary criticism on
 his works, and a woodblock print inspired by his novella, *Ah Q*. Lu Xun’s
 portrait was featured in *Wen Feng*’s title plate for that issue (Figure 3).34
+
+<img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Wen_Feng____.jpg" style="width:80%;">
+<div style="background-color: white;"><i>Wen Feng</i> 文风, Special commemorative issue on Lu Xun, 19 October 1954. (Microfilm NL2706)</div>
 
 Despite his lack of prior experience in editing a literary supplement,
 Xing Ying took care to develop writers and also became very popular
