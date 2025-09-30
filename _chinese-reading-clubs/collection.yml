@@ -1,5 +1,4 @@
 collections:
   chinese-reading-clubs:
     output: true
-    order:
-      - 回顾过去.md
+    order: []
