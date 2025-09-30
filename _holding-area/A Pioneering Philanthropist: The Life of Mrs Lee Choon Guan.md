@@ -42,8 +42,7 @@ Tan Keong Saik also supported gender equality, becoming one of the first members
 
 #### **Stepping into High Society**
 
-In 1900, Tan Teck Neo married Lee Choon Guan, a Straits Chinese businessman established in shipping and banking, and an esteemed member of the Chinese community.[^9] In Mr Lee,  
-Tan Teck Neo found not only a wise and cosmopolitan husband, but also an ally and partner.
+In 1900, Tan Teck Neo married Lee Choon Guan, a Straits Chinese businessman established in shipping and banking, and an esteemed member of the Chinese community.[^9] In Mr Lee, Tan Teck Neo found not only a wise and cosmopolitan husband, but also an ally and partner.
 
 Lee Choon Guan and his late wife had had four children together, and now with his marriage to Tan Teck Neo, two more children joined the Lee family: son Pang Soo and daughter Poh Neo. The family subsequently moved into Mandalay Villa at 29 Amber Road, built by Lee Choon Guan’s father Lee Cheng Yan as a holiday bungalow.[^10]
 
