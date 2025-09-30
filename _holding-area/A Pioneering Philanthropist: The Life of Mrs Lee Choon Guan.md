@@ -11,14 +11,14 @@ By Yu-lin Ooi
 <img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_main.png" style="width: 70%;">
 
 
-<div style="background-color: white;">Portrait of Mrs Lee Choon Guan, 1920s. She was made a Member of the Most Excellent Order of the British Empire in 1918 for her charity work and contributions to the British Red Cross during World War I. The medal is pinned on her blouse.  <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Portrait of Mrs Lee Choon Guan, 1920s. She was made a Member of the Most Excellent Order of the British Empire in 1918 for her charity work and contributions to the British Red Cross during World War I. The medal is pinned on her blouse.  <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore. (Media - Image no. 19980005527 - 0086).</i></div>
 
 
 "Wherever there is useful social work to be performed, and it can be performed by ladies, you will find Mrs Lee Choon Guan well to the fore. She is one of the leading spirits of the Children’s Aid Society, and has played an important role in all the recent developments which have as their aim the emancipation and education of Chinese woman \[sic\] in Singapore.”[^1] 
 
 This was what the _Singapore Free Press and Mercantile Advertiser_ wrote in their series, “Personalities of Singapore”, in January 1934. The newspaper added that Mrs Lee Choon Guan was the first woman to ever be featured in the series, and the only Chinese woman in Malaya who had so far been honoured by His Majesty the King.[^2]
 
-Mrs Lee was no stranger to the limelight.The media frequently wrote about her – from her fashion choices to her mission to improve the lives of Singapore women. This was not the first time she had made the news, and it would certainly not be the last.[^3]
+Mrs Lee was no stranger to the limelight. The media frequently wrote about her – from her fashion choices to her mission to improve the lives of Singapore women. This was not the first time she had made the news, and it would certainly not be the last.[^3]
 
 #### **A Woman of Change**
 
