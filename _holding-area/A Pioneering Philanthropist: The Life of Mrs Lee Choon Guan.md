@@ -28,6 +28,13 @@ When Chinese and Peranakan (Straits Chinese) women were still confined at home a
 
 More importantly, Mrs Lee was one of very few women able to bridge the gap between Singapore’s British leaders and the general population, at a time when there was mostly mutual incomprehension. In the early decades of the 20th century, she created a link between Western and Asian sensibilities. For instance, she adopted new ideas from the West such as education for girls, social welfare and philanthropy, and introduced these in her unique and understandable way to Singapore society. She was not a dour do-gooder, but led by example with such glamour and style that the trends she set were eagerly followed by others.&nbsp;
 
+
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_tea.png" style="width: 80%;">
+
+
+<div style="background-color: white;">Mrs Lee Choon Guan at a tea party with British high society, c. 1910.  <i>Courtesy of Allan Chua.</i></div>
+
+
 #### **Scion of an Influential Family**
 
 Mrs Lee’s unusual mindset was the product of an unusual childhood. Born Tan Teck Neo in Singapore in 1877, she was the third daughter of the Melaka-born Peranakan entrepreneur Tan Keong Saik. He had moved to Singapore when it became a crown colony under direct British control in 1867. Tan Keong Saik soon became a prominent leader of the new Chinese community, a member of the Chinese Advisory Board and a Justice of the Peace.[^5]
@@ -43,6 +50,12 @@ Tan Keong Saik also supported gender equality, becoming one of the first members
 #### **Stepping into High Society**
 
 In 1900, Tan Teck Neo married Lee Choon Guan, a Straits Chinese businessman established in shipping and banking, and an esteemed member of the Chinese community.[^9] In Mr Lee, Tan Teck Neo found not only a wise and cosmopolitan husband, but also an ally and partner.
+
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_leechon.png" style="width: 70%;">
+
+
+<div style="background-color: white;">Portrait of Lee Choon Guan.  <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 111. Collection of the National Library Singapore (call no. RRARE 959.57 SON).</i></div>
+
 
 Lee Choon Guan and his late wife had had four children together, and now with his marriage to Tan Teck Neo, two more children joined the Lee family: son Pang Soo and daughter Poh Neo. The family subsequently moved into Mandalay Villa at 29 Amber Road, built by Lee Choon Guan’s father Lee Cheng Yan as a holiday bungalow.[^10]
 
