@@ -137,7 +137,7 @@ Mrs Lee also returned to hosting grand parties at Mandalay. Her beloved annual b
 
 But everything would change again. Singapore fell to the Japanese on 15 February 1942 and the Lees escaped to India. Now it was Mrs Lee’s granddaughter Alice who picked up the baton and volunteered with the Red Cross.&nbsp;
 
-<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_alice.png" style="width: 60%;">
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_alice.png" style="width: 80%;">
 
 
 <div style="background-color: white;">Alice Lee, granddaughter of Mrs Lee Choon Guan serving with the Red Cross in India during World War ll.  <i>Courtesy of Mrs Alice Chua.</i></div>
