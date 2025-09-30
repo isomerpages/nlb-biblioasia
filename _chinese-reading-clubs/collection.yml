@@ -2,5 +2,5 @@ collections:
   chinese-reading-clubs:
     output: true
     order:
-      - 回顾过去.md
       - 新加坡华文读书会线上展览.md
+      - 回顾过去.md
