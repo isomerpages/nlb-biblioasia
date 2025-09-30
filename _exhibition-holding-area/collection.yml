@@ -2,6 +2,7 @@ collections:
   exhibition-holding-area:
     output: true
     order:
+      - 回顾过去.md
       - 立足现在/.keep
       - 立足现在/时间轨迹.md
       - 立足现在/新智文教读书会.md
