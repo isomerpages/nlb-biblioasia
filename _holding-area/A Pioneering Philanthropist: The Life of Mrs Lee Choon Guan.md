@@ -67,6 +67,11 @@ Lee Choon Guan and his late wife had had four children together, and now with hi
 
 Mandalay Villa, by the Katong seaside, came to play an important part in Mrs Lee’s life, for it was here on its beautiful grounds that she gradually established herself as a peerless hostess. The Lees held what became fabled parties and balls for family, friends, high society and charity at the villa. Mrs Lee served drinks on the verandah overlooking the sea and lined the expansive lawn with rows of tables of sumptuous food from the finest local restaurants.[^11]
 
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_drink.png" style="width: 80%;">
+
+
+<div style="background-color: white;">Guests having drinks with Mrs Lee Choon Guan in her favourite spot on the front verandah of Mandalay Villa, c. 1950.  <i>Courtesy of Mrs Alice Chua.  </i></div>
+
 When Mrs Lee’s brother Tan Cheng Kee acquired The Alhambra on Beach Road in 1909,[^12] its famous live orchestra often provided entertainment at these gatherings, playing the latest dance music alternating with _ronggeng_, a popular local Malay dance form.&nbsp;
 
 Each year on Mrs Lee’s birthday on 18 December, the residents of Kampong Amber would hold a parade in her honour to thank the family for letting them live in the kampong almost rent-free and providing them with work as house staff running Mandalay.[^13] These parades were part of the glittering annual birthday balls for Mrs Lee that became highly anticipated events in Singapore’s social calendar. Frequent guests included the sultan and sultana of Johor, the chief justice, and the governor and his wife. Mandalay Villa became a special place for many, including a young Lee Kuan Yew (later prime minister of Singapore), who proposed to Kwa Geok Choo on its grounds after a party there.[^14]
@@ -84,6 +89,11 @@ The Lees were abroad at the outbreak of World War I. Mrs Lee went to England whe
 Mrs Lee was also the first Chinese woman in Singapore to get her driver’s licence, a testament to her independence.[^17]
 
 Sometime around 1915, the press started to document the novel appearance of Chinese women at local society functions. Mrs Lee was frequently present at these events with her husband. News reports described dinners with the governor,[^18] appearances at talks and attendance at the races in Farrer Park. Mrs Lee quickly became a favourite topic for readers, who were fascinated by descriptions of her fancy attire and the way she mingled comfortably with wives across ethnic groups. &nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_races.png" style="width: 80%;">
+
+
+<div style="background-color: white;">Mrs Lee Choon Guan (seated, 2nd from left) and friends at the races, Farrer Park, c. 1918.&nbsp; Note the fashionable and cosmopolitan styles of the ladies’ attire.  <i>Courtesy of Mrs Ivy Kwa. </i></div>
 
 The Lees were often invited to dine with Governor Arthur Young and his wife Lady Evelyn Young, and they reciprocated with invitations to Mandalay Villa. These led to cordial friendships between the two women, and Lady Evelyn began to call upon Mrs Lee to help steer women’s committees. For instance, Mrs Lee represented Singapore women, along with wives of leaders in other local communities, in the consultation with Lady Evelyn on what they should give Queen Mary for her Silver Wedding Day in June 1918.[^19]
 
