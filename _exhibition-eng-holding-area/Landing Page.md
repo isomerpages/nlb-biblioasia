@@ -1,6 +1,6 @@
 ---
 title: Landing Page
-permalink: /exhibition-holding-area/chinese-reading-clubs-eng/
+permalink: /chinese-reading-clubs-eng/
 variant: markdown
 description: ""
 ---

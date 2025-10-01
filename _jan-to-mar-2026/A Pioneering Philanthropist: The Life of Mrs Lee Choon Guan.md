@@ -1,6 +1,6 @@
 ---
 title: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
-permalink: /holding-area/vol-21/issue-4/jan-apr-2026/the-life-of-mrs-lee-choon-guan/
+permalink: /vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/
 variant: markdown
 description: ""
 ---
@@ -11,14 +11,14 @@ By Yu-lin Ooi
 <img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_main.png" style="width: 70%;">
 
 
-<div style="background-color: white;">Portrait of Mrs Lee Choon Guan, 1920s. She was made a Member of the Most Excellent Order of the British Empire in 1918 for her charity work and contributions to the British Red Cross during World War I. The medal is pinned on her blouse.  <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Portrait of Mrs Lee Choon Guan, 1920s. She was made a Member of the Most Excellent Order of the British Empire in 1918 for her charity work and contributions to the British Red Cross during World War I. The medal is pinned on her blouse.  <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore. (Media - Image no. 19980005527 - 0086).</i></div>
 
 
 "Wherever there is useful social work to be performed, and it can be performed by ladies, you will find Mrs Lee Choon Guan well to the fore. She is one of the leading spirits of the Children’s Aid Society, and has played an important role in all the recent developments which have as their aim the emancipation and education of Chinese woman \[sic\] in Singapore.”[^1] 
 
 This was what the _Singapore Free Press and Mercantile Advertiser_ wrote in their series, “Personalities of Singapore”, in January 1934. The newspaper added that Mrs Lee Choon Guan was the first woman to ever be featured in the series, and the only Chinese woman in Malaya who had so far been honoured by His Majesty the King.[^2]
 
-Mrs Lee was no stranger to the limelight.The media frequently wrote about her – from her fashion choices to her mission to improve the lives of Singapore women. This was not the first time she had made the news, and it would certainly not be the last.[^3]
+Mrs Lee was no stranger to the limelight. The media frequently wrote about her – from her fashion choices to her mission to improve the lives of Singapore women. This was not the first time she had made the news, and it would certainly not be the last.[^3]
 
 #### **A Woman of Change**
 
@@ -27,6 +27,13 @@ The press’s fascination with Mrs Lee may be attributed to the fact that she wa
 When Chinese and Peranakan (Straits Chinese) women were still confined at home and described as “quite out of touch with the society of men”,[^4] Mrs Lee was not only frequently seen in public with her husband, but also out and about with friends. When education was thought to be wasted on girls, she was not only literate, but fluent in English and also well travelled. When Chinese women as a whole had no formal economic status, she personally gave money to various causes and was recognised for doing so, both by colonial society and the local press.&nbsp;
 
 More importantly, Mrs Lee was one of very few women able to bridge the gap between Singapore’s British leaders and the general population, at a time when there was mostly mutual incomprehension. In the early decades of the 20th century, she created a link between Western and Asian sensibilities. For instance, she adopted new ideas from the West such as education for girls, social welfare and philanthropy, and introduced these in her unique and understandable way to Singapore society. She was not a dour do-gooder, but led by example with such glamour and style that the trends she set were eagerly followed by others.&nbsp;
+
+
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_tea.png" style="width: 80%;">
+
+
+<div style="background-color: white;">Mrs Lee Choon Guan at a tea party with British high society, c. 1910.  <i>Courtesy of Allan Chua.</i></div>
+
 
 #### **Scion of an Influential Family**
 
@@ -42,8 +49,13 @@ Tan Keong Saik also supported gender equality, becoming one of the first members
 
 #### **Stepping into High Society**
 
-In 1900, Tan Teck Neo married Lee Choon Guan, a Straits Chinese businessman established in shipping and banking, and an esteemed member of the Chinese community.[^9] In Mr Lee,  
-Tan Teck Neo found not only a wise and cosmopolitan husband, but also an ally and partner.
+In 1900, Tan Teck Neo married Lee Choon Guan, a Straits Chinese businessman established in shipping and banking, and an esteemed member of the Chinese community.[^9] In Mr Lee, Tan Teck Neo found not only a wise and cosmopolitan husband, but also an ally and partner.
+
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_leechon.png" style="width: 70%;">
+
+
+<div style="background-color: white;">Portrait of Lee Choon Guan.  <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 111. Collection of the National Library Singapore (call no. RRARE 959.57 SON).</i></div>
+
 
 Lee Choon Guan and his late wife had had four children together, and now with his marriage to Tan Teck Neo, two more children joined the Lee family: son Pang Soo and daughter Poh Neo. The family subsequently moved into Mandalay Villa at 29 Amber Road, built by Lee Choon Guan’s father Lee Cheng Yan as a holiday bungalow.[^10]
 
@@ -54,6 +66,11 @@ Lee Choon Guan and his late wife had had four children together, and now with hi
 
 
 Mandalay Villa, by the Katong seaside, came to play an important part in Mrs Lee’s life, for it was here on its beautiful grounds that she gradually established herself as a peerless hostess. The Lees held what became fabled parties and balls for family, friends, high society and charity at the villa. Mrs Lee served drinks on the verandah overlooking the sea and lined the expansive lawn with rows of tables of sumptuous food from the finest local restaurants.[^11]
+
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_drink.png" style="width: 80%;">
+
+
+<div style="background-color: white;">Guests having drinks with Mrs Lee Choon Guan in her favourite spot on the front verandah of Mandalay Villa, c. 1950.  <i>Courtesy of Mrs Alice Chua.  </i></div>
 
 When Mrs Lee’s brother Tan Cheng Kee acquired The Alhambra on Beach Road in 1909,[^12] its famous live orchestra often provided entertainment at these gatherings, playing the latest dance music alternating with _ronggeng_, a popular local Malay dance form.&nbsp;
 
@@ -72,6 +89,11 @@ The Lees were abroad at the outbreak of World War I. Mrs Lee went to England whe
 Mrs Lee was also the first Chinese woman in Singapore to get her driver’s licence, a testament to her independence.[^17]
 
 Sometime around 1915, the press started to document the novel appearance of Chinese women at local society functions. Mrs Lee was frequently present at these events with her husband. News reports described dinners with the governor,[^18] appearances at talks and attendance at the races in Farrer Park. Mrs Lee quickly became a favourite topic for readers, who were fascinated by descriptions of her fancy attire and the way she mingled comfortably with wives across ethnic groups. &nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_races.png" style="width: 80%;">
+
+
+<div style="background-color: white;">Mrs Lee Choon Guan (seated, 2nd from left) and friends at the races, Farrer Park, c. 1918.&nbsp; Note the fashionable and cosmopolitan styles of the ladies’ attire.  <i>Courtesy of Mrs Ivy Kwa. </i></div>
 
 The Lees were often invited to dine with Governor Arthur Young and his wife Lady Evelyn Young, and they reciprocated with invitations to Mandalay Villa. These led to cordial friendships between the two women, and Lady Evelyn began to call upon Mrs Lee to help steer women’s committees. For instance, Mrs Lee represented Singapore women, along with wives of leaders in other local communities, in the consultation with Lady Evelyn on what they should give Queen Mary for her Silver Wedding Day in June 1918.[^19]
 
@@ -115,17 +137,16 @@ Mrs Lee also returned to hosting grand parties at Mandalay. Her beloved annual b
 
 But everything would change again. Singapore fell to the Japanese on 15 February 1942 and the Lees escaped to India. Now it was Mrs Lee’s granddaughter Alice who picked up the baton and volunteered with the Red Cross.&nbsp;
 
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_alice.png" style="width: 80%;">
+
+
+<div style="background-color: white;">Alice Lee, granddaughter of Mrs Lee Choon Guan serving with the Red Cross in India during World War ll.  <i>Courtesy of Mrs Alice Chua.</i></div>
+
 #### **Leaving a Legacy**
 
 Mrs Lee was 68 years old when she returned to Singapore in 1945. Mandalay Villa was in shambles and Singapore was now looking away from the British towards independence. The Peranakans, at their zenith in a British colonial world, were disappearing as a distinct group, absorbed into the growing Chinese community.&nbsp;
 
 Mrs Lee restored what she could of the villa and continued to support welfare-related activities, involving her grandchildren in the family’s generous ways. She celebrated her 100th birthday on 18 December 1977 and died just two months later on 27 February 1978.[^32]
-
-<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_100.png" style="width: 60%;">
-
-
-<div style="background-color: white;">Mrs Lee Choon Guan at her 100th birthday celebration, 1977. <i>Collection of the Peranakan Museum of Singapore. Gift of the Lim Family.
-</i></div>
 
 Today, Mrs Lee’s philanthropic work carries on through the Mrs Lee Choon Guan Trust Fund, established in 1984, and the Mrs Lee Choon Guan Fund set up by her great-grandson Keith Chua with the Community Foundation of Singapore in 2011.[^33] Her great-grandchildren continue to look for new ways to help society. For her contributions to advancing the welfare of women and supporting women’s causes, Mrs Lee was inducted into the Singapore Women’s Hall of Fame in 2018.[^34]
 
