@@ -48,31 +48,34 @@ In 1996, Chen Shi Ying, father of renowned Hong Kong dancer Tina Chen, visited S
 
 On 13 March 1997, Xin Zhi Reading Club was officially established. Its members embarked on multiple study missions to Malaysia and Taiwan for observation and learning, simultaneously promoting reading concepts whilst enhancing their own expertise. Subsequently, Xin Zhi Reading Club actively promoted Chinese reading and assisted in establishing other reading clubs, such as Fengshan Reading Club in July 1998 and Tea Chapter’s Chinese Reading Club in November 1998, ushering in a new era of flourishing growth for Singapore's Chinese reading clubs.
 
-On 23 April 1999, at the initiative of Xin Zhi Reading Club, National Library Board, *Lianhe Zaobao*'s "Supplement" section, and Xin Zhi Reading Club jointly organised the first "World Book Day in Singapore" event. The opening ceremony was held at News Centre Auditorium, officiated by former Senior Minister of State for Education Peter Chen Min Liang, with local writer Dr Liang Wern Fook sharing his insights.
+On 23 April 1999, at the initiative of Xin Zhi Reading Club, the first “World Book Day in Singapore” event was jointly organised by the National Library Board, *Lianhe Zaobao*’s “Supplement” section and Xin Zhi Reading Club. The opening ceremony was held at News Centre Auditorium, officiated by former Senior Minister of State for Education Peter Chen Min Liang, with local writer Dr Liang Wern Fook sharing his insights.
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_1999_1.png)
-<div style="background-color:white;">1999 "World Book Day in Singapore" Opening Ceremony poster</div>
+<div style="background-color:white;">The opening ceremony poster for the 1999 “World Book Day in Singapore”. </div>
 
 
 
-During 1999 World Book Day, 77 Read Club and Xin Geng Reading Club from Taiwan were invited to share their experiences in organizing learning camps and managing reading clubs. This learning camp trained several reading club leaders and led to the establishment of more reading clubs: Tampines Regional Library Reading Club, Ai Xin Hui Huang Reading Club, CEO Reading Club, and Kim Mui Reading Club.
+During the 1999 World Book Day, 77 Read Club and Xin Geng Reading Club from Taiwan were invited to share their experiences in organising learning camps and managing reading clubs. This learning camp trained several reading club leaders and led to the establishment of more reading clubs: Tampines Regional Library Reading Club, Ai Xin Hui Huang Reading Club, CEO Reading Club, and Kim Mui Reading Club.
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_1999_2.png)
-<div style="background-color:white;">77 Read Club and Xin Geng Reading Club sharing at "World Book Day". <i>Courtesy of Tan Koon Poh</i></div>
+<div style="background-color:white;">77 Read Club and Xin Geng Reading Club sharing at World Book Day 1999.  <i>Courtesy of Tan Koon Poh.</i></div>
 
 
 
-In 2000, Singapore's Chinese reading clubs entered a new phase of development. Eight active reading clubs began collaborating to jointly organise the annual World Book Day activities: Xin Zhi Reading Club, Fengshan Reading Club, Tea Chapter’s Chinese Reading Club, Tampines Regional Library Reading Club, Ai Xin Hui Huang Reading Club, CEO Reading Club, Kim Mui Reading Club, and Geylang East Home for the Aged Reading Club. 
-These reading clubs not only collaborated on joint activities but also actively assisted schools, clan associations, community clubs, and prisons in establishing their own reading clubs. By 2002, the number of reading clubs island-wide had grown to 16. Despite operating with limited resources, these grassroots organisations played pivotal roles in the nascent development of reading clubs and emerged as the driving force behind the annual "World Book Day in Singapore" activities.
+In 2000, Singapore's Chinese reading clubs entered a new phase of development. Eight active reading clubs began collaborating to jointly organise the annual World Book Day activities: Xin Zhi Reading Club, Fengshan Reading Club, Tea Chapter’s Chinese Reading Club, Tampines Regional Library Reading Club, Ai Xin Hui Huang Reading Club, CEO Reading Club, Kim Mui Reading Club and Geylang East Home for the Aged Reading Club. 
+These reading clubs not only collaborated on joint activities but also actively assisted schools, clan associations, community clubs, and prisons in establishing their own reading clubs. 
+
+By 2002, the number of reading clubs island-wide had grown to 16. Despite operating with limited resources, these grassroots organisations played pivotal roles in the nascent development of reading clubs and emerged as the driving force behind the annual "World Book Day in Singapore" activities.
+
 Particularly noteworthy is the establishment of reading clubs in prison. Lawyer Ellen Lee Geck Hoon from Fengshan Reading Club and Xin Zhi Reading Club Chairman Tan Koon Poh began liaising with Singapore prison authorities in 2000, engaging in multiple rounds of dialogue and consultation. Through their persistent advocacy and dedication, they successfully established the Prison Chinese Reading Club and Women's Prison Chinese Reading Club in March 2001.
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2002.png)
-<div style="background-color:white;">Opening a Book: Singapore Chinese Reading Clubs Development Special Edition 2002</div>
+<div style="background-color:white;"><i>Opening a Book: Singapore Chinese Reading Clubs Development Special Edition 2002.</i></div>
 
 
 
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2004.png)
-<div style="background-color:white;">2004 "World Book Day in Singapore" brochure</div>
+<div style="background-color:white;">The publicity brochure for the 2004 “World Book Day in Singapore”.</div>
 
 
 
