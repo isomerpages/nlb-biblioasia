@@ -121,7 +121,7 @@ The handbook "Fragrance of Books in Lion City: 15 Years of Chinese Reading Clubs
 Since 2006, NLB and CPCLL have jointly served as the principal organisers of World Book Day, with various reading clubs sending representatives to the organising committee meetings. This flagship event gradually evolved into an annual gathering that unites Singapore's Chinese reading club community. 
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2007.png)
-<div style="background-color:white;">2007-2014 "World Book Day in Singapore" brochures and posters</div>
+<div style="background-color:white;">Brochures and posters for “World Book Day in Singapore” (2007–2014). <i>Courtesy of Committee to Promote Chinese Language Learning.</i></div>
 
 
 
