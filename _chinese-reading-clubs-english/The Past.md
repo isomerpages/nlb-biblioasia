@@ -131,15 +131,15 @@ To implement the spirit of sharing the joy of reading on World Book Day, CPCLL l
 In 2015, "World Book Day in Singapore" was renamed "World Book Day and Literature Under the April Sky." The phrase “Literature Under the April Sky” was derived from “You are the April of this World”, the title of a modern Chinese poem by Lin Huiyin (Phyllis Whei Yin Lin), a renowned Chinese architect, writer and poet. “April” represents “spring,” symbolising awakening, vitality, hope, and literary creation. This made World Book Day not only a festival of reading but also an opportunity for overseas and local writers to share writing insights with students and cultivate their interest in literary creation.
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2015.png)
-<div style="background-color:white;">2015-2024 " World Book Day and Literature Under the April Sky" brochures</div>
+<div style="background-color:white;">Brochures for “World Book Day in Singapore” (2015–2024). <i>Courtesy of Committee to Promote Chinese Language Learning.</i></div>
 
 
 
 
-From 2015 onwards, World Book Day activities have become increasingly sophisticated, including grand opening ceremonies, inviting overseas and local speakers to address teachers, students, and the public, and organizing reading activities in schools and libraries. Local Chinese reading clubs use this opportunity to conduct reading sharing sessions, promote local and overseas Chinese works, introduce reading clubs, and recruit new members.
+From 2015 onwards, World Book Day activities have become increasingly sophisticated, including grand opening ceremonies, inviting overseas and local speakers to address teachers, students and the public, and organising reading activities in schools and libraries. Local Chinese reading clubs use this opportunity to conduct reading sharing sessions, promote local and overseas Chinese works, introduce reading clubs, and recruit new members.
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2016.png)
-<div style="background-color:white;">2016 " World Book Day and Literature Under the April Sky" Opening Ceremony</div>
+<div style="background-color:white;">The opening ceremony of the 2016 “World Book Day and Literature Under the April Sky”. <i>Courtesy of Committee to Promote Chinese Language Learning.</i></div>
 
 
 
