@@ -9,11 +9,11 @@ third_nav_title: The Present
 
 
 <br><br>
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/xin-zhi/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_1997.png" style="width: 100%;"> </a>
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/sg-writings/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_1998.png" style="width: 100%;"> </a>
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/ceo/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_1999.png" style="width: 100%;"> </a>
+<a href="https://biblioasia.nlb.gov.sg/chinese-reading-clubs/english/present/xin-zhi/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_1997.png" style="width: 100%;"> </a>
+<a href="https://biblioasia.nlb.gov.sg/chinese-reading-clubs/english/present/sg-writings/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_1998.png" style="width: 100%;"> </a>
+<a href="https://biblioasia.nlb.gov.sg/chinese-reading-clubs/english/present/ceo/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_1999.png" style="width: 100%;"> </a>
 <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2001.png" style="width: 100%;"> 
-<a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/prison/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2001a.png" style="width: 100%;"> </a>
+<a href="https://biblioasia.nlb.gov.sg/chinese-reading-clubs/english/present/prison/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2001a.png" style="width: 100%;"> </a>
 <a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/women-prison/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2001b.png" style="width: 100%;"> </a>
 <a href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/exhibition-holding-area/eng/present/hanlin/"> <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2003.png" style="width: 100%;"> </a>
 <img src="/images/Reading%20Club%20Exhibition/TimelineEng/Timeline_ENG_2005.png" style="width: 100%;"> 
