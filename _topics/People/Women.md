@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/">A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan</a>
+
+One of Singapore’s first women philanthropists, Mrs Lee, née Tan Teck Neo, supported a wide range of charities.
+
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philianthropist_races_Topics.jpg" style="width:100%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/">Women Photographers in Singapore and Malaya</a>
 
 In the male-dominated world of 1940s and 1950s photography, three women in Singapore and Malaya found different ways to participate in their craft.
