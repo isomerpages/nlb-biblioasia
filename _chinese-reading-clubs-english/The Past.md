@@ -95,24 +95,25 @@ Concurrently, the Committee to Promote Chinese Language Learning (CPCLL) was est
 
 
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2006_1.png)
-<div style="background-color:white;">Hairdressers Reading Club. The National Library Board recently took the lead in organising the first reading club for hairdressers, inviting them to share their thoughts and insights after reading books. 2 June 2006. <i>(SPH-ID: 9076042, Photo: ZB) Source: Lian He Zao Bao © SPH Media Limited. Permission required for reproduction for this photo.</i></div>
+<div style="background-color:white;">Hairdressers Reading Club. The National Library Board took the lead in organising the first reading club for hairdressers, inviting them to share their thoughts and insights after reading books, 2 June 2006. <i>(SPH-ID: 9076042, Photo: ZB). Source: Lianhe Zaobao © SPH Media Limited. Permission required for reproduction for this photo.</i></div>
 
 
 
 
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2006_2.png)
-<div style="background-color:white;">2006 "World Book Day in Singapore" poster</div>
+<div style="background-color:white;">The publicity brochure for the 2006 “World Book Day in Singapore”.</div>
 
 
 
 
 #### **Steady Progress Stage**
-Entering the 2010s, Chinese reading clubs transitioned from a developmental phase to a period of stabilisation. As social organisations that depend on regular programming and structured governance, reading clubs face inherent sustainability challenges. Many previously established Chinese reading clubs proved transient, gradually losing momentum before eventually discontinuing their activities. Those that endured were typically steered by individuals with exceptional organisational capabilities and skilled reading facilitators.
+Entering the 2010s, Chinese reading clubs transitioned from a developmental phase to a period of stabilisation. As social organisations that depend on regular programming and structured governance, reading clubs face inherent sustainability challenges. Many previously established Chinese reading clubs proved transient, gradually losing momentum before eventually discontinuing their activities. Those that endured were typically led by individuals with exceptional organisational capabilities and skilled reading facilitation abilities.
+
 The handbook "Fragrance of Books in Lion City: 15 Years of Chinese Reading Clubs in Singapore (1997-2012)" produced by Xin Zhi Reading Club recorded information about 12 active reading clubs at the time, including Xin Zhi Reading Club, CEO Reading Club, Taxi Shifu Reading Club, Bishan CC Women’s Executive Committee Reading Club, Xin Sheng Poets' Society Reading Club, and others.
  
 
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2012.png)
-<div style="background-color:white;">The handbook " Fragrance of Books in Lion City: 15 Years of Chinese Singapore Reading Clubs (1997-2012)"</div>
+<div style="background-color:white;">The handbook <i>Fragrance of Books in Lion City: 15 Years of Chinese Singapore Reading Clubs (1997-2012)</i>. <i>Courtesy of Tan Koon Poh.</i></div>
 
 
 
