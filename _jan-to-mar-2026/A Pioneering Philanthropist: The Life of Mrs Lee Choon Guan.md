@@ -148,12 +148,6 @@ Mrs Lee was 68 years old when she returned to Singapore in 1945. Mandalay Villa 
 
 Mrs Lee restored what she could of the villa and continued to support welfare-related activities, involving her grandchildren in the family’s generous ways. She celebrated her 100th birthday on 18 December 1977 and died just two months later on 27 February 1978.[^32]
 
-<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philanthropist_100.png" style="width: 60%;">
-
-
-<div style="background-color: white;">Mrs Lee Choon Guan at her 100th birthday celebration, 1977. <i>Collection of the Peranakan Museum of Singapore. Gift of the Lim Family.
-</i></div>
-
 Today, Mrs Lee’s philanthropic work carries on through the Mrs Lee Choon Guan Trust Fund, established in 1984, and the Mrs Lee Choon Guan Fund set up by her great-grandson Keith Chua with the Community Foundation of Singapore in 2011.[^33] Her great-grandchildren continue to look for new ways to help society. For her contributions to advancing the welfare of women and supporting women’s causes, Mrs Lee was inducted into the Singapore Women’s Hall of Fame in 2018.[^34]
 
 
