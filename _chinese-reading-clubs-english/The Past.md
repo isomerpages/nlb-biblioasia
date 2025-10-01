@@ -79,17 +79,19 @@ Particularly noteworthy is the establishment of reading clubs in prison. Lawyer 
 
 
 
-In 2005, Singapore's reading promotion efforts achieved two major breakthroughs. The National Library Board launched the groundbreaking multilingual "READ! Singapore" campaign, leveraging all four official languages as platforms to cultivate reading habits across society by assisting diverse groups in establishing reading clubs.  Driven by this campaign, reading club development expanded beyond traditional boundaries to include taxi drivers, hairdressers, healthcare workers, schools, and government agencies. Concurrently, the Committee to Promote Chinese Language Learning (CPCLL) was established in 2005, with a mandate to strengthen collaboration between schools, community organisations, and media outlets. In 2006, "World Book Day in Singapore" activities entered a transformative new phase. For the first time, CPCLL co-organised this flagship event alongside NLB, Xin Zhi Reading Club, and the Singapore Chinese Teachers' Union.
+In 2005, Singapore's reading promotion efforts achieved two major breakthroughs. The National Library Board launched the groundbreaking multilingual "READ! Singapore" campaign, leveraging all four official languages as platforms to cultivate reading habits across society by assisting diverse groups to establish reading clubs.  Driven by this campaign, reading club development expanded beyond traditional boundaries to include taxi drivers, hairdressers, healthcare workers, schools and government agencies. 
+
+Concurrently, the Committee to Promote Chinese Language Learning (CPCLL) was established in 2005, with a mandate to strengthen collaboration between schools, community organisations and media outlets. In 2006, "World Book Day in Singapore" activities entered a transformative new phase. For the first time, CPCLL co-organised this flagship event alongside NLB, Xin Zhi Reading Club and the Singapore Chinese Teachers' Union.
  
  
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2005_1.png)
-<div style="background-color:white;">2005 "READ! Singapore" Guide to Chinese Language Activities </div>
+<div style="background-color:white;">The 2005 READ! Singapore guide to Chinese language activities.  </div>
 
  
 
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2005_2.png)
-<div style="background-color:white;">Two taxi drivers reading during their leisure time. They are members of the newly established Taxi Shifu Reading Club. 27 July 2005.<i>(SPH-ID : 7793466, Photo: ST) Source: The Straits Times © SPH Media Limited. Permission required for reproduction for this photo.</i></div>
+<div style="background-color:white;">Two taxi drivers reading during their leisure time. They are members of the Taxi Shifu Reading Club, 27 July 2005.<i> (SPH-ID : 7793466, Photo: ST). Source: Straits Times © SPH Media Limited. Permission required for reproduction for this photo.</i></div>
 
 
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2006_1.png)
