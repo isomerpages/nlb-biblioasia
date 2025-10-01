@@ -9,7 +9,7 @@ variant: markdown
 
 One of Singapore’s first women philanthropists, Mrs Lee, née Tan Teck Neo, supported a wide range of charities.
 
-<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philianthropist_races_Topics.jpg" style="width:100%;">
+<img src="/images/Vol%2021%20Issue%204/A%20Pioneering%20Philanthropist/Philianthropist_races_Topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/">Women Photographers in Singapore and Malaya</a>
