@@ -1,5 +1,5 @@
 collections:
-  exhibition-eng-holding-area:
+  chinese-reading-clubs-english:
     output: true
     order:
       - Landing Page.md
