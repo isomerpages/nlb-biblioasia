@@ -7,6 +7,11 @@ description: ""
 #### In a BiblioAsia+ podcast episode, Simon Tay – lawyer, academic and winner of the 2010 Singapore Literature Prize – tells us how his Penang-born father came to play a giant role serving a newly independent Singapore.
 
 
+<img src="/images/Vol%2021%20Issue%204/Spy/Spy_main.png" style="width: 80%;">
+
+
+<div style="background-color: white;">Tay Seow Huah (bottom right) at a press conference on the Laju hijacking incident, 1974.  <i> Courtesy of Simon Tay.</i></div>
+
 
 Tay Seow Huah, then Permanent Secretary for the Ministry of Home Affairs, helmed Singapore’s response to the 1974 Laju hijacking. This was when four terrorists tried (but failed) to destroy Shell’s oil infrastructure on Pulau Bukom Besar and subsequently took five hostages. &nbsp;
 
@@ -47,6 +52,12 @@ And Mr Nathan’s book went into great detail. Of course, the newspapers covered
   
 
 **Jimmy:** We know that President Nathan was part of a team of Singaporeans who accompanied the four hijackers to Kuwait to guarantee their safety. And I think your father was or was perhaps possibly one of those people who was supposed to have gone on, but didn’t. In your book, you talked about that.
+
+
+<img src="/images/Vol%2021%20Issue%204/Spy/Spy_portrait.png" style="width:65%;">
+
+
+<div style="background-color: white;"> Simon Tay: lawyer, academic and winner of the 2010 Singapore Literature Prize.  <i> Photo by Jimmy Yap. </i></div>
 
 
 
