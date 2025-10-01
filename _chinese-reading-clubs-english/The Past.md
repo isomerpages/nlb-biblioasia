@@ -126,7 +126,9 @@ Since 2006, NLB and CPCLL have jointly served as the principal organisers of Wor
 
 
 
-To implement the spirit of sharing the joy of reading on World Book Day, CPCLL launched "World Book Day@Campus" in 2012, a month-long initiative encouraging teachers to organise classroom reading activities during the World Book Day period. In 2015, "World Book Day in Singapore" was renamed "World Book Day and Literature Under the April Sky." The " Literature Under the April Sky" derives from “You are the April of this World”, which is the title of a Chinese modern poem by Lin Huiyin (Phyllis Whei Yin Lin), a renowned Chinese architect, writer and poet, where "April" represents "spring," symbolizing awakening, vitality,  hope,  and literary creation. This made World Book Day not only a festival of reading but also an opportunity for overseas and local writers to share writing insights with students and cultivate their interest in literary creation.
+To implement the spirit of sharing the joy of reading on World Book Day, CPCLL launched "World Book Day@Campus" in 2012, a month-long initiative encouraging teachers to organise classroom reading activities during the World Book Day period. 
+
+In 2015, "World Book Day in Singapore" was renamed "World Book Day and Literature Under the April Sky." The phrase “Literature Under the April Sky” was derived from “You are the April of this World”, the title of a modern Chinese poem by Lin Huiyin (Phyllis Whei Yin Lin), a renowned Chinese architect, writer and poet. “April” represents “spring,” symbolising awakening, vitality, hope, and literary creation. This made World Book Day not only a festival of reading but also an opportunity for overseas and local writers to share writing insights with students and cultivate their interest in literary creation.
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2015.png)
 <div style="background-color:white;">2015-2024 " World Book Day and Literature Under the April Sky" brochures</div>
