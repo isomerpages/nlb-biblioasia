@@ -15,32 +15,40 @@ The evolution of Singapore's Chinese reading clubs can be broadly categorised in
 * &nbsp; Early germination stage (pre-1990s) 
 * &nbsp; Flourishing development stage (1990s–2000s)
 * &nbsp; Steady progress stage (2010s–present)
+
 This exhibition uses a chronological framework to illustrate the emergence, development, and growth of Chinese reading clubs, as well as the key milestone events in this process.
 
 #### **Early Germination Stage**
 
 Although formal records of early Chinese reading clubs are lacking, reading activities had already been nurtured and grown in three major domains:
-Clan associations: From the 1840s onwards, Hokkien Huay Kuan, Hainan Hwee Kuan, Teochew Poit Ip Huay Kuan and others were established successively. Besides setting up reading rooms, they also undertook the important mission of cultural heritage preservation. These venues became important places for early reading activities.
-Schools: Beginning with Chongwen Ge in 1849 and Chui Eng Si E (also known as Chui Eng Free School) in 1854, to Chinese schools founded by local Chinese leaders like Tan Kah Kee including Tao Nan School, Chung Cheng High School, Chinese High School and Nanyang Girls' High School, all were important drivers of reading culture. School libraries became fertile ground for nurturing reading culture.
-Bookstores: From the Commercial Press establishing a branch in Singapore in 1912, Chung Hwa Book Company setting up a branch in 1917, to the addition of Union Book Company in the 1950s, bookstores not only sold books but also became cultural spaces for literati to exchange ideas. The flourishing reading culture of the 1950s and 1960s further promoted the development of the bookstore industry.
+
+**Clan associations**: From the 1840s onwards, Hokkien Huay Kuan, Hainan Hwee Kuan, Teochew Poit Ip Huay Kuan and others were established successively. Besides setting up reading rooms, they also undertook the important mission of cultural heritage preservation. These venues became important places for early reading activities.
+
+**Schools**: Beginning with Chongwen Ge in 1849 and Chui Eng Si E (also known as Chui Eng Free School) in 1854, to Chinese schools founded by local Chinese leaders like Tan Kah Kee including Tao Nan School, Chung Cheng High School, Chinese High School and Nanyang Girls' High School, all were important drivers of reading culture. School libraries became fertile ground for nurturing reading culture.
+
+**Bookstores**: From the Commercial Press establishing a branch in Singapore in 1912, Chung Hwa Book Company setting up a branch in 1917, to the addition of Union Book Company in the 1950s, bookstores not only sold books but also became cultural spaces for literati to exchange ideas. The flourishing reading culture of the 1950s and 1960s further promoted the development of the bookstore industry.
 
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_1965.png)
-<div style="background-color:white;">1965: The bustling scene during Shanghai Book Company's book sale. <i>Courtesy of Shanghai Book Company</i></div>
+<div style="background-color:white;">1965: The bustling scene during Shanghai Book Company's book sale. <i>Courtesy of Shanghai Book Company.</i></div>
 
 
 Before the 1980s, Singapore's three public libraries (Central, Toa Payoh, Queenstown) also organised reading clubs, mainly targeting secondary school students, but these were gradually discontinued due to insufficient manpower.
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_1970.png)
-<div style="background-color:white;">The packed reading room of Queenstown Branch Library, 1970s. <i>PictureSG, National Library, Singapore.</i></div>
+<div style="background-color:white;">The packed reading room of Queenstown Branch Library, 1970s. <i>Collection of the National Library Singapore. </i></div>
 
 
 
-#### **Flourishing development stage**
-The year 1995 marked a watershed moment for Singapore's Chinese reading clubs. That year witnessed the official establishment of the National Library Board (NLB), which centralised the planning and management of library resources across the island. Concurrently, in November, UNESCO designated 23 April as "World Book and Copyright Day"—commonly known as "World Book Day"—thereby injecting fresh momentum into reading promotion efforts worldwide.
-Against this favourable backdrop, Singapore's first officially registered Chinese reading club was to be born. In 1996, Chen Shi Ying, father of renowned Hong Kong dancer Tina Chen, visited Singapore and shared the inspiring success story of Taiwan's 77 Read Club with Dr Soh Kay Cheng of Catalysts of Knowledge Club (later renamed to Sing Zhi Culture &amp; Education Development Association). This chance encounter planted the seeds for local reading club development. Catalysts of Knowledge Club subsequently dispatched representatives to Taiwan for observational study tours to absorb best practices.
+#### **Flourishing Development Stage**
+The year 1995 marked a watershed moment for Singapore's Chinese reading clubs. That year witnessed the official establishment of the National Library Board (NLB), which centralised the planning and management of library resources across the island. Concurrently, in November, UNESCO designated 23 April as "World Book and Copyright Day"–commonly known as "World Book Day"–thereby injecting fresh momentum into reading promotion efforts worldwide.
+Against this favourable backdrop, Singapore's first officially registered Chinese reading club was to be born. 
+
+In 1996, Chen Shi Ying, father of renowned Hong Kong dancer Tina Chen, visited Singapore and shared the inspiring success story of Taiwan's 77 Read Club with Dr Soh Kay Cheng of Catalysts of Knowledge Club (later renamed to Sing Zhi Culture &amp; Education Development Association). This chance encounter planted the seeds for local reading club development. Catalysts of Knowledge Club subsequently dispatched representatives to Taiwan for observational study tours to absorb best practices.
+
 On 13 March 1997, Xin Zhi Reading Club was officially established. Its members embarked on multiple study missions to Malaysia and Taiwan for observation and learning, simultaneously promoting reading concepts whilst enhancing their own expertise. Subsequently, Xin Zhi Reading Club actively promoted Chinese reading and assisted in establishing other reading clubs, such as Fengshan Reading Club in July 1998 and Tea Chapter’s Chinese Reading Club in November 1998, ushering in a new era of flourishing growth for Singapore's Chinese reading clubs.
-On 23 April 1999, at the initiative of Xin Zhi Reading Club, National Library Board, Lianhe Zaobao's "Supplement" section, and Xin Zhi Reading Club jointly organised the first "World Book Day in Singapore" event. The opening ceremony was held at News Centre Auditorium, officiated by former Senior Minister of State for Education Peter Chen Min Liang, with local writer Dr. Liang Wern Fook sharing his insights.
+
+On 23 April 1999, at the initiative of Xin Zhi Reading Club, National Library Board, *Lianhe Zaobao*'s "Supplement" section, and Xin Zhi Reading Club jointly organised the first "World Book Day in Singapore" event. The opening ceremony was held at News Centre Auditorium, officiated by former Senior Minister of State for Education Peter Chen Min Liang, with local writer Dr Liang Wern Fook sharing his insights.
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_1999_1.png)
 <div style="background-color:white;">1999 "World Book Day in Singapore" Opening Ceremony poster</div>
