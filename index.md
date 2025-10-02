@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Toa Payoh/HeroImage_ToaPayoh_2.jpg
       variant: center
   - infopic:
+      title: New Books on Singapore History (Oct 2025)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at six new books available in the National Library's
+        collection.
+      button: New Reads
+      url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
+      image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
+      alt: New Books
+  - infopic:
       title: "Daylight Robbery: Singapore’s Shifting Time Zones"
       subtitle: Nature and the Environment
       id: infopic
@@ -872,16 +882,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: New Books on Singapore History (Oct 2025)
-      subtitle: Literature
-      id: infopic
-      description: A quick look at six new books available in the National Library's
-        collection.
-      button: New Reads
-      url: /vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/
-      image: /images/Vol 21 Issue 3/New Books/newbooksOCT25.png
-      alt: New Books
   - infopic:
       title: Luís de Camões in Asia
       subtitle: People
