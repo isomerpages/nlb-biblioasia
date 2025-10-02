@@ -462,9 +462,8 @@ by one point in the small ad that I saw and it said special grade $1,000
 and above. To me it was a gold mine.</p>
 <p><strong>Jimmy</strong><br>
 Okay. This was more than what you were getting paid as a teacher?</p>
-<p><strong>Cheong</strong>
-</p>
-<p>Oh yes, oh yes. A lot. Five times more.</p>
+<p><strong>Cheong</strong><br>
+Oh yes, oh yes. A lot. Five times more.</p>
 <p><strong>Jimmy</strong><br>
 Oh, okay. I would have been...</p>
 <p><strong>Cheong</strong><br>
@@ -528,9 +527,8 @@ is not available in bookstores. It is available in the library for you
 to borrow.</p>
 <p><strong>Cheong</strong><br>
 And it's also available on Kindle.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Both editions?</p>
+<p><strong>Jimmy</strong><br>
+Both editions?</p>
 <p><strong>Cheong</strong><br>
 No, no, the first book<em> OB Markers.</em>
 </p>
