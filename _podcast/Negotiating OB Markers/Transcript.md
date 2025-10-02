@@ -571,48 +571,38 @@ to borrow.</p>
 </p>
 <p>No, no, the first book<em> OB Markers.</em>
 </p>
-<p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
 <p>Oh, it's available on Kindle.</p>
-<p>&nbsp;</p>
 <p><strong>Cheong</strong>
 </p>
 <p>That is available on Kindle because<s>,</s> when I was pressing the <em>Straits Times</em>,
 when are you going to do a reprint,<s>.</s>  <s>B</s>because if you're not
 going to do a reprint, the copyright reverts to me entirely.</p>
-<p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
 <p>Yes.</p>
-<p>&nbsp;</p>
 <p><strong>Cheong</strong>
 </p>
 <p>They don't want to lose the copyright. So they come to me by saying that
 I put it on Kindle.</p>
-<p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
 <p>Oh, okay. Okay.</p>
-<p>&nbsp;</p>
 <p><strong>Cheong</strong>
 </p>
 <p>That was a very brilliant move on their part.</p>
-<p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
 <p>Cheong, thank you once again for coming on the show. And it's been a pleasure
 having you and I wish you good luck in your future endeavours.</p>
-<p>&nbsp;</p>
 <p><strong>Cheong</strong>
 </p>
 <p>Thank you Jimmy, it has been an interesting experience today.</p>
-<p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
 <p>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
 Thanks for joining us on <em>BiblioAsia</em>+.</p>
-<p>&nbsp;</p>
 <p>[Music playing]
 <br>
 <br>If you’ve enjoyed this episode, subscribe to this podcast and the&nbsp;<em>BiblioAsia</em>&nbsp;
