@@ -35,7 +35,6 @@ podcast, Cheong. It's very good to have you on the show.
 <br>Let's dive right in. You know, your first book, <em>OB Markers, </em>which
 was published in 2013. Why do we need a sequel? What exciting things happened
 between 2013 and now?</p><p></p>
-<p>&nbsp;</p>
 <p><strong>Cheong</strong>
 <br>Well, what happened was that there was one morning when my neighbours
 and I were having breakfast at Ghim Moh market, and one of them, one of
