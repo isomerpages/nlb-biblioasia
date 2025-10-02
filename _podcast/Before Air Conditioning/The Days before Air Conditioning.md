@@ -6,9 +6,9 @@ description: ""
 image: /images/Podcast/Fiona_Williamson_600_400.jpg
 third_nav_title: Before Air Conditioning
 ---
-<p>Before air-conditioning was introduced in Singapore in the 1920s, temperature
+<p>Before air conditioning was introduced in Singapore in the 1920s, temperature
 control was a matter of architectural design. Environmental historian Fiona
-Williamson tells us how people kept themselves cool before air-conditioning
+Williamson tells us how people kept themselves cool before air conditioning
 arrived, why weather science was important to the colonial enterprise,
 and what environmental history can tell us about a city’s development.
 &nbsp;</p>
