@@ -31,8 +31,7 @@ Here to talk about his latest book is Cheong himself. Welcome to the <em>BiblioA
 podcast, Cheong. It's very good to have you on the show.</p>
 <p>&nbsp;</p>
 <p><strong>Cheong</strong>
-</p>
-<p>Thank you, Jimmy. It's a pleasure to be here.</p>
+<br>Thank you, Jimmy. It's a pleasure to be here.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
@@ -56,16 +55,14 @@ was not interested. So the person who raised this point with me at breakfast
 was the guy who used to work for Simon &amp; Schuster, and he knew somebody
 from Simon &amp; Schuster who is now with World Scientific Publishing.
 And he knew that there was material that I could use for subsequent books,
-and that was what started the ball rolling.</p>
-<p>&nbsp;</p>
+and that was what started the ball rolling.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay, why should someone read this book <em>Ink and Influence</em>? You
 know, what additional material is that? And in what way is it different
-from your first book?</p>
-<p>&nbsp;</p>
-<p><strong>Cheong</strong>
-</p>
-<p>My first book is actually intended primarily for journalists, so that
+from your first book?
+<br>
+<br><strong>Cheong</strong>
+<br>My first book is actually intended primarily for journalists, so that
 they know the industry that they're going into, the challenges that they
 will face, the opportunities that are available to them. And I wanted the
 book to also encourage young, talented people to join the industry, because
