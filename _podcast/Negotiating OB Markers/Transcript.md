@@ -132,7 +132,7 @@ Well, I had mixed feelings. I knew the ins and outs of our negotiations
 with him with Lee Kuan Yew on how we can stabilise the relationship. There
 were many attempts over many months, but nothing came out of it. So I wasn't
 totally surprised by the change. But on the other hand, I was personally
-quite happy to continue as Peter's deputy.<p></p>
+quite happy to continue as Peter's deputy.
 I thought we made a good team and there was no need for change. But since
 change was forced on us, I just had to accept that the <em>Straits Times</em> is
 an important Singapore institution. I think I have a contribution to make
@@ -535,4 +535,28 @@ No, no, the first book<em> OB Markers.</em>
 <p><strong>Jimmy</strong><br>
 Oh, it's available on Kindle.</p>
 <p><strong>Cheong</strong><br>
-That is available on Kindle, because  </p>
+That is available on Kindle, because  </p><s>,</s> when I was pressing the <em>Straits Times</em>,
+when are you going to do a reprint,<s>.</s>  <s><s>because if you're not
+going to do a reprint, the copyright reverts to me entirely.</s></s><p></p><s><s>
+<p><strong>Jimmy</strong><br>
+Yes.</p>
+<p><strong>Cheong</strong><br>
+They don't want to lose the copyright. So they come to me by saying that
+I put it on Kindle.</p>
+<p><strong>Jimmy</strong><br>
+Oh, okay. Okay.</p>
+<p><strong>Cheong</strong><br>
+That was a very brilliant move on their part.</p>
+<p><strong>Jimmy</strong><br>
+Cheong, thank you once again for coming on the show. And it's been a pleasure
+having you and I wish you good luck in your future endeavours.</p>
+<p><strong>Cheong</strong><br>
+Thank you Jimmy, it has been an interesting experience today.</p>
+<p><strong>Jimmy</strong><br>
+If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
+Thanks for joining us on <em>BiblioAsia</em>+.</p>
+<p>[Music playing]
+<br>
+<br>If you’ve enjoyed this episode, subscribe to this podcast and the&nbsp;<em>BiblioAsia</em>&nbsp;
+<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on&nbsp;<em>BiblioAsia+.</em>
+</p></s></s>
