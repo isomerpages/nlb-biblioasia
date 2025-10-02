@@ -536,8 +536,8 @@ No, no, the first book<em> OB Markers.</em>
 Oh, it's available on Kindle.</p>
 <p><strong>Cheong</strong><br>
 That is available on Kindle, because  </p><s>,</s> when I was pressing the <em>Straits Times</em>,
-when are you going to do a reprint,<s>.</s>  <s><s>because if you're not
-going to do a reprint, the copyright reverts to me entirely.</s></s><p></p><s><s>
+when are you going to do a reprint, because if you're not
+going to do a reprint, the copyright reverts to me entirely.<p></p>
 <p><strong>Jimmy</strong><br>
 Yes.</p>
 <p><strong>Cheong</strong><br>
@@ -559,4 +559,4 @@ Thanks for joining us on <em>BiblioAsia</em>+.</p>
 <br>
 <br>If you’ve enjoyed this episode, subscribe to this podcast and the&nbsp;<em>BiblioAsia</em>&nbsp;
 <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on&nbsp;<em>BiblioAsia+.</em>
-</p></s></s>
+</p>
