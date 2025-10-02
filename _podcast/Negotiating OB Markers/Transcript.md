@@ -71,8 +71,7 @@ book, which I could expand into a sequel.<p></p>
 <p><strong>Jimmy</strong>
 <br>Okay. Maybe you can tell us a little bit about it.</p>
 <p><strong>Cheong</strong>
-</p>
-<p>The additional ground that I had was to give more coverage to key moments
+</p><p>The additional ground that I had was to give more coverage to key moments
 in our history, which I felt is important for Singaporeans to know. For
 example, that major speech that Lee Kuan Yew made in the Malaysian Parliament
 when the PAP [People’s Action Party] was in opposition in Malaysia. That
@@ -82,18 +81,15 @@ nearly the entire stretch of my tenure. And I was very fortunate that he
 gave me a lot of time not to talk about work, but to go back into Singapore's
 history. So he gave me a lot of material, which I felt, you know, is valuable
 to share, because the Singapore story is a wonderful story.</p>
-<p>&nbsp;</p>
 <p>But not many Singaporeans take the trouble to go into it. And I thought
 that it would be a pity if people like me at my age, having gone through
 so much, do not share these stories. And I feel that the stories would
 be of some help to younger Singaporeans to understand how the country came
 about. What are the milestones in our story over 60 years?</p>
-<p>&nbsp;</p>
 <p>And I also decided that some of my journalistic experiences, for example,
 during my travels going to China, going to work in Hong Kong, and some
 of the things that our journalists did for society. After they've left
 the profession, going into the arts, for example, SingLit.</p>
-<p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
 <p>Maybe you can tell us a bit about, you know, how the decision led to you
