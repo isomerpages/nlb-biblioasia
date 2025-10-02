@@ -34,9 +34,9 @@ podcast, Cheong. It's very good to have you on the show.</p>
 <br>Thank you, Jimmy. It's a pleasure to be here.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong></p>
-<p>Let's dive right in. You know, your first book, <em>OB Markers, </em>which
+Let's dive right in. You know, your first book, <em>OB Markers, </em>which
 was published in 2013. Why do we need a sequel? What exciting things happened
-between 2013 and now?</p>
+between 2013 and now?<p></p>
 <p>&nbsp;</p>
 <p><strong>Cheong</strong>
 </p>
