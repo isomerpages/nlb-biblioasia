@@ -6,9 +6,9 @@ description: Negotiating OB Markers When Running the Straits Times
 image: /images/Podcast/Cheong_Yip_Seng_600_by_400.jpg
 third_nav_title: Negotiating OB Markers
 ---
-<p>Former <em>Straits Times</em> editor-in-chief Cheong Yip Seng tells us about
-how he negotiated OB markers with the government during his tenure (1987–2006),
-how he juggled the interests of the paper’s stakeholders, and which news
+<p>Former <em>Straits Times</em> editor-in-chief Cheong Yip Seng tells us how
+he negotiated OB markers with the government during his tenure (1987–2006),
+how he balanced the interests of the paper’s stakeholders, and which news
 story he nearly went to jail for.</p>
 <p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
