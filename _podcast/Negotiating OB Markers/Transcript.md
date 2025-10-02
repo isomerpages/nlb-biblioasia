@@ -29,10 +29,8 @@ Cheong wrote his memoirs <em><a href="https://eservice.nlb.gov.sg/redir/itemdeta
 Now in 2025, he has written a sequel titled <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300118049" rel="noopener noreferrer nofollow" target="_blank">Ink and Influence</a></em>.
 Here to talk about his latest book is Cheong himself. Welcome to the <em>BiblioAsia</em>+
 podcast, Cheong. It's very good to have you on the show.</p>
-<p>&nbsp;</p>
-<p><strong>Cheong</strong>
-<br>Thank you, Jimmy. It's a pleasure to be here.</p>
-<p>&nbsp;</p>
+<br><strong>Cheong</strong>
+<br>Thank you, Jimmy. It's a pleasure to be here.<p></p>
 <p><strong>Jimmy</strong>
 <br>Let's dive right in. You know, your first book, <em>OB Markers, </em>which
 was published in 2013. Why do we need a sequel? What exciting things happened
