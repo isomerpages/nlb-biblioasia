@@ -18,7 +18,7 @@ story he nearly went to jail for.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Cheong Talked About</strong></h4>
-00:55 – Podcast introduction<br>  
+00:55 – Podcast introduction<br>
 01:48 – Why a sequel to *OB Markers*<br>
 03:21 – Differences between the books *Ink and Influence* and *OB Markers*<br> 
 06:24 – Events leading to Cheong's appointment as editor-in-chief<br>
