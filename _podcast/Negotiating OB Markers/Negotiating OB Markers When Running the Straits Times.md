@@ -19,10 +19,10 @@ story he nearly went to jail for.</p>
 <p></p>
 <h4><strong>What Cheong Talked About</strong></h4>
 <p>00:55 – Podcast introduction
-<br>01:48 – Why a sequel to *OB Markers*
-<br>03:21 – Differences between the books *Ink and Influence* and *OB Markers*
+<br>01:48 – Why a sequel to <em>OB Markers</em> 
+<br>03:21 – Differences between the books <em>Ink and Influence</em> and <em>OB Markers</em> 
 <br>06:24 – Events leading to Cheong's appointment as editor-in-chief
-<br>11:33 – Accusations of the *Straits Times* (ST) as government mouthpiece
+<br>11:33 – Accusations of the <em>Straits Times</em> (ST) as government mouthpiece
 <br>17:16 – Impact of social media on traditional news
 <br>18:28 – Cheong's near arrest over a leaked story
 <br>20:50 – Hardest decisions as editor-in-chief
