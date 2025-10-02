@@ -39,8 +39,7 @@ was published in 2013. Why do we need a sequel? What exciting things happened
 between 2013 and now?</p><p></p>
 <p>&nbsp;</p>
 <p><strong>Cheong</strong>
-</p>
-<p>Well, what happened was that there was one morning when my neighbours
+<br>Well, what happened was that there was one morning when my neighbours
 and I were having breakfast at Ghim Moh market, and one of them, one of
 my neighbours, lamented that he found it very difficult to get hold of
 my first book. Then I explained to them that, you know SPH [Singapore Press
@@ -68,15 +67,14 @@ book to also encourage young, talented people to join the industry, because
 I know that journalism is a very important part of society. So the book
 was intended for that purpose.</p>
 <p>&nbsp;</p>
-<p>Since then, I know that a controversy erupted following my publisher publishing
+<br>Since then, I know that a controversy erupted following my publisher publishing
 a book, and I knew that there was some interest in this whole subject.
 And after the first book was published, and after the conversation at breakfast,
 I knew that this additional ground that I had intended to add to the first
-book, which I could expand into a sequel.</p>
+book, which I could expand into a sequel.<p></p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Maybe you can tell us a little bit about it.</p>
+<br>Okay. Maybe you can tell us a little bit about it.</p>
 <p>&nbsp;</p>
 <p><strong>Cheong</strong>
 </p>
