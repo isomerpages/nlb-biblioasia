@@ -1,7 +1,7 @@
 ---
 title: Negotiating OB Markers When Running the Straits Times
 permalink: /podcast/negotiating-ob-markers-when-running-straits-times-cheong-yip-seng/
-variant: markdown
+variant: tiptap
 description: Negotiating OB Markers When Running the Straits Times
 image: /images/Podcast/Cheong_Yip_Seng_600_by_400.jpg
 third_nav_title: Negotiating OB Markers
@@ -18,21 +18,22 @@ story he nearly went to jail for.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Cheong Talked About</strong></h4>
-00:55 – Podcast introduction<br>
-01:48 – Why a sequel to *OB Markers*<br>
-03:21 – Differences between the books *Ink and Influence* and *OB Markers*<br> 
-06:24 – Events leading to Cheong's appointment as editor-in-chief<br>
-11:33 – Accusations of the *Straits Times* (ST) as government mouthpiece<br>
-17:16 – Impact of social media on traditional news<br>
-18:28 – Cheong's near arrest over a leaked story<br>
-20:50 – Hardest decisions as editor-in-chief<br>
-21:52 – Importance of ST credibility<br> 
-24:06 – Cheong's principles in negotiating OB markers<br>
-27:40 – Criticisms ST faced over its coverage of the 1987 Marxist Conspiracy<br>
-29:48 – Cheong’s outlook on ST in the next two decades<br>  
-33:30 – Why Cheong became a journalist<br>
-26:29 – Person who had the greatest intellectual impact on Cheong 
+<p>00:55 – Podcast introduction
+<br>01:48 – Why a sequel to *OB Markers*
+<br>03:21 – Differences between the books *Ink and Influence* and *OB Markers*
+<br>06:24 – Events leading to Cheong's appointment as editor-in-chief
+<br>11:33 – Accusations of the *Straits Times* (ST) as government mouthpiece
+<br>17:16 – Impact of social media on traditional news
+<br>18:28 – Cheong's near arrest over a leaked story
+<br>20:50 – Hardest decisions as editor-in-chief
+<br>21:52 – Importance of ST credibility
+<br>24:06 – Cheong's principles in negotiating OB markers
+<br>27:40 – Criticisms ST faced over its coverage of the 1987 Marxist Conspiracy
+<br>29:48 – Cheong’s outlook on ST in the next two decades
+<br>33:30 – Why Cheong became a journalist
+<br>26:29 – Person who had the greatest intellectual impact on Cheong
 <br>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
