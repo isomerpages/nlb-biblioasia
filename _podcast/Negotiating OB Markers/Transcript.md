@@ -62,13 +62,13 @@ they know the industry that they're going into, the challenges that they
 will face, the opportunities that are available to them. And I wanted the
 book to also encourage young, talented people to join the industry, because
 I know that journalism is a very important part of society. So the book
-was intended for that purpose.<br>
+was intended for that purpose.<br></p>
 Since then, I know that a controversy erupted following my publisher publishing
 a book, and I knew that there was some interest in this whole subject.
 And after the first book was published, and after the conversation at breakfast,
 I knew that this additional ground that I had intended to add to the first
 book, which I could expand into a sequel.
-</p><p><strong>Jimmy</strong>
+<p></p><p><strong>Jimmy</strong>
 <br>Okay. Maybe you can tell us a little bit about it.</p>
 <p><strong>Cheong</strong><br>The additional ground that I had was to give more coverage to key moments
 in our history, which I felt is important for Singaporeans to know. For
@@ -79,8 +79,7 @@ Talking to my chairman at that time, Lim Kim San, he was my chairman for
 nearly the entire stretch of my tenure. And I was very fortunate that he
 gave me a lot of time not to talk about work, but to go back into Singapore's
 history. So he gave me a lot of material, which I felt, you know, is valuable
-to share, because the Singapore story is a wonderful story.
-</p><p>But not many Singaporeans take the trouble to go into it. And I thought
+to share, because the Singapore story is a wonderful story.</p><p>But not many Singaporeans take the trouble to go into it. And I thought
 that it would be a pity if people like me at my age, having gone through
 so much, do not share these stories. And I feel that the stories would
 be of some help to younger Singaporeans to understand how the country came
@@ -90,23 +89,23 @@ during my travels going to China, going to work in Hong Kong, and some
 of the things that our journalists did for society. After they've left
 the profession, going into the arts, for example, SingLit.</p>
 <strong>Jimmy</strong><br>Maybe you can tell us a bit about, you know, how the decision led to you
-becoming editor-in-chief?<p></p>
+becoming editor-in-chief?
 <p><strong>Cheong</strong><br>In 1987, the official visit to Singapore by the Israeli president, Chaim
 Herzl, led to an enormous explosion in Malaysia. They protested, Indonesia
 protested and wanted Singapore to scrap that visit. Because you know that
 those two countries have no relations with Israel, and they saw the visit
-as an affront to them.</p><p></p>
-<p>Singapore, of course, would not bow to that request. And there were demonstrations
+as an affront to them.
+</p><p>Singapore, of course, would not bow to that request. And there were demonstrations
 in Malaysia. They were incensed. In fact, to the extent of some people,
 some of them, these demonstrators lying on the railway track on the Causeway.</p>
-<p><strong>Jimmy</strong>
-</p><p>Oh my goodness.</p>
-<p><strong>Cheong</strong></p>
+<p><strong>Jimmy</strong><br>
+Oh my goodness.</p>
+<p><strong>Cheong</strong><br>
 Yeah. And I think there were protests at the embassy, High Commission
 in KL, and in Jakarta. Unfortunately, Lee Kuan Yew looked at the coverage
 that the <em>Straits Times</em> provided and felt that we had underplayed
 or tried to tone down the outrage that was felt by the Malays, and his
-thinking was that the <em>Straits Times</em> should not shield our people.<p></p>
+thinking was that the <em>Straits Times</em> should not shield our people.</p><p></p>
 <p>We should not shield Singaporeans from what is really happening in Malaysia.
 So unfortunately for us, we had relied on the <em>New</em>  <em>Straits Times</em> for
 our Malaysia coverage to a very large extent because we do have an exchange
@@ -121,25 +120,25 @@ his hand and he insisted on a change of editorial leadership. That was
 a trigger. Although before that, you know, we have got run-ins with him
 every so often. But it did not lead to a change in the editorial leadership.
 That was, for him, the last straw.</p>
-<p><strong>Jimmy</strong>
-</p><p>You were Peter Lim's…</p>
-<p><strong>Cheong</strong>
-</p><p>I was then Peter's deputy.</p>
-<p><strong>Jimmy</strong>
-</p><p>That's right. How did you feel when you heard word that you were going
+<p><strong>Jimmy</strong><br>
+You were Peter Lim's…</p>
+<p><strong>Cheong</strong><br>
+I was then Peter's deputy.</p>
+<p><strong>Jimmy</strong><br>
+That's right. How did you feel when you heard word that you were going
 to take over Peter in this very tense moment?</p>
-<strong>Cheong</strong>
-<p>Well, I had mixed feelings. I knew the ins and outs of our negotiations
+<strong>Cheong</strong><br>
+Well, I had mixed feelings. I knew the ins and outs of our negotiations
 with him with Lee Kuan Yew on how we can stabilise the relationship. There
 were many attempts over many months, but nothing came out of it. So I wasn't
 totally surprised by the change. But on the other hand, I was personally
-quite happy to continue as Peter's deputy.</p>
+quite happy to continue as Peter's deputy.<p></p>
 I thought we made a good team and there was no need for change. But since
 change was forced on us, I just had to accept that the <em>Straits Times</em> is
 an important Singapore institution. I think I have a contribution to make
-to the paper, and I thought that this would be an opportunity to do so.<p></p>
-<p><strong>Jimmy</strong>
-</p><p>The <em>Straits Times</em> obviously is, I mean, was a very, very important
+to the paper, and I thought that this would be an opportunity to do so.
+<p><strong>Jimmy</strong><br>
+The <em>Straits Times</em> obviously is, I mean, was a very, very important
 part of Singapore possibly, possibly not. Not so much now. But let's talk
 about that point, you know, it was so important that the editor-in-chief
 would regularly meet with people like LKY and all that, and they would
@@ -149,8 +148,7 @@ in the 90s. And I was, of course, a very low-level employee. I guess I
 came from a position where, you know, we felt that the press needed more
 independence, the whole fourth estate thing.</p>
 <p>But I think you believe that's not really possible in Singapore.</p>
-<p><strong>Cheong</strong>
-</p><p>You see, this is the thinking of LKY at that time. He says that if he
+<p><strong>Cheong</strong><br>You see, this is the thinking of LKY at that time. He says that if he
 is to effectively govern Singapore, he needs control over three things.
 First, the Treasury, next the Army, and three, the media. Oh, he needs
 control over these three institutions to effectively govern Singapore.
@@ -161,13 +159,13 @@ to renew his mandate to govern. Who gives you the mandate to decide how
 Singapore should be governed? So that was his fundamental position and
 intellectually, it’s a sound position to take. You may disagree with it,
 but he has the mandate.</p>
-<p><strong>Jimmy</strong>
-</p><p>He certainly has that mandate. The <em>Straits Times</em> was also criticised
+<p><strong>Jimmy</strong><br>
+He certainly has that mandate. The <em>Straits Times</em> was also criticised
 as being a mouthpiece for the government. But it is quite clear that there's
 also a lot of pushback, so that the editors were not merely scribes taking
 notes from the political leaders on what to do.</p>
-<p><strong>Cheong</strong>
-</p><p>When I was in charge, I had a framework on how we should run the newsroom.
+<p><strong>Cheong</strong><br>
+When I was in charge, I had a framework on how we should run the newsroom.
 These are the following things I take into account. Number one, we do have
 an efficient, incorruptible government, and that is a government that is
 endorsed time and again at election by a large number of voters. In fact,
@@ -195,14 +193,14 @@ know why, knowing the history of Singapore, I know why they want this expansive
 power. I also know that without credibility, it means nothing. So the newsroom
 has got cards to play. The government needs credibility. We need to keep
 talent. So that gives me the space to negotiate the OB markers.</p>
-<p><strong>Jimmy</strong>
-</p><p>As I mentioned in my introduction, the <em>Straits Times</em> had a monopoly
+<p><strong>Jimmy</strong><br>
+As I mentioned in my introduction, the <em>Straits Times</em> had a monopoly
 in effect of the English news in Singapore, you no longer have that monopoly
 thanks to technology and all that probably no longer has quite that status.
 The circulation of the paper has dropped quite a lot.</p>
 <p>But in your opinion, what are the main causes of this?</p>
-<p><strong>Cheong</strong>
-</p><p>Now, Jimmy, I have left the newsroom for nearly 20 years, so I'm no longer
+<p><strong>Cheong</strong><br>
+Now, Jimmy, I have left the newsroom for nearly 20 years, so I'm no longer
 in the loop. I do not know what the conditions editors today operate under.
 So I'm speaking as somebody who is not in the loop, who is looking at the
 paper and giving it his opinion. You have to remember that context, what
@@ -220,35 +218,35 @@ So they have got a budget issue. So definitely a manpower issue in terms
 of experience, editors who could provide guidance, who could help sharpen
 the newsroom.</p>
 <p>I noticed that this is obviously having an impact on the paper.</p>
-<p><strong>Jimmy</strong>
-</p><p>Right. But surely also I think because of its monopoly, it was very important.
+<p><strong>Jimmy</strong><br>
+Right. But surely also I think because of its monopoly, it was very important.
 Everybody had to read the <em>Straits Times</em> in order to know what was
 going on. And so it became the platform, right? I mean, Rajaratnam, after
 he left cabinet, wanted to write letters to the paper. Goh Heng Swee as
 well, right? Wrote pieces for the paper, which he was paid handsomely for.
 It was the paper that was the platform. People who wanted their opinions
 read had to be in it. I don't get a sense that's the case anymore.</p>
-<p><strong>Cheong</strong>
-</p><p>I think what has dramatically changed is the media industry. They were
+<p><strong>Cheong</strong><br>
+I think what has dramatically changed is the media industry. They were
 demolished or they were crushed by the advent of social media. Advertising
 was sucked up by the social media outlets and advertising revenues declined.
 And that is a very major change in the industry. So the <em>Straits Times</em>’s
 importance was badly affected, as you pointed out, Jimmy, quite rightly.
 The influence that the <em>Straits Times</em> enjoyed before the advent of
 social media was enormous.</p>
-<p><strong>Cheong</strong>
-</p><p>In fact, I know that at its peak, the <em>Straits Times</em> was selling
+<p><strong>Cheong</strong><br>
+In fact, I know that at its peak, the <em>Straits Times</em> was selling
 more than 400,000 copies a day. I don't think it is managing that number
 today. In fact, they are putting more resources online, which is the right
 thing to do. So the landscape has changed. The <em>Straits Times</em> is
 no longer in the position that it enjoyed, and it has to adjust to the
 new reality.</p>
-<p><strong>Jimmy</strong>
-</p><p>Yeah. I want to go back to your book because actually your book has lots
+<p><strong>Jimmy</strong><br>
+Yeah. I want to go back to your book because actually your book has lots
 of interesting anecdotes. You almost got arrested. Tell us about it. And
 it wasn't for jaywalking or anything.</p>
-<p><strong>Cheong</strong>
-</p><p>No, no, we had a wonderful reporter. Young reporter. You may remember
+<p><strong>Cheong</strong><br>
+No, no, we had a wonderful reporter. Young reporter. You may remember
 him. His name is Ronnie Wai, and he has the ability to bring in exclusive
 stories. In fact, that was one of his strengths. And I had full confidence
 that this is a guy whose sources are impeccable. So one day he came in
@@ -271,36 +269,35 @@ But I also knew that the ministry was anxious to know who leaked the story.
 Legitimate demand. But I could not meet that demand. Fortunately, as I
 subsequently found out, you know, they decided to give me a sharp knock
 on the knuckles and let me off. So there was a brush.</p>
-<p><strong>Jimmy</strong>
-</p><p>That was one of the most exciting times. I mean, give us an idea of, you
+<p><strong>Jimmy</strong><br>
+That was one of the most exciting times. I mean, give us an idea of, you
 know, some of the hardest decisions you've had to make as the editor-in-chief.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>Actually, I cannot immediately think of a very hard decision that I had
+<p><strong>Cheong</strong><br>
+Actually, I cannot immediately think of a very hard decision that I had
 to make.</p>
-<p><strong>Jimmy</strong>
-</p><p>Or maybe something that in hindsight, you wish you had done differently.</p>
-<p><strong>Cheong</strong>
-</p><p>Well, that would have to do with the loss of some of our best people.</p><p>I felt that if I paid more attention to those people and assured them
+<p><strong>Jimmy</strong><br>
+Or maybe something that in hindsight, you wish you had done differently.</p>
+<p><strong>Cheong</strong><br>
+Well, that would have to do with the loss of some of our best people.</p><p>I felt that if I paid more attention to those people and assured them
 that they have a future in the company, I would not lose them. But I soon
 found that it was almost impossible to stop people from leaving for new
 careers. That was impossible to do. Fortunately, I was able to retain quite
 a lot of the talent that we had. So staff management or staff is a major
 problem that I had to deal with.</p>
-<p><strong>Jimmy</strong>
-</p><p>I think you alluded to that. Right. The importance of having talent.</p>
-<p><strong>Cheong</strong>
-</p><p>Yeah.</p>
-<p><strong>Jimmy</strong>
-</p><p>And getting talent to work for you.</p>
-<p><strong>Cheong</strong>
-</p><p>Yeah.</p>
-<p><strong>Jimmy</strong>
-</p><p>In <em>Ink and Influence</em> and as well as in <em>OB Markers</em>, you
+<p><strong>Jimmy</strong><br>
+I think you alluded to that. Right. The importance of having talent.</p>
+<p><strong>Cheong</strong><br>
+Yeah.</p>
+<p><strong>Jimmy</strong><br>
+And getting talent to work for you.</p>
+<p><strong>Cheong</strong><br>
+Yeah.</p>
+<p><strong>Jimmy</strong><br>
+In <em>Ink and Influence</em> and as well as in <em>OB Markers</em>, you
 talk about LKY’s own assessments of different writers and editors. Did
 you agree with them or did you disagree?</p>
-<p><strong>Cheong</strong>
-</p><p>On those issues, I can only agree to disagree. His view that certain writers
+<p><strong>Cheong</strong><br>
+On those issues, I can only agree to disagree. His view that certain writers
 whose writing were not helpful to the government, I recognise that because
 I know that they've got a view of their own. They belong to a younger generation
 of reporters with bright minds. They don't have a worldview similar to
@@ -321,15 +318,13 @@ to accept the realities and live with the consequences. In fact, there
 were one or two occasions when he wanted me to remove the editor from our
 newsroom, one from the <em>Straits Times</em> and one from <em>Berita Harian.</em> I
 resisted the idea and he did not push his way, so I respected him for that.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Let me turn to negotiating OB markers. On one hand, you have the journalistic
+<p><strong>Jimmy</strong><br>
+Let me turn to negotiating OB markers. On one hand, you have the journalistic
 instinct to break a good story. On the other hand, there are these limits
 to where the paper is willing to go. What is that principle that underlies
 how you make that decision?</p>
-<p><strong>Cheong</strong>
-</p>
-<p>My job is to manage the interests of three stakeholders. The readers of
+<p><strong>Cheong</strong><br>
+My job is to manage the interests of three stakeholders. The readers of
 the <em>Straits Times</em>, my customers. The government is another stakeholder
 and the third stakeholder is the newsroom, the journalists. The stakeholders
 may have different interests. My job is trying to balance those interests.
@@ -352,12 +347,10 @@ Lee Kuan Yew because he felt by playing up the stories in that manner,
 we are signaling wrongly to ASEAN that is an agreement of little consequence.</p>
 <p>As a journalist, guided by professional principles, you have to bear in
 mind that this is a story that interests the bulk of your population.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Absolutely.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>So you give it a lot of play on the front page. The lesson that I drew
+<p><strong>Jimmy</strong><br>
+Absolutely.</p>
+<p><strong>Cheong</strong><br>
+So you give it a lot of play on the front page. The lesson that I drew
 from that episode was that the <em>Straits Times</em> must also bear in mind
 the politics at play. Politics requires the right signaling. At [the] time,
 I was not in charge of the paper, but if I were now in charge of the paper
@@ -365,13 +358,11 @@ and I [am] faced with the same situation, I would have redesigned the front
 page in such a way that gave equal prominence to the story, letting the
 political sensitivities be one of the issues that I would contend with
 in negotiating these boundaries.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Right? If it does, it is very hard to clearly see a guy taking a rifle
+<p><strong>Jimmy</strong><br>
+Right? If it does, it is very hard to clearly see a guy taking a rifle
 and holding someone hostage. It’s very, very newsworthy.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>Another example, Jimmy, would be I suppose, a few months after I took
+<p><strong>Cheong</strong><br>
+Another example, Jimmy, would be I suppose, a few months after I took
 over in 1987, another major story broke. The government had arrested a
 bunch of people and labelled them Marxists, the Marxist conspiracy in 1987.
 But I also do know that many of these people were active church activists.
@@ -396,44 +387,38 @@ and bearing in mind the need to avoid a collision, I had to accept the
 criticisms of some of my readers, not totally illegitimate that I had underplayed
 the story of the activists, but it's a price I have to pay, in my opinion,
 to protect the stability in Singapore.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>In your opinion, and of course, it's just prognostications and crystal
+<p><strong>Jimmy</strong><br>
+In your opinion, and of course, it's just prognostications and crystal
 ball gazing. But in 10 years, what you know, what will the <em>Straits Times</em> look
 like? You know, 10, 20 years? Will the paper still be around? I mean, the
 internet has wiped out huge swaths of the media around the world, right?
 Singapore is no exception.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>I was heartened that the government decided to provide some funding because
+<p><strong>Cheong</strong><br>
+I was heartened that the government decided to provide some funding because
 without funding, the <em>Straits Times</em> will further shrivel without
 the resources. So to me, that is a very important signal that the <em>Straits Times</em> does
 have a place in [the] future in Singapore. So how can we make use of this
 space that we are being provided with? And I felt that there's one way
 to do so.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>I think that the government will continue doing this if it feels that
+<p><strong>Jimmy</strong><br>
+I think that the government will continue doing this if it feels that
 there's a value in doing this, right? And so which means that the <em>Straits Times</em> needs
 to remain relevant to its readers. It needs to find some way to negotiate
 the new social media landscape and occupy a niche that is usefully played.</p>
 <p>Do you think it is currently doing so?</p>
-<p><strong>Cheong</strong>
-</p>
-<p>I believe that it can because I don't think that the government will fund
+<p><strong>Cheong</strong><br>
+I believe that it can because I don't think that the government will fund
 SPH and not make sure that funding is fully justified. Justifications can
 only come from a service that the <em>Straits Times</em> and SPH provides,
 and it must provide a useful service to Singapore. Now I'm thinking in
 terms of serving the best interests of Singapore. That is a starting point,
 I think.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>I don't disagree with you, but I think that really the challenge is, you
+<p><strong>Jimmy</strong><br>
+I don't disagree with you, but I think that really the challenge is, you
 know, getting people interested in reading about the news, which even in
 its heyday was always, you know, so easy.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>A challenge, yes. But I believe that the problem is not insurmountable.
+<p><strong>Cheong</strong><br>
+A challenge, yes. But I believe that the problem is not insurmountable.
 My tried and tested method of tackling such problems is one word – talent.
 You have to find the right talent, the talent will deliver the results.
 And I believe that in Singapore, we have the ability to attract talent.
@@ -443,9 +428,8 @@ Singapore. So we had a large foreign component in our team, and I cannot
 believe that we should not continue to do that. If you’re well-focused,
 I don't believe it’s an insurmountable problem, and talented people will
 deliver. I know that from experience.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>I certainly hope you are right because, you know, I have many fond memories
+<p><strong>Jimmy</strong><br>
+I certainly hope you are right because, you know, I have many fond memories
 and many not so fond memories as well, but certainly many fond memories
 of the <em>Straits Times</em>. And it would be a shame if the <em>Straits Times</em> were
 not around in 10 years or whatever. It would be a tremendous shame.</p>
@@ -453,46 +437,38 @@ not around in 10 years or whatever. It would be a tremendous shame.</p>
 find a relevance, and find some way towards profitability, which is important,
 right? Because if it's not profitable, it's not a going concern as a business.
 It's not going to survive.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>Well, Jimmy, I owe a lot to the <em>Straits Times</em> which has given me
+<p><strong>Cheong</strong><br>
+Well, Jimmy, I owe a lot to the <em>Straits Times</em> which has given me
 a wonderful career. And I sincerely believe that there is a place for the <em>Straits Times</em> in
 Singapore's future. But a lot also depends on how the newsroom reacts to
 the changes that are going around. And I believe that they can find a niche
 in the market.</p>
 <p>It may not enjoy the same reach as it did before, but I think it will
 find enough readers and enough important readers to justify their existence.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Well, I certainly hope so. How did you know that you wanted to be a journalist?</p>
-<p><strong>Cheong</strong>
-</p>
-<p>I had a wonderful job as a teacher in a primary school. I really enjoyed
+<p><strong>Jimmy</strong><br>
+Well, I certainly hope so. How did you know that you wanted to be a journalist?</p>
+<p><strong>Cheong</strong><br>
+I had a wonderful job as a teacher in a primary school. I really enjoyed
 my time and I enjoyed going to [Teachers’] <s>t</s>Training <s>c</s>College
 because I enjoyed teaching. But when the opportunity to join the <em>Straits Times</em> arose,
 my colleagues were pressing me and said<s>y</s> you'd be foolish not to
 go.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Really? Why?</p>
-<p><strong>Cheong</strong>
-</p>
-<p>They felt that I would do better for myself if I'd move to the media industry
+<p><strong>Jimmy</strong><br>
+Really? Why?</p>
+<p><strong>Cheong</strong><br>
+They felt that I would do better for myself if I'd move to the media industry
 than in teaching. Well, they were proven right, but I was also tempted
 by one point in the small ad that I saw and it said special grade $1,000
 and above. To me it was a gold mine.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Okay. This was more than what you were getting paid as a teacher?</p>
+<p><strong>Jimmy</strong><br>
+Okay. This was more than what you were getting paid as a teacher?</p>
 <p><strong>Cheong</strong>
 </p>
 <p>Oh yes, oh yes. A lot. Five times more.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Oh, okay. I would have been...</p>
-<p><strong>Cheong</strong>
-</p>
-<p>I would have left already. I was born a news junkie. I always enjoyed
+<p><strong>Jimmy</strong><br>
+Oh, okay. I would have been...</p>
+<p><strong>Cheong</strong><br>
+I would have left already. I was born a news junkie. I always enjoyed
 the news. In fact, in my secondary school years, I used to produce a newsletter
 for my neighbour’s handwritten newsletter. I picked up news items from
 the <em>Straits Times</em> and from the <em>Reader's Digest</em> magazines,
@@ -509,24 +485,20 @@ Malaysians. So I'll plunge into the deep end.</p>
 <p>And it provided me with a real political education, something that I would
 not get if I'd been doing some other work. So that was what anchored me
 to the industry.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>It’s very seductive, right? The front row seat into the making of history.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>Yes, that's right. And subsequently the decision to move turned out to
+<p><strong>Jimmy</strong><br>
+It’s very seductive, right? The front row seat into the making of history.</p>
+<p><strong>Cheong</strong><br>
+Yes, that's right. And subsequently the decision to move turned out to
 be correct because it gave me a rare opportunity which not many people
 get the opportunity to see at close range. How the founding generation
 of Singapore worked, and developing a relationship with them that gave
 me further insights into how Singapore grew and [I] enjoyed their friendship.
 There was something precious.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>In your entire career, you know who was the person that you know left
+<p><strong>Jimmy</strong><br>
+In your entire career, you know who was the person that you know left
 its biggest mark? The greatest intellectual impact.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>No doubt whatsoever who that person is. Lee Kuan Yew. He is a giant of
+<p><strong>Cheong</strong><br>
+No doubt whatsoever who that person is. Lee Kuan Yew. He is a giant of
 a man.</p>
 <p>He taught me one very major lesson – that whatever you face, always start
 by looking at the big picture. He did not tell me in those terms, but I
@@ -536,21 +508,17 @@ decision.</p>
 <p>And that was a major valuable lesson. I learned that whatever challenge
 you may have, the challenge would diminish in size if you are able to see
 the big picture.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Obviously, knowing the big picture then allows you to make better decisions.</p>
-<p>&nbsp;</p>
-<p><strong>Cheong</strong>
-</p>
-<p>Yes, because life is all about managing different interests. As I said,
+<p><strong>Jimmy</strong><br>
+Obviously, knowing the big picture then allows you to make better decisions.</p>
+<p><strong>Cheong</strong><br>
+Yes, because life is all about managing different interests. As I said,
 I deal with the interests of three stakeholders:<s>,</s> the readers, the
 government and the journalists. And all three have got different agendas.
 How do you deal with these conflicting demands of your shareholders? You
 can't deal with it if you don't have the big picture. So that helped me
 a lot.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>I hope I'm not too old to learn this lesson and apply it in my own life.
+<p><strong>Jimmy</strong><br>
+I hope I'm not too old to learn this lesson and apply it in my own life.
 Cheong, thank you for coming on the <em>BiblioAsia</em>+ podcast. It was
 really a pleasure having you. Cheong's new book, <em>Ink and Influence</em>: <em>An OB Markers Sequel</em>,
 is now available in bookstores everywhere. Of course, you can borrow it
@@ -558,47 +526,36 @@ from the library as well.</p>
 <p>And of course, his original book <em>OB Markers: My Straits Times</em> Story
 is not available in bookstores. It is available in the library for you
 to borrow.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>And it's also available on Kindle.</p>
+<p><strong>Cheong</strong><br>
+And it's also available on Kindle.</p>
 <p><strong>Jimmy</strong>
 </p>
 <p>Both editions?</p>
-<p><strong>Cheong</strong>
+<p><strong>Cheong</strong><br>
+No, no, the first book<em> OB Markers.</em>
 </p>
-<p>No, no, the first book<em> OB Markers.</em>
-</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Oh, it's available on Kindle.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>That is available on Kindle because<s>,</s> when I was pressing the <em>Straits Times</em>,
+<p><strong>Jimmy</strong><br>
+Oh, it's available on Kindle.</p>
+<p><strong>Cheong</strong><br>
+That is available on Kindle because<s>,</s> when I was pressing the <em>Straits Times</em>,
 when are you going to do a reprint,<s>.</s>  <s>B</s>because if you're not
 going to do a reprint, the copyright reverts to me entirely.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Yes.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>They don't want to lose the copyright. So they come to me by saying that
+<p><strong>Jimmy</strong><br>
+Yes.</p>
+<p><strong>Cheong</strong><br>
+They don't want to lose the copyright. So they come to me by saying that
 I put it on Kindle.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Oh, okay. Okay.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>That was a very brilliant move on their part.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Cheong, thank you once again for coming on the show. And it's been a pleasure
+<p><strong>Jimmy</strong><br>
+Oh, okay. Okay.</p>
+<p><strong>Cheong</strong><br>
+That was a very brilliant move on their part.</p>
+<p><strong>Jimmy</strong><br>
+Cheong, thank you once again for coming on the show. And it's been a pleasure
 having you and I wish you good luck in your future endeavours.</p>
-<p><strong>Cheong</strong>
-</p>
-<p>Thank you Jimmy, it has been an interesting experience today.</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
+<p><strong>Cheong</strong><br>
+Thank you Jimmy, it has been an interesting experience today.</p>
+<p><strong>Jimmy</strong><br>
+If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
 Thanks for joining us on <em>BiblioAsia</em>+.</p>
 <p>[Music playing]
 <br>
