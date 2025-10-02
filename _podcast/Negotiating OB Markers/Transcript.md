@@ -63,11 +63,11 @@ will face, the opportunities that are available to them. And I wanted the
 book to also encourage young, talented people to join the industry, because
 I know that journalism is a very important part of society. So the book
 was intended for that purpose.</p>
-<br>Since then, I know that a controversy erupted following my publisher publishing
+Since then, I know that a controversy erupted following my publisher publishing
 a book, and I knew that there was some interest in this whole subject.
 And after the first book was published, and after the conversation at breakfast,
 I knew that this additional ground that I had intended to add to the first
-book, which I could expand into a sequel.<p></p>
+book, which I could expand into a sequel.
 <p><strong>Jimmy</strong>
 <br>Okay. Maybe you can tell us a little bit about it.</p>
 <p><strong>Cheong</strong>
@@ -102,13 +102,10 @@ as an affront to them.</p>
 <p>Singapore, of course, would not bow to that request. And there were demonstrations
 in Malaysia. They were incensed. In fact, to the extent of some people,
 some of them, these demonstrators lying on the railway track on the Causeway.</p>
-<p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
 <p>Oh my goodness.</p>
-<p>&nbsp;</p>
-<p><strong>Cheong</strong>
-</p>
+<p><strong>Cheong</strong></p>
 <p>Yeah. And I think there were protests at the embassy, High Commission
 in KL, and in Jakarta. Unfortunately, Lee Kuan Yew looked at the coverage
 that the <em>Straits Times</em> provided and felt that we had underplayed
