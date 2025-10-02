@@ -12,14 +12,11 @@ an establishment opinion. They will not accept that. So, to retain talent,
 I have to give them space. And fortunately, the government, at least LKY
 recognises that. If the <em>Straits Times</em> has no credibility, it is
 useless to him.</p>
-<p>[Music playing]</p>
-<p>&nbsp;</p>
+<p>[Music playing]&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You’re listening to <em>BiblioAsia+</em>, a podcast produced by the National
+<br>You’re listening to <em>BiblioAsia+</em>, a podcast produced by the National
 Library of Singapore. At <em>BiblioAsia</em>, we tell stories about Singapore’s
 past. Some familiar, others forgotten, all fascinating.</p>
-<p>&nbsp;</p>
 <p>For close to two decades, Cheong Yip Seng has had the most important job
 in Singapore's media industry: the editor-in-chief of the <em>Straits Times</em>.
 He held this post from 1987 to 2006, back when the <em>Straits Times</em> was
@@ -62,8 +59,7 @@ And he knew that there was material that I could use for subsequent books,
 and that was what started the ball rolling.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, why should someone read this book <em>Ink and Influence</em>? You
+<br>Okay, why should someone read this book <em>Ink and Influence</em>? You
 know, what additional material is that? And in what way is it different
 from your first book?</p>
 <p>&nbsp;</p>
