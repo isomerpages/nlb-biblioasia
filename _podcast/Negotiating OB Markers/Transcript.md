@@ -63,16 +63,13 @@ will face, the opportunities that are available to them. And I wanted the
 book to also encourage young, talented people to join the industry, because
 I know that journalism is a very important part of society. So the book
 was intended for that purpose.</p>
-<p>&nbsp;</p>
 <br>Since then, I know that a controversy erupted following my publisher publishing
 a book, and I knew that there was some interest in this whole subject.
 And after the first book was published, and after the conversation at breakfast,
 I knew that this additional ground that I had intended to add to the first
 book, which I could expand into a sequel.<p></p>
-<p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay. Maybe you can tell us a little bit about it.</p>
-<p>&nbsp;</p>
 <p><strong>Cheong</strong>
 </p>
 <p>The additional ground that I had was to give more coverage to key moments
