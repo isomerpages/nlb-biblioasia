@@ -535,9 +535,7 @@ No, no, the first book<em> OB Markers.</em>
 <p><strong>Jimmy</strong><br>
 Oh, it's available on Kindle.</p>
 <p><strong>Cheong</strong><br>
-That is available on Kindle, because  </p><s>,</s> when I was pressing the <em>Straits Times</em>,
-when are you going to do a reprint, because if you're not
-going to do a reprint, the copyright reverts to me entirely.<p></p>
+That is available on Kindle, because<s></s> when I was pressing the <em>Straits Times</em>, when are you going to do a reprint, because if you're not going to do a reprint, the copyright reverts to me entirely.</p><p></p>
 <p><strong>Jimmy</strong><br>
 Yes.</p>
 <p><strong>Cheong</strong><br>
