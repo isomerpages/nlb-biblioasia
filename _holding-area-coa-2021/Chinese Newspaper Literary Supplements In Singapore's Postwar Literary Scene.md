@@ -675,45 +675,45 @@ Zhu Ying 竹影. “Wo de xiangcun” 我的乡村 \[My village\]. _Xin Miao_ �
 #### **NOTES**
      
 
-1 Peng Weibu 彭伟步, _Dongnanya huawen baozhi yanjiu_ [东南亚华文报纸研究](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12595556) \[A study of Chinese newspapers in Southeast Asia\] (Beijing: Shehui kexue wenxian chubanshe, 2005), 236. (Call no. Chinese RSEA 079.59 PWB)
+[^1]: Peng Weibu 彭伟步, _Dongnanya huawen baozhi yanjiu_ [东南亚华文报纸研究](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12595556) \[A study of Chinese newspapers in Southeast Asia\] (Beijing: Shehui kexue wenxian chubanshe, 2005), 236. (Call no. Chinese RSEA 079.59 PWB)
 
-2 Xiang Yang 向阳, “Fukan xue de lilun jiangou jichu: Yi Taiwan baozhi fukan zhi fazhan guocheng ji qi shidai beijing wei changyu” 副刊学的理论建构基础：以台湾报纸副刊之发展过程及其时代背景为场域 \[The fundamental construction of supplement studies: Field studies on the development of Taiwan newspaper supplements and its background era\], _Lianhe Wenxue_, no. 96 (1992), 176–96.
+[^2]: Xiang Yang 向阳, “Fukan xue de lilun jiangou jichu: Yi Taiwan baozhi fukan zhi fazhan guocheng ji qi shidai beijing wei changyu” 副刊学的理论建构基础：以台湾报纸副刊之发展过程及其时代背景为场域 \[The fundamental construction of supplement studies: Field studies on the development of Taiwan newspaper supplements and its background era\], _Lianhe Wenxue_, no. 96 (1992), 176–96.
 
-3 The terms “initial period of peace” (和平初期) and “initial period of recovery” (光复初期) are also used in _Xinjiapo huawen wenxueshi chugao_ in discussions on the literary scene in the early postwar period_._ Huang Mengwen 黄孟文 and Xu Naixiang 徐乃翔, eds., _Xinjiapo huawen wenxueshi chugao_ [新加坡华文文学史初稿](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11801055) \[First draft of the history of Chinese literature in Singapore\] (Singapore: Department of Chinese Studies, National University of Singapore, 2002), 77. (Call no. Chinese RSING C810.095957 XJP)
+[^3]: The terms “initial period of peace” (和平初期) and “initial period of recovery” (光复初期) are also used in _Xinjiapo huawen wenxueshi chugao_ in discussions on the literary scene in the early postwar period_._ Huang Mengwen 黄孟文 and Xu Naixiang 徐乃翔, eds., _Xinjiapo huawen wenxueshi chugao_ [新加坡华文文学史初稿](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11801055) \[First draft of the history of Chinese literature in Singapore\] (Singapore: Department of Chinese Studies, National University of Singapore, 2002), 77. (Call no. Chinese RSING C810.095957 XJP)
 
-4 Wang Kangding 王慷鼎, _Xinjiapo huawen baokan shi lunji_ [新加坡华文报刊史论集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84452271) \[Collection of history of Chinese newspapers and periodicals in Singapore\] (Singapore: Xinjiapo xin she 新加坡新社, 1987), 129–30. (Call no. Chinese RSING 079.5957 WKD)
+[^4]: Wang Kangding 王慷鼎, _Xinjiapo huawen baokan shi lunji_ [新加坡华文报刊史论集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84452271) \[Collection of history of Chinese newspapers and periodicals in Singapore\] (Singapore: Xinjiapo xin she 新加坡新社, 1987), 129–30. (Call no. Chinese RSING 079.5957 WKD)
 
-5 Huang and Xu, [_Xinjiapo huawen wenxueshi chugao_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11801055), 84. The anti-yellow culture campaign does not equate to anti-pornographic materials. Chen Fan (陈凡) in his article, “General Discussion on the Anti-yellow Culture Movement” (泛论反对黄色文化运动) explains: “The yellow culture is not restricted to only pornography, excitements, tensions, sex… but to all actions that numb the feelings of people and poison them. Anything that prevents improvements and pull people away from their culture is yellow culture.” Chen Fan 陈凡, _Men lei ji_ [闷雷集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84487630) \[Muffled thunder\] (Singapore: Qingnian shuju, 1959). (Call no. Chinese RCLOS C818 CF)
+[^5]: Huang and Xu, [_Xinjiapo huawen wenxueshi chugao_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11801055), 84. The anti-yellow culture campaign does not equate to anti-pornographic materials. Chen Fan (陈凡) in his article, “General Discussion on the Anti-yellow Culture Movement” (泛论反对黄色文化运动) explains: “The yellow culture is not restricted to only pornography, excitements, tensions, sex… but to all actions that numb the feelings of people and poison them. Anything that prevents improvements and pull people away from their culture is yellow culture.” Chen Fan 陈凡, _Men lei ji_ [闷雷集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84487630) \[Muffled thunder\] (Singapore: Qingnian shuju, 1959). (Call no. Chinese RCLOS C818 CF)
 
-6 “Shiliu sui nü xuesheng zai Zhenzhushan jiao canzao jian jie sha biming” [十六岁女学生在珍珠山脚惨遭奸劫杀毙命](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531013-1.2.29.1) \[16-year-old female student tragically murdered after rape and robbery at foot of Pearl’s Hill\], _Nanyang Siang Pau_ 南洋商报, 13 October 1953, 9. (From NewspaperSG)
+[^6]: “Shiliu sui nü xuesheng zai Zhenzhushan jiao canzao jian jie sha biming” [十六岁女学生在珍珠山脚惨遭奸劫杀毙命](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531013-1.2.29.1) \[16-year-old female student tragically murdered after rape and robbery at foot of Pearl’s Hill\], _Nanyang Siang Pau_ 南洋商报, 13 October 1953, 9. (From NewspaperSG)
 
-7 Yang Songnian 杨松年, _Xinma huawen xiandai wenxue shi chubian_ [新马华文现代文学史初编](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10128145) \[First compilation of the history of modern Chinese literature in Singapore and Malaysia\] (Singapore: BPL jiaoyu chubanshe, 2000), 249. (Call no. Chinese RSING C810.09YSN)
+[^7]: Yang Songnian 杨松年, _Xinma huawen xiandai wenxue shi chubian_ [新马华文现代文学史初编](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10128145) \[First compilation of the history of modern Chinese literature in Singapore and Malaysia\] (Singapore: BPL jiaoyu chubanshe, 2000), 249. (Call no. Chinese RSING C810.09YSN)
 
-8 Cui Guiqiang 崔贵强, _Xinjiapo huawen baokan yu baoren_ [新加坡华文报刊与报人](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84520907) \[Singapore Chinese newspapers and journalists\] (Singapore: Haitian wenhua qiye, 1993), 155. (Call no. Chinese RSING 079.5957 CGQ)
+[^8]: Cui Guiqiang 崔贵强, _Xinjiapo huawen baokan yu baoren_ [新加坡华文报刊与报人](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84520907) \[Singapore Chinese newspapers and journalists\] (Singapore: Haitian wenhua qiye, 1993), 155. (Call no. Chinese RSING 079.5957 CGQ)
 
-9 Cui, [_Xinjiapo huawen baokan yu baoren_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84520907), 177.
+[^9]: Cui, [_Xinjiapo huawen baokan yu baoren_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84520907), 177.
 
-10 Peng, [_Dongnanya huawen baozhi yanjiu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12595556), 242.
+[^10]: Peng, [_Dongnanya huawen baozhi yanjiu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12595556), 242.
 
-11 Cui, [_Xinjiapo huawen baokan yu baoren_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84520907), 161.
+[^11]: Cui, [_Xinjiapo huawen baokan yu baoren_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84520907), 161.
 
-12 Li Rulin 李汝琳, “Huiyi Yang Shou Mo” 回忆杨守默 \[Remembering Yang Shou Mo\], in _Yao Zi yanjiu zhuanji_ [姚紫研究专集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84535341) \[Yao Zi research collection\], ed. Liu Binong 刘笔农 (Singapore: Singapore Literature Society, 1997), 10–14. (Call no. Chinese RSING S895.185209 YZY)
+[^12]: Li Rulin 李汝琳, “Huiyi Yang Shou Mo” 回忆杨守默 \[Remembering Yang Shou Mo\], in _Yao Zi yanjiu zhuanji_ [姚紫研究专集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84535341) \[Yao Zi research collection\], ed. Liu Binong 刘笔农 (Singapore: Singapore Literature Society, 1997), 10–14. (Call no. Chinese RSING S895.185209 YZY)
 
-13 “‘希望’能使生命发光，纵使沙漠上能够长出一根小草，开出一朵小花，我们也会感觉喜悦，愿意把更大的希望，寄托於明天…” Yao Zi 姚紫, “Jintian, mingtian” 今天 . 明天 \[Today, tomorrow\], _LüZhou_ 绿洲, 15 November 1952, 3.  
+[^13]: “‘希望’能使生命发光，纵使沙漠上能够长出一根小草，开出一朵小花，我们也会感觉喜悦，愿意把更大的希望，寄托於明天…” Yao Zi 姚紫, “Jintian, mingtian” 今天 . 明天 \[Today, tomorrow\], _LüZhou_ 绿洲, 15 November 1952, 3.  
   
-14 Pen names were a common sight in Chinese newspaper literary supplements in the 1950s. Yao Zi wrote under several different names in _LüZhou_, for instance Yao Zi 姚紫, “Cheng tou zhanjiao qiufeng,” 城头战角秋风 \[Top of the city wall, battle horn and the autumn wind\], _LüZhou_ 绿洲, 9 December 1952, 3; Huang Huai 黄槐, “Yesu xiafan” 耶稣下凡 \[Jesus descends\], _LüZhou_ 绿洲, 贺斧, 13 December 1952, 3; He Fu 贺斧, “Shen” 神 \[God\], _LüZhou_ 绿洲, 3 January 1953, 3,
+[^14]: Pen names were a common sight in Chinese newspaper literary supplements in the 1950s. Yao Zi wrote under several different names in _LüZhou_, for instance Yao Zi 姚紫, “Cheng tou zhanjiao qiufeng,” 城头战角秋风 \[Top of the city wall, battle horn and the autumn wind\], _LüZhou_ 绿洲, 9 December 1952, 3; Huang Huai 黄槐, “Yesu xiafan” 耶稣下凡 \[Jesus descends\], _LüZhou_ 绿洲, 贺斧, 13 December 1952, 3; He Fu 贺斧, “Shen” 神 \[God\], _LüZhou_ 绿洲, 3 January 1953, 3,
 
-15 Wang Ge (1922–2011) was born Wang Jin Chang (王进昌).
+[^15]: Wang Ge (1922–2011) was born Wang Jin Chang (王进昌).
 
-16 Novels were commonly published in the literary supplements in installments over several months.
+[^16]: Novels were commonly published in the literary supplements in installments over several months.
 
-17 Wang Ge’s work in _LüZhou_ included “Han xiu cao” 含羞草 \[Mimosa\] (26 December 1952), 32; “Beike” 贝壳 \[Shell\] (4 December 1952), 3; “Fan” 帆 \[Sail\], (8 December 1952), 3; “Wu” 雾 \[Fog\] (26 December 1952), 3 and Gilbert White, “Swallows,” trans. Wang Ge (24 December 1952), 3.
+[^17]: Wang Ge’s work in _LüZhou_ included “Han xiu cao” 含羞草 \[Mimosa\] (26 December 1952), 32; “Beike” 贝壳 \[Shell\] (4 December 1952), 3; “Fan” 帆 \[Sail\], (8 December 1952), 3; “Wu” 雾 \[Fog\] (26 December 1952), 3 and Gilbert White, “Swallows,” trans. Wang Ge (24 December 1952), 3.
 
-18 Li Qi 里奇, “Wentan zhengming” 文坛正名 \[Rectification of the name of literary field\], _LüZhou_ 绿洲, 1 December 1952, 3.
+[^18]: Li Qi 里奇, “Wentan zhengming” 文坛正名 \[Rectification of the name of literary field\], _LüZhou_ 绿洲, 1 December 1952, 3.
 
-19 Yue Zi Geng’s column, Introduction to Indonesia Poetry, in _LüZhou_ included “Shouye” 守夜 \[Vigil\] by An Hua 安华 (November 1952, 3); “Qiman” 欺瞒 \[A lie\] by Shan Ni 珊尼 (24 November 1952, 3); “Zuoye” 昨夜 \[Last night\] by Shan Ni 珊尼 (5 December 1952, 3); and “Wanggong” 王宫 \[Palace\] by Mu Er Yue Nuo 母尔约诺 (9 December 1952, 3).
+[^19]: Yue Zi Geng’s column, Introduction to Indonesia Poetry, in _LüZhou_ included “Shouye” 守夜 \[Vigil\] by An Hua 安华 (November 1952, 3); “Qiman” 欺瞒 \[A lie\] by Shan Ni 珊尼 (24 November 1952, 3); “Zuoye” 昨夜 \[Last night\] by Shan Ni 珊尼 (5 December 1952, 3); and “Wanggong” 王宫 \[Palace\] by Mu Er Yue Nuo 母尔约诺 (9 December 1952, 3).
 
-20 Yue Zi Geng was born Li Xue Min (李学敏) in Ipoh and was a poet, a writer, an editor, a translator and an expert in the Malay language. He worked for both Chinese and Malay publications, such as _Sin Chew Jit Poh_ and the Malay magazine, _Majallah Bahasa Kebangsaan._ Though the translator of the column is not explicitly identified, it is likely to be Yue.
+[^20]: Yue Zi Geng was born Li Xue Min (李学敏) in Ipoh and was a poet, a writer, an editor, a translator and an expert in the Malay language. He worked for both Chinese and Malay publications, such as _Sin Chew Jit Poh_ and the Malay magazine, _Majallah Bahasa Kebangsaan._ Though the translator of the column is not explicitly identified, it is likely to be Yue.
 
 21 The column in _LüZhou_ would probably have had greater impact if it had provided further poem analysis, an introduction to the poets, or more poems in each issue.
 
