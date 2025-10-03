@@ -231,11 +231,11 @@ were published. In the first two years, *Wen Feng* was published daily;
 after 1956, its publication became less regular, partly because of its narrow
 thematic scope – almost half of the works revolved around the lives of
 rubber plantation workers, employer-employee relationships, and the
-difficulties of finding employment..[^29]
+difficulties of finding employment.[^29]
 
 Unlike Yao Zi, who focused on publishing highly aesthetic literary
 works, Xing Ying used *Wen Feng* to encourage literature-loving youths
-to write freely,.[^30] in line with his belief that journalism was a meaningful profession because journalists “can effect change in society with a pen”.31
+to write freely,[^30] in line with his belief that journalism was a meaningful profession because journalists “can effect change in society with a pen”.[^31]
 *Wen Feng*’s emphasis on youth writing marked a clear change from the
 direction of its predecessor, *Shi Ji Lu*, under Yao Zi’s editorship. Xing
 Ying welcomed all writers, accepted articles based on the strength of their
@@ -246,14 +246,14 @@ factory workers, gardeners, students or unemployed amateur writers.
 
 Like *Lü Zhou*, *Wen Feng* published works across a wide range of literary
 genres, including poems, novels, essays, literary reviews and social criticism,
-often accompanied by woodblock prints.32 Translated works were also
+often accompanied by woodblock prints.[^32] Translated works were also
 frequently featured, such as the short story “The Selfish Giant” (自私的巨
-人) by the Irish writer Oscar Wilde and translated by Wei Ding (惟丁).33
+人) by the Irish writer Oscar Wilde and translated by Wei Ding (惟丁).[^33]
 Under Xing Ying’s initiative, *Wen Feng* published special issues dedicated
 to individual writers. The 19 October 1954 special issue commemorating
 the Chinese writer Lu Xun (魯迅) featured poems and literary criticism on
 his works, and a woodblock print inspired by his novella, *Ah Q*. Lu Xun’s
-portrait was featured in *Wen Feng*’s title plate for that issue (Figure 3).34
+portrait was featured in *Wen Feng*’s title plate for that issue (Figure 3).[^34]
 
 <img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Wen_Feng____.jpg" style="width:80%;">
 <div style="background-color: white;"><i>Wen Feng</i> 文风, Special commemorative issue on Lu Xun, 19 October 1954. (Microfilm NL2706)</div>
@@ -264,34 +264,34 @@ with readers. Singaporean writer Lin Zhen (林臻) recalled that Xing Ying
 reviewed all contributions seriously and fairly – it did not matter if he knew
 the author personally, or if the author was not famous. He returned his
 edited articles to the writers with comments on how they could improve
-their work.35 Another Singapore Chinese writer, Xie Ke (谢克), who was
+their work.[^35] Another Singapore Chinese writer, Xie Ke (谢克), who was
 also a prominent local editor in the 1970s and 1980s, recalled the lack of
 youth writing platforms in the 1950s: “Without *Wen Feng* and Xing Ying’s
 nurturing role, the Chinese literary scene in 1950s Singapore would have been less vibrant, and there would not have been so many youths interested
-in literature.”36
+in literature.”[^36]
 
 Xing Ying created an editorial column – Random Notes (补白杂记),
 later renamed *Wen Feng* Mailbox (文风信箱) – to express his views and
-communicate with the supplement’s readers, who responded well to it.37
+communicate with the supplement’s readers, who responded well to it.[^37]
 One reader, Mian Ti (缅堤), wrote that this column was “a great inspiration”
-and his favourite thing to read in *Wen Feng*.38 Xing Ying also used this
-column to encourage young writers: “Please write about the issues in life, on matters that are down to earth, with less exaggeration. Write naturally and
-add your personal opinions. With that, you will become a better writer.”39
+and his favourite thing to read in *Wen Feng*.[^38] Xing Ying also used this
+column to encourage young writers: “Please write about the issues in life, on matters that are down to earth, with less exaggeration. Write naturally and39
+add your personal opinions. With that, you will become a better writer.”[^39]
 
 
 The editorial column also shows Xing Ying’s commitment to
-maintaining *Wen Feng* as a literary platform for writers of all stripes.40
+maintaining *Wen Feng* as a literary platform for writers of all stripes.[^40]
 When a reader, Peng Long Fei (彭龙飞), criticised the quality of the poems
 published in *Wen Feng*, Xing Ying replied: “*Wen Feng* does not have articles
 from professors, famous writers or scholars. Our writers are students
 from secondary and primary schools, or even workers or hawkers who are
 uneducated, so their works will not be impressive. That said, I do not see a
-major problem in the two lines you mentioned.”41 After a contributor was
+major problem in the two lines you mentioned.”[^41] After a contributor was
 caught for plagiarism, Xing Ying asked readers to forgive the contributor,
 who had apologised: “I believe this unfortunate case of plagiarism will not
 tarnish the reputation of the literary supplement. Such a thing happened
 because of *Wen Feng*’s openness. We should give a second chance to those
-who admit their mistakes.”42 The column became an intimate space for him
+who admit their mistakes.”[^42] The column became an intimate space for him
 to share his thoughts with readers.
 
 #### **Professionalism and Cosmopolitanism: *Shi Ji Lu* and *Qing Nian Wen Yi***
@@ -306,7 +306,7 @@ accepting many contributions from amateurs.
 ***Shi Ji Lu: Maintaining Literary Aesthetics in a Literary Supplement***
 
 Yao Zi edited a total of 65 issues of *Shi Ji Lu* from its inception on 8 October
-1953, to its end on 16 January 1954.43 In that short span, *Shi Ji Lu* became
+1953, to its end on 16 January 1954.[^43] In that short span, *Shi Ji Lu* became
 one of the most influential literary supplements in Singapore, with many contributors becoming well-known writers and editors, for instance Xing
 Ying, Zhao Rong, Wei Bei Hua, Xie Ke, Lian Shi Sheng (连士升), Miao Xiu
 (苗秀), Wei Yun (韦晕) and Liu Bei An (柳北岸), among others.
@@ -319,7 +319,7 @@ Mountains* (乌拉山之夜, 1950) contained descriptions of female body parts
 and sex scenes. Some of his poems published in *Shi Ji Lu* hint at the
 criticisms he faced. In “A Note to Myself at Age Thirty: A Reply to My
 Friends” (三十自题:兼答关怀我的朋友们), he wrote: “Worldly ups and downs
-are within my destiny, how can others judge my glory or downfall?”44
+are within my destiny, how can others judge my glory or downfall?”[^44]
 
 <img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Anti_Yellow_Culture.jpg" style="width:80%;">
 <div style="background-color: white;">Chen Ye Huang (陈烨煌), “Anti-Yellow Culture”, <i>Shi Ji Lu</i> 世纪路, 14 January 1954, 8. Chen’s
@@ -329,7 +329,7 @@ cameraman shooting a yellow film, and a yellow-film actress fleeing the scene. (
 During this period, Yao Zi was supported by a group of writer friends.
 This further cemented his practice of relying on a small group of trusted
 writers for the supplement. *Shi Ji Lu*’s three regular contributors were Xing
-Ying, Zhao Rong and Miao Xiu, whose articles formed the supplement’s core, in addition to those by Yao Zi himself.45 Xing Ying wrote under two
+Ying, Zhao Rong and Miao Xiu, whose articles formed the supplement’s core, in addition to those by Yao Zi himself.[^45] Xing Ying wrote under two
 other pen names, Li Qi and Gongsun Zhe (公孙哲). Li Qi’s articles were
 about the writing life, such as “A Mature Writer” (成长了的作家) and “Notes
 Under the Light” (灯下笔记), while Gongsun Zhe wrote essays criticising
@@ -337,16 +337,16 @@ unfairness in society, such as “Fear of Death and Others” (怕死及其他) 
 “Along the Road” (在马路旁边). Under the pen name Xing Ying, he wrote
 essays on Western literature, for instance “An Occasional Read of Mark
 Twain’s Novel” (偶读马克吐温的小说), and an essay on Western philosophy,
-“Live, Dead, Eternity (生· 死·永远).46 Zhao Rong wrote articles on literary
+“Live, Dead, Eternity (生· 死·永远).[^46] Zhao Rong wrote articles on literary
 history under the pen name Zhao Xin, such as “The Direction of Malayan
 Chinese Literature and Arts” (马华文艺底路向), and articles on morality
 under the pen name Bi Nu (笔奴), such as “Robbery and Morality” (盗与
-道) and “To Reprimand the Liars” (斥文骗).47 The third regular contributor,
+道) and “To Reprimand the Liars” (斥文骗).[^47] The third regular contributor,
 Miao Xiu, wrote literature reviews such as “Lu Xun’s Former Residence
 and Zhou Zuoren” (鲁迅的故家与周作人) and “A Discussion on Literary
-Criticism” (谈文艺批评) under the pen name Shi Jin (史进).48 His novel
+Criticism” (谈文艺批评) under the pen name Shi Jin (史进).[^48] His novel
 *Hanging Red* (挂红) was written under the pen name Miao Yi (苗毅) and
-published over several issues of *Shi Ji Lu*.49 While Yao Zi’s reliance on a regular group of contributors supplied *Shi Ji Lu* with articles of literary
+published over several issues of *Shi Ji Lu*.[^49] While Yao Zi’s reliance on a regular group of contributors supplied *Shi Ji Lu* with articles of literary
 merit, it resulted in less diversity of writing styles.
 
 As a consequence of the anti-yellow culture movement, the atmosphere
@@ -360,39 +360,39 @@ Nan Liu (江南柳), and “The Tax Collector” (给收税员) by J. P. McEvoy 
 translated by Zhu Ai (主艾) – and an essay on the American writer Jack
 London. Other works of Western literature subsequently published in *Shi Ji
 Lu* included “L’Aventure” (The Adventure, 艳遇) by the Norwegian writer
-Knut Hamsun, translated by Ya Ji (亞玑);50 “The Legend of Sleepy Hollow”
+Knut Hamsun, translated by Ya Ji (亞玑);[^50] “The Legend of Sleepy Hollow”
 (睡谷的传说) by the American writer Washington Irving, translated by
-Jiang Nan Liu (江南柳);51 “A String of Blue Beads” (一串蓝珠) by the
-American writer Charles Fulton Oursler, translated by Xi Bang (希邦);52
+Jiang Nan Liu (江南柳);[^51] “A String of Blue Beads” (一串蓝珠) by the
+American writer Charles Fulton Oursler, translated by Xi Bang (希邦);[^52] 
 and the poem “Out of the Night That Covers Me” (夜幕笼罩着我) by the
-British poet William Ernest Henley, translated by Shou Ming (受明).53 *Shi
+British poet William Ernest Henley, translated by Shou Ming (受明).[^53] *Shi
 Ji Lu* occasionally also published translations of biographies of well-known
 writers, such as “The Life of O. Henry” (奥·亨利的生平), translated by Jia
-Sheng (加生).54
+Sheng (加生).[^54] 
 
-Yao Zi also published works by Hong Kong writers such as Lü Lun55
-and Liu Yichang (刘以鬯). Liu contributed the short story “Enchanting Building” (迷楼),56 and under the pen name Linghu Ling (令狐玲), wrote
+Yao Zi also published works by Hong Kong writers such as Lü Lun[^55] 
+and Liu Yichang (刘以鬯). Liu contributed the short story “Enchanting Building” (迷楼),[^56] and under the pen name Linghu Ling (令狐玲), wrote
 reviews of Western literature, including “The Prejudices of Shakespeare”
-(莎士比亚的偏见) and “Roger de Coverley’s Style” (罗杰·考浮莱型).57 Yao
+(莎士比亚的偏见) and “Roger de Coverley’s Style” (罗杰·考浮莱型).[^57]  Yao
 Zi further broadened cultural discourse in *Shi Ji Lu* by publishing pieces
 on Indonesian music, which was rare for a literary supplement in the
 1950s. Articles included “A Forgotten Indonesian Artist: The Composer of
 ‘Bengawan Solo’, Martohartono” (被遗忘的印尼艺术家: “梭罗河颂”的作者
 玛尔多尼亚佐) by Mo Da (莫达), “The Attempt to Collect Indonesian Folk
 Songs” (搜集印尼民歌的尝试) by Sun Bin Lin (孙彬琳), and “My Views on
-Indonesian Music” (印尼音乐之我见) by Wei Zhi (微知).58
+Indonesian Music” (印尼音乐之我见) by Wei Zhi (微知).[^58] 
 
 *Shi Ji Lu* also had a column for young writers called Youth Square
 (青年广场). The article “Eradicating the Perverts” (扫荡色情狂), written
 by Bai Xu (白絮), a student from Nanyang Girls’ High School, advocated
-the eradication of yellow culture in Singapore.59 Another contributor, Bin
-Bing (斌冰), discussed “The Future after Graduation” (毕业后的出路问题),60
+the eradication of yellow culture in Singapore.[^59] Another contributor, Bin
+Bing (斌冰), discussed “The Future after Graduation” (毕业后的出路问题),[^60] 
 while in “Preferential Treatment for Some Students” (优待学生), Huang Yi
 (黄裔) wrote that a movie company gave free tickets for American movies to
 students in English-medium schools, but not to students in Chinese schools.
 In contrast to Xing Ying, whose replies emphasised values and morals,
 Yao Zi replied sarcastically that Huang’s anger seemed misplaced: it suited
-English-school students to watch substandard American movies.61 Despite
+English-school students to watch substandard American movies.[^61] Despite
 their different editorial philosophies, both editors promoted social justice for
 students in their own way.
 
@@ -402,10 +402,10 @@ students in their own way.
 In July 1960, Xing Ying became editor of *Qing Nian Wen Yi* in *Nanyang
 Siang Pau*, which became one of the longest-running literary supplements
 of the 1960s, when some newspapers
-supplements did not last even a month.62
+supplements did not last even a month.[^62]
 It ran for 729 issues over nearly six and a
 half years, from 20 July 1960 to 6 February
-1967.63 *Qing Nian Wen Yi* was the last literary
+1967.[^63] *Qing Nian Wen Yi* was the last literary
 supplement edited by Xing Ying, and with
 his death, the supplement ended too. The
 tagline in *Qing Nian Wen Yi*’s title plate
@@ -427,31 +427,31 @@ to Yao Zi’s *Lü Zhou* and *Shi Ji Lu*. Notable
 Western works appeared in translation, such
 as the essay “On National Prejudices” (爱国的偏见) by the Irish writer
 Oliver Goldsmith, and Mark Twain’s essay on writing technique, “How I
-Start Writing Essays” (我怎样开始写文章).64
+Start Writing Essays” (我怎样开始写文章).[^64]
 
 This international perspective was partly due to Xing Ying’s love for
 foreign literature and exposure to Japan as a teenager. It can also be seen as
 a move to introduce world literature to young readers. Some of Xing Ying’s
 favourite foreign writers were Bernard Shaw, Anton Chekhov, Alexander
 Pushkin, Friedrich Schiller, William Somerset Maugham, Romain Rolland, Leo Tolstoy and Mark Twain. In 1960, Xing Ying was invited by Radio
-Singapore to give a series of 10 lectures on Japanese culture.65
+Singapore to give a series of 10 lectures on Japanese culture.[^65]
 
 Besides foreign literature, *Qing Nian Wen Yi* published writings related
 to international affairs. For instance, in the issue of 8 March 1961, the
 supplement ran a special column of student poems dedicated to Congo,
 in commemoration of the innocent lives lost during the ongoing Congo
-Crisis.66 Compared to *Wen Feng*, which focused on literary news, *Qing Nian
+Crisis.[^66] Compared to *Wen Feng*, which focused on literary news, *Qing Nian
 Wen Yi* offered broader world news coverage.
 
 *Qing Nian Wen Yi* also published translated articles on Malay literature,
 including M. Zain Salleh’s “The Mission of Literature during Nation
 Building” (建设时期的文学的任务), and an essay titled “An Outstanding
 Malay Poet: Tongkat Warrant” (东革·华兰: 杰出的马来诗人), introducing
-the poet who was better known by his pen name, Osman Awang.67 There
+the poet who was better known by his pen name, Osman Awang.[^67] There
 were also original writings in Chinese on Malay literature, including an
 essay by Bi Cheng (碧澄), who praised Ishak Haji Muhammad for his
 persevering attitude towards writing (依萨哈芝穆哈末: 一位勤于写作的
-马来作家).68 Such articles show that Chinese readers then were interested
+马来作家).[^68] Such articles show that Chinese readers then were interested
 in Malay literature.
 
 #### **The Need for an Additional Supplement: Zhou Mo Qing Nian and Xin Miao**
@@ -472,27 +472,27 @@ to 27 December 1952. He created *Zhou Mo Qing Nian* in response to
 aspiring young writers who could not get published in* Lü Zhou*. In an
 editorial, Yao Zi wrote that the articles in *Zhou Mo Qing Nian* might not
 be “up to standard”, but they focused more on content and less on writing
-technique.69
+technique.[^69]
 
 While *Lü Zhou* was more literary, *Zhou Mo Qing Nian* was targeted at
-the youth.70 The articles dealt with issues that concerned this demographic,
+the youth.[^70] The articles dealt with issues that concerned this demographic,
 such as education and social justice. Writings on observations about
 society included “Rubber Tappers” (割胶的工人) by Lin Jian (林建) and
-“Unemployment” (失业) by Yuan Yuan (媛媛).71 Other articles gave tips and
+“Unemployment” (失业) by Yuan Yuan (媛媛).[^71] Other articles gave tips and
 encouragement to young writers who wanted to have their works published
 in newspapers, such as “How to Practise Writing” (怎样练习稿子) by Bu
-Dong Shi (不懂事),72 and “My Experience with Manuscript Rejection” (投稿
-失败给我的经验) by Qin Kai (秦凯).73
+Dong Shi (不懂事),[^72] and “My Experience with Manuscript Rejection” (投稿
+失败给我的经验) by Qin Kai (秦凯).[^73]
 
 As he would later do in *Shi Ji Lu* as well, Yao Zi created a column in
 *Zhou Mo Qing Nian* called Youth Square (青年广场), to allow students to
 give voice to injustices they suffered or observed (Figure 6). Yao Zi made
 it clear that the column was not a place to vent one’s personal anger; its
 purpose was to improve Chinese education in Malaya, by providing a forum
-for those treated unjustly to speak up, so that the school authorities could not turn a blind eye to abuses of power.74 In one case, a student had to
+for those treated unjustly to speak up, so that the school authorities could not turn a blind eye to abuses of power.[^74] In one case, a student had to
 put his studies on hold for a semester, but the school continued to charge
-tuition fees;75 in another case, a principal was called out for being partial
-in his selection of articles to be published in the school journal.76 The issues might seem immature and trivial, but they were serious matters for the
+tuition fees;[^75] in another case, a principal was called out for being partial
+in his selection of articles to be published in the school journal.[^76] The issues might seem immature and trivial, but they were serious matters for the
 supplement’s young readership. Hence, *Zhou Mo Qing Nian* was more than
 a literary supplement for the youth; it was a publication that concerned itself
 with youth welfare.
@@ -508,7 +508,7 @@ The poems tended to revolve around youthful aspirations and experiences,
 such as “Hope” (期待) by Xue Zi (学子), “If” (假使) by Wang Shao Quan
 (王绍全), “Awaking from a Dream” (梦醒) by Fa Yuan (发源), “Forced to
 Move” (迫迁) by Li Yin (李音), and “Laughter by the Seashore” (海滨的
-笑声) by Xiao Ling (小绫).77
+笑声) by Xiao Ling (小绫).[^77]
 
 ***Xin Miao: Music Meets Literature***
 
@@ -519,37 +519,37 @@ Pau* overlapped by six months, from March to August 1958, which was also
 the lifespan of *Xin Miao*. *Xin Miao* did not have a fixed publication schedule
 – it was initially published thrice a week, but the frequency later dropped to
 once a week. Like Random Notes in *Wen Feng*, *Xin Miao* Mailbox served as
-a forum for readers and Xing Ying to communicate with one another.78
+a forum for readers and Xing Ying to communicate with one another.[^78]
 
 In creating *Xin Miao*, Xing Ying hoped to give secondary school
 students a platform to publish their writings. Ever the nurturer of writers,
 he wrote in his first editorial: “If you keep writing, the article gets better.
-If you keep using the pen, it gets sharper.”79 Singaporean writer Liu Shun
+If you keep using the pen, it gets sharper.”[^79] Singaporean writer Liu Shun
 (柳舜), who used to contribute to *Xin Miao*, recalled that Xing Ying was
-approachable and kind to younger writers, and listened to their concerns.80
+approachable and kind to younger writers, and listened to their concerns.[^80]
 
 *Xin Miao* published fiction, poems, essays, playscripts, illustrations and
 woodblock prints. Similar to *Zhou Mo Qing Nian*, the topics and themes
-were relevant to the lives of younger readers, with articles like “My First Overseas Trip” (我的第一次旅行) by Yang Zhi (杨之).81 Th e issue on 15
+were relevant to the lives of younger readers, with articles like “My First Overseas Trip” (我的第一次旅行) by Yang Zhi (杨之).[^81] The issue on 15
 March 1958 (Figure 7), for example, included contributions such as “The
 First Test” (第一次测验), “Mango” (芒果), “Rabbit, Wolf, Elephant, Fox”
-(兔子·狼·大象·狐狸) and “In the Rubber Plantation” (在胶林里).82 Writings
+(兔子·狼·大象·狐狸) and “In the Rubber Plantation” (在胶林里).[^82] Writings
 on local conditions were also popular, such as “Life in the Lower-income
 Class in Singapore and Malaya” (新马的一部分底层生活) by Xue Li Si
 (学裏思), “To the Wet Market” (上巴刹) by Xiao Yun (小韵), “My Village”
 (我的乡村) by Zhu Ying (竹影), “A Fire in Geylang” (芽笼的火灾) by Hong
-Xing (红星), and “Queenstown” (女皇镇), a poem by Gao Bang (高邦).83
+Xing (红星), and “Queenstown” (女皇镇), a poem by Gao Bang (高邦).[^83]
 
 *Xin Miao* was also a platform for music education and appreciation,
 with several of the issues featuring musical scores and music-related writing.
 *Xin Miao* published four scores, all composed by Huang Hun (黄昏), with
 lyrics by Hu Yang (湖洋): “Lullaby” (摇篮曲), “Midnight” (子夜), “A Nursery
 Rhyme My Mother Taught Me” (母亲教我一首儿歌) and “Idyllic Fields”
-(田园芳草) (Figure 7).84 Articles with musical themes included “Learning
+(田园芳草) (Figure 7).[^85] Articles with musical themes included “Learning
 Music with Friends” (与友人学音乐) by Gao Xiu (高秀), “Music and Life”
 (音乐与人生) by Yu Si Yi (余思毅), and “My View on ‘Running Donkey’:
 Chinese Folk Dance” (我看《跑驴》:中国民间舞蹈) and “The New School
-Song” (新校舍歌) by Shan Ba Zi (山芭子).85
+Song” (新校舍歌) by Shan Ba Zi (山芭子).[^85]
 
 <img src="/images/COA%202021/Chinese%20Newspaper%20Literary/Xin_Miao.jpg" style="width:80%;">
 <div style="background-color: white;"><i>Xin Miao</i> published music scores (middle) and satirical comics (left) alongside the usual
