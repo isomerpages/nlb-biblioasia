@@ -715,132 +715,132 @@ Zhu Ying 竹影. “Wo de xiangcun” 我的乡村 \[My village\]. _Xin Miao_ �
 
 [^20]: Yue Zi Geng was born Li Xue Min (李学敏) in Ipoh and was a poet, a writer, an editor, a translator and an expert in the Malay language. He worked for both Chinese and Malay publications, such as _Sin Chew Jit Poh_ and the Malay magazine, _Majallah Bahasa Kebangsaan._ Though the translator of the column is not explicitly identified, it is likely to be Yue.
 
-21 The column in _LüZhou_ would probably have had greater impact if it had provided further poem analysis, an introduction to the poets, or more poems in each issue.
+[^21]: The column in _LüZhou_ would probably have had greater impact if it had provided further poem analysis, an introduction to the poets, or more poems in each issue.
 
-22 Translated texts published in _LüZhou_ included Henry W. Longfellow, “Yige nuli de meng” 一个奴隶的梦 \[A slave’s dream\], trans. Lin Qiu 林酋; R. E. Sherwood, “Daziran de fangong” 大自然的反攻 \[The Petrified Forest\], trans. Ai Li 艾骊; and “Napolun ceng xiang zuo zuojia” 拿破仑曾想做作家 \[Napoleon once dreamed of being a writer\], trans. Ai Li 艾骊, all published in _LüZhou_ 绿洲, 4 December 1952.&nbsp;
+[^22]: Translated texts published in _LüZhou_ included Henry W. Longfellow, “Yige nuli de meng” 一个奴隶的梦 \[A slave’s dream\], trans. Lin Qiu 林酋; R. E. Sherwood, “Daziran de fangong” 大自然的反攻 \[The Petrified Forest\], trans. Ai Li 艾骊; and “Napolun ceng xiang zuo zuojia” 拿破仑曾想做作家 \[Napoleon once dreamed of being a writer\], trans. Ai Li 艾骊, all published in _LüZhou_ 绿洲, 4 December 1952.&nbsp;
 
-23 Henry Bordeaux, _“_Sishengzi” 私生子 \[Illegitimate child\], trans. Situ Min 司徒敏, _LüZhou_ 绿洲, 26 November 1952, 3; He Lan 河兰, “Guogeli bainian ji” 果戈里百年祭 \[Centenary of Gogol’s death\], _LüZhou_ 绿洲, 26 November 1952, 3.&nbsp;
+[^23]: Henry Bordeaux, _“_Sishengzi” 私生子 \[Illegitimate child\], trans. Situ Min 司徒敏, _LüZhou_ 绿洲, 26 November 1952, 3; He Lan 河兰, “Guogeli bainian ji” 果戈里百年祭 \[Centenary of Gogol’s death\], _LüZhou_ 绿洲, 26 November 1952, 3.&nbsp;
 
-24 Sima Lu 司马卢, “Panghuang zai zhengzhi douzheng xia de Nanhan zuojia, Zhang He Zhou ji qi xinzhu: Wuhu Chaoxian” 彷徨在政治斗争下的南韩作家，张赫宙及其新著：呜呼朝鲜 \[Hovering under the political struggle: South Korean writer Jang Hyeok-Ju and his new work, “Alas, Korea”\], _LüZhou_ 绿洲, 19 November 1952, 3.
+[^24]: Sima Lu 司马卢, “Panghuang zai zhengzhi douzheng xia de Nanhan zuojia, Zhang He Zhou ji qi xinzhu: Wuhu Chaoxian” 彷徨在政治斗争下的南韩作家，张赫宙及其新著：呜呼朝鲜 \[Hovering under the political struggle: South Korean writer Jang Hyeok-Ju and his new work, “Alas, Korea”\], _LüZhou_ 绿洲, 19 November 1952, 3.
 
-25 Lü Lun 侣伦, “Shu zhu de biaozhi” 书主的标志 \[The sign of a book owner\], _LüZhou_ 绿洲, 29 December 1952, 3; “Yue zhi yi” 月之忆 \[Memory of the moon\], _LüZhou_ 绿洲, 11 December 1952, 3; and “Hongcha” 红茶 \[Black tea\], _LüZhou_ 绿洲, 15 December 1952, 3.
+[^25]: Lü Lun 侣伦, “Shu zhu de biaozhi” 书主的标志 \[The sign of a book owner\], _LüZhou_ 绿洲, 29 December 1952, 3; “Yue zhi yi” 月之忆 \[Memory of the moon\], _LüZhou_ 绿洲, 11 December 1952, 3; and “Hongcha” 红茶 \[Black tea\], _LüZhou_ 绿洲, 15 December 1952, 3.
 
-26 The column on international literary news can be found in _LüZhou_ 绿洲, 5 December 1952, 9 December 1952, and 22 December 1952 and a review, “Turgenev and His Works” (屠格涅夫及其作品), by the Irish writer Robert Lynd and translated by Yuan Si (原思). That the review was published in full over three issues of _LüZhou_ was telling of the significance Yao Zi placed on the Russian writer. “The works of Turgenev,” he wrote, “are among the greatest in modern world literature.”
+[^26]: The column on international literary news can be found in _LüZhou_ 绿洲, 5 December 1952, 9 December 1952, and 22 December 1952 and a review, “Turgenev and His Works” (屠格涅夫及其作品), by the Irish writer Robert Lynd and translated by Yuan Si (原思). That the review was published in full over three issues of _LüZhou_ was telling of the significance Yao Zi placed on the Russian writer. “The works of Turgenev,” he wrote, “are among the greatest in modern world literature.”
 
-27 Di Jun 谛君, “Xinwen jizhe jian zuojia de Mo Li Ya Ke lue jingli” 新闻记者兼作家的莫里亚克略经历 \[The experience of a reporter cum writer: François Mauriac\], _LüZhou_ 绿洲, 18 December 1952, 3.
+[^27]: Di Jun 谛君, “Xinwen jizhe jian zuojia de Mo Li Ya Ke lue jingli” 新闻记者兼作家的莫里亚克略经历 \[The experience of a reporter cum writer: François Mauriac\], _LüZhou_ 绿洲, 18 December 1952, 3.
 
-28 “屠格涅夫的作品，的确是近代世界文学遗产中最伟大的一部分，但是，我们将如何接受这份文学遗产呢？… 因此，我们特约原思先生将它翻译过来，分三期在本刊登出。” _LüZhou_ 绿洲, 8 December 1952, 3.
+[^28]: “屠格涅夫的作品，的确是近代世界文学遗产中最伟大的一部分，但是，我们将如何接受这份文学遗产呢？… 因此，我们特约原思先生将它翻译过来，分三期在本刊登出。” _LüZhou_ 绿洲, 8 December 1952, 3.
 
-29 Luo Ming 骆明, ed., _Xing Ying yanjiu zhuanji_ [杏影研究专集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84496617) \[Xing Ying research collection\] (Singapore: Singapore Literature Society, 1995), 120. (Call no. Chinese RSING C810.092)
+[^29]: Luo Ming 骆明, ed., _Xing Ying yanjiu zhuanji_ [杏影研究专集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84496617) \[Xing Ying research collection\] (Singapore: Singapore Literature Society, 1995), 120. (Call no. Chinese RSING C810.092)
 
-30 “把这个园地作为鼓励爱好文艺的青年自由写作的地方。” _Wen Feng_ 文风, 18 January 1954, 9. (Microfilm NL2702)
+[^30]: “把这个园地作为鼓励爱好文艺的青年自由写作的地方。” _Wen Feng_ 文风, 18 January 1954, 9. (Microfilm NL2702)
 
-31 Yang Shou Mo 杨守默, “Jizhe yu shehui: Jinian Nanyang Shangbao sanshi zhounian” 记者与社会: 纪念南洋商报三十周年 \[Journalists and society: Commemorating Nanyang Siang Pau’s 30th anniversary\], in Luo, _Xing Ying yanjiu zhuanji_, 114.
+[^31]: Yang Shou Mo 杨守默, “Jizhe yu shehui: Jinian Nanyang Shangbao sanshi zhounian” 记者与社会: 纪念南洋商报三十周年 \[Journalists and society: Commemorating Nanyang Siang Pau’s 30th anniversary\], in Luo, _Xing Ying yanjiu zhuanji_, 114.
 
-32 _Wen Feng_ 文风, 18 August 1954, 8. (Microfilm NL2702)
+[^32]: _Wen Feng_ 文风, 18 August 1954, 8. (Microfilm NL2702)
 
-33 _Wen Feng_ 文风, 18 August 1954.
+[^33]: _Wen Feng_ 文风, 18 August 1954.
 
-34 Memories of Mr Lu Xun, _Wen Feng_ 文风, 19 October 1954, 8.
+[^34]: Memories of Mr Lu Xun, _Wen Feng_ 文风, 19 October 1954, 8.
 
-35 Lin Zhen 林臻, “Zhui yi diandi” 追忆点滴, in Luo, _Xing Ying yanjiu zhuanji_, 21.
+[^35]: Lin Zhen 林臻, “Zhui yi diandi” 追忆点滴, in Luo, _Xing Ying yanjiu zhuanji_, 21.
 
-36 “如果少了《文风》，五〇年代新马的华文文艺不会那么昌盛；如果没有杏影先生的栽培，五〇年代不会涌现那么多的文艺青年。” Wang Lianmei 王连美, _Xing Ying: Ta buhui jimo_ [杏影：他不会寂寞](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13199785) \[Xing Ying: He will not be lonely\] (Singapore: National Library Board, 2009), 34 (Call no. Chinese C810.08 XIN). Xie Ke (谢克) was born in 1931, and his birth name was Seah Khok Chua. Besides being a writer, he was also an editor of _Xin Sheng Dai_ (新声代) in _Ming Pao_ 明报 (1966–70) and the newspaper literary supplements, _Xue Fu Chun Qiu_ (学府春秋), _Qing Nian Ban Lü_(青年伴侣) and _Xing Yun_ (星云)。
+[^36]: “如果少了《文风》，五〇年代新马的华文文艺不会那么昌盛；如果没有杏影先生的栽培，五〇年代不会涌现那么多的文艺青年。” Wang Lianmei 王连美, _Xing Ying: Ta buhui jimo_ [杏影：他不会寂寞](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13199785) \[Xing Ying: He will not be lonely\] (Singapore: National Library Board, 2009), 34 (Call no. Chinese C810.08 XIN). Xie Ke (谢克) was born in 1931, and his birth name was Seah Khok Chua. Besides being a writer, he was also an editor of _Xin Sheng Dai_ (新声代) in _Ming Pao_ 明报 (1966–70) and the newspaper literary supplements, _Xue Fu Chun Qiu_ (学府春秋), _Qing Nian Ban Lü_(青年伴侣) and _Xing Yun_ (星云)。
 
-37 “Wen Feng Xin Xiang” 文风信箱 \[Wen Feng Mailbox\], _Wen Feng_ 文风, 31 May 1954, 8 (Microfilm NL2706); _Wen Feng_ 文风, 20 January 1954, 8.
+[^37]: “Wen Feng Xin Xiang” 文风信箱 \[Wen Feng Mailbox\], _Wen Feng_ 文风, 31 May 1954, 8 (Microfilm NL2706); _Wen Feng_ 文风, 20 January 1954, 8.
 
-38 Mian Ti 缅堤, “Xiangqi Xing Ying xiansheng” 想起杏影先生 \[Remembering Mr Xing Ying\], in Luo, _Xing Ying yanjiu zhuanji_, 8.
+[^38]: Mian Ti 缅堤, “Xiangqi Xing Ying xiansheng” 想起杏影先生 \[Remembering Mr Xing Ying\], in Luo, _Xing Ying yanjiu zhuanji_, 8.
 
-39 Ye Zhong Ling 叶钟玲, “Xing Ying yu Wen Feng fukan” 杏影与《文风》副刊 \[Xing Ying and Wen Feng literary supplement\], in Luo, _Xing Ying yanjiu zhuanji_, 118.
+[^39]: Ye Zhong Ling 叶钟玲, “Xing Ying yu Wen Feng fukan” 杏影与《文风》副刊 \[Xing Ying and Wen Feng literary supplement\], in Luo, _Xing Ying yanjiu zhuanji_, 118.
 
-40 “Wen Feng Xin Xiang” 文风信箱 \[Wen Feng Mailbox\], _Wen Feng_ 文风, 7 July 1954, 8. (Microfilm NL2705)
+[^40]: “Wen Feng Xin Xiang” 文风信箱 \[Wen Feng Mailbox\], _Wen Feng_ 文风, 7 July 1954, 8. (Microfilm NL2705)
 
-41 “Wen Feng Xin Xiang” 文风信箱 \[Wen Feng Mailbox\], _Wen Feng_ 文风, 16 October 1954, 8. (Microfilm NL2706)
+[^41]: “Wen Feng Xin Xiang” 文风信箱 \[Wen Feng Mailbox\], _Wen Feng_ 文风, 16 October 1954, 8. (Microfilm NL2706)
 
-42 Ye, “Xing Ying yu Wen Feng fukan,” 98.
+[^42]: Ye, “Xing Ying yu Wen Feng fukan,” 98.
 
-43 _Shi Ji Lu_ 世纪路, 8 October 1953, 9. (Microfilm NL2700)
+[^43]: _Shi Ji Lu_ 世纪路, 8 October 1953, 9. (Microfilm NL2700)
 
-44 “世事升沉我自卜，君平怎得论荣枯? ” _Shi Ji Lu_ 世纪路, 7 December 1953, 9. (Microfilm NL2701)
+[^44]: “世事升沉我自卜，君平怎得论荣枯? ” _Shi Ji Lu_ 世纪路, 7 December 1953, 9. (Microfilm NL2701)
 
-45 Yao Zi wrote many pieces under different pen names in _Shi Ji Lu_, including Tang Xi’s (唐兮) short story, “A Woman and a Man” (一个女的和一个男的); He Fu’s (贺斧) “How to Commemorate a Giant” (怎样纪念一个巨人), a tribute to Lu Xun; Fu Jian’s (符剑) short novel, _Considerate_ (体贴); Shangguan Qiu’s (上官秋) “Pier” (码头); Ouyang Bi’s (欧阳碧) “Sorrows in the Night of Rain: Short Writings in the Night Window, Part 2 (雨夜的哀愁：夜窗短简之二); and Xiangyang Ge’s (向阳戈) “Walking Along the Century” (走在这个世纪).
+[^45]: Yao Zi wrote many pieces under different pen names in _Shi Ji Lu_, including Tang Xi’s (唐兮) short story, “A Woman and a Man” (一个女的和一个男的); He Fu’s (贺斧) “How to Commemorate a Giant” (怎样纪念一个巨人), a tribute to Lu Xun; Fu Jian’s (符剑) short novel, _Considerate_ (体贴); Shangguan Qiu’s (上官秋) “Pier” (码头); Ouyang Bi’s (欧阳碧) “Sorrows in the Night of Rain: Short Writings in the Night Window, Part 2 (雨夜的哀愁：夜窗短简之二); and Xiangyang Ge’s (向阳戈) “Walking Along the Century” (走在这个世纪).
 
-46 Li Qi 里奇, “Chengzhang le de zuojia” 成长了的作家 \[A mature writer\], _Shi Ji Lu_ 世纪路, 12 October 1953, 9; and “Deng xia biji” 灯下笔记 \[Notes under the light\], _Shi Ji Lu_ 世纪路, 16 December 1953, 8; Gongsun Zhe, “Pasi yu qita” 怕死及其他 \[Fear of death and others\], _Shi Ji Lu_ 世纪路, 20 October 1953, 9; and “Zai malu pangbian” 在马路旁边 \[Along the road\], _Shi Ji Lu_ 世纪路, 3 November 1953, 9; Xing Ying, “Oudu Ma Ke Tu Wen de xiaoshuo” 偶读马克吐温的小说 \[An occasional read of Mark Twain’s novel\], _Shi Ji Lu_ 世纪路, 22 December 1953, 8; and “Sheng, si, yongyuan” 生·死·永远 \[Live, dead, eternity\], _Shi Ji Lu_ 世纪路, 17 November 1953, 9. (Microfilm NL2701)
+[^46]: Li Qi 里奇, “Chengzhang le de zuojia” 成长了的作家 \[A mature writer\], _Shi Ji Lu_ 世纪路, 12 October 1953, 9; and “Deng xia biji” 灯下笔记 \[Notes under the light\], _Shi Ji Lu_ 世纪路, 16 December 1953, 8; Gongsun Zhe, “Pasi yu qita” 怕死及其他 \[Fear of death and others\], _Shi Ji Lu_ 世纪路, 20 October 1953, 9; and “Zai malu pangbian” 在马路旁边 \[Along the road\], _Shi Ji Lu_ 世纪路, 3 November 1953, 9; Xing Ying, “Oudu Ma Ke Tu Wen de xiaoshuo” 偶读马克吐温的小说 \[An occasional read of Mark Twain’s novel\], _Shi Ji Lu_ 世纪路, 22 December 1953, 8; and “Sheng, si, yongyuan” 生·死·永远 \[Live, dead, eternity\], _Shi Ji Lu_ 世纪路, 17 November 1953, 9. (Microfilm NL2701)
 
-47 Zhao Xin 赵心, “Mahua wenyi di zouxiang” 马华文艺底走向 \[The direction of Malayan Chinese literature and arts\], _Shi Ji Lu_ 世纪路, 18 November 1953, 9 (Microfilm NL 2701). “To Reprimand the Liars” was published in the last issue of _Shi Ji Lu_ 世纪路; the article rebutted writers who feigned morality and labelled other writers as “yellow writers”. _Shi Ji Lu_ 世纪路, 16 January 1954, 8.
+[^47]: Zhao Xin 赵心, “Mahua wenyi di zouxiang” 马华文艺底走向 \[The direction of Malayan Chinese literature and arts\], _Shi Ji Lu_ 世纪路, 18 November 1953, 9 (Microfilm NL 2701). “To Reprimand the Liars” was published in the last issue of _Shi Ji Lu_ 世纪路; the article rebutted writers who feigned morality and labelled other writers as “yellow writers”. _Shi Ji Lu_ 世纪路, 16 January 1954, 8.
 
-48 An example of Miao Yi’s novel is “Shenyuan de cheng” 深渊的城 \[Abyss city\], _Shi Ji Lu_ 世纪路, 15 October 1953, 9. Shi Jin 史进, “Lu Xun de gujia yu Zhou Zuo Ren” 鲁迅的故家与周作人 \[Lu Xun’s former residence and Zhou Zuo Ren\], _Shi Ji Lu_ 世纪路, 5 December 1953, 8; and “Tan wenyi piping” 谈文艺批评 \[A discussion on literary criticism\], _Shi Ji Lu_ 世纪路, 16 December 1953, 8. (Microfilm NL2701)
+[^48]: An example of Miao Yi’s novel is “Shenyuan de cheng” 深渊的城 \[Abyss city\], _Shi Ji Lu_ 世纪路, 15 October 1953, 9. Shi Jin 史进, “Lu Xun de gujia yu Zhou Zuo Ren” 鲁迅的故家与周作人 \[Lu Xun’s former residence and Zhou Zuo Ren\], _Shi Ji Lu_ 世纪路, 5 December 1953, 8; and “Tan wenyi piping” 谈文艺批评 \[A discussion on literary criticism\], _Shi Ji Lu_ 世纪路, 16 December 1953, 8. (Microfilm NL2701)
 
-49 Miao Xiu 苗秀, “Gua hong” 挂红 \[Hanging red\], _Shi Ji Lu_ 世纪路, 4 January 1954, 8. (Microfilm NL2702) Yao Zi wrote an introduction to this story: “_Gua Hong_ is a short novel. The author used the writing technique of literary realism and described a despicable person… This novel will be published in this supplement over a few issues.” _Shi Ji Lu_ 世纪路, 4 January 1954, 8. (Microfilm NL2702) Other novels were contributed by younger writers, such as Xie Ke (谢克), whose published pieces included “Lei Lei”&nbsp; 蕾蕾, _Shi Ji Lu_ 世纪路, 12 October 1953, 9; “Zai keshi li” 在教室里 \[In the classroom\], _Shi Ji Lu_ 世纪路, 19 November 1953, 9; “Fen” 坟 \[Grave\], _Shi Ji Lu_ 世纪路, 4 November 1953, 9; and “Linju men” 邻居们 \[Neighbours\], _Shi Ji Lu_ 世纪路, 7 January 1954, 8.
+[^49]: Miao Xiu 苗秀, “Gua hong” 挂红 \[Hanging red\], _Shi Ji Lu_ 世纪路, 4 January 1954, 8. (Microfilm NL2702) Yao Zi wrote an introduction to this story: “_Gua Hong_ is a short novel. The author used the writing technique of literary realism and described a despicable person… This novel will be published in this supplement over a few issues.” _Shi Ji Lu_ 世纪路, 4 January 1954, 8. (Microfilm NL2702) Other novels were contributed by younger writers, such as Xie Ke (谢克), whose published pieces included “Lei Lei”&nbsp; 蕾蕾, _Shi Ji Lu_ 世纪路, 12 October 1953, 9; “Zai keshi li” 在教室里 \[In the classroom\], _Shi Ji Lu_ 世纪路, 19 November 1953, 9; “Fen” 坟 \[Grave\], _Shi Ji Lu_ 世纪路, 4 November 1953, 9; and “Linju men” 邻居们 \[Neighbours\], _Shi Ji Lu_ 世纪路, 7 January 1954, 8.
 
-50 Knut Hamsun, “Yanyu” 艳遇 \[The adventure\], trans. Ya Ji 亞玑, _Shi Ji Lu_ 世纪路, 3 October 1953, 9. (Microfilm NL2700)
+[^50]: Knut Hamsun, “Yanyu” 艳遇 \[The adventure\], trans. Ya Ji 亞玑, _Shi Ji Lu_ 世纪路, 3 October 1953, 9. (Microfilm NL2700)
 
-51 Washington Irving, “Shuigu de chuanshuo” 睡谷的传说 \[The legend of Sleepy Hollow\], trans. Jiang Nan Liu 江南柳, _Shi Ji Lu_ 世纪路, 16 October 1953, 9. (Microfilm NL2700)
+[^51]: Washington Irving, “Shuigu de chuanshuo” 睡谷的传说 \[The legend of Sleepy Hollow\], trans. Jiang Nan Liu 江南柳, _Shi Ji Lu_ 世纪路, 16 October 1953, 9. (Microfilm NL2700)
 
-52 Charles Fulton Oursler, “Yi chuan lan zhu” 一串蓝珠 \[A string of blue beads\], trans. Xi Bang 希邦, _Shi Ji Lu_ 世纪路_,_ 6 November 1953, 9. (Microfilm NL2701)
+[^52]: Charles Fulton Oursler, “Yi chuan lan zhu” 一串蓝珠 \[A string of blue beads\], trans. Xi Bang 希邦, _Shi Ji Lu_ 世纪路_,_ 6 November 1953, 9. (Microfilm NL2701)
 
-53 William Ernest Henley, “Yemu longzhao zhe wo” 夜幕笼罩着我 \[Out of the night that covers me\], trans. Shou Ming 受明, _Shi Ji Lu_ 世纪路, 3 December 1953, 8. (Microfilm NL2701)
+[^53]: William Ernest Henley, “Yemu longzhao zhe wo” 夜幕笼罩着我 \[Out of the night that covers me\], trans. Shou Ming 受明, _Shi Ji Lu_ 世纪路, 3 December 1953, 8. (Microfilm NL2701)
 
-54 “Ao Heng Li de shengping” 奥·亨利的生平 \[The life of O. Henry\], trans. Jia Sheng 加生, _Shi Ji Lu_ 世纪路, 14 January 1954, 8.
+[^54]: “Ao Heng Li de shengping” 奥·亨利的生平 \[The life of O. Henry\], trans. Jia Sheng 加生, _Shi Ji Lu_ 世纪路, 14 January 1954, 8.
 
-55 Lü Lun 侣伦, “Shimian ye” 失眠夜 \[Insomnia night\], _Shi Ji Lu_ 世纪路, 5 November 1953, 9. (Microfilm NL2701)
+[^55]: Lü Lun 侣伦, “Shimian ye” 失眠夜 \[Insomnia night\], _Shi Ji Lu_ 世纪路, 5 November 1953, 9. (Microfilm NL2701)
 
-56 Liu Yichang 刘以鬯, “Mi lou” 迷楼 \[Enchanting building\], _Shi Ji Lu_ 世纪路_,_ 17 October 1953, 5. (Microfilm NL2701)
+[^56]: Liu Yichang 刘以鬯, “Mi lou” 迷楼 \[Enchanting building\], _Shi Ji Lu_ 世纪路_,_ 17 October 1953, 5. (Microfilm NL2701)
 
-57 Linghu Ling 令狐玲, “Sha Shi Bi Ya de pianjian” 莎士比亚的偏见 \[The prejudices of Shakespeare\], _Shi Ji Lu_ 世纪路, 23 November 1953, 9; Linghu Ling 令狐玲, “Luo Jie Kao Fu Lai xing” 罗杰·考浮莱型 \[Roger de Coverley’s style\], _Shi Ji Lu_ 世纪路, 23 November 1953, 9. (Microfilm NL2701)
+[^57]: Linghu Ling 令狐玲, “Sha Shi Bi Ya de pianjian” 莎士比亚的偏见 \[The prejudices of Shakespeare\], _Shi Ji Lu_ 世纪路, 23 November 1953, 9; Linghu Ling 令狐玲, “Luo Jie Kao Fu Lai xing” 罗杰·考浮莱型 \[Roger de Coverley’s style\], _Shi Ji Lu_ 世纪路, 23 November 1953, 9. (Microfilm NL2701)
 
-58 Mo Da 莫达, “Bei yiwang de Yinni yishujia: ‘Suoluo He song’ de zuozhe Ma Er Duo Ni Ya Zuo” 被遗忘的印尼艺术家：“梭罗河颂”的作者玛尔多尼亚佐 \[A forgotten Indonesian artist: The composer of ‘Bengawan Solo’, Martohartono\], _Shi Ji Lu_ 世纪路, 10 December 1953, 8; Sun Bin Lin 孙彬琳, “Souji Yinni minge de changshi” 搜集印尼民歌的尝试 \[The attempt to collect Indonesian folk songs\], _Shi Ji Lu_ 世纪路, 18 December 1953, 8; Wei Zhi 微知, “Yinni yinyue zhi wojian” 印尼音乐之我见 \[My views on Indonesian music\], _Shi Ji Lu_ 世纪路, 7 January 1954, 8. (Microfilm NL2702)
+[^58]: Mo Da 莫达, “Bei yiwang de Yinni yishujia: ‘Suoluo He song’ de zuozhe Ma Er Duo Ni Ya Zuo” 被遗忘的印尼艺术家：“梭罗河颂”的作者玛尔多尼亚佐 \[A forgotten Indonesian artist: The composer of ‘Bengawan Solo’, Martohartono\], _Shi Ji Lu_ 世纪路, 10 December 1953, 8; Sun Bin Lin 孙彬琳, “Souji Yinni minge de changshi” 搜集印尼民歌的尝试 \[The attempt to collect Indonesian folk songs\], _Shi Ji Lu_ 世纪路, 18 December 1953, 8; Wei Zhi 微知, “Yinni yinyue zhi wojian” 印尼音乐之我见 \[My views on Indonesian music\], _Shi Ji Lu_ 世纪路, 7 January 1954, 8. (Microfilm NL2702)
 
-59 Bai Xu 白絮, “Saodang seqingkuang” 扫荡色情狂 \[Eradicating the perverts\], _Shi Ji Lu_ 世纪路, 17 November 1953, 9. (Microfilm NL2701)
+[^59]: Bai Xu 白絮, “Saodang seqingkuang” 扫荡色情狂 \[Eradicating the perverts\], _Shi Ji Lu_ 世纪路, 17 November 1953, 9. (Microfilm NL2701)
 
-60 Bin Bing 斌冰, “Biye hou de chulu wenti” 毕业后的出路问题 \[The future after graduation\], _Shi Ji Lu_ 世纪路, 22 December 1953, 9. (Microfilm NL2701)
+[^60]: Bin Bing 斌冰, “Biye hou de chulu wenti” 毕业后的出路问题 \[The future after graduation\], _Shi Ji Lu_ 世纪路, 22 December 1953, 9. (Microfilm NL2701)
 
-61 Yao Zi 姚紫, “Huang Yi jun de fenkai, weimian you xie tianzhen” 黄裔君的愤慨，未免有些”天真” \[The anger from Mr Huang Yi seems to be a little “naïve”\], _Shi Ji Lu_ 世纪路, 20 November 1953, 9.
+[^61]: Yao Zi 姚紫, “Huang Yi jun de fenkai, weimian you xie tianzhen” 黄裔君的愤慨，未免有些”天真” \[The anger from Mr Huang Yi seems to be a little “naïve”\], _Shi Ji Lu_ 世纪路, 20 November 1953, 9.
 
-62 Throughout Xing Ying’s editorial career, he successfully kept his supplements running for a healthy lifespan. Luo, _Xing Ying yanjiu zhuanji_, 117.
+[^62]: Throughout Xing Ying’s editorial career, he successfully kept his supplements running for a healthy lifespan. Luo, _Xing Ying yanjiu zhuanji_, 117.
 
-63 _Qing Nian Wen Yi_ had over 700 issues in seven and a half years, publishing more than one issue each week.
+[^63]: _Qing Nian Wen Yi_ had over 700 issues in seven and a half years, publishing more than one issue each week.
 
-64 Mark Twain, “Wo zenyang kaishi xie wenzhang: Ma Ke Tu Wen de zixuan” 我怎样开始写文章：马克吐温的自选 \[How I start writing essays: Mark Twain’s selection\], _Qing Nian Wen Yi_ 青年文艺, 17 May 1961, 17. (Microfilm NL2768)
+[^64]: Mark Twain, “Wo zenyang kaishi xie wenzhang: Ma Ke Tu Wen de zixuan” 我怎样开始写文章：马克吐温的自选 \[How I start writing essays: Mark Twain’s selection\], _Qing Nian Wen Yi_ 青年文艺, 17 May 1961, 17. (Microfilm NL2768)
 
-65 The lectures included “The New and Old of Japanese Culture” (日本文化的新与旧), “The Meiji Restoration and Modern Japan” (明治维新和现代日本), “Confucian Doctrine in Japan” (孔子学说在日本), “Japanese Buddhism” (日本的佛教), “Towards a Great Japan” (走向一个伟大的日本), and “Japanese Customs and Traditions” (日本的风俗习俗). The contents of these lectures were subsequently published in _Nanyang Siang Pau_. Zhuang Ming Xuan 庄明萱, “Xing Ying lun” 杏影论 \[A discussion on Xing Ying\], in Luo, _Xing Ying yanjiu zhuanji_, 88.
+[^65]: The lectures included “The New and Old of Japanese Culture” (日本文化的新与旧), “The Meiji Restoration and Modern Japan” (明治维新和现代日本), “Confucian Doctrine in Japan” (孔子学说在日本), “Japanese Buddhism” (日本的佛教), “Towards a Great Japan” (走向一个伟大的日本), and “Japanese Customs and Traditions” (日本的风俗习俗). The contents of these lectures were subsequently published in _Nanyang Siang Pau_. Zhuang Ming Xuan 庄明萱, “Xing Ying lun” 杏影论 \[A discussion on Xing Ying\], in Luo, _Xing Ying yanjiu zhuanji_, 88.
 
-66 “Xian gei Gangguo” 献给刚果 \[Dedicated to Congo\], _Qing Nian Wen Yi_ 青年文艺, 8 March 1961, 15. (Microfilm NL2766)
+[^66]: “Xian gei Gangguo” 献给刚果 \[Dedicated to Congo\], _Qing Nian Wen Yi_ 青年文艺, 8 March 1961, 15. (Microfilm NL2766)
 
-67 Ismail Hussein, “Dong Ge Hua Lan: Jiechu de Malai shiren” 东革·华兰: 杰出的马来诗人 \[An outstanding Malay poet: Tongkat Warrant\], trans. Ye Ren Shi 椰人试, _Qing Nian Wen Yi_ 青年文艺, 14 August 1961, 17 (Microfilm NL3319); and M. Zain Salleh, “Jianshe shiqi de wenxue de renwu” 建设时期的文学的任务 \[The mission of literature during nation building\], trans. Ma Li 马里, _Qing Nian Wen Yi_ 青年文艺, 8 May 1961, 17. (Microfilm NL3319)
+[^67]: Ismail Hussein, “Dong Ge Hua Lan: Jiechu de Malai shiren” 东革·华兰: 杰出的马来诗人 \[An outstanding Malay poet: Tongkat Warrant\], trans. Ye Ren Shi 椰人试, _Qing Nian Wen Yi_ 青年文艺, 14 August 1961, 17 (Microfilm NL3319); and M. Zain Salleh, “Jianshe shiqi de wenxue de renwu” 建设时期的文学的任务 \[The mission of literature during nation building\], trans. Ma Li 马里, _Qing Nian Wen Yi_ 青年文艺, 8 May 1961, 17. (Microfilm NL3319)
 
-While _LüZhou_ was more literary, _Zhou Mo Qing Nian_ was targeted at the youth.70
+[^68]: Bi Cheng 碧澄, “Yisa Hazhi Muhamo: Yi wei qin yu xiezuo de Malai zuojia” 依萨哈芝穆哈末: 一位勤于写作的马来作家 \[Ishak Haji Muhammad: A hardworking Malay writer\], _Qing Nian Wen Yi_ 青年文艺, 25 December 1961, 18. (Microfilm NL3319)
 
-68 Bi Cheng 碧澄, “Yisa Hazhi Muhamo: Yi wei qin yu xiezuo de Malai zuojia” 依萨哈芝穆哈末: 一位勤于写作的马来作家 \[Ishak Haji Muhammad: A hardworking Malay writer\], _Qing Nian Wen Yi_ 青年文艺, 25 December 1961, 18. (Microfilm NL3319)
+[^69]: Yao Zi 姚紫, “Duzhe, zuozhe, bianzhe” 读者、作者、编者 \[Reader, author, editor\], _Zhou Mo Qing Nian_ 周末青年, 22 November 1952, 3. 
 
-69 Yao Zi 姚紫, “Duzhe, zuozhe, bianzhe” 读者、作者、编者 \[Reader, author, editor\], _Zhou Mo Qing Nian_ 周末青年, 22 November 1952, 3. 70 Yao, “Duzhe, zuozhe, bianzhe.”
+[^70]: Yao, “Duzhe, zuozhe, bianzhe.”
 
-71 Li Jian 李建, “Gejiao de gongren” 割胶的工人 \[The rubber tappers\], _Zhou Mo Qing Nian_ 周末青年, 29 November 1952, 3; Yuan Yuan 媛媛, “Shiye” 失业 \[Unemployment\], _Zhou Mo Qing Nian_ 周末青年, 6 December 1952, 3.
+[^71]: Li Jian 李建, “Gejiao de gongren” 割胶的工人 \[The rubber tappers\], _Zhou Mo Qing Nian_ 周末青年, 29 November 1952, 3; Yuan Yuan 媛媛, “Shiye” 失业 \[Unemployment\], _Zhou Mo Qing Nian_ 周末青年, 6 December 1952, 3.
 
-72 _Zhou Mo Qing Nian_ 周末青年, 29 November 1952, 3.&nbsp;
+[^72]: _Zhou Mo Qing Nian_ 周末青年, 29 November 1952, 3.&nbsp;
 
-73 Qin Kai 秦凯. “Tougao shibai geiwo de jingyan” 投稿失败给我的经验 \[My experience with manuscript rejection\], _Zhou Mo Qing Nian_ 周末青年, 6 December 1952, 3.
+[^73]: Qin Kai 秦凯. “Tougao shibai geiwo de jingyan” 投稿失败给我的经验 \[My experience with manuscript rejection\], _Zhou Mo Qing Nian_ 周末青年, 6 December 1952, 3.
 
-74 “我需要再声明一下：“‘青年广场’不是私人泄愤的地方，也不是意气用事的地方。它主要的用意在于：推使马华教育进步到合法合理的境界。也就因为这样，我们才要求：有冤屈、可申诉；遇到不合理的事象，可抨击。使一些不可阐明的学校当局不致‘关起大门，作威作福’。” _Zhou Mo Qing Nian_ 周末青年, 12 December 1952, 3.
+[^74]: “我需要再声明一下：“‘青年广场’不是私人泄愤的地方，也不是意气用事的地方。它主要的用意在于：推使马华教育进步到合法合理的境界。也就因为这样，我们才要求：有冤屈、可申诉；遇到不合理的事象，可抨击。使一些不可阐明的学校当局不致‘关起大门，作威作福’。” _Zhou Mo Qing Nian_ 周末青年, 12 December 1952, 3.
 
-75 Li Ru 李儒, “Tingxue yi xueqi, ye yao jiao xuefei, zhi xu xiansheng ma, buzhun xuesheng ai” 停学一学期，也要交学费，只许先生骂，不准学生哀 \[Lessons on hold for a semester, but school fees still charged: Teachers allowed to reprimand, students not allowed to cry foul\], _Zhou Mo Qing Nian_ 周末青年, 6 December 1952, 3.
+[^75]: Li Ru 李儒, “Tingxue yi xueqi, ye yao jiao xuefei, zhi xu xiansheng ma, buzhun xuesheng ai” 停学一学期，也要交学费，只许先生骂，不准学生哀 \[Lessons on hold for a semester, but school fees still charged: Teachers allowed to reprimand, students not allowed to cry foul\], _Zhou Mo Qing Nian_ 周末青年, 6 December 1952, 3.
 
-76 Han Jiang 韩江, “Jinzhi nannü tanhua, jiancha xuesheng xinjian, ruci weifeng xiaozhang, kaiyou pijiu liang zhi” 禁止男女谈话，检查学生信件，如此威风校长，揩油啤酒两支 \[Bans conversation between boys and girls, reads students’ letters: High-handed principal takes petty advantage with two bottles of beer\], _Zhou Mo Qing Nian_ 周末青年, 13 December 1952, 3; Hua Ren 化人, “Tougao qi fengbo, xiaozhang you quan neng shigui, siwen jin saodi, bianzhe wuliang zuo bangxiong” 投稿起风波，校长有权能使鬼，斯文尽扫地，编者无良作帮凶 \[Article submission stirs up a storm: Principal with power to manipulate, propriety a façade, editor as accomplice\], _Zhou Mo Qing Nian_ 周末青年, 27 December 1925, 3.
+[^76]: Han Jiang 韩江, “Jinzhi nannü tanhua, jiancha xuesheng xinjian, ruci weifeng xiaozhang, kaiyou pijiu liang zhi” 禁止男女谈话，检查学生信件，如此威风校长，揩油啤酒两支 \[Bans conversation between boys and girls, reads students’ letters: High-handed principal takes petty advantage with two bottles of beer\], _Zhou Mo Qing Nian_ 周末青年, 13 December 1952, 3; Hua Ren 化人, “Tougao qi fengbo, xiaozhang you quan neng shigui, siwen jin saodi, bianzhe wuliang zuo bangxiong” 投稿起风波，校长有权能使鬼，斯文尽扫地，编者无良作帮凶 \[Article submission stirs up a storm: Principal with power to manipulate, propriety a façade, editor as accomplice\], _Zhou Mo Qing Nian_ 周末青年, 27 December 1925, 3.
 
-77 Poetry special column in _Zhou Mo Qing Nian_ 周末青年, 12 December 1952, 3; 13 December 1952, 3; and 27 December 1952, 3.
+[^77]: Poetry special column in _Zhou Mo Qing Nian_ 周末青年, 12 December 1952, 3; 13 December 1952, 3; and 27 December 1952, 3.
 
-78 Xing Ying 杏影, “Xin Miao Mailbox,” _Xin Miao_ 新苗, 4 March 1958, 15. (Microfilm NL2736)
+[^78]: Xing Ying 杏影, “Xin Miao Mailbox,” _Xin Miao_ 新苗, 4 March 1958, 15. (Microfilm NL2736)
 
-79 Xing Ying 杏影, “Guanyu Xin Miao de chuangkan” 关于《新苗》的创刊 \[About the start of Xin Miao\], _Xin Miao_ 新苗, 1 March 1958, 8. (Microfilm NL2735)
+[^79]: Xing Ying 杏影, “Guanyu Xin Miao de chuangkan” 关于《新苗》的创刊 \[About the start of Xin Miao\], _Xin Miao_ 新苗, 1 March 1958, 8. (Microfilm NL2735)
 
-80 Liu Shun 柳舜, “Ta buhui jimo” 他不会寂寞 \[He will not be lonely\], in Luo, _Xing Ying yanjiu zhuanji_, 114.
+[^80]: Liu Shun 柳舜, “Ta buhui jimo” 他不会寂寞 \[He will not be lonely\], in Luo, _Xing Ying yanjiu zhuanji_, 114.
 
-81 Yang Zhi 杨之, “Wo de diyici lüxing” 我的第一次旅行 \[My first overseas trip\], _Xin Miao_ 新苗, 4 March 1958, 17. (Microfilm NL2736)
+[^81]: Yang Zhi 杨之, “Wo de diyici lüxing” 我的第一次旅行 \[My first overseas trip\], _Xin Miao_ 新苗, 4 March 1958, 17. (Microfilm NL2736)
 
-82 Lao Er 老二, “Diyici ceyan” 第一次测验 \[The first attempt\]; Wen Sheng 文声, “Mangguo” 芒果 \[Mango\]; Xian Ming 冼明, “Tuzi, lang, daxiang, huli” 兔子·狼·大象·狐狸 \[Rabbit, wolf, elephant, fox\]; and Huang Feng 黄奉, “Zai jiaolin li” 在胶林里 \[In the rubber plantation\], _Xin Miao_ 新苗, 15 March 1958, 19. (Microfilm NL2736)
+[^82]: Lao Er 老二, “Diyici ceyan” 第一次测验 \[The first attempt\]; Wen Sheng 文声, “Mangguo” 芒果 \[Mango\]; Xian Ming 冼明, “Tuzi, lang, daxiang, huli” 兔子·狼·大象·狐狸 \[Rabbit, wolf, elephant, fox\]; and Huang Feng 黄奉, “Zai jiaolin li” 在胶林里 \[In the rubber plantation\], _Xin Miao_ 新苗, 15 March 1958, 19. (Microfilm NL2736)
 
-83 Xue Li Si 学裏思, “Xinma de yibufen diceng shenghuo” 新马的一部分底层生活 \[Living in the lower class in Singapore and Malaya\], _Xin Miao_ 新苗, 4 March 1958, 15; Xiao Yun 小韵, “Shang basha” 上巴刹 \[To the wet market\], _Xin Miao_ 新苗, 8 March 1958; Zhu Ying 竹影, “Wo de xiangcun” 我的乡村 \[My village\], _Xin Miao_ 新苗, 11 March 1958, 18; Hong Xing 红星, “Yalong de huozai” 芽笼的火灾 \[A fire in Geylang\], _Xin Miao_ 新苗, 19 April 1958, 18; Gao Bang 高邦, “Nühuangzhen” 女皇镇 \[Queenstown\], _Xin Miao_ 新苗, 27 March 1958. (Microfilm NL2742)
+[^83]: Xue Li Si 学裏思, “Xinma de yibufen diceng shenghuo” 新马的一部分底层生活 \[Living in the lower class in Singapore and Malaya\], _Xin Miao_ 新苗, 4 March 1958, 15; Xiao Yun 小韵, “Shang basha” 上巴刹 \[To the wet market\], _Xin Miao_ 新苗, 8 March 1958; Zhu Ying 竹影, “Wo de xiangcun” 我的乡村 \[My village\], _Xin Miao_ 新苗, 11 March 1958, 18; Hong Xing 红星, “Yalong de huozai” 芽笼的火灾 \[A fire in Geylang\], _Xin Miao_ 新苗, 19 April 1958, 18; Gao Bang 高邦, “Nühuangzhen” 女皇镇 \[Queenstown\], _Xin Miao_ 新苗, 27 March 1958. (Microfilm NL2742)
 
-84 Huang Hun 黄昏, “Yaolanqu” 摇篮曲 \[Lullaby\], lyrics by Hu Yang 湖洋, _Xin Miao_ 新苗, 10 June 1958, 17; Huang Hun 黄昏, “Ziye” 子夜 \[Midnight\], lyrics by Hu Yang 湖洋, _Xin Miao_ 新苗, 25 March 1958, 18; Huang Hun 黄昏, “Muqin jiao wo yi shou erge” 母亲教我一首儿歌 \[A nursery rhyme my mother taught me\], lyrics by Hu Yang 湖洋, _Xin Miao_ 新苗, 11 March 1958, 18; Huang Hun 黄昏, “Tianyuan fang cao” 田园芳草 \[Idyllic fields\], lyrics by Hu Yang 湖洋, _Xin Miao_ 新苗, 15 March 1958, 19. (Microfilm NL2742)
+[^84]: Huang Hun 黄昏, “Yaolanqu” 摇篮曲 \[Lullaby\], lyrics by Hu Yang 湖洋, _Xin Miao_ 新苗, 10 June 1958, 17; Huang Hun 黄昏, “Ziye” 子夜 \[Midnight\], lyrics by Hu Yang 湖洋, _Xin Miao_ 新苗, 25 March 1958, 18; Huang Hun 黄昏, “Muqin jiao wo yi shou erge” 母亲教我一首儿歌 \[A nursery rhyme my mother taught me\], lyrics by Hu Yang 湖洋, _Xin Miao_ 新苗, 11 March 1958, 18; Huang Hun 黄昏, “Tianyuan fang cao” 田园芳草 \[Idyllic fields\], lyrics by Hu Yang 湖洋, _Xin Miao_ 新苗, 15 March 1958, 19. (Microfilm NL2742)
 
-85 Gao Xiu 高秀, “Yu youren xue yinyue” 与友人学音乐 \[Learning music with friends\], _Xin Miao_ 新苗, 10 June 1958, 17; Yu Si Yi 余思毅, “Yinyue yu rensheng,” 音乐与人生 \[Music and life\], _Xin Miao_ 新苗, 20 March 1958, 15; Bai Li Shan 白里山, “Wo kan ‘Pao Lü’: Zhongguo minjian wudao” 我看《跑驴》: 中国民间舞蹈 \[My view on ‘Running Donkey’: Chinese folk dance\], _Xin Miao_ 新苗, 24 May 1958, 15; Shan Ba Zi 山芭子, “Xin xiaoshe ge” 新校舍歌 \[The new school song\], _Xin Miao_ 新苗, 15 May 1958, 15. (Microfilm NL2743)
+[^85]: Gao Xiu 高秀, “Yu youren xue yinyue” 与友人学音乐 \[Learning music with friends\], _Xin Miao_ 新苗, 10 June 1958, 17; Yu Si Yi 余思毅, “Yinyue yu rensheng,” 音乐与人生 \[Music and life\], _Xin Miao_ 新苗, 20 March 1958, 15; Bai Li Shan 白里山, “Wo kan ‘Pao Lü’: Zhongguo minjian wudao” 我看《跑驴》: 中国民间舞蹈 \[My view on ‘Running Donkey’: Chinese folk dance\], _Xin Miao_ 新苗, 24 May 1958, 15; Shan Ba Zi 山芭子, “Xin xiaoshe ge” 新校舍歌 \[The new school song\], _Xin Miao_ 新苗, 15 May 1958, 15. (Microfilm NL2743)
