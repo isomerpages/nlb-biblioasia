@@ -15,7 +15,7 @@ Team: Jane Wee, Yang Qinli, Agnes Ang, Chan Pan Fong, Wu Hao.
 
 If you have any comments or suggestions about this exhibition, please share your feedback with us through this <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/sgchinesereadingclubs-feedback">link</a>.
 
-本展有华文和英文版，点击浏览[英文版](/chinese-reading-clubs/english/)。
+本展有英文和华文版，点击浏览[华文版](https://biblioasia.nlb.gov.sg/chinese-reading-clubs/)。
 
 
  
