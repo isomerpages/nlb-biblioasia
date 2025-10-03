@@ -2,7 +2,7 @@ collections:
   chinese-reading-clubs-english:
     output: true
     order:
-      - Chinese Reading Clubs English.md
+      - Introduction.md
       - The Past.md
       - The Present/.keep
       - The Present/Timeline.md
