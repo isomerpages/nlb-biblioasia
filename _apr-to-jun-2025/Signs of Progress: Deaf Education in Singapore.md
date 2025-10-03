@@ -284,7 +284,7 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^45]: Syarafana Shafeeq, “New E-book on Singapore Sign Language Among Latest Efforts to Raise Visibility of Local Signing,” _Straits Times_, 20 October 2024, [https://www.straitstimes.com/singapore/new-e-book-on-singapore-sign-language-among-latest-efforts-to-raise-visibility-of-local-signing](https://www.straitstimes.com/singapore/new-e-book-on-singapore-sign-language-among-latest-efforts-to-raise-visibility-of-local-signing); “Singapore Sign Language Classes,” Nanyang Technological University, accessed 28 November 2024, [https://www.ntu.edu.sg/cml/languages/singapore-sign-language/singapore-sign-language-classes](https://www.ntu.edu.sg/cml/languages/singapore-sign-language/singapore-sign-language-classes).
      
 
-[^46]: “Sign Language Module Offers Students Unique Learning Opportunity and Insight on Deaf Culture,” Yale NUS College, 31 March 2020, [https://www.yale-nus.edu.sg/story/31-march-2020-sign-language-module-offers-students-unique-learning-opportunity-and-insight-on-deaf-culture/](https://www.yale-nus.edu.sg/story/31-march-2020-sign-language-module-offers-students-unique-learning-opportunity-and-insight-on-deaf-culture/).
+[^46]: “Sign Language Module Offers Students Unique Learning Opportunity and Insight on Deaf Culture,” Yale NUS College, 31 March 2020, https://www.yale-nus.edu.sg/story/31-march-2020-sign-language-module-offers-students-unique-learning-opportunity-and-insight-on-deaf-culture/.
 
 
 [^47]: “SgSL Sign Bank Launched!,” The Singapore Association for the Deaf, accessed 28 November 2024, [https://sadeaf.org.sg/sgsl-sign-bank-launched/](https://sadeaf.org.sg/sgsl-sign-bank-launched/).
