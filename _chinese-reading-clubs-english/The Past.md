@@ -149,7 +149,7 @@ In 2016, "Chinese Reading Clubs in Singapore" was published by CPCLL. Reading cl
 This important publication documented 17 reading clubs, featuring not only traditional adult reading clubs but also new parent-child reading clubs and library-run reading clubs for different children's age groups. This publication also included analytical articles on the development of reading clubs and educational reading programmes in schools and communities, marking the transition of Chinese reading clubs into a phase of comprehensive, multi-generational growth.
  
 ![](/images/Reading%20Club%20Exhibition/Past/Past_2016_2.png)
-<div style="background-color:white;">Chinese Reading Clubs in Singapore. Courtesy of Committee to Promote Chinese Language Learning.</div>
+<div style="background-color:white;">Chinese Reading Clubs in Singapore. <i>Courtesy of Committee to Promote Chinese Language Learning.</i></div>
 
 
 From 2018 onwards, Hwa Chong Institution joined as the third organiser, providing a bigger venue capacity to enable greater student participation in opening ceremonies, helping to cultivate a love of reading among young people during World Book Day celebrations.
