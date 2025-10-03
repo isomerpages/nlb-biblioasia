@@ -1,5 +1,5 @@
 ---
-title: Landing Page
+title: Introduction
 permalink: /chinese-reading-clubs/english/
 variant: markdown
 description: ""
@@ -15,8 +15,8 @@ Team: Jane Wee, Yang Qinli, Agnes Ang, Chan Pan Fong, Wu Hao.
 
 If you have any comments or suggestions about this exhibition, please share your feedback with us through this <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/sgchinesereadingclubs-feedback">link</a>.
 
-This exhibition is available in both Chinese and English. Click [here](https://biblioasia.nlb.gov.sg/chinese-reading-clubs/)
-to browse the Chinese version.
+本展有英文和华文版，点击浏览[华文版](https://biblioasia.nlb.gov.sg/chinese-reading-clubs/)。
+
 
  
 <a href="/chinese-reading-clubs/english/past/"> <img src="/images/Reading%20Club%20Exhibition/Landing%20Page/Past_Banner3.png" style="width: 100%;"> </a>
