@@ -545,7 +545,7 @@ with several of the issues featuring musical scores and music-related writing.
 *Xin Miao* published four scores, all composed by Huang Hun (黄昏), with
 lyrics by Hu Yang (湖洋): “Lullaby” (摇篮曲), “Midnight” (子夜), “A Nursery
 Rhyme My Mother Taught Me” (母亲教我一首儿歌) and “Idyllic Fields”
-(田园芳草) (Figure 7).[^85] Articles with musical themes included “Learning
+(田园芳草) (Figure 7).[^84] Articles with musical themes included “Learning
 Music with Friends” (与友人学音乐) by Gao Xiu (高秀), “Music and Life”
 (音乐与人生) by Yu Si Yi (余思毅), and “My View on ‘Running Donkey’:
 Chinese Folk Dance” (我看《跑驴》:中国民间舞蹈) and “The New School
