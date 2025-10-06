@@ -77,3 +77,15 @@ Call no. RSING 297.355957 GRA
 ![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective23.jpg)
 
 For over two centuries, Masjid Sultan (Sultan Mosque) in Kampong Gelam has been a spiritual and cultural landmark in Singapore. This volume covers the mosque’s history and new insights about its founding, leadership and legacy.
+
+
+#### **[Wild Life: Stories of Singapore Biodiversity](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300134525)**
+Edited by Anthony D. Medrano, Eunice J. Tan and Tanisha Nagqvi
+ 
+Lee Kong Chian Natural History Museum (2025), 241 pages
+ 
+Call no. RSING 333.95095957 TAN
+
+![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective23.jpg)
+
+Examining the rich and diverse ecosystems in Singapore through the lens of science, ecology, culture and history, this collection of essays spans the seas, forests and freshwaters and looks at animals like dugongs, bulbuls and catfishes to understand what it means to be a city in nature.
