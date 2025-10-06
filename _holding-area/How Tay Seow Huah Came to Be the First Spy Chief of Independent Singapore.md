@@ -15,7 +15,7 @@ description: ""
 
 Tay Seow Huah, then Permanent Secretary for the Ministry of Home Affairs, helmed Singapore’s response to the 1974 Laju hijacking. This was when four terrorists tried (but failed) to destroy Shell’s oil infrastructure on Pulau Bukom Besar and subsequently took five hostages. &nbsp;
 
-Little is known about Tay, who was the founding Director of the Security and Intelligence Division. _BiblioAsia_ Editor-in-Chief Jimmy Yap interviews Tay’s son Simon, who has written a memoir about his father titled _Enigmas: Tay Seow Huah, My Father, Singapore’s Pioneer Spy Chief_.&nbsp;
+Little is known about Tay, who was the founding Director of the Security and Intelligence Division. _BiblioAsia_ Editor-in-Chief Jimmy Yap interviews Tay’s son Simon, who has written a memoir about his father titled [_Enigmas: Tay Seow Huah, My Father, Singapore’s Pioneer Spy Chief_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300038279).&nbsp;
 
   
 
@@ -41,7 +41,7 @@ I think that gave a lot of background to his experience as being, as the title o
 
   
 
-**Jimmy:** Your account of the hostage situation your father was dealing with was very detailed. I was just reading Mr \[S.R.\] Nathan’s biography, and he has some information. Presumably the press would have covered what they could see and what they were told. I always felt like you had an insight into what he \[Tay Seow Huah\] was doing in that office in Kallang. I’m sure the security agency wasn’t anxious to open their file for you.&nbsp;
+**Jimmy:** Your account of the hostage situation your father was dealing with was very detailed. I was just reading [Mr \[S.R.\] Nathan’s biography](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14182432), and he has some information. Presumably the press would have covered what they could see and what they were told. I always felt like you had an insight into what he \[Tay Seow Huah\] was doing in that office in Kallang. I’m sure the security agency wasn’t anxious to open their file for you.&nbsp;
 
   
 
