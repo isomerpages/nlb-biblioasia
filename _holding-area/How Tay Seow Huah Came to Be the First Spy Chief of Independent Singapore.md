@@ -15,7 +15,13 @@ description: ""
 
 Tay Seow Huah, then Permanent Secretary for the Ministry of Home Affairs, helmed Singapore’s response to the 1974 Laju hijacking. This was when four terrorists tried (but failed) to destroy Shell’s oil infrastructure on Pulau Bukom Besar and subsequently took five hostages. &nbsp;
 
-Little is known about Tay, who was the founding Director of the Security and Intelligence Division. _BiblioAsia_ Editor-in-Chief Jimmy Yap interviews Tay’s son Simon, who has written a memoir about his father titled _Enigmas: Tay Seow Huah, My Father, Singapore’s Pioneer Spy Chief_.&nbsp;
+Little is known about Tay, who was the founding Director of the Security and Intelligence Division. _BiblioAsia_ Editor-in-Chief Jimmy Yap interviews Tay’s son Simon, who has written a memoir about his father titled [_Enigmas: Tay Seow Huah, My Father, Singapore’s Pioneer Spy Chief_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300038279).&nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/Spy/Spy_Enigmas.png" style="width: 40%;">
+
+
+<div style="background-color: white;">Published by Landmark Books, 2024. <i> From the National Library Singapore (Call no. RSING 327.12092 TAY).</i></div>
+
 
   
 
@@ -41,7 +47,7 @@ I think that gave a lot of background to his experience as being, as the title o
 
   
 
-**Jimmy:** Your account of the hostage situation your father was dealing with was very detailed. I was just reading Mr \[S.R.\] Nathan’s biography, and he has some information. Presumably the press would have covered what they could see and what they were told. I always felt like you had an insight into what he \[Tay Seow Huah\] was doing in that office in Kallang. I’m sure the security agency wasn’t anxious to open their file for you.&nbsp;
+**Jimmy:** Your account of the hostage situation your father was dealing with was very detailed. I was just reading [Mr \[S.R.\] Nathan’s biography](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14182432), and he has some information. Presumably the press would have covered what they could see and what they were told. I always felt like you had an insight into what he \[Tay Seow Huah\] was doing in that office in Kallang. I’m sure the security agency wasn’t anxious to open their file for you.&nbsp;
 
   
 
@@ -54,13 +60,13 @@ And Mr Nathan’s book went into great detail. Of course, the newspapers covered
 **Jimmy:** We know that President Nathan was part of a team of Singaporeans who accompanied the four hijackers to Kuwait to guarantee their safety. And I think your father was or was perhaps possibly one of those people who was supposed to have gone on, but didn’t. In your book, you talked about that.
 
 
-<img src="/images/Vol%2021%20Issue%204/Spy/Spy_portrait.png" style="width:65%;">
+<img src="/images/Vol%2021%20Issue%204/Spy/Spy_portrait.png" style="width:55%;">
 
 
 <div style="background-color: white;"> Simon Tay: lawyer, academic and winner of the 2010 Singapore Literature Prize.  <i> Photo by Jimmy Yap. </i></div>
 
-
+,
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-Scan the QR code to listen to the full interview with Simon Tay on the BiblioAsia+ podcast, “First Spy Chief of Independent Singapore, Tay Seow Huah”.
+Listen to the full interview with Simon Tay on the BiblioAsia+ podcast, “<a href="https://biblioasia.nlb.gov.sg/podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/">First Spy Chief of Independent Singapore, Tay Seow Huah</a>”.
 <br></div>

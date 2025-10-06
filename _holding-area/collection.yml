@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - New Books on Singapore History.md
       - How Tay Seow Huah Came to Be the First Spy Chief of Independent
         Singapore.md
       - Sample article.md
