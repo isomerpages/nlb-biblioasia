@@ -9,14 +9,26 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
-      button: "Pages of Progress: The Toa Payoh Public Library"
+      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
+      button: "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
+        Firewalking"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Toa Payoh/HeroImage_ToaPayoh_2.jpg
+      background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
       variant: center
+  - infopic:
+      title: Luís de Camões in Asia
+      subtitle: People
+      id: infopic
+      description: Portugal’s most important poet was once imprisoned in Goa, saw
+        fighting in Ternate and worked as the Superintendent for the Dead and
+        Missing in Macau.
+      button: AUTHOR OF POEM, OS LUSÍADAS
+      url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
+      image: /images/Vol 21 Issue 3/Luis/luis_topics.jpg
+      alt: Luís de Camões in Asia
   - infopic:
       title: New Books on Singapore History (Oct 2025)
       subtitle: Literature
@@ -882,17 +894,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Luís de Camões in Asia
-      subtitle: People
-      id: infopic
-      description: Portugal’s most important poet was once imprisoned in Goa, saw
-        fighting in Ternate and worked as the Superintendent for the Dead and
-        Missing in Macau.
-      button: AUTHOR OF POEM, OS LUSÍADAS
-      url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
-      image: /images/Vol 21 Issue 3/Luis/luis_topics.jpg
-      alt: Luís de Camões in Asia
   - infopic:
       title: Women Photographers in Singapore and Malaya
       subtitle: Photography
