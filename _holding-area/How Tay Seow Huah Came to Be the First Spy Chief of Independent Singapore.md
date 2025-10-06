@@ -54,13 +54,13 @@ And Mr Nathan’s book went into great detail. Of course, the newspapers covered
 **Jimmy:** We know that President Nathan was part of a team of Singaporeans who accompanied the four hijackers to Kuwait to guarantee their safety. And I think your father was or was perhaps possibly one of those people who was supposed to have gone on, but didn’t. In your book, you talked about that.
 
 
-<img src="/images/Vol%2021%20Issue%204/Spy/Spy_portrait.png" style="width:65%;">
+<img src="/images/Vol%2021%20Issue%204/Spy/Spy_portrait.png" style="width:55%;">
 
 
 <div style="background-color: white;"> Simon Tay: lawyer, academic and winner of the 2010 Singapore Literature Prize.  <i> Photo by Jimmy Yap. </i></div>
 
-
+,
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-Scan the QR code to listen to the full interview with Simon Tay on the BiblioAsia+ podcast, “First Spy Chief of Independent Singapore, Tay Seow Huah”.
+Listen to the full interview with Simon Tay on the BiblioAsia+ podcast, “<a href="https://biblioasia.nlb.gov.sg/podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/">First Spy Chief of Independent Singapore, Tay Seow Huah</a>”.
 <br></div>
