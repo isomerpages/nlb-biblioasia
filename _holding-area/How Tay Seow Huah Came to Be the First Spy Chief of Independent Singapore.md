@@ -17,6 +17,12 @@ Tay Seow Huah, then Permanent Secretary for the Ministry of Home Affairs, helmed
 
 Little is known about Tay, who was the founding Director of the Security and Intelligence Division. _BiblioAsia_ Editor-in-Chief Jimmy Yap interviews Tay’s son Simon, who has written a memoir about his father titled [_Enigmas: Tay Seow Huah, My Father, Singapore’s Pioneer Spy Chief_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300038279).&nbsp;
 
+<img src="/images/Vol%2021%20Issue%204/Spy/Spy_Enigmas.png" style="width: 40%;">
+
+
+<div style="background-color: white;">Published by Landmark Books, 2024. <i> From the National Library Singapore (Call no. RSING 327.12092 TAY).</i></div>
+
+
   
 
 **Simon Tay:** My father in 1965 got a call from Mr Lee Kuan Yew at the helm of the newly independent republic, and basically got told to head the Special Branch. Why him? Well, prior to this, he was the port manager at the Singapore Harbour Board, today the Maritime &amp; Port Authority \[of Singapore\] and in between that, the Port Authority of Singapore.
