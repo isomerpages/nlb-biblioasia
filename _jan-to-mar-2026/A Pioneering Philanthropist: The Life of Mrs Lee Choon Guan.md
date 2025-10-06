@@ -157,7 +157,7 @@ Today, Mrs Lee’s philanthropic work carries on through the Mrs Lee Choon Guan 
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/OoiYulin.png">
-<b>Yu-lin Ooi</b> is a historian and anthropologist who chronicles social change in Singapore, especially among women.  </div>
+<b>Yu-lin Ooi</b> is a historian and anthropologist who chronicles social change in Singapore, especially among women. She has documented 200 years of philanthropy in Singapore for the National University of Singapore initiated by the Mrs Lee Choon Guan Trust fund, available online at&nbsp;[https://www.ccsgp.comp.nus.edu.sg/applied-research.](https://www.ccsgp.comp.nus.edu.sg/applied-research.)</div>
 
 #### **Notes**
 
