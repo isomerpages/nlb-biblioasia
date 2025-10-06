@@ -19,6 +19,17 @@ sections:
       background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
       variant: center
   - infopic:
+      title: Luís de Camões in Asia
+      subtitle: People
+      id: infopic
+      description: Portugal’s most important poet was once imprisoned in Goa, saw
+        fighting in Ternate and worked as the Superintendent for the Dead and
+        Missing in Macau.
+      button: AUTHOR OF POEM, OS LUSÍADAS
+      url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
+      image: /images/Vol 21 Issue 3/Luis/luis_topics.jpg
+      alt: Luís de Camões in Asia
+  - infopic:
       title: New Books on Singapore History (Oct 2025)
       subtitle: Literature
       id: infopic
@@ -883,17 +894,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Luís de Camões in Asia
-      subtitle: People
-      id: infopic
-      description: Portugal’s most important poet was once imprisoned in Goa, saw
-        fighting in Ternate and worked as the Superintendent for the Dead and
-        Missing in Macau.
-      button: AUTHOR OF POEM, OS LUSÍADAS
-      url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
-      image: /images/Vol 21 Issue 3/Luis/luis_topics.jpg
-      alt: Luís de Camões in Asia
   - infopic:
       title: Women Photographers in Singapore and Malaya
       subtitle: Photography
