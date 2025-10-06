@@ -52,3 +52,28 @@ Call no. RSING 305.8918605957 BER
 ![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective23.jpg)
 
 Jan Beránek uncovers the fate of his missing granduncle Silvestr Neměc, a Czech who left for Singapore in 1938 to work for the Bata Shoe Company. In February 1942, Neměc participated in the battle on Pasir Panjang Ridge. He was most likely wounded and taken to Alexandra Hospital where he died during the Japanese massacre of patients and medical staff. Beránek also traces the history of the shoe company in the Far East and the Czechoslovak community in Singapore before and during World War II.
+
+
+#### **[Reimagining Singapore’s History: Essays on Pre-Colonial Roots and Modern Identity](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300055348)**
+By Matthew Oey
+
+Penguin Books (2025), 269 pages
+
+Call no. RSING 959.5703 REI
+
+
+![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective23.jpg)
+
+Although Singapore’s pre-1819 history going back to the 14th-century trading post of Temasek is known among academics, it entered public consciousness only in the last decade. Essays by various historians examine the changes in scholarship, bridge the gap between academic and public knowledge, and explore the relevance of Singapore’s precolonial history.
+
+
+#### **[The Grand Mosque of Singapore: Two Centuries in the History of Masjid Sultan ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300055348)**
+Edited by Hadijah Rahmat JP, et al. 
+
+Masjid Sultan (2025), 437 pages
+
+Call no. RSING 297.355957 GRA
+
+![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective23.jpg)
+
+For over two centuries, Masjid Sultan (Sultan Mosque) in Kampong Gelam has been a spiritual and cultural landmark in Singapore. This volume covers the mosque’s history and new insights about its founding, leadership and legacy.
