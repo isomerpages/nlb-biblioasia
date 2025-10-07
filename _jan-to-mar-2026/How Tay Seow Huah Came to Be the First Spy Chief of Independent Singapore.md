@@ -65,7 +65,7 @@ And Mr Nathan’s book went into great detail. Of course, the newspapers covered
 
 <div style="background-color: white;"> Simon Tay: lawyer, academic and winner of the 2010 Singapore Literature Prize.  <i> Photo by Jimmy Yap. </i></div>
 
-,
+
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 Listen to the full interview with Simon Tay on the BiblioAsia+ podcast, “<a href="https://biblioasia.nlb.gov.sg/podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/">First Spy Chief of Independent Singapore, Tay Seow Huah</a>”.
