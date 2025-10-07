@@ -50,9 +50,9 @@ Drawing from the history of science, meteorology and the environment, Fiona Will
 #### **[In Search of Silvestr: Unravelling My Granduncle’s Fate, Bata, Czechoslovaks and World War II in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300110453)**
 By Jan Beránek
 <br>
-Landmark Books (2025), 287 pages  
-<br>
+Landmark Books (2025), 287 pages <br>
 Call no. RSING 305.8918605957 BER
+
 
 <img src="/images/Vol%2021%20Issue%204/New%20Books/Book_search.png" style="width: 60%;">
 
