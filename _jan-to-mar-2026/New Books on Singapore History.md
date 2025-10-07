@@ -1,15 +1,14 @@
 ---
 title: New Books on Singapore History
-permalink: /holding-area/vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/
+permalink: /vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/
 variant: markdown
 description: ""
 ---
 #### **[Blazing the Trail: AWWA: A Commemorative Book to Mark 55 Years of Driving Social Change](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300134602)**
 By Vandana Aggarwal
-
+<br>
 AWWA Ltd (2025), 141 pages
-
-
+<br>
 Call no. RSING 362.82095957 AGG
 
 
@@ -22,9 +21,9 @@ From establishing one of Singapore’s earliest Family Service Centres in 1970 t
 
 #### **[Gardens of Perpetual Summer: The Singapore Botanic Gardens, 2nd edition](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300135278)**
 By Bonnie Tinsley
-
+<br>
 National Parks Board, Singapore Botanic Gardens (2025), 272 pages
-
+<br>
 Call no. RSING 580.735957 TIN 
 
 <img src="/images/Vol%2021%20Issue%204/New%20Books/Book_garden.png" style="width: 70%;">
@@ -35,10 +34,9 @@ First published in 2009, this second edition sheds more light on the collections
 
 #### **[Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803)**
 By Fiona Williamson
-
+<br>
 University of Pittsburgh Press (2025), 265 pages
-
-
+<br>
 Call no. RSEA 959.503 WIL
 
 
@@ -51,10 +49,10 @@ Drawing from the history of science, meteorology and the environment, Fiona Will
 
 #### **[In Search of Silvestr: Unravelling My Granduncle’s Fate, Bata, Czechoslovaks and World War II in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300110453)**
 By Jan Beránek
-
-Landmark Books (2025), 287 pages  
-
+<br>
+Landmark Books (2025), 287 pages <br>
 Call no. RSING 305.8918605957 BER
+
 
 <img src="/images/Vol%2021%20Issue%204/New%20Books/Book_search.png" style="width: 60%;">
 
@@ -65,9 +63,9 @@ Jan Beránek uncovers the fate of his missing granduncle Silvestr Neměc, a Czec
 
 #### **[Reimagining Singapore’s History: Essays on Pre-Colonial Roots and Modern Identity](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300139911)**
 By Matthew Oey
-
+<br>
 Penguin Books (2025), 269 pages
-
+<br>
 Call no. RSING 959.5703 REI
 
 
@@ -80,9 +78,9 @@ Although Singapore’s pre-1819 history going back to the 14th-century trading p
 
 #### **[The Grand Mosque of Singapore: Two Centuries in the History of Masjid Sultan ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300145439)**
 Edited by Hadijah Rahmat JP, et al. 
-
+<br>
 Masjid Sultan (2025), 437 pages
-
+<br>
 Call no. RSING 297.355957 GRA
 
 <img src="/images/Vol%2021%20Issue%204/New%20Books/Book_mosque.png" style="width: 60%;">
@@ -94,13 +92,13 @@ For over two centuries, Masjid Sultan (Sultan Mosque) in Kampong Gelam has been 
 
 #### **[Wild Life: Stories of Singapore Biodiversity](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300134525)**
 Edited by Anthony D. Medrano, Eunice J. Tan and Tanisha Nagqvi
- 
+ <br>
 Lee Kong Chian Natural History Museum (2025), 241 pages
- 
+ <br>
 Call no. RSING 333.95095957 TAN
 
 
-<img src="/images/Vol%2021%20Issue%204/New%20Books/Book_wildlife.png" style="width: 100%;">
+<img src="/images/Vol%2021%20Issue%204/New%20Books/Book_wildlife2.png" style="width: 50%;">
 
 
 

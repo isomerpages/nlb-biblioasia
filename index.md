@@ -19,6 +19,16 @@ sections:
       background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
       variant: center
   - infopic:
+      title: How Tay Seow Huah Became the First Spy Chief of Singapore
+      subtitle: People
+      id: infopic
+      description: In a BiblioAsia+ podcast episode, Simon talks about this father,
+        the founding Director of the Security and Intelligence Division.
+      button: OF SPIES AND TERRORISTS
+      url: /vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/
+      image: /images/Vol 21 Issue 4/Spy/Spy_Topics.png
+      alt: First Spy Chief of Singapore
+  - infopic:
       title: Luís de Camões in Asia
       subtitle: People
       id: infopic

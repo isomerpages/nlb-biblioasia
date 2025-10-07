@@ -28,7 +28,7 @@ boxing superstar?</p>
 he negotiated OB markers with the government during his tenure (1987–2006),
 how he juggled the interests of the paper’s stakeholders, and which news
 story he nearly went to jail for.</div>
-<div class="isomer-card-link">Coming in October</div>
+<div class="isomer-card-link">Listen to the episode</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/25-hawkin-road-home-to-vietnamese-refugees-rebecca-tan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="25 Hawkins Road: Home to Vietnamese Refugees" src="/images/Podcast/Rebecca_Tan_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">25 Hawkins Road: Home to Vietnamese Refugees</div><div class="isomer-card-description">The Hawkins Road camp in Sembawang was home to thousands of Vietnamese refugees until it closed in 1996. Researcher Rebecca Tan talks about how the refugees spent their days in the camp and their lives after Singapore.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-making-of-majulah-singapura-as-we-know-it-bernard-tan/" class="isomer-card">
