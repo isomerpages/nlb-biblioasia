@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/">How Tay Seow Huah Came to Be the First Spy Chief of Independent Singapore</a>
+
+In a BiblioAsia+ podcast episode, Simon talks about this father, the founding Director of the Security and Intelligence Division.
+
+<img src="/images/Vol%2021%20Issue%204/Spy/Spy_Topics.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/9/whampoa-house-bendemeer-hoo-ah-kay-seah-liang-seah/">A Mansion in Serangoon: Whampoa House-Bendemeer</a>
 
 In the 19th century, Whampoa’s legendary home was a nexus of wealth, power and extravagant entertainment.
