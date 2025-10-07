@@ -98,7 +98,7 @@ Lee Kong Chian Natural History Museum (2025), 241 pages
 Call no. RSING 333.95095957 TAN
 
 
-<img src="/images/Vol%2021%20Issue%204/New%20Books/Book_wildlife2.png" style="width: 60%;">
+<img src="/images/Vol%2021%20Issue%204/New%20Books/Book_wildlife2.png" style="width: 50%;">
 
 
 
