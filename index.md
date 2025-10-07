@@ -937,4 +937,14 @@ sections:
       url: /vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/
       image: /images/Vol 21 Issue 4/Wandering Wood/coconut_woman_Topics.png
       alt: Wandering Wood Double Coconut
+  - infopic:
+      title: How Tay Seow Huah Became the First Spy Chief of Singapore
+      subtitle: People
+      id: infopic
+      description: In a BiblioAsia+ podcast episode, Simon talks about this father,
+        the founding Director of the Security and Intelligence Division.
+      button: OF SPIES AND TERRORISTS
+      url: /vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/
+      image: /images/Vol 21 Issue 4/Spy/Spy_Topics.png
+      alt: First Spy Chief of Singapore
 ---
