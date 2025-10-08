@@ -360,3 +360,52 @@ with a modern play or sketch.” In her memoir, Zhuang Xuefang wrote that
 during her Shangri La *getai* days, she had to switch from singing to acting in
 the same night, an experience that prepared her for acting in Amoy cinema
 in the late 1950s and 1960s.41
+
+Zhuang described Liu as a serious man of letters,42 but backstage dramas
+such as the bickering between *getai* pianists and songstresses fuelled his
+imagination. In *Popular Melodies*, the fictional Zhu relished these “real-life
+dramas… [which were] far more riveting than the sketches on stage”.43 Liu wrote two short stories based on his keen behind-the-scenes observations.
+“Troupe Leader” (《团长》) is a sympathetic portrayal of a troupe leader
+who had to handle a motley crew of difficult artistes and creditors. The stress
+was so great that the man collapsed on stage after announcing “Ladies and
+Gentlemen”.44 “Getai” (《歌台》) is a zany comedy about a *getai *owner who
+insisted on casting a stripper in the play *The Savage Land* (《原野》) by Cao
+Yu (曹禺). In “Getai”, the director had walked out in a fit of anger, but the
+true to the owner’s predictions, the queue for the show began forming way
+ahead of the play’s 8pm curtain-up.45
+
+Occasionally, Liu would join in the fun and pen Chinese lyrics for Malay
+and foreign songs. On 7 August 1952, Liu’s former Hong Kong employer
+*Sing Tao Weekly* (《星岛周报》) published five of his poems under the title
+*Balinese Charm and Others* (《峇厘风情及其他》).46 In an annotation for the
+poem “Balinese Charm”, Liu wrote “I heard [the song] ‘Balinese Island’
+(峇厘岛) when I first came to Singapore. The melody was excellent but
+the Chinese lyrics were in poor taste. Egged on by my friends, I wrote my
+own lyrics to the melody, which became ‘Balinese Charm’ (峇厘风情).” The
+song was based on “Pulau Bali”, an Indonesian folk song. Called “Balinese
+Island”, the Chinese adaptation was later popularised by Poon Sow Koon.
+Reality overlapped with fiction once again when protagonist Zhu recounted
+a similar incident in *Popular Melodies*: “Worried that their audience would
+get tired of the same old tunes… some singers would seek out Western
+and Japanese melodies, and ask Zhu to pen the Chinese lyrics for them.
+Although writing lyrics wasn’t his forte, he attempted a few…He found it
+most amusing when he heard songs he wrote being performed on stage”.47
+
+By 1971, Liu had perhaps already forgotten about these songs as *Popular
+Melodies* made no mention of the songs Zhu had penned, but now, we
+know “Balinese Charm” went like this: “I clasp your waist tightly, and you
+embrace me passionately. Have you brought life and colours to me because you could see how desolate my life has been?” (我紧紧搂住你的细腰，你疯狂地
+将我拥抱。莫非你看透我心境萧条，故意赠我一场热闹。)
+
+Not content to stage just slapstick acts, some *getai* actors and artistes aspired
+to put up more serious work. Liu, himself trying to feature more serious
+literature in tabloids, probably found them to be kindred spirits. In *Popular
+Melodies*, Liu wrote about an actor named Loke who “is an earnest artiste.
+He keeps trying to stage famous plays at *getai*.” Liu also offered his candid
+opinions of these noble attempts: “As the conditions at *getai* were generally
+unfavourable to such staging, some of these plays, even though originally
+written by famous playwrights, became crudely adapted sketches. Shangren
+had once watched the staging of Cao Yu’s *Thunderstorm* by a *getai* troupe in
+Singapore. Despite the best efforts of the cast and crew, the end product was
+less than desirable”.48
+
