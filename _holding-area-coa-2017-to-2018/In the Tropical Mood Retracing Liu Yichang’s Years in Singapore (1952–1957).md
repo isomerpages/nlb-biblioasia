@@ -184,8 +184,7 @@ FB exposed an illegal gambling ring in Kuala Lumpur that specialised in
 Despite enjoying increasing sales, FB was banned on 30 September 1955 by
 the Malayan government for posing a risk to public security.21 Liu then
 moved to *Life News* (《生活报》), a new publication launched by the FB
-team on 25 October 1955, followed by *Shieh Pau* (《狮报》) in September
-1956. On 24 December 1955, Chen Mingzong, FB’s former chief editor
+team on 25 October 1955, followed by *Shieh Pau* (《狮报》) in September 1956. On 24 December 1955, Chen Mingzong, FB’s former chief editor
 launched a new tabloid *Ti Press* (《铁报》) with his brother Chen Qing
 (陈清), and Liu became its chief writer. *Ti Press* invested a great deal
 of money in its high-quality tritone printing, which gave its images
