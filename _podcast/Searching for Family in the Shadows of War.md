@@ -23,19 +23,25 @@ Company, the Czechoslovak community and volunteer forces in Singapore.</p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Fiona Williamson is an environmental historian with a particular interest
-in the history of the climate, meteorology and extreme weather in Singapore,
-Malaysia and Hong Kong. She is professor of environmental history at the
-Singapore Management University.</p>
+<p>Jan Beránek is a Czech environmentalist and energy expert. He was born
+and raised in the Czech city of Brno, where he studied physics and sociology.
+Jan has worked for several environmental organisations and was also Chair
+of the Czech Green Party. He currently lives in Amsterdam, working for
+Greenpeace International as a Director for Organizational Strategy and
+Development. In his free time, Jan is a keen astronomer and astrophotographer.
+He was not interested in history until 2017 when he became curious about
+his family’s roots and started his search for his missing granduncle Silvestr
+Němec.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Fiona Williamson, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">Playing It Cool: The Early History of Air Conditioning in Singapore</a>,” <em>BiblioAsia</em> 21,
-no. 4 (January–March 2026).
-<br>Fiona Williamson, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803" rel="noopener noreferrer nofollow" target="_blank">Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya</a> </em>(Pittsburgh:
-University of Pittsburgh Press, 2025).</p>
+<p>Jan Beránek, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300110453" rel="noopener noreferrer nofollow" target="_blank"><u>In Search of Silvestr: Unravelling My Granduncle's Fate, Bata, Czechoslovaks and World War II in Singapore</u></a></em>&nbsp;(Singapore:
+Landmark Books, 2025).</p>
+<p></p>
+<p>Jan Beránek, “<a href="https://biblioasia.nlb.gov.sg/people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/" rel="noopener nofollow" target="_blank">In Search of Silvestr</a>,” <em>BiblioAsia </em>(April
+2025).</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -44,7 +50,7 @@ University of Pittsburgh Press, 2025).</p>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by Nookcha Films. The background music
 "Di Tanjong Katong" was composed by Ahmad Patek and performed by Chords
-Haven. Special thanks to Fiona for coming on the show.</p>
+Haven. Special thanks to Jan for coming on the show.</p>
 </div>
 </details>
 <details class="isomer-details">
