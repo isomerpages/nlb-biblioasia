@@ -10,7 +10,7 @@ third_nav_title: Negotiating OB Markers
 he negotiated OB markers with the government during his tenure (1987–2006),
 how he balanced the interests of the paper’s stakeholders, and which news
 story he nearly went to jail for.</p>
-<p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/5qPuEQTVy8OuLBIKm2YzoG"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/episode/5qPuEQTVy8OuLBIKm2YzoG"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/negotiating-ob-markers-when-running-the-straits-times/id1688142751?i=1000729783658"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Negotiating-OB-Markers-When-Running-the-Straits-Times-3039471"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Colored.png"></a>
