@@ -208,8 +208,7 @@ had been instrumental in shaping the identity of Malayan – and after
 Singapore’s departure from the Federation of Malaysia – Malaysian and
 Singaporean Chinese literature. Liu was undoubtedly the best choice for
 such a role, as he had been editing literature for a decade before he came to Singapore. In his birth place of Shanghai, Liu had become the editor for
-the modern literature section of *Peace Daily* (《和平日报副刊》) in December
-1945. A year later, he quit and founded his own publishing company, Huai
+the modern literature section of *Peace Daily* (《和平日报副刊》) in December 1945. A year later, he quit and founded his own publishing company, Huai
 Zheng Culture Publishing Company (怀正文化社). In 1948, when civil war
 in China escalated, Liu escaped to Hong Kong. To make ends meet, he
 became the *Fukan* editor of several newspapers. Though recognising that “it
@@ -262,8 +261,7 @@ far greater resistance from his tabloid publishers concerned with appealing
 to the lowest common denominator. His unrelenting quest would only lead
 to his disillusionment and disappointment.
 
-Unable to see his future in Singapore, Liu returned to Hong Kong in late
-1957. Two years later, on 8 June 1959, four days after the People’s Action
+Unable to see his future in Singapore, Liu returned to Hong Kong in late 1957. Two years later, on 8 June 1959, four days after the People’s Action
 Party won the election by a landslide, the Ministry of Home Affairs
 banned six obscene tabloids, including *Ti Press*, in an attempt to cultivate
 a wholesome society, effectively sounding the death knell for Chinese
@@ -272,3 +270,93 @@ Boon said that these obscene tabloids bred an unhealthy view towards life by
 portraying a world populated by half-naked licentious women and hooligans
 always out to create trouble.30
 
+#### **Sing Sing Sing: The *Getai* Inner Circle**
+*Popular Melodies* (《时代曲》), a forgotten novel by Liu serialised in *Nanyang
+Siang Pau* in 1971, shows him to be an insider and keen observer of the
+vibrant and glitzy *getai* (歌台) at the amusement worlds in Singapore in the
+1950s. Actor Bai Yan (白言) and queen of Amoy cinema, Zhuang Xuefang
+(庄雪芳), both *getai* icons, became his lifelong friends. This side of Liu
+resembles the writer and dandy who would go on to inspire Tony Leung’s
+character in Wong Kar Wai’s films *In the Mood for Love* and *2046*.
+
+The novel is an important discovery for two reasons: It offers a rare account
+of Liu’s life in Singapore in his own voice, as well as a detailed record of
+*getai* in its heyday. The novel starts: “Twenty years ago, Zhu [the novel’s
+narrator] came to Singapore from Hong Kong to work for a newspaper…”.
+It then goes on to document Zhu’s move to Kuala Lumpur and back to
+Singapore – the work is a thinly veiled *roman à clef* that bears an uncanny
+similarity to Liu’s own experiences.31
+
+*Popular Melodies* can be read as a companion piece to *Singapore Story*
+(《星加坡故事》), an anti-communist melodrama about a newspaper editor’s
+romantic entanglement with a getai singer that Liu, lured by the high fee,
+wrote in 1957, shortly before his return to Hong Kong, for the magazine
+*Story Paper* (《小说报》) which was backed by the United States Information
+Service (USIS).32 *Popular Melodies*, written in the 1970s, sans political
+agenda, reads more like an eulogy to the vanished *getai* world.
+
+Liu’s connection with *getai* was intrinsically linked to his role as a
+newspaper editor. The newspapers, especially tabloids with a strong focus
+on entertainment, enjoyed a mutually beneficial relationship with getai
+operators: the former needed *getai* artistes to provide exclusive content to
+attract readers, while the latter needed the papers to promote their shows
+and artistes. Zhuang Xuefang, before starring in a string of Amoy movies
+that propelled her to superstardom, was a *getai* star in the early 1950s.
+In her interview with me, she recounted her first meeting with Liu at his *Ih Shih Pao* office: “We paid him a visit after hearing about the setting up
+of the paper”.33 Liu confirmed that such public relation practices were the
+norm in *Popular Melodies*: “The *getai* song and dance troupes came and
+went one after another, like revolving figures on the Chinese lantern. Before
+the run of each show, each troupe leader would pay their respects to the
+newspaper’s top management with their key actors and singers. That was
+how Zhu Shangren became acquainted with both local and Hong Kong
+*getai* artistes”.34
+
+Zhu’s/Liu’s privileged position as a writer and newspaper editor granted
+him insider access to the *geta*i world. Real-life *getai* personalities made
+appearances as themselves in Liu’s *roman à clef*. Zhu describes the first
+time he was taken backstage: “Tay was chummy with all the singers and
+actors, first greeting Zhuang Xuefang and Poon Sow Keng (潘秀琼), then
+shaking hands and sharing jokes with Bai Yan and Guan Xinyi (关新
+艺)… Zhuang said to Tay, ‘I’ll be performing for a short period in Kuala
+Lumpur, but your paper reported that I’d be performing in Borneo. Can
+you see to it that the error gets amended?’ Everything looked new and
+fresh to Zhu”.35 According to Liu’s wife, Liu had bonded with actor Bai
+Yan over their shared philatelic passion.
+
+Liu digressed from *Popular’s* melodramatic storyline to offer commentaries
+and observations about the rise of the popular music scene in Malaya and
+*getai*’s inner workings. With quick-cutting images, Liu showed how these
+Chinese songs, influenced by jazz and other popular Western music genres,
+had touched every aspect of society: “Thanks to the blooming of *getai* stages
+in towns big and small all over Malaya, the popular music craze has exploded
+in the region. Listening to popular songs has become the main recreation for
+the masses…from school girls to female workers in rubber shoes factories,
+typesetting workshops, pineapple canning factories and fisheries”.36 In Liu’s
+novel, Zhu had initially found “these songs low brow, but it was impossible
+to not be swept up by their infectious melodies and spell”.37
+
+Like Liu, the fictional Zhu also frequented cinemas when he first arrived in
+Singapore, “but after hanging out with the *getai* people, his monotonous
+life became more colourful”.38 This is no small wonder when one imagines
+the sight and sound of this glitzy, nocturnal world. In the 1950s, *getai* was
+at its peak with more than 20 venues offering live performances in the three
+“worlds”, or amusement parks, namely Great World, New World (both
+owned by Shaw Organisation) and Happy World (owned by Eng Wah
+Organisation and later renamed Gay World). These “worlds” that came to
+life every night from 6pm to midnight were like the kaleidoscopes of the
+modern age.39 Television only arrived in Singapore in 1963, and these worlds
+– with several cinemas, restaurants, dancehalls and live venues under each
+roof – offered their audiences a mind-boggling selection of entertainment
+ranging from wrestling, boxing, strip-tease, Chinese and Malay operas, to
+shopping, amusement rides, gaming, cabarets and dancing. Furthermore,
+these “worlds” were affordable not just for adults but also for youths,
+making them appealing attractions for the whole family.
+
+*Getai*, at its peak, was so wildly popular that it could attract as many as
+500 patrons a night, and twice the number on nights when business was
+thriving.40 According to Liu, “*Getai*’s programme usually went like this:
+from 8pm to around 1030pm, singers would take turns to sing, ending
+with a modern play or sketch.” In her memoir, Zhuang Xuefang wrote that
+during her Shangri La *getai* days, she had to switch from singing to acting in
+the same night, an experience that prepared her for acting in Amoy cinema
+in the late 1950s and 1960s.41
