@@ -113,4 +113,90 @@ In Liu’s words, “It was hard for tabloids to survive. After one collapsed,
 another one would soon be set up, but it wouldn’t be long before it also
 went down”.11
 
-#### **Introduction**
+#### **The Tabloid Boom**
+The decade of the tabloid boom up until 1959 saw the publication and
+subsequent demise of over 40 tabloids due to declining readership, financial
+difficulties and poor management.12 The tabloid boom also coincided with
+the Malayan Emergency, a period that saw the government frequently
+banning publications for politically subversive content or shutting them
+down as a result of the Anti-Yellow Culture Movement. Liu, who had
+worked for up to 10 tabloids, bore witness to the heady rise and fall of this
+golden age of tabloid publishing. After ISP, Liu briefly worked as the chief
+editor for *Sin Lit Pau* before he was poached by *Lien Pang Daily News*
+(《联邦日报》) to head the paper in Kuala Lumpur in 1953.13
+
+Although virtually nothing has been written about Liu’s brief stay in Kuala
+Lumpur, *Popular Melodies* (《时代曲》), Liu’s thinly-veiled *roman à clef* (that
+has not been read since the end of its serialisation in NYSP in 1971) helps
+plug the gap. *Popular Melodies*’ narrator, Zhu Shangren (诸尚仁), bears an
+uncanny resemblance to Liu. Like Liu, Zhu had also come to Malaya from
+Hong Kong to work for a newspaper that had quickly folded, causing him
+to move from one paper to another. Zhu’s response on how he ended up
+in KL could have been words spoken by Liu himself: “The newspaper I was
+working for was going through financial difficulties. I had wanted to go
+back to Hong Kong. It so happened that this paper in Kuala Lumpur was
+restructuring, and the person in charge came to Singapore to put together
+a new team. That’s how I ended up here”.14 Eventually, Zhu was given the
+opportunity to head another tabloid back in Singapore, and he took up
+the offer even though “the paper treats me well here, but life here is too
+monotonous. Singapore would suit me better. As a city, Singapore is more
+vibrant than Kuala Lumpur”.15
+
+In a 2016 interview, Liu provided behind-the-scenes insight into the tabloid
+newsroom: “I took a train to Kuala Lumpur, and when I first arrived at
+*Lien Pang Daily News*, I realised that they didn’t even have a proofreader.
+
+I had to do all the editing, proofreading and layout, from first to last page,
+all by myself”.16 “Small Papers” (referencing the Chinese term for tabloids)
+summed up the scale of their set-ups, which required everyone, including
+the editors, to wear multiple hats. While in Singapore, Liu befriended the
+famous Singapore calligrapher and writer Chua Boon Hean (蔡文玄, whose
+pseudonym was Liu Beian (柳北岸)), and often played mahjong at his home.
+Chua’s son, Chua Lam, a famous Hong Kong columnist, recalled: “It was a
+pleasure watching [Liu] play mahjong. When the paper called in the middle
+of their mahjong sessions, he would ask me to set up a side table with
+writing papers. He treated it like a sewing machine, churning out the articles
+while he was waiting for the other players to discard their tiles”.17
+
+Back in Singapore, Liu worked for two papers chaired by the Kuala
+Lumpur construction tycoon Low Yat (刘西蝶). Liu was the supervising
+editor at *Chung Shing Jit Pao* (《中兴日报》, CSJP) at 110 Robinson Road.
+The broadsheet struggled with its declining readership and often ran into
+financial difficulties. Liu later became editor and writer at the tabloid *Feng
+Bao* (《 锋报》, FB), which was launched in 1953. Chen Mingzong, his friend
+and former colleague at ISP, was its chief editor. With its smaller set-up,
+FB’s sales and distribution thrived. It had a high circulation of 20,000
+copies, and was crowned the King of the Tabloid (小报王). Liu left soon after
+its inception, but was rehired in 1954.18
+
+Tabloids of this era were all very competitive, with each vying for its niche
+audience. Some specialised in entertainment news. The Shaw Brothers film
+studio published *Entertainment News* (《娱乐报》) to promote its films and
+stars, while *Happy News* was one of the many tabloids that reported on the
+latest *geta*i news, their songstresses and cabaret girls. Some tabloids took
+a salacious approach, running pornographic stories and visuals to attract
+a certain demographic. But not all tabloids were fluff. Some specialised in
+news from communist China during the Cold War, while others like FB
+specialised in the exposé of corrupt and illegal activities.19 For Liu, working for such a paper was not without thrill and danger. Soon after its launch,
+FB exposed an illegal gambling ring in Kuala Lumpur that specialised in
+*tse fa* (字花). The crime lord threatened to hurl hand grenades into the FB newsroom, but the paper would not back down, and eventually helped the police crush the organisation.20
+
+Despite enjoying increasing sales, FB was banned on 30 September 1955 by
+the Malayan government for posing a risk to public security.21 Liu then
+moved to *Life News* (《生活报》), a new publication launched by the FB
+team on 25 October 1955, followed by *Shieh Pau* (《狮报》) in September
+1956. On 24 December 1955, Chen Mingzong, FB’s former chief editor
+launched a new tabloid *Ti Press* (《铁报》) with his brother Chen Qing
+(陈清), and Liu became its chief writer. *Ti Press* invested a great deal
+of money in its high-quality tritone printing, which gave its images
+greater tonal range. Unfortunately, *Ti Press*’ sales and distribution were
+disappointing and Liu left when the paper reverted to the economical
+black-and-white duotone printing for its ninth issue. Interestingly, the
+paper’s sales picked up under a new editorial team. In March 1956, when
+Hong Kong movie superstar Li Lihua came to Singapore for the location
+shoot of the film *Rain Storm in Kreta Ayer* (风雨牛车水) which opened on
+18 September 1956), *Ti Press* ran daily behind-the-scenes reports, which
+resulted in soaring sales. About a year later, *Kang Pao* (《钢报》) was
+launched on 17 November 1956 with Liu as its chief editor, but he left
+after three issues.22
+
