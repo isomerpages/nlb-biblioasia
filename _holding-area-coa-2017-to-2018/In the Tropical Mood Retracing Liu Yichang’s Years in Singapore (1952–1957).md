@@ -409,3 +409,80 @@ had once watched the staging of Cao Yu’s *Thunderstorm* by a *getai* troupe in
 Singapore. Despite the best efforts of the cast and crew, the end product was
 less than desirable”.48
 
+#### **In the Mood for Love**
+***Koo Mei: Star-crossed Lovers***
+The *getai* world had a direct impact on Liu’s love life in Singapore. It brought
+Koo Mei (顾媚), with whom he had a short affair, and his second wife Lo Pai
+Wan (罗佩云), to whom he had been married for over 60 years, into his life.
+
+Koo was a celebrated Hong Kong singer who went on to make a name for
+herself singing the classic “Everlasting Love” (不了情). On 25 April 1953,
+*Nanyang Siang Pau* announced that Koo’s troupe, a Latin America-inspired
+Argentinian song and dance troupe, would be performing at the Happy
+World stadium.49
+
+Koo dedicated a chapter to Liu in her juicy tell-all 2006 memoir* From
+Dawn to Dusk* (《从破晓的黄昏》). Their first meeting had been flirtatious.
+She wrote, “We met backstage where he was reporting as a journalist. I told
+him I had read his articles in the papers. He asked if I knew his name. I said
+I did, but I didn’t know how to pronounce the word Chang (鬯), and often
+called him Liu Yi Sha (刘以傻,傻 *sha* means stupid). I wrote his name in its correct form on a piece of paper, and he kept it in his shirt pocket. After
+that he would come backstage to see me every night.”50
+
+Koo left the troupe to join Red Sea Getai (满江红歌台) at New World
+Amusement Park as its contract singer. By this point, Liu and Koo were
+inseparable. When I asked Zhuang Xuefang about the love affair, she
+replied, “Koo Mei *really* liked Liu Yichang”.51
+
+“Liu would accompany me to work every night… After work, we had
+supper at Katong. We never ran out of things to say to each other. He had
+gotten divorced a year earlier. His ex-wife, Li Fang Fei (李芳菲, a Chinese
+actress well-known for her supporting roles in movies) and daughter
+remained in Hong Kong while he came to Singapore by himself… He was
+desolate. He was disappointed with his life… I considered Liu to be my first
+true love… We had fallen deeply in love and exchanged engagement rings,”
+wrote Koo.52 When Koo’s contract expired, she reluctantly left Singapore,
+but vowed to return to marry Liu.
+
+A scandal, however, kept them apart. Koo’s visa application was rejected
+by Singapore’s immigration department on moral grounds. “I was denied
+entry into Singapore for attempting to break up someone’s family. The
+person who lodged a complaint against me was Aw San’s (胡山) wife”.53
+While in Singapore, Koo had been hotly pursued by Aw San, the second
+son of Tiger Balm tycoon Aw Boon Haw. Interestingly, a character in
+*Popular Melodies* bore an uncanny resemblance to Koo. Liu reshuffled
+major incidents of his life in Singapore and paired Mei Qin, the character
+loosely based on Koo, with Zhu’s colleague in a messy love entanglement.
+In the novel, Mei Qin was similarly denied entry into Singapore on
+moral grounds.54
+
+Apart, Koo and Liu kept in touch via fervent correspondence. Liu’s wife,
+who still has Koo Mei’s love letters, confirmed that they corresponded
+everyday. Koo would sometimes write up to three letters a day to Liu.
+However these letters could not sustain their love, and they gradually drifted
+apart. Koo attributed the break up to the loss of her engagement ring. In
+1954, she went to Taiwan with an entourage of stars, headlined by Li Lihua,
+to entertain the Kuomintang troops. In a letter, Koo told Liu that she had
+been clapping so hard that she accidentally lost her engagement ring. Koo
+recalled, “Liu didn’t believe me. He thought I wanted to back out from our
+engagement, and gave me the cold shoulder. Not long after, I found out
+that he had married”.55
+
+Koo revealed that years after Liu had returned to Hong Kong, he had called
+her to ask her to return the letters they had written to each other. She said,
+“He probably thought that he had become a famous author and was afraid
+that I would sell his letters. I was furious… I must have had at least 200
+to 300 love letters from him, but that night when I found out that he had
+gotten married, I burned them all!”56
+
+Liu said, “Because I was working for the newspapers, a lot of songstresses
+would actively seek me out to promote themselves. I do not deny that we
+got along rather well, and we did see each other for two months or so, it
+certainly did not last for a year as she had claimed. We corresponded when
+she went back to Hong Kong, and it lasted two or three months. There
+weren’t as many letters as she claimed… After all we have both gone our
+separate ways and there really isn’t much to talk about. I met so many
+singers in the 1950s, including her, and I did not take advantage of a single
+one of them. I met [Koo] in 1953; two or three years later I met my wife in
+1956 and we got married in 1957”.57
+
