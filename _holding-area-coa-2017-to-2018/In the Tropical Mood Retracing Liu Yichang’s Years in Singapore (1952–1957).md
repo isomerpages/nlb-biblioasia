@@ -200,3 +200,76 @@ resulted in soaring sales. About a year later, *Kang Pao* (《钢报》) was
 launched on 17 November 1956 with Liu as its chief editor, but he left
 after three issues.22
 
+#### **Fighting a Lost Cause?**
+Despite the distressing instability of his job, one thing remained constant
+for Liu: his love for literature and his quest to promote modern literature
+through the papers. Liu had always been or doubled up as the editor of
+the *Fukan* literary section, a unique platform in Chinese newspapers that
+had been instrumental in shaping the identity of Malayan – and after
+Singapore’s departure from the Federation of Malaysia – Malaysian and
+Singaporean Chinese literature. Liu was undoubtedly the best choice for
+such a role, as he had been editing literature for a decade before he came to Singapore. In his birth place of Shanghai, Liu had become the editor for
+the modern literature section of *Peace Daily* (《和平日报副刊》) in December
+1945. A year later, he quit and founded his own publishing company, Huai
+Zheng Culture Publishing Company (怀正文化社). In 1948, when civil war
+in China escalated, Liu escaped to Hong Kong. To make ends meet, he
+became the *Fukan* editor of several newspapers. Though recognising that “it
+is impossible to live on literature in Hong Kong”, Liu always found ways to
+“let serious literature live off commercial publications”.23
+
+Liu continued to negotiate the divide between literature and commercial
+writing in Singapore. His innovative and beautifully illustrated layouts for
+*Bieshu* (别墅), the literary section of *Ih Shih Pao*, showcased his modern
+sensibility. For instance, in response to a story that compared slummers to
+caged birds, Liu pasted cut-outs of pigeons throughout the page, breaking
+the lines between the articles.24 Despite working for the tabloids, Liu was
+still celebrated and respected as a serious writer and champion of modern
+Chinese literature. Even as NYSP covered the drama of ISP’s shocking
+collapse within its pages, it simultaneously ran advertisements promoting
+*Bright Snow* (《雪晴》). *Bright Snow* was Liu’s first novel published in
+Singapore (by NYSP) and was initially serialised in *Nanfang Evening Post*
+(《南方晚报》), NYSP’s evening paper. Two months later, in December
+1952, Liu published his second novel, *Dragon Girl* (《龙女》).25
+
+Outside of his work, Liu was a generous mentor to young writers. Former
+*Fukan* editor of NYSP and* Lianhe Zaobao*, Xie Ke (pen-name: 谢克; actual
+name: Seah Khok Chua 佘克泉), recalled meeting Liu at a literary event
+organised by *Sin Lit Pau* in 1952, when Xie was a novice writer studying
+at Chung Cheng High School (branch). Xie would later visit Liu at his
+residence at Nanyang Khek Community Guild to seek his advice on writing.
+Xie would visit at noon during weekends, as Liu would have worked until
+the wee hours of the morning clearing newspaper pages. Liu would buy
+him *dim sum* at a nearby teahouse, where they would be entertained by
+songstresses singing popular tunes. Sometimes, they would take a trishaw
+to catch a new film. Xie said, “He would read all my writing and give me considered advice and criticism. He even gave me a list of contemporary
+Chinese authors I [had to] read, and I diligently completed my ‘task’ within
+half a year”.26 They went on to become lifelong friends, with Liu calling Xie
+“one of my oldest friends in Singapore”.27 When Liu moved to a Singapore
+Improvement Trust (SIT) flat on the ground floor of Blk 1 Boon Tiong
+Road, diagonally across from Xie who lived in Blk 4, other young writers
+continued to knock on Liu’s door for literary advice, and he showed them
+the same generosity he had shown Xie.28
+
+However, promoting serious literature in Singapore was not easy. The
+youths who loved literature were not readers of the tabloids Liu edited. Blue
+collar workers and rural farmers formed 30 percent of their readership, with
+ladies of the night and women from the performing industries comprising
+about 25 percent. “The bar girls, dance hostesses, songstresses and socialites
+were interested in the tabloids because they wanted to be featured in them.
+Businessmen only formed 10 percent of the readers, and student readers
+were less than 5 percent”.29 If Liu had encountered difficulties in Hong Kong
+pushing literature to the masses via their local papers, one can imagine the
+far greater resistance from his tabloid publishers concerned with appealing
+to the lowest common denominator. His unrelenting quest would only lead
+to his disillusionment and disappointment.
+
+Unable to see his future in Singapore, Liu returned to Hong Kong in late
+1957. Two years later, on 8 June 1959, four days after the People’s Action
+Party won the election by a landslide, the Ministry of Home Affairs
+banned six obscene tabloids, including *Ti Press*, in an attempt to cultivate
+a wholesome society, effectively sounding the death knell for Chinese
+tabloids. In a national broadcast, then Home Affairs Minister Ong Pang
+Boon said that these obscene tabloids bred an unhealthy view towards life by
+portraying a world populated by half-naked licentious women and hooligans
+always out to create trouble.30
+
