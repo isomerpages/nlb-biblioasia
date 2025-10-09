@@ -1031,65 +1031,65 @@ Yi Mingshan 易明善, _Liu yi chang chuan_ 刘以鬯传 \[Biography of Liu Yich
 
 [^20]: Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 77.
 
-21 Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 77.
+[^21]: Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 77.
 
-22 Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 79–81; Chen, interview, 26 December 2016
+[^22]: Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 79–81; Chen, interview, 26 December 2016
 
-23 Yi, _Liu yi chang chuan_, 52.
+[^23]: Yi, _Liu yi chang chuan_, 52.
 
-24 “Fukan ban ‘bieshu’” 副刊版“別墅” \[Fukan section\], _Yi Shi Bao_ 益世报, 14 July 1952. 4. (Microfilm NL3619)
+[^24]: “Fukan ban ‘bieshu’” 副刊版“別墅” \[Fukan section\], _Yi Shi Bao_ 益世报, 14 July 1952. 4. (Microfilm NL3619)
 
-25 “Dì 1 yè guǎnggào zhuānlán 1” 第1页广告专栏1 \[Advertisement for Liu Yichang’s novel _Bright Snow_\], _Nanyang Siang Pau_ _南洋商__报_, 13 October 1952, 1 (From NewspaperSG). (Published by _Nanyang Siang Pau_, this appeared in the newspaper the same day it ran the news of _Ih Shih Pao_’s closure.)
+[^25]: “Dì 1 yè guǎnggào zhuānlán 1” 第1页广告专栏1 \[Advertisement for Liu Yichang’s novel _Bright Snow_\], _Nanyang Siang Pau_ _南洋商__报_, 13 October 1952, 1 (From NewspaperSG). (Published by _Nanyang Siang Pau_, this appeared in the newspaper the same day it ran the news of _Ih Shih Pao_’s closure.)
 
-26 Lim Fong Wei’s interviews with Xie Ke (谢克), Oct 2017.
+[^26]: Lim Fong Wei’s interviews with Xie Ke (谢克), Oct 2017.
 
-27 Lim, interviews with Xie Ke (谢克), Oct 2017.
+[^27]: Lim, interviews with Xie Ke (谢克), Oct 2017.
 
-28 Li Huiling 李慧玲, “‘Dui dao” zouhong chile 30 nian” “[对倒” 走红迟了30年](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb20010611-1.2.56.1) \[Interview with Liu Yichang, the godfather of Hong Kong literature, the popularity of Tete-beche that comes 30 years late\], _Lianhe Zaobao_ 联合早报, 11 June 2001, 33. (From NewspaperSG)
+[^28]: Li Huiling 李慧玲, “‘Dui dao” zouhong chile 30 nian” “[对倒” 走红迟了30年](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb20010611-1.2.56.1) \[Interview with Liu Yichang, the godfather of Hong Kong literature, the popularity of Tete-beche that comes 30 years late\], _Lianhe Zaobao_ 联合早报, 11 June 2001, 33. (From NewspaperSG)
 
-29 Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 82.
+[^29]: Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 82.
 
-30 Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 83–84.
+[^30]: Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 83–84.
 
-31 Liu Yichang, 刘以鬯, “Shídài qū” [时代曲](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19710425-1.2.51.3) \[Popular melodies\], _Nanyang Siang Pau_ _南洋商__报_, 25 April 1971, 24. (From NewspaperSG)
+[^31]: Liu Yichang, 刘以鬯, “Shídài qū” [时代曲](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19710425-1.2.51.3) \[Popular melodies\], _Nanyang Siang Pau_ _南洋商__报_, 25 April 1971, 24. (From NewspaperSG)
 
-32 Liu Yichang 刘以鬯, comp., _Xianggang duanpian xiaoshuo xuan: wushi niandai_ &nbsp;[香港短篇小说选: 五十年代](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84523353) \[Selected Hong Kong short stories in the fifties\] (香港: 天地图书公司, 1997), 2 (From National Library Singapore, call no. Chinese RDTSH C813.4 XGD); Zheng Mingren 郑明仁, Liu yi chang yu san hao zi xiaoshuo 刘以鬯与三毫子小说 \[Liu Yichang and His 30-Cent Pulp Novels\], _Ming Pao_ 明报, 26 October 2016.
+[^32]: Liu Yichang 刘以鬯, comp., _Xianggang duanpian xiaoshuo xuan: wushi niandai_ &nbsp;[香港短篇小说选: 五十年代](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84523353) \[Selected Hong Kong short stories in the fifties\] (香港: 天地图书公司, 1997), 2 (From National Library Singapore, call no. Chinese RDTSH C813.4 XGD); Zheng Mingren 郑明仁, Liu yi chang yu san hao zi xiaoshuo 刘以鬯与三毫子小说 \[Liu Yichang and His 30-Cent Pulp Novels\], _Ming Pao_ 明报, 26 October 2016.
 
-33 Lim Fong Wei’s interview with Zhuang Xuefang, 16 Dec 2017.
+[^33]: Lim Fong Wei’s interview with Zhuang Xuefang, 16 Dec 2017.
 
-34 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 1 June 1971, 7. (Microfilm NL6795)
+[^34]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 1 June 1971, 7. (Microfilm NL6795)
 
-35 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 27 April 1971, 7. (Microfilm NL6794)
+[^35]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 27 April 1971, 7. (Microfilm NL6794)
 
-36 “Shídài qū,” 1 June 1971.
+[^36]: “Shídài qū,” 1 June 1971.
 
-37 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 4 June 1971, 7. (Microfilm NL6795)
+[^37]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 4 June 1971, 7. (Microfilm NL6795)
 
-38 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 3 June 1971, 7. (Microfilm NL6795)
+[^38]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 3 June 1971, 7. (Microfilm NL6795)
 
-39 Lim Tin Seng, “[Old-World Amusement Parks](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement/),” _Biblioasia_ 12, no. 1 (April–June 2016)
+[^39]: Lim Tin Seng, “[Old-World Amusement Parks](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement/),” _Biblioasia_ 12, no. 1 (April–June 2016)
 
-40 Lim, “[Old-World Amusement Parks](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement/).”
+[^40]: Lim, “[Old-World Amusement Parks](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement/).”
 
-41 Su, Zhangkai 苏章恺, Yang Minghui 杨明慧 and Du Hanbin 杜汉彬, _Xue ni fang zong: Zhuang Xuefang_ [雪霓芳踪: 庄雪芳](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203055737) \[Traces of Xuenifang: Zhuang Xuefang\] (Singapore: 玲子传媒私人有限公司, 2017), 48–55. (From National Library Singapore, call no. Chinese RSING 791.43028092 SZK)
+[^41]: Su, Zhangkai 苏章恺, Yang Minghui 杨明慧 and Du Hanbin 杜汉彬, _Xue ni fang zong: Zhuang Xuefang_ [雪霓芳踪: 庄雪芳](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203055737) \[Traces of Xuenifang: Zhuang Xuefang\] (Singapore: 玲子传媒私人有限公司, 2017), 48–55. (From National Library Singapore, call no. Chinese RSING 791.43028092 SZK)
 
-42 Lim Fong Wei’s interview with Zhuang Xuefang, 16 Dec 2017.
+[^42]: Lim Fong Wei’s interview with Zhuang Xuefang, 16 Dec 2017.
 
-43 Liu, “Shídài qū,” 3 June 1971.
+[^43]: Liu, “Shídài qū,” 3 June 1971.
 
-44 Liu Yichang 刘以鬯, “Tuán zhǎng” [团长](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590602-1.2.36.1.1) \[Troupe leader\], _Nanyang Siang Pau_ _南洋商__报_, 2 June 1959, 16. (From NewspaperSG)
+[^44]: Liu Yichang 刘以鬯, “Tuán zhǎng” [团长](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590602-1.2.36.1.1) \[Troupe leader\], _Nanyang Siang Pau_ _南洋商__报_, 2 June 1959, 16. (From NewspaperSG)
 
-45 Gé lǐ gē 葛里哥, “Gē tái” [歌台](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590530-1.2.38.1) \[Getai\], _Nanyang Siang Pau_ _南洋商__报_, 30 May 1959, 15. (From NewspaperSG)
+[^45]: Gé lǐ gē 葛里哥, “Gē tái” [歌台](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590530-1.2.38.1) \[Getai\], _Nanyang Siang Pau_ _南洋商__报_, 30 May 1959, 15. (From NewspaperSG)
 
-46 “Liu yi chang de shi/xudingming” 刘以鬯的诗/许定铭 \[The poems of Liu Yichang/ Xu Dingming\], _Takung Pao_, 大公报, 13 September 2015.
+[^46]: “Liu yi chang de shi/xudingming” 刘以鬯的诗/许定铭 \[The poems of Liu Yichang/ Xu Dingming\], _Takung Pao_, 大公报, 13 September 2015.
 
-47 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 8 June 1971, 7. (Microfilm NL6795)
+[^47]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 8 June 1971, 7. (Microfilm NL6795)
 
-48 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 2 June 1971, 7. (Microfilm NL6795)
+[^48]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 2 June 1971, 7. (Microfilm NL6795)
 
-49 “Cǎixié zì nánměi rèqíng gēwǔ de jīnghuá āgēntíng gēwǔ tuán jíjiāng nán yóu yóu bì hǔ dānrèn tuán zhǎng, guō xiùzhēn, gù mèi, lù fēn, yíng zǐ, céngqǐpíng děng, dōu shì huánán de zhùmíng gēxīng” [采撷自南美热情歌舞的精华 阿根廷歌舞团即将南游 由毕虎担任团长，郭秀珍、顾媚、鹭芬、莹子、曾绮萍等，都是华南的著名歌星](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530326-1.2.32.17) \[Argentinian song and dance troupe that encapsulates the essence of Latin-American songs and dances will be travelling south – The troupe features Bi Hu as its leader, and includes other famous singers of South China, such as Guo Xiu Zhen, Koo Mei, Lu Fen, Ying Zi and Zeng Qi Ping.\], _Nanyang Siang Pau_ _南洋商__报_, 26 March 1953, 6. (From NewspaperSG)
+[^49]: “Cǎixié zì nánměi rèqíng gēwǔ de jīnghuá āgēntíng gēwǔ tuán jíjiāng nán yóu yóu bì hǔ dānrèn tuán zhǎng, guō xiùzhēn, gù mèi, lù fēn, yíng zǐ, céngqǐpíng děng, dōu shì huánán de zhùmíng gēxīng” [采撷自南美热情歌舞的精华 阿根廷歌舞团即将南游 由毕虎担任团长，郭秀珍、顾媚、鹭芬、莹子、曾绮萍等，都是华南的著名歌星](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530326-1.2.32.17) \[Argentinian song and dance troupe that encapsulates the essence of Latin-American songs and dances will be travelling south – The troupe features Bi Hu as its leader, and includes other famous singers of South China, such as Guo Xiu Zhen, Koo Mei, Lu Fen, Ying Zi and Zeng Qi Ping.\], _Nanyang Siang Pau_ _南洋商__报_, 26 March 1953, 6. (From NewspaperSG)
 
-50 Gu Mei, 顾媚, _Cóng pòxiǎo de huánghūn: Gù mèi huíyìlù_ 从破晓的黄昏: 顾媚回忆录 \[From dawn to dusk: The memoir of Koo Mei\] (香港: 三联书店（香港）有限公司出版), 2016), 76.
+[^50]: Gu Mei, 顾媚, _Cóng pòxiǎo de huánghūn: Gù mèi huíyìlù_ 从破晓的黄昏: 顾媚回忆录 \[From dawn to dusk: The memoir of Koo Mei\] (香港: 三联书店（香港）有限公司出版), 2016), 76.
 
 51 Lim Fong Wei’s Interview with Zhuang Xuefang, 16 Dec 2017.
 
