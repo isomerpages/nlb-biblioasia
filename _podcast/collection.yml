@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Clean and Green/Transcript.md
       - Clean and Green/Clean and Green Champion Lee Ek Tieng.md
       - Clean and Green/.keep
       - Lost Family/.keep
