@@ -69,6 +69,9 @@ leaders and business organisation representatives.2 The paper’s future looked
 promising. Liu Yichang did not expect to lose his first job in Singapore in
 less than four months.
 
+<img src="/images/COA%202017%20to%202018/Liu%20Yichang/Liu_Yichang_and_Han_Su_Yin.jpg" style="width:80%;">
+ <div style="background-color: white;"> Liu Yichang (third from right) and Han Suyin (fourth from left) in Singapore during the 1950s, <i> Courtesy of Mrs. Liu Yichang, reproduced with permission..</i></div>
+
 On 13 October 1952, *Nanyang Siang Pau* (NYSP) reported the abrupt closure
 of Liu’s paper: “At 6am yesterday, *Ih Shih Pao* locked down its office and
 posted a notice announcing the suspension of its operation.” The headline
@@ -237,7 +240,7 @@ Singapore (by NYSP) and was initially serialised in *Nanfang Evening Post*
 1952, Liu published his second novel, *Dragon Girl* (《龙女》).25
 
 Outside of his work, Liu was a generous mentor to young writers. Former
-*Fukan* editor of NYSP and* Lianhe Zaobao*, Xie Ke (pen-name: 谢克; actual
+*Fukan* editor of NYSP and *Lianhe Zaobao*, Xie Ke (pen-name: 谢克; actual
 name: Seah Khok Chua 佘克泉), recalled meeting Liu at a literary event
 organised by *Sin Lit Pau* in 1952, when Xie was a novice writer studying
 at Chung Cheng High School (branch). Xie would later visit Liu at his
@@ -565,6 +568,9 @@ lane at Connaught Drive. In the afternoons, they would hang out at the
 popular cafe at the former Adelphi Hotel; in the evenings, they had supper
 at Katong where the park looked out to the sea before it was reclaimed to
 become Marine Parade.
+
+<img src="/images/COA%202017%20to%202018/Liu%20Yichang/Liu_Yichang_at_West_Point_Gardens.jpg" style="width:50%;">
+ <div style="background-color: white;"> Liu Yichang at West Point Garden circa 1953, a popular recreational destination in Pasir Panjang. <i> Courtesy of Mrs. Liu Yichang, reproduced with permission.</i></div>
 
 Liu came down with severe tuberculosis soon after they met, but
 fortunately Lo was there to provide Liu with the stability he long needed.
