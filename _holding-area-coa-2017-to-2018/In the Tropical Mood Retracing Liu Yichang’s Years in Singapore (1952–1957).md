@@ -411,6 +411,7 @@ less than desirable”.48
 
 #### **In the Mood for Love**
 ***Koo Mei: Star-crossed Lovers***
+
 The *getai* world had a direct impact on Liu’s love life in Singapore. It brought
 Koo Mei (顾媚), with whom he had a short affair, and his second wife Lo Pai
 Wan (罗佩云), to whom he had been married for over 60 years, into his life.
@@ -485,4 +486,151 @@ separate ways and there really isn’t much to talk about. I met so many
 singers in the 1950s, including her, and I did not take advantage of a single
 one of them. I met [Koo] in 1953; two or three years later I met my wife in
 1956 and we got married in 1957”.57
+
+***Lo Pai Wan: Everlasting Love***
+
+I travelled to Hong Kong in January 2018, five months before Liu’s death,
+to meet Lo Pai Wan, his wife and the love of his life for 60 years. I did not
+manage to meet Liu, as he had become increasingly bedridden. Lo had been
+her husband’s de facto spokesperson since 2016.
+
+Lo had been an accomplished teen dance queen in Hong Kong and was
+enticed by the flourishing amusement worlds in Singapore. Lo toured
+Malaya with different troupes three times, in 1953, 1955 and 1956.
+
+Lo was only 18 when she first travelled by ship to Singapore on 14 September 1953, with the Hong Kong Song and Dance Theatre Troupe (香港歌唱舞
+蹈剧艺团). She was paired with Tse Liu-Baat (谢鲁八), the veteran King of
+Dance in Hong Kong (香港舞王). Lo, a young and talented dance queen, was
+crowned The Jewel of Hong Kong (香港之宝). Lo had been dancing since
+she was 15 and was one of Tse’s best students, regularly partnering him in
+dance performances at Hong Kong nightclubs. The troupe decided to tour
+Singapore “after enjoying enormous success in Indonesia in August 1952”.58
+
+The show opened at the Happy World Stadium on 17 September 1953 with
+a star-studded cast fronted by Chang Loo (张露), the Shanghainese singer
+known as The Diva of China (and mother of Hong Kong star Alex To).
+Chang had shot to fame with the cheery tune “You Are So Beautiful”
+(你真美丽) and her 1954 hit “Give Me a Kiss” (给我一个吻), a wildly popular
+Chinese adaptation of the English hit “Seven Lonely Days”.59
+
+Their shows were multicultural brews. Lo and Tse performed “The
+Spider Lair”, a modern dance adaptation of *Journey to the West* with
+Tse undertaking the role of the Monkey King, and Lo, the bewitching
+temptress.60 They travelled to Kuala Lumpur on 18 October, returning three
+weeks later with new shows, one of them a Malaya-inspired “Love at the
+Pasar”(巴刹之恋).61
+
+Lo and Tse returned to Singapore a second time on 20 January 1955 with the
+Hong Kong Qun Ying Song and Dance Troupe (香港群英歌舞团) for a 10-day
+performance that ran from 22 January to 7 February 1955 at the Happy World Stadium. That evening, the troupe performed “Malayan Night”,
+a Malay dance set to Malay music in full Malayan costumes.62
+
+The troupe subsequently headed north to perform at the Majestic Theatre
+chain in Muar, Seremban, Kuala Lumpur, Ipoh, Kampar, Teluk Anson
+(now Teluk Intan) and Penang. The Majestic Theatre chain was owned by
+the Singaporean brothers, Ho Khee-Yong (何启荣) and Ho Khee-Siang
+(何启湘), who made Cantonese films in Malaya under their Kong Ngee
+film production company.63 Lo elaborated that, in those days, each touring
+troupe was linked to one cinema chain, “there were the Shaw Brothers
+chain, Kwang Hwa chain... We would travel to perform at their cinemas
+and affiliated venues in major cities throughout Malaya. I covered a great
+part of Peninsular Malaya during my three trips here.”
+
+Lo returned for a third and final time on 27 May 1956. This time Lo and Tse
+helmed their troupe, the Swan Song and Dance Theatre Troupe (天鹅歌舞剧
+艺团), which comprised 25 dancers, comedians and singers. They performed
+for two weeks from 29 May at the Happy World Stadium.64 This was the
+momentous trip when Lo fell in love with Liu.
+
+Liu had moved out from his Tiong Bahru SIT flat and taken up residence at
+the Kam Leng Hotel (金陵大旅店) where Lo and her troupe were based due
+to its proximity to Happy World. “Contrary to what most people believe,”
+said Lo during my interview with her, “I had already made Liu Yichang’s
+acquaintance during my first two trips. However we only truly got to know
+each other in 1956. Liu’s work at the newsroom used to end very late, and I
+would return past midnight after my show. We often ran into each other at
+the lobby, and began to meet there to chat and have a bite or two late into
+the night.”
+
+Lo shared happy memories with Liu at Raffles Place, back when it was
+also a thriving shopping hub where the iconic Robinsons and John Little department stores were located. They strolled along Clifford Pier and lovers’
+lane at Connaught Drive. In the afternoons, they would hang out at the
+popular cafe at the former Adelphi Hotel; in the evenings, they had supper
+at Katong where the park looked out to the sea before it was reclaimed to
+become Marine Parade.
+
+Liu came down with severe tuberculosis soon after they met, but
+fortunately Lo was there to provide Liu with the stability he long needed.
+Five years of drifting from newspaper to newspaper, the lack of jobs and
+emotional stability, coupled with an unhealthy lifestyle, had finally taken a
+toll on his health. Liu, who wrote *The Drinker* in 1963, stayed off alcohol.
+Cigarettes, romanticised by images of Tony Leung writing while wrapped
+in a cloud of smoke in Wong Kar Wai’s *In the Mood for Love* and *2046*,
+were Liu’s poison. During our interview, Lo said, “[Liu] was smoking two
+packs a day. On top of that, his diet had been unhealthy for years. The
+truth was that things hadn’t been going well for him for a long time, and
+he was at the lowest point of his life. Luckily, his close friends from Hong
+Kong, like Chung Wen Ling, got him medical help. A doctor would come
+to the hotel everyday to give him an injection. Liu’s father had also had
+lung disease, I believe it could have been a dormant condition in his family.
+He was getting his daily shot even after returning to Hong Kong. It took
+him a few years to be completely well.”
+
+After her tour ended, Lo quit showbiz and stayed at the hotel for almost
+10 months, devoting herself entirely to nursing Liu back to health. This
+was when their love deepened. After years of Malayan food, Liu was
+craving cuisine from his birth place. “We often went to a Shanghainese
+restaurant from across New World. On days when he wasn’t well, I would
+take a trishaw there and bring food back for him. There was also a store in
+Chinatown then that sold foodstuff from Shanghai. I frequently bought
+food for him there, too,” recalled Lo.
+
+By July 1957, Lo had to leave. “I had no choice. The immigration law was
+very strict then. Once my one-year visa was up, I had to leave no matter
+what and apply for re-entry from Hong Kong.” On 8 September 1957, Liu
+packed up and moved back to Hong Kong to be with Lo, leaving his life in
+Singapore behind. They married a year later.65
+
+In the course of our interview, Lo revealed, “Liu Yichang was already a
+permanent resident in Singapore. The newspaper in Kuala Lumpur applied
+on his behalf. He came back to Hong Kong on a travel visa. He could only
+re-apply to stay after getting a job, with me as a guarantor.” In *Popular
+Melodies*, Liu’s protagonist, Zhu, was also debating if he should stay or go.
+A part of him wanted to settle down in Malaya: “I like Kuala Lumpur, and
+I like Singapore even more. I would stay if I married a local Chinese girl”.66
+However, Zhu also said, “I like Singapore too, but I still hope to return to
+Hong Kong one day. I came to Singapore from there, of course I would
+have feelings for Hong Kong”.67
+
+But Liu returned to Hong Kong for practical reasons. While recuperating
+in Singapore and without a job at the newspaper, Liu wrote stories for a
+living. Under the pen-name Ge Li Ge (葛里哥), he wrote *Chun Zhi*
+(《春治》), a story about a girl sold to servitude but who ultimately found
+her own freedom.68 Under another pseudonym, Ling Hu Ling (令狐玲), he
+retold the story of the Tang dynasty poet in *Li Bai Catching the Moon*
+(《李太白捉月》).69 “Singapore Story” (《星加坡故事》) was written around
+1956 to 1957 for the *Story Paper* (《小说报》), a magazine backed by the
+United States Information Service (USIS).70 But it was not enough to make
+ends meet. Lo said, “After six years of trying, it was apparent the working
+style and culture of the newspaper industry in Singapore did not suit him.
+He also could not support himself as a freelance writer in Singapore. There
+just weren’t enough publications. Moreover, the tabloids there didn’t pay
+writers well. Coming back to Hong Kong was an obvious choice.”
+
+Ultimately, it was love that brought Liu back to Hong Kong. In a 2010
+interview, Liu bared his heart, “Pai Wan is the best thing to have happened
+to me. The love she has shown me can only be described as ‘complete
+devotion’… When her visa expired, I decided to follow her back to Hong
+Kong and marry her. I vowed to start anew. In order to build a family of our
+own, I started to write again”.71 Reaffirming their love and devotion, Lo said
+in a 2016 interview, “We have not been apart for more than 24 hours since
+we got married”.72
+
+Liu eventually became one of Hong Kong’s most prolific novelists,
+writing serialised novels and short stories for up to 11 newspapers and
+magazines, churning out as many as 12,000 words a day. Liu called himself
+a “wordsmith”, writing to entertain the masses by day, and undertaking
+serious literature for himself at night. Thanks to his writing, Liu was able to
+purchase an apartment in Tai Koo Shing, one of Hong Kong’s first major
+private housing estates, where Liu and Lo have lived ever since.
 
