@@ -382,12 +382,12 @@ Gentlemen”.[^44] “Getai” (《歌台》) is a zany comedy about a *getai* o
 insisted on casting a stripper in the play *The Savage Land* (《原野》) by Cao
 Yu (曹禺). In “Getai”, the director had walked out in a fit of anger, but the
 true to the owner’s predictions, the queue for the show began forming way
-ahead of the play’s 8pm curtain-up.45
+ahead of the play’s 8pm curtain-up.[^45]
 
 Occasionally, Liu would join in the fun and pen Chinese lyrics for Malay
 and foreign songs. On 7 August 1952, Liu’s former Hong Kong employer
 *Sing Tao Weekly* (《星岛周报》) published five of his poems under the title
-*Balinese Charm and Others* (《峇厘风情及其他》).46 In an annotation for the
+*Balinese Charm and Others* (《峇厘风情及其他》).[^46] In an annotation for the
 poem “Balinese Charm”, Liu wrote “I heard [the song] ‘Balinese Island’
 (峇厘岛) when I first came to Singapore. The melody was excellent but
 the Chinese lyrics were in poor taste. Egged on by my friends, I wrote my
@@ -399,7 +399,7 @@ a similar incident in *Popular Melodies*: “Worried that their audience would
 get tired of the same old tunes… some singers would seek out Western
 and Japanese melodies, and ask Zhu to pen the Chinese lyrics for them.
 Although writing lyrics wasn’t his forte, he attempted a few…He found it
-most amusing when he heard songs he wrote being performed on stage”.47
+most amusing when he heard songs he wrote being performed on stage”.[^47]
 
 By 1971, Liu had perhaps already forgotten about these songs as *Popular
 Melodies* made no mention of the songs Zhu had penned, but now, we
@@ -417,7 +417,7 @@ unfavourable to such staging, some of these plays, even though originally
 written by famous playwrights, became crudely adapted sketches. Shangren
 had once watched the staging of Cao Yu’s *Thunderstorm* by a *getai* troupe in
 Singapore. Despite the best efforts of the cast and crew, the end product was
-less than desirable”.48
+less than desirable”.[^48]
 
 #### **In the Mood for Love**
 ***Koo Mei: Star-crossed Lovers***
@@ -430,7 +430,7 @@ Koo was a celebrated Hong Kong singer who went on to make a name for
 herself singing the classic “Everlasting Love” (不了情). On 25 April 1953,
 *Nanyang Siang Pau* announced that Koo’s troupe, a Latin America-inspired
 Argentinian song and dance troupe, would be performing at the Happy
-World stadium.49
+World stadium.[^49]
 
 Koo dedicated a chapter to Liu in her juicy tell-all 2006 memoir *From
 Dawn to Dusk* (《从破晓的黄昏》). Their first meeting had been flirtatious.
@@ -438,12 +438,12 @@ She wrote, “We met backstage where he was reporting as a journalist. I told
 him I had read his articles in the papers. He asked if I knew his name. I said
 I did, but I didn’t know how to pronounce the word Chang (鬯), and often
 called him Liu Yi Sha (刘以傻,傻 *sha* means stupid). I wrote his name in its correct form on a piece of paper, and he kept it in his shirt pocket. After
-that he would come backstage to see me every night.”50
+that he would come backstage to see me every night”.[^50]
 
 Koo left the troupe to join Red Sea Getai (满江红歌台) at New World
 Amusement Park as its contract singer. By this point, Liu and Koo were
 inseparable. When I asked Zhuang Xuefang about the love affair, she
-replied, “Koo Mei *really* liked Liu Yichang”.51
+replied, “Koo Mei *really* liked Liu Yichang”.[^51]
 
 “Liu would accompany me to work every night… After work, we had
 supper at Katong. We never ran out of things to say to each other. He had
@@ -452,20 +452,20 @@ actress well-known for her supporting roles in movies) and daughter
 remained in Hong Kong while he came to Singapore by himself… He was
 desolate. He was disappointed with his life… I considered Liu to be my first
 true love… We had fallen deeply in love and exchanged engagement rings,”
-wrote Koo.52 When Koo’s contract expired, she reluctantly left Singapore,
+wrote Koo.[^52] When Koo’s contract expired, she reluctantly left Singapore,
 but vowed to return to marry Liu.
 
 A scandal, however, kept them apart. Koo’s visa application was rejected
 by Singapore’s immigration department on moral grounds. “I was denied
 entry into Singapore for attempting to break up someone’s family. The
-person who lodged a complaint against me was Aw San’s (胡山) wife”.53
+person who lodged a complaint against me was Aw San’s (胡山) wife”.[^53]
 While in Singapore, Koo had been hotly pursued by Aw San, the second
 son of Tiger Balm tycoon Aw Boon Haw. Interestingly, a character in
 *Popular Melodies* bore an uncanny resemblance to Koo. Liu reshuffled
 major incidents of his life in Singapore and paired Mei Qin, the character
 loosely based on Koo, with Zhu’s colleague in a messy love entanglement.
 In the novel, Mei Qin was similarly denied entry into Singapore on
-moral grounds.54
+moral grounds.[^54]
 
 Apart, Koo and Liu kept in touch via fervent correspondence. Liu’s wife,
 who still has Koo Mei’s love letters, confirmed that they corresponded
@@ -477,14 +477,14 @@ to entertain the Kuomintang troops. In a letter, Koo told Liu that she had
 been clapping so hard that she accidentally lost her engagement ring. Koo
 recalled, “Liu didn’t believe me. He thought I wanted to back out from our
 engagement, and gave me the cold shoulder. Not long after, I found out
-that he had married”.55
+that he had married”.[^55]
 
 Koo revealed that years after Liu had returned to Hong Kong, he had called
 her to ask her to return the letters they had written to each other. She said,
 “He probably thought that he had become a famous author and was afraid
 that I would sell his letters. I was furious… I must have had at least 200
 to 300 love letters from him, but that night when I found out that he had
-gotten married, I burned them all!”56
+gotten married, I burned them all!”[^56]
 
 Liu said, “Because I was working for the newspapers, a lot of songstresses
 would actively seek me out to promote themselves. I do not deny that we
@@ -495,7 +495,7 @@ weren’t as many letters as she claimed… After all we have both gone our
 separate ways and there really isn’t much to talk about. I met so many
 singers in the 1950s, including her, and I did not take advantage of a single
 one of them. I met [Koo] in 1953; two or three years later I met my wife in
-1956 and we got married in 1957”.57
+1956 and we got married in 1957”.[^57]
 
 ***Lo Pai Wan: Everlasting Love***
 
@@ -514,33 +514,33 @@ Dance in Hong Kong (香港舞王). Lo, a young and talented dance queen, was
 crowned The Jewel of Hong Kong (香港之宝). Lo had been dancing since
 she was 15 and was one of Tse’s best students, regularly partnering him in
 dance performances at Hong Kong nightclubs. The troupe decided to tour
-Singapore “after enjoying enormous success in Indonesia in August 1952”.58
+Singapore “after enjoying enormous success in Indonesia in August 1952”.[^58]
 
 The show opened at the Happy World Stadium on 17 September 1953 with
 a star-studded cast fronted by Chang Loo (张露), the Shanghainese singer
 known as The Diva of China (and mother of Hong Kong star Alex To).
 Chang had shot to fame with the cheery tune “You Are So Beautiful”
 (你真美丽) and her 1954 hit “Give Me a Kiss” (给我一个吻), a wildly popular
-Chinese adaptation of the English hit “Seven Lonely Days”.59
+Chinese adaptation of the English hit “Seven Lonely Days”.[^59]
 
 Their shows were multicultural brews. Lo and Tse performed “The
 Spider Lair”, a modern dance adaptation of *Journey to the West* with
 Tse undertaking the role of the Monkey King, and Lo, the bewitching
-temptress.60 They travelled to Kuala Lumpur on 18 October, returning three
+temptress.[^60] They travelled to Kuala Lumpur on 18 October, returning three
 weeks later with new shows, one of them a Malaya-inspired “Love at the
-Pasar”(巴刹之恋).61
+Pasar”(巴刹之恋).[^61] 
 
 Lo and Tse returned to Singapore a second time on 20 January 1955 with the
 Hong Kong Qun Ying Song and Dance Troupe (香港群英歌舞团) for a 10-day
 performance that ran from 22 January to 7 February 1955 at the Happy World Stadium. That evening, the troupe performed “Malayan Night”,
-a Malay dance set to Malay music in full Malayan costumes.62
+a Malay dance set to Malay music in full Malayan costumes.[^62]
 
 The troupe subsequently headed north to perform at the Majestic Theatre
 chain in Muar, Seremban, Kuala Lumpur, Ipoh, Kampar, Teluk Anson
 (now Teluk Intan) and Penang. The Majestic Theatre chain was owned by
 the Singaporean brothers, Ho Khee-Yong (何启荣) and Ho Khee-Siang
 (何启湘), who made Cantonese films in Malaya under their Kong Ngee
-film production company.63 Lo elaborated that, in those days, each touring
+film production company.[^63] Lo elaborated that, in those days, each touring
 troupe was linked to one cinema chain, “there were the Shaw Brothers
 chain, Kwang Hwa chain... We would travel to perform at their cinemas
 and affiliated venues in major cities throughout Malaya. I covered a great
@@ -549,7 +549,7 @@ part of Peninsular Malaya during my three trips here.”
 Lo returned for a third and final time on 27 May 1956. This time Lo and Tse
 helmed their troupe, the Swan Song and Dance Theatre Troupe (天鹅歌舞剧
 艺团), which comprised 25 dancers, comedians and singers. They performed
-for two weeks from 29 May at the Happy World Stadium.64 This was the
+for two weeks from 29 May at the Happy World Stadium.[^64] This was the
 momentous trip when Lo fell in love with Liu.
 
 Liu had moved out from his Tiong Bahru SIT flat and taken up residence at
@@ -602,7 +602,7 @@ By July 1957, Lo had to leave. “I had no choice. The immigration law was
 very strict then. Once my one-year visa was up, I had to leave no matter
 what and apply for re-entry from Hong Kong.” On 8 September 1957, Liu
 packed up and moved back to Hong Kong to be with Lo, leaving his life in
-Singapore behind. They married a year later.65
+Singapore behind. They married a year later.[^65]
 
 <img src="/images/COA%202017%20to%202018/Liu%20Yichang/Liu_Yichang_and_Lo_Pai_Wan.jpg" style="width:50%;">
  <div style="background-color: white;"> Liu Yichang and Lo Pai Wan’s first photo taken together in Singapore, circa 1956. They  married in 1958.
@@ -615,20 +615,20 @@ on his behalf. He came back to Hong Kong on a travel visa. He could only
 re-apply to stay after getting a job, with me as a guarantor.” In *Popular
 Melodies*, Liu’s protagonist, Zhu, was also debating if he should stay or go.
 A part of him wanted to settle down in Malaya: “I like Kuala Lumpur, and
-I like Singapore even more. I would stay if I married a local Chinese girl”.66
+I like Singapore even more. I would stay if I married a local Chinese girl”.[^65] 
 However, Zhu also said, “I like Singapore too, but I still hope to return to
 Hong Kong one day. I came to Singapore from there, of course I would
-have feelings for Hong Kong”.67
+have feelings for Hong Kong”.[^67] 
 
 But Liu returned to Hong Kong for practical reasons. While recuperating
 in Singapore and without a job at the newspaper, Liu wrote stories for a
 living. Under the pen-name Ge Li Ge (葛里哥), he wrote *Chun Zhi*
 (《春治》), a story about a girl sold to servitude but who ultimately found
-her own freedom.68 Under another pseudonym, Ling Hu Ling (令狐玲), he
+her own freedom.[^68] Under another pseudonym, Ling Hu Ling (令狐玲), he
 retold the story of the Tang dynasty poet in *Li Bai Catching the Moon*
-(《李太白捉月》).69 “Singapore Story” (《星加坡故事》) was written around
+(《李太白捉月》).[^69] “Singapore Story” (《星加坡故事》) was written around
 1956 to 1957 for the *Story Paper* (《小说报》), a magazine backed by the
-United States Information Service (USIS).70 But it was not enough to make
+United States Information Service (USIS).[^70] But it was not enough to make
 ends meet. Lo said, “After six years of trying, it was apparent the working
 style and culture of the newspaper industry in Singapore did not suit him.
 He also could not support himself as a freelance writer in Singapore. There
