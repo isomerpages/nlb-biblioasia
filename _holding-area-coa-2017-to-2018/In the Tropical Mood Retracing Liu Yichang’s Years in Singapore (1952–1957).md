@@ -634,3 +634,135 @@ serious literature for himself at night. Thanks to his writing, Liu was able to
 purchase an apartment in Tai Koo Shing, one of Hong Kong’s first major
 private housing estates, where Liu and Lo have lived ever since.
 
+#### **A Malayan Writer at Heart?**
+
+Liu-the-newspaper-man might have left Singapore by the end of 1950s, but
+the novelist retained a strong connection with Singapore, primarily through
+his serialised fiction in *Nanyang Siang Pau*’s (NYSP) *Fukan* (副刊) literary
+section from 1957 to 1985. Through the introduction of his good friend,
+Chung Wen Ling, then chief editor of NYSP (and later Lee Kuan Yew’s
+press secretary from 1960 until Chung’s passing in 1977), Li Weichen
+(李微尘) commissioned a collection of short stories from Liu.
+
+Under his pen name Ge Li Ge, inspired by his favourite film star Gregory
+Peck, Liu wrote more than 60 Malayan short stories, beginning with
+“Connaught Pavilion”(《康乐亭畔》) which ran on 27 June 1958, and
+ending with “Servant Girl” (《查某》) which was released on 11 July 1959.
+Liu wrote at least one story a week, and once wrote eight stories a month,
+in March 1959. From 1970, over an uninterrupted 15 years, Liu serialised
+55 novels in NYSP. From April 1971 to January 1974, he wrote three novels
+set in Singapore. *Rubber Plantation* (《树胶园》), about a rubber plantation
+owner torn between his new family in Malaya and the one he left behind in China, reads like a rewriting and expansion of his 1959 short story
+“Toiling in Nanyang” (《过番谋生记》). *Popular Melodies*, his *getai* novel,
+is the most valuable find from this era for reasons previously mentioned.
+*Don’t Keep Me Waiting* (《别让我等待再等待》) is a melodramatic love story
+between a newspaper editor and a rich woman who wanted to keep him as
+her “plaything”.
+
+While *Popular Melodies* gives detailed insight into the *getai* trade, Liu’s
+1950s Malayan short stories offer vivid looks into bygone Singapore life
+and society as a whole. These short stories, whose literary merits may not
+be on par with some of his best Hong Kong stories and novels, provide
+precious records on the sights and sounds of the time as many of the
+places, communities and ways of life have since disappeared from our
+cityscape. These stories double up as his love letters to Singapore. Liu
+infused so much detail of everyday life in Singapore into these writings
+that they reminisce and retrace his life here.
+
+One can map out the places Liu had been to through the detailed
+directions in some of his stories. In “Durian Cake and Leather Shoes”
+(《榴莲糕与皮鞋》),73 a boy pays five cents for a shuttle bus ride from Tiong
+Bahru to Kreta Ayer, a journey familiar to Liu as he had lived in both
+places. In “Night at Bedok” (《勿洛之夜》),74 a man takes a taxi to Bedok
+with a lady of the night he had met at Happy World to have supper with
+her. The story details: “The taxi turned into Katong from Mountbatten
+Road, and drove straight (along East Coast Road) to Bedok beach. I stole
+a kiss from her when the taxi drove past Hua Yu Villa (华友别墅)”. The
+villa was an entertainment club that was probably the precursor to the
+current Hua Yu Wee restaurant on 462 Upper East Coast Road.
+
+“On the Bus From Singapore to Malaysia” (《新马道上》)75 tells of an
+encounter between a down-and-out man going to work in Malacca
+and a young woman returning home to Muar. Liu details their brief
+affair through the stops along their journey: their eyes meet at the bus
+station outside the Beach Road cinema; they sit together and strike up a conversation as the bus progresses to Johor Bahru via Bukit Timah Road,
+past Beauty World Amusement Park; at Batu Pahat, they get off the bus
+and flirt over snacks at a *kopitiam* (coffee shop). Back on the bus, the man
+falls asleep and mistakes her for a petty thief when he feels her hand in
+his pocket. After she gets off the bus at Muar, he finds out that she had
+actually left him 50 dollars as well as a note, wishing him well in his new
+life in Malacca. “Night Train from Singapore to KL” (《在新隆夜邮车上》)
+employs a similar method of storytelling.76
+
+During his interview with me, Xie Ke recalled that while Liu would
+realistically and poignantly depict the hardships of the underclass, he also
+portrayed them as multifaceted characters capable of fun and seeking to
+escape from the drudgery of their lives. This would explain the leisurely
+pursuits woven into these stories, a lifestyle that was familiar to Liu who
+frequented *getai*, cinemas and other entertainment venues.
+
+“Evening Dress”(《晚礼服》)77 is set in a high-end boutique near the Aurora
+department store once located at High Street (水仙门), one of Singapore’s
+most exciting shopping districts then. Robinsons at Raffles Place was
+frequently mentioned in his stories. “A Visitor from Johor” (《柔佛来客》)78
+sets the scene of a confrontation between the wife and mistress of a rubber
+plantation owner at the now-demolished Adelphi Hotel cafe, which
+Liu once frequented with his wife. Watching movies at Odeon, Cathay
+and Capitol was one of Liu’s favourite pastimes. His erotically-charged
+“Midnight Show”(《半夜场》)79 depicts a chance meeting between a man
+and a vamp at the Odeon. Liu loved going to the races and the racecourse
+was the backdrop of “A Comedy at the Racecourse” (《马场喜剧》)80 and
+“The Drinker” (《酒徒》, not Liu’s seminal novel of the same name).81
+
+Liu’s characters were often found indulging in the great Singapore pastime
+of eating at Tai Thong restaurant at Happy World Amusement Park;
+enjoying prawn noodles at Amoy Street, fried *kway teow* at Connaught
+Drive Park’s hawker centre, midnight supper and satay at Katong Park as
+well as Bedok Beach. He even name-checked the once famous Swee Kee
+Chicken Rice shop at Middle Road.82
+
+Liu’s dazzling cast of characters hailed from all walks of life, from tycoons
+to coolies, covering the gamut of the social stratum. “Kuala Lumpur at
+the Blink of an Eye” (《瞬息吉隆坡》)83 is a moving tribute to Yap Ah Loy,
+the *kapitan cina* of Kuala Lumpur who, on his death bed on 15 April 1885,
+still dreamt of setting up schools, hospitals and charities in his hometown
+in China after fighting for the welfare of miners and countless Chinese
+immigrants in Malaya his whole life. “Ah Sum” (《阿婶》)84 portrays the
+difficulty of hiring domestic helpers in Singapore through the comedic
+portraiture of a demanding domestic worker who would only work if the
+radio were tuned to her favourite storytelling programme when she worked.
+She demanded a cut of her employer’s mahjong winnings, insisted on five
+curry meals a week, and that she be allowed to sell cigarettes at the market
+every night. “Ismail” (《伊士迈》)85 is a heartbreaking story about a downand-
+out Malay man who went from selling first day covers at Robinson
+Road to pimping his 19-year-old wife to strangers.
+
+Liu’s impressive ease in using colloquial terms shows how immersed he had
+been in Singapore’s culture. Shaped by Malaya’s melting-pot society, Liu’s
+Malayan stories take on a distinctly Malayan and Singapore identity.
+
+Before the standardisation of Mandarin, Singapore’s spoken and written
+Chinese was influenced by its major dialect groups such as Cantonese and
+Hokkien. Liu’s generous use of dialect reflected the diversity of Singapore’s
+Chinese diaspora. He used Cantonese words such as: 扣(dollar), 老虎纸 (tiger
+paper, referring to the Straits dollars that featured a tiger on one side) and
+乌龟婆（female pimp) and Hokkien terms like: 暗牌 (secret detective), 大狗 (big dog, constable), 头家 (boss) and 乌头饭 (literally meaning black bean rice, a
+euphemism for jail time), and 红毛厝 (a Western-style concrete home).86
+
+Malay, Indian and English words were similarly peppered throughout his
+stories, sometimes spelled out in letters, but mostly written phonically
+in Chinese, such as: 羔呸 (*kopi*, meaning coffee), 啰知 (Cantonese
+pronunciation of *roti*, meaning bread), 吉埃 *(kedai*, Malay for small shop),
+马打 (*mata-mata*, referring to the police), 马打楼 (police station) and 则知
+(*chetti/chetty* referring to moneylenders).87
+
+The interaction between different races was the norm in Liu’s Malayan
+stories. His “Chinatown” was a multicultural one that included an image
+of Malay hawkers grilling mutton satay along five-footways (“A Morning
+in Kreta Ayer”,《牛车水之晨》).88 In the thriller “Robbery in the Coconut
+Grove” (《椰林抢劫》),89 Hassan, a Malay constable, teams up with his
+Chinese colleague, Ah Lark (阿六), to solve a shoot-and-run robbery with a
+shocking ending. In “Blue Gemstone” (《蓝宝石》),90 two Chinese men luck
+out when they get a bargain from a lonely Indian jeweller in Arab Street.
+
+
