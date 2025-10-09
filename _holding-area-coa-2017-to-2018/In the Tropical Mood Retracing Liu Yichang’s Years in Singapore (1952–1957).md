@@ -991,45 +991,45 @@ Yi Mingshan 易明善, _Liu yi chang chuan_ 刘以鬯传 \[Biography of Liu Yich
 
 #### **NOTES**     
 
-1 Xie Ke 谢克, _Wo de di yi ben shu_ 我的第一本书 \[My first book\] (9 June 2011); Xie Ke was a veteran _Fukan_ (literary) editor at _Nanyang Siang Pau_ and _Lianhe Zaobao_ from the 1970s to late 1990s. He was also one of Liu’s oldest friends in Singapore. In this essay about his literary journey, he talks about Liu’s influence on his writing: “一九五二年，我在《新力报》举办的文艺集会上，认识了从香港到新加坡来担任《益世报》主笔的著名小说家刘以鬯先生。刘先生平易近人，热心奖掖后进，深受文艺青年欢迎。那时，刘先生自己一个人住在柏城街南洋客属总会四楼，我时常星期天中午去找他，向他请教一些写作问题。每一次，他都很认真地指导我，使我获益不浅”. (“In 1952, at a literary gathering organised by _Sin Lit Pau_, I \[Xie Ke\] met Mr. Liu Yi-chang, an eminent Hong Kong writer who had come to Singapore to write for _Ih Shih Pao_. Mr. Liu was approachable and well-loved by literary youth because he is very encouraging towards us. Mr. Liu lived on the fourth floor of Nanyang Khek Community Guild House on Peck Seah Street then. I would often visit him on Sunday to seek his advice on writing. I have benefitted immensely from his mentorship.”)
+[^1]: Xie Ke 谢克, _Wo de di yi ben shu_ 我的第一本书 \[My first book\] (9 June 2011); Xie Ke was a veteran _Fukan_ (literary) editor at _Nanyang Siang Pau_ and _Lianhe Zaobao_ from the 1970s to late 1990s. He was also one of Liu’s oldest friends in Singapore. In this essay about his literary journey, he talks about Liu’s influence on his writing: “一九五二年，我在《新力报》举办的文艺集会上，认识了从香港到新加坡来担任《益世报》主笔的著名小说家刘以鬯先生。刘先生平易近人，热心奖掖后进，深受文艺青年欢迎。那时，刘先生自己一个人住在柏城街南洋客属总会四楼，我时常星期天中午去找他，向他请教一些写作问题。每一次，他都很认真地指导我，使我获益不浅”. (“In 1952, at a literary gathering organised by _Sin Lit Pau_, I \[Xie Ke\] met Mr. Liu Yi-chang, an eminent Hong Kong writer who had come to Singapore to write for _Ih Shih Pao_. Mr. Liu was approachable and well-loved by literary youth because he is very encouraging towards us. Mr. Liu lived on the fourth floor of Nanyang Khek Community Guild House on Peck Seah Street then. I would often visit him on Sunday to seek his advice on writing. I have benefitted immensely from his mentorship.”)
 
-2 “Choubei san nian jingying si yue yishi bao zidong tingye quanti zhiyuan gongyou shiqian quan wei wen zhi jiang qing laogong si dai suo suo jiqian xinshui” [筹备三年经营四月益世报自动停业全体职员工友事前全未闻知将请劳工司代索所积欠薪水](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521013-1.2.26.3) \[Three years of preparation and they lasted four months, _Ih Shih Pao_ has ceased operation, while all staff were not informed beforehand. The labour office will be asked to retrieve the salary owned on behalf of the affected staff\], _Nanyang Siang Pau_ 南洋商报, 13 October 1952, 5. (From NewspaperSG)
+[^2]: “Choubei san nian jingying si yue yishi bao zidong tingye quanti zhiyuan gongyou shiqian quan wei wen zhi jiang qing laogong si dai suo suo jiqian xinshui” [筹备三年经营四月益世报自动停业全体职员工友事前全未闻知将请劳工司代索所积欠薪水](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521013-1.2.26.3) \[Three years of preparation and they lasted four months, _Ih Shih Pao_ has ceased operation, while all staff were not informed beforehand. The labour office will be asked to retrieve the salary owned on behalf of the affected staff\], _Nanyang Siang Pau_ 南洋商报, 13 October 1952, 5. (From NewspaperSG)
 
-3 “[Choubei san nian jingying si yue yishi bao zidong tingye quanti zhiyuan gongyou shiqian quan wei wen zhi jiang qing laogong si dai suo suo jiqian xinshui](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521013-1.2.26.3).”
+[^3]: “[Choubei san nian jingying si yue yishi bao zidong tingye quanti zhiyuan gongyou shiqian quan wei wen zhi jiang qing laogong si dai suo suo jiqian xinshui](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521013-1.2.26.3).”
 
-4 “[Choubei san nian jingying si yue yishi bao zidong tingye quanti zhiyuan gongyou shiqian quan wei wen zhi jiang qing laogong si dai suo suo jiqian xinshui](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521013-1.2.26.3).”
+[^4]: “[Choubei san nian jingying si yue yishi bao zidong tingye quanti zhiyuan gongyou shiqian quan wei wen zhi jiang qing laogong si dai suo suo jiqian xinshui](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521013-1.2.26.3).”
 
-5 Yi Mingshan 易明善, _Liu yi chang chuan_ 刘以鬯传 \[Biography of Liu Yichang\] (香港: 明报出版社, 1997), 54. 
+[^5]: Yi Mingshan 易明善, _Liu yi chang chuan_ 刘以鬯传 \[Biography of Liu Yichang\] (香港: 明报出版社, 1997), 54. 
 
-6 Zheng Wenhui 郑文辉, _Xinjiapo Hua wen bao ye shi: 1881–1972_ [新加坡华文报业史: 1881–1972](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781) \[History of Chinese newspapers in Singapore: 1881–1972\] (新加坡: 新马出版印刷公司, 1973), 67. (From National Library Singapore, call no. Chinese RSING 079.5957 TBH)
+[^6]: Zheng Wenhui 郑文辉, _Xinjiapo Hua wen bao ye shi: 1881–1972_ [新加坡华文报业史: 1881–1972](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781) \[History of Chinese newspapers in Singapore: 1881–1972\] (新加坡: 新马出版印刷公司, 1973), 67. (From National Library Singapore, call no. Chinese RSING 079.5957 TBH)
 
-7 Yi, _Liu yi chang chuan_, 54.
+[^7]: Yi, _Liu yi chang chuan_, 54.
 
-8 “Yishi bao jin chen shi shi kaiqi damen yibian zhigong quchu siwu” [益世報今晨十時開啟大門以便職工取出私物](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521015-1.2.38.9) \[Ih Shih Pau opened its door at 10 this morning for their employees to retrieve personal belongings\]. _Nanyang Siang Pau_ 南洋商报, 15 October 1952, 6. (From NewspaperSG)
+[^8]: “Yishi bao jin chen shi shi kaiqi damen yibian zhigong quchu siwu” [益世報今晨十時開啟大門以便職工取出私物](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521015-1.2.38.9) \[Ih Shih Pau opened its door at 10 this morning for their employees to retrieve personal belongings\]. _Nanyang Siang Pau_ 南洋商报, 15 October 1952, 6. (From NewspaperSG)
 
-9 Lizi 栗子, “Gu mei de chulian” 媚的初恋 \[Koo Mei’s first love\], _Mypaper_, 9 September 2011; “Xianggang hang xun, xianggang ying quan li fangfei yu gu mei de jiushi xin ye” 香港航讯，香港影圈李芳菲与顾媚的旧事新页 \[Old and new stories about Li Fangfei and Koo Mei\], _United Daily News_ 联合报, 22 September 1957, 6.
+[^9]: Lizi 栗子, “Gu mei de chulian” 媚的初恋 \[Koo Mei’s first love\], _Mypaper_, 9 September 2011; “Xianggang hang xun, xianggang ying quan li fangfei yu gu mei de jiushi xin ye” 香港航讯，香港影圈李芳菲与顾媚的旧事新页 \[Old and new stories about Li Fangfei and Koo Mei\], _United Daily News_ 联合报, 22 September 1957, 6.
 
-10 Zhang Xinghong 章星虹, “Xiangjiang bao ren zai shi cheng liu yi chang zai chengzhong de san ge luojiao dian” 香江报人在狮城 刘以鬯在城中的三个落脚点 \[Hong Kong newspaper man in Singapore, Liu Yichang’s three residences in Singapore\], _Lianhe Zaobao_ 联合早报, 28 October 2013.
+[^10]: Zhang Xinghong 章星虹, “Xiangjiang bao ren zai shi cheng liu yi chang zai chengzhong de san ge luojiao dian” 香江报人在狮城 刘以鬯在城中的三个落脚点 \[Hong Kong newspaper man in Singapore, Liu Yichang’s three residences in Singapore\], _Lianhe Zaobao_ 联合早报, 28 October 2013.
 
-11 “Xiangjiang bao ren zai shi cheng liu yi chang zai chengzhong de san ge luojiao dian.”
+[^11]: “Xiangjiang bao ren zai shi cheng liu yi chang zai chengzhong de san ge luojiao dian.”
 
-12 Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 73, 83.
+[^12]: Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 73, 83.
 
-13 Yi, _Liu yi chang chuan_, 55.
+[^13]: Yi, _Liu yi chang chuan_, 55.
 
-14 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau_ _南洋商__报_, 5 May 1971, 7. (Microfilm NL6795)
+[^14]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau_ _南洋商__报_, 5 May 1971, 7. (Microfilm NL6795)
 
-15 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau_ _南洋商__报_, 8 June 1971, 7. (Microfilm NL6795)
+[^15]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau_ _南洋商__报_, 8 June 1971, 7. (Microfilm NL6795)
 
-16 Chen Zhiming 陈志明, 刘以鬯先生访问记 \[An interview with Mr. Liu Yichang\], Chinawriter, 26 December 2016.
+[^16]: Chen Zhiming 陈志明, 刘以鬯先生访问记 \[An interview with Mr. Liu Yichang\], Chinawriter, 26 December 2016.
 
-17 Cai Lam 蔡澜, Cai lan, chongfeng liu yi chang xiansheng 重逢刘以鬯先生 \[Meeting Mr. Liu Yichang Again\], _Next Magazine_ _壹週刊_, 6 December 2015.
+[^17]: Cai Lam 蔡澜, Cai lan, chongfeng liu yi chang xiansheng 重逢刘以鬯先生 \[Meeting Mr. Liu Yichang Again\], _Next Magazine_ _壹週刊_, 6 December 2015.
 
-18 Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 77.
+[^18]: Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 77.
 
-19 Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 75–76.
+[^19]: Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 75–76.
 
-20 Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 77.
+[^20]: Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 77.
 
 21 Zheng, [_Xinjiapo Hua wen bao ye shi: 1881–1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84469781), 77.
 
