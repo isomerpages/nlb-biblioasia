@@ -8,10 +8,10 @@ description: Lee Ek Tieng (1933–2025) was the civil servant who headed the
   tells us how he did it with his colleagues and earned their respect.
 image: /images/Podcast/Samantha_boh_600_by_400.jpg
 ---
-<p>fJan Beránek sets out to find out what happened to his granduncle, Silvestr
-Němec, who left his Czech village for Singapore in 1938 and died as a volunteer
-during WWII. He finds Silvestr’s story woven with that of the Bata Shoe
-Company, the Czechoslovak community and volunteer forces in Singapore.</p>
+<p>Lee Ek Tieng (1933–2025) was the civil servant who headed the clean-up
+of the Singapore River, had the foresight to modernise the sanitation system,
+and ensured water self-sufficiency for Singapore. Writer Samantha Boh tells
+us how he did it with his colleagues and earned their respect.</p>
 <p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
 <p></p>
