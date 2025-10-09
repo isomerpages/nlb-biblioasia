@@ -14,6 +14,9 @@ novel) respectively. The films’ protagonist, a cigarette-puffing newspaper
 editor and pulp-novelist played by actor Tony Leung, was also loosely based
 on Liu himself.
 
+<img src="/images/COA%202017%20to%202018/Liu%20Yichang/Liu_Yichang.jpg" style="width:80%;">
+ <div style="background-color: white;">Liu Yichang in Singapore in the 1950s.<i> Courtesy of Mrs. Liu Yichang, reproduced with permission.</i></div>
+
 Wong’s films may have been set in Hong Kong in the 1960s, but the prime
 of Liu’s life had been a decade earlier in Singapore in the 1950s, where he,
 aged 34, experienced the golden era of Singapore’s tabloids, was initiated
@@ -161,6 +164,10 @@ while he was waiting for the other players to discard their tiles”.17
 Back in Singapore, Liu worked for two papers chaired by the Kuala
 Lumpur construction tycoon Low Yat (刘西蝶). Liu was the supervising
 editor at *Chung Shing Jit Pao* (《中兴日报》, CSJP) at 110 Robinson Road.
+
+<img src="/images/COA%202017%20to%202018/Liu%20Yichang/Liu_Yichang_at_work.jpg" style="width:80%;">
+ <div style="background-color: white;"> Liu Yichang at work at the <i>Chung Shing Jit Pao</i> (《中兴日报》) newsroom on Robinson Road, <i> Courtesy of 陈加昌 (Chin Kah Chong), reproduced with permission.</i></div>
+
 The broadsheet struggled with its declining readership and often ran into
 financial difficulties. Liu later became editor and writer at the tabloid *Feng
 Bao* (《 锋报》, FB), which was launched in 1953. Chen Mingzong, his friend
@@ -368,7 +375,7 @@ dramas… [which were] far more riveting than the sketches on stage”.43 Liu wr
 “Troupe Leader” (《团长》) is a sympathetic portrayal of a troupe leader
 who had to handle a motley crew of difficult artistes and creditors. The stress
 was so great that the man collapsed on stage after announcing “Ladies and
-Gentlemen”.44 “Getai” (《歌台》) is a zany comedy about a *getai *owner who
+Gentlemen”.44 “Getai” (《歌台》) is a zany comedy about a *getai* owner who
 insisted on casting a stripper in the play *The Savage Land* (《原野》) by Cao
 Yu (曹禺). In “Getai”, the director had walked out in a fit of anger, but the
 true to the owner’s predictions, the queue for the show began forming way
@@ -422,7 +429,7 @@ herself singing the classic “Everlasting Love” (不了情). On 25 April 1953
 Argentinian song and dance troupe, would be performing at the Happy
 World stadium.49
 
-Koo dedicated a chapter to Liu in her juicy tell-all 2006 memoir* From
+Koo dedicated a chapter to Liu in her juicy tell-all 2006 memoir *From
 Dawn to Dusk* (《从破晓的黄昏》). Their first meeting had been flirtatious.
 She wrote, “We met backstage where he was reporting as a journalist. I told
 him I had read his articles in the papers. He asked if I knew his name. I said
@@ -590,6 +597,11 @@ very strict then. Once my one-year visa was up, I had to leave no matter
 what and apply for re-entry from Hong Kong.” On 8 September 1957, Liu
 packed up and moved back to Hong Kong to be with Lo, leaving his life in
 Singapore behind. They married a year later.65
+
+<img src="/images/COA%202017%20to%202018/Liu%20Yichang/Liu_Yichang_and_Lo_Pai_Wan.jpg" style="width:50%;">
+ <div style="background-color: white;"> Liu Yichang and Lo Pai Wan’s first photo taken together in Singapore, circa 1956. They  married in 1958.
+<i> Courtesy of Mrs. Liu Yichang,
+reproduced with permission. </i></div>
 
 In the course of our interview, Lo revealed, “Liu Yichang was already a
 permanent resident in Singapore. The newspaper in Kuala Lumpur applied
