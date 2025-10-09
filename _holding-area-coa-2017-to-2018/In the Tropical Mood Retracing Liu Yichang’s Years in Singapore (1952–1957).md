@@ -615,7 +615,7 @@ on his behalf. He came back to Hong Kong on a travel visa. He could only
 re-apply to stay after getting a job, with me as a guarantor.” In *Popular
 Melodies*, Liu’s protagonist, Zhu, was also debating if he should stay or go.
 A part of him wanted to settle down in Malaya: “I like Kuala Lumpur, and
-I like Singapore even more. I would stay if I married a local Chinese girl”.[^65] 
+I like Singapore even more. I would stay if I married a local Chinese girl”.[^66] 
 However, Zhu also said, “I like Singapore too, but I still hope to return to
 Hong Kong one day. I came to Singapore from there, of course I would
 have feelings for Hong Kong”.[^67] 
