@@ -765,4 +765,54 @@ Chinese colleague, Ah Lark (阿六), to solve a shoot-and-run robbery with a
 shocking ending. In “Blue Gemstone” (《蓝宝石》),90 two Chinese men luck
 out when they get a bargain from a lonely Indian jeweller in Arab Street.
 
+#### **Conclusion**
+
+Liu’s Malayan fiction clearly reflects the Merdeka spirit that was sweeping
+through Malaya and its literary scene in the 1950s. Liu’s time in Singapore
+(1952–1957) coincided with the island’s push for independence and
+decolonisation. As an author with a keen eye for his environment, and
+especially as a “newspaper man” up-to-date with current affairs and news,
+Liu certainly would have been attuned to Singapore’s 1955 General Election
+that allowed locals to elect a majority of seats, as well as the subsequent
+Merdeka talks in 1956 and 1957. Liu’s two worlds in Singapore, his
+professional newspaper one, as well as his personal one at the amusement
+parks and other places of entertainment that kept him close to the pulse and sentiment of the masses, converged in his writing, against the backdrop of a
+country’s battle for social and political change.
+
+The majority of Malayan Chinese literature as well as Chinese print media
+during this period increasingly advocated moving away from diasporic and
+immigrant mindsets toward forging a Malayan identity through embracing
+and celebrating the multiculturalism of multiethnic communities. Newspaper
+and literary publications focused more on Malayan culture and lifestyle to
+promote a sense of local affiliation. Liu’s Malayan fiction clearly carries the
+hallmark of a Merdeka-conscious Malayan author.
+
+Liu even used the word Merdeka (“默迪卡”). According to an article in
+Cathay Film Organisation’s entertainment periodical *International Screen*,
+Liu’s novel *Malay Girl* (《马来姑娘》) was to be made into a film starring
+Linda Lin Dai. In Liu’s article “Why I have written *Malay Girl*”, he
+explains: “Malaya has just ‘Merdeka’ed’, and the different races live in
+harmony. In the story, the Malay live on the east side of the river, and the
+Chinese live on the west. The river comes between them, but the bridge that
+connects them represents unity. It unites all ethnic groups and will help
+strengthen the newly born Malaya.”91 Alas, the film was never made.
+
+Judging from Liu’s vivid depictions of life in Singapore, his keen ear for the
+Malayan lingua franca, and his astute sense of place, one cannot help but
+wonder, had Liu chosen to stay in Singapore, would he have gone on to become
+one of Singapore’s most prolific writers from the last century? No doubt, even
+though he ultimately made Hong Kong his home, and final resting place,
+Liu’s impact on Malayan literature, as well as his invaluable insights into life in
+Singapore, should continue to be examined, explored and studied.
+
+<div>
+<b>Lim Fong Wei</b> (林方伟) is a bilingual journalist and editor. A storyteller as well as
+a champion of creativity, he is also a screenwriter, fiction writer, translator and the
+co-chairperson of the Singapore Creator Awards organised by Singapore Press Holdings.
+Lim wrote the screenplay for the film 3688 （想入飞飞）, which was screened at film
+festivals in Busan, Stockholm and Taipei. His short story “The Woman on a Trishaw
+at Dead Man Alley”（《死人街三轮车上的小姐》）won the 2017 Golden Point Award.
+His research interests relate to Asian social history and overlooked, untold stories of
+individuals, which form the basis of his storytelling.</div>
+
 
