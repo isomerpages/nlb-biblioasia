@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2017-2018/tropical-mood-retracing-liu-
 variant: markdown
 description: ""
 ---
-#### **Introduction**
+### **Introduction**
 In 2000, a new generation was introduced to Hong Kong writer Liu
 Yichang (刘以鬯, 7 December 1918 – 8 June 2018) through the technicoloursaturated
 imagery of Wong Kar Wai’s *In the Mood* for Love and *2046*, two
@@ -1091,45 +1091,45 @@ Yi Mingshan 易明善, _Liu yi chang chuan_ 刘以鬯传 \[Biography of Liu Yich
 
 [^50]: Gu Mei, 顾媚, _Cóng pòxiǎo de huánghūn: Gù mèi huíyìlù_ 从破晓的黄昏: 顾媚回忆录 \[From dawn to dusk: The memoir of Koo Mei\] (香港: 三联书店（香港）有限公司出版), 2016), 76.
 
-51 Lim Fong Wei’s Interview with Zhuang Xuefang, 16 Dec 2017.
+[^51]: Lim Fong Wei’s Interview with Zhuang Xuefang, 16 Dec 2017.
 
-52 Gu, _Cóng pòxiǎo de huánghūn_, 77.
+[^52]: Gu, _Cóng pòxiǎo de huánghūn_, 77.
 
-53 Gu, _Cóng pòxiǎo de huánghūn_, 78.
+[^53]: Gu, _Cóng pòxiǎo de huánghūn_, 78.
 
-54 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 14 August 1971, 7 (Microfilm NL6812); Liu Yichang 刘以鬯, “[Shídài qū](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19710815-1.2.53.17)” 时代曲 \[Popular melodies\], _Nanyang Siang Pau_ _南洋商报_, 15 August 1971, 28. (From NewspaperSG)
+[^54]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 14 August 1971, 7 (Microfilm NL6812); Liu Yichang 刘以鬯, “[Shídài qū](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19710815-1.2.53.17)” 时代曲 \[Popular melodies\], _Nanyang Siang Pau_ _南洋商报_, 15 August 1971, 28. (From NewspaperSG)
 
-55 Gu, _Cóng pòxiǎo de huánghūn_, 79–81.
+[^55]: Gu, _Cóng pòxiǎo de huánghūn_, 79–81.
 
-56 Gu, _Cóng pòxiǎo de huánghūn_, 81–92.
+[^56]: Gu, _Cóng pòxiǎo de huánghūn_, 81–92.
 
-57 Liu Yichang 刘以鬯, _Re dai feng yu_ [热带风雨](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676) \[Stories of the tropics\] (香港: 获益出版事业有限公司, 2010), 333–34. (From National Library Singapore, call no. Chinese RCLOS C813.4 LYC)
+[^57]: Liu Yichang 刘以鬯, _Re dai feng yu_ [热带风雨](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676) \[Stories of the tropics\] (香港: 获益出版事业有限公司, 2010), 333–34. (From National Library Singapore, call no. Chinese RCLOS C813.4 LYC)
 
-58 “Jièshào bù rì yóu gǎng dǐ xīng de xiānggǎng gēchàng wǔdǎo jù yì tuán——tā de lǐxiǎng shì xiǎng bǎ xiānggǎng de zhēnzhèng yìshù jièshào dào xīng zhōu, ér zài xīng xuéxí gèng hǎo de yìshù dài huí xiānggǎng qù” [介绍不日由港抵星的香港歌唱舞蹈剧艺团——它的理想是想把香港的真正艺术介绍到星洲，而在星学习更好的艺术带回香港去](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530903-1.2.29.5) \[Introducing a song and dance troupe from Hong Kong that will be coming to Singapore – its ideal is to bring the real art of Hong Kong to Singapore and to improve on their art in Singapore\], _Nanyang Siang Pau_ _南洋商__报_, 3 September 1953, 6. (From NewspaperSG)
+[^58]: “Jièshào bù rì yóu gǎng dǐ xīng de xiānggǎng gēchàng wǔdǎo jù yì tuán——tā de lǐxiǎng shì xiǎng bǎ xiānggǎng de zhēnzhèng yìshù jièshào dào xīng zhōu, ér zài xīng xuéxí gèng hǎo de yìshù dài huí xiānggǎng qù” [介绍不日由港抵星的香港歌唱舞蹈剧艺团——它的理想是想把香港的真正艺术介绍到星洲，而在星学习更好的艺术带回香港去](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530903-1.2.29.5) \[Introducing a song and dance troupe from Hong Kong that will be coming to Singapore – its ideal is to bring the real art of Hong Kong to Singapore and to improve on their art in Singapore\], _Nanyang Siang Pau_ _南洋商__报_, 3 September 1953, 6. (From NewspaperSG)
 
-59 “Xiānggǎng gēwǔ jùtuán yīxíng shíqī rén zuó shā dào zhāng lù jīnrì fēi lái shíqī rì yīqǐ shàngyǎn” [香港歌舞剧团 一行十七人昨杀到 张露今日飞来十七日一起上演](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530915-1.2.28.1) \[A publicity article announcing Hong Kong song and dance theatre troupe’s performance featuring Chang Loo on 17 Sep 1953\], _Nanyang Siang Pau_ _南洋商__报_, 15 September 1953, 6\. (From NewspaperSG)
+[^59]: “Xiānggǎng gēwǔ jùtuán yīxíng shíqī rén zuó shā dào zhāng lù jīnrì fēi lái shíqī rì yīqǐ shàngyǎn” [香港歌舞剧团 一行十七人昨杀到 张露今日飞来十七日一起上演](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530915-1.2.28.1) \[A publicity article announcing Hong Kong song and dance theatre troupe’s performance featuring Chang Loo on 17 Sep 1953\], _Nanyang Siang Pau_ _南洋商__报_, 15 September 1953, 6\. (From NewspaperSG)
 
-60 “Kuàilè shìjiè tǐyùguǎn xiāng tuán jīn wǎn yòu yī jù xiàn “módēng pán sī dòng” jīn wǎn xiàn yǎn” [快乐世界体育馆 香团今晚又一巨献 “摩登盘丝洞”今晚献演](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531011-1.2.13.10) \[Another great performance by the Hong Kong troupe at Happy World Stadium, “The Spider Lair” opens tonight\], _Nanyang Siang Pau_ _南洋商__报_, 11 October 1953, 6. (From NewspaperSG)
+[^60]: “Kuàilè shìjiè tǐyùguǎn xiāng tuán jīn wǎn yòu yī jù xiàn “módēng pán sī dòng” jīn wǎn xiàn yǎn” [快乐世界体育馆 香团今晚又一巨献 “摩登盘丝洞”今晚献演](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531011-1.2.13.10) \[Another great performance by the Hong Kong troupe at Happy World Stadium, “The Spider Lair” opens tonight\], _Nanyang Siang Pau_ _南洋商__报_, 11 October 1953, 6. (From NewspaperSG)
 
-61 “Xiānggǎng gēwǔ tuán jīn wǎn tuīchū dà wǔjù ‘yù tuǐ língkōng’” [香港歌舞团今晚推出大舞剧“玉腿凌空”](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531106-1.2.32.7) \[Hong Kong song and dance troupe presents a new dance act tonight\], _Nanyang Siang Pau_ _南洋商__报_, 6 November 1953, 6. (From NewspaperSG)
+[^61]: “Xiānggǎng gēwǔ tuán jīn wǎn tuīchū dà wǔjù ‘yù tuǐ língkōng’” [香港歌舞团今晚推出大舞剧“玉腿凌空”](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531106-1.2.32.7) \[Hong Kong song and dance troupe presents a new dance act tonight\], _Nanyang Siang Pau_ _南洋商__报_, 6 November 1953, 6. (From NewspaperSG)
 
-62 “Xiānggǎng qúnyīng gēwǔ tuán zài kuàilè shìjiè yǎnchū gēwǔ jù chōngmǎn shīqínghuàyì zhāng lù de gēshēng zuì shòu zànshǎng” [香港群英歌舞团 在快乐世界演出 歌舞剧充满诗情画意 张露的歌声最受赞赏](南洋商报) \[Hong Kong Song and Dance Troupe performing at Happy World – Their musical is poetic and Chang Loo’s singing is highly praised\], _Nanyang Siang Pau_ _南洋商__报_, 23 January 1955, 6. (From NewspaperSG)
+[^62]: “Xiānggǎng qúnyīng gēwǔ tuán zài kuàilè shìjiè yǎnchū gēwǔ jù chōngmǎn shīqínghuàyì zhāng lù de gēshēng zuì shòu zànshǎng” [香港群英歌舞团 在快乐世界演出 歌舞剧充满诗情画意 张露的歌声最受赞赏](南洋商报) \[Hong Kong Song and Dance Troupe performing at Happy World – Their musical is poetic and Chang Loo’s singing is highly praised\], _Nanyang Siang Pau_ _南洋商__报_, 23 January 1955, 6. (From NewspaperSG)
 
-63 Kong Kam Yoke, [_The Majestic Theatre (__大__华戏院__): Where Chinese Opera Ruled_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=94189c68-0c6f-4383-81a8-a3cbc2d815fc), 26 June 2012. (From National Library Online)
+[^63]: Kong Kam Yoke, [_The Majestic Theatre (__大__华戏院__): Where Chinese Opera Ruled_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=94189c68-0c6f-4383-81a8-a3cbc2d815fc), 26 June 2012. (From National Library Online)
 
-64 “Xiè lǔ bā luópèiyún lǐngdǎo tiān'é gēwǔ jù yì tuán èrshíwǔ rén zuó dǐ xīng èrshíjiǔ wǎn qǐ zài kuàilè shìjiè yǎnchū” [谢鲁八罗佩云领导 天鹅歌舞剧艺团 二十五人昨抵星 二十九晚起在快乐世界演出](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19560527-1.2.28.30) \[The 25 artistes from the Swan Song and Dance Troupe led by Tse Liu-Baat and Lo Pai Wan arrived in Singapore yesterday and will be performing on the stage of Happy World Stadium from May 29th\], _Nanyang Siang Pau_ _南洋商__报_, 27 May 1956, 6. (From NewspaperSG)
+[^64]: “Xiè lǔ bā luópèiyún lǐngdǎo tiān'é gēwǔ jù yì tuán èrshíwǔ rén zuó dǐ xīng èrshíjiǔ wǎn qǐ zài kuàilè shìjiè yǎnchū” [谢鲁八罗佩云领导 天鹅歌舞剧艺团 二十五人昨抵星 二十九晚起在快乐世界演出](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19560527-1.2.28.30) \[The 25 artistes from the Swan Song and Dance Troupe led by Tse Liu-Baat and Lo Pai Wan arrived in Singapore yesterday and will be performing on the stage of Happy World Stadium from May 29th\], _Nanyang Siang Pau_ _南洋商__报_, 27 May 1956, 6. (From NewspaperSG)
 
-65 Lo Pai Wan confirmed when she left and Liu’s exact date of departure during a phone interview with the author on 27 August 2018.
+[^65]: Lo Pai Wan confirmed when she left and Liu’s exact date of departure during a phone interview with the author on 27 August 2018.
 
-66 Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 16 May 1971, 7 (Microfilm NL6795)
+[^66]: Liu Yichang 刘以鬯, “Shídài qū” 时代曲 \[Popular melodies\], _Nanyang Siang Pau Supplement_ _南洋商__报副刊_, 16 May 1971, 7 (Microfilm NL6795)
 
-67 Liu “Shídài qū,” 16 August 1971. &nbsp;
+[^67]: Liu “Shídài qū,” 16 August 1971. &nbsp;
 
-68 Published under Liu Yichang’s pseudonym, Ge Li Ge 葛里哥 and _Chun Zhi_ _春治_was serialised in _Nanyang Siang Pau_ _南洋商__报_ from 12 to 25 January 1957: [12 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570112-1.2.29.4.1), 8; [14 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570114-1.2.32.6.1), 7; [15 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570115-1.2.32.8.1), 8; [16 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570116-1.2.30.3.1), 8; [17 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570117-1.2.32.5.1), 7; [18 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570118-1.2.31.6.1), 8; [19 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570119-1.2.43.5.1), 14; [21 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570121-1.2.28.8.1), 7; [22 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570122-1.2.35.7.1), 8; [23 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570123-1.2.48.6.1), 14; [24 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570124-1.2.39.4.1), 8; [25 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570125-1.2.32.7.1), 8. (From NewspaperSG)
+[^68]: Published under Liu Yichang’s pseudonym, Ge Li Ge 葛里哥 and _Chun Zhi_ _春治_was serialised in _Nanyang Siang Pau_ _南洋商__报_ from 12 to 25 January 1957: [12 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570112-1.2.29.4.1), 8; [14 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570114-1.2.32.6.1), 7; [15 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570115-1.2.32.8.1), 8; [16 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570116-1.2.30.3.1), 8; [17 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570117-1.2.32.5.1), 7; [18 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570118-1.2.31.6.1), 8; [19 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570119-1.2.43.5.1), 14; [21 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570121-1.2.28.8.1), 7; [22 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570122-1.2.35.7.1), 8; [23 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570123-1.2.48.6.1), 14; [24 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570124-1.2.39.4.1), 8; [25 Jan 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570125-1.2.32.7.1), 8. (From NewspaperSG)
 
-69 Published under Liu Yichang’s pseudonym, Ling Hui Ling 令狐玲, 李太白捉月 \[Li Bai Catching the Moon\] was serialised in _Nanyang Siang Pau_ _南洋商__报_ from 1, 3–4, 6–11 May 1957: [1 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570501-1.2.44.6.1), 16; [3 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570503-1.2.43.8.1), 14; [4 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570504-1.2.55.13.1), 16; [6 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570506-1.2.41.6.1), 8; [7 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570507-1.2.36.6.1), 7; [8 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570508-1.2.43.4.1), 14; [9 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570509-1.2.50.12.1), 16; [10 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570510-1.2.39.7.1), 14; [11 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570511-1.2.58.5.1), 16. (From NewspaperSG)
+[^69]: Published under Liu Yichang’s pseudonym, Ling Hui Ling 令狐玲, 李太白捉月 \[Li Bai Catching the Moon\] was serialised in _Nanyang Siang Pau_ _南洋商__报_ from 1, 3–4, 6–11 May 1957: [1 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570501-1.2.44.6.1), 16; [3 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570503-1.2.43.8.1), 14; [4 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570504-1.2.55.13.1), 16; [6 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570506-1.2.41.6.1), 8; [7 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570507-1.2.36.6.1), 7; [8 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570508-1.2.43.4.1), 14; [9 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570509-1.2.50.12.1), 16; [10 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570510-1.2.39.7.1), 14; [11 May 1957](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570511-1.2.58.5.1), 16. (From NewspaperSG)
 
-70 Liu Yichang 刘以鬯, ed., _Xiānggǎng duǎnpiān xiǎoshuō xuǎn (wǔshí niándài)_ 香港短篇小说选 (五十年代) \[Selected Hong Kong short stories in the fifties\] (n.p.: 天地图书有限公司出版, 1997), 2; Zheng Mingren 鄭明仁, “Liú yǐ chàng yǔ sān háo zǐ xiǎoshuō” 劉以鬯與三毫子小說 \[Liu Yichang and His 30-Cent Pulp Novels\], _Ming Pao_ _明報_, 26 October 2016.
+[^70]: Liu Yichang 刘以鬯, ed., _Xiānggǎng duǎnpiān xiǎoshuō xuǎn (wǔshí niándài)_ 香港短篇小说选 (五十年代) \[Selected Hong Kong short stories in the fifties\] (n.p.: 天地图书有限公司出版, 1997), 2; Zheng Mingren 鄭明仁, “Liú yǐ chàng yǔ sān háo zǐ xiǎoshuō” 劉以鬯與三毫子小說 \[Liu Yichang and His 30-Cent Pulp Novels\], _Ming Pao_ _明報_, 26 October 2016.
 
 71 Liu, [_Re dai feng yu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676), 334.
 
