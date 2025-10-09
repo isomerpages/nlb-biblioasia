@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Clean and Green Champion Lee Ek Tieng.md
       - Lost Family/.keep
       - Lost Family/Searching for Family in the Shadows of War.md
       - Lost Family/Transcript.md
