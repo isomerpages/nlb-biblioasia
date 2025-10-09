@@ -57,7 +57,7 @@ deserves to be preserved and celebrated as part of our cultural heritage.
 
 In June 1952, Liu Yichang had been living in a room on the fourth floor of
 Nanyang Khek Community Guild (南洋客属总会) when he came to head
-the *Fukan* (副刊, supplement) of the new Chinese newspaper, *Ih Shih Pao*.1
+the *Fukan* (副刊, supplement) of the new Chinese newspaper, *Ih Shih Pao*.[^1]
 A 10-minute walk down Peck Seah Street, a left turn on Gopeng Street and a right turn took him to his office on Anson Road. He had arrived in
 Singapore with four Hong Kong veteran editors, Chung Wen Ling
 (钟文苓), Liu Wenqu (刘问渠), Zhao Shixun (赵世洵) and Zhang Bingzhi
@@ -65,7 +65,7 @@ Singapore with four Hong Kong veteran editors, Chung Wen Ling
 The newspaper was launched on 7 June 1952, and a well-attended cocktail
 party was held at the Cathay Restaurant on 14 June. At the occasion were
 the who’s who of Singapore – government officials, Chinese community
-leaders and business organisation representatives.2 The paper’s future looked
+leaders and business organisation representatives.[^2] The paper’s future looked
 promising. Liu Yichang did not expect to lose his first job in Singapore in
 less than four months.
 
@@ -79,37 +79,37 @@ read: “Three Years of Preparation and They Lasted Four Months”. Fortyseven
 of the 120 workers were editorial staff and all had been locked out
 of the building with their personal belongings still inside. Some journalists
 only found out that they were out a job after they had returned from
-their assignments.3
+their assignments.[^3]
 
 Liu should have seen it coming. The paper had already run into financial
 difficulty barely a month after its launch, and, from mid-August, was unable
-to pay its employees.4 Three editorial staff, including Zhao Shixun and Chin
+to pay its employees.[^4] Three editorial staff, including Zhao Shixun and Chin
 Kah Chong (陈加昌, who joined Pan-Asia News Agency in 1955 and became
 Singapore’s first Vietnam War correspondent), submitted a letter signed
 by all staff to the labour office to seek recourse in recouping salaries and
-severance pay owed to them.5
+severance pay owed to them.[^5]
 
 The exact dates and chronology of Liu’s movements during this time are
 muddled. Liu’s biographer, Yi Mingshan (易明善), wrote that the paper had
 run into dire financial difficulty by end July. Liu and his four Hong Kong
 colleagues negotiated with the publisher and, failing to get him to sort out the finances, quit and left (“罢笔而去，离开《益世报》”). B.H. Tay, a
 Singapore Chinese-newspaper historian, however, wrote that the editors had
-merely gone on “strike” (实行“罢笔”).6 Yi also wrote that “After leaving *Ih
+merely gone on “strike” (实行“罢笔”).[^6] Yi also wrote that “After leaving *Ih
 Shih Pao* by end July, Liu was welcome onboard [at] *Sin Lit Pau* (新力报) as
-its chief editor”.7 But ISP’s assistant manager had told NYSP two days after
+its chief editor”.[^7] But ISP’s assistant manager had told NYSP two days after
 ISP’s shutdown that “they had notified immigration authorities to prohibit
-the Hong Kong employees from staying in Singapore”,8 suggesting that Liu
+the Hong Kong employees from staying in Singapore”,[^8] suggesting that Liu
 and the other Hong Kong editors had still been in ISP’s employ until its
 closure in October.
 
 One can only imagine Liu’s devastation – the sudden shock of losing his
 job, the anger at being unpaid for months (Liu was also battling his ex-wife
-over alimony during this time9), and being told that he could no longer stay
+over alimony during this time[^9]), and being told that he could no longer stay
 in Singapore. A *Lianhe Zaobao* write up on ISP’s rout quoted a line from
 Liu’s story “Old Wong” (老王): “It was a weekend afternoon. I walked to
 work and was shocked to see the news centre’s door tightly shut…it felt like
 someone had punched me in the stomach…everything around me suddenly
-lost its balance”.10
+lost its balance”.[^10]
 
 The unfortunate debacle at ISP was to set the tone for Liu’s news career in
 Malaya over the next six years, playing out against the exciting but volatile
@@ -117,19 +117,19 @@ backdrop of the 1950s Chinese tabloid boom. This tide had brought Liu to
 Singapore’s shores, but it would also slosh him around from paper to paper.
 In Liu’s words, “It was hard for tabloids to survive. After one collapsed,
 another one would soon be set up, but it wouldn’t be long before it also
-went down”.11
+went down”.[^11]
 
 #### **The Tabloid Boom**
 The decade of the tabloid boom up until 1959 saw the publication and
 subsequent demise of over 40 tabloids due to declining readership, financial
-difficulties and poor management.12 The tabloid boom also coincided with
+difficulties and poor management.[^12] The tabloid boom also coincided with
 the Malayan Emergency, a period that saw the government frequently
 banning publications for politically subversive content or shutting them
 down as a result of the Anti-Yellow Culture Movement. Liu, who had
 worked for up to 10 tabloids, bore witness to the heady rise and fall of this
 golden age of tabloid publishing. After ISP, Liu briefly worked as the chief
 editor for *Sin Lit Pau* before he was poached by *Lien Pang Daily News*
-(《联邦日报》) to head the paper in Kuala Lumpur in 1953.13
+(《联邦日报》) to head the paper in Kuala Lumpur in 1953.[^13]
 
 Although virtually nothing has been written about Liu’s brief stay in Kuala
 Lumpur, *Popular Melodies* (《时代曲》), Liu’s thinly-veiled *roman à clef* (that
@@ -142,18 +142,18 @@ in KL could have been words spoken by Liu himself: “The newspaper I was
 working for was going through financial difficulties. I had wanted to go
 back to Hong Kong. It so happened that this paper in Kuala Lumpur was
 restructuring, and the person in charge came to Singapore to put together
-a new team. That’s how I ended up here”.14 Eventually, Zhu was given the
+a new team. That’s how I ended up here”.[^14] Eventually, Zhu was given the
 opportunity to head another tabloid back in Singapore, and he took up
 the offer even though “the paper treats me well here, but life here is too
 monotonous. Singapore would suit me better. As a city, Singapore is more
-vibrant than Kuala Lumpur”.15
+vibrant than Kuala Lumpur”.[^15]
 
 In a 2016 interview, Liu provided behind-the-scenes insight into the tabloid
 newsroom: “I took a train to Kuala Lumpur, and when I first arrived at
 *Lien Pang Daily News*, I realised that they didn’t even have a proofreader.
 
 I had to do all the editing, proofreading and layout, from first to last page,
-all by myself”.16 “Small Papers” (referencing the Chinese term for tabloids)
+all by myself”.[^16] “Small Papers” (referencing the Chinese term for tabloids)
 summed up the scale of their set-ups, which required everyone, including
 the editors, to wear multiple hats. While in Singapore, Liu befriended the
 famous Singapore calligrapher and writer Chua Boon Hean (蔡文玄, whose
@@ -162,7 +162,7 @@ Chua’s son, Chua Lam, a famous Hong Kong columnist, recalled: “It was a
 pleasure watching [Liu] play mahjong. When the paper called in the middle
 of their mahjong sessions, he would ask me to set up a side table with
 writing papers. He treated it like a sewing machine, churning out the articles
-while he was waiting for the other players to discard their tiles”.17
+while he was waiting for the other players to discard their tiles”.[^17]
 
 Back in Singapore, Liu worked for two papers chaired by the Kuala
 Lumpur construction tycoon Low Yat (刘西蝶). Liu was the supervising
@@ -177,7 +177,7 @@ Bao* (《 锋报》, FB), which was launched in 1953. Chen Mingzong, his friend
 and former colleague at ISP, was its chief editor. With its smaller set-up,
 FB’s sales and distribution thrived. It had a high circulation of 20,000
 copies, and was crowned the King of the Tabloid (小报王). Liu left soon after
-its inception, but was rehired in 1954.18
+its inception, but was rehired in 1954.[^18]
 
 Tabloids of this era were all very competitive, with each vying for its niche
 audience. Some specialised in entertainment news. The Shaw Brothers film
@@ -187,12 +187,12 @@ latest *geta*i news, their songstresses and cabaret girls. Some tabloids took
 a salacious approach, running pornographic stories and visuals to attract
 a certain demographic. But not all tabloids were fluff. Some specialised in
 news from communist China during the Cold War, while others like FB
-specialised in the exposé of corrupt and illegal activities.19 For Liu, working for such a paper was not without thrill and danger. Soon after its launch,
+specialised in the exposé of corrupt and illegal activities.[^19] For Liu, working for such a paper was not without thrill and danger. Soon after its launch,
 FB exposed an illegal gambling ring in Kuala Lumpur that specialised in
-*tse fa* (字花). The crime lord threatened to hurl hand grenades into the FB newsroom, but the paper would not back down, and eventually helped the police crush the organisation.20
+*tse fa* (字花). The crime lord threatened to hurl hand grenades into the FB newsroom, but the paper would not back down, and eventually helped the police crush the organisation.[^20]
 
 Despite enjoying increasing sales, FB was banned on 30 September 1955 by
-the Malayan government for posing a risk to public security.21 Liu then
+the Malayan government for posing a risk to public security.[^21] Liu then
 moved to *Life News* (《生活报》), a new publication launched by the FB
 team on 25 October 1955, followed by *Shieh Pau* (《狮报》) in September 1956. On 24 December 1955, Chen Mingzong, FB’s former chief editor
 launched a new tabloid *Ti Press* (《铁报》) with his brother Chen Qing
@@ -207,7 +207,7 @@ shoot of the film *Rain Storm in Kreta Ayer* (风雨牛车水) which opened on
 18 September 1956), *Ti Press* ran daily behind-the-scenes reports, which
 resulted in soaring sales. About a year later, *Kang Pao* (《钢报》) was
 launched on 17 November 1956 with Liu as its chief editor, but he left
-after three issues.22
+after three issues.[^22]
 
 #### **Fighting a Lost Cause?**
 Despite the distressing instability of his job, one thing remained constant
@@ -223,21 +223,21 @@ Zheng Culture Publishing Company (怀正文化社). In 1948, when civil war
 in China escalated, Liu escaped to Hong Kong. To make ends meet, he
 became the *Fukan* editor of several newspapers. Though recognising that “it
 is impossible to live on literature in Hong Kong”, Liu always found ways to
-“let serious literature live off commercial publications”.23
+“let serious literature live off commercial publications”.[^23]
 
 Liu continued to negotiate the divide between literature and commercial
 writing in Singapore. His innovative and beautifully illustrated layouts for
 *Bieshu* (别墅), the literary section of *Ih Shih Pao*, showcased his modern
 sensibility. For instance, in response to a story that compared slummers to
 caged birds, Liu pasted cut-outs of pigeons throughout the page, breaking
-the lines between the articles.24 Despite working for the tabloids, Liu was
+the lines between the articles.[^24] Despite working for the tabloids, Liu was
 still celebrated and respected as a serious writer and champion of modern
 Chinese literature. Even as NYSP covered the drama of ISP’s shocking
 collapse within its pages, it simultaneously ran advertisements promoting
 *Bright Snow* (《雪晴》). *Bright Snow* was Liu’s first novel published in
 Singapore (by NYSP) and was initially serialised in *Nanfang Evening Post*
 (《南方晚报》), NYSP’s evening paper. Two months later, in December
-1952, Liu published his second novel, *Dragon Girl* (《龙女》).25
+1952, Liu published his second novel, *Dragon Girl* (《龙女》).[^25]
 
 Outside of his work, Liu was a generous mentor to young writers. Former
 *Fukan* editor of NYSP and *Lianhe Zaobao*, Xie Ke (pen-name: 谢克; actual
@@ -251,12 +251,12 @@ him *dim sum* at a nearby teahouse, where they would be entertained by
 songstresses singing popular tunes. Sometimes, they would take a trishaw
 to catch a new film. Xie said, “He would read all my writing and give me considered advice and criticism. He even gave me a list of contemporary
 Chinese authors I [had to] read, and I diligently completed my ‘task’ within
-half a year”.26 They went on to become lifelong friends, with Liu calling Xie
-“one of my oldest friends in Singapore”.27 When Liu moved to a Singapore
+half a year”.[^26]  They went on to become lifelong friends, with Liu calling Xie
+“one of my oldest friends in Singapore”.[^27] When Liu moved to a Singapore
 Improvement Trust (SIT) flat on the ground floor of Blk 1 Boon Tiong
 Road, diagonally across from Xie who lived in Blk 4, other young writers
 continued to knock on Liu’s door for literary advice, and he showed them
-the same generosity he had shown Xie.28
+the same generosity he had shown Xie.[^28] 
 
 However, promoting serious literature in Singapore was not easy. The
 youths who loved literature were not readers of the tabloids Liu edited. Blue
@@ -265,7 +265,7 @@ ladies of the night and women from the performing industries comprising
 about 25 percent. “The bar girls, dance hostesses, songstresses and socialites
 were interested in the tabloids because they wanted to be featured in them.
 Businessmen only formed 10 percent of the readers, and student readers
-were less than 5 percent”.29 If Liu had encountered difficulties in Hong Kong
+were less than 5 percent”.[^29] If Liu had encountered difficulties in Hong Kong
 pushing literature to the masses via their local papers, one can imagine the
 far greater resistance from his tabloid publishers concerned with appealing
 to the lowest common denominator. His unrelenting quest would only lead
@@ -278,7 +278,7 @@ a wholesome society, effectively sounding the death knell for Chinese
 tabloids. In a national broadcast, then Home Affairs Minister Ong Pang
 Boon said that these obscene tabloids bred an unhealthy view towards life by
 portraying a world populated by half-naked licentious women and hooligans
-always out to create trouble.30
+always out to create trouble.[^30]
 
 #### **Sing Sing Sing: The *Getai* Inner Circle**
 *Popular Melodies* (《时代曲》), a forgotten novel by Liu serialised in *Nanyang
@@ -295,14 +295,14 @@ of Liu’s life in Singapore in his own voice, as well as a detailed record of
 narrator] came to Singapore from Hong Kong to work for a newspaper…”.
 It then goes on to document Zhu’s move to Kuala Lumpur and back to
 Singapore – the work is a thinly veiled *roman à clef* that bears an uncanny
-similarity to Liu’s own experiences.31
+similarity to Liu’s own experiences.[^31]
 
 *Popular Melodies* can be read as a companion piece to *Singapore Story*
 (《星加坡故事》), an anti-communist melodrama about a newspaper editor’s
 romantic entanglement with a getai singer that Liu, lured by the high fee,
 wrote in 1957, shortly before his return to Hong Kong, for the magazine
 *Story Paper* (《小说报》) which was backed by the United States Information
-Service (USIS).32 *Popular Melodies*, written in the 1970s, sans political
+Service (USIS).[^32] *Popular Melodies*, written in the 1970s, sans political
 agenda, reads more like an eulogy to the vanished *getai* world.
 
 Liu’s connection with *getai* was intrinsically linked to his role as a
@@ -313,13 +313,13 @@ attract readers, while the latter needed the papers to promote their shows
 and artistes. Zhuang Xuefang, before starring in a string of Amoy movies
 that propelled her to superstardom, was a *getai* star in the early 1950s.
 In her interview with me, she recounted her first meeting with Liu at his *Ih Shih Pao* office: “We paid him a visit after hearing about the setting up
-of the paper”.33 Liu confirmed that such public relation practices were the
+of the paper”.[^33] Liu confirmed that such public relation practices were the
 norm in *Popular Melodies*: “The *getai* song and dance troupes came and
 went one after another, like revolving figures on the Chinese lantern. Before
 the run of each show, each troupe leader would pay their respects to the
 newspaper’s top management with their key actors and singers. That was
 how Zhu Shangren became acquainted with both local and Hong Kong
-*getai* artistes”.34
+*getai* artistes”.[^34]
 
 Zhu’s/Liu’s privileged position as a writer and newspaper editor granted
 him insider access to the *geta*i world. Real-life *getai* personalities made
@@ -330,7 +330,7 @@ shaking hands and sharing jokes with Bai Yan and Guan Xinyi (关新
 艺)… Zhuang said to Tay, ‘I’ll be performing for a short period in Kuala
 Lumpur, but your paper reported that I’d be performing in Borneo. Can
 you see to it that the error gets amended?’ Everything looked new and
-fresh to Zhu”.35 According to Liu’s wife, Liu had bonded with actor Bai
+fresh to Zhu”.[^35] According to Liu’s wife, Liu had bonded with actor Bai
 Yan over their shared philatelic passion.
 
 Liu digressed from *Popular’s* melodramatic storyline to offer commentaries
@@ -341,20 +341,20 @@ had touched every aspect of society: “Thanks to the blooming of *getai* stages
 in towns big and small all over Malaya, the popular music craze has exploded
 in the region. Listening to popular songs has become the main recreation for
 the masses…from school girls to female workers in rubber shoes factories,
-typesetting workshops, pineapple canning factories and fisheries”.36 In Liu’s
+typesetting workshops, pineapple canning factories and fisheries”.[^36] In Liu’s
 novel, Zhu had initially found “these songs low brow, but it was impossible
-to not be swept up by their infectious melodies and spell”.37
+to not be swept up by their infectious melodies and spell”.[^37]
 
 Like Liu, the fictional Zhu also frequented cinemas when he first arrived in
 Singapore, “but after hanging out with the *getai* people, his monotonous
-life became more colourful”.38 This is no small wonder when one imagines
+life became more colourful”.[^38] This is no small wonder when one imagines
 the sight and sound of this glitzy, nocturnal world. In the 1950s, *getai* was
 at its peak with more than 20 venues offering live performances in the three
 “worlds”, or amusement parks, namely Great World, New World (both
 owned by Shaw Organisation) and Happy World (owned by Eng Wah
 Organisation and later renamed Gay World). These “worlds” that came to
 life every night from 6pm to midnight were like the kaleidoscopes of the
-modern age.39 Television only arrived in Singapore in 1963, and these worlds
+modern age.[^39] Television only arrived in Singapore in 1963, and these worlds
 – with several cinemas, restaurants, dancehalls and live venues under each
 roof – offered their audiences a mind-boggling selection of entertainment
 ranging from wrestling, boxing, strip-tease, Chinese and Malay operas, to
@@ -364,21 +364,21 @@ making them appealing attractions for the whole family.
 
 *Getai*, at its peak, was so wildly popular that it could attract as many as
 500 patrons a night, and twice the number on nights when business was
-thriving.40 According to Liu, “*Getai*’s programme usually went like this:
+thriving.[^40] According to Liu, “*Getai*’s programme usually went like this:
 from 8pm to around 1030pm, singers would take turns to sing, ending
 with a modern play or sketch.” In her memoir, Zhuang Xuefang wrote that
 during her Shangri La *getai* days, she had to switch from singing to acting in
 the same night, an experience that prepared her for acting in Amoy cinema
-in the late 1950s and 1960s.41
+in the late 1950s and 1960s.[^41] 
 
-Zhuang described Liu as a serious man of letters,42 but backstage dramas
+Zhuang described Liu as a serious man of letters,[^42] but backstage dramas
 such as the bickering between *getai* pianists and songstresses fuelled his
 imagination. In *Popular Melodies*, the fictional Zhu relished these “real-life
-dramas… [which were] far more riveting than the sketches on stage”.43 Liu wrote two short stories based on his keen behind-the-scenes observations.
+dramas… [which were] far more riveting than the sketches on stage”.[^43] Liu wrote two short stories based on his keen behind-the-scenes observations.
 “Troupe Leader” (《团长》) is a sympathetic portrayal of a troupe leader
 who had to handle a motley crew of difficult artistes and creditors. The stress
 was so great that the man collapsed on stage after announcing “Ladies and
-Gentlemen”.44 “Getai” (《歌台》) is a zany comedy about a *getai* owner who
+Gentlemen”.[^44] “Getai” (《歌台》) is a zany comedy about a *getai* owner who
 insisted on casting a stripper in the play *The Savage Land* (《原野》) by Cao
 Yu (曹禺). In “Getai”, the director had walked out in a fit of anger, but the
 true to the owner’s predictions, the queue for the show began forming way
