@@ -815,4 +815,158 @@ at Dead Man Alley”（《死人街三轮车上的小姐》）won the 2017 Golde
 His research interests relate to Asian social history and overlooked, untold stories of
 individuals, which form the basis of his storytelling.</div>
 
+#### **REFERENCES**   
 
+Kong, Kam Yoke. [_The Majestic Theatre (__大__华戏院__): Where Chinese Opera Ruled_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=94189c68-0c6f-4383-81a8-a3cbc2d815fc), 26 June 2012. (From National Library Online)
+
+“Cǎixié zì nánměi rèqíng gēwǔ de jīnghuá āgēntíng gēwǔ tuán jíjiāng nán yóu yóu bì hǔ dānrèn tuán zhǎng, guō xiùzhēn, gù mèi, lù fēn, yíng zǐ, céngqǐpíng děng, dōu shì huánán de zhùmíng gēxīng” [采撷自南美热情歌舞的精华 阿根廷歌舞团即将南游 由毕虎担任团长，郭秀珍、顾媚、鹭芬、莹子、曾绮萍等，都是华南的著名歌星](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530326-1.2.32.17) \[Argentinian song and dance troupe that encapsulates the essence of Latin-American songs and dances will be travelling south – The troupe features Bi Hu as its leader, and includes other famous singers of South China, such as Guo Xiu Zhen, Koo Mei, Lu Fen, Ying Zi and Zeng Qi Ping.\], _Nanyang Siang Pau_ _南洋商__报_, 26 March 1953, 6. (From NewspaperSG)
+
+Cai Lam 蔡澜, “Cai lan, chongfeng liu yi chang xiansheng” 重逢刘以鬯先生 \[Meeting Mr. Liu Yichang Again\], _Next Magazine_ _壹週刊_ (6 December 2015)
+
+Chen, Zhiming 陈志明, 刘以鬯先生访问记 \[An interview with Mr. Liu Yichang\], _Chinawriter_, 26 December 2016.
+
+“Choubei san nian jingying si yue yishi bao zidong tingye quanti zhiyuan gongyou shiqian quan wei wen zhi jiang qing laogong si dai suo suo jiqian xinshui” [筹备三年经营四月益世报自动停业全体职员工友事前全未闻知将请劳工司代索所积欠薪水](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521013-1.2.26.3) \[Three years of preparation and they lasted four months, _Ih Shih Pao_ has ceased operation, while all staff were not informed beforehand. The labour office will be asked to retrieve the salary owned on behalf of the affected staff\], _Nanyang Siang Pau_ 南洋商报, 13 October 1952, 5. (From NewspaperSG)
+
+“Dì 1 yè guǎnggào zhuānlán 1” [第1页广告专栏1](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581208-1.2.42.11.1) \[Advertisement for Liu Yichang’s novel _Bright Snow_\], _Nanyang Siang Pau_ _南洋商__报_, 13 October 1952, 1 (From NewspaperSG)
+
+“Fukan ban ‘bieshu’” 副刊版“別墅” \[Fukan section\], _Yi Shi Bao_ 益世报, 14 July 1952. 4. (Microfilm NL3619)
+
+Gu Mei, 顾媚, _Cóng pòxiǎo de huánghūn: Gù mèi huíyìlù_ 从破晓的黄昏: 顾媚回忆录 \[From dawn to dusk: The memoir of Koo Mei\] (香港: 三联书店（香港）有限公司出版), 2016)
+
+_Lianhe Zaobao_. Li, Huiling 李慧玲, “‘Dui dao” zouhong chile 30 nian” “[对倒” 走红迟了30年](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb20010611-1.2.56.1) \[Interview with Liu Yichang, the godfather of Hong Kong literature, the popularity of Tete-beche that comes 30 years late\]. 11 June 2001, 33. (From NewspaperSG)
+
+Lim, Tin Seng. “[Old-World Amusement Parks](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement/),” _Biblioasia_ 12, no. 1 (April–June 2016)
+
+Liu Yichang, 刘以鬯, “Wǒ wèishéme xiě mǎ lái gūniáng” 我为什么写马来姑娘 \[Why I have written Malay Girl\], _International Screen Magazine_ _国__际电影_ no. 45 (July 1959): 10–11.
+
+—. _Re dai feng yu_ [热带风雨](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676) \[Stories of the tropics\] (香港: 获益出版事业有限公司, 2010). (From National Library Singapore, call no. Chinese RCLOS C813.4 LYC)
+
+—. _Xianggang duanpian xiaoshuo xuan: wushi niandai_ [香港短篇小说选: 五十年代](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84523353) \[Selected Hong Kong short stories in the fifties\] (香港: 天地图书公司, 1997), 2 (From National Library Singapore, call no. Chinese RDTSH C813.4 XGD)
+
+“Liu yi chang de shi/xudingming” 刘以鬯的诗/许定铭 \[The poems of Liu Yichang/ Xu Dingming\], _Takung Pao_, 大公报, 13 September 2015.
+
+Lizi 栗子, “Gu mei de chulian” 媚的初恋 \[Koo Mei’s first love\], _Mypaper_, 9 September 2011.
+
+_Nanyang Siang Pau_. “Yìshì bào jīn chén shí shí kāiqǐ dàmén yǐbiàn zhígōng qǔchū sīwù” [益世报今晨十时开启大门以便职工取出私物](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19521015-1.2.38.9) \[_Ih Shih Pao_ opened its door at 10 this morning for their employees to retrieve personal belongings\]. 15 October 1952, 6. (From NewspaperSG)
+
+—. “Cǎixié zì nánměi rèqíng gēwǔ de jīnghuá āgēntíng gēwǔ tuán jíjiāng nán yóu yóu bì hǔ dānrèn tuán zhǎng, guō xiùzhēn, gù mèi, lù fēn, yíng zǐ, céngqǐpíng děng, dōu shì huánán de zhùmíng gēxīng” [采撷自南美热情歌舞的精华 阿根廷歌舞团即将南游 由毕虎担任团长，郭秀珍、顾媚、鹭芬、莹子、曾绮萍等，都是华南的著名歌星](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530326-1.2.32.17) \[Argentinian song and dance troupe that encapsulates the essence of Latin-American songs and dances will be travelling south – The troupe features Bi Hu as its leader, and includes other famous singers of South China, such as Guo Xiu Zhen, Koo Mei, Lu Fen, Ying Zi and Zeng Qi Ping.\], _Nanyang Siang Pau_ _南洋商__报_, 26 March 1953, 6. (From NewspaperSG)
+
+—. “Jièshào bù rì yóu gǎng dǐ xīng de xiānggǎng gēchàng wǔdǎo jù yì tuán——tā de lǐxiǎng shì xiǎng bǎ xiānggǎng de zhēnzhèng yìshù jièshào dào xīng zhōu, ér zài xīng xuéxí gèng hǎo de yìshù dài huí xiānggǎng qù” [介绍不日由港抵星的香港歌唱舞蹈剧艺团——它的理想是想把香港的真正艺术介绍到星洲，而在星学习更好的艺术带回香港去](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530903-1.2.29.5) \[Introducing a song and dance troupe from Hong Kong that will be coming to Singapore – its ideal is to bring the real art of Hong Kong to Singapore and to improve on their art in Singapore\]. 3 September 1953, 6. (From NewspaperSG)
+
+—. “Xiānggǎng gēwǔ jùtuán yīxíng shíqī rén zuó shā dào zhāng lù jīnrì fēi lái shíqī rì yīqǐ shàngyǎn” [香港歌舞剧团 一行十七人昨杀到 张露今日飞来十七日一起上演](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530915-1.2.28.1) \[A publicity article announcing Hong Kong song and dance theatre troupe’s performance featuring Chang Loo on 17 Sep 1953\]. 15 September 1953, 6\. (From NewspaperSG)
+
+—. “Kuàilè shìjiè tǐyùguǎn xiāng tuán jīn wǎn yòu yī jù xiàn “módēng pán sī dòng” jīn wǎn xiàn yǎn” [快乐世界体育馆 香团今晚又一巨献 “摩登盘丝洞”今晚献演](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531011-1.2.13.10) \[Another great performance by the Hong Kong troupe at Happy World Stadium, “The Spider Lair” opens tonight\]. 11 October 1953, 6. (From NewspaperSG)
+
+—. “Xiānggǎng gēwǔ tuán jīn wǎn tuīchū dà wǔjù ‘yù tuǐ língkōng’” [香港歌舞团今晚推出大舞剧“玉腿凌空”](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531106-1.2.32.7) \[Hong Kong song and dance troupe presents a new dance act tonight\]. 6 November 1953, 6. (From NewspaperSG)
+
+—. “Xiānggǎng qúnyīng gēwǔ tuán zài kuàilè shìjiè yǎnchū gēwǔ jù chōngmǎn shīqínghuàyì zhāng lù de gēshēng zuì shòu zànshǎng” [香港群英歌舞团 在快乐世界演出 歌舞剧充满诗情画意 张露的歌声最受赞赏](南洋商报) \[Hong Kong Song and Dance Troupe performing at Happy World – Their musical is poetic and Chang Loo’s singing is highly praised\]. 23 January 1955, 6. (From NewspaperSG)
+
+—. “Xiè lǔ bā luópèiyún lǐngdǎo tiān'é gēwǔ jù yì tuán èrshíwǔ rén zuó dǐ xīng èrshíjiǔ wǎn qǐ zài kuàilè shìjiè yǎnchū” [谢鲁八罗佩云领导 天鹅歌舞剧艺团 二十五人昨抵星 二十九晚起在快乐世界演出](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19560527-1.2.28.30) \[The 25 artistes from the Swan Song and Dance Troupe led by Tse Liu-Baat and Lo Pai Wan arrived in Singapore yesterday and will be performing on the stage of Happy World Stadium from May 29th\]. 27 May 1956, 6. (From NewspaperSG)
+
+—. Ge Li Ge 葛里哥, _Chun Zhi_ [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570112-1.2.29.4.1). 12 January 1957, 8. (From NewspaperSG)
+
+—. _Chun Zhi_ [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570114-1.2.32.6.1). 14 January 1957, 7. (From NewspaperSG)
+
+—. _Chun Zhi_ [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570115-1.2.32.8.1). 15 January 1957, 8. (From NewspaperSG)
+
+—. Chun Zhi [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570116-1.2.30.3.1). 16 January 1957, 8. (From NewspaperSG)
+
+—. Chun Zhi [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570117-1.2.32.5.1). 17 January 1957, 7. (From NewspaperSG)
+
+—. Chun Zhi [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570118-1.2.31.6.1). 18 January 1957, 8. (From NewspaperSG)
+
+—. Chun Zhi [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570119-1.2.43.5.1). 19 January 1957, 14. (From NewspaperSG)
+
+—. Chun Zhi [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570121-1.2.28.8.1). 21 January 1957, 7. (From NewspaperSG)
+
+—. Chun Zhi [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570122-1.2.35.7.1). 22 January 1957, 8. (From NewspaperSG)
+
+—. Chun Zhi [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570123-1.2.48.6.1). 23 January 1957, 14. (From NewspaperSG)
+
+—. Chun Zhi [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570124-1.2.39.4.1). 24 January 1957, 8. (From NewspaperSG)
+
+—. Chun Zhi [春治](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570125-1.2.32.7.1). 25 January 1957, 8. (From NewspaperSG)
+
+—. Ling Hui Ling 令狐玲. “Lǐ tàibái zhuō yuè” [李太白捉月](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570501-1.2.44.6.1) \[Li Bai catching the moon\]. 1 May 1957, 16. (From NewspaperSG)
+
+—. “Lǐ tàibái zhuō yuè” [李太白捉月](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570503-1.2.43.8.1) \[Li Bai catching the moon\]. 3 May 1957, 14. (From NewspaperSG)
+
+—. “Lǐ tàibái zhuō yuè” [李太白捉月](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570504-1.2.55.13.1) \[Li Bai catching the moon\]. 4 May 1957, 16. (From NewspaperSG)
+
+—. Lǐ tàibái zhuō yuè” [李太白捉月](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570507-1.2.36.6.1) \[Li Bai catching the moon\]. 7 May 1957, 7. (From NewspaperSG)
+
+—. Lǐ tàibái zhuō yuè” [李太白捉月](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570506-1.2.41.6.1) \[Li Bai catching the moon\]. 6 May 1957, 8. (From NewspaperSG)
+
+—. Lǐ tàibái zhuō yuè” [李太白捉月](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570508-1.2.43.4.1) \[Li Bai catching the moon\]. 8 May 1957, 14. (From NewspaperSG)
+
+—. Lǐ tàibái zhuō yuè” [李太白捉月](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570509-1.2.50.12.1) \[Li Bai catching the moon\]. 9 May 1957, 16. (From NewspaperSG)
+
+—. Lǐ tàibái zhuō yuè” [李太白捉月](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570510-1.2.39.7.1) \[Li Bai catching the moon\]. 10 May 1957, 14. (From NewspaperSG)
+
+—. Lǐ tàibái zhuō yuè” [李太白捉月](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19570511-1.2.58.5.1) \[Li Bai catching the moon\]. 11 May 1957, 16. (From NewspaperSG)
+
+—. Gé Lǐ Gē 葛里哥. “Liúlián gāo yǔ pixie” [榴莲糕与皮鞋](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580711-1.2.44.1.1) \[Durian cake and leather shoes\]. 11 July 1958, 16\. (From NewspaperSG)
+
+—. “Wǎn lǐfú” [晚礼服](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580721-1.2.43.2.1) \[Evening dress\]. 21 July 1958, 16\. (From NewspaperSG)
+
+—. “Mǎchǎng xǐjù” [马场喜剧](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580725-1.2.42.1.1) \[A comedy at the racecourse\]. 25 July 1958, 16\. (From NewspaperSG)
+
+—. “Yī shì mài” [伊士迈](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580804-1.2.32.3.1) \[Ismail\]. 4 August 1958, 16\. (From NewspaperSG)
+
+—. “Róufú láikè” [柔佛来客](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581006-1.2.41.4.1) \[A visitor from Johor\]. 6 October 1958, 16\. (From NewspaperSG)
+
+—. “Xīn mǎ dàoshàng” [新马道上](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581105-1.2.40.1.1) \[On the bus from Singapore to Malaysia\]. 5 November 1958, 16\. (From NewspaperSG)
+
+—. “Lánbǎoshí (liú yǐ chàng bǐmíng)” [蓝宝石 (刘以鬯笔名)](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581208-1.2.42.11.1) \[Blue gemstone (Liu Yichang’s pseudonym)\]. 8 December 1958, 16\. (From NewspaperSG)
+
+—. Yē lín qiǎngjié” [椰林抢劫](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590115-1.2.42.13.1) \[Robbery in the coconut grove\]. 15 January 1959, 16\. (From NewspaperSG)
+
+—. “Zài xīn lóng yè yóu chē shàng” [在新隆夜邮车上](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590303-1.2.42.14.1) \[Night train from Singapore to KL\]. 3 March 1959, 16\. (From NewspaperSG)
+
+—. “Niú chē shuǐ zhī chén” [牛车水之晨](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590310-1.2.40.12.1) \[A morning in Kreta Ayer\]. 10 March 1959, 16\. (From NewspaperSG)
+
+—. “Ā shěn” [阿嬸](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590320-1.2.38.9.1) \[Ah Sum\]. 20 March 1959, 16\. (From NewspaperSG)
+
+—. “Bànyè chǎng” [半夜场](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590324-1.2.42.1.1) \[Midnight show\]. 24 March 1959, 16\. (From NewspaperSG)
+
+—. “Shùnxī jílóngpō” [瞬息吉隆坡](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590414-1.2.35.9.1) \[Kuala Lumpur at the blink of an eye\]. 14 April 1959, 16\. (From NewspaperSG)
+
+—. “Jiǔtú” [酒徒](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590421-1.2.45.9.1) \[The drinker\]. 21 April 1959, 16\. (From NewspaperSG)
+
+—. “Wù luò zhī yè” [勿洛之夜](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590526-1.2.45.1.1) \[Night at Bedok\]. 26 May 1959, 16\. (From NewspaperSG)
+
+—. “Gē tái” [歌台](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590530-1.2.38.1) \[Getai\]. 30 May 1959, 15. (From NewspaperSG)
+
+—. Supplement. “Tuán zhǎng” [团长](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590602-1.2.36.1.1) \[Troupe leader\]. 2 June 1959, 16. (From NewspaperSG)
+
+—. [时代曲](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19710425-1.2.51.3) \[Popular melodies\]. 25 April 1971, 24. (Microfilm NL6794)
+
+—. 时代曲 \[Popular melodies\]. 27 April 1971, 7. (Microfilm NL6794)
+
+—. 时代曲 \[Popular melodies\]. 5 May 1971, 7. (Microfilm NL6795)
+
+—. 时代曲 \[Popular melodies\]. 6 May 1971, 7. (Microfilm NL6795)
+
+—. 时代曲 \[Popular melodies\]. 1 June 1971, 7. (Microfilm NL6795)
+
+—. 时代曲 \[Popular melodies\]. 2 June 1971, 7. (Microfilm NL6795)
+
+—. 时代曲 \[Popular melodies\]. 3 June 1971, 7. (Microfilm NL6795)
+
+—. 时代曲 \[Popular melodies\]. 4 June 1971, 7. (Microfilm NL6795)
+
+—. 时代曲 \[Popular melodies\]. 8 June 1971, 7. (Microfilm NL6795)
+
+—. 时代曲 \[Popular melodies\]. 14 August 1971, 7. (Microfilm NL6812)
+
+—. 时代曲 \[Popular melodies\]. 15 August 1971, 28. (Microfilm NL6812)
+
+—. 时代曲 \[Popular melodies\]. 16 August 1971, 7. (Microfilm NL6812)
+
+Su, Zhangkai 苏章恺, Yang Minghui 杨明慧 and Du Hanbin 杜汉彬, _Xue ni fang zong: Zhuang Xuefang_ [雪霓芳踪: 庄雪芳](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203055737) \[Traces of Xuenifang: Zhuang Xuefang\] (Singapore: 玲子传媒私人有限公司, 2017). (From National Library Singapore, call no. Chinese RSING 791.43028092 SZK)
+
+“Xianggang hang xun, xianggang ying quan li fangfei yu gu mei de jiushi xin ye” 香港航讯，香港影圈李芳菲与顾媚的旧事新页 \[Old and new stories about Li Fangfei and Koo Mei\], _United Daily News_ 联合报, 22 September 1957, 6.
+
+Xie Ke 谢克, Wo de di yi ben shu 我的第一本书 \[My first book\] (9 June 2011)
+
+Yi Mingshan 易明善, _Liu yi chang chuan_ 刘以鬯传 \[Biography of Liu Yichang\] (香港: 明报出版社, 1997)
