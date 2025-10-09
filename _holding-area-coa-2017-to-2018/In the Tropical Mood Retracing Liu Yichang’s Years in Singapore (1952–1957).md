@@ -1131,44 +1131,44 @@ Yi Mingshan 易明善, _Liu yi chang chuan_ 刘以鬯传 \[Biography of Liu Yich
 
 [^70]: Liu Yichang 刘以鬯, ed., _Xiānggǎng duǎnpiān xiǎoshuō xuǎn (wǔshí niándài)_ 香港短篇小说选 (五十年代) \[Selected Hong Kong short stories in the fifties\] (n.p.: 天地图书有限公司出版, 1997), 2; Zheng Mingren 鄭明仁, “Liú yǐ chàng yǔ sān háo zǐ xiǎoshuō” 劉以鬯與三毫子小說 \[Liu Yichang and His 30-Cent Pulp Novels\], _Ming Pao_ _明報_, 26 October 2016.
 
-71 Liu, [_Re dai feng yu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676), 334.
+[^71]: Liu, [_Re dai feng yu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676), 334.
 
-72 Chen, 26 Dec 2016.
+[^72]: Chen, 26 Dec 2016.
 
-73 Gé Lǐ Gē 葛里哥, “Liúlián gāo yǔ pixie” [榴莲糕与皮鞋](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580711-1.2.44.1.1) \[Durian cake and leather shoes\], _Nanyang Siang Pau_ _南洋商__报_, 11 July 1958, 16\. (From NewspaperSG)
+[^73]: Gé Lǐ Gē 葛里哥, “Liúlián gāo yǔ pixie” [榴莲糕与皮鞋](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580711-1.2.44.1.1) \[Durian cake and leather shoes\], _Nanyang Siang Pau_ _南洋商__报_, 11 July 1958, 16\. (From NewspaperSG)
 
-74 Gé Lǐ Gē 葛里哥, “Wù luò zhī yè” [勿洛之夜](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590526-1.2.45.1.1) \[Night at Bedok\], _Nanyang Siang Pau_ _南洋商__报_, 26 May 1959, 16\. (From NewspaperSG)
+[^74]: Gé Lǐ Gē 葛里哥, “Wù luò zhī yè” [勿洛之夜](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590526-1.2.45.1.1) \[Night at Bedok\], _Nanyang Siang Pau_ _南洋商__报_, 26 May 1959, 16\. (From NewspaperSG)
 
-75 Gé Lǐ Gē 葛里哥, “Xīn mǎ dàoshàng” [新马道上](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581105-1.2.40.1.1) \[On the bus from Singapore to Malaysia\], _Nanyang Siang Pau_ _南洋商__报_, 5 November 1958, 16\. (From NewspaperSG)
+[^75]: Gé Lǐ Gē 葛里哥, “Xīn mǎ dàoshàng” [新马道上](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581105-1.2.40.1.1) \[On the bus from Singapore to Malaysia\], _Nanyang Siang Pau_ _南洋商__报_, 5 November 1958, 16\. (From NewspaperSG)
 
-76 Gé Lǐ Gē 葛里哥, “Zài xīn lóng yè yóu chē shàng” [在新隆夜邮车上](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590303-1.2.42.14.1) \[Night train from Singapore to KL\], _Nanyang Siang Pau_ _南洋商__报_, 3 March 1959, 16\. (From NewspaperSG)
+[^76]: Gé Lǐ Gē 葛里哥, “Zài xīn lóng yè yóu chē shàng” [在新隆夜邮车上](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590303-1.2.42.14.1) \[Night train from Singapore to KL\], _Nanyang Siang Pau_ _南洋商__报_, 3 March 1959, 16\. (From NewspaperSG)
 
-77 Gé Lǐ Gē 葛里哥, “Wǎn lǐfú” [晚礼服](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580721-1.2.43.2.1) \[Evening dress\], _Nanyang Siang Pau_ _南洋商__报_, 21 July 1958, 16\. (From NewspaperSG)
+[^77]: Gé Lǐ Gē 葛里哥, “Wǎn lǐfú” [晚礼服](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580721-1.2.43.2.1) \[Evening dress\], _Nanyang Siang Pau_ _南洋商__报_, 21 July 1958, 16\. (From NewspaperSG)
 
-78 Gé Lǐ Gē 葛里哥, “Róufú láikè” [柔佛来客](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581006-1.2.41.4.1) \[A visitor from Johor\], _Nanyang Siang Pau_ _南洋商__报_, 6 October 1958, 16\. (From NewspaperSG)
+[^78]: Gé Lǐ Gē 葛里哥, “Róufú láikè” [柔佛来客](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581006-1.2.41.4.1) \[A visitor from Johor\], _Nanyang Siang Pau_ _南洋商__报_, 6 October 1958, 16\. (From NewspaperSG)
 
-79 Gé Lǐ Gē 葛里哥, “Bànyè chǎng” [半夜场](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590324-1.2.42.1.1) \[Midnight show\], _Nanyang Siang Pau_ _南洋商__报_, 24 March 1959, 16\. (From NewspaperSG)
+[^79]: Gé Lǐ Gē 葛里哥, “Bànyè chǎng” [半夜场](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590324-1.2.42.1.1) \[Midnight show\], _Nanyang Siang Pau_ _南洋商__报_, 24 March 1959, 16\. (From NewspaperSG)
 
-80 Gé Lǐ Gē 葛里哥, “Mǎchǎng xǐjù” [马场喜剧](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580725-1.2.42.1.1) \[A comedy at the racecourse\], _Nanyang Siang Pau_ _南洋商__报_, 25 July 1958, 16\. (From NewspaperSG)
+[^80]: Gé Lǐ Gē 葛里哥, “Mǎchǎng xǐjù” [马场喜剧](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580725-1.2.42.1.1) \[A comedy at the racecourse\], _Nanyang Siang Pau_ _南洋商__报_, 25 July 1958, 16\. (From NewspaperSG)
 
-81 Gé Lǐ Gē 葛里哥, “Jiǔtú” [酒徒](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590421-1.2.45.9.1) \[The drinker\], _Nanyang Siang Pau_ _南洋商__报_, 21 April 1959, 16\. (From NewspaperSG)
+[^81]: Gé Lǐ Gē 葛里哥, “Jiǔtú” [酒徒](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590421-1.2.45.9.1) \[The drinker\], _Nanyang Siang Pau_ _南洋商__报_, 21 April 1959, 16\. (From NewspaperSG)
 
-82 Liu, [_Re dai feng yu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676), 333–34.
+[^82]: Liu, [_Re dai feng yu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676), 333–34.
 
-83 Gé Lǐ Gē 葛里哥, “Shùnxī jílóngpō” [瞬息吉隆坡](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590414-1.2.35.9.1) \[Kuala Lumpur at the blink of an eye\], _Nanyang Siang Pau_ _南洋商__报_, 14 April 1959, 16\. (From NewspaperSG)
+[^83]: Gé Lǐ Gē 葛里哥, “Shùnxī jílóngpō” [瞬息吉隆坡](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590414-1.2.35.9.1) \[Kuala Lumpur at the blink of an eye\], _Nanyang Siang Pau_ _南洋商__报_, 14 April 1959, 16\. (From NewspaperSG)
 
-84 Gé Lǐ Gē 葛里哥, “Ā shěn” [阿嬸](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590320-1.2.38.9.1) \[Ah Sum\], _Nanyang Siang Pau_ _南洋商__报_, 20 March 1959, 16\. (From NewspaperSG)
+[^84]: Gé Lǐ Gē 葛里哥, “Ā shěn” [阿嬸](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590320-1.2.38.9.1) \[Ah Sum\], _Nanyang Siang Pau_ _南洋商__报_, 20 March 1959, 16\. (From NewspaperSG)
 
-85 Gé Lǐ Gē 葛里哥, “Yī shì mài” [伊士迈](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580804-1.2.32.3.1) \[Ismail\], _Nanyang Siang Pau_ _南洋商__报_, 4 August 1958, 16\. (From NewspaperSG)
+[^85]: Gé Lǐ Gē 葛里哥, “Yī shì mài” [伊士迈](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19580804-1.2.32.3.1) \[Ismail\], _Nanyang Siang Pau_ _南洋商__报_, 4 August 1958, 16\. (From NewspaperSG)
 
-86 Liu, [_Re dai feng yu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676), 333–34.
+[^86]: Liu, [_Re dai feng yu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676), 333–34.
 
-87 Liu, [_Re dai feng yu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676), 333–34.
+[^87]: Liu, [_Re dai feng yu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13983676), 333–34.
 
-88 Gé Lǐ Gē 葛里哥, “Niú chē shuǐ zhī chén” [牛车水之晨](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590310-1.2.40.12.1) \[A morning in Kreta Ayer\], _Nanyang Siang Pau_ _南洋商__报_, 10 March 1959, 16\. (From NewspaperSG)
+[^88]: Gé Lǐ Gē 葛里哥, “Niú chē shuǐ zhī chén” [牛车水之晨](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590310-1.2.40.12.1) \[A morning in Kreta Ayer\], _Nanyang Siang Pau_ _南洋商__报_, 10 March 1959, 16\. (From NewspaperSG)
 
-89 Gé Lǐ Gē 葛里哥, “Yē lín qiǎngjié” [椰林抢劫](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590115-1.2.42.13.1) \[Robbery in the coconut grove\], _Nanyang Siang Pau_ _南洋商__报_, 15 January 1959, 16\. (From NewspaperSG)
+[^89]: Gé Lǐ Gē 葛里哥, “Yē lín qiǎngjié” [椰林抢劫](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19590115-1.2.42.13.1) \[Robbery in the coconut grove\], _Nanyang Siang Pau_ _南洋商__报_, 15 January 1959, 16\. (From NewspaperSG)
 
-90 Gé Lǐ Gē 葛里哥, “Lánbǎoshí (liú yǐ chàng bǐmíng)” [蓝宝石 (刘以鬯笔名)](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581208-1.2.42.11.1) \[Blue gemstone (Liu Yichang’s pseudonym)\], _Nanyang Siang Pau_ _南洋商__报_, 8 December 1958, 16\. (From NewspaperSG)
+[^90]: Gé Lǐ Gē 葛里哥, “Lánbǎoshí (liú yǐ chàng bǐmíng)” [蓝宝石 (刘以鬯笔名)](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19581208-1.2.42.11.1) \[Blue gemstone (Liu Yichang’s pseudonym)\], _Nanyang Siang Pau_ _南洋商__报_, 8 December 1958, 16\. (From NewspaperSG)
 
-91 Liu Yichang, 刘以鬯, “Wǒ wèishéme xiě mǎ lái gūniáng” 我为什么写马来姑娘 \[Why I have written Malay Girl\], _International Screen Magazine_ _国__际电影_ no. 45 (July 1959): 10–11.
+[^91]: Liu Yichang, 刘以鬯, “Wǒ wèishéme xiě mǎ lái gūniáng” 我为什么写马来姑娘 \[Why I have written Malay Girl\], _International Screen Magazine_ _国__际电影_ no. 45 (July 1959): 10–11.
