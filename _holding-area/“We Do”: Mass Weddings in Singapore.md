@@ -29,6 +29,11 @@ The event, which drew over 2,000 spectators, began with brides in white satin ch
 
 Each couple then walked up in turn to Kao where they exchanged rings, bowed to each other and signed marriage certificates. The parents, or guardians, the “introducers” and Kao also put their signatures on the documents. Kao then presented each couple with their marriage certificate as well as booklets in Chinese and English titled “Outline of the New Life Movement”. After a photo session, the couples embarked on a celebratory city tour as newlyweds before proceeding to their homes.[^4]
 
+<img src="/images/Vol%2021%20Issue%204/Mass%20Weddings/Wedding_certificate.png" style="width: 80%;">
+
+<div style="background-color: white;">The marriage certificate of Guo Zhenchuan and Chen Jinyu on the 24th day of the 8th lunar month, 1960. Prior to the Women’s Charter in 1961, which mandated legal marriage registration at the Registry of Marriages, Chinese clan associations solemnised marriages among the Chinese. <i>Image reproduced from 郭振川与陈进玉结婚证书 [Marriage Certificate of Guo Zhenchuan and Chen Jinyu], 1960. (From National Library Singapore, call no. RRARE 929.35957 MAR). Donated by the Singapore Lam Ann Association.   </i></div>
+
+
 Building upon the success of the inaugural mass wedding, the Great World Cabaret hosted a second mass wedding ceremony on 19 December 1937 for another 10 couples, including one from Johor Bahru. It was quite similar to the first event except that this time around, the occasion also served as a fundraiser for the China Relief Fund which required each couple to pay $10.[^5]
 
 #### **Mass Weddings Gain Traction**
