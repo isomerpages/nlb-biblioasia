@@ -91,6 +91,10 @@ Such wedding-honeymoon packages became increasingly popular across the region in
 
 Even as late as the 1980s, couples were still choosing to get married at mass wedding ceremonies. On 18 May 1980, Tan Li Kheng, now 71, and her husband Lee Chun Ho were married at the Neptune Theatre Restaurant in Mandarin Hotel at one such wedding. The event was organised by Siakson Tours and the Nanyang Siang Pau Travel Department and involved more than 80 couples. “Mass weddings were fashionable in those days,” she recalled. “I paid $2,800 that included the wedding ceremony, one table for guests for the lunch reception, and the 19-day honeymoon trip to Bangkok, Tokyo, Seoul, Taipei and Hong Kong. At each location, we had photo sessions and a dinner, and also received lots of souvenirs.” Tan found the entire experience memorable.[^30] The event was reported by _Nanyang Siang Pau_.[^31] &nbsp;
 
+<img src="/images/Vol%2021%20Issue%204/Mass%20Weddings/Wedding_tanli.png" style="width: 80%;">
+
+<div style="background-color: white;">Tan Li Kheng and her husband Lee Chun Ho participated in a mass wedding organised by Siakson Tours and Nanyang Siang Pau Travel Department at the Neptune Theatre Restaurant in Mandarin Hotel on 18 May 1980. <i>Courtesy of Tan Li Kheng (Not available in NLB’s holdings).</i></div>
+
 In the late 1980s, government agencies, including the Registry of Marriages (ROM) and the People’s Association, jumped on the bandwagon and organised several mass weddings in collaboration with private operators.&nbsp;
 
 On 8 August 1988 (08/08/88), a date widely regarded as auspicious, ROM anticipated a spike in demand for marriage solemnisation and partnered with Oxley Travel Service to stage its first large-scale wedding ceremony at the Neptune Theatre Restaurant.[^32] A year later, on 24 September 1989, the People’s Association Social Development Section organised its debut mass wedding with Oxley at Shangri-La Hotel for 60 couples.[^33]
