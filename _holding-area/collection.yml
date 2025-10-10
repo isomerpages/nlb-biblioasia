@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - "“We Do”: Mass Weddings in Singapore.md"
       - Sample article.md
