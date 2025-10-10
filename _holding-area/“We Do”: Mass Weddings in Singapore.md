@@ -88,115 +88,121 @@ As wedding customs and practices continue to evolve alongside social values and 
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
-<b>Dr John Bray</b> is a risk consultant and policy specialist currently based in Singapore. He has a PhD in History from the University of Cambridge and has published a number of academic research articles on the history of Christianity in the Himalayan border regions of northern India. He is a former member of the St Andrew’s Cathedral Heritage Committee. </div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2-.png">
+<b>Seow Peck Ngiam</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include the selection, evaluation and management of materials for the Chinese and donor collections. She also conducts research and writes for the library. </div>
+
+
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2-.png">
+<b>Benita Lim</b> is a Senior Manager at Resource Discovery and Management, National Library Board. She was formerly a Senior Librarian with the National Library, where she worked with the Singapore and Southeast Asia Collection, developing content as well as providing reference and research services.  </div>
 
 #### **Notes**
 
-[^1]: 
+[^1]:  “$1,000 Weddings Now ‘Out of Fashion’,” _Straits Times_, 14 May 1949, 7. (From NewspaperSG)
 
 
-[^2]: 
+[^2]: “Will Mass Marriages Come to Singapore?” _Straits Times_, 23 June 1935, 5. (From NewspaperSG)
 
 
-[^3]: 
+[^3]: “Yesterday’s Mass Marriages,” _Singapore Free Press_, 1 February 1937, 9; “Mass Wedding in Singapore,” _Malaya Tribune_, 1 February 1937, 7. (From NewspaperSG)
 
 
-[^4]: 
+[^4]: “Yesterday’s Mass Marriages”; “Mass Wedding in Singapore.”
 
 
-[^5]: 
 
+[^5]: “Mass Wedding Fees Go to China Relief Fund,” _Straits Budget_, 23 December 1937, 11. (From NewspaperSG)
 
-[^6]: 
 
+[^6]: “Uniform Wedding for All Non-Christian Chinese?” _Straits Times_, 13 March 1938, 5. (From NewspaperSG)
 
-[^7]: 
 
+[^7]: “16 Couples Wed at Mass Wedding,” _Morning Tribune_, 5 June 1939, 2; “Mass Weddings,” _Straits Times_, 30 June 1939, 13; “16 Brides in Yesterday’s Mass Wedding,” _Singapore Free Press and Mercantile Advertiser_, 3 July 1939, 7; “Chinese Mass Wedding,” _Malaya Tribune_, 7 August 1939, 10. (From NewspaperSG)
 
-[^8]: 
 
+[^8]: “Special Registries for Civil Marriages,” _Straits Times_, 19 February 1940, 10. (From NewspaperSG)
 
-[^9]: 
 
+[^9]: “Obituary: Datin Aw Ah Kim,” _Straits Times_, 28 February 1998, 44. (From NewspaperSG)
 
-[^10]: 
 
+[^10]: “Mass Wedding,” _Straits Times_, 1 October 1939, 10. (From NewspaperSG)
 
 
 
-[^11]: 
 
+[^11]: Ang Keong Lan, oral history interview by Tan Ban Huat, 28 June 1980, transcript and MP3 audio, Reel/Disc 2 of 5, National Archives of Singapore (accession no. 000042), 14–16.
 
-[^12]: 
 
+[^12]: “Mass Wedding Couples to Receive Special Gift,” _Shonan Times_ (_Syonan Shimbun_), 29 January 1944, 1; “Mass Wedding Postponed,” _Shonan Times_ (_Syonan Shimbun_), 16 February 1944, 1. (From NewspaperSG)
 
-[^13]: 
 
+[^13]: “Weds 16 Couples Today, Will Himself Marry on Thursday,” _Sunday Tribune (Singapore)_, 12 January 1947, 12. (From NewspaperSG)
 
-[^14]: 
 
+[^14]: “84 Were Married – 2 Were Late,” _Straits Times_, 17 May 1948, 5. (From NewspaperSG)
 
-[^15]: 
 
 
-[^16]: 
+[^15]: “Chinese Y to Revive Mass Marriages on Sept. 15,” _Singapore Standard_, 4 July 1951, 5. (From NewspaperSG)
 
 
-[^17]: 
+[^16]: “They Plan $30 Weddings,” _Straits Times_, 14 August 1951, 7. (From NewspaperSG)
 
 
-[^18]: 
+[^17]: “1st Mass Wedding at Khek Guild,” _Singapore Standard_, 29 December 1952, 3; “They Want More Mass Weddings,” _Straits Times_, 8 June 1954, 7. (From NewspaperSG)
 
 
-[^19]: 
+[^18]: Han, S.Y., “jítuan hunli zhifeng yingzai xingqi” 集团婚礼之风应在兴起 \[The trend of mass weddings should be revived\], in 源_Yuan_ no. 66 (April 2004): 17. (From National Library Singapore, call no. RSING 369.25957 Y)
 
 
-[^20]: 
+[^19]: _Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan_ (Singapore: Singapore Hokkien Huay Kuan, 2006), 106. (From National Library Singapore, call no. RSING 369.25957 GUA)
 
 
+[^20]: “Mass Wedding for TV,” _Straits Times_, 3 February 1958, 2. (From NewspaperSG)
 
-[^21]: 
 
 
-[^22]: 
+[^21]: Roger Yue, “Inquiring Camera Finds Out,” _Singapore Free Press_, 18 September 1953, 3. (From NewspaperSG)
 
 
-[^23]: 
+[^22]: Endra Rassip, “Economy Without Mass Marriages,” _Straits Times_, 10 July 1948, 9. (From NewspaperSG)
 
 
-[^24]: 
+[^23]: “Muslim ‘No’ to Mass Weddings,” _Straits Times_, 15 August 1949, 5. (From NewspaperSG)
 
 
-[^25]: 
+[^24]: “The Mass Wedding of 50 Couples Will Be Seen Round the World,” _Straits Times_, 4 May 1969, 8; Shen Swee Yong, “Mass Weddings: Is It Really Cheaper by the Dozen?” _Straits Times_, 25 May 1969, 13. (From NewspaperSG)
 
 
-[^26]: 
+[^25]: C&amp;E Tours Pte Ltd., _Ji tuan jie hun ji nian te kan_ 集团结婚纪念特刊 \[Mass wedding souvenir magazine\] (Singapore: C&amp;E Tours Pte Ltd, 1973), unpaginated. (From PublicationSG)
 
 
-[^27]: 
+[^26]: Ang Kok Peng, “The Mass Wedding Reception,” speech, Neptune Theatre Restaurant, 30 September 1973, transcript, Ministry of Culture. (From National Archives of Singapore, Document no. PressR19730930a); C&amp;E Tours Pte Ltd., _Ji tuan jie hun ji nian te kan_,&nbsp; unpaginated.
 
 
-[^28]: 
+[^27]: “Jumbo Honeymoon for 150 Couples,” _New Nation_, 12 September 1973, 2. (From NewspaperSG)&nbsp;
 
 
-[^29]: 
+[^28]: Oxley Travel Service Pte Ltd., _Hua yue jia qi mi yue lu xing_ 花月佳期蜜月旅行 \[8th Grand Mass Wedding &amp; Honeymoon Tours ’83\] (Singapore: Oxley Travel Service Pte Ltd, 1983), 7. (From PublicationSG)
 
 
-[^30]: 
+[^29]: Oxley Travel Service Pte Ltd., _Hua yue jia qi mi yue lu xing_ 花月佳期蜜月旅行 \[6th Grand Mass Wedding &amp; Honeymoon Tours ’81\] (Singapore: Oxley Travel Service Pte Ltd, 1981), unpaginated. (From PublicationSG); C&amp;E Tours Pte Ltd., _Ji tuan jie hun mi yue lu xing_ 集团结婚蜜月旅行 \[6th Mass Wedding &amp; Honeymoon Tour ’77\] (Singapore: Oxley Travel Service Pte Ltd, 1977), unpaginated. (From PublicationSG)
 
 
-[^31]: 
+[^30]: Tan Li Kheng, personal correspondence with Veronica Chee, 8 September 2025.&nbsp;
 
 
-[^32]: 
+[^31]: “Nanyang shang bao xi shun luyou she lianhe zhuban jituan jiehun miyue luxing tekan” 南洋商報锡顺旅游社联合主办集團結婚蜜月旅行特刊 \[Nanyang Siang Pau Travel Department co-organises the group’s wedding and honeymoon travel special\] _Nanyang Siang Pau_ 南洋商报, 18 May 1980, 17. (From NewspaperSG)
 
 
-[^33]: 
+[^32]: “Registry Plans 8-8-88 Mass Wedding,” _Straits Times_, 1 May 1988, 1; Sharon Simon, “Places for 8-8-88 Registry Weddings All Snapped Up,” _Straits Times_, 11 May 1988, 1. (From NewspaperSG)
 
 
-[^34]: 
+[^33]: “Where to Go for Honeymoon?” _New Paper_, 15 April 1989, 4; Tan Ee Sze, “SDS Love-Matches Tie the Knot at Mass Wedding,” _Straits Times_, 25 September 1989, 16. (From NewspaperSG)&nbsp;
 
 
-[^35]: 
+[^34]: Christopher Khoo, “What Kind of Wedding Do You Want?” _Straits Times_, 25 July 1991, 2. (From NewspaperSG)&nbsp;
 
+
+[^35]: Desmond Lim, “Saying ‘I Do’, 168 Times Over,” _Straits Times_, 21 September 2009, 1; Daryl Chin, “10/10/10,” _Straits Times_, 11 October 2010, 3. (From NewspaperSG)
