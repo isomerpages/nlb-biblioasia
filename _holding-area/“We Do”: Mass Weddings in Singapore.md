@@ -172,37 +172,37 @@ As wedding customs and practices continue to evolve alongside social values and 
 [^23]: “[Muslim ‘No’ to Mass Weddings](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490815-1.2.70),” _Straits Times_, 15 August 1949, 5. (From NewspaperSG)
 
 
-[^24]: “The Mass Wedding of 50 Couples Will Be Seen Round the World,” _Straits Times_, 4 May 1969, 8; Shen Swee Yong, “Mass Weddings: Is It Really Cheaper by the Dozen?” _Straits Times_, 25 May 1969, 13. (From NewspaperSG)
+[^24]: “[The Mass Wedding of 50 Couples Will Be Seen Round the World](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690504-1.2.71),” _Straits Times_, 4 May 1969, 8; Shen Swee Yong, “[Mass Weddings: Is It Really Cheaper by the Dozen?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690525-1.2.39.4)” _Straits Times_, 25 May 1969, 13. (From NewspaperSG)
 
 
-[^25]: C&amp;E Tours Pte Ltd., _Ji tuan jie hun ji nian te kan_ 集团结婚纪念特刊 \[Mass wedding souvenir magazine\] (Singapore: C&amp;E Tours Pte Ltd, 1973), unpaginated. (From PublicationSG)
+[^25]: C&amp;E Tours Pte Ltd., _Ji tuan jie hun ji nian te kan_ [集团结婚纪念特刊](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200109013) \[Mass wedding souvenir magazine\] (Singapore: C&amp;E Tours Pte Ltd, 1973), unpaginated. (From PublicationSG)
 
 
-[^26]: Ang Kok Peng, “The Mass Wedding Reception,” speech, Neptune Theatre Restaurant, 30 September 1973, transcript, Ministry of Culture. (From National Archives of Singapore, Document no. PressR19730930a); C&amp;E Tours Pte Ltd., _Ji tuan jie hun ji nian te kan_,&nbsp; unpaginated.
+[^26]: Ang Kok Peng, “[The Mass Wedding Reception](https://www.nas.gov.sg/archivesonline/speeches/record-details/7bc29237-115d-11e3-83d5-0050568939ad),” speech, Neptune Theatre Restaurant, 30 September 1973, transcript, Ministry of Culture. (From National Archives of Singapore, Document no. PressR19730930a); C&amp;E Tours Pte Ltd., [_Ji tuan jie hun ji nian te kan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200109013),&nbsp; unpaginated.
 
 
-[^27]: “Jumbo Honeymoon for 150 Couples,” _New Nation_, 12 September 1973, 2. (From NewspaperSG)&nbsp;
+[^27]: “[Jumbo Honeymoon for 150 Couples](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730912-1.2.19.9),” _New Nation_, 12 September 1973, 2. (From NewspaperSG)&nbsp;
 
 
-[^28]: Oxley Travel Service Pte Ltd., _Hua yue jia qi mi yue lu xing_ 花月佳期蜜月旅行 \[8th Grand Mass Wedding &amp; Honeymoon Tours ’83\] (Singapore: Oxley Travel Service Pte Ltd, 1983), 7. (From PublicationSG)
+[^28]: Oxley Travel Service Pte Ltd., _Hua yue jia qi mi yue lu xing_ [花月佳期蜜月旅行](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200022881) \[8th Grand Mass Wedding &amp; Honeymoon Tours ’83\] (Singapore: Oxley Travel Service Pte Ltd, 1983), 7. (From PublicationSG)
 
 
-[^29]: Oxley Travel Service Pte Ltd., _Hua yue jia qi mi yue lu xing_ 花月佳期蜜月旅行 \[6th Grand Mass Wedding &amp; Honeymoon Tours ’81\] (Singapore: Oxley Travel Service Pte Ltd, 1981), unpaginated. (From PublicationSG); C&amp;E Tours Pte Ltd., _Ji tuan jie hun mi yue lu xing_ 集团结婚蜜月旅行 \[6th Mass Wedding &amp; Honeymoon Tour ’77\] (Singapore: Oxley Travel Service Pte Ltd, 1977), unpaginated. (From PublicationSG)
+[^29]: Oxley Travel Service Pte Ltd., _Hua yue jia qi mi yue lu xing_ [花月佳期蜜月旅行](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200022881) \[6th Grand Mass Wedding &amp; Honeymoon Tours ’81\] (Singapore: Oxley Travel Service Pte Ltd, 1981), unpaginated. (From PublicationSG); C&amp;E Tours Pte Ltd., _Ji tuan jie hun mi yue lu xing_ [集团结婚蜜月旅行](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200022966) \[6th Mass Wedding &amp; Honeymoon Tour ’77\] (Singapore: Oxley Travel Service Pte Ltd, 1977), unpaginated. (From PublicationSG)
 
 
 [^30]: Tan Li Kheng, personal correspondence with Veronica Chee, 8 September 2025.&nbsp;
 
 
-[^31]: “Nanyang shang bao xi shun luyou she lianhe zhuban jituan jiehun miyue luxing tekan” 南洋商報锡顺旅游社联合主办集團結婚蜜月旅行特刊 \[Nanyang Siang Pau Travel Department co-organises the group’s wedding and honeymoon travel special\] _Nanyang Siang Pau_ 南洋商报, 18 May 1980, 17. (From NewspaperSG)
+[^31]: “Nanyang shang bao xi shun luyou she lianhe zhuban jituan jiehun miyue luxing tekan” [南洋商報锡顺旅游社联合主办集團結婚蜜月旅行特刊](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19800518-1.2.31) \[Nanyang Siang Pau Travel Department co-organises the group’s wedding and honeymoon travel special\] _Nanyang Siang Pau_ 南洋商报, 18 May 1980, 17. (From NewspaperSG)
 
 
-[^32]: “Registry Plans 8-8-88 Mass Wedding,” _Straits Times_, 1 May 1988, 1; Sharon Simon, “Places for 8-8-88 Registry Weddings All Snapped Up,” _Straits Times_, 11 May 1988, 1. (From NewspaperSG)
+[^32]: “[Registry Plans 8-8-88 Mass Wedding](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880501-1.2.5),” _Straits Times_, 1 May 1988, 1; Sharon Simon, “[Places for 8-8-88 Registry Weddings All Snapped Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880511-1.2.5),” _Straits Times_, 11 May 1988, 1. (From NewspaperSG)
 
 
-[^33]: “Where to Go for Honeymoon?” _New Paper_, 15 April 1989, 4; Tan Ee Sze, “SDS Love-Matches Tie the Knot at Mass Wedding,” _Straits Times_, 25 September 1989, 16. (From NewspaperSG)&nbsp;
+[^33]: “[Where to Go for Honeymoon?](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19890415-1.2.6.1)” _New Paper_, 15 April 1989, 4; Tan Ee Sze, “[SDS Love-Matches Tie the Knot at Mass Wedding](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890925-1.2.25.9),” _Straits Times_, 25 September 1989, 16. (From NewspaperSG)&nbsp;
 
 
-[^34]: Christopher Khoo, “What Kind of Wedding Do You Want?” _Straits Times_, 25 July 1991, 2. (From NewspaperSG)&nbsp;
+[^34]: Christopher Khoo, “[What Kind of Wedding Do You Want?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19910725-1.2.61.3.2)” _Straits Times_, 25 July 1991, 2. (From NewspaperSG)&nbsp;
 
 
-[^35]: Desmond Lim, “Saying ‘I Do’, 168 Times Over,” _Straits Times_, 21 September 2009, 1; Daryl Chin, “10/10/10,” _Straits Times_, 11 October 2010, 3. (From NewspaperSG)
+[^35]: Desmond Lim, “[Saying ‘I Do’, 168 Times Over](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20090921-1.2.4),” _Straits Times_, 21 September 2009, 1; Daryl Chin, “[10/10/10](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20101011-1.2.7.1),” _Straits Times_, 11 October 2010, 3. (From NewspaperSG)
