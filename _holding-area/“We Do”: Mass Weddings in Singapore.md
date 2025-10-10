@@ -8,6 +8,11 @@ description: ""
 
 By Seow Peck Ngiam and Benita Lim
 
+<img src="/images/Vol%2021%20Issue%204/Mass%20Weddings/Wedding_main.png" style="width: 80%;">
+
+<div style="background-color: white;">Group photograph of newlyweds at the 7th mass wedding organised by the Singapore Mayfair Musical and Dramatic Association in Great World City on 16 January 1949.  <i>David Ng Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005713 – 0067). </i></div>
+
+
 For most couples, their wedding is a special moment, a major milestone shared with friends and family, but with the couple firmly in the spotlight. However, in the late 1930s, some couples in Singapore did things a little differently: they began opting for mass wedding ceremonies, where multiple couples got married at the same time.
 
 The appeal? Cost. “Old-fashioned Chinese weddings which cost from $1,000 up have no appeal for the modern Malayan Chinese,” the _Straits Times_ reported. “Thrifty grooms prefer to spend the money on their new homes, while brides prefer white satin, orange blossoms and a veil to elaborate dress and the heavy gold jewellery of tradition.”[^1]
@@ -63,6 +68,10 @@ The first televised mass wedding for 50 couples in Singapore took place on 31 Ma
 For many couples, participating in this televised mass wedding was a novel and exciting experience. “It was curiosity that made us do it,” said 25-year-old teacher Lim Kok Meng. “Years after, we will be able to think back to the time when we were part of this unusual event.” For Raymond Chan, also 25, the opportunity to appear on television was the main draw. Another participant, Nancy Chen, 35, said that she would not be as nervous with other brides present. “I decided to join in because with so many other couples I would be less conspicuous.” As an added incentive, the Asia Commercial Banking Corporation presented each couple with a $20 banking account.[^24]
 
 The telecast created a major business opportunity and commercial entities, particularly travel agencies and airlines, quickly capitalised on mass weddings by offering wedding-honeymoon bundles throughout the 1970s and 1980s. One notable example occurred on 30 September 1973 when a mass wedding for 150 Singaporean couples was jointly organised and sponsored by the People’s Scholarship Fund Projects Committee, C&amp;E Tours Pte Ltd, Singapore Airlines, Asia Commercial Banking Corporation and _Nanyang Siang Pau_.[^25]
+
+<img src="/images/Vol%2021%20Issue%204/Mass%20Weddings/Wedding_mass.png" style="width: 80%;">
+
+<div style="background-color: white;">A mass wedding on 18 May 1980 organised by Siakson Tours and Nanyang Siang Pau Travel Department at the Neptune Theatre Restaurant in Mandarin Hotel. <i>Courtesy of Tan Li Kheng (Not available in NLB’s holdings). </i></div>
 
 Beyond the ceremonial occasion, the event also raised funds for the government-established People’s Scholarship Fund, which supported tertiary education for promising Singaporeans. Another unique feature of the event was the simultaneous ceremonies in Malaysia and Hong Kong, each involving 60 couples.[^26]
 
