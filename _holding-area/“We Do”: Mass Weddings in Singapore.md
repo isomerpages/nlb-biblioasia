@@ -176,7 +176,7 @@ As wedding customs and practices continue to evolve alongside social values and 
 [^17]: “[1st Mass Wedding at Khek Guild](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19521229-1.2.42),” _Singapore Standard_, 29 December 1952, 3; “[They Want More Mass Weddings](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540608-1.2.116),” _Straits Times_, 8 June 1954, 7. (From NewspaperSG)
 
 
-[^18]: Han, S.Y., “jítuan hunli zhifeng yingzai xingqi” 集团婚礼之风应在兴起 \[The trend of mass weddings should be revived\], in [源_Yuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84511121) no. 66 (April 2004): 17. (From National Library Singapore, call no. RSING 369.25957 Y)
+[^18]: Han, S.Y., “jítuan hunli zhifeng yingzai xingqi” 集团婚礼之风应在兴起 \[The trend of mass weddings should be revived\], in [源<i>Yuan</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84511121) no. 66 (April 2004): 17. (From National Library Singapore, call no. RSING 369.25957 Y)
 
 
 [^19]: [_Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 106. (From National Library Singapore, call no. RSING 369.25957 GUA)
