@@ -28,9 +28,9 @@ us how he did it with his colleagues and earned their respect.</p>
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Samantha Boh is a journalist and an author who covers the environment
-and science. She has written extensively on scientific breakthroughs in
-biomedical science, robotics, water resources, recycling, and food wastage
-over more than a decade. She is a co-author of <em>The Last Fools</em>, <em>The Price of Being Fair</em> and <em>Lee Ek Tieng: The Green General of Lee Kuan Yew</em>.</p>
+and science. She has written extensively on breakthroughs in biomedical
+science, robotics, water resources, recycling and food wastage for more
+than a decade. She is a co-author of <em>The Last Fools</em>, <em>The Price of Being Fair</em> and <em>Lee Ek Tieng: The Green General of Lee Kuan Yew</em>.</p>
 <p></p>
 </div>
 </details>
