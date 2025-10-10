@@ -137,39 +137,39 @@ As wedding customs and practices continue to evolve alongside social values and 
 [^12]: “[Mass Wedding Couples to Receive Special Gift](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440129-1.2.17),” _Shonan Times_ (_Syonan Shimbun_), 29 January 1944, 1; “[Mass Wedding Postponed](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440216-1.2.5),” _Shonan Times_ (_Syonan Shimbun_), 16 February 1944, 1. (From NewspaperSG)
 
 
-[^13]: “Weds 16 Couples Today, Will Himself Marry on Thursday,” _Sunday Tribune (Singapore)_, 12 January 1947, 12. (From NewspaperSG)
+[^13]: “[Weds 16 Couples Today, Will Himself Marry on Thursday](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470112-1.2.88),” _Sunday Tribune (Singapore)_, 12 January 1947, 12. (From NewspaperSG)
 
 
-[^14]: “84 Were Married – 2 Were Late,” _Straits Times_, 17 May 1948, 5. (From NewspaperSG)
-
-
-
-[^15]: “Chinese Y to Revive Mass Marriages on Sept. 15,” _Singapore Standard_, 4 July 1951, 5. (From NewspaperSG)
-
-
-[^16]: “They Plan $30 Weddings,” _Straits Times_, 14 August 1951, 7. (From NewspaperSG)
-
-
-[^17]: “1st Mass Wedding at Khek Guild,” _Singapore Standard_, 29 December 1952, 3; “They Want More Mass Weddings,” _Straits Times_, 8 June 1954, 7. (From NewspaperSG)
-
-
-[^18]: Han, S.Y., “jítuan hunli zhifeng yingzai xingqi” 集团婚礼之风应在兴起 \[The trend of mass weddings should be revived\], in 源_Yuan_ no. 66 (April 2004): 17. (From National Library Singapore, call no. RSING 369.25957 Y)
-
-
-[^19]: _Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan_ (Singapore: Singapore Hokkien Huay Kuan, 2006), 106. (From National Library Singapore, call no. RSING 369.25957 GUA)
-
-
-[^20]: “Mass Wedding for TV,” _Straits Times_, 3 February 1958, 2. (From NewspaperSG)
+[^14]: “[84 Were Married – 2 Were Late,](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19480517-1.2.40)” _Straits Times_, 17 May 1948, 5. (From NewspaperSG)
 
 
 
-[^21]: Roger Yue, “Inquiring Camera Finds Out,” _Singapore Free Press_, 18 September 1953, 3. (From NewspaperSG)
+[^15]: “[Chinese Y to Revive Mass Marriages on Sept. 15](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19510704-1.2.62),” _Singapore Standard_, 4 July 1951, 5. (From NewspaperSG)
 
 
-[^22]: Endra Rassip, “Economy Without Mass Marriages,” _Straits Times_, 10 July 1948, 9. (From NewspaperSG)
+[^16]: “[They Plan $30 Weddings](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510814-1.2.121),” _Straits Times_, 14 August 1951, 7. (From NewspaperSG)
 
 
-[^23]: “Muslim ‘No’ to Mass Weddings,” _Straits Times_, 15 August 1949, 5. (From NewspaperSG)
+[^17]: “[1st Mass Wedding at Khek Guild](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19521229-1.2.42),” _Singapore Standard_, 29 December 1952, 3; “[They Want More Mass Weddings](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540608-1.2.116),” _Straits Times_, 8 June 1954, 7. (From NewspaperSG)
+
+
+[^18]: Han, S.Y., “jítuan hunli zhifeng yingzai xingqi” 集团婚礼之风应在兴起 \[The trend of mass weddings should be revived\], in [源_Yuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84511121) no. 66 (April 2004): 17. (From National Library Singapore, call no. RSING 369.25957 Y)
+
+
+[^19]: [_Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 106. (From National Library Singapore, call no. RSING 369.25957 GUA)
+
+
+[^20]: “[Mass Wedding for TV](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19580203-1.2.24),” _Straits Times_, 3 February 1958, 2. (From NewspaperSG)
+
+
+
+[^21]: Roger Yue, “[Inquiring Camera Finds Out](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19530918-1.2.25),” _Singapore Free Press_, 18 September 1953, 3. (From NewspaperSG)
+
+
+[^22]: Endra Rassip, “[Economy Without Mass Marriages](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19480710-1.2.88.1),” _Straits Times_, 10 July 1948, 9. (From NewspaperSG)
+
+
+[^23]: “[Muslim ‘No’ to Mass Weddings](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490815-1.2.70),” _Straits Times_, 15 August 1949, 5. (From NewspaperSG)
 
 
 [^24]: “The Mass Wedding of 50 Couples Will Be Seen Round the World,” _Straits Times_, 4 May 1969, 8; Shen Swee Yong, “Mass Weddings: Is It Really Cheaper by the Dozen?” _Straits Times_, 25 May 1969, 13. (From NewspaperSG)
