@@ -98,43 +98,43 @@ As wedding customs and practices continue to evolve alongside social values and 
 
 #### **Notes**
 
-[^1]:  “$1,000 Weddings Now ‘Out of Fashion’,” _Straits Times_, 14 May 1949, 7. (From NewspaperSG)
+[^1]:  “[$1,000 Weddings Now ‘Out of Fashion’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490514-1.2.91),” _Straits Times_, 14 May 1949, 7. (From NewspaperSG)
 
 
-[^2]: “Will Mass Marriages Come to Singapore?” _Straits Times_, 23 June 1935, 5. (From NewspaperSG)
+[^2]: “[Will Mass Marriages Come to Singapore?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350623-1.2.28)” _Straits Times_, 23 June 1935, 5. (From NewspaperSG)
 
 
-[^3]: “Yesterday’s Mass Marriages,” _Singapore Free Press_, 1 February 1937, 9; “Mass Wedding in Singapore,” _Malaya Tribune_, 1 February 1937, 7. (From NewspaperSG)
+[^3]: “[Yesterday’s Mass Marriages](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370201-1.2.68),” _Singapore Free Press_, 1 February 1937, 9; “[Mass Wedding in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370201-1.2.42),” _Malaya Tribune_, 1 February 1937, 7. (From NewspaperSG)
 
 
-[^4]: “Yesterday’s Mass Marriages”; “Mass Wedding in Singapore.”
-
-
-
-[^5]: “Mass Wedding Fees Go to China Relief Fund,” _Straits Budget_, 23 December 1937, 11. (From NewspaperSG)
-
-
-[^6]: “Uniform Wedding for All Non-Christian Chinese?” _Straits Times_, 13 March 1938, 5. (From NewspaperSG)
-
-
-[^7]: “16 Couples Wed at Mass Wedding,” _Morning Tribune_, 5 June 1939, 2; “Mass Weddings,” _Straits Times_, 30 June 1939, 13; “16 Brides in Yesterday’s Mass Wedding,” _Singapore Free Press and Mercantile Advertiser_, 3 July 1939, 7; “Chinese Mass Wedding,” _Malaya Tribune_, 7 August 1939, 10. (From NewspaperSG)
-
-
-[^8]: “Special Registries for Civil Marriages,” _Straits Times_, 19 February 1940, 10. (From NewspaperSG)
-
-
-[^9]: “Obituary: Datin Aw Ah Kim,” _Straits Times_, 28 February 1998, 44. (From NewspaperSG)
-
-
-[^10]: “Mass Wedding,” _Straits Times_, 1 October 1939, 10. (From NewspaperSG)
+[^4]: “[Yesterday’s Mass Marriages](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370201-1.2.68)”; “[Mass Wedding in Singapore.](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370201-1.2.42)”
 
 
 
+[^5]: “[Mass Wedding Fees Go to China Relief Fund](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19371223-1.2.43),” _Straits Budget_, 23 December 1937, 11. (From NewspaperSG)
 
-[^11]: Ang Keong Lan, oral history interview by Tan Ban Huat, 28 June 1980, transcript and MP3 audio, Reel/Disc 2 of 5, National Archives of Singapore (accession no. 000042), 14–16.
+
+[^6]: “[Uniform Wedding for All Non-Christian Chinese?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380313-1.2.42)” _Straits Times_, 13 March 1938, 5. (From NewspaperSG)
 
 
-[^12]: “Mass Wedding Couples to Receive Special Gift,” _Shonan Times_ (_Syonan Shimbun_), 29 January 1944, 1; “Mass Wedding Postponed,” _Shonan Times_ (_Syonan Shimbun_), 16 February 1944, 1. (From NewspaperSG)
+[^7]: “[16 Couples Wed at Mass Wedding](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390605-1.2.15),” _Morning Tribune_, 5 June 1939, 2; “[Mass Weddings](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390630-1.2.84),” _Straits Times_, 30 June 1939, 13; “[16 Brides in Yesterday’s Mass Wedding](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390703-1.2.69),” _Singapore Free Press and Mercantile Advertiser_, 3 July 1939, 7; “[Chinese Mass Wedding](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390807-1.2.57),” _Malaya Tribune_, 7 August 1939, 10. (From NewspaperSG)
+
+
+[^8]: “[Special Registries for Civil Marriages](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19400219-1.2.53),” _Straits Times_, 19 February 1940, 10. (From NewspaperSG)
+
+
+[^9]: “[Obituary: Datin Aw Ah Kim](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980228-1.2.61.1),” _Straits Times_, 28 February 1998, 44. (From NewspaperSG)
+
+
+[^10]: “[Mass Wedding](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19391001-1.2.93),” _Straits Times_, 1 October 1939, 10. (From NewspaperSG)
+
+
+
+
+[^11]: Ang Keong Lan, oral history interview by Tan Ban Huat, 28 June 1980, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/311f68e5-1160-11e3-83d5-0050568939ad-OHC000042_002/web/html5/index.html) and MP3 audio, Reel/Disc 2 of 5, National Archives of Singapore ([accession no. 000042](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000042)), 14–16.
+
+
+[^12]: “[Mass Wedding Couples to Receive Special Gift](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440129-1.2.17),” _Shonan Times_ (_Syonan Shimbun_), 29 January 1944, 1; “[Mass Wedding Postponed](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440216-1.2.5),” _Shonan Times_ (_Syonan Shimbun_), 16 February 1944, 1. (From NewspaperSG)
 
 
 [^13]: “Weds 16 Couples Today, Will Himself Marry on Thursday,” _Sunday Tribune (Singapore)_, 12 January 1947, 12. (From NewspaperSG)
