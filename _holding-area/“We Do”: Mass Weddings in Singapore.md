@@ -58,6 +58,11 @@ From 1952, Chinese clan associations got into the act as well. The Khek Communit
 
 The Singapore Hokkien Huay Kuan conducted 17 mass wedding ceremonies between 1956 and 1960. These ceremonies attracted couples from all walks of life, including hawkers, clerks, tailors and shop assistants, as well as couples from other dialect groups.[^19] A mass wedding on 2 February 1958 drew international attention, with a camera crew from the United States flying to Singapore to capture footage of the event at the Hokkien Huay Kuan for an American television documentary.[^20]
 
+<img src="/images/Vol%2021%20Issue%204/Mass%20Weddings/Wedding_second2.png" style="width: 80%;">
+
+<div style="background-color: white;">The second mass wedding organised by Singapore Hokkien Huay Kuan in 1956. The clan association organised 17 mass weddings between 1956 and 1960. <i>Image reproduced from 新加坡福建会馆珍藏: 集体结婚照片 [Singapore Hokkien Huay Kuan Collection: Photographs of Mass Weddings]. (From National Library Singapore, call no. RCLOS 395.22095957 XJP-[HHK]). Donated by the Singapore Hokkien Huay Kuan.  </i></div>
+
+
 #### **No to Mass Weddings**
 
 Not everyone was enamoured with the idea of a mass wedding though. In particular, the English-speaking Chinese were not keen on the concept, according to the _Singapore Free Press_. Bachelor Goh Seng Lim was adamant about not getting married in a mass wedding. “Pride keeps most of us away from mass weddings. Only a small percentage of the Chinese would like to go through this form of marriage,” he said. Neoh Teik Hong was similarly against mass weddings. “Those who can afford single marriages will definitely prefer it,” he noted.[^21]
