@@ -9,15 +9,26 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
-      button: "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
-        Firewalking"
+      url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
+      button: "A Tale of Two Cities: Singapore Through the Lens of P.S. Teo and Ronni
+        Pinsler"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
+      background: /images/Vol 21 Issue 2/PS Teo/HeroImage_psteo2.jpg
       variant: center
+  - infopic:
+      title: Women Photographers in Singapore and Malaya
+      subtitle: Photography
+      id: infopic
+      description: In the male-dominated world of 1940s and 1950s photography, three
+        women in Singapore and Malaya found different ways to participate in
+        their craft.
+      button: PURSUING THEIR PASSION
+      url: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
+      image: /images/Vol 21 Issue 3/Photographer/Photographer_Topics.jpg
+      alt: Women Photographers
   - infopic:
       title: How Tay Seow Huah Became the First Spy Chief of Singapore
       subtitle: People
@@ -904,17 +915,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Women Photographers in Singapore and Malaya
-      subtitle: Photography
-      id: infopic
-      description: In the male-dominated world of 1940s and 1950s photography, three
-        women in Singapore and Malaya found different ways to participate in
-        their craft.
-      button: PURSUING THEIR PASSION
-      url: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
-      image: /images/Vol 21 Issue 3/Photographer/Photographer_Topics.jpg
-      alt: Women Photographers
   - infopic:
       title: An 800-Year-Old Family History
       subtitle: Essays and Opinions
