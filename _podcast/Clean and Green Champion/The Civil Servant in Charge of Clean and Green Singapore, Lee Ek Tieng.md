@@ -1,13 +1,13 @@
 ---
-title: Clean and Green Champion Lee Ek Tieng
-permalink: /podcast/clean-and-green-champion-lee-ek-tieng-samantha-boh/
+title: The Civil Servant in Charge of Clean and Green Singapore, Lee Ek Tieng
+permalink: /podcast/civil-servant-in-charge-of-clean-and-green-singapore-lee-ek-tieng-samantha-boh/
 variant: tiptap
 description: Lee Ek Tieng (1933–2025) was the civil servant who headed the
   clean-up of the Singapore River, had the foresight to modernise the sanitation
   system, and ensured water self-sufficiency for Singapore. Writer Samantha Boh
   tells us how he did it with his colleagues and earned their respect.
 image: /images/Podcast/Samantha_boh_600_by_400.jpg
-third_nav_title: Clean and Green
+third_nav_title: Clean and Green Champion
 ---
 <p>Lee Ek Tieng (1933–2025) was the civil servant who headed the clean-up
 of the Singapore River, had the foresight to modernise the sanitation system,

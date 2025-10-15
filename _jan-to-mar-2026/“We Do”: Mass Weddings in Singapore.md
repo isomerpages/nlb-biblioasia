@@ -1,8 +1,9 @@
 ---
 title: "“We Do”: Mass Weddings in Singapore"
-permalink: /holding-area/vol-21/issue-4/jan-mar-2026/we-do-mass-weddings-in-singapore/
+permalink: /vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/
 variant: markdown
 description: ""
+image: /images/Vol 21 Issue 4/Mass Weddings/Wedding_main.png
 ---
 #### Initially inspired by the “New Life Movement” in China, couples in Singapore would opt for mass weddings to save money.
 
