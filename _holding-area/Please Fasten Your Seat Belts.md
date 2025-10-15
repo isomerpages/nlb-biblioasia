@@ -159,16 +159,16 @@ Anecdotally, most drivers and front seat passengers these days will have their s
 
 
 
-[^21]: Shuli Sudderuddin, “Stricter Seat-Belt Rules for Small School Buses”; Jane Ng, “What a Squeeze,” _Straits Times_, 15 January 2012, 10. (From NewspaperSG); “Point-to-Point Services Balance Safety and Practicality for Families With Young Children,” Land Transport Authority, accessed 14 May 2025, https://www.lta.gov.sg/content/ltagov/en/newsroom/2024/12/media-replies/point-to-point-services-balance-safety-and-practicality-for-fami.html.
+[^21]: Shuli Sudderuddin, “[Stricter Seat-Belt Rules for Small School Buses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20111224-1.2.8.8)”; Jane Ng, “[What a Squeeze](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20120115-1.2.54.2.1),” _Straits Times_, 15 January 2012, 10. (From NewspaperSG); “Point-to-Point Services Balance Safety and Practicality for Families With Young Children,” Land Transport Authority, accessed 14 May 2025, [https://www.lta.gov.sg/content/ltagov/en/newsroom/2024/12/media-replies/point-to-point-services-balance-safety-and-practicality-for-fami.html](https://www.lta.gov.sg/content/ltagov/en/newsroom/2024/12/media-replies/point-to-point-services-balance-safety-and-practicality-for-fami.html).
 
 
-[^22]: Parliament of Singapore, _Tenth Parliament_, vol. 81 of _Parliamentary Debates: Official Report_, 28 February 2006, cols. 313–15. (From National Library Singapore, call no. RSING 328.5957 SIN)&nbsp;
+[^22]: Parliament of Singapore, _Tenth Parliament_, vol. 81 of [_Parliamentary Debates: Official Report_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4826189), 28 February 2006, cols. 313–15. (From National Library Singapore, call no. RSING 328.5957 SIN)&nbsp;
 
 
-[^23]: Teh Joo Lin and Diana Othman, “Parents Want Children Buckled Up in Minibuses,” _Straits Times_, 30 April 2008, 31. (From NewspaperSG)
+[^23]: Teh Joo Lin and Diana Othman, “[Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1),” _Straits Times_, 30 April 2008, 31. (From NewspaperSG)
 
 
-[^24]: Teh and Diana Othman, Parents Want Children Buckled Up in Minibuses”; Tan Dawn Wei and Jamie Ee Wen Wei, “Strapping in the Students: The Costs and Concerns,” _Straits Times_, 11 May 2008, 12. (From NewspaperSG)
+[^24]: Teh and Diana Othman, [Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1)”; Tan Dawn Wei and Jamie Ee Wen Wei, “[Strapping in the Students: The Costs and Concerns](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080511-1.2.6.20),” _Straits Times_, 11 May 2008, 12. (From NewspaperSG)
 
 
 [^25]: Teh and Diana Othman, “Parents Want Children Buckled Up in Minibuses”; Tan and Ee, “Strapping in the Students: The Costs and Concerns.”
