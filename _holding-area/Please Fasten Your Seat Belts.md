@@ -97,38 +97,38 @@ Anecdotally, most drivers and front seat passengers these days will have their s
 
 #### **Notes**
 
-[^1]: “Racing Enthusiast’s Message: Belt Up If You Value Life,” _Straits Times_, 5 June 1977, 5; Nick van Nugteren, “Safety Belt Saved Me from Pain...,” _New Nation_, 10 June 1977, 12. (From NewspaperSG)
+[^1]: “[Racing Enthusiast’s Message: Belt Up If You Value Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770605-1.2.25),” _Straits Times_, 5 June 1977, 5; Nick van Nugteren, “[Safety Belt Saved Me from Pain...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770610-1.2.45),” _New Nation_, 10 June 1977, 12. (From NewspaperSG)
 
 
-[^2]: “Racing Enthusiast’s Message: Belt Up If You Value Life”; “Safety Belt Saved Me from Pain....”&nbsp;
+[^2]: “[Racing Enthusiast’s Message: Belt Up If You Value Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770605-1.2.25)”; “[Safety Belt Saved Me from Pain....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770610-1.2.45)”&nbsp;
 
 
-[^3]: In countries where the wearing of seat belts is compulsory, statistics show higher survival rates when seat belts are worn. The use of seat belts in West Germany, for example, resulted in a 50 percent drop in traffic accident fatalities. Verity Gill, “Strap Yourself in for Safety,” _Straits Times_, 30 August 1963, 7; “Council’s Plea to Motorists: Use Safety Seat Belts,” _Eastern Sun_, 12 July 1967, 10; “Safety Belts,” _Straits Times_, 12 July 1967, 11; “Belt Up and Live! An Excellent Motto for Drivers,” _New Nation_, 27 October 1971, 18; “Don’t Wait – Belt Up Today,” _New Nation_, 20 May 1977, 8. (From NewspaperSG)
+[^3]: In countries where the wearing of seat belts is compulsory, statistics show higher survival rates when seat belts are worn. The use of seat belts in West Germany, for example, resulted in a 50 percent drop in traffic accident fatalities. Verity Gill, “[Strap Yourself in for Safety](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19630830-1.2.151.26),” _Straits Times_, 30 August 1963, 7; “[Council’s Plea to Motorists: Use Safety Seat Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19670712-1.2.10.57),” _Eastern Sun_, 12 July 1967, 10; “[Safety Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19670712-1.2.97),” _Straits Times_, 12 July 1967, 11; “[Belt Up and Live! An Excellent Motto for Drivers](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19711027-1.2.46.18),” _New Nation_, 27 October 1971, 18; “[Don’t Wait – Belt Up Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770520-1.2.61),” _New Nation_, 20 May 1977, 8. (From NewspaperSG)
 
 
-[^4]: Gloria Chandy, “Belt Up!,” _New Nation_, 9 September 1977, 9; “Ong: Why Seat Belts Are ‘Must’...,” _New Nation_, 10 September 1977, 2. (From NewspaperSG)
+[^4]: Gloria Chandy, “[Belt Up!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770909-1.2.64),” _New Nation_, 9 September 1977, 9; “[Ong: Why Seat Belts Are ‘Must’...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770910-1.2.9),” _New Nation_, 10 September 1977, 2. (From NewspaperSG)
 
 
-[^5]: Ong Teng Cheong, “Press Conference on the Use of Seat Belts,” speech, PSA Conference Room, 21 May 1977, transcript, Ministry of Culture. (From National Archives of Singapore document no. otc19770521s)&nbsp;
+[^5]: Ong Teng Cheong, “[Press Conference on the Use of Seat Belts](https://www.nas.gov.sg/archivesonline/speeches/record-details/72c470e1-115d-11e3-83d5-0050568939ad),” speech, PSA Conference Room, 21 May 1977, transcript, Ministry of Culture. (From National Archives of Singapore document no. otc19770521s)&nbsp;
 
 
-[^6]: Ong, “Press Conference on the Use of Seat Belts”; “Road Deaths Can Be Halved by Belting Up,” _Straits Times_, 12 September 1977, 8; Lloyd Timberlake, “Use of Car Seat Belts Halves Fatal Injuries, According to Survey,” _Straits Times_, 14 July 1978, 35. (From NewspaperSG)&nbsp;
+[^6]: Ong, “[Press Conference on the Use of Seat Belts](https://www.nas.gov.sg/archivesonline/speeches/record-details/72c470e1-115d-11e3-83d5-0050568939ad)”; “[Road Deaths Can Be Halved by Belting Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770912-1.2.34),” _Straits Times_, 12 September 1977, 8; Lloyd Timberlake, “[Use of Car Seat Belts Halves Fatal Injuries, According to Survey](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780714-1.2.125),” _Straits Times_, 14 July 1978, 35. (From NewspaperSG)&nbsp;
 
 
-[^7]: Gloria Chandy, “Belt Up!,” _New Nation_, 9 September 1977, 9; “Ong: Why Seat Belts Are ‘Must’...,” _New Nation_, 10 September 1977, 2; Bailyne Sung, “4-Stage Plan for Seat Belts,” _Straits Times_, 11 September 1977, 1; “Seat Belt Campaign Goes to the Schools,” _Straits Times_, 7 October 1977, 17; Problem of Getting Drivers to Belt Up,” _Business Times_, 15 November 1977, 9; “Campaign Ends,” _Straits Times_, 18 January 1978, 13. (From NewspaperSG)
+[^7]: Gloria Chandy, “[Belt Up!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770909-1.2.64),” _New Nation_, 9 September 1977, 9; “[Ong: Why Seat Belts Are ‘Must’...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770910-1.2.9),” _New Nation_, 10 September 1977, 2; Bailyne Sung, “[4-Stage Plan for Seat Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770911-1.2.2),” _Straits Times_, 11 September 1977, 1; “[Seat Belt Campaign Goes to the Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771007-1.2.82),” _Straits Times_, 7 October 1977, 17; [Problem of Getting Drivers to Belt Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19771115-1.2.55.1),” _Business Times_, 15 November 1977, 9; “[Campaign Ends](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780118-1.2.75),” _Straits Times_, 18 January 1978, 13. (From NewspaperSG)
 
 
-[^8]: “Seat Belts,” _Straits Times_, 22 July 1976, 9. (From NewspaperSG); Lee, “Another Plea for Safety Belts”; “Racing Enthusiast’s Message: Belt Up if You Value Life”; Chandy, “Belt Up!
+[^8]: “[Seat Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760722-1.2.48),” _Straits Times_, 22 July 1976, 9. (From NewspaperSG); Lee, “[Another Plea for Safety Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19761114-1.2.64.3)”; “[Racing Enthusiast’s Message: Belt Up if You Value Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770605-1.2.25)”; Chandy, “[Belt Up!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770909-1.2.64)
 
 
-[^9]: “Seat Belts.”
+[^9]: “[Seat Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760722-1.2.48).”
 
 
-[^10]: “Rear Seatbelt Rules Apply to Adults Too from October”; “Reminder Campaign on Rear Seat Belt Law,” _Straits Times_, 25 September 1992, 25. (From NewspaperSG)&nbsp;
+[^10]: “[Rear Seatbelt Rules Apply to Adults Too from October](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920323-1.2.4)”; “[Reminder Campaign on Rear Seat Belt Law](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920925-1.2.38.1),” _Straits Times_, 25 September 1992, 25. (From NewspaperSG)&nbsp;
 
 
 
-[^11]: Ginnie Teo and Leong Chan Teik, “Many Rear-Seat Passengers Ignore Traffic Rule to Belt Up,” _Straits Times_, 5 May 1996, 25. (From NewspaperSG)
+[^11]: Ginnie Teo and Leong Chan Teik, “[Many Rear-Seat Passengers Ignore Traffic Rule to Belt Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19960505-1.2.34.9),” _Straits Times_, 5 May 1996, 25. (From NewspaperSG)
 
 
 [^12]: Teo and Leong, “Many Rear-Seat Passengers Ignore Traffic Rule to Belt Up.”
