@@ -131,31 +131,31 @@ Anecdotally, most drivers and front seat passengers these days will have their s
 [^11]: Ginnie Teo and Leong Chan Teik, “[Many Rear-Seat Passengers Ignore Traffic Rule to Belt Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19960505-1.2.34.9),” _Straits Times_, 5 May 1996, 25. (From NewspaperSG)
 
 
-[^12]: Teo and Leong, “Many Rear-Seat Passengers Ignore Traffic Rule to Belt Up.”
+[^12]: Teo and Leong, “[Many Rear-Seat Passengers Ignore Traffic Rule to Belt Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19960505-1.2.34.9).”
 
 
-[^13]: Ministry of Home Affairs, “Strengthening Deterrence Against Irresponsible Driving,” press release, 21 February 2019, https://www.mha.gov.sg/mediaroom/press-releases/strengthening-deterrence-against-irresponsible-driving/.
+[^13]: Ministry of Home Affairs, “Strengthening Deterrence Against Irresponsible Driving,” press release, 21 February 2019, [https://www.mha.gov.sg/mediaroom/press-releases/strengthening-deterrence-against-irresponsible-driving/](https://www.mha.gov.sg/mediaroom/press-releases/strengthening-deterrence-against-irresponsible-driving/).
 
 
-[^14]: As the musculoskeletal structures of young children are not yet fully developed, experts advised that approved child restraints or seats be used instead of seat belts. In a car crash, child safety restraints reduce the forces on the child by distributing them to the strongest parts of the body (hips, back and shoulders). They also serve as protection against hard surfaces inside the car. Rav Dhaliwal, “Don’t Put Your Child at Risk in the Car,” _Straits Times_, 21 March 1990, 25; “Why Most Parents Don’t Strap Children to Car Seats,” _Straits Times_, 18 April 1991, 24; “Buckle Up the Kids,” _Straits Times_, 5 September 2009, 118. (From NewspaperSG)
+[^14]: As the musculoskeletal structures of young children are not yet fully developed, experts advised that approved child restraints or seats be used instead of seat belts. In a car crash, child safety restraints reduce the forces on the child by distributing them to the strongest parts of the body (hips, back and shoulders). They also serve as protection against hard surfaces inside the car. Rav Dhaliwal, “[Don’t Put Your Child at Risk in the Car](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900321-1.2.36.29),” _Straits Times_, 21 March 1990, 25; “[Why Most Parents Don’t Strap Children to Car Seats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19910418-1.2.32.4),” _Straits Times_, 18 April 1991, 24; “[Buckle Up the Kids](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20090905-1.2.136.1),” _Straits Times_, 5 September 2009, 118. (From NewspaperSG)
 
 
-[^15]: Dhaliwal, “Don’t Put Your Child at Risk in the Car.”&nbsp;
+[^15]: Dhaliwal, “[Don’t Put Your Child at Risk in the Car](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900321-1.2.36.29).”&nbsp;
 
 
-[^16]: Syed Jaffar, “Strap Your Child for Life,” _Straits Times_, 21 April 1992, 6. (From NewspaperSG). Studies also showed that injuries fell substantially when children were belted up. In the United States, child seat safety laws led to a 30 percent decrease in infant deaths, and restraints effectively reduced fatalities and injuries by 70 percent. Findings from a German study of 870 accidents revealed that it was three times more likely for an unrestrained child to suffer serious injuries and seven times more likely to be fatally injured.&nbsp;
+[^16]: Syed Jaffar, “[Strap Your Child for Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920421-1.2.61.26.1),” _Straits Times_, 21 April 1992, 6. (From NewspaperSG). Studies also showed that injuries fell substantially when children were belted up. In the United States, child seat safety laws led to a 30 percent decrease in infant deaths, and restraints effectively reduced fatalities and injuries by 70 percent. Findings from a German study of 870 accidents revealed that it was three times more likely for an unrestrained child to suffer serious injuries and seven times more likely to be fatally injured.&nbsp;
 
 
-[^17]: Chooi Tow Kwan, “Ad Drives Home Child Safety,” _New Paper_, 21 May 1992, 11. (From NewspaperSG)
+[^17]: Chooi Tow Kwan, “[Ad Drives Home Child Safety](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19920521-1.2.11.9),” _New Paper_, 21 May 1992, 11. (From NewspaperSG)
 
 
-[^18]: M. Nirmala, “Rules on Seat Belts for Children to Start on July 1,” _Straits Times_, 22 March 1992, 1. (From NewspaperSG)
+[^18]: M. Nirmala, “[Rules on Seat Belts for Children to Start on July 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920322-1.2.3),” _Straits Times_, 22 March 1992, 1. (From NewspaperSG)
 
 
-[^19]: “Why Most Parents Don’t Strap Children to Car Seats”; Ginnie Teo, “Belting Up Kids a Hassle for Parents,” _Straits Times_, 5 May 1995, 30. (From NewspaperSG)
+[^19]: “[Why Most Parents Don’t Strap Children to Car Seats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19910418-1.2.32.4)”; Ginnie Teo, “[Belting Up Kids a Hassle for Parents](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950505-1.2.39.10),” _Straits Times_, 5 May 1995, 30. (From NewspaperSG)
 
 
-[^20]: Nirmala, “Rules on Seat Belts for Children to Start on July 1.”&nbsp;
+[^20]: Nirmala, “[Rules on Seat Belts for Children to Start on July 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920322-1.2.3).”&nbsp;
 
 
 
