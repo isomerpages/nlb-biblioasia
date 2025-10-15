@@ -171,22 +171,22 @@ Anecdotally, most drivers and front seat passengers these days will have their s
 [^24]: Teh and Diana Othman, [Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1)”; Tan Dawn Wei and Jamie Ee Wen Wei, “[Strapping in the Students: The Costs and Concerns](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080511-1.2.6.20),” _Straits Times_, 11 May 2008, 12. (From NewspaperSG)
 
 
-[^25]: Teh and Diana Othman, “Parents Want Children Buckled Up in Minibuses”; Tan and Ee, “Strapping in the Students: The Costs and Concerns.”
+[^25]: Teh and Diana Othman, “[Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1)”; Tan and Ee, “[Strapping in the Students: The Costs and Concerns](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080511-1.2.6.20).”
 
 
-[^26]: Parliament of Singapore, _Eleventh Parliament_, vol. 84 of _Parliamentary Debates: Official Report_, 26 May 2008, cols. 2753–761 (From National Library, Singapore, call no. RSING 328.5957 SIN); Parliament of Singapore, _Eleventh Parliament_, vol. 85 of _Parliamentary Debates: Official Report_, 17 November 2008, cols. 722–23 (From National Library Singapore, call no. RSING 328.5957 SIN); Shuli Sudderuddin, “Stricter Seat-Belt Rules for Small School Buses.”
+[^26]: Parliament of Singapore, _Eleventh Parliament_, vol. 84 of [_Parliamentary Debates: Official Report_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4826189), 26 May 2008, cols. 2753–761 (From National Library, Singapore, call no. RSING 328.5957 SIN); Parliament of Singapore, _Eleventh Parliament_, vol. 85 of [_Parliamentary Debates: Official Report_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4826189), 17 November 2008, cols. 722–23 (From National Library Singapore, call no. RSING 328.5957 SIN); Shuli Sudderuddin, “[Stricter Seat-Belt Rules for Small School Buses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20111224-1.2.8.8).”
 
 
-[^27]: Shiying Wong, “She Didn’t Wear Her Seat Belt and Lost Her Memory After Crash,” _Straits Times_, 8 September 2024. (From Newslink via NLB’s eResources website)
+[^27]: Shiying Wong, “She Didn’t Wear Her Seat Belt and Lost Her Memory After Crash,” _Straits Times_, 8 September 2024. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 
-[^28]: Toh Ting Wei, “Many Parents Not Using Car Child Restraints While Travelling with Children in Cars: Survey,” _Straits Times_, 3 March 2019. (From Newslink via NLB’s eResources website); “GoCar Kids: For Families With Young Children,” Gojek, 7 November 2024, https://www.gojek.com/sg/blog/dp-gocar-kids.&nbsp;
+[^28]: Toh Ting Wei, “Many Parents Not Using Car Child Restraints While Travelling with Children in Cars: Survey,” _Straits Times_, 3 March 2019. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); “GoCar Kids: For Families With Young Children,” Gojek, 7 November 2024, [https://www.gojek.com/sg/blog/dp-gocar-kids](https://www.gojek.com/sg/blog/dp-gocar-kids).&nbsp;
 
 
-[^29]: CNA Insider, “Seatbelts in the Backseat: Why Aren’t We Wearing Them?” _Talking Point_, 15 July 2024. YouTube video, 6:27–7:25, 13:33–14:09. https://youtu.be/VghXT2SEPe8?si=6P.
+[^29]: CNA Insider, “Seatbelts in the Backseat: Why Aren’t We Wearing Them?” _Talking Point_, 15 July 2024. YouTube video, 6:27–7:25, 13:33–14:09. [https://youtu.be/VghXT2SEPe8?si=6P](https://youtu.be/VghXT2SEPe8?si=6P).
 
 
-[^30]: Wilbert Wong, “Hard to Keep Hyperactive Kids Belted Up,” _Straits Times_, 3 May 2025. (From Newslink via NLB’s eResources website)
+[^30]: Wilbert Wong, “Hard to Keep Hyperactive Kids Belted Up,” _Straits Times_, 3 May 2025. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 
 
