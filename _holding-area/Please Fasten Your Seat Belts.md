@@ -116,7 +116,7 @@ Anecdotally, most drivers and front seat passengers these days will have their s
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/SharonTeng.png">
 <b>Sharon Teng</b> is a Senior Librarian with the National Library Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
 
 #### **Notes**
