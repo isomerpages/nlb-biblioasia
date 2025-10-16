@@ -30,7 +30,7 @@ Speaking at a May 1977 press conference on the use of seat belts, Senior Ministe
 
 At the time, only around 20 percent of cars and vans in Singapore were fitted with seat belts, and only between 2 and 5 percent of drivers and passengers actually used them.[^6] To educate the public, the government launched the inaugural National Seat Belt Campaign from 10 September 1977 to 18 January 1978. As part of the campaign, a week-long Seat Belt Exhibition displaying various models of government-endorsed seat belts was concurrently held at the Victoria Memorial Hall.[^7]&nbsp;
 
-<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_brochure.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_brochure.png" style="width: 70%;">
 
 <div style="background-color: white;">English and Chinese versions of the brochures designed for the 1977 National Seat Belt Campaign aimed at increasing awareness of the importance of wearing seat belts. <i> Images reproduced from National Seat Belt Campaign (Singapore: Singapore National Printers Pte Ltd, 1977). (From National Library Singapore, call no. RCLOS EV76).</i></div>
 
@@ -44,6 +44,10 @@ At the time, only around 20 percent of cars and vans in Singapore were fitted wi
 Naturally, people resisted changing their behaviour. Motorists considered seat belts “inconvenient”, “troublesome”, an “infringement of personal freedom”, “sissy” and even a potential “death trap”. Some also believed that it was “safer to be thrown out” of a vehicle during an accident.[^8]
 
 Then there were others who argued that Singapore was too small and driving distances too short to be worth the effort. “I assume everyone knows the risks involved in not wanting to strap on a belt, but then in Singapore, where the travelling distances are generally short, I suppose motorists find it too much of a bother to use a safety belt,” motorist Henry Soh told the _Straits Times_ in July 1976. Another motorist, Benny Ang, claimed that “without a belt, \[the driver\] can perhaps crawl out of his car and if he is thrown out by the impact of the crash he may stand a better chance of surviving”.[^9] &nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_ong.png" style="width: 80%;">
+
+<div style="background-color: white;">English and Chinese versions of the brochures designed for the 1977 National Seat Belt Campaign aimed at increasing awareness of the importance of wearing seat belts. <i> Images reproduced from National Seat Belt Campaign (Singapore: Singapore National Printers Pte Ltd, 1977). (From National Library Singapore, call no. RCLOS EV76).</i></div>
 
 #### **Rear Seat Belts Became Mandatory**
 
