@@ -45,7 +45,7 @@ Naturally, people resisted changing their behaviour. Motorists considered seat b
 
 Then there were others who argued that Singapore was too small and driving distances too short to be worth the effort. “I assume everyone knows the risks involved in not wanting to strap on a belt, but then in Singapore, where the travelling distances are generally short, I suppose motorists find it too much of a bother to use a safety belt,” motorist Henry Soh told the _Straits Times_ in July 1976. Another motorist, Benny Ang, claimed that “without a belt, \[the driver\] can perhaps crawl out of his car and if he is thrown out by the impact of the crash he may stand a better chance of surviving”.[^9] &nbsp;
 
-<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_ong.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_ong2.png" style="width: 80%;">
 
 <div style="background-color: white;">English and Chinese versions of the brochures designed for the 1977 National Seat Belt Campaign aimed at increasing awareness of the importance of wearing seat belts. <i> Images reproduced from National Seat Belt Campaign (Singapore: Singapore National Printers Pte Ltd, 1977). (From National Library Singapore, call no. RCLOS EV76).</i></div>
 
