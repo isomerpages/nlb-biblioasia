@@ -30,6 +30,12 @@ Speaking at a May 1977 press conference on the use of seat belts, Senior Ministe
 
 At the time, only around 20 percent of cars and vans in Singapore were fitted with seat belts, and only between 2 and 5 percent of drivers and passengers actually used them.[^6] To educate the public, the government launched the inaugural National Seat Belt Campaign from 10 September 1977 to 18 January 1978. As part of the campaign, a week-long Seat Belt Exhibition displaying various models of government-endorsed seat belts was concurrently held at the Victoria Memorial Hall.[^7]&nbsp;
 
+<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_brochure.png" style="width: 80%;">
+
+<div style="background-color: white;">English and Chinese versions of the brochures designed for the 1977 National Seat Belt Campaign aimed at increasing awareness of the importance of wearing seat belts. <i> Images reproduced from National Seat Belt Campaign (Singapore: Singapore National Printers Pte Ltd, 1977). (From National Library Singapore, call no. RCLOS EV76).</i></div>
+
+
+
 <img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_drivers.png" style="width: 80%;">
 
 <div style="background-color: white;">One of 30 drivers stopped by the National Safety First Council for a spot check in conjunction with the National Seat Belt Campaign, 1977. Seat belts had been fitted to the front and back of her car, and her children were safely strapped in their seats.  <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
