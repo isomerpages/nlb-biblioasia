@@ -7,6 +7,11 @@ description: ""
 #### How crash tests, mangled cars and grieving families drove Singapore’s battle to protect motorists’ lives.  
 By Sharon Teng
 
+<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_main.png" style="width: 60%;">
+
+<div style="background-color: white;">A poster designed in conjunction with the 1981 National Seat Belt Campaign portraying a female driver wearing the three-point lap- shoulder seat belt. <i>Singapore Registry of Vehicles Collection, courtesy of National Archives of Singapore (Media - Image no. 19990005279 - 0003). [The Singapore Registry of Vehicles became a part of the Land Transport Authority in 1995.]</i></div>
+
+
 Most race car drivers attempt to avoid collisions. On 4 June 1977, however, race car driver Nick van Nugteren decided to deliberately crash into a stationary vehicle while driving at 52 kph. Fortunately, van Nugteren emerged unscathed, though the same cannot be said for the passenger in the front seat, a human-size scarecrow with a watermelon for a head. The impact threw the “passenger” against the dashboard and his watermelon head split into two.
 
 The reason that the outcome for van Nugteren was so different was that while van Nugteren was wearing a seat belt, his passenger was not. “I could feel the belt tugging me backwards. Had it not been for it, I would not have been so lucky to have escaped unhurt,” said van Nugteren.[^1]
