@@ -47,7 +47,7 @@ Then there were others who argued that Singapore was too small and driving dista
 
 <img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_ong2.png" style="width: 80%;">
 
-<div style="background-color: white;">English and Chinese versions of the brochures designed for the 1977 National Seat Belt Campaign aimed at increasing awareness of the importance of wearing seat belts. <i> Images reproduced from National Seat Belt Campaign (Singapore: Singapore National Printers Pte Ltd, 1977). (From National Library Singapore, call no. RCLOS EV76).</i></div>
+<div style="background-color: white;">A staged “accident scene” greeting visitors at the Victoria Memorial Hall where the week-long Seat Belt Exhibition was held to inaugurate the first National Seat Belt Campaign in Singapore. <i> Image reproduced from “Ong: Why Seat Belts Are ‘Must’...,” New Nation, 10 September 1977, 2. (From NewspaperSG).</i></div>
 
 #### **Rear Seat Belts Became Mandatory**
 
