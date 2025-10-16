@@ -24,6 +24,10 @@ The reason for this unorthodox stunt was to persuade a dubious public in Singapo
 
 Seat belts themselves are a relatively recent phenomenon. Prior to the 1950s, seat belts were not a standard feature in motor cars. The modern seat belt was patented in 1955 and major manufacturers&nbsp; began installing them as standard equipment from the late 1950s. To increase the survival rate of motorists during accidents, the Automobile Association of Singapore recommended in 1963 that new cars be fitted with front-seat “safety harnesses”. In 1967, the National Safety First Council of Singapore also pushed for all motorists to wear safety seat belts.[^3]
 
+<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_ads.png" style="width: 60%;">
+
+<div style="background-color: white;">An advertisement reminding motorists to ensure that children sitting in the front seat are placed in car seats with child restraints. <i> Image reproduced from the Straits Times, 22 June 1992, 22. (From NewspaperSG).</i></div>
+
 It would take more than 10 years after that before the government stepped in. In September 1977, the government announced that from 1 January 1978, all new cars and station wagons registered on or after this date would be installed with front seat belts: the three-point lap-shoulder version found to be the most effective in restraining the upper and lower parts of the body. The use of front seat belts was made mandatory from 1 January 1983. Exemptions, however, were granted on medical or psychological grounds for those with physical abnormalities, the elderly, people with disabilities and pregnant women.[^4]
 
 Speaking at a May 1977 press conference on the use of seat belts, Senior Minister of State for Communications Ong Teng Cheong declared that seat belts were indispensable to reduce the incidence of death and severity of injuries in car accidents. “Proper use of seat belts prevents a driver and his front seat passenger from flying through the windscreen or from being thrown against the steering wheel and dashboard, and from being hurled through open doors in an accident,” he said.[^5] &nbsp;
