@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
-      button: "A Tale of Two Cities: Singapore Through the Lens of P.S. Teo and Ronni
-        Pinsler"
+      url: /vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/
+      button: A Peek at the Audio-Visual Archives
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/PS Teo/HeroImage_psteo2.jpg
+      background: /images/Hero_images_Jul_Sep_2025__16_.jpg
       variant: center
   - infopic:
       title: An 800-Year-Old Family History
