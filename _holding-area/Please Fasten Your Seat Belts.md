@@ -191,7 +191,7 @@ Anecdotally, most drivers and front seat passengers these days will have their s
 [^23]: Teh Joo Lin and Diana Othman, “[Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1),” _Straits Times_, 30 April 2008, 31. (From NewspaperSG)
 
 
-[^24]: Teh and Diana Othman, [Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1)”; Tan Dawn Wei and Jamie Ee Wen Wei, “[Strapping in the Students: The Costs and Concerns](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080511-1.2.6.20),” _Straits Times_, 11 May 2008, 12. (From NewspaperSG)
+[^24]: Teh and Diana Othman, “[Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1)”; Tan Dawn Wei and Jamie Ee Wen Wei, “[Strapping in the Students: The Costs and Concerns](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080511-1.2.6.20),” _Straits Times_, 11 May 2008, 12. (From NewspaperSG)
 
 
 [^25]: Teh and Diana Othman, “[Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1)”; Tan and Ee, “[Strapping in the Students: The Costs and Concerns](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080511-1.2.6.20).”
