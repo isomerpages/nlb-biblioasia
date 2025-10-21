@@ -11,7 +11,7 @@ By Seow Peck Ngiam and Benita Lim
 
 <img src="/images/Vol%2021%20Issue%204/Mass%20Weddings/Wedding_main.png" style="width: 80%;">
 
-<div style="background-color: white;">Group photograph of newlyweds at the 7th mass wedding organised by the Singapore Mayfair Musical and Dramatic Association in Great World City on 16 January 1949.  <i>David Ng Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005713 – 0067). </i></div>
+<div style="background-color: white;">Group photograph of newlyweds at the seventh mass wedding organised by the Singapore Mayfair Musical and Dramatic Association in Great World City on 16 January 1949.  <i>David Ng Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005713 – 0067). </i></div>
 
 
 For most couples, their wedding is a special moment, a major milestone shared with friends and family, but with the couple firmly in the spotlight. However, in the late 1930s, some couples in Singapore did things a little differently: they began opting for mass wedding ceremonies, where multiple couples got married at the same time.
