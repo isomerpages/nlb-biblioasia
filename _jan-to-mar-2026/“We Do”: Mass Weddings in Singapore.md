@@ -112,7 +112,6 @@ As wedding customs and practices continue to evolve alongside social values and 
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/Seow_Peck_Ngiam.png">
 <b>Seow Peck Ngiam</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include the selection, evaluation and management of materials for the Chinese and donor collections. She also conducts research and writes for the library. </div>
 
 <div style="background-color: white;">
