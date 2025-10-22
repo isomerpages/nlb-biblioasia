@@ -1,6 +1,6 @@
 ---
 title: Please Fasten Your Seat Belts
-permalink: /holding-area/vol-21/issue-4/jan-mar-2026/please-fasten-your-seat-belts/
+permalink: /vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/
 variant: markdown
 description: ""
 ---
@@ -24,11 +24,12 @@ The reason for this unorthodox stunt was to persuade a dubious public in Singapo
 
 Seat belts themselves are a relatively recent phenomenon. Prior to the 1950s, seat belts were not a standard feature in motor cars. The modern seat belt was patented in 1955 and major manufacturers&nbsp; began installing them as standard equipment from the late 1950s. To increase the survival rate of motorists during accidents, the Automobile Association of Singapore recommended in 1963 that new cars be fitted with front-seat “safety harnesses”. In 1967, the National Safety First Council of Singapore also pushed for all motorists to wear safety seat belts.[^3]
 
-<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_ads.png" style="width: 60%;">
-
-<div style="background-color: white;">An advertisement reminding motorists to ensure that children sitting in the front seat are placed in car seats with child restraints. <i> Image reproduced from the Straits Times, 22 June 1992, 22. (From NewspaperSG).</i></div>
-
 It would take more than 10 years after that before the government stepped in. In September 1977, the government announced that from 1 January 1978, all new cars and station wagons registered on or after this date would be installed with front seat belts: the three-point lap-shoulder version found to be the most effective in restraining the upper and lower parts of the body. The use of front seat belts was made mandatory from 1 January 1983. Exemptions, however, were granted on medical or psychological grounds for those with physical abnormalities, the elderly, people with disabilities and pregnant women.[^4]
+
+<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_drivers.png" style="width: 80%;">
+
+<div style="background-color: white;">One of 30 drivers stopped by the National Safety First Council for a spot check in conjunction with the National Seat Belt Campaign, 1977. Seat belts had been fitted to the front and back of her car, and her children were safely strapped in their seats.  <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+
 
 Speaking at a May 1977 press conference on the use of seat belts, Senior Minister of State for Communications Ong Teng Cheong declared that seat belts were indispensable to reduce the incidence of death and severity of injuries in car accidents. “Proper use of seat belts prevents a driver and his front seat passenger from flying through the windscreen or from being thrown against the steering wheel and dashboard, and from being hurled through open doors in an accident,” he said.[^5] &nbsp;
 
@@ -38,11 +39,6 @@ At the time, only around 20 percent of cars and vans in Singapore were fitted wi
 
 <div style="background-color: white;">English and Chinese versions of the brochures designed for the 1977 National Seat Belt Campaign aimed at increasing awareness of the importance of wearing seat belts. <i> Images reproduced from National Seat Belt Campaign (Singapore: Singapore National Printers Pte Ltd, 1977). (From National Library Singapore, call no. RCLOS EV76).</i></div>
 
-
-
-<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_drivers.png" style="width: 80%;">
-
-<div style="background-color: white;">One of 30 drivers stopped by the National Safety First Council for a spot check in conjunction with the National Seat Belt Campaign, 1977. Seat belts had been fitted to the front and back of her car, and her children were safely strapped in their seats.  <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
 
 
 Naturally, people resisted changing their behaviour. Motorists considered seat belts “inconvenient”, “troublesome”, an “infringement of personal freedom”, “sissy” and even a potential “death trap”. Some also believed that it was “safer to be thrown out” of a vehicle during an accident.[^8]
@@ -76,6 +72,10 @@ These attitudes persisted despite cases of children getting injured or killed in
 To increase public awareness of the use of child restraints, the government launched the “Belt Up for Life” campaign in May 1992. A commercial was also aired on television showing a mother and a child in her lap being thrown through their car windscreen when the vehicle jerked to a stop.[^17]
 
 On 1 July 1992, the seat belt rule for children was implemented in Singapore, requiring children under eight to be belted up or harnessed when seated in the front of motor vehicles. Children below 1.5 m had to use child safety belts, while taller ones should use the installed seat belts. From 1 October 1992, children in the back seats of cars were also covered by this rule.[^18]&nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_ads.png" style="width: 60%;">
+
+<div style="background-color: white;">An advertisement reminding motorists to ensure that children sitting in the front seat are placed in car seats with child restraints. <i> Image reproduced from the Straits Times, 22 June 1992, 22. (From NewspaperSG).</i></div>
 
 Having new traffic rules was one thing. Getting parents to belt up their kids was something else altogether. Zainaba Mohamed, managing director of a travel company, confessed to the _Straits Times_ in May 1995: “When I’m going to the provision shop nearby, I don’t put my children in their child seats. It’s just a short journey, they’ll feel uncomfortable.” Wong Ah See, a tutor, added: “My boy cries when I put him in the child seat. He hates it. He wants to look out of the window. I try to force him, but sometimes I cannot be bothered to do so.” It would sometimes take an accident to persuade parents to change their thinking. “\[A\] taxi cut into my lane and I had to jam on my brakes. My son, in the front seat, banged his head on the dashboard,” said housewife Ellice Ng. Her son ended up with a bruised forehead but that was enough to scare her into buying a child seat.[^19] &nbsp;
 
@@ -116,7 +116,6 @@ Anecdotally, most drivers and front seat passengers these days will have their s
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/SharonTeng.png">
 <b>Sharon Teng</b> is a Senior Librarian with the National Library Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
 
 #### **Notes**
@@ -139,10 +138,10 @@ Anecdotally, most drivers and front seat passengers these days will have their s
 [^6]: Ong, “[Press Conference on the Use of Seat Belts](https://www.nas.gov.sg/archivesonline/speeches/record-details/72c470e1-115d-11e3-83d5-0050568939ad)”; “[Road Deaths Can Be Halved by Belting Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770912-1.2.34),” _Straits Times_, 12 September 1977, 8; Lloyd Timberlake, “[Use of Car Seat Belts Halves Fatal Injuries, According to Survey](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780714-1.2.125),” _Straits Times_, 14 July 1978, 35. (From NewspaperSG)&nbsp;
 
 
-[^7]: Gloria Chandy, “[Belt Up!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770909-1.2.64),” _New Nation_, 9 September 1977, 9; “[Ong: Why Seat Belts Are ‘Must’...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770910-1.2.9),” _New Nation_, 10 September 1977, 2; Bailyne Sung, “[4-Stage Plan for Seat Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770911-1.2.2),” _Straits Times_, 11 September 1977, 1; “[Seat Belt Campaign Goes to the Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771007-1.2.82),” _Straits Times_, 7 October 1977, 17; [Problem of Getting Drivers to Belt Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19771115-1.2.55.1),” _Business Times_, 15 November 1977, 9; “[Campaign Ends](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780118-1.2.75),” _Straits Times_, 18 January 1978, 13. (From NewspaperSG)
+[^7]: Chandy, “[Belt Up!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770909-1.2.64)”; “[Ong: Why Seat Belts Are ‘Must’…](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770910-1.2.9)”; Bailyne Sung, “[4-Stage Plan for Seat Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770911-1.2.2),” _Straits Times_, 11 September 1977, 1; “[Seat Belt Campaign Goes to the Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771007-1.2.82),” _Straits Times_, 7 October 1977, 17; [Problem of Getting Drivers to Belt Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19771115-1.2.55.1),” _Business Times_, 15 November 1977, 9; “[Campaign Ends](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780118-1.2.75),” _Straits Times_, 18 January 1978, 13. (From NewspaperSG)
 
 
-[^8]: “[Seat Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760722-1.2.48),” _Straits Times_, 22 July 1976, 9. (From NewspaperSG); Lee, “[Another Plea for Safety Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19761114-1.2.64.3)”; “[Racing Enthusiast’s Message: Belt Up if You Value Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770605-1.2.25)”; Chandy, “[Belt Up!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770909-1.2.64)
+[^8]: Chandy, “[Belt Up!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770909-1.2.64)”; Lee, “[Another Plea for Safety Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19761114-1.2.64.3)”; “[Racing Enthusiast’s Message: Belt Up if You Value Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770605-1.2.25)”; “[Seat Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760722-1.2.48),”&nbsp;_Straits Times_, 22 July 1976, 9. (From NewspaperSG)
 
 
 [^9]: “[Seat Belts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760722-1.2.48).”
@@ -192,7 +191,7 @@ Anecdotally, most drivers and front seat passengers these days will have their s
 [^23]: Teh Joo Lin and Diana Othman, “[Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1),” _Straits Times_, 30 April 2008, 31. (From NewspaperSG)
 
 
-[^24]: Teh and Diana Othman, [Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1)”; Tan Dawn Wei and Jamie Ee Wen Wei, “[Strapping in the Students: The Costs and Concerns](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080511-1.2.6.20),” _Straits Times_, 11 May 2008, 12. (From NewspaperSG)
+[^24]: Teh and Diana Othman, “[Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1)”; Tan Dawn Wei and Jamie Ee Wen Wei, “[Strapping in the Students: The Costs and Concerns](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080511-1.2.6.20),” _Straits Times_, 11 May 2008, 12. (From NewspaperSG)
 
 
 [^25]: Teh and Diana Othman, “[Parents Want Children Buckled Up in Minibuses](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080430-1.2.44.1)”; Tan and Ee, “[Strapping in the Students: The Costs and Concerns](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080511-1.2.6.20).”
