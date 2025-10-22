@@ -141,7 +141,6 @@ In many respects, these transoceanic pollinations of the coco-de-mer are even mo
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/ChooRuizhi.png">
 <b>Choo Ruizhi</b> is a PhD student at the Department of History, University of Hawai’i at Mānoa. He is interested in histories of science, technology and animals in Southeast Asia.</div>
 
 #### **Notes**
