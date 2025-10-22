@@ -4,6 +4,13 @@ permalink: /topics/governance/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/">Please Fasten Your Seat Belts</a>
+
+How crash tests, mangled cars and grieving families drove Singapore’s battle to protect motorists’ lives.
+
+<img src="/images/Vol%2021%20Issue%204/Seatbelts/Seatbelt_drivers.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/">Legal Deposit Legislation in Singapore</a>
 
 The legal deposit function in Singapore can be traced back to an 1835 law enacted in India to control and regulate the flow of information.
