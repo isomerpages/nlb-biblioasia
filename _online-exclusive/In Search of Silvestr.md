@@ -45,15 +45,15 @@ I found the idea of Czechoslovak people driving Bata’s expansion compelling. O
 
 #### **The Czechoslovak Community and the Second World War**
 
-One of my unexpected findings was that the Czechoslovak community in Singapore was painfully divided. Confidential Czech government reports – only recently declassified – documented how several factions were fighting each other, fuelled by differences of backgrounds and loyalties. My granduncle Silvestr was no exception. I believe that one of the contributing factors of this schism was the huge stress caused by the occupation of their home country by Nazi Germany from 1938. While there was still peace in British Malaya at this time, the Czechs would have regularly read about the brutal repressions in Czechoslovakia in the local press.
+One of my unexpected findings was that the Czechoslovak community in Singapore was painfully divided. Confidential Czech government reports – only recently declassified – documented how several factions were fighting each other, fuelled by differences in backgrounds and loyalties. My granduncle Silvestr was no exception. I believe that one of the contributing factors of this schism was the huge stress caused by the occupation of their home country by Nazi Germany from 1938. While there was still peace in British Malaya at this time, the Czechs would have regularly read about the brutal repressions in Czechoslovakia in the local press.
 
-As the war spread through Europe, some young men – including Silvestr’s colleagues and friends from Bata – returned to join the Czechoslovak army in France to fight for their country, alongside the French and British. Most, however, stayed in Singapore.
+As the war spread through Europe, some young men – including Silvestr’s colleagues and friends from Bata – left Singapore to join the Czechoslovak army in France to fight for their country, alongside the French and British. Most, however, stayed in Singapore.
 
 Those that remained were not idle. The Czechoslovaks supported the Allied war efforts in many different ways, such as organising charity events and contributing to war funds. Many local newspaper articles mentioned the Bata Shoe Company, and also named individuals – including Silvestr.
 
 Most of the Czechoslovak men who remained in Singapore joined the Singapore Volunteer Corps: either the Straits Settlements Volunteer Force (SSVF) or the Local Defence Corps. Silvestr had quite an unusual assignment as he served with the Armoured Cars Company (which was attached to the First Battalion of the SSVF). I found rich details (in local newspapers, SSVF yearbooks and several personal diaries) about the volunteers’ training, preparations and even some personal reflections in diaries and letters. One of the hot topics of the day was the difference in pay received by British and European volunteers versus Eurasians and Asians. Such racial discrimination, also observed during training, was an alien concept and puzzling to the Bata Czechoslovaks with their egalitarian ethos.
 
-As the Japanese attacked British Malaya, the war eventually reached what had been painted as “Impregnable Fortress Singapore”. In February 1942, 12 Czechoslovak volunteers, my granduncle Silvestr among them, participated in the historic battle on Pasir Panjang Ridge, alongside Second Lieutenant&nbsp;Adnan&nbsp;Saidi and the Malay Regiment. This was where my granduncle was last seen, and where we lost his tracks. He was mostly likely wounded and taken to Alexandra Hospital, where he would have fallen victim to the infamous massacre carried out by Japanese troops on defenceless patients and medical staff.[^4]
+As the Japanese attacked British Malaya, the war eventually reached what had been painted as “Impregnable Fortress Singapore”. In February 1942, 12 Czechoslovak volunteers, my granduncle Silvestr among them, participated in the historic battle on Pasir Panjang Ridge, alongside Second Lieutenant&nbsp;Adnan&nbsp;Saidi and the Malay Regiment. This was where my granduncle was last seen, and where we lost his tracks. He was most likely wounded and taken to Alexandra Hospital, where he would have fallen victim to the infamous massacre carried out by Japanese troops on defenceless patients and medical staff.[^4]
 
 After the surrender of Singapore, the Japanese were unsure how to treat the Czechoslovaks. Were they allies because Nazi Germany now occupied their country? Or were they, as an active part of the British colony, Japanese enemies? Eventually, those who did not manage to evacuate and evade capture were rounded up in December 1943 and locked up in Changi and Sime Road internment camps until they were liberated a year and half later.
 
@@ -68,8 +68,7 @@ I never thought that my personal quest to discover the fate of my granduncle wou
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/author_pic.jpg">
-	<b>Jan Beránek</b> is a Czech environmentalist&nbsp;and energy expert. He was born and raised in the Czech city of Brno, where he studied physics and sociology. Jan has worked for several environmental organisations and was also Chair of the Czech Green Party. He currently lives in Amsterdam, working for Greenpeace International as a Director for Organizational Strategy and Development. In his free time, Jan is a keen astronomer and astrophotographer. He was not interested in history until 2017 when he became curious about his family’s roots and started his search for his missing granduncle Silvestr Němec.</div>  
+<br><b>Jan Beránek</b> is a Czech environmentalist&nbsp;and energy expert. He was born and raised in the Czech city of Brno, where he studied physics and sociology. Jan has worked for several environmental organisations and was also Chair of the Czech Green Party. He currently lives in Amsterdam, working for Greenpeace International as a Director for Organizational Strategy and Development. In his free time, Jan is a keen astronomer and astrophotographer. He was not interested in history until 2017 when he became curious about his family’s roots and started his search for his missing granduncle Silvestr Němec.</div>  
 
 #### **Notes**
 
@@ -77,6 +76,6 @@ I never thought that my personal quest to discover the fate of my granduncle wou
 
 [^2]:  “[To Serve Malaya’s Five Million Pairs of Feet](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400201-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884-1942)_, 1 February 1940, 2. (From NewspaperSG).
 
-[^3]:  Jan Beránek, _In Search of Silvester_ (Singapore: Landmark Books, 2025), 73, https://www.landmarkbooks.sg/store/p/in-search-of-silvestr
+[^3]:  Jan Beránek, _In Search of Silvestr_ (Singapore: Landmark Books, 2025), 73, https://www.landmarkbooks.sg/store/p/in-search-of-silvestr
 
 [^4]:  In my book I consider other possibilities of how he might have lost his life, and also share previously unknown, first-hand witness accounts of several Czechoslovaks about the impending Japanese invasion and the horrors of the bombardment of Singapore.
