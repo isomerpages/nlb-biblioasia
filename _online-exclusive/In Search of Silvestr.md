@@ -31,7 +31,7 @@ My granduncle Silvestr went to Singapore at a very young age, with a mission to 
 <br>
 <img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/2.jpg" style="width: 90%;">Silvestr’s entry in Bata’s “List of Employees” compiled in Zlín in 1944.<i> Courtesy of Jan Beránek.</i></div>
 
-Tomáš Baťa, its founder, had visited Singapore on a business trip in January 1932. During that trip, he announced his vision “to serve Malaya’s five million pairs of feet”.[^2] In 1934, it purchased a rubber plantation in Bukit Tiga in Johor, Malaysia, and three years later launched a large factory in Klang. In 1939, Bata Shoe Company opened another factory in Singapore and inaugurated its own modern building (which hosted a shoe store, offices and accommodation for Bata workers) on North Bridge Road in 1940. By 1941, Bata was running 150 stores, distribution centres and service points across British Malaya and Singapore.[^3] I had no idea that the Bata Shoe Company had been so successful globally.
+Tomáš Baťa, its founder, had visited Singapore on a business trip in January 1932. During that trip, he announced his vision “to serve Malaya’s five million pairs of feet”.[^2] In 1934, Bata Shoe Company purchased a rubber plantation in Bukit Tiga in Johor, Malaysia, and three years later launched a large factory in Klang. In 1939, Bata Shoe Company opened another factory in Singapore and inaugurated its own modern building (which hosted a shoe store, offices and accommodation for Bata workers) on North Bridge Road in 1940. By 1941, Bata was running 150 stores, distribution centres and service points across British Malaya and Singapore.[^3] I had no idea that the Bata Shoe Company had been so successful globally.
 
 <div style="background-color: white;">
 <br>
