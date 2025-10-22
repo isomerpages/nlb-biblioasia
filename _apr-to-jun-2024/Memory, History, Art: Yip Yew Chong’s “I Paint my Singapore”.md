@@ -118,7 +118,7 @@ Likewise, if you look at the scene of men unloading cargo off boats in the Singa
 <div style="background-color: white;">Unloading goods from boats on the Singapore River in the 1970s. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 At the time of writing, Yip has yet to find a buyer for his monumental work. He said he hoped to find someone, preferably a custodian or curator, who would be able to “conserve, re-exhibit and develop it further, such as into a multimedia experience that can travel around the world”. There are probably not many individuals or institutions with the ability and space to purchase and then exhibit a 60-metre-long painting. Yip, nonetheless, is hopeful that a buyer will eventually emerge. And indeed, if the black, fetid waters of the Singapore River can be transformed into an environment where fish thrive and even otters frolic, then just about anything is possible.
-BiblioAsia Reels on YouTube
+
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 Listen to Yip Yew Chong talk about his work on the <a href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/">BiblioAsia+ podcast</a> or watch him on <a href="https://youtu.be/UIF61oX7im0?si=0zx3A4HSoAKPhbgt">BiblioAsia Reels on YouTube</a>. His book,  
