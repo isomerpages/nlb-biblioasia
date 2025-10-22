@@ -25,13 +25,13 @@ When I pieced all the disparate information together, a fascinating, colourful a
 
 #### **The Bata Shoe Company**
 
-My granduncle Silvestr went to Singapore at a very young age, with a mission to establish and develop the business of the Bata Shoe Company in Southeast Asia. Many might mistake Bata for a local company, but it started as a family business in Czechoslovakia in 1894.
+My granduncle Silvestr went to Singapore at a very young age, with a mission to establish and develop the business of the Bata Shoe Company in Southeast Asia. &nbsp;It was registered in Singapore in 1931 and opened its flagship store at Capitol Theatre in February that same year. Many might mistake Bata for a local company, but it started as a family business in Czechoslovakia in 1894.
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/2.jpg" style="width: 90%;">Silvestr’s entry in Bata’s “List of Employees” compiled in Zlín in 1944.<i> Courtesy of Jan Beránek.</i></div>
 
-Tomas Bata, its founder, had visited Singapore on a business trip in January 1932. During that trip, he announced his vision “to serve Malaya’s five million pairs of feet”.[^2] Bata Shoe Company was registered in Singapore in 1931 and opened its flagship store at Capitol in February that same year. In 1934, it purchased a rubber plantation in Bukit Tiga in Johor, Malaysia, and three years later launched a large factory in Klang. In 1939, it opened another factory in Singapore and inaugurated its own modern building (which hosted a shoe store, offices and accommodation for Bata workers) on North Bridge Road in 1940. By 1941, Bata was running 150 stores, distribution centres and service points across British Malaya and Singapore.[^3] I had no idea that the Bata Shoe Company had been so successful globally.
+Tomáš Baťa, its founder, had visited Singapore on a business trip in January 1932. During that trip, he announced his vision “to serve Malaya’s five million pairs of feet”.[^2] In 1934, it purchased a rubber plantation in Bukit Tiga in Johor, Malaysia, and three years later launched a large factory in Klang. In 1939, Bata Shoe Company opened another factory in Singapore and inaugurated its own modern building (which hosted a shoe store, offices and accommodation for Bata workers) on North Bridge Road in 1940. By 1941, Bata was running 150 stores, distribution centres and service points across British Malaya and Singapore.[^3] I had no idea that the Bata Shoe Company had been so successful globally.
 
 <div style="background-color: white;">
 <br>
