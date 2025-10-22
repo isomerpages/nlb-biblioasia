@@ -4,6 +4,13 @@ permalink: /topics/culture/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/">“We Do”: Mass Weddings in Singapore</a>
+
+Initially inspired by the “New Life Movement” in China, couples in Singapore would opt for mass weddings to save money.
+
+<img src="/images/Vol%2021%20Issue%204/Mass%20Weddings/mass_wedding_topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/culture/2025/4/singapore-youth-orchestra-singapore-composers-music">**Singapore Youth Orchestra Brings Singapore Composers into the Limelight**</a>
 
 The Singapore Youth Orchestra’s practice of commissioning and performing the works of local composers was instrumental in the growth of Singapore music.
