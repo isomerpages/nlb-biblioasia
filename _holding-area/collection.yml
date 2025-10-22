@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - Please Fasten Your Seat Belts.md
       - Sample article.md
