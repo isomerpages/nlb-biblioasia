@@ -85,10 +85,12 @@ Listen to&nbsp;”<a href="https://biblioasia.nlb.gov.sg/podcast/searching-for-f
 
 #### **Notes**
 
-[^1]:  See _[Bata 1931–1951: 20 Years of Progress in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407209)_ (Singapore: G.H. Kiat, 1951). (From National Library Singapore, call no. RSING 685.3065 BAT)
 
-[^2]:  “[To Serve Malaya’s Five Million Pairs of Feet](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400201-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884-1942)_, 1 February 1940, 2. (From NewspaperSG).
+[^1]: See _[Bata 1931–1951: 20 Years of Progress in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407209)_ (Singapore: G.H. Kiat, 1951). (From National Library Singapore, call no. RSING 685.3065 BAT)&nbsp;
 
-[^3]:  Jan Beránek, _In Search of Silvestr_ (Singapore: Landmark Books, 2025), 73, https://www.landmarkbooks.sg/store/p/in-search-of-silvestr
+[^2]:  “[To Serve Malaya’s Five Million Pairs of Feet](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400201-1.2.15),”  _Singapore Free Press and Mercantile Advertiser_, 1 February 1940, 2. (From NewspaperSG).&nbsp;
 
-[^4]:  In my book I consider other possibilities of how he might have lost his life, and also share previously unknown, first-hand witness accounts of several Czechoslovaks about the impending Japanese invasion and the horrors of the bombardment of Singapore.
+[^3]:  Jan Beránek, _In Search of Silvestr_ (Singapore: Landmark Books, 2025), 73. (From National Library Singapore, call no. RSING 305.8918605957 BER)
+
+[^4]: In my book I consider other possibilities of how my granduncle might have lost his life, and also share previously unknown, first-hand witness accounts of several Czechoslovaks about the impending Japanese invasion and the horrors of the bombardment of Singapore.
+
