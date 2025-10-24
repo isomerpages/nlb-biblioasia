@@ -15,22 +15,22 @@ boxing superstar?</p>
 </div>
 <p></p>
 <h4><strong>Season 3</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/searching-for-family-in-the-shadows-of-war-jan-beranek/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Searching for Family in the Shadows of War" src="/images/Podcast/Silvestr_400_600.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Searching for Family in the Shadows of War</div><div class="isomer-card-description">Jan Beránek sets out to find out what happened to his granduncle, Silvestr Němec, who left his Czech village for Singapore in 1938 and died as a volunteer during WWII. He finds Silvestr’s story woven with that of the Bata Shoe Company, the Czechoslovak community and volunteer forces in Singapore.</div><div class="isomer-card-link">Coming in January</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/civil-servant-in-charge-of-clean-and-green-singapore-lee-ek-tieng-samantha-boh/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/civil-servant-in-charge-of-clean-and-green-singapore-lee-ek-tieng-samantha-boh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Civil Servant in Charge of Clean and Green Singapore, Lee Ek Tieng" src="/images/Podcast/Samantha_boh_600_by_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Civil Servant in Charge of Clean and Green Singapore, Lee Ek Tieng</div><div class="isomer-card-description">Lee Ek Tieng (1933–2025) was the civil servant who headed the clean-up of the Singapore River, had the foresight to modernise the sanitation system, and ensured water self-sufficiency for Singapore. Writer Samantha Boh tells us how he did it with his colleagues and earned their respect.</div><div class="isomer-card-link">Coming in January</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-days-before-air-conditioning-fiona-williamson/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Civil Servant in Charge of Clean and Green Singapore, Lee Ek Tieng" src="/images/Podcast/Samantha_boh_600_by_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Days Before Air-Conditioning" src="/images/Podcast/Fiona_Williamson_600_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">The Civil Servant in Charge of Clean and Green Singapore, Lee Ek Tieng</div>
-<div class="isomer-card-description">Lee Ek Tieng (1933–2025) was the civil servant who headed the clean-up
-of the Singapore River, had the foresight to modernise the sanitation system,
-and ensured water self-sufficiency for Singapore. Writer Samantha Boh tells
-us how he did it with his colleagues and earned their respect.</div>
+<div class="isomer-card-title">The Days Before Air-Conditioning</div>
+<div class="isomer-card-description">Environmental historian Fiona Williamson tells us how people kept themselves
+cool before air-conditioning arrived, why weather science was important
+to the colonial enterprise, and what environmental history can tell us
+about a city’s development.</div>
 <div class="isomer-card-link">Coming in December</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-days-before-air-conditioning-fiona-williamson/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Days Before Air-Conditioning" src="/images/Podcast/Fiona_Williamson_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Days Before Air-Conditioning</div><div class="isomer-card-description">Environmental historian Fiona Williamson tells us how people kept themselves cool before air-conditioning arrived, why weather science was important to the colonial enterprise, and what environmental history can tell us about a city’s development.</div><div class="isomer-card-link">Coming in November</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/searching-for-family-in-the-shadows-of-war-jan-beranek/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Searching for Family in the Shadows of War" src="/images/Podcast/Silvestr_400_600.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Searching for Family in the Shadows of War</div><div class="isomer-card-description">Jan Beránek sets out to find out what happened to his granduncle, Silvestr Němec, who left his Czech village for Singapore in 1938 and died as a volunteer during WWII. He finds Silvestr’s story woven with that of the Bata Shoe Company, the Czechoslovak community and volunteer forces in Singapore.</div><div class="isomer-card-link">Coming in November</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/negotiating-ob-markers-when-running-straits-times-cheong-yip-seng/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
