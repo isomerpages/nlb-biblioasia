@@ -2,9 +2,6 @@ collections:
   podcast:
     output: true
     order:
-      - Lost Family/.keep
-      - Lost Family/Searching for Family in the Shadows of War.md
-      - Lost Family/Transcript.md
       - Clean and Green Champion/.keep
       - Clean and Green Champion/The Civil Servant in Charge of Clean and Green
         Singapore, Lee Ek Tieng.md
@@ -12,6 +9,9 @@ collections:
       - Before Air Conditioning/.keep
       - Before Air Conditioning/The Days before Air Conditioning.md
       - Before Air Conditioning/Transcript.md
+      - Lost Family/.keep
+      - Lost Family/Searching for Family in the Shadows of War.md
+      - Lost Family/Transcript.md
       - Negotiating OB Markers/.keep
       - Negotiating OB Markers/Negotiating OB Markers When Running the Straits
         Times.md
