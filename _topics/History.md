@@ -25,8 +25,10 @@ The National Library began life in 1837 with a modest collection of 392 publicat
 <img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Mobile_Libraries_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/">In Search of Silvestr</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/">In Search of Silvestr</a>
+
  <p>Sparked by a box of old family documents, Jan Beránek embarked on an eight-year quest that brough him from a small Czech village to modern Singapore to uncover the life of his granduncle who died during the Japanese invasion of Singapore.</p> 
+ 
 <img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/2.jpg" style="width:80%;">
 <hr>
 

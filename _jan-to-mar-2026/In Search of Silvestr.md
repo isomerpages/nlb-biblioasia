@@ -1,6 +1,6 @@
 ---
 title: In Search of Silvestr
-permalink: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
+permalink: /vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/
 variant: markdown
 description: ""
 ---

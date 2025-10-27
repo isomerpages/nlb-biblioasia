@@ -9,14 +9,26 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/
-      button: A Peek at the Audio-Visual Archives
+      url: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/
+      button: "Hedwig Anuar: First Lady of the National Library"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Hero_images_Jul_Sep_2025__16_.jpg
+      background: /images/Vol 21 Issue 2/Hedwig   First
+        Lady/HeroImage_HedwigFirstLady_2.jpg
       variant: center
+  - infopic:
+      title: The Early History of Air Conditioning in Singapore
+      subtitle: Technology
+      id: infopic
+      description: The humble air conditioner is an innovation that we take for
+        granted today. But for the people of Singapore in the mid-20th century,
+        it was a luxury.
+      button: A COOL INVENTION
+      url: /vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/
+      image: /images/Vol 21 Issue 4/Air Conditioning/ac_supplement_topics.jpg
+      alt: History of Air Conditioning
   - infopic:
       title: An 800-Year-Old Family History
       subtitle: Essays and Opinions
@@ -437,13 +449,13 @@ sections:
       alt: Pioneering Deaf Educator
   - infopic:
       title: In Search of Silvestr
-      subtitle: History
+      subtitle: People
       id: infopic
       description: Sparked by a box of old family documents, Jan Beránek embarked on
         an eight-year quest that brought him from a small Czech village to
         modern Singapore.
       button: Finding Family
-      url: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
+      url: /vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/
       image: /images/Online Only Articles/In Search of Silvestr/Silvestr_resized.jpg
       alt: In Search of Silvestr
   - infopic:
@@ -925,17 +937,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: The Early History of Air Conditioning in Singapore
-      subtitle: Technology
-      id: infopic
-      description: The humble air conditioner is an innovation that we take for
-        granted today. But for the people of Singapore in the mid-20th century,
-        it was a luxury.
-      button: A COOL INVENTION
-      url: /vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/
-      image: /images/Vol 21 Issue 4/Air Conditioning/ac_supplement_topics.jpg
-      alt: History of Air Conditioning
   - infopic:
       title: The Transoceanic Pollination of the Double Coconut
       subtitle: Nature and the Environment
