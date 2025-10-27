@@ -19,6 +19,17 @@ sections:
         Lady/HeroImage_HedwigFirstLady_2.jpg
       variant: center
   - infopic:
+      title: The Early History of Air Conditioning in Singapore
+      subtitle: Technology
+      id: infopic
+      description: The humble air conditioner is an innovation that we take for
+        granted today. But for the people of Singapore in the mid-20th century,
+        it was a luxury.
+      button: A COOL INVENTION
+      url: /vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/
+      image: /images/Vol 21 Issue 4/Air Conditioning/ac_supplement_topics.jpg
+      alt: History of Air Conditioning
+  - infopic:
       title: An 800-Year-Old Family History
       subtitle: Essays and Opinions
       id: infopic
@@ -926,17 +937,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: The Early History of Air Conditioning in Singapore
-      subtitle: Technology
-      id: infopic
-      description: The humble air conditioner is an innovation that we take for
-        granted today. But for the people of Singapore in the mid-20th century,
-        it was a luxury.
-      button: A COOL INVENTION
-      url: /vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/
-      image: /images/Vol 21 Issue 4/Air Conditioning/ac_supplement_topics.jpg
-      alt: History of Air Conditioning
   - infopic:
       title: The Transoceanic Pollination of the Double Coconut
       subtitle: Nature and the Environment
