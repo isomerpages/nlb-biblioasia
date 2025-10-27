@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/">In Search of Silvestr</a>
+
+ <p>Sparked by a box of old family documents, Jan Beránek embarked on an eight-year quest that brough him from a small Czech village to modern Singapore to uncover the life of his granduncle who died during the Japanese invasion of Singapore.</p> 
+ 
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/2.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/">How Tay Seow Huah Came to Be the First Spy Chief of Independent Singapore</a>
 
 In a BiblioAsia+ podcast episode, Simon talks about this father, the founding Director of the Security and Intelligence Division.
