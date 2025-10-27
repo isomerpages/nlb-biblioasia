@@ -2,6 +2,7 @@ collections:
   jan-to-mar-2026:
     output: true
     order:
+      - In Search of Silvestr.md
       - Please Fasten Your Seat Belts.md
       - "Wandering Wood: The Transoceanic Pollination of the Double Coconut.md"
       - "Playing It Cool: The Early History of Air Conditioning in Singapore.md"
