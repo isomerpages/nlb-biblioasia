@@ -13,14 +13,14 @@ third_nav_title: The Future
 The digital age refers to our current era characterised by advanced technology, ubiquitous electronic devices, and diverse methods of accessing information. Reading clubs are gatherings where people come together to discuss books. In this context, what forms do reading clubs take, and what challenges and opportunities do they face? How can organisers harness the distinctive features of our digital age to run effective activities?
 
 #### **(1) How the Digital Age Benefits Reading Clubs**
-**1. Facilitates Recruitment and Promotion**：
+**1. Facilitates Recruitment and Promotion**:
 Social media platforms like Facebook, Instagram, Little Red Book, and TikTok offer reading club organisers excellent channels for promotion and outreach, making recruitment much easier.
 
-**2. Richer Digital Tools**：Platforms like WeChat Reading, Kindle, Dedao, and Fanshu make purchasing books, reading, and note-taking incredibly convenient. For instance, WeChat Reading's group function allows users to log 30 minutes of daily reading. Upon completing a book, for example "One Hundred Years of Solitude," it automatically generates a comprehensive reading report.
+**2. Richer Digital Tools**: Platforms like WeChat Reading, Kindle, Dedao, and Fanshu make purchasing books, reading, and note-taking incredibly convenient. For instance, WeChat Reading's group function allows users to log 30 minutes of daily reading. Upon completing a book, for example "One Hundred Years of Solitude", it automatically generates a comprehensive reading report.
 
-**3. Greater Flexibility Through Online Meetings**：There's no need to rent venues or coordinate complex schedules—simply open Zoom or Tencent Meeting to discuss books anytime, anywhere.
+**3. Greater Flexibility Through Online Meetings**: There's no need to rent venues or coordinate complex schedules – simply open Zoom or Tencent Meeting to discuss books anytime, anywhere.
 
-**4. Improved Access to Resources** ：E-books are affordable or even free, while platforms like YouTube, Little Red Book, and Bilibili feature numerous book reviewers who provide summaries and analyses to help readers quickly grasp a book's key concepts.
+**4. Improved Access to Resources**: E-books are affordable or even free, while platforms like YouTube, Little Red Book, and Bilibili feature numerous book reviewers who provide summaries and analyses to help readers quickly grasp a book's key concepts.
 
 #### **(2) Challenges the Digital Age Presents**
 **1. Information Overload and Attention Scarcity**：People today face constant information bombardment from social media, short videos, news alerts, and other sources, severely limiting time and focus available for reading. Reading clubs must design more engaging content and formats to capture and hold members' attention.
