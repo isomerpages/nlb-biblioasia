@@ -14,7 +14,7 @@ third_nav_title: The Present
 
 **Meeting Time**:	Irregular
 
-**Contact Person**:	Toh Puay Yong / C. Y. Sim
+**Contact Person**:	Toh Puay Yong / C.Y. Sim
 
 **Phone**: 96264970
 
