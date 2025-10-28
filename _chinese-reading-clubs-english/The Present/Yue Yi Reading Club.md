@@ -13,10 +13,9 @@ third_nav_title: The Present
 **Established**:	April 2022
 
 **Venue**:	Affinity at Serangoon 
-130 Serangoon North Ave 1 Singapore 550130
+130 Serangoon North Ave 1, Singapore 550130
 
-**Meeting Time**:	Average 3 sessions per month One session per week, one week rest 
-2:00 PM to 5:00 PM
+**Meeting Time**:	Average three sessions per month with one week of rest, 2:00 PM to 5:00 PM
 
 **Contact Person**:	Xia Xia / Kino
 
