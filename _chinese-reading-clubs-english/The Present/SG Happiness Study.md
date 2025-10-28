@@ -23,6 +23,6 @@ via Tencent Meeting online
 
 **Email**: nelliezhang@hotmail.com
 
-**Social Media**:	WeChat [SG Happiness Study]
+**WeChat**:	 SG Happiness Study
 
 **About**:	We believe that happiness is not a fixed state, but a skill that can be developed. Drawing on Harvard's Study of Happiness as our foundation, along with insights from psychology and life wisdom, we support each other's growth and self-awareness through reading, discussion, and practice. We find strength in books and healing through companionship. Together we read and share, together we practice happiness, and together we become more compassionate people.

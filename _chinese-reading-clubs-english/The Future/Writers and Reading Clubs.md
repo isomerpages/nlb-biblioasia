@@ -14,7 +14,7 @@ third_nav_title: The Future
 
 #### **Introduction**
 
-Xin Zhi Reading Club (formerly Sing Zhi Culture &amp; Education Development Association) was established in 1985 and has now been operating for forty years. Adhering to the mission of "serving society, promoting reading, and facilitating humanities education exchange," we continue to sow the seeds of reading. Since 1997, monthly reading club meetings have become the association's flagship activity; in 2002, we extended the reach of reading to prisons, establishing the "Prison Chinese Reading Club" and "Women's Prison Chinese Reading Club," using the power of books to bring hope to those in challenging circumstances.
+Xin Zhi Reading Club (formerly Sing Zhi Culture &amp; Education Development Association) was established in 1985 and has now been operating for forty years. Adhering to the mission of "serving society, promoting reading, and facilitating humanities education exchange", we continue to sow the seeds of reading. Since 1997, monthly reading club meetings have become the association's flagship activity. In 2002, we extended the reach of reading to prisons, establishing the "Prison Chinese Reading Club" and "Women's Prison Chinese Reading Club", using the power of books to bring hope to those in challenging circumstances.
 
 As a non-political, non-profit, non-religious civil organisation, Xin Zhi Reading Club has always maintained open and inclusive principles. Over the years, we have facilitated discussions of over three hundred books, covering motivation, health, management, literature, essays, and even comics and picture books, providing rich intellectual nourishment for readers of different ages and interests.
 
@@ -32,8 +32,8 @@ In recent years, some authors and publishers have proactively invited Xin Zhi Re
 
 #### **Cultivating Creativity: From Reading to Writing**
 
-Xin Zhi Reading Club encourages members to actively participate in creative writing. We publish three issues of our "Newsletter" annually, serving as a platform for members' regular contributions. Additionally, we have successfully published two volumes of "Xin Zhi Essays," providing valuable publishing opportunities for members and witnessing their transformation from readers to writers.
+Xin Zhi Reading Club encourages members to actively participate in creative writing. We publish three issues of our "Newsletter" annually, serving as a platform for members' regular contributions. Additionally, we have successfully published two volumes of "Xin Zhi Essays", providing valuable publishing opportunities for members and witnessing their transformation from readers to writers.
 
 #### **Envisioning the Future: Diverse and Dynamic Reading**
 
-Looking ahead, we hope Singapore's reading clubs can continue exploring innovative formats, such as film reading clubs, drama reading clubs, music reading clubs, technology reading clubs, and more, inviting professionals from various fields to participate and share their knowledge and insights, making reading more diverse and creative. May reading clubs flourish like vibrant flowers across Singapore's fertile landscape, each with its own unique character, blooming brilliantly!
+Looking ahead, we hope Singapore's reading clubs can continue exploring innovative formats such as film reading clubs, drama reading clubs, music reading clubs, technology reading clubs and more, inviting professionals from various fields to participate and share their knowledge and insights, making reading more diverse and creative. May reading clubs flourish like vibrant flowers across Singapore's fertile landscape, each with its own unique character, blooming brilliantly!

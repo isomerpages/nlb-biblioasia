@@ -20,4 +20,6 @@ Programme Zone
 
 **Email**: wu_hao@nlb.gov.sg
 
-**About**:	The reading club is committed to promoting reading habits and fostering a reading culture amongst its members. It aims to enhance personal knowledge and cultivation, enrich spiritual life, and provide a platform for healthy cultural leisure activities that promotes communication and interaction amongst members. The club brings together like-minded members to share insights and foster friendships. Each guided reading session uses discussion, sharing, and interaction to help participants gain deeper recognition and understanding of the works. The reading selections focus primarily on works by local authors, while also extending to overseas literary works.
+**About**:	The reading club is committed to promoting reading habits and fostering a reading culture among its members. It aims to enhance personal knowledge and cultivation, enrich spiritual life, and provide a platform for healthy cultural leisure activities that promote communication and interaction among members. 
+
+The club brings together like-minded members to share insights and foster friendships. Each guided reading session uses discussion, sharing, and interaction to help participants gain deeper recognition and understanding of the works. The reading selections focus primarily on works by local authors, while also extending to overseas literary works.

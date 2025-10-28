@@ -11,7 +11,7 @@ third_nav_title: The Future
 #### **The Future of Reading Clubs**
 Author: Tan Koon Poh
 <br>
-Future reading clubs will do much more than just "reading" - they will become vibrant spaces that encourage idea sharing, deep thinking, and personal growth. By embracing new technology, enhancing content sharing, strengthening community bonds, and collaborating across organisations, we can transform reading into a cultural activity that attracts broader participation. This will help elevate Singapore's reading culture to new heights.
+Future reading clubs will do much more than just "reading" – they will become vibrant spaces that encourage idea sharing, deep thinking, and personal growth. By embracing new technology, enhancing content sharing, strengthening community bonds, and collaborating across organisations, we can transform reading into a cultural activity that attracts broader participation. This will help elevate Singapore's reading culture to new heights.
 
 [Read Full Article](https://biblioasia.nlb.gov.sg/chinese-reading-clubs/english/future/article1/)
 <br><br>
@@ -56,7 +56,7 @@ By bringing people together to read the same book, reading clubs ensure that mor
 #### **Diversified Reading Guidance: Emerging Technology, Finance, and Humanities**
 Author: Ong Eng Hong
 <br>
-In today's era of rapid advancement in emerging technology and fintech, we believe there is an even greater need to consider humanistic values in technological development: How should technology enhance human quality of life? What role should humans play in the digital age? Our team continues to focus on these fundamental questions. For example, at our 29 March 2025 session "One Person as a Team – Leveraging AI to Enhance Productivity," we explored how to make AI a capable assistant to humans rather than simply replacing them. We believe that only by developing technology while maintaining humanistic concern can we create truly meaningful progress.
+In today's era of rapid advancement in emerging technology and fintech, we believe there is an even greater need to consider humanistic values in technological development: How should technology enhance human quality of life? What role should humans play in the digital age? Our team continues to focus on these fundamental questions. For example, at our 29 March 2025 session "One Person as a Team – Leveraging AI to Enhance Productivity", we explored how to make AI a capable assistant to humans rather than simply replacing them. We believe that only by developing technology while maintaining humanistic concern can we create truly meaningful progress.
 
 [Read Full Article](https://biblioasia.nlb.gov.sg/chinese-reading-clubs/english/future/article6/)
 <br><br>
@@ -65,7 +65,7 @@ In today's era of rapid advancement in emerging technology and fintech, we belie
 #### **Reading Clubs as Platforms for Cultural Exchange**
 Author: Wang Hongyu 
 <br>
-Looking ahead, Rain Studio will continue to build on its distinctive strengths in cultural creativity and artistic expression. We plan to expand academic exchanges with institutions and research centres both locally and internationally, establishing robust international academic networks. At the same time, we will actively engage in publishing initiatives and strengthen our outreach capabilities to promote cultural sharing, with particular focus on Nanyang cultural studies.
+Looking ahead, Rain Studio will continue to build on its distinctive strengths in cultural creativity and artistic expression. We plan to expand academic exchanges with institutions and research centres both locally and internationally, establishing robust international academic networks. At the same time, we will actively engage in publishing initiatives and strengthen our outreach capabilities to promote cultural sharing, with a particular focus on Nanyang cultural studies.
 
 [Read Full Article](https://biblioasia.nlb.gov.sg/chinese-reading-clubs/english/future/article7/)
 <br><br>
@@ -92,7 +92,7 @@ The digital age presents reading clubs with both new opportunities and challenge
 #### **The Value of Reading Clubs**
 Author: Lim Jie Xi
 <br>
-The power of literature lies in how authors give voice to diverse characters within narrative frameworks, allowing these voices to explore issues from multiple perspectives. When we read these stories, we can temporarily set aside our own positions, listen to these varied voices, and connect emotionally with the characters. This was precisely the motivation behind "Reading through Turbulent Times " reading club’s decision to move online during the pandemic. By bringing together authors and readers from all over the world, the club aimed to encourage participants to set aside their prejudices, immerse themselves in the stories, and foster empathy that would deepen mutual understanding.
+The power of literature lies in how authors give voice to diverse characters within narrative frameworks, allowing these voices to explore issues from multiple perspectives. When we read these stories, we can temporarily set aside our own positions, listen to these varied voices, and connect emotionally with the characters. This was precisely the motivation behind “Reading through Turbulent Times” reading club’s decision to move online during the pandemic. By bringing together authors and readers from all over the world, the club aimed to encourage participants to set aside their prejudices, immerse themselves in the stories, and foster empathy that would deepen mutual understanding.
 
 [Read Full Article](https://biblioasia.nlb.gov.sg/chinese-reading-clubs/english/future/article10/)
 <br><br>

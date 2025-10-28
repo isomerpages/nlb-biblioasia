@@ -11,9 +11,9 @@ third_nav_title: The Present
 
 **Established**:	2010
 
-**Venue**:	13a Smith St, Singapore 058927
+**Venue**:	13A Smith St, Singapore 058927
 
-**Meeting Time**:	First to fourth Sundays of every month afternoons
+**Meeting Time**:	First to fourth Sunday afternoons every month
 
 **Contact Person**:	Guo Shu Ming
 
@@ -25,4 +25,4 @@ third_nav_title: The Present
 <a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/xinshengpoem">Facebook</a>	
 
 
-**About**:	Xin Sheng Poets' Society is dedicated to the scholarly study of Chinese poetry and the promotion of literary elegance within the community. Our programme is held on the first four Sunday afternoons of each month, during which two experienced instructors provide guidance and explanation of classical poetry for members and other students who love Chinese poetry. We aim to cultivate learners’ enthusiasm, appreciate and promote traditional poetry, and improve their writing skills.
+**About**:	Xin Sheng Poets' Society is dedicated to the scholarly study of Chinese poetry and the promotion of Chinese literacy within the community. Our programme is held on the first four Sunday afternoons of each month, during which two experienced instructors provide guidance and explanation of classical poetry for members and other students who love Chinese poetry. We aim to cultivate learners’ enthusiasm, enhance their appreciation of traditional poetry, and improve their writing skills.

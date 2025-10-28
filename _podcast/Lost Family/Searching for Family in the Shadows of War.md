@@ -38,7 +38,7 @@ Books, 2025).</p>
 <p>Jan Beránek, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300110453" rel="noopener noreferrer nofollow" target="_blank"><u>In Search of Silvestr: Unravelling My Granduncle's Fate, Bata, Czechoslovaks and World War II in Singapore</u></a></em>&nbsp;(Singapore:
 Landmark Books, 2025).</p>
 <p></p>
-<p>Jan Beránek, “<a href="https://biblioasia.nlb.gov.sg/people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/" rel="noopener nofollow" target="_blank">In Search of Silvestr</a>,” <em>BiblioAsia </em>(April
+<p>Jan Beránek, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/" rel="noopener nofollow" target="_blank">In Search of Silvestr</a>,” <em>BiblioAsia </em>(April
 2025).</p>
 </div>
 </details>

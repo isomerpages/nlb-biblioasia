@@ -21,4 +21,4 @@ third_nav_title: The Present
 
 **Email**: mpchow@hotmail.com
 
-**About**:	We provide a Chinese language learning platform for Clementi residents and the public, promoting a community reading culture. Our activities include guided discussions of library books, inviting local authors to share their works, and organizing social outings for members. We also participate in events organised by the National Library, book launches, and lectures.
+**About**:	We provide a Chinese language learning platform for Clementi residents and the public, promoting a community reading culture. Our activities include guided discussions of library books, inviting local authors to share their works, and organising social outings for members. We also participate in events organised by the National Library, book launches, and lectures.
