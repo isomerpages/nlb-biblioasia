@@ -87,7 +87,7 @@ While the 1918 influenza pandemic was met with uncertainty and unpreparedness, t
 
 
 <div style="background-color: white;">
-<b>Dr John Bray</b> is a risk consultant and policy specialist currently based in Singapore. He has a PhD in History from the University of Cambridge and has published a number of academic research articles on the history of Christianity in the Himalayan border regions of northern India. He is a former member of the St Andrew’s Cathedral Heritage Committee. </div>
+<b>Sean Hoh</b> is an Associate Librarian (Seniors)/Assistant Manager at the National Library Board. He primarily manages programmes and services for seniors at the public libraries in Singapore.</div>
 
 #### **Notes**
 
