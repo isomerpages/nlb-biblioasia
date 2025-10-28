@@ -21,7 +21,7 @@ Reading clubs should strengthen their connections and collaboration, moving away
 
 #### **Resource Sharing**
 
-In terms of resource sharing, establishing an online platform could centrally house quality book recommendations, reading insights, and discussion highlights from various reading clubs. While reading club discussions are rich in content, they tend to fade from memory once the session end. Through systematic organisation and sharing of these materials, reading culture can be promoted more effectively, benefiting a wider readership.
+In terms of resource sharing, establishing an online platform could centrally house quality book recommendations, reading insights, and discussion highlights from various reading clubs. While reading club discussions are rich in content, they tend to fade from memory once the session ends. Through systematic organisation and sharing of these materials, reading culture can be promoted more effectively, benefitting a wider readership.
 
 #### **Cultivating a New Generation’s Chinese Reading Culture**
 
