@@ -36,4 +36,4 @@ Xin Zhi Reading Club encourages members to actively participate in creative writ
 
 #### **Envisioning the Future: Diverse and Dynamic Reading**
 
-Looking ahead, we hope Singapore's reading clubs can continue exploring innovative formats, such as film reading clubs, drama reading clubs, music reading clubs, technology reading clubs, and more, inviting professionals from various fields to participate and share their knowledge and insights, making reading more diverse and creative. May reading clubs flourish like vibrant flowers across Singapore's fertile landscape, each with its own unique character, blooming brilliantly!
+Looking ahead, we hope Singapore's reading clubs can continue exploring innovative formats such as film reading clubs, drama reading clubs, music reading clubs, technology reading clubs and more, inviting professionals from various fields to participate and share their knowledge and insights, making reading more diverse and creative. May reading clubs flourish like vibrant flowers across Singapore's fertile landscape, each with its own unique character, blooming brilliantly!
