@@ -7,9 +7,9 @@ third_nav_title: The Present
 ---
 **Established**:	January 2024
 
-**Venue**:	Mainly at National Library Building Level 1 Visitors' Briefing Room Occasionally at Bishan Public Library Level 2 Programme Zone or Central Public Library Programme Room 3
+**Venue**:	Mainly at National Library Building, Level 1 Visitors’ Briefing Room, occasionally at Bishan Public Library, Level 2 Programme Zone, or Central Public Library, Programme Room 3
 
-**Meeting Time**:	Second Sunday of every month
+**Meeting Time**:	Second Sunday of every month,
 2:00 PM to 3:30 PM
 
 **Contact Person**:	Chan Pan Fong
