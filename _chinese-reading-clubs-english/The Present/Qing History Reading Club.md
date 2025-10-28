@@ -11,7 +11,7 @@ third_nav_title: The Present
 
 **Established**:	April 2015
 
-**Venue**:	National Library Building Basement 1
+**Venue**:	National Library Building Basement 1,
 Central Library Programme Room 1
 
 **Meeting Time**:	Third Saturday of every odd month
