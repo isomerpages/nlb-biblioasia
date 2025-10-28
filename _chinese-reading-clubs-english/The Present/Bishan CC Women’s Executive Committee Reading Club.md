@@ -15,7 +15,7 @@ third_nav_title: The Present
 **Venue**:	Bishan Community Club 
 51 Bishan St.13, Singapore 579799
 
-**Meeting Time**:	Four sessions per year, in February, May, August and November First Wednesday, 3:00 PM to 5:00 PM
+**Meeting Time**:	Four sessions per year on the first Wednesday of February, May, August and November, 3:00 PM to 5:00 PM
 
 **Contact Person**:	Kerk Eng Huat/Tan Eng Joo
 
