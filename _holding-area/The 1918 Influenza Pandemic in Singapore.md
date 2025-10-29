@@ -91,31 +91,31 @@ While the 1918 influenza pandemic was met with uncertainty and unpreparedness, t
 
 #### **Notes**
 
-[^1]: “Illness in Singapore,” _Straits Times_, 3 July 1918, 7; “The Mysterious Malady,” _Straits Times_, 9 July 1918, 8; “Disease Gradually Spreading in Singapore,” _Pinang Gazette and Straits Chronicle_, 24 October 1918, 7. (From NewspaperSG)
+[^1]: “[Illness in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180703-1.2.42),” _Straits Times_, 3 July 1918, 7; “[The Mysterious Malady](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180709-1.2.53),” _Straits Times_, 9 July 1918, 8; “[Disease Gradually Spreading in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19181024-1.2.54),” _Pinang Gazette and Straits Chronicle_, 24 October 1918, 7. (From NewspaperSG)
 
 
-[^2]: Kenny Abdo, _Spanish Flu_ (Minnesota: Abdo Zoom, 2021), 19. (From National Library Singapore, call no. RSEA 614.5 ABD); John M. Berry, _The Great Influenza: The Story of the Deadliest Pandemic in History_ (New York: Penguin Books, 2005), 397. (From NLB OverDrive)&nbsp;
+[^2]: Kenny Abdo, _[Spanish Flu](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205601058)_ (Minnesota: Abdo Zoom, 2021), 19. (From National Library Singapore, call no. RSEA 614.5 ABD); John M. Berry, _[The Great Influenza: The Story of the Deadliest Pandemic in History](https://nlb.overdrive.com/media/E3D31ED3-304D-4665-8E18-F305ADF37A07)_ (New York: Penguin Books, 2005), 397. (From NLB OverDrive)&nbsp;
 
 
-[^3]: Antoni Trilla, Guillem Trilla and Carolyn Daer, “The 1918 ‘Spanish Flu’ in Spain,” _Clinical Infectious Diseases_ 47, no. 5 (September 2008): 668. (From JSTOR via NLB’s eResources website); National Library Board, “The Spanish Flu,” last updated 29 July 2025. (From Reference@NLB); Michael A. Vance, “Disease Mongering and the Fear of Pandemic Influenza,” _International Journal of Health Services_ 41, no. 1 (2011): 102. (From JSTOR via NLB’s eResources website)
+[^3]: Antoni Trilla, Guillem Trilla and Carolyn Daer, “The 1918 ‘Spanish Flu’ in Spain,” _Clinical Infectious Diseases_ 47, no. 5 (September 2008): 668. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); National Library Board, “[The Spanish Flu]((https://reference.nlb.gov.sg/guides/sci-tech/sciences/spanish-flu/)),” last updated 29 July 2025. (From Reference@NLB); Michael A. Vance, “Disease Mongering and the Fear of Pandemic Influenza,” _International Journal of Health Services_ 41, no. 1 (2011): 102. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 
-[^4]: Trilla, Trilla and Daer, “The 1918 ‘Spanish Flu’ in Spain,” 668–69; Abdo, _Spanish Flu_, 14.
+[^4]: Trilla, Trilla and Daer, “The 1918 ‘Spanish Flu’ in Spain,” 668–69; Abdo, _[Spanish Flu](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205601058)_, 14.
 
 
-[^5]: “Negri Sembilan Notes,” _The Singapore Diocesan Magazine: A Quarterly Record of Church Work_ 9–10, nos. 33–40 (November 1918–November 1920): 36. (From National Library Online)
+[^5]: “Negri Sembilan Notes,” _[The Singapore Diocesan Magazine: A Quarterly Record of Church Work](https://www.nlb.gov.sg/main/book-detail?cmsuuid=772ebd08-f3d5-49b2-a227-2613b2456a2b)_ 9–10, nos. 33–40 (November 1918–November 1920): 36. (From National Library Online)
 
 
-[^6]: Vernon J. Lee et al., “Influenza Pandemics in Singapore, A Tropical, Globally Connected City,” _Emerging Infectious Diseases_ 13, no. 7 (July 2007): 1054, https://pubmed.ncbi.nlm.nih.gov/18214178/.
+[^6]: Vernon J. Lee et al., “Influenza Pandemics in Singapore, A Tropical, Globally Connected City,” _Emerging Infectious Diseases_ 13, no. 7 (July 2007): 1054, [https://pubmed.ncbi.nlm.nih.gov/18214178/](https://pubmed.ncbi.nlm.nih.gov/18214178/).
 
 
-[^7]: Prema-chandra Athukorala and Chaturica Athukorala, _The 1918–20 Influenza Pandemic: A Retrospective in the Time of COVID-19_ (Cambridge: Cambridge University Press, 2022), 9, https://www.cambridge.org/core/elements/191820-influenza-pandemic/E2695A213FACA1CD66D1AC9144EE7FD1.
+[^7]: Prema-chandra Athukorala and Chaturica Athukorala, _The 1918–20 Influenza Pandemic: A Retrospective in the Time of COVID-19_ (Cambridge: Cambridge University Press, 2022), 9, [https://www.cambridge.org/core/elements/191820-influenza-pandemic/E2695A213FACA1CD66D1AC9144EE7FD1](https://www.cambridge.org/core/elements/191820-influenza-pandemic/E2695A213FACA1CD66D1AC9144EE7FD1).
 
 
 [^8]: Lee et al., “Influenza Pandemics in Singapore,” 1052–53.
 
 
-[^9]: Kah Seng Loh and Li Yang Hsu, _Pandemics in Singapore, 1819–2022: Lessons for the Age of Covid-19_ (Abingdon: Routledge, 2024), 154. (From NLB OverDrive); Liew Kai Khiun, “Terribly Severe Though Mercifully Short: The Episode of the 1918 Influenza in British Malaya,” _Modern Asian Studies_ 41, no. 2 (March 2007): 239. (From JSTOR via NLB’s eResources website)
+[^9]: Kah Seng Loh and Li Yang Hsu, _[Pandemics in Singapore, 1819–2022: Lessons for the Age of Covid-19](https://nlb.overdrive.com/media/10120783)_ (Abingdon: Routledge, 2024), 154. (From NLB OverDrive); Liew Kai Khiun, “Terribly Severe Though Mercifully Short: The Episode of the 1918 Influenza in British Malaya,” _Modern Asian Studies_ 41, no. 2 (March 2007): 239. (From JSTOR via NLB’s eResources website)
 
 
 [^10]: Lee et al., “Influenza Pandemics in Singapore,” 1055; Olivia Ho, “How the Straits Times Covered Past Pandemics,” _Straits Times_, 19 April 2020, B6. (From NewspaperSG); Loh and Hsu, _Pandemics in Singapore_, 160.
