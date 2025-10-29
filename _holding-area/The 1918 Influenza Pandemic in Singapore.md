@@ -115,66 +115,66 @@ While the 1918 influenza pandemic was met with uncertainty and unpreparedness, t
 [^8]: Lee et al., “Influenza Pandemics in Singapore,” 1052–53.
 
 
-[^9]: Kah Seng Loh and Li Yang Hsu, _[Pandemics in Singapore, 1819–2022: Lessons for the Age of Covid-19](https://nlb.overdrive.com/media/10120783)_ (Abingdon: Routledge, 2024), 154. (From NLB OverDrive); Liew Kai Khiun, “Terribly Severe Though Mercifully Short: The Episode of the 1918 Influenza in British Malaya,” _Modern Asian Studies_ 41, no. 2 (March 2007): 239. (From JSTOR via NLB’s eResources website)
+[^9]: Kah Seng Loh and Li Yang Hsu, _[Pandemics in Singapore, 1819–2022: Lessons for the Age of Covid-19](https://nlb.overdrive.com/media/10120783)_ (Abingdon: Routledge, 2024), 154. (From NLB OverDrive); Liew Kai Khiun, “Terribly Severe Though Mercifully Short: The Episode of the 1918 Influenza in British Malaya,” _Modern Asian Studies_ 41, no. 2 (March 2007): 239. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 
-[^10]: Lee et al., “Influenza Pandemics in Singapore,” 1055; Olivia Ho, “How the Straits Times Covered Past Pandemics,” _Straits Times_, 19 April 2020, B6. (From NewspaperSG); Loh and Hsu, _Pandemics in Singapore_, 160.
-
-
-
-[^11]: “Yi zai jing you fei liuxingbing er zuo liuxing bing yizhi zhe” 異哉竟有非流行病而作流行病醫治者 \[It is strange that non-influenza cases are being treated as influenza\], _Lat Pau_ 叻報, 30 October 1918, 3, NUS Libraries, https://oa.nus.libnova.com/view/436041; Loh and Hsu, _Pandemics in Singapore_, 160.
-
-
-[^12]: Straits Settlements Medical Department, _Straits Settlements Medical Report 1918_ (Singapore: Straits Settlement Medical Department, 1918), 22, https://wellcomecollection.org/works/etgw9ggs.
-
-
-[^13]: Straits Settlements Medical Department, _Straits Settlements Medical Report 1918_, 22; Loh and Hsu, _Pandemics in Singapore_, 154, 162; “The Road to Pandemic Preparedness in Singapore,” National Centre of Infectious Diseases, accessed 29 August 2025. https://www.ncid.sg/For-General-Public/Pages/The-NCID-Gallery.aspx.
-
-
-[^14]: “Untitled,” _Straits Times_, 28 October 1918, 8. (From NewspaperSG); Loh and Hsu, _Pandemics in Singapore_, 160–62.
-
-
-[^15]: “Random Notes,” _Straits Echo_, 30 July 1918, 4. (From NewspaperSG); Liew, “Terribly Severe Though Mercifully Short,” 223.&nbsp;
-
-
-[^16]: “Municipal Commission,” _Straits Echo_, 30 October 1918, 8. (NewspaperSG)
-
-
-[^17]: Liew, “Terribly Severe Though Mercifully Short,” 242; Lee et al., “Influenza Pandemics in Singapore,” 1055; “Influenza Precautions,” _Straits Times_, 6 November 1918, 8; “Visitors to the Hospital,” _Straits Times_, 19 October 1918, 8. (NewspaperSG)
-
-
-[^18]: “The Influenza Epidemic,” _Malaya Tribune_, 28 October 1918, 4. (From NewspaperSG); Vernon J. Lee et al., “Twentieth Century Influenza Pandemics in Singapore,” _Academy of Medicine, Singapore_ 37, no. 6 (June 2008): 471, https://pubmed.ncbi.nlm.nih.gov/18618058/; Lee et al., “Influenza Pandemics in Singapore,” 1053.
-
-
-[^19]: “An Ordinance to Amend the Quarantine and Prevention of Disease Ordinance, 1915 (No. 34 of 1919),” 27 October 1919, _Ordinances enacted by the Governor of the Straits Settlements with the Advice and Consent of the Legislative Council Thereof in the Year 1916–1919_ (Singapore: Printed at the G.P.O., 1916–19). (From National Library Online)
-
-
-[^20]: A Patient Sufferer, “Influenza,” _Straits Times_, 24 October 1918, 8. (From NewspaperSG)&nbsp;
+[^10]: Lee et al., “Influenza Pandemics in Singapore,” 1055; Olivia Ho, “[How the Straits Times Covered Past Pandemics](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20200419-1.2.21.5.3),” _Straits Times_, 19 April 2020, B6. (From NewspaperSG); Loh and Hsu, _[Pandemics in Singapore](https://nlb.overdrive.com/media/10120783)_, 160.
 
 
 
-[^21]: Another Sufferer, “River Valley Road Dust,” _Straits Times_, 26 October 1918, 11. (From NewspaperSG)&nbsp;
+[^11]: “Yi zai jing you fei liuxingbing er zuo liuxing bing yizhi zhe” 異哉竟有非流行病而作流行病醫治者 \[It is strange that non-influenza cases are being treated as influenza\], _Lat Pau_ 叻報, 30 October 1918, 3, NUS Libraries, [https://oa.nus.libnova.com/view/436041](https://oa.nus.libnova.com/view/436041); Loh and Hsu, _[Pandemics in Singapore](https://nlb.overdrive.com/media/10120783)_, 160.
 
 
-[^22]: Prophylactic, “Influenza,” _Straits Times_, 17 October 1918, 8. (From NewspaperSG)&nbsp;
+[^12]: Straits Settlements Medical Department, _Straits Settlements Medical Report 1918_ (Singapore: Straits Settlement Medical Department, 1918), 22, [https://wellcomecollection.org/works/etgw9ggs](https://wellcomecollection.org/works/etgw9ggs).
 
 
-[^23]: “The Influenza Epidemic,” _Straits Times_, 22 October 1918, 7. (From NewspaperSG)
+[^13]: Straits Settlements Medical Department, _Straits Settlements Medical Report 1918_, 22; Loh and Hsu, _[Pandemics in Singapore](https://nlb.overdrive.com/media/10120783)_, 154, 162; “The Road to Pandemic Preparedness in Singapore,” National Centre of Infectious Diseases, accessed 29 August 2025. [https://www.ncid.sg/For-General-Public/Pages/The-NCID-Gallery.aspx](https://www.ncid.sg/For-General-Public/Pages/The-NCID-Gallery.aspx).
 
 
-[^24]: “The Influenza,” _Straits Echo (Mail Edition)_, 23 October, 1918, 1630. (From NewspaperSG)
+[^14]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181028-1.2.25),” _Straits Times_, 28 October 1918, 8. (From NewspaperSG); Loh and Hsu, _[Pandemics in Singapore](https://nlb.overdrive.com/media/10120783)_, 160–62.
+
+
+[^15]: “[Random Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsecho19180730-1.2.12),” _Straits Echo_, 30 July 1918, 4. (From NewspaperSG); Liew, “Terribly Severe Though Mercifully Short,” 223.&nbsp;
+
+
+[^16]: “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsecho19181030-1.2.30),” _Straits Echo_, 30 October 1918, 8. (NewspaperSG)
+
+
+[^17]: Liew, “Terribly Severe Though Mercifully Short,” 242; Lee et al., “Influenza Pandemics in Singapore,” 1055; “[Influenza Precautions](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181106-1.2.40),” _Straits Times_, 6 November 1918, 8; “[Visitors to the Hospital](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181019-1.2.36),” _Straits Times_, 19 October 1918, 8. (NewspaperSG)
+
+
+[^18]: “[The Influenza Epidemic](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19181028-1.2.11),” _Malaya Tribune_, 28 October 1918, 4. (From NewspaperSG); Vernon J. Lee et al., “Twentieth Century Influenza Pandemics in Singapore,” _Academy of Medicine, Singapore_ 37, no. 6 (June 2008): 471, [https://pubmed.ncbi.nlm.nih.gov/18618058/](https://pubmed.ncbi.nlm.nih.gov/18618058/); Lee et al., “Influenza Pandemics in Singapore,” 1053.
+
+
+[^19]: “An Ordinance to Amend the Quarantine and Prevention of Disease Ordinance, 1915 (No. 34 of 1919),” 27 October 1919, _[Ordinances enacted by the Governor of the Straits Settlements with the Advice and Consent of the Legislative Council Thereof in the Year 1916–1919](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2ecc0c1a-f552-47e2-bbd2-bfe131413683)_ (Singapore: Printed at the G.P.O., 1916–19). (From National Library Online)
+
+
+[^20]: A Patient Sufferer, “[Influenza](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181024-1.2.59.3),” _Straits Times_, 24 October 1918, 8. (From NewspaperSG)&nbsp;
+
+
+
+[^21]: Another Sufferer, “[River Valley Road Dust](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181026-1.2.54.3),” _Straits Times_, 26 October 1918, 11. (From NewspaperSG)&nbsp;
+
+
+[^22]: Prophylactic, “[Influenza](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181017-1.2.45.2),” _Straits Times_, 17 October 1918, 8. (From NewspaperSG)&nbsp;
+
+
+[^23]: “[The Influenza Epidemic](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181022-1.2.42),” _Straits Times_, 22 October 1918, 7. (From NewspaperSG)
+
+
+[^24]: “[The Influenza](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19181023-1.2.66),” _Straits Echo (Mail Edition)_, 23 October, 1918, 1630. (From NewspaperSG)
 
 
 [^25]: Liew, “Terribly Severe Though Mercifully Short,” 235–36, 251.
 
 
-[^26]: “Untitled,” _Straits Times_, 25 October 1918, 8. (From NewspaperSG)&nbsp;
+[^26]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181025-1.2.33),” _Straits Times_, 25 October 1918, 8. (From NewspaperSG)&nbsp;
 
 
-[^27]: Loh and Hsu, _Pandemics in Singapore_, 160, 163–64; Liew, “Terribly Severe Though Mercifully Short,” 247.
+[^27]: Loh and Hsu, _[Pandemics in Singapore](https://nlb.overdrive.com/media/10120783)_, 160, 163–64; Liew, “Terribly Severe Though Mercifully Short,” 247.
 
 
-[^28]: “Illness in Singapore,” _Pinang Gazette and Straits Chronicle_, 5 July 1918, 3; “Telephones and Influenza,” _Straits Times_, 23 October 1918, 8. (From NewspaperSG); “Liuxing bing zhi wan e” 流行病之萬惡 \[The evils of the epidemics\], _Lat Pau_ 叻報, 1 November 1918, 3, NUS Libraries, https://oa.nus.libnova.com/view/436045.
+[^28]: “[Illness in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19180705-1.2.14),” _Pinang Gazette and Straits Chronicle_, 5 July 1918, 3; “[Telephones and Influenza](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181023-1.2.34),” _Straits Times_, 23 October 1918, 8. (From NewspaperSG); “Liuxing bing zhi wan e” 流行病之萬惡 \[The evils of the epidemics\], _Lat Pau_ 叻報, 1 November 1918, 3, NUS Libraries, [https://oa.nus.libnova.com/view/436045](https://oa.nus.libnova.com/view/436045).
 
 
 [^29]: Liew, “Terribly Severe Though Mercifully Short,” 222.
