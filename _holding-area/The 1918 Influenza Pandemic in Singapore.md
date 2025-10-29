@@ -180,21 +180,21 @@ While the 1918 influenza pandemic was met with uncertainty and unpreparedness, t
 [^29]: Liew, “Terribly Severe Though Mercifully Short,” 222.
 
 
-[^30]: “Untitled,” _Straits Times_, 18 June 1918, 6. (From Newspaper SG)&nbsp;
+[^30]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180618-1.2.34),” _Straits Times_, 18 June 1918, 6. (From Newspaper SG)&nbsp;
 
 
 
-[^31]: “Untitled,” _Straits Times_, 17 July 1918, 8. (From NewspaperSG)&nbsp;
+[^31]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180727-1.2.34),” _Straits Times_, 17 July 1918, 8. (From NewspaperSG)&nbsp;
 
 
-[^32]: “Page 2 Advertisements Column 3,” _Straits Echo_, 7 November 1916, 2; “Page 5 Advertisements Column 1,” _Pinang Gazette and Straits Chronicle_, 8 February 1917, 5; “Page 7 Advertisements Column 5,” _Singapore Free Press and Mercantile Advertiser_, 6 November 1918, 7. (From NewspaperSG)
+[^32]: “[Page 2 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsecho19161107-1.2.4.3),” _Straits Echo_, 7 November 1916, 2; “[Page 5 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19170208-1.2.30.1),” _Pinang Gazette and Straits Chronicle_, 8 February 1917, 5; “[Page 7 Advertisements Column 5](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19181106-1.2.46.5),” _Singapore Free Press and Mercantile Advertiser_, 6 November 1918, 7. (From NewspaperSG)
 
 
-[^33]: “Ministerial Statement on Whole‑of‑Government Response to the 2019 Novel Coronavirus (2019‑nCoV),” Ministry of Health (Singapore), 3 February 2020, https://www.moh.gov.sg/newsroom/ministerial-statement-on-whole-of-government-response-to-the-2019-novel-coronavirus-%282019-ncov%29.
+[^33]: “Ministerial Statement on Whole‑of‑Government Response to the 2019 Novel Coronavirus (2019‑nCoV),” Ministry of Health (Singapore), 3 February 2020, [https://www.moh.gov.sg/newsroom/ministerial-statement-on-whole-of-government-response-to-the-2019-novel-coronavirus-%282019-ncov%29](https://www.moh.gov.sg/newsroom/ministerial-statement-on-whole-of-government-response-to-the-2019-novel-coronavirus-%282019-ncov%29).
 
 
 [^34]: “Minsterial Statement on Whole‑of‑Government Response to the 2019 Novel Coronavirus (2019‑nCoV).”
 
 
 
-[^35]: Yuen Sin, “Covid-19 Vaccination Drive Kicks off with Jabs for 40 NCID Healthcare Workers,” _Straits Times_, 30 December 2020, https://www.straitstimes.com/singapore/coronavirus-vaccination-drive-kicks-off-to-pave-way-for-more-economic-activities.
+[^35]: Yuen Sin, “Covid-19 Vaccination Drive Kicks off with Jabs for 40 NCID Healthcare Workers,” _Straits Times_, 30 December 2020, [https://www.straitstimes.com/singapore/coronavirus-vaccination-drive-kicks-off-to-pave-way-for-more-economic-activities](https://www.straitstimes.com/singapore/coronavirus-vaccination-drive-kicks-off-to-pave-way-for-more-economic-activities).
