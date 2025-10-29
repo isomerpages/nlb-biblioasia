@@ -57,6 +57,12 @@ In November 1919, the colonial administration introduced more stringent measures
 
 The pandemic was a time of worry, frustration and confusion for many who resided in Singapore. From their perspective, the colonial administration’s actions appeared to be lacking and they shared their views in the local newspapers. On 24 October 1918, a reader of the _Straits Times_, who went by the pseudonym, “A Patient Sufferer”, wrote: “Would you kindly permit me… to draw the attention of our City Fathers to the present disgraceful condition of the River Valley and Oxley Roads. The dust being allowed to accumulate on them is several inches deep.” He added: “\[W\]hen the Spanish ‘Flu’ is making such heavy inroads on the health of our population, the consequences arising by the air being thickened by the germ-producing dust are so potent that it is not necessary to over-draw the picture.”[^20]
 
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_street.png" style="width: 80%;">
+
+<div style="background-color: white;">
+View of Hill Street from the junction of River Valley Road and Hill Street, c. 1920. Letters to the <i>Straits Times</i> included complaints about the dusty conditions of River Valley Road during the 1918 influenza pandemic. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980006552 - 0104). </i></div>
+
+
 Two days later, another reader who used the moniker, “Another Sufferer”, added his comments to the earlier letter. “May I add my quota to the remarks of ‘Patient Sufferer’ on the hideously dusty condition of River Valley and Oxley roads. I do not think these roads have been watered this year – except by rain. They are of laterite or laterite mixed, and the clouds of dust are appalling, and daily one may see a diligent road-sweeper sweeping up clouds of this dust which pours into the houses alongside.”[^21]
 
 Another cause for concern among the people was that public spaces in Singapore could facilitate the spread of the influenza virus (places that we now refer to as “virus hotspots”). On 17 October 1918, a _Straits Times_ reader questioned why the colonial administration had not closed schools in Singapore and asserted that the administration should be proactive in closing schools instead of waiting for cases to be reported among students before reacting.&nbsp;
@@ -73,7 +79,7 @@ Businesses were also heavily disrupted in Singapore. “Work in Government offic
 
 <img src="/images/Vol%2021%20Issue%204/Flu/Flu_article.png" style="width: 80%;">
 
-<div style="background-color: white;">An article in the <i>Pinang Gazette and Straits Chronicle</i> emphasising the unprecedented severity of the 1918 influenza pandemic in Singapore <i>Image reproduced from “Illness in Singapore,” Pinang Gazette and Straits Chronicle, 5 July 1918, 3. (From NewspaperSG).</i></div>
+<div style="background-color: white;">An article in the <i>Pinang Gazette and Straits Chronicle</i> emphasising the unprecedented severity of the 1918 influenza pandemic in Singapore. <i>Image reproduced from “Illness in Singapore,” Pinang Gazette and Straits Chronicle, 5 July 1918, 3. (From NewspaperSG).</i></div>
 
 
 
@@ -86,6 +92,12 @@ The chaos of the pandemic was exacerbated by misinformation and disinformation t
 An article in the _Straits Times_ on 18 June 1918 linked the virus outbreak to “the irregularity of the weather”.[^30] On 27 July 1918, another article blamed the viral outbreak on the durian: “It is said that the illness is brought about by eating ‘durian’ fruit, but, strangely enough, it does not appear to affect Chinese or Malays.”[^31]
 
 Opportunistic companies took advantage of the widespread fear and uncertainty among the people to frame their products as cures for symptoms of influenza and related illnesses in newspaper advertisements. Prior to the pandemic, Veno’s Lightning Cough Cure had only been marketed as a remedy for coughs. However, an advertisement in the _Singapore Free Press and Mercantile Advertiser_ on 6 November 1918 proclaimed that “Veno’s Lightning Cough Cure Checks Influenza at the outset”.[^32]
+
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_ads.png" style="width: 60%;">
+
+<div style="background-color: white;">
+Veno’s Lightning Cough Cure was advertised as a remedy that could “[check] Influenza at the outset”. This marketing tactic leveraged people’s desperation to find a cure for influenza. <i>Image reproduced from Singapore Free Press and Mercantile Advertiser, 6 November 1918, 7. (From NewspaperSG).</i></div>
+
 
 #### **Remembering the “Forgotten Pandemic”**
 
