@@ -18,6 +18,11 @@ Between 1918 and 1919, the world was besieged by an influenza pandemic so deadly
 
 The disease was commonly known as the “Spanish flu”, although this term is a misnomer given that the virus did not originate from Spain. The first reported case of this strain of the influenza virus can be traced to a military base in Kansas in the United States in March 1918.&nbsp; However, news about the high infection rate of the influenza virus was suppressed in the countries that constituted the Allied Powers during World War I (1914–18), including the United States.[^3]
 
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_volunteers.png" style="width: 80%;">
+
+<div style="background-color: white;">Red Cross volunteers making white gauze face masks, which became mandatory in many public situations in the United States during the 1918 influenza pandemic. Mask-wearing was, however, not mandatory in Singapore at the time.  <i>From Shawshots/Alamy.</i></div>
+
+
 In contrast, there was relatively greater freedom of the press in Spain during the war as it remained neutral. Consequently, the virus took on the name “Spanish flu” because Spain was one of the few countries that reported it.[^4]
 
 #### **A Colony in Crisis**
@@ -65,6 +70,12 @@ Among the Chinese, there was a general resistance to Western medicine and the ed
 The Municipal Commission published notices advising infected patients to self-isolate, which the Singapore Chinese Chamber of Commerce translated into Chinese. However, the framing of these precautions through the lens of Western medicine alienated the Chinese. Consequently, the Chinese sought alternative cures such as a mixture of boiled pumpkins, potatoes and coriander leaves, which became so popular that the price of potatoes rose due to the surge in demand. Many Chinese coolies, who lived mainly in cramped and poorly ventilated shophouses, also succumbed to the virus as the unsanitary living conditions enabled it to spread more easily.[^27]
 
 Businesses were also heavily disrupted in Singapore. “Work in Government offices and in mercantile firms is being handicapped through a shortage of assistants, especially the Chinese,” reported the _Pinang Gazette and Straits Chronicle_ on 5 July 1918. As the first wave of the influenza epidemic took its toll, the Post Office put up a notice that it was “necessary to curtail somewhat the postal deliveries in town and suburban areas” and “there will, unfortunately, be some delays” due to “a great deal of sickness among the postal employees”. Similarly, there was a “disturbance \[to the\] normal efficiency” of telephone services as the epidemic had “hit the staff of the Telephone Company very hard”. Socialising became a challenge as well because interactions inadvertently risked the transmission of the virus.[^28]
+
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_article.png" style="width: 80%;">
+
+<div style="background-color: white;">An article in the <i>Pinang Gazette and Straits Chronicle</i> emphasising the unprecedented severity of the 1918 influenza pandemic in Singapore <i>Image reproduced from “Illness in Singapore,” Pinang Gazette and Straits Chronicle, 5 July 1918, 3. (From NewspaperSG).</i></div>
+
+
 
 Perhaps most sobering of all were accounts that corpses on the street and funerals had become a part of everyday life in Singapore during the pandemic.[^29] Obituaries dedicated to individuals who had lost their lives to influenza became common.
 
