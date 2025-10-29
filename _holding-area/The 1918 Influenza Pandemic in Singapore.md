@@ -7,6 +7,11 @@ description: ""
 #### When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.  
 By Sean Hoh
 
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_main.png" style="width: 80%;">
+
+<div style="background-color: white;">A second-class ward in the Singapore General Hospital, 1926. During the 1918 influenza pandemic, 12 of the 19 nurses at the hospital fell ill concurrently, causing a severe staffing shortage.  <i> Lee Kip Lin Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005123 - 0081).</i></div>
+
+
 "Illness in Singapore”. “The Mysterious Malady”. “Disease Gradually Spreading in Singapore”. These are not newspaper reports on the Covid-19 pandemic in 2020. Instead, these are headlines that appeared over a century ago in local newspapers about the influenza pandemic, which gripped Singapore and the world in 1918.[^1]
 
 Between 1918 and 1919, the world was besieged by an influenza pandemic so deadly that&nbsp; approximately 1 in 20 died from the pandemic within the first two years. The illness affected more than 500 million people out of an estimated 1.8 billion world population.[^2]
