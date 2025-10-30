@@ -5,6 +5,7 @@ description: The Alhambra and Marlborough theatres were famous landmarks in
   pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind
   the curtain.
 image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
+variant: markdown
 ---
 #### The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
@@ -39,7 +40,7 @@ Tan believed in upgrading his cinemas. In 1918, the *Singapore Free Press and Me
 <div style="background-color: white;"> Shows screened at the Marlborough in August 1909, before the introduction of “talkies” (films with sound). <i>Image reproduced from “Page 8 Advertisements Column 3,” Straits Times, 17 August 1909, 8. (From NewspaperSG).
 </i></div>
 
-In order to accommodate “talkies” (films with sound), which were replacing silent films, Tan reportedly spent $100,000 on alterations and renovations on the Alhambra in 1930. These included insulation on the main ceiling and under the balcony, new upholstered arm seats and an increase in capacity from 800 to 1,200. Tan also announced that the Alhambra had secured screening rights from four well-known movie companies – Goldwyn-Mayer, United Artists, Fox Film Corporation and Warner Brothers – for their “sound-film productions”, and that the cinema would reopen with a “talkie” screened every night, including Sundays. In November 1930, the management of the Alhambra announced a $250,000-agreement with Fox for its productions to be shown at the Alhambra from 1931–32.[^16]
+In order to accommodate “talkies” (films with sound), which were replacing silent films, Tan reportedly spent $100,000 on alterations and renovations on the Alhambra in 1930. These included insulation on the main ceiling and under the balcony, new upholstered arm seats and an increase in capacity from 800 to 1,200. Tan also announced that the Alhambra had secured screening rights from four well-known movie companies – Metro-Goldwyn-Mayer – for their “sound-film productions”, and that the cinema would reopen with a “talkie” screened every night, including Sundays. In November 1930, the management of the Alhambra announced a $250,000-agreement with Fox for its productions to be shown at the Alhambra from 1931–32.[^16]
 
 ![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/alhambra-talkie-ad.png)
 <div style="background-color: white;"> The Alhambra was the first cinema in Singapore to screen “talkies”, or films with sound. The first talkie was <i>The Rainbow Man</i>. The public was lured by the promise of “the most perfect of all sound reproduction”. <i>Image reproduced from “Page 6 Advertisements Column 2,” Malaya Tribune, 5 November 1929, 6. (From NewspaperSG).</i></div>
