@@ -7,11 +7,21 @@ description: ""
 #### When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.  
 By Sean Hoh
 
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_main.png" style="width: 80%;">
+
+<div style="background-color: white;">A second-class ward in the Singapore General Hospital, 1926. During the 1918 influenza pandemic, 12 of the 19 nurses at the hospital fell ill concurrently, causing a severe staffing shortage.  <i> Lee Kip Lin Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005123 - 0081).</i></div>
+
+
 "Illness in Singapore”. “The Mysterious Malady”. “Disease Gradually Spreading in Singapore”. These are not newspaper reports on the Covid-19 pandemic in 2020. Instead, these are headlines that appeared over a century ago in local newspapers about the influenza pandemic, which gripped Singapore and the world in 1918.[^1]
 
 Between 1918 and 1919, the world was besieged by an influenza pandemic so deadly that&nbsp; approximately 1 in 20 died from the pandemic within the first two years. The illness affected more than 500 million people out of an estimated 1.8 billion world population.[^2]
 
 The disease was commonly known as the “Spanish flu”, although this term is a misnomer given that the virus did not originate from Spain. The first reported case of this strain of the influenza virus can be traced to a military base in Kansas in the United States in March 1918.&nbsp; However, news about the high infection rate of the influenza virus was suppressed in the countries that constituted the Allied Powers during World War I (1914–18), including the United States.[^3]
+
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_volunteers.png" style="width: 80%;">
+
+<div style="background-color: white;">Red Cross volunteers making white gauze face masks, which became mandatory in many public situations in the United States during the 1918 influenza pandemic. Mask-wearing was, however, not mandatory in Singapore at the time.  <i>From Shawshots/Alamy.</i></div>
+
 
 In contrast, there was relatively greater freedom of the press in Spain during the war as it remained neutral. Consequently, the virus took on the name “Spanish flu” because Spain was one of the few countries that reported it.[^4]
 
@@ -25,7 +35,7 @@ One of the key reasons for the swift transmission of the influenza virus across 
 
 This oversight can perhaps be attributed to a lack of understanding about the influenza virus at the time as well as the fact that the British were preoccupied with World War I. The colonial administration, therefore, missed early signs of the outbreak, which allowed the virus to spread rapidly throughout Singapore. Indeed, this ignorance about the virus in 1918 led to ineffectual governance. To address the outbreak, the Municipal Health Officer had suggested that patients simply rest in bed until they recovered.[^10]
 
-As the virus outbreak grew increasingly severe, there was a growing understanding of the virus, albeit on a limited scale. An article in the Chinese newspaper _Lat Pau_ (Le Bao; 叻傶) on 30 October 1918 warned against panic and the risk of misdiagnoses driven by fear of the influenza virus. By November 1918, the Royal College of Physicians in London publicly acknowledged that the virus was poorly understood and that no cure existed – a statement that was subsequently published in Singapore by the Municipal Commission.[^11]
+As the virus outbreak grew increasingly severe, there was a growing understanding of the virus, albeit on a limited scale. An article in the Chinese newspaper _Lat Pau_ (Le Bao; 叻報) on 30 October 1918 warned against panic and the risk of misdiagnoses driven by fear of the influenza virus. By November 1918, the Royal College of Physicians in London publicly acknowledged that the virus was poorly understood and that no cure existed – a statement that was subsequently published in Singapore by the Municipal Commission.[^11]
 
 The unpreparedness of the colonial administration can also be seen in the disruptive impact that the pandemic had on Singapore’s healthcare centres: many hospitals and clinics were overwhelmed by the sheer number of infected patients who needed medical attention. For example, Tan Tock Seng Hospital had to hire six additional dressers to help staff manage the sudden surge in patients during the first wave of the pandemic.[^12]
 
@@ -47,6 +57,12 @@ In November 1919, the colonial administration introduced more stringent measures
 
 The pandemic was a time of worry, frustration and confusion for many who resided in Singapore. From their perspective, the colonial administration’s actions appeared to be lacking and they shared their views in the local newspapers. On 24 October 1918, a reader of the _Straits Times_, who went by the pseudonym, “A Patient Sufferer”, wrote: “Would you kindly permit me… to draw the attention of our City Fathers to the present disgraceful condition of the River Valley and Oxley Roads. The dust being allowed to accumulate on them is several inches deep.” He added: “\[W\]hen the Spanish ‘Flu’ is making such heavy inroads on the health of our population, the consequences arising by the air being thickened by the germ-producing dust are so potent that it is not necessary to over-draw the picture.”[^20]
 
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_street.png" style="width: 80%;">
+
+<div style="background-color: white;">
+View of Hill Street from the junction of River Valley Road and Hill Street, c. 1920. Letters to the <i>Straits Times</i> included complaints about the dusty conditions of River Valley Road during the 1918 influenza pandemic. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980006552 - 0104). </i></div>
+
+
 Two days later, another reader who used the moniker, “Another Sufferer”, added his comments to the earlier letter. “May I add my quota to the remarks of ‘Patient Sufferer’ on the hideously dusty condition of River Valley and Oxley roads. I do not think these roads have been watered this year – except by rain. They are of laterite or laterite mixed, and the clouds of dust are appalling, and daily one may see a diligent road-sweeper sweeping up clouds of this dust which pours into the houses alongside.”[^21]
 
 Another cause for concern among the people was that public spaces in Singapore could facilitate the spread of the influenza virus (places that we now refer to as “virus hotspots”). On 17 October 1918, a _Straits Times_ reader questioned why the colonial administration had not closed schools in Singapore and asserted that the administration should be proactive in closing schools instead of waiting for cases to be reported among students before reacting.&nbsp;
@@ -61,6 +77,12 @@ The Municipal Commission published notices advising infected patients to self-is
 
 Businesses were also heavily disrupted in Singapore. “Work in Government offices and in mercantile firms is being handicapped through a shortage of assistants, especially the Chinese,” reported the _Pinang Gazette and Straits Chronicle_ on 5 July 1918. As the first wave of the influenza epidemic took its toll, the Post Office put up a notice that it was “necessary to curtail somewhat the postal deliveries in town and suburban areas” and “there will, unfortunately, be some delays” due to “a great deal of sickness among the postal employees”. Similarly, there was a “disturbance \[to the\] normal efficiency” of telephone services as the epidemic had “hit the staff of the Telephone Company very hard”. Socialising became a challenge as well because interactions inadvertently risked the transmission of the virus.[^28]
 
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_article.png" style="width: 80%;">
+
+<div style="background-color: white;">An article in the <i>Pinang Gazette and Straits Chronicle</i> emphasising the unprecedented severity of the 1918 influenza pandemic in Singapore. <i>Image reproduced from “Illness in Singapore,” Pinang Gazette and Straits Chronicle, 5 July 1918, 3. (From NewspaperSG).</i></div>
+
+
+
 Perhaps most sobering of all were accounts that corpses on the street and funerals had become a part of everyday life in Singapore during the pandemic.[^29] Obituaries dedicated to individuals who had lost their lives to influenza became common.
 
 #### **The Pandemic and Falsehoods&nbsp;**
@@ -70,6 +92,12 @@ The chaos of the pandemic was exacerbated by misinformation and disinformation t
 An article in the _Straits Times_ on 18 June 1918 linked the virus outbreak to “the irregularity of the weather”.[^30] On 27 July 1918, another article blamed the viral outbreak on the durian: “It is said that the illness is brought about by eating ‘durian’ fruit, but, strangely enough, it does not appear to affect Chinese or Malays.”[^31]
 
 Opportunistic companies took advantage of the widespread fear and uncertainty among the people to frame their products as cures for symptoms of influenza and related illnesses in newspaper advertisements. Prior to the pandemic, Veno’s Lightning Cough Cure had only been marketed as a remedy for coughs. However, an advertisement in the _Singapore Free Press and Mercantile Advertiser_ on 6 November 1918 proclaimed that “Veno’s Lightning Cough Cure Checks Influenza at the outset”.[^32]
+
+<img src="/images/Vol%2021%20Issue%204/Flu/Flu_ads.png" style="width: 60%;">
+
+<div style="background-color: white;">
+Veno’s Lightning Cough Cure was advertised as a remedy that could “[check] Influenza at the outset”. This marketing tactic leveraged people’s desperation to find a cure for influenza. <i>Image reproduced from Singapore Free Press and Mercantile Advertiser, 6 November 1918, 7. (From NewspaperSG).</i></div>
+
 
 #### **Remembering the “Forgotten Pandemic”**
 
@@ -97,7 +125,7 @@ While the 1918 influenza pandemic was met with uncertainty and unpreparedness, t
 [^2]: Kenny Abdo, _[Spanish Flu](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205601058)_ (Minnesota: Abdo Zoom, 2021), 19. (From National Library Singapore, call no. RSEA 614.5 ABD); John M. Berry, _[The Great Influenza: The Story of the Deadliest Pandemic in History](https://nlb.overdrive.com/media/E3D31ED3-304D-4665-8E18-F305ADF37A07)_ (New York: Penguin Books, 2005), 397. (From NLB OverDrive)&nbsp;
 
 
-[^3]: Antoni Trilla, Guillem Trilla and Carolyn Daer, “The 1918 ‘Spanish Flu’ in Spain,” _Clinical Infectious Diseases_ 47, no. 5 (September 2008): 668. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); National Library Board, “[The Spanish Flu]((https://reference.nlb.gov.sg/guides/sci-tech/sciences/spanish-flu/)),” last updated 29 July 2025. (From Reference@NLB); Michael A. Vance, “Disease Mongering and the Fear of Pandemic Influenza,” _International Journal of Health Services_ 41, no. 1 (2011): 102. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^3]: Antoni Trilla, Guillem Trilla and Carolyn Daer, “The 1918 ‘Spanish Flu’ in Spain,” _Clinical Infectious Diseases_ 47, no. 5 (September 2008): 668. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); National Library Board, “[The Spanish Flu](https://reference.nlb.gov.sg/guides/sci-tech/sciences/spanish-flu/),” last updated 29 July 2025. (From Reference@NLB); Michael A. Vance, “Disease Mongering and the Fear of Pandemic Influenza,” _International Journal of Health Services_ 41, no. 1 (2011): 102. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 
 [^4]: Trilla, Trilla and Daer, “The 1918 ‘Spanish Flu’ in Spain,” 668–69; Abdo, _[Spanish Flu](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205601058)_, 14.
