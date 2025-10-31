@@ -51,7 +51,7 @@ The infected were advised to self-isolate, while the public was cautioned to avo
 
 Gradually, after the introduction of these measures, the pandemic subsided in Singapore. While the second wave was severe, it did not persist over an extended duration. According to newspaper reports, many previously infected individuals had returned to work by 28 October 1918. And by the following month, the pandemic was over in Singapore. In fact, Singapore somehow managed to evade a third wave of the influenza, which had spread to most temperate countries by early 1919.[^18]
 
-In November 1919, the colonial administration introduced more stringent measures to better prepare for another pandemic. For instance, an amendment to the Quarantine and Prevention of Disease Ordinance (Ordinance 34 of 1919) states:&nbsp; “The Health Officer of the district may detain any person who is found… to be suffering from an infectious disease… until such a time as the disease is no longer communicable to other people.” Evidently, the 1918 pandemic had cast a dark shadow over Singapore’s early medical history.[^19]
+In November 1919, the colonial administration introduced more stringent measures to better prepare for another pandemic. For instance, an amendment to the Quarantine and Prevention of Disease Ordinance (Ordinance 34 of 1919)&nbsp;stated that “the&nbsp;Health Officer of the district may detain any person who is found… to be suffering from an infectious disease… until such a time as the disease is no longer communicable to other people”. Evidently, the 1918 pandemic had cast a dark shadow over Singapore’s early medical history.[^19]
 
 #### **Living with the Pandemic**
 
@@ -190,7 +190,7 @@ While the 1918 influenza pandemic was met with uncertainty and unpreparedness, t
 [^23]: “[The Influenza Epidemic](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19181022-1.2.42),” _Straits Times_, 22 October 1918, 7. (From NewspaperSG)
 
 
-[^24]: “[The Influenza](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19181023-1.2.66),” _Straits Echo (Mail Edition)_, 23 October, 1918, 1630. (From NewspaperSG)
+[^24]: “[The Influenza](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19181023-1.2.66),” _Straits Echo (Mail Edition)_, 23 October 1918, 1630. (From NewspaperSG)
 
 
 [^25]: Liew, “Terribly Severe Though Mercifully Short,” 235–36, 251.
