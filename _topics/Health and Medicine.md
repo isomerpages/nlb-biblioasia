@@ -4,10 +4,11 @@ permalink: /topics/health-medicine/
 description: ""
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/vaccinating-nation"> Vaccinating a Nation</a>
-<p>The history of vaccination in Singapore goes back to the days of William Farquhar. Ong Eng Chuan provides an overview of vaccination efforts to prevent epidemics from breaking out here.</p> 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/">The 1918 Influenza Pandemic in Singapore</a>
 
-<img style="width: 100%;" src="/images/vol-17-issue-2/vaccination/Waitingtobevaccinated.jpg"> 
+<p>When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.</p> 
+
+<img style="width: 100%;" src="/images/Vol%2021%20Issue%204/Flu/Flu_main.png"> 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
