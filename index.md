@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/
-      button: "Hedwig Anuar: First Lady of the National Library"
+      url: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
+      button: My Mother, Hedwig Anuar
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Hedwig   First
-        Lady/HeroImage_HedwigFirstLady_2.jpg
+      background: /images/Vol 21 Issue 2/Hedwig/HeroImage_Hedwig.jpg
       variant: center
   - infopic:
       title: The Transoceanic Pollination of the Double Coconut
