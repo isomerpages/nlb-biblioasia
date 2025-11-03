@@ -1,9 +1,16 @@
 ---
-title: Medicine
-permalink: /topics/medicine/
+title: Health and Medicine
+permalink: /topics/health-medicine/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/">The 1918 Influenza Pandemic in Singapore</a>
+
+<p>When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.</p> 
+
+<img style="width: 100%;" src="/images/Vol%2021%20Issue%204/Flu/Flu_main.png"> 
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
 
 As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
@@ -94,6 +101,3 @@ Traditional Chinese medicine in Singapore has a history that goes back to more t
 
 <img style="width:80%;" src="/images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg">
 <hr>
-
-
-
