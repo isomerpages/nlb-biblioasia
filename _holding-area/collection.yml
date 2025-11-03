@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - The 1918 Influenza Pandemic in Singapore.md
       - Sample article.md
