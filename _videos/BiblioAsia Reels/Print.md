@@ -5,6 +5,18 @@ variant: markdown
 description: ""
 third_nav_title: BiblioAsia Reels
 ---
+#### <b>Gems in the Singapore Hokkien Huay Kuan Collection</b>
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/6wJcqcSoNcA" frameborder="0" allowfullscreen=""></iframe></div>
+
+An 1838 land title deed for a plot of land on Telok Ayer Street bears the signature of pioneer businessman Tan Tock Seng.
+
+<b>Related articles</b><br>
+
+* <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/">The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information</a><br>
+
+<hr>
+
 #### <b>Early Malay Comics</b>
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/Pr1eklZNrB4" frameborder="0" allowfullscreen=""></iframe></div>
