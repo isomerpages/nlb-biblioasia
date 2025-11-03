@@ -8,6 +8,12 @@ variant: tiptap
 <h3><strong>A Reel-ly Good Story: History in Five Minutes</strong></h3>
 <p><em>BiblioAsia Reels</em> turns a <em>BiblioAsia</em> story into a short
 video. Take five to learn interesting things about Singapore history.</p>
+<h4><strong>Gems in the Singapore Hokkien Huay Kuan Collection</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6wJcqcSoNcA"></iframe>
+</div>
+<p>An 1838 land title deed for a plot of land on Telok Ayer Street bears
+the signature of pioneer businessman Tan Tock Seng.</p>
 <h4><strong>Newly Discovered Photos from Liu Kang’s 1952 Bali Trip</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/N6-mH2P16B8"></iframe>
