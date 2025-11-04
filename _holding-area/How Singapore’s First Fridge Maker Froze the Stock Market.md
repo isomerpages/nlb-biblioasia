@@ -18,7 +18,7 @@ Pan-El had earlier raised funds through a loan stock issue to finance its expans
 
 On 18 November, Pan-El defaulted on an instalment payment of $7.5 million of a $75 million bank loan. The company then requested a trading suspension of their shares on both the SES and Kuala Lumpur Stock Exchange on 19 November. On 21 November, as Pan-El announced finalised plans for a rights issue to raise $80 to 95 million, it was discovered that the company had borrowed $453 million from 35 banks, of which $283 million was unsecured.4 Banks immediately stopped giving credit to Pan-El as well as to brokers dealing in the company and its subsidiaries.5
 
-Mounting Debts and Payment Defaults
+#### **Mounting Debts and Payment Defaults**
 
 It was subsequently revealed that Pan-El and its subsidiaries had entered into $160 million worth of forward contracts (buying or selling shares at an agreed price in the present on a specified date in the future), with $140 million in Supreme Corporation Berhad and Grand United Holdings Berhad, and had paid out a $40 million deposit.6
 
@@ -32,7 +32,7 @@ It also emerged that banks had lent to stockbroking companies that “were heavi
 
 Rescue negotiations to save Pan-El failed and the company went into receivership on 30 November 1985 (receivership is when a bank or other financial institution appoints a receiver to manage the company’s assets and recover funds). The banks appointed Price Waterhouse as receivers to provide “orderliness and sound financial management as well as to examine the long-term viability” of Pan-El.11 
 
-A Stock Market Crisis
+#### **A Stock Market Crisis**
 
 To prevent the widespread panic selling of Pan-El shares and further losses by the brokerages as well as to gain time to come up with a solution to the risks faced by the stockbroking industry, the committee of SES – after consultation with the Monetary Authority of Singapore (MAS), DBS Bank, Oversea-Chinese Banking Corporation, Overseas Union Bank and United Overseas Bank (the Big Four banks in Singapore) – made the decision to close the SES and suspend trading from 2 to 4 December 1985. “It is to cool off the market and for the public to digest the news (of receivers being appointed at Pan-El),” said SES chairman Ong Tjin An. (Trading on the Kuala Lumpur Stock Exchange was also suspended.)12
 
@@ -46,7 +46,7 @@ Pan-El’s collapse also affected employees financially and emotionally. “We a
 
 Over at Pan-El, a number of men cried. “Some of them have wives who do not work, with children still at school and other commitments,” said an employee who had been working in Pan-El for 15 years. She was more concerned for her older colleagues. “They don’t have the paper qualifications the younger people have. They will be hard hit when they go out to look for a job.”17
 
-Lifeboat Fund and New Legislation
+#### **Lifeboat Fund and New Legislation**
 
 To address short-term liquidity problems and restore public confidence, a $180 million lifeboat fund was announced on 3 December and established as a credit line from the Big Four local banks to stockbroking firms affected by the Pan-El crisis.18
 
@@ -58,7 +58,7 @@ Tan Koon Swan was arrested on 21 January 1986 and jailed for two years while Tan
 
 Additionally, Singapore’s securities regulatory framework was tightened, leading to the new Securities Industry Act 1986 which took effect on 18 August, repealing the earlier 1973 act. The new legislation and the accompanying regulations gave the MAS greater control over the management of the securities industry. Corporate governance standards, which were not as developed as today, were raised and acknowledged as “crucial and fundamental” in the running of a company.22
 
-A Domestic Refrigerator Industry
+#### **A Domestic Refrigerator Industry**
 
 Today, Pan-El is best known for causing the closure of the Singapore and Kuala Lumpur stock exchanges. Less well known is the fact that Pan-El was, at one point, one of Southeast Asia’s biggest electrical, engineering, marine supplies and salvaging companies. 
 
@@ -70,7 +70,7 @@ Refrigerators were uncommon in most Singapore homes before the war, with fewer t
 
 At the time, most household refrigerators came from the United States or the United Kingdom, while some were from European countries like France. Climate Engineering Pte Ltd was one local company that imported French-manufactured refrigerators into Singapore.26 
 
-Origins of Pan-El
+#### **Origins of Pan-El**
 
 Formed in 1956, Climate Engineering was a subsidiary of import and export company Metal Agencies Ltd. established in 1954 by the Berlin-born Ernest E. Kahlenberg who came to Singapore at Alan Waugh’s invitation. The latter was the son of Henry Waugh of Henry Waugh Ltd., which was later acquired by Jardine Matheson & Co Ltd.27
 
@@ -94,7 +94,7 @@ By the time of its public listing in August 1968, Pan-El was already “one of S
 
 In 1969, the company presented its 50,000th unit to the Singapore government. It was also awarded the largest contract from Australia worth $694,000 for 1,500 refrigerators.39
 
-The Boom Years
+#### **The Boom Years**
 
 As more Singaporeans moved into high-rise apartments, the demand for modern home appliances grew, with refrigerators becoming one of the most sought-after appliances in the 1970s. This boom was reflected in Pan-El’s production milestones. In 1972, after less than a decade in operation, the company presented its 100,000th unit to the Singapore Boys’ Home.40  
 
