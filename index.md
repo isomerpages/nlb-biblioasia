@@ -977,4 +977,14 @@ sections:
       url: /vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/
       image: /images/Vol 21 Issue 4/Mass Weddings/mass_wedding_topics.jpg
       alt: Mass Weddings in Singapore
+  - infopic:
+      title: Please Fasten Your Seat Belts
+      subtitle: Governance
+      id: infopic
+      description: How crash tests, mangled cars and grieving families drove
+        Singapore’s battle to protect motorists’ lives.
+      button: Seat Belt Shenanigans
+      url: /vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/
+      image: /images/Vol 21 Issue 4/Seatbelts/Seatbelt_drivers.png
+      alt: Please Fasten Your Seat Belts
 ---
