@@ -976,5 +976,5 @@ sections:
       button: We Do!
       url: /vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/
       image: /images/Vol 21 Issue 4/Mass Weddings/mass_wedding_topics.jpg
-      alt: Image alt text
+      alt: Mass Weddings in Singapore
 ---
