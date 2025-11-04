@@ -987,4 +987,14 @@ sections:
       url: /vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/
       image: /images/Vol 21 Issue 4/Seatbelts/Seatbelt_drivers.png
       alt: Please Fasten Your Seat Belts
+  - infopic:
+      title: The 1918 Influenza Pandemic in Singapore
+      subtitle: Health and Medicine
+      id: infopic
+      description: When influenza hit Singapore in 1918, many were sickened, hospitals
+        were overwhelmed and everyday life was disrupted.
+      button: THE “FORGOTTEN PANDEMIC”
+      url: /vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/
+      image: /images/Vol 21 Issue 4/Flu/Flu_main.png
+      alt: 1918 Flu Pandemic in Singapore
 ---
