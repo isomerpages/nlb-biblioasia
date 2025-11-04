@@ -956,4 +956,15 @@ sections:
       url: https://www.youtube.com/watch?v=6wJcqcSoNcA
       image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels___Old_Title_deed.jpg"
       alt: Singapore Hokkien Huay Kuan
+  - infopic:
+      title: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
+      subtitle: Women
+      id: infopic
+      description: One of Singapore’s first women philanthropists, Mrs Lee, née Tan
+        Teck Neo, supported a wide range of charities.
+      button: A WOMAN AHEAD OF HER TIME
+      url: /vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/
+      image: /images/Vol 21 Issue 4/A Pioneering
+        Philanthropist/Philianthropist_races_Topics.jpg
+      alt: A Pioneering Philanthropist
 ---
