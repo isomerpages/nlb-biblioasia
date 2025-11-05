@@ -126,13 +126,13 @@ Although the stock market eventually recovered, the same could not be said for t
 
 #### **Notes**
 
-[^1]: “SES Suspends All Share Trading,” _Business Times_, 2 December 1985, 1. (From NewspaperSG)
+[^1]: “[SES Suspends All Share Trading](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851202-1.2.3),” _Business Times_, 2 December 1985, 1. (From NewspaperSG)
 
 
-[^2]: “SES Suspends All Share Trading.”
+[^2]: “[SES Suspends All Share Trading](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851202-1.2.3).”
 
 
-[^3]: Chan Oi Chee, “Pan-El Plans to Raise $100m Through a Loan Stock Issue,” _Business Times_, 22 July 1985, 15; “Pan-El Group Incurs a Net Loss of $5.5 M,” _Business Times_, 30 September 1985, 1. (From NewspaperSG)
+[^3]: Chan Oi Chee, “[Pan-El Plans to Raise $100m Through a Loan Stock Issue](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19850722-1.2.32.3),” _Business Times_, 22 July 1985, 15; “[Pan-El Group Incurs a Net Loss of $5.5 M](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19850930-1.2.2),” _Business Times_, 30 September 1985, 1. (From NewspaperSG)
 
 
 [^4]: Mimi Ho, et al., _Case Study on Pan Electric Crisis_, MAS Staff Paper No. 32 (Singapore: Monetary Authority of Singapore, 2004), 11, Monetary Authority of Singapore, https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004; Catherine C. Ong, “How Trouble Started – and the Small Man Got Hurt,” _Straits Times,_ 8 December 1985, 11; “Bankers Tell Why Talks Collapsed,” _Straits Times_, 1 December 1985, 12. (From NewspaperSG)
