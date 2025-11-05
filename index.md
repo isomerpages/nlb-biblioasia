@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Hedwig/HeroImage_Hedwig.jpg
       variant: center
   - infopic:
+      title: Gems in the Singapore Hokkien Huay Kuan Collection
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: An 1838 land title deed for a plot of land on Telok Ayer Street
+        bears the signature of pioneer businessman Tan Tock Seng.
+      button: WATCH THE VIDEO
+      url: https://www.youtube.com/watch?v=6wJcqcSoNcA
+      image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels___Old_Title_deed.jpg"
+      alt: Singapore Hokkien Huay Kuan
+  - infopic:
       title: The Transoceanic Pollination of the Double Coconut
       subtitle: Nature and the Environment
       id: infopic
@@ -946,16 +956,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Gems in the Singapore Hokkien Huay Kuan Collection
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: An 1838 land title deed for a plot of land on Telok Ayer Street
-        bears the signature of pioneer businessman Tan Tock Seng.
-      button: WATCH THE VIDEO
-      url: https://www.youtube.com/watch?v=6wJcqcSoNcA
-      image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels___Old_Title_deed.jpg"
-      alt: Singapore Hokkien Huay Kuan
   - infopic:
       title: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
       subtitle: Women
