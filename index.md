@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 2/Hedwig/HeroImage_Hedwig.jpg
       variant: center
   - infopic:
+      title: Gems in the Singapore Hokkien Huay Kuan Collection
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: An 1838 land title deed for a plot of land on Telok Ayer Street
+        bears the signature of pioneer businessman Tan Tock Seng.
+      button: WATCH THE VIDEO
+      url: https://www.youtube.com/watch?v=6wJcqcSoNcA
+      image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels___Old_Title_deed.jpg"
+      alt: Singapore Hokkien Huay Kuan
+  - infopic:
       title: The Transoceanic Pollination of the Double Coconut
       subtitle: Nature and the Environment
       id: infopic
@@ -946,4 +956,45 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
+  - infopic:
+      title: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
+      subtitle: Women
+      id: infopic
+      description: One of Singapore’s first women philanthropists, Mrs Lee, née Tan
+        Teck Neo, supported a wide range of charities.
+      button: A WOMAN AHEAD OF HER TIME
+      url: /vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/
+      image: /images/Vol 21 Issue 4/A Pioneering
+        Philanthropist/Philianthropist_races_Topics.jpg
+      alt: A Pioneering Philanthropist
+  - infopic:
+      title: "“We Do”: Mass Weddings in Singapore"
+      subtitle: Culture
+      id: infopic
+      description: Initially inspired by the “New Life Movement” in China, couples in
+        Singapore would opt for mass weddings to save money.
+      button: We Do!
+      url: /vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/
+      image: /images/Vol 21 Issue 4/Mass Weddings/mass_wedding_topics.jpg
+      alt: Mass Weddings in Singapore
+  - infopic:
+      title: Please Fasten Your Seat Belts
+      subtitle: Governance
+      id: infopic
+      description: How crash tests, mangled cars and grieving families drove
+        Singapore’s battle to protect motorists’ lives.
+      button: Seat Belt Shenanigans
+      url: /vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/
+      image: /images/Vol 21 Issue 4/Seatbelts/Seatbelt_drivers.png
+      alt: Please Fasten Your Seat Belts
+  - infopic:
+      title: The 1918 Influenza Pandemic in Singapore
+      subtitle: Health and Medicine
+      id: infopic
+      description: When influenza hit Singapore in 1918, many were sickened, hospitals
+        were overwhelmed and everyday life was disrupted.
+      button: THE “FORGOTTEN PANDEMIC”
+      url: /vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/
+      image: /images/Vol 21 Issue 4/Flu/Flu_main.png
+      alt: 1918 Flu Pandemic in Singapore
 ---
