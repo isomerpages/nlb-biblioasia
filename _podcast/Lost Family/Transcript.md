@@ -516,9 +516,9 @@ Asia?&nbsp;</p>
 <p>I think another very important source has been for me the families and,
 you know, actually the people who have been part of the story, and at the
 end of the day, I think I have about 15 connections to 15, 15 different
-people. I’ve mentioned that there are also about 80 <a rel="noopener noreferrer nofollow" target="_blank">Bata men</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[RW1]</a>&nbsp;. So I’ve covered maybe 20 percent of them actually through
-personal connections now.&nbsp;</p>
+people. I’ve mentioned that there are also about 80 <a rel="noopener noreferrer nofollow" target="_blank">Bata men</a>.
+So I’ve covered maybe 20 percent of them actually through personal connections
+now.&nbsp;</p>
 <p>And that helped me to get, you know, personal correspondences, letters,
 diaries. And that’s also why the book is not only describing Silvestr,
 but you know, all the other people, because from Silvestr himself, I don’t
