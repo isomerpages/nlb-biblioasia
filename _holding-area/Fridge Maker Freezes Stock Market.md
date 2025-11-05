@@ -129,7 +129,7 @@ Under new management, Pan-El pursued opportunities in the hotel and property sec
 
 As the first domestic fridge maker in 1965, Pan-El had contributed to Singapore’s economic progress during its nation-building years. At the time of its collapse in 1985, Pan-El was a large investment holding company with no fewer than 60 subsidiaries and 10 associate companies.[^49]
 
-<img src="/images/Vol%2021%20Issue%204/PanEl/panel_ad.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_ad1.png" style="width: 80%;">
 
 <div style="background-color: white;">A 1974 Pan-Electric advertisement for its new range of Permadoor refrigerators that were built with rust-proof, scratch-resistant and easy-to-clean materials. The refrigerators also came in a range of colours. <i>Source: The Straits Annual, 1 January 1974, 150–51 © SPH Media Limited. Permission required for reproduction. </i></div>
 
