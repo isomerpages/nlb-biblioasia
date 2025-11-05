@@ -150,131 +150,131 @@ Although the stock market eventually recovered, the same could not be said for t
 [^8]: Conrad Raj, “[Rescue Plan for Pan-El](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851122-1.2.7),” _Straits Times_, 22 November 1985, 1; Conrad Raj, “[Pan-E’s Rescue Plan Questioned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851128-1.2.51.2),” _Straits Times_, 28 November 1985, 23. (From NewspaperSG)
 
 
-[^9]: Ho, et al., _Case Study on Pan Electric Crisis_, 9–10; Glenn Knight, _The Prosecutor_ (Singapore: Marshall Cavendish Editions, 2012), 158. (From National Library Singapore, call no. RSING 345.01262095957 KNI)
+[^9]: Ho, et al., _Case Study on Pan Electric Crisis_, 9–10; Glenn Knight, [_The Prosecutor_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14403979) (Singapore: Marshall Cavendish Editions, 2012), 158. (From National Library Singapore, call no. RSING 345.01262095957 KNI)
 
 
-[^10]: “Excessive Trading Caused the Crisis: Dr Richard Hu’s Ministerial Statement on the Pan-El Affair,” _Straits Times_, 11 January 1986, 17. (From NewspaperSG)
+[^10]: “[Excessive Trading Caused the Crisis: Dr Richard Hu’s Ministerial Statement on the Pan-El Affair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860111-1.2.28.23),” _Straits Times_, 11 January 1986, 17. (From NewspaperSG)
 
 
 
-[^11]: Ho, et al., _Case Study on Pan Electric Crisis_, 11; Ong, “How Trouble Started – and the Small Man Got Hurt”; Conraj Raj, “Pan-El Rescue Plan Fails, Receivers Take Over,” _Straits Times_, 1 December 1985, 1. (From NewspaperSG)
+[^11]: Ho, et al., _Case Study on Pan Electric Crisis_, 11; Ong, “[How Trouble Started – and the Small Man Got Hurt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851208-1.2.23.2)”; Conraj Raj, “[Pan-El Rescue Plan Fails, Receivers Take Over](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851201-1.2.2),” _Straits Times_, 1 December 1985, 1. (From NewspaperSG)
 
 
-[^12]: Ho, et al., _Case Study on Pan Electric Crisis_, ii-iii, 12, 29; Conraj Raj, “SES Suspends All Trading,” _Straits Times_, 2 December 1985, 1. (From NewspaperSG)
+[^12]: Ho, et al., _Case Study on Pan Electric Crisis_, ii-iii, 12, 29; Conraj Raj, “[SES Suspends All Trading](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851202-1.2.2),” _Straits Times_, 2 December 1985, 1. (From NewspaperSG)
 
 
-[^13]: Catherine C. Ong, “MAS Chief Fields the Queries on a Debacle,” _Straits Times_, 4 December 1985, 23; “Excessive Trading Caused the Crisis: Dr Richard Hu’s Ministerial Statement on the Pan-El Affair,” _Straits Times_, 11 January 1986, 17. (From NewspaperSG)
+[^13]: Catherine C. Ong, “[MAS Chief Fields the Queries on a Debacle](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851204-1.2.46.5),” _Straits Times_, 4 December 1985, 23; “[Excessive Trading Caused the Crisis: Dr Richard Hu’s Ministerial Statement on the Pan-El Affair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860111-1.2.28.23),” _Straits Times_, 11 January 1986, 17. (From NewspaperSG)
 
 
-[^14]: K.C. Vijayan, “Oldest Home-Grown Law Firm Turns 90,” _Straits Times_, 13 October 2008, 4. (From NewspaperSG); J.Y. Pillay, oral history interview by Irene Quah, 14 March 1995, transcript and MP3 audio, Reel/Disc of 13 of 16. National Archives of Singapore (accession no. 001583), 118.&nbsp;
+[^14]: K.C. Vijayan, “[Oldest Home-Grown Law Firm Turns 90](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20081013-1.2.11.4),” _Straits Times_, 13 October 2008, 4. (From NewspaperSG); J.Y. Pillay, oral history interview by Irene Quah, 14 March 1995, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/333453f9-115e-11e3-83d5-0050568939ad-OHC001583_013/web/html5/index.html) and MP3 audio, Reel/Disc of 13 of 16. National Archives of Singapore ([accession no. 001583](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001583)), 118.&nbsp;
 
 
 [^15]: Ho, et al., _Case Study on Pan Electric Crisis_, iii.
 
 
-[^16]: Salma Khalik, “We Are Sad, Angry and Upset,” _Straits Times_, 29 January 1986, 15. (From NewspaperSG)
+[^16]: Salma Khalik, “[We Are Sad, Angry and Upset](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860129-1.2.21.25),” _Straits Times_, 29 January 1986, 15. (From NewspaperSG)
 
 
-[^17]: Salma Khalik, “We Are Sad, Angry and Upset.”&nbsp;
+[^17]: Salma Khalik, “[We Are Sad, Angry and Upset](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860129-1.2.21.25).”&nbsp;
 
 
-[^18]: Ho, et al., _Case Study on Pan Electric Crisis_, 34; “Changes and Reforms After Pan-El,” _Business Times_, 29 August 1987, 8. (From NewspaperSG)
+[^18]: Ho, et al., _Case Study on Pan Electric Crisis_, 34; “[Changes and Reforms After Pan-El](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870829-1.2.23.3),” _Business Times_, 29 August 1987, 8. (From NewspaperSG)
 
 
-[^19]: Vijayan, “Oldest Home-Grown Law Firm Turns 90.”&nbsp;
+[^19]: Vijayan, “[Oldest Home-Grown Law Firm Turns 90](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20081013-1.2.11.4).”&nbsp;
 
 
-[^20]: “Excessive Trading Caused the Crisis.” &nbsp;
+[^20]: “[Excessive Trading Caused the Crisis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860111-1.2.28.23).” &nbsp;
 
 
 
-[^21]: “Changes and Reforms After Pan-El”; “Kok Liang a Free Man After Six Months in Jail,” _Business Times_, 18 November 1986, 1; Conrad Raj, “Tham Gets 8 Years for 36 Counts of Forgery,” _Straits Times_, 30 October 1986, 14. (From NewspaperSG)
+[^21]: “[Changes and Reforms After Pan-El](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870829-1.2.23.3)”; “[Kok Liang a Free Man After Six Months in Jail](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19861118-1.2.5),” _Business Times_, 18 November 1986, 1; Conrad Raj, “[Tham Gets 8 Years for 36 Counts of Forgery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19861030-1.2.24.25),” _Straits Times_, 30 October 1986, 14. (From NewspaperSG)
 
 
-[^22]: Ho, et al., _Case Study on Pan Electric Crisis_, i, 51; Loretta McLaughlan, “New Securities Industry Act Takes Effect Today,” _Business Times_, 18 August 1986, 1; Colin Ng, “What the Securities Industry Act Means to Those in the Industry,” _Business Times_, 15 July 1988, 51. (From NewspaperSG)
+[^22]: Ho, et al., _Case Study on Pan Electric Crisis_, i, 51; Loretta McLaughlan, “[New Securities Industry Act Takes Effect Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860818-1.2.6),” _Business Times_, 18 August 1986, 1; Colin Ng, “[What the Securities Industry Act Means to Those in the Industry](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19880715-1.2.67.20),” _Business Times_, 15 July 1988, 51. (From NewspaperSG)
 
 
-[^23]: Ong Leng Chuan, “Industrial Growth of Singapore,” _Eastern Sun_, 16 May 1968, 8. (From NewspaperSG)
+[^23]: Ong Leng Chuan, “[Industrial Growth of Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19680516-1.2.21),” _Eastern Sun_, 16 May 1968, 8. (From NewspaperSG)
 
 
-[^24]: Goh Keng Swee, “What Makes Our Republic Tick,” _New Nation_, 22 November 1972, 6. (From NewspaperSG)
+[^24]: Goh Keng Swee, “[What Makes Our Republic Tick](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19721122-1.2.30.1),” _New Nation_, 22 November 1972, 6. (From NewspaperSG)
 
 
-[^25]: “Big Demand for Refrigerators,” _Straits Times_, 14 March 1948, 7. (From NewspaperSG)
+[^25]: “[Big Demand for Refrigerators](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19480314-1.2.85),” _Straits Times_, 14 March 1948, 7. (From NewspaperSG)
 
 
-[^26]: Spenser Tan, “Common Market Needed for a Local Industry in This Field,” _Straits Times_, 12 December 1959, 8; “Popular Choice for Keeping Cool,” _Singapore Free Press_, 23 June 1960, 12. (From NewspaperSG)
+[^26]: Spenser Tan, “[Common Market Needed for a Local Industry in This Field](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19591212-1.2.149),” _Straits Times_, 12 December 1959, 8; “[Popular Choice for Keeping Cool](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600623-1.2.123.13),” _Singapore Free Press_, 23 June 1960, 12. (From NewspaperSG)
 
 
-[^27]: “Proof of the Power of the Small Local Investor,” _Straits Times_, 8 October 1961,12. (From NewspaperSG)
+[^27]: “[Proof of the Power of the Small Local Investor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611008-1.2.35.2),” _Straits Times_, 8 October 1961,12. (From NewspaperSG)
 
 
-[^28]: Anthony Oei, “Frimatic to Be Made Here,” _Straits Times_, 25 August 1961, 10. (From NewspaperSG)
+[^28]: Anthony Oei, “[Frimatic to Be Made Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19610825-1.2.99),” _Straits Times_, 25 August 1961, 10. (From NewspaperSG)
 
 
-[^29]: Najeeb Jarhom, “Salvaging Memories of Life With Pan El,” _Business Times_, 9 July 1983, 7; “He’s Impressed by Local Technical Men,” _Singapore Free Press_, 29 August 1961, 7. (From NewspaperSG); Oei, “Frimatic to Be Made Here.”&nbsp;
+[^29]: Najeeb Jarhom, “[Salvaging Memories of Life With Pan El](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19830709-1.2.23),” _Business Times_, 9 July 1983, 7; “[He’s Impressed by Local Technical Men](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19610829-1.2.78),” _Singapore Free Press_, 29 August 1961, 7. (From NewspaperSG); Oei, “[Frimatic to Be Made Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19610825-1.2.99).”&nbsp;
 
 
-[^30]: “Made in S’pore Fridge,” _Straits Times_, 6 October 1961, 5. (From NewspaperSG); Najeeb Jarhom, “Salvaging Memories of Life With Pan El.”&nbsp;
+[^30]: “[Made in S’pore Fridge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611006-1.2.39),” _Straits Times_, 6 October 1961, 5. (From NewspaperSG); Najeeb Jarhom, “[Salvaging Memories of Life With Pan El](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19830709-1.2.23).”&nbsp;
 
 
 
-[^31]: “Made in S’pore Fridge.”&nbsp;
+[^31]: “[Made in S’pore Fridge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611006-1.2.39).”&nbsp;
 
 
-[^32]: Najeeb Jarhom, “Salvaging Memories of Life With Pan El.”&nbsp;
+[^32]: Najeeb Jarhom, “[Salvaging Memories of Life With Pan El](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19830709-1.2.23).”&nbsp;
 
 
-[^33]: “Claret Take Over Frimatic of France,” _Straits Times_, 5 October 1962, 12. (From NewspaperSG)
+[^33]: “[Claret Take Over Frimatic of France](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621005-1.2.100.12),” _Straits Times_, 5 October 1962, 12. (From NewspaperSG)
 
 
-[^34]: Goh Keng Swee, “The Laying Foundation Stone of the Pan-Electric Industries Ltd, speech, Kampong Kayu, 16 August 1964, transcript, Ministry of Culture. (From National Archives of Singapore document no. PressR19640801b); “Home Fridges Now Quota Goods,” _Straits Times_, 26 May 1965, 13. (From NewspaperSG)&nbsp;
+[^34]: Goh Keng Swee, “[The Laying Foundation Stone of the Pan-Electric Industries Ltd](https://www.nas.gov.sg/archivesonline/speeches/record-details/78d91a7a-115d-11e3-83d5-0050568939ad), speech, Kampong Kayu, 16 August 1964, transcript, Ministry of Culture. (From National Archives of Singapore document no. PressR19640801b); “[Home Fridges Now Quota Goods](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650526-1.2.105.2),” _Straits Times_, 26 May 1965, 13. (From NewspaperSG)&nbsp;
 
 
-[^35]: Najeeb Jarhom, “Salvaging Memories of Life With Pan El.”&nbsp;
+[^35]: Najeeb Jarhom, “[Salvaging Memories of Life With Pan El](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19830709-1.2.23).”&nbsp;
 
 
-[^36]: “50,000th Fridge for Govt to Mark Firm’s Success,” _Straits Times_, 17 July 1969, 8; “Fridges Made Here,” _Straits Times_, 21 January 1966, 11. (From NewspaperSG)
+[^36]: “[50,000th Fridge for Govt to Mark Firm’s Success](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690717-1.2.70),” _Straits Times_, 17 July 1969, 8; “[Fridges Made Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660121-1.2.101.12),” _Straits Times_, 21 January 1966, 11. (From NewspaperSG)
 
 
-[^37]: “Singapore-Made Refrigerators for Hong Kong,” _Eastern Sun_, 9 June 1967, 2. (From NewspaperSG)
+[^37]: “[Singapore-Made Refrigerators for Hong Kong](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19670609-1.2.8.17),” _Eastern Sun_, 9 June 1967, 2. (From NewspaperSG)
 
 
-[^38]: Ramesh Chandiramani, “The Rise and Fall of Pan-Electric,” _Business Times_, 6 December 1985, 17. (From NewspaperSG)
+[^38]: Ramesh Chandiramani, “[The Rise and Fall of Pan-Electric](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851206-1.2.35.1),” _Business Times_, 6 December 1985, 17. (From NewspaperSG)
 
 
-[^39]: “50,000th Fridge for Govt to Mark Firm’s Success”; “Spore Wins Lion’s Share of Aussie Quota Offer,” _Straits Times_, 9 May 1969, 13. (From NewspaperSG)
+[^39]: “[50,000th Fridge for Govt to Mark Firm’s Success](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690717-1.2.70)”; “[Spore Wins Lion’s Share of Aussie Quota Offer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690509-1.2.88),” _Straits Times_, 9 May 1969, 13. (From NewspaperSG)
 
 
-[^40]: Chan Chee Seng, “A Presentation of Refrigerator Ceremony by Pan-Electric Industries Limited to the Social Welfare Department,” speech, Kampong Arang Road, 7 September 1972, transcript, Ministry of Culture. (From National Archives of Singapore document no. PressR19720907d)
+[^40]: Chan Chee Seng, “[A Presentation of Refrigerator Ceremony by Pan-Electric Industries Limited to the Social Welfare Department](https://www.nas.gov.sg/archivesonline/speeches/record-details/7bcfe566-115d-11e3-83d5-0050568939ad),” speech, Kampong Arang Road, 7 September 1972, transcript, Ministry of Culture. (From National Archives of Singapore document no. PressR19720907d)
 
 
 
-[^41]: Chan, “A Presentation of Refrigerator Ceremony by Pan-Electric Industries Limited to the Social Welfare Department.”
+[^41]: Chan, “[A Presentation of Refrigerator Ceremony by Pan-Electric Industries Limited to the Social Welfare Department](https://www.nas.gov.sg/archivesonline/speeches/record-details/7bcfe566-115d-11e3-83d5-0050568939ad).”
 
 
-[^42]: Ronnie Lim, “Pan Electric Hits the Expansion Trail,” _Business Times_, 6 July 1978, 1; “Pan-El to Have Major Stake in Ecko,” _Straits Times_, 11 December 1980, 23; Najeeb Jarhom, “Pan-El Sells Off Appliances to Acma Electrical,” _Straits Times_, 21 July 1981, 1. (From NewspaperSG)
+[^42]: Ronnie Lim, “[Pan Electric Hits the Expansion Trail](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19780706-1.2.8),” _Business Times_, 6 July 1978, 1; “[Pan-El to Have Major Stake in Ecko](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19801211-1.2.105.15),” _Straits Times_, 11 December 1980, 23; Najeeb Jarhom, “[Pan-El Sells Off Appliances to Acma Electrical](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810721-1.2.118.1.10),” _Straits Times_, 21 July 1981, 1. (From NewspaperSG)
 
 
-[^43]: Chandiramani, “The Rise and Fall of Pan-Electric”; “New Multi-Million Merger Announced,” _Eastern Sun_, 28 May 1969, 1. (From NewspaperSG)
+[^43]: Chandiramani, “[The Rise and Fall of Pan-Electric](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851206-1.2.35.1)”; “[New Multi-Million Merger Announced](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19690528-1.2.2),” _Eastern Sun_, 28 May 1969, 1. (From NewspaperSG)
 
 
-[^44]: Chandiramani, “The Rise and Fall of Pan-Electric”; “Crudely Put, It’s a Recurring Nightmare,” _Business Times_, 16 February 1979, 6. (From NewspaperSG)
+[^44]: Chandiramani, “[The Rise and Fall of Pan-Electric](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851206-1.2.35.1)”; “[Crudely Put, It’s a Recurring Nightmare](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19790216-1.2.19),” _Business Times_, 16 February 1979, 6. (From NewspaperSG)
 
 
-[^45]: Chandiramani, “The Rise and Fall of Pan-Electric”; “Pan-Electric to Move into Property Sector,” _Straits Times_, 17 March 1973, 14. (From NewspaperSG)
+[^45]: Chandiramani, “[The Rise and Fall of Pan-Electric](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851206-1.2.35.1)”; “[Pan-Electric to Move into Property Sector](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730317-1.2.66.7),” _Straits Times_, 17 March 1973, 14. (From NewspaperSG)
 
 
-[^46]: “Pan-Electric Reorganises,” _Straits Times_, 14 January 1976, 15; Najeeb Jarhom, “Pan-El Sells Off Appliances to Acma Electrical,” _Straits Times_, 21 July 1981, I. (From NewspaperSG)
+[^46]: “[Pan-Electric Reorganises](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760114-1.2.100),” _Straits Times_, 14 January 1976, 15; Najeeb Jarhom, “[Pan-El Sells Off Appliances to Acma Electrical](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810721-1.2.118.1.10),” _Straits Times_, 21 July 1981, I. (From NewspaperSG)
 
 
-[^47]: Jarhom, “Pan-El Sells Off Appliances to Acma Electrical”; “Tham’s Reputation Grew With Pan-El,” _Business Times_, 5 December 1985, 16; “Kahlenberg’s Not Talking – For Now,” _Straits Times_, 29 January 1986, 15. (From NewspaperSG)
+[^47]: Jarhom, “[Pan-El Sells Off Appliances to Acma Electrical](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810721-1.2.118.1.10)”; “[Tham’s Reputation Grew With Pan-El](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851205-1.2.36.5),” _Business Times_, 5 December 1985, 16; “[Kahlenberg’s Not Talking – For Now](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860129-1.2.21.30),” _Straits Times_, 29 January 1986, 15. (From NewspaperSG)
 
 
-[^48]: Ramesh Chandiramani, “The Rise and Fall of Pan-Electric,” _Business Times_, 6 December 1985,17. (From NewspaperSG)&nbsp;
+[^48]: Ramesh Chandiramani, “[The Rise and Fall of Pan-Electric](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851206-1.2.35.1),” _Business Times_, 6 December 1985,17. (From NewspaperSG)&nbsp;
 
 
-[^49]: Chandiramani, “The Rise and Fall of Pan-Electric”; “Company Started with Refrigerators,” _Straits Times_, 3 December 1985, 23. (From NewspaperSG)
+[^49]: Chandiramani, “[The Rise and Fall of Pan-Electric](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851206-1.2.35.1)”; “[Company Started with Refrigerators](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851203-1.2.42.24),” _Straits Times_, 3 December 1985, 23. (From NewspaperSG)
 
 
-[^50]: Nora Cheng, “Acma Drops Pan-El Name from Fridges,” _Straits Times_, 7 June 1986, 21. (From NewspaperSG)
+[^50]: Nora Cheng, “[Acma Drops Pan-El Name from Fridges](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860607-1.2.33.7),” _Straits Times_, 7 June 1986, 21. (From NewspaperSG)
