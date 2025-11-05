@@ -89,6 +89,10 @@ Kahlenberg estimated that if every household in Singapore, Malaya and Borneo had
 
 The Singapore government supported the idea of manufacturing refrigerators locally. “I remember Dr Goh Keng Swee \[Minister for Finance\] said he was happy with the project to bring refrigerators here as it helped to give employment to an increasing number of school leavers,” said Kahlenberg in an interview with the _Business Times_ in 1983.[^32]
 
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_minister.png" style="width: 80%;">
+
+<div style="background-color: white;">Minister for Finance Goh Keng Swee being shown a Pan-Electric refrigerator by Ernest E. Kahlenberg during the foundation stone laying ceremony of the company’s factory on Kampong Arang Road, 1964. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980000398 - 0052). </i></div>
+
 However, a year later, Frimatic was reportedly in financial difficulties following a crisis in the French domestic refrigerator industry.[^33] Pan-El was not affected though. In 1964, Goh laid the foundation stone for the company’s factory on Kampong Arang Road in the Tanjong Rhu industrial estate. “\[T\]he factory when completed will have established the foundation for a new and important type of industry in Singapore,” Goh said in his speech.[^34]&nbsp;
 
 The factory began operations in 1965 with 120 workers. “Pan-El, in those days, served \[the Economic Development Board\] very well because it was shown to overseas investors as an example of what could be done in Singapore,” said Kahlenberg. “We were always very glad to have visitors from abroad since those early days.”[^35]
