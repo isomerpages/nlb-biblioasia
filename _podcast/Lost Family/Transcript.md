@@ -588,109 +588,76 @@ in either but, or you know, the history of the Czechoslovaks in the war.&nbsp;</
 interested in such things myself, especially when I was, as you mentioned,
 you know, as a child roaming around the house, there was this photo. But
 you know, I never asked my grandma for more information because it was
-not really interesting to me.</p>
-<p>&nbsp;</p>
+not really interesting to me.&nbsp;</p>
 <p>Unfortunately at the moment I became interested. You know, she has already
 passed, and actually also the people who are being who might have, you
-know, remembered. But as time went on, the stories were all gone.</p>
-<p>&nbsp;</p>
+know, remembered. But as time went on, the stories were all gone.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Jan</strong>
-</p>
-<p>So that’s very sad, but I don’t know, maybe it’s a time when you, you
+<br>So that’s very sad, but I don’t know, maybe it’s a time when you, you
 basically went a long way through the journey of life, and that’s sort
 of a point to start to reflect more about what you have achieved. And maybe
 you want to understand where you come from and what is the bigger picture
-of your journey.</p>
-<p>&nbsp;</p>
+of your journey.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You’re not a historian and research is only something you do part time.
+<br>You’re not a historian and research is only something you do part time.
 Tell us about your day job. You work for Greenpeace. What do you do at
-Greenpeace?</p>
-<p>&nbsp;</p>
+Greenpeace?&nbsp;</p>
 <p><strong>Jan</strong>
-</p>
-<p>I do work for Greenpeace. I’ve been a lifelong activist for the environment
+<br>I do work for Greenpeace. I’ve been a lifelong activist for the environment
 and actually against injustice. It started for me as a political activity
 back in the 1980s in Czechoslovakia. But most of my life I am dedicated
 to protecting the environment. And so I’ve been working on lots of different
 campaigns. My current job is to be a strategist for organisational development
-of Greenpeace.</p>
-<p>&nbsp;</p>
+of Greenpeace.&nbsp;</p>
 <p>So I have a small team. Greenpeace has 25 branches around the world. And
 my job is to make sure that they are thriving. They are aligned on the
 big strategies that are well resourced where needed. A lot of work goes
 into resourcing properly the offices in the Global South, like you know,
-we have a branch in Africa or India.</p>
-<p>&nbsp;</p>
+we have a branch in Africa or India.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I have a frivolous question for you. How many pairs of Bata shoes do you
-own?</p>
-<p>&nbsp;</p>
+<br>I have a frivolous question for you. How many pairs of Bata shoes do you
+own?&nbsp;</p>
 <p><strong>Jan</strong>
-</p>
-<p>I currently own two pairs of Bata shoes.</p>
-<p>&nbsp;</p>
+<br>I currently own two pairs of Bata shoes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Does every Czech person own at least one pair of shoes?</p>
-<p>&nbsp;</p>
+<br>Does every Czech person own at least one pair of shoes?&nbsp;</p>
 <p><strong>Jan</strong>
-</p>
-<p>That may be an overstretched proposition, but especially in the older
+<br>That may be an overstretched proposition, but especially in the older
 generation, like my parents, I’m sure that’s as you’ve said, you know,
 so popular and so affordable and so spread common as a brand that I think
 almost everybody had. It’s right in the younger generation, it’s probably
-not so much because of competition, but yeah, it is still my friend.</p>
-<p>&nbsp;</p>
+not so much because of competition, but yeah, it is still my friend.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. Your children wear both shoes.</p>
-<p>&nbsp;</p>
+<br>Yeah. Your children wear both shoes.&nbsp;</p>
 <p><strong>Jan</strong>
-</p>
-<p>My son actually recently bought it on holidays in the Czech Republic and
+<br>My son actually recently bought it on holidays in the Czech Republic and
 he bought a pair of shoes for himself that is from Bata. So yes, at least
-one.</p>
-<p>&nbsp;</p>
+one.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Complete the sentence. Family history is…</p>
-<p>&nbsp;</p>
+<br>Okay. Complete the sentence. Family history is…&nbsp;</p>
 <p><strong>Jan</strong>
-</p>
-<p>Family history is, to me, kind of a fascinating spring of fresh, fresh
+<br>Family history is, to me, kind of a fascinating spring of fresh, fresh
 water, if I were to imagine it. Where you can come and you can, you know,
 find reflections, you can actually really gain access to, you know, the
 refreshing, sometimes fascinating unknown things that actually connect
 to you. And unless you take that step, you are unaware which I think is
 a pity.</p>
-<p>&nbsp;<strong>Jimmy</strong>
-</p>
-<p>Jan, thank you very much for coming on to the <em>BiblioAsia</em>+ podcast.
+<p><strong>Jimmy</strong>
+<br>Jan, thank you very much for coming on to the <em>BiblioAsia</em>+ podcast.
 To learn more about Silvestr and the Czechoslovak community in Singapore,
 you have to read Jan’s article <em><a href="https://biblioasia.nlb.gov.sg/vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/" rel="noopener noreferrer nofollow" target="_blank">In Search of Silvestr</a></em> on
 <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>. Of course, his book <em>In Search of Silvestr</em> is
 available in bookstores and in the library. Jan, thank you for joining
-us. Very pleased to have you on our show and I wish you good luck.</p>
-<p>&nbsp;</p>
+us. Very pleased to have you on our show and I wish you good luck.&nbsp;</p>
 <p><strong>Jan</strong>
-</p>
-<p>Thank you so much, Jimmy. Thank you for the invitation and I’m glad to
+<br>Thank you so much, Jimmy. Thank you for the invitation and I’m glad to
 have the opportunity to speak with you and your listeners. Thank you.
 <br>
 <br>[Music playing]
 <br>
-<br>
-</p>
-<p><strong>Jimmy</strong>
+<br><strong>Jimmy</strong>
 <br>If you’ve enjoyed this episode, subscribe to this podcast and the&nbsp;<em>BiblioAsia</em> 
 <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on&nbsp;<em>BiblioAsia+.</em>
 </p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[RW1]</a>Check if this is Batamen</p>
