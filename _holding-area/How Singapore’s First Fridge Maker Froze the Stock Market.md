@@ -8,6 +8,11 @@ description: ""
 
 By Joanna Tan
 
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_main.png" style="width: 80%;">
+
+<div style="background-color: white;">Between 2 and 4 December 1985, the Stock Exchange of Singapore was closed and all trading was suspended. <i> Source: Business Times, 2 December 1985, 1 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+
 In a move that the _Business Times_ called “unprecedented… to buy time and prevent a possible collapse of the stock market”, the Stock Exchange of Singapore (SES) announced that all trading on the stock market would be suspended from Thursday, 2 December 1985, until further notice.[^1] The stock markets, both in Singapore and Kuala Lumpur, were shut for three days.
 
 What caused the shutdown was the collapse of Pan-Electric Industries, or Pan-El, leading to economic, social and reputational costs to Singapore. This was a watershed in Singapore’s financial history.&nbsp;
