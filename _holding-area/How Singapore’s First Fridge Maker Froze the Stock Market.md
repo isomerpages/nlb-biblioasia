@@ -135,19 +135,19 @@ Although the stock market eventually recovered, the same could not be said for t
 [^3]: Chan Oi Chee, “[Pan-El Plans to Raise $100m Through a Loan Stock Issue](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19850722-1.2.32.3),” _Business Times_, 22 July 1985, 15; “[Pan-El Group Incurs a Net Loss of $5.5 M](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19850930-1.2.2),” _Business Times_, 30 September 1985, 1. (From NewspaperSG)
 
 
-[^4]: Mimi Ho, et al., _Case Study on Pan Electric Crisis_, MAS Staff Paper No. 32 (Singapore: Monetary Authority of Singapore, 2004), 11, Monetary Authority of Singapore, https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004; Catherine C. Ong, “How Trouble Started – and the Small Man Got Hurt,” _Straits Times,_ 8 December 1985, 11; “Bankers Tell Why Talks Collapsed,” _Straits Times_, 1 December 1985, 12. (From NewspaperSG)
+[^4]: Mimi Ho, et al., _Case Study on Pan Electric Crisis_, MAS Staff Paper No. 32 (Singapore: Monetary Authority of Singapore, 2004), 11, Monetary Authority of Singapore, [https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004](https://www.mas.gov.sg/publications/staff-papers/2004/mas-staff-paper-no32-jul-2004); Catherine C. Ong, “[How Trouble Started – and the Small Man Got Hurt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851208-1.2.23.2),” _Straits Times,_ 8 December 1985, 11; “[Bankers Tell Why Talks Collapsed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851201-1.2.24.6),” _Straits Times_, 1 December 1985, 12. (From NewspaperSG)
 
 
-[^5]: Ong, “How Trouble Started – and the Small Man Got Hurt”; Koh Buck Song, _How Not to Make Money: Inside Stories from Singapore’s Commercial Affairs Department_ (Singapore: Singapore Police Force, 2005), 9–10. (From National Library Singapore, call no. RSING 364.168095957 KOH); Ho, et al., _Case Study on Pan Electric Crisis_, 11.&nbsp;
+[^5]: Ong, “[How Trouble Started – and the Small Man Got Hurt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851208-1.2.23.2)”; Koh Buck Song, [_How Not to Make Money: Inside Stories from Singapore’s Commercial Affairs Department_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12639695) (Singapore: Singapore Police Force, 2005), 9–10. (From National Library Singapore, call no. RSING 364.168095957 KOH); Ho, et al., _Case Study on Pan Electric Crisis_, 11.&nbsp;
 
 
 [^6]: Ho, et al., _Case Study on Pan Electric Crisis_, 51.
 
 
-[^7]: Ho, et al., _Case Study on Pan Electric Crisis_, 51; Ong, “How Trouble Started – and the Small Man Got Hurt”; M.G.G. Pillay, “Tycoon Who Was Always in a Hurry”, _Straits Times_, 26 January 1986, 3. (From NewspaperSG)
+[^7]: Ho, et al., _Case Study on Pan Electric Crisis_, 51; Ong, “[How Trouble Started – and the Small Man Got Hurt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851208-1.2.23.2)”; M.G.G. Pillay, “[Tycoon Who Was Always in a Hurry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860126-1.2.10.4)”, _Straits Times_, 26 January 1986, 3. (From NewspaperSG)
 
 
-[^8]: Conrad Raj, “Rescue Plan for Pan-El,” _Straits Times_, 22 November 1985, 1; Conrad Raj, “Pan-E’s Rescue Plan Questioned,” _Straits Times_, 28 November 1985, 23. (From NewspaperSG)
+[^8]: Conrad Raj, “[Rescue Plan for Pan-El](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851122-1.2.7),” _Straits Times_, 22 November 1985, 1; Conrad Raj, “[Pan-E’s Rescue Plan Questioned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851128-1.2.51.2),” _Straits Times_, 28 November 1985, 23. (From NewspaperSG)
 
 
 [^9]: Ho, et al., _Case Study on Pan Electric Crisis_, 9–10; Glenn Knight, _The Prosecutor_ (Singapore: Marshall Cavendish Editions, 2012), 158. (From National Library Singapore, call no. RSING 345.01262095957 KNI)
