@@ -145,13 +145,13 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 
 
 
-[^11]: Vernon Cornelius-Takahama and Ong Eng Chuan, “Cathay Building,” _Singapore Infopedia_. Article published September 2020.&nbsp;
+[^11]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://www.nlb.gov.sg/main/article-detail?cmsuuid=931604b4-b9cc-46aa-b2e8-487721be4061),” _Singapore Infopedia_. Article published September 2020.&nbsp;
 
 
-[^12]: “Shaw Cinemas, Pre War,” Shaw Organisation, accessed 3 October 2025, https://shaw.sg/prewar; Quek, “Cinema Pioneer Tan Cheng Kee.”
+[^12]: “Shaw Cinemas, Pre War,” Shaw Organisation, accessed 3 October 2025, [https://shaw.sg/prewar](https://shaw.sg/prewar); Quek, “[Cinema Pioneer Tan Cheng Kee](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/).”
 
 
-[^13]: “The Rise of the House of Shaw,” _Straits Times_, 22 November 1958, 1; “Scott Will Open New Theatre,” _Straits Times_, 6 February 1959, 11. (From NewspaperSG)
+[^13]: “[The Rise of the House of Shaw](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581122-1.2.152.1.1),” _Straits Times_, 22 November 1958, 1; “[Scott Will Open New Theatre](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590206-1.2.114.1),” _Straits Times_, 6 February 1959, 11. (From NewspaperSG)
 
 
 [^14]: Bonny Tan, “Loke Wan Tho: The Man Who Built Cathay,” _BiblioAsia_ 18, no. 3 (October–December 2022): 60–68; Alvin Chua, “Cathay Organisation,” _Singapore Infopedia_. Article published 2011.&nbsp;
