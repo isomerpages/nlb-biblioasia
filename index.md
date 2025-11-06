@@ -973,7 +973,7 @@ sections:
       id: infopic
       description: Initially inspired by the “New Life Movement” in China, couples in
         Singapore would opt for mass weddings to save money.
-      button: We Do!
+      button: Happily Ever After
       url: /vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/
       image: /images/Vol 21 Issue 4/Mass Weddings/mass_wedding_topics.jpg
       alt: Mass Weddings in Singapore
