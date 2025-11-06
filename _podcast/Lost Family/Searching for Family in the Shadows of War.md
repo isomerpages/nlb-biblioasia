@@ -42,11 +42,11 @@ Company, the Czechoslovak community and volunteer forces in Singapore.</p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Jan Beránek is a Czech environmentalist and energy expert. He was born
+<p>Jan Beránek is a Czech environmentalist and an energy expert. He was born
 and raised in the Czech city of Brno, where he studied physics and sociology.
-Jan has worked for several environmental organisations and was also Chair
-of the Czech Green Party. He currently lives in Amsterdam, working for
-Greenpeace International as a Director for Organizational Strategy and
+Jan has worked for several environmental organisations and was also the
+chairman of the Czech Green Party. He currently lives in Amsterdam, working
+for Greenpeace International as Director for Organizational Strategy and
 Development. He is the author of <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300110453" rel="noopener noreferrer nofollow" target="_blank"><u>In Search of Silvestr: Unravelling My Granduncle's Fate, Bata, Czechoslovaks and World War II in Singapore </u></a></em>(Landmark
 Books, 2025).</p>
 </div>
