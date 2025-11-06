@@ -112,7 +112,7 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 
 #### **Notes**
 
-[^1]: Angelica Ang, “Singapore Indie Cinema the Projector Ceases Operations from Aug 19 After over a Decade,” _Straits Times_, 19 August 2025, https://www.straitstimes.com/life/local-indie-theatre-the-projector-to-cease-operations-on-aug-19-after-a-decade; Sharanya Pillai, Tessa Oh and Paige Lim, “The Projector Owes S$1.2 Million to Creditors; Golden Mile Cinema Put Up for Rent,” _Business Times_, 19 August 2025, https://www.businesstimes.com.sg/companies-markets/projector-owes-s1-2-million-creditors-golden-mile-cinema-put-rent.&nbsp;
+[^1]: Angelica Ang, “Singapore Indie Cinema the Projector Ceases Operations from Aug 19 After over a Decade,” _Straits Times_, 19 August 2025, [https://www.straitstimes.com/life/local-indie-theatre-the-projector-to-cease-operations-on-aug-19-after-a-decade](https://www.straitstimes.com/life/local-indie-theatre-the-projector-to-cease-operations-on-aug-19-after-a-decade); Sharanya Pillai, Tessa Oh and Paige Lim, “The Projector Owes S$1.2 Million to Creditors; Golden Mile Cinema Put Up for Rent,” _Business Times_, 19 August 2025, [https://www.businesstimes.com.sg/companies-markets/projector-owes-s1-2-million-creditors-golden-mile-cinema-put-rent](https://www.businesstimes.com.sg/companies-markets/projector-owes-s1-2-million-creditors-golden-mile-cinema-put-rent).&nbsp;
 
 
 [^2]: Therese Soh, “Cathay Cineplexes Ceases Operations As Talks With Creditors Fall Through,” _Business Times_, 1 September 2025, https://www.businesstimes.com.sg/companies-markets/cathay-cineplexes-ceases-operations-talks-creditors-fall-through.&nbsp;
