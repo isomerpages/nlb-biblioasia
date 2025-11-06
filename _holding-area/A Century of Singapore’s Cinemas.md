@@ -108,7 +108,7 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 
 
 <div style="background-color: white;">
-<b>Dr John Bray</b> is a risk consultant and policy specialist currently based in Singapore. He has a PhD in History from the University of Cambridge and has published a number of academic research articles on the history of Christianity in the Himalayan border regions of northern India. He is a former member of the St Andrew’s Cathedral Heritage Committee. </div>
+<b>Alvin Tan</b>&nbsp;is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of _Singapore: A Very Short History – From Temasek to Tomorrow_ (Talisman Publishing, 2nd edition, 2022) and the editor of _Singapore at Random: Magic, Myths and Milestones_ (Talisman Publishing, 2021).</div>
 
 #### **Notes**
 
