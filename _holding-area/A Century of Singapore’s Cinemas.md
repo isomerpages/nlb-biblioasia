@@ -112,134 +112,132 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 
 #### **Notes**
 
-[^1]: 
+[^1]: Angelica Ang, “Singapore Indie Cinema the Projector Ceases Operations from Aug 19 After over a Decade,” _Straits Times_, 19 August 2025, https://www.straitstimes.com/life/local-indie-theatre-the-projector-to-cease-operations-on-aug-19-after-a-decade; Sharanya Pillai, Tessa Oh and Paige Lim, “The Projector Owes S$1.2 Million to Creditors; Golden Mile Cinema Put Up for Rent,” _Business Times_, 19 August 2025, https://www.businesstimes.com.sg/companies-markets/projector-owes-s1-2-million-creditors-golden-mile-cinema-put-rent.&nbsp;
 
 
-[^2]: 
+[^2]: Therese Soh, “Cathay Cineplexes Ceases Operations As Talks With Creditors Fall Through,” _Business Times_, 1 September 2025, https://www.businesstimes.com.sg/companies-markets/cathay-cineplexes-ceases-operations-talks-creditors-fall-through.&nbsp;
 
 
-[^3]: 
+[^3]: Tan Chui Hua, “The Theatres of Bangsawan,” _BiblioAsia_ 15, no. 4 (January–March 2020): 8–13.
 
 
-[^4]: 
+[^4]: Bonny Tan, “From Tents to Picture Palaces: Early Singapore Cinema,” _BiblioAsia_ 11, no. 1 (April–June 2015): 6–11; Barbara Quek, “Cinema Pioneer Tan Cheng Kee,” _BiblioAsia_ 18, no. 1 (April–June 2022): 54–57. &nbsp;
 
 
-[^5]: 
+[^5]: Quek, “Cinema Pioneer Tan Cheng Kee.”
 
 
-[^6]: 
+[^6]: Tan, “From Tents to Picture Palaces: Early Singapore Cinema”; Quek, “Cinema Pioneer Tan Cheng Kee.”
 
 
-[^7]: 
+[^7]: Quek, “Cinema Pioneer Tan Cheng Kee.”
 
 
-[^8]: 
+[^8]: Bonny Tan, “Living It Up at the Capitol,” _BiblioAsia_ 13, no. 4 (January–March 2018): 16–21.&nbsp;
 
 
-[^9]: 
+[^9]: Tan, “Living It Up at the Capitol.”
 
 
-[^10]: 
+[^10]: Soh Gek Han, “Key Milestones in the History of Cathay Cinema,” _BiblioAsia_ (2022).&nbsp;
 
 
 
 
 
-[^11]: 
+[^11]: Vernon Cornelius-Takahama and Ong Eng Chuan, “Cathay Building,” _Singapore Infopedia_. Article published September 2020.&nbsp;
 
 
-[^12]: 
+[^12]: “Shaw Cinemas, Pre War,” Shaw Organisation, accessed 3 October 2025, https://shaw.sg/prewar; Quek, “Cinema Pioneer Tan Cheng Kee.”
 
 
-[^13]: 
+[^13]: “The Rise of the House of Shaw,” _Straits Times_, 22 November 1958, 1; “Scott Will Open New Theatre,” _Straits Times_, 6 February 1959, 11. (From NewspaperSG)
 
 
-[^14]: 
+[^14]: Bonny Tan, “Loke Wan Tho: The Man Who Built Cathay,” _BiblioAsia_ 18, no. 3 (October–December 2022): 60–68; Alvin Chua, “Cathay Organisation,” _Singapore Infopedia_. Article published 2011.&nbsp;
 
 
-[^15]: 
+[^15]: “Alhambra to Be Renovated,” _Straits Times_, 13 January 1951, 5; “Face Lift for Singapore Cinema,” _Straits Times_, 14 January 1951, 11. (From NewspaperSG)
 
 
-[^16]: 
+[^16]: Boon Chan, “Goh Eng Wah, Pioneer of Local Cinema Industry, Dies at 92 of Congestive Cardiac Failure,” _Straits Times_, 7 September 2015, https://www.straitstimes.com/lifestyle/entertainment/goh-eng-wah-pioneer-of-local-cinema-industry-dies-at-92-of-congestive.
 
 
-[^17]: 
+[^17]: Heirwin Mohd Nasir, “Goh Eng Wah,” _Singapore Infopedia_. Article published 2015.&nbsp;
 
 
-[^18]: 
+[^18]: “Development of Queenstown, Singapore’s First Satellite Town,” _Singapore Infopedia_. Article published 2014; National Heritage Board, “Former Venus and Golden City Cinemas,” Roots, last updated 2 November 2021, https://www.roots.gov.sg/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/former-venus-golden-city-theatres.
 
 
-[^19]: 
+[^19]: “Queenstown/Queensway Cinema,” Remember Singapore, accessed 3 October 2025, https://remembersingapore.org/queenway-cinema/; Tan Chun Wei, “Queenstown Cinema and Bowling Centre,” 14 January 2010, photograph. (From National Library Online)&nbsp;
 
 
-[^20]: 
+[^20]: Alvin Tan, _Singapore: A Very Short History – From Temasek to Tomorrow_, 2nd edition (Singapore: Talisman Press, 2022), 157–58. (From National Library Singapore, call no. RSING 959.57 TAN); National Heritage Board, “ERA APAC Centre (Former Toa Payoh Cinema),” Roots, last updated 11 August 2021, https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/ERA-APAC-Centre-Former-Toa-Payoh-Cinema; National Heritage Board, “600@Toa Payoh (Former Kong Chian Cinema,” Roots, last updated 17 January 2022, https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/600-at-Toa-Payoh-Former-Kong-Chian-Cinema; Singapore Film Society, “Part 5: Savoy Cinema,” Facebook, 3 July 2016, https://www.facebook.com/singaporefilmsociety/photos/to-the-residents-living-in-boon-lay-and-jurong-west-during-the-1970s-and-1980s-t/10154309751113594/; National Heritage Board, “Broadway Plaza (Former Broadway Cinema),” Roots, last updated 17 January 2022, https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Broadway-Plaza-Former-Broadway-Cinema; John Lui, “Eng Wah’s 80-Year Legacy Ends As Historic Singapore Cinema Operator Exits Industry,” _Straits Times_, 23 October 2024, https://www.straitstimes.com/life/entertainment/eng-wah-s-80-year-legacy-ends-as-we-cinemas-in-clementi-changes-hands; “Memories of Bedok’s Princess,” Remember Singapore, 16 July 2018, https://remembersingapore.org/2018/07/16/bedok-princess-cinema-memories/.&nbsp;
 
 
 
 
 
-[^21]: 
+[^21]: Sharon Teng, “Movies Beneath a Starry, Starry Night,” _BiblioAsia_ 17, no. 4 (January–March 2022): 19–23; Lito Gutierrez, “It’s Curtains for Jurong Drive-In Tomorrow,” _Straits Times_, 29 September 1985, 10 (From NewspaperSG)&nbsp;
 
 
-[^22]: 
+[^22]: National Library Board, “Cinemas in Bras Basah,” Curiocity, last updated 27 August 2025, https://curiocity.nlb.gov.sg/digital-stories/bras-basah/bb-cinemas/; Teo Lian Huay, “Curtains to Come Down on Another Theatre,” _New Nation_, 29 September 1978, 2. (From NewspaperSG); Teng, “Movies Beneath a Starry, Starry Night.”
 
 
-[^23]: 
+[^23]: Justin Zhuang, “Yishun 10,” DocomomoSG, accessed 3 October 2025, https://www.docomomo.sg/modernist-100/yishun-10. It was not until 1996 that the North-South Line was extended to Woodlands and beyond. Ratnala Thulaja Naidu, “Woodlands MRT Line,” _Singapore Infopedia_. Article published September 2019.&nbsp;
 
 
-[^24]: 
+[^24]: Zhuang, “Yishun 10”; “Crowds Pack Movieplex on Opening Day,” _Straits Times_, 29 May 1992, 33; “Yishun Cinema Offers Cards to Buy Film Tickets,” _Straits Times_, 9 May 1992, 25. (From NewspaperSG)&nbsp;
 
 
-[^25]: 
 
+[^25]: National Library Board, “Urban Oasis,” Curiocity, last updated 27 August 2025, https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/; Richard H., “JCube: A Pictorial Memorial,” Urban Red Dot, 7 August 2023, https://urbanreddot.substack.com/p/jcube-a-pictorial-memorial; “Corporate History,” Cathay Organisation, accessed 3 October 2025, https://cathay.com.sg/about-us/corporate-history/.&nbsp;
 
-[^26]: 
 
+[^26]: Genevieve Cua, “Group to Set Up $500 M S’pore-Wide Cable Network,” _Business Times_, 18 July 1994, 1. (From NewspaperSG)&nbsp;
 
-[^27]: 
 
+[^27]: Catherine Ong, “SCV Sets Rates at $29.95 a Month for Basic Package,”&nbsp; _Business Times_, 8 June 1995, 2. (From NewspaperSG)
 
-[^28]: 
 
+[^28]: “Pay TV Subscribers (End of Period), Annual,” Singapore Department of Statistics, accessed 3 October 2025, https://data.gov.sg/datasets/d\_940152f94433823108acfd8b19fb0834/view?columnLegendPage=1.
 
-[^29]: 
 
+[^29]: “S’pore Still on Piracy Watch List,” _Straits Times_, 2 April 2000, 35. (From NewspaperSG)
 
-[^30]: 
 
+[^30]: Claire Leow, “Eng Wah to Demolish Jubilee Theatre,” _Business Times_, 30 November 1994, 19. (From NewspaperSG)
 
 
 
 
-[^31]: 
 
+[^31]: National Heritage Board, “Fairfield Methodist Church (Former Metropole Cinema),” Roots, last updated 28 October 2021, https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/fairfield-methodist-church.&nbsp;
 
-[^32]: 
 
+[^32]: National Heritage Board, “ERA APAC Centre (Former Toa Payoh Cinema)”; Heirwin Md Nasir and Gladys Low, “Majestic Theatre,” _Singapore Infopedia_. Article published July 2024; “Majestic Smart Seniors Applied Learning Centre,” RSVP Singapore, accessed 3 October 2025, https://rsvp.org.sg/mssalc/.&nbsp;
 
-[^33]: 
 
+[^33]: Cornelius-Takahama and Ong, “Cathay Building”; National Heritage Board, “Former Cathay Building (Now The Cathay),” Roots, last updated 1 July 2022, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/former-cathay-building-now-the-cathay; “Capitol Theatre, Capitol Building and Stamford House,” Urban Redevelopment Authority, accessed 3 October 2025, https://www.ura.gov.sg/Conservation-Portal/Explore/History.aspx?bldgid=SRNBR.
 
-[^34]: 
 
+[^34]: “History of Internet in Singapore: From Niche Toy to Must Have Essential,” GovTech Singapore, 12 August 2021, https://www.tech.gov.sg/media/technews/history-of-the-internet/.&nbsp;
 
-[^35]: 
 
+[^35]: “Cinema, Seating Capacity And Attendances, Annual,” Singapore Department of Statistics, accessed 3 October 2025, https://data.gov.sg/datasets/d\_db2db28d64339467a1d44f4026f0dd7a/view?columnLegendPage=1&amp;dataExplorerSort={%222022%22:%22DESC%22}.
 
-[^36]: 
 
+[^36]: John Lui, “JB Cinemas Are Getting More Popular with S’poreans. How are Local Operators Upping Their Game?,” _Straits Times_, 1 October 2025, https://www.straitstimes.com/life/entertainment/jb-cinemas-are-getting-more-popular-with-sporeans-how-are-local-operators-upping-their-game.
 
-[^37]: 
 
+[^37]: Jan Lee, “Filmgarde Cineplexes Shuts Down Last Outlet at Kallang, Exits Industry,” _Straits Times_, 25 March 2025, https://www.straitstimes.com/life/entertainment/filmgarde-cineplexes-shuts-down-last-kallang-outlet-exits-industry; Lakeisha Leo, “The Cathay Cineplex in Handy Road to Close on Jun 26, Independent Cinema the Projector to Enter as Pop-Up,” CNA, 17 June 2022, https://www.channelnewsasia.com/singapore/cathay-cineplex-handy-road-close-jun-26-projector-cathay-building-2753516; Yasmin Begum, “Cathay Cineplex at Parkway Parade to Close on Aug 27,” CNA, 21 August 2023, https://www.channelnewsasia.com/singapore/cathay-cineplex-cinema-parkway-parkway-close-shut-aug-27-3712996; Renee Quek, “Cathay Cineplexes at AMK Hub to Close After Jun 30,” CNA, 20 June 2024, https://www.channelnewsasia.com/singapore/cathay-cineplexes-amk-hub-close-jun-30-cinema-close-jun-30-4421641; Hazeeq Sukri, “Golden Village X the Projector at Cineleisure Launching in December, Will Feature Blockbusters, Indie Films, Live Music,” CNA, 13 June 2023, https://cnalifestyle.channelnewsasia.com/entertainment/golden-village-projector-cineleisure-orchard-december-2023-361196.
 
-[^38]: 
 
 
-[^39]: 
+[^38]: Lui, “Eng Wah’s 80-Year Legacy Ends as Historic Singapore Cinema Operator Exits Industry”; Lee, “Filmgarde Cineplexes Shuts Down Last Outlet at Kallang, Exits Industry.”
 
 
-[^40]: 
+[^39]: Lui, “JB Cinemas Are Getting More Popular with S’poreans.”
 
 
-
-
+[^40]: Lui, “JB Cinemas Are Getting More Popular with S’poreans.”
