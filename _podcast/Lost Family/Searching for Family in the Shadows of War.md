@@ -18,16 +18,35 @@ Company, the Czechoslovak community and volunteer forces in Singapore.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Jan Talked About</strong></h4>
-<p></p>
+<p>01:31 – Introduction to the podcast and Bata’s Singapore history
+<br>02:07 – Silvestr Němec’s disappearance
+<br>02:29 – Jan Beránek’s research journey
+<br>03:26 – Family memories
+<br>04:37 – The post-war search for Silvestr
+<br>05:49 – Discovery of family letters in 2017
+<br>07:25 – Motivation for beginning the investigation
+<br>08:45 – How Silvestr was sent to Singapore by Bata
+<br>09:20 – Silvestr’s job at Bata’s flagship store
+<br>10:05 – Bata’s international success and localisation
+<br>11:42 – Bata’s early operations and expansion in Malaya
+<br>13:17 – What made Bata successful
+<br>14:11 – The Czechoslovak community in Malaya
+<br>14:55 – Czechoslovaks’ impressions of colonial Singapore
+<br>16:35 – Czechoslovakia during WWII and Bata’s wartime challenges
+<br>22:26 – Silvestr’s service in the Volunteer Corps
+<br>24:44 – What happened to Silvestr
+<br>28:37 – Jan’s research process and reflections
+<br>36:07 – The number of Bata shoes Jan owns
+<br>36:58 – Family history is…</p>
 <p></p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Jan Beránek is a Czech environmentalist and energy expert. He was born
+<p>Jan Beránek is a Czech environmentalist and an energy expert. He was born
 and raised in the Czech city of Brno, where he studied physics and sociology.
-Jan has worked for several environmental organisations and was also Chair
-of the Czech Green Party. He currently lives in Amsterdam, working for
-Greenpeace International as a Director for Organizational Strategy and
+Jan has worked for several environmental organisations and was also the
+chairman of the Czech Green Party. He currently lives in Amsterdam, working
+for Greenpeace International as Director for Organizational Strategy and
 Development. He is the author of <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300110453" rel="noopener noreferrer nofollow" target="_blank"><u>In Search of Silvestr: Unravelling My Granduncle's Fate, Bata, Czechoslovaks and World War II in Singapore </u></a></em>(Landmark
 Books, 2025).</p>
 </div>
