@@ -81,26 +81,26 @@ In 1986, Fairfield Methodist Church acquired and refurbished the Metropole Theat
 
 Toa Payoh’s eponymously named cinema, which opened in 1972, changed hands twice and is now ERA Asia-Pacific’s new headquarters. Majestic Theatre on Eu Tong Sen Street in Chinatown, a Swan &amp; Maclaren design, was granted conservation status in 1989. It currently houses the Majestic Smart Seniors Applied Learning Centre.[^32]
 
-By the 2000s, standalone cinemas were well on their way to becoming extinct. Recognising this, the state decided to designate Cathay Building’s Art Deco facade as a national monument in 2003, while the building itself was demolished and replaced by a modern steel-and-glass construction. In 2007, the same conservation status was granted to Capitol Theatre.33
+By the 2000s, standalone cinemas were well on their way to becoming extinct. Recognising this, the state decided to designate Cathay Building’s Art Deco facade as a national monument in 2003, while the building itself was demolished and replaced by a modern steel-and-glass construction. In 2007, the same conservation status was granted to Capitol Theatre.[^33]
 
-Disruption finally and truly arrived in June 2007 when the Apple iPhone was launched. Within a decade, Singapore would be inundated by a wave of converging technological developments – mobile broadband, social media, fibre broadband and nationwide 4G coverage – enabling mobile computing that would radically transform how entertainment is consumed.34
+Disruption finally and truly arrived in June 2007 when the Apple iPhone was launched. Within a decade, Singapore would be inundated by a wave of converging technological developments – mobile broadband, social media, fibre broadband and nationwide 4G coverage – enabling mobile computing that would radically transform how entertainment is consumed.[^34]
 
 Both cinemas and cable TV operators worldwide faced the prospect of freefalling viewership as content creation became increasingly social, personal and personalised. Not only could you watch a movie in the comfort of your home, but you could also watch whatever whenever you want, as many times as you wish and rewatch whatever you have watched earlier. Or you could even create your own content and put it online, and wait or hope for it to go viral.&nbsp;
 
-Cinema attendance fell from a peak of 22 million in 2013 to 10 million in 2023. Despite an increase in the number of cinema screens from 218 to 277 in the same period, seating capacity held steady at about 39,000 between 2013 and 2023.35&nbsp;
+Cinema attendance fell from a peak of 22 million in 2013 to 10 million in 2023. Despite an increase in the number of cinema screens from 218 to 277 in the same period, seating capacity held steady at about 39,000 between 2013 and 2023.[^35]&nbsp;
 
-The numbers have only gotten worse since the Covid-19 pandemic. According to the Singapore Film Commission, cinema attendance plunged from 18.46 million in 2019 to just 8.4 million in 2024, a drop of 54.5 percent.36
+The numbers have only gotten worse since the Covid-19 pandemic. According to the Singapore Film Commission, cinema attendance plunged from 18.46 million in 2019 to just 8.4 million in 2024, a drop of 54.5 percent.[^36]
 
-The dominoes began falling on 11 January 2022 when Filmgarde Cineplexes announced it was shutting down its cinemas in Century Square and Bugis+. In June 2022, Cathay Cineplex at the landmark Cathay Building shuttered. This was followed by closures in Ang Mo Kio Hub, Parkway Parade, Cineleisure Orchard and West Mall over the next three years.37
+The dominoes began falling on 11 January 2022 when Filmgarde Cineplexes announced it was shutting down its cinemas in Century Square and Bugis+. In June 2022, Cathay Cineplex at the landmark Cathay Building shuttered. This was followed by closures in Ang Mo Kio Hub, Parkway Parade, Cineleisure Orchard and West Mall over the next three years.[^37]
 
-In October 2024, Eng Wah sold its cinema operations to mm2 Asia, marking its exit from the industry after 79 years. In March 2025, Filmgarde announced on Instagram that its last remaining screen in Leisure Park Kallang would close, after 18 years in the industry.38 These were undoubtedly business decisions driven by falling cinema attendance, tight margins, rental and cost pressures and other related factors, in particular, the economic fallout from the  
+In October 2024, Eng Wah sold its cinema operations to mm2 Asia, marking its exit from the industry after 79 years. In March 2025, Filmgarde announced on Instagram that its last remaining screen in Leisure Park Kallang would close, after 18 years in the industry.[^38] These were undoubtedly business decisions driven by falling cinema attendance, tight margins, rental and cost pressures and other related factors, in particular, the economic fallout from the  
 Covid-19 years.
 
 #### **The Future of Cinema**
 
-Are present developments merely a market shakeout allowing the fittest to survive or do they portend the end of cinemagoing? Shaw Organisation is certainly not throwing in the towel just yet. In fact, Shaw has announced that it is upgrading Lido with laser projectors and new screens. Full renovation works will only be completed at the end of 2025.39 &nbsp;
+Are present developments merely a market shakeout allowing the fittest to survive or do they portend the end of cinemagoing? Shaw Organisation is certainly not throwing in the towel just yet. In fact, Shaw has announced that it is upgrading Lido with laser projectors and new screens. Full renovation works will only be completed at the end of 2025.[^39] &nbsp;
 
-Shaw has also taken over the cinema space in Jurong’s Jem mall after the landlord terminated its lease with Cathay Cineplexes and repossessed the cinema space in March 2025. Mark Shaw, director of the Shaw Organisation Group of Companies, told the _Straits Times_ that Shaw Theatres at Jem would open in stages from November 2025.40
+Shaw has also taken over the cinema space in Jurong’s Jem mall after the landlord terminated its lease with Cathay Cineplexes and repossessed the cinema space in March 2025. Mark Shaw, director of the Shaw Organisation Group of Companies, told the _Straits Times_ that Shaw Theatres at Jem would open in stages from November 2025.[^40]
 
 While Hollywood blockbusters and big-name directors might still pull in crowds on occasion, cinema operators will have to address the larger societal and economic shifts that have eroded the spatial, visual and aural advantages that their big halls, big screens and big sound systems have traditionally enjoyed. With the shift in consumption patterns and the current preference for solitary, private viewing over communal experiences, cinemas certainly must reinvent themselves if they hope to continue avoiding the fate of the _bangsawan_ theatres that they replaced a century ago.
 
