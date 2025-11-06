@@ -154,10 +154,10 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 [^13]: “[The Rise of the House of Shaw](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581122-1.2.152.1.1),” _Straits Times_, 22 November 1958, 1; “[Scott Will Open New Theatre](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590206-1.2.114.1),” _Straits Times_, 6 February 1959, 11. (From NewspaperSG)
 
 
-[^14]: Bonny Tan, “Loke Wan Tho: The Man Who Built Cathay,” _BiblioAsia_ 18, no. 3 (October–December 2022): 60–68; Alvin Chua, “Cathay Organisation,” _Singapore Infopedia_. Article published 2011.&nbsp;
+[^14]: Bonny Tan, “Loke Wan Tho: The Man Who Built Cathay,” _BiblioAsia_ 18, no. 3 (October–December 2022): 60–68; Alvin Chua, “[Cathay Organisation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6e292eee-270c-4170-a1a7-7d73711f8888),” _Singapore Infopedia_. Article published 2011.&nbsp;
 
 
-[^15]: “Alhambra to Be Renovated,” _Straits Times_, 13 January 1951, 5; “Face Lift for Singapore Cinema,” _Straits Times_, 14 January 1951, 11. (From NewspaperSG)
+[^15]: “[Alhambra to Be Renovated](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510113-1.2.103),” _Straits Times_, 13 January 1951, 5; “Face Lift for Singapore Cinema,” _Straits Times_, 14 January 1951, 11. (From NewspaperSG)
 
 
 [^16]: Boon Chan, “Goh Eng Wah, Pioneer of Local Cinema Industry, Dies at 92 of Congestive Cardiac Failure,” _Straits Times_, 7 September 2015, https://www.straitstimes.com/lifestyle/entertainment/goh-eng-wah-pioneer-of-local-cinema-industry-dies-at-92-of-congestive.
