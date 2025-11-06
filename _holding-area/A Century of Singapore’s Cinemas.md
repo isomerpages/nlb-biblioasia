@@ -115,31 +115,31 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 [^1]: Angelica Ang, “Singapore Indie Cinema the Projector Ceases Operations from Aug 19 After over a Decade,” _Straits Times_, 19 August 2025, [https://www.straitstimes.com/life/local-indie-theatre-the-projector-to-cease-operations-on-aug-19-after-a-decade](https://www.straitstimes.com/life/local-indie-theatre-the-projector-to-cease-operations-on-aug-19-after-a-decade); Sharanya Pillai, Tessa Oh and Paige Lim, “The Projector Owes S$1.2 Million to Creditors; Golden Mile Cinema Put Up for Rent,” _Business Times_, 19 August 2025, [https://www.businesstimes.com.sg/companies-markets/projector-owes-s1-2-million-creditors-golden-mile-cinema-put-rent](https://www.businesstimes.com.sg/companies-markets/projector-owes-s1-2-million-creditors-golden-mile-cinema-put-rent).&nbsp;
 
 
-[^2]: Therese Soh, “Cathay Cineplexes Ceases Operations As Talks With Creditors Fall Through,” _Business Times_, 1 September 2025, https://www.businesstimes.com.sg/companies-markets/cathay-cineplexes-ceases-operations-talks-creditors-fall-through.&nbsp;
+[^2]: Therese Soh, “Cathay Cineplexes Ceases Operations As Talks With Creditors Fall Through,” _Business Times_, 1 September 2025, [https://www.businesstimes.com.sg/companies-markets/cathay-cineplexes-ceases-operations-talks-creditors-fall-through](https://www.businesstimes.com.sg/companies-markets/cathay-cineplexes-ceases-operations-talks-creditors-fall-through).&nbsp;
 
 
-[^3]: Tan Chui Hua, “The Theatres of Bangsawan,” _BiblioAsia_ 15, no. 4 (January–March 2020): 8–13.
+[^3]: Tan Chui Hua, “[The Theatres of Bangsawan](https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/),” _BiblioAsia_ 15, no. 4 (January–March 2020): 8–13.
 
 
-[^4]: Bonny Tan, “From Tents to Picture Palaces: Early Singapore Cinema,” _BiblioAsia_ 11, no. 1 (April–June 2015): 6–11; Barbara Quek, “Cinema Pioneer Tan Cheng Kee,” _BiblioAsia_ 18, no. 1 (April–June 2022): 54–57. &nbsp;
+[^4]: Bonny Tan, “[From Tents to Picture Palaces: Early Singapore Cinema](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/early-sg-cinema/),” _BiblioAsia_ 11, no. 1 (April–June 2015): 6–11; Barbara Quek, “[Cinema Pioneer Tan Cheng Kee](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/),” _BiblioAsia_ 18, no. 1 (April–June 2022): 54–57. &nbsp;
 
 
-[^5]: Quek, “Cinema Pioneer Tan Cheng Kee.”
+[^5]: Quek, “[Cinema Pioneer Tan Cheng Kee](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/).”
 
 
-[^6]: Tan, “From Tents to Picture Palaces: Early Singapore Cinema”; Quek, “Cinema Pioneer Tan Cheng Kee.”
+[^6]: Tan, “[From Tents to Picture Palaces: Early Singapore Cinema](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/early-sg-cinema/)”; Quek, “[Cinema Pioneer Tan Cheng Kee](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/).”
 
 
-[^7]: Quek, “Cinema Pioneer Tan Cheng Kee.”
+[^7]: Quek, “[Cinema Pioneer Tan Cheng Kee](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/).”
 
 
-[^8]: Bonny Tan, “Living It Up at the Capitol,” _BiblioAsia_ 13, no. 4 (January–March 2018): 16–21.&nbsp;
+[^8]: Bonny Tan, “[Living It Up at the Capitol](https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/living-up-at-capitol/),” _BiblioAsia_ 13, no. 4 (January–March 2018): 16–21.&nbsp;
 
 
-[^9]: Tan, “Living It Up at the Capitol.”
+[^9]: Tan, “[Living It Up at the Capitol](https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/living-up-at-capitol/).”
 
 
-[^10]: Soh Gek Han, “Key Milestones in the History of Cathay Cinema,” _BiblioAsia_ (2022).&nbsp;
+[^10]: Soh Gek Han, “[Key Milestones in the History of Cathay Cinema](https://biblioasia.nlb.gov.sg/history-cathay-cinema-2022/),” _BiblioAsia_ (2022).&nbsp;
 
 
 
