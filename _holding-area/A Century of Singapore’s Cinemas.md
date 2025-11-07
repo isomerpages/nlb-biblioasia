@@ -194,43 +194,43 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 [^25]: National Library Board, “Urban Oasis,” Curiocity, last updated 27 August 2025, [https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/](https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/); Richard H., “JCube: A Pictorial Memorial,” Urban Red Dot, 7 August 2023, [https://urbanreddot.substack.com/p/jcube-a-pictorial-memorial](https://urbanreddot.substack.com/p/jcube-a-pictorial-memorial); “Corporate History,” Cathay Organisation, accessed 3 October 2025, [https://cathay.com.sg/about-us/corporate-history/](https://cathay.com.sg/about-us/corporate-history/).&nbsp;
 
 
-[^26]: Genevieve Cua, “Group to Set Up $500 M S’pore-Wide Cable Network,” _Business Times_, 18 July 1994, 1. (From NewspaperSG)&nbsp;
+[^26]: Genevieve Cua, “[Group to Set Up $500 M S’pore-Wide Cable Network](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19940718-1.2.5),” _Business Times_, 18 July 1994, 1. (From NewspaperSG)&nbsp;
 
 
-[^27]: Catherine Ong, “SCV Sets Rates at $29.95 a Month for Basic Package,”&nbsp; _Business Times_, 8 June 1995, 2. (From NewspaperSG)
+[^27]: Catherine Ong, “[SCV Sets Rates at $29.95 a Month for Basic Package](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19950608-1.2.12.2),”&nbsp; _Business Times_, 8 June 1995, 2. (From NewspaperSG)
 
 
-[^28]: “Pay TV Subscribers (End of Period), Annual,” Singapore Department of Statistics, accessed 3 October 2025, https://data.gov.sg/datasets/d\_940152f94433823108acfd8b19fb0834/view?columnLegendPage=1.
+[^28]: “Pay TV Subscribers (End of Period), Annual,” Singapore Department of Statistics, accessed 3 October 2025, [https://data.gov.sg/datasets/d\_940152f94433823108acfd8b19fb0834/view?columnLegendPage=1](https://data.gov.sg/datasets/d_940152f94433823108acfd8b19fb0834/view?columnLegendPage=1).
 
 
-[^29]: “S’pore Still on Piracy Watch List,” _Straits Times_, 2 April 2000, 35. (From NewspaperSG)
+[^29]: “[S’pore Still on Piracy Watch List](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20000402-1.2.46.6),” _Straits Times_, 2 April 2000, 35. (From NewspaperSG)
 
 
-[^30]: Claire Leow, “Eng Wah to Demolish Jubilee Theatre,” _Business Times_, 30 November 1994, 19. (From NewspaperSG)
+[^30]: Claire Leow, “[Eng Wah to Demolish Jubilee Theatre](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19941130-1.2.51.2),” _Business Times_, 30 November 1994, 19. (From NewspaperSG)
 
 
 
 
 
-[^31]: National Heritage Board, “Fairfield Methodist Church (Former Metropole Cinema),” Roots, last updated 28 October 2021, https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/fairfield-methodist-church.&nbsp;
+[^31]: National Heritage Board, “Fairfield Methodist Church (Former Metropole Cinema),” Roots, last updated 28 October 2021, [https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/fairfield-methodist-church](https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/fairfield-methodist-church).&nbsp;
 
 
-[^32]: National Heritage Board, “ERA APAC Centre (Former Toa Payoh Cinema)”; Heirwin Md Nasir and Gladys Low, “Majestic Theatre,” _Singapore Infopedia_. Article published July 2024; “Majestic Smart Seniors Applied Learning Centre,” RSVP Singapore, accessed 3 October 2025, https://rsvp.org.sg/mssalc/.&nbsp;
+[^32]: National Heritage Board, “ERA APAC Centre (Former Toa Payoh Cinema)”; Heirwin Md Nasir and Gladys Low, “[Majestic Theatre](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8ea083a8-f59c-4ca7-815f-b8c114ddf51a),” _Singapore Infopedia_. Article published July 2024; “Majestic Smart Seniors Applied Learning Centre,” RSVP Singapore, accessed 3 October 2025, [https://rsvp.org.sg/mssalc/](https://rsvp.org.sg/mssalc/).&nbsp;
 
 
-[^33]: Cornelius-Takahama and Ong, “Cathay Building”; National Heritage Board, “Former Cathay Building (Now The Cathay),” Roots, last updated 1 July 2022, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/former-cathay-building-now-the-cathay; “Capitol Theatre, Capitol Building and Stamford House,” Urban Redevelopment Authority, accessed 3 October 2025, https://www.ura.gov.sg/Conservation-Portal/Explore/History.aspx?bldgid=SRNBR.
+[^33]: Cornelius-Takahama and Ong, “[Cathay Building](https://www.nlb.gov.sg/main/article-detail?cmsuuid=931604b4-b9cc-46aa-b2e8-487721be4061)”; National Heritage Board, “Former Cathay Building (Now The Cathay),” Roots, last updated 1 July 2022, [https://www.roots.gov.sg/places/places-landing/Places/national-monuments/former-cathay-building-now-the-cathay](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/former-cathay-building-now-the-cathay); “Capitol Theatre, Capitol Building and Stamford House,” Urban Redevelopment Authority, accessed 3 October 2025, [https://www.ura.gov.sg/Conservation-Portal/Explore/History.aspx?bldgid=SRNBR](https://www.ura.gov.sg/Conservation-Portal/Explore/History.aspx?bldgid=SRNBR).
 
 
-[^34]: “History of Internet in Singapore: From Niche Toy to Must Have Essential,” GovTech Singapore, 12 August 2021, https://www.tech.gov.sg/media/technews/history-of-the-internet/.&nbsp;
+[^34]: “History of Internet in Singapore: From Niche Toy to Must Have Essential,” GovTech Singapore, 12 August 2021, [https://www.tech.gov.sg/media/technews/history-of-the-internet/](https://www.tech.gov.sg/media/technews/history-of-the-internet/).&nbsp;
 
 
-[^35]: “Cinema, Seating Capacity And Attendances, Annual,” Singapore Department of Statistics, accessed 3 October 2025, https://data.gov.sg/datasets/d_db2db28d64339467a1d44f4026f0dd7a/view?columnLegendPage=1&amp;dataExplorerSort=%7B%222022%22%3A%22DESC%22%7D.
+[^35]: “Cinema, Seating Capacity And Attendances, Annual,” Singapore Department of Statistics, accessed 3 October 2025, [https://data.gov.sg/datasets/d_db2db28d64339467a1d44f4026f0dd7a/view?columnLegendPage=1&amp;dataExplorerSort=%7B%222022%22%3A%22DESC%22%7D](https://data.gov.sg/datasets/d_db2db28d64339467a1d44f4026f0dd7a/view?columnLegendPage=1&amp;dataExplorerSort=%7b%222022%22:%22DESC%22%7d).
 
 
-[^36]: John Lui, “JB Cinemas Are Getting More Popular with S’poreans. How are Local Operators Upping Their Game?,” _Straits Times_, 1 October 2025, https://www.straitstimes.com/life/entertainment/jb-cinemas-are-getting-more-popular-with-sporeans-how-are-local-operators-upping-their-game.
+[^36]: John Lui, “JB Cinemas Are Getting More Popular with S’poreans. How are Local Operators Upping Their Game?,” _Straits Times_, 1 October 2025, [https://www.straitstimes.com/life/entertainment/jb-cinemas-are-getting-more-popular-with-sporeans-how-are-local-operators-upping-their-game](https://www.straitstimes.com/life/entertainment/jb-cinemas-are-getting-more-popular-with-sporeans-how-are-local-operators-upping-their-game).
 
 
-[^37]: Jan Lee, “Filmgarde Cineplexes Shuts Down Last Outlet at Kallang, Exits Industry,” _Straits Times_, 25 March 2025, https://www.straitstimes.com/life/entertainment/filmgarde-cineplexes-shuts-down-last-kallang-outlet-exits-industry; Lakeisha Leo, “The Cathay Cineplex in Handy Road to Close on Jun 26, Independent Cinema the Projector to Enter as Pop-Up,” CNA, 17 June 2022, https://www.channelnewsasia.com/singapore/cathay-cineplex-handy-road-close-jun-26-projector-cathay-building-2753516; Yasmin Begum, “Cathay Cineplex at Parkway Parade to Close on Aug 27,” CNA, 21 August 2023, https://www.channelnewsasia.com/singapore/cathay-cineplex-cinema-parkway-parkway-close-shut-aug-27-3712996; Renee Quek, “Cathay Cineplexes at AMK Hub to Close After Jun 30,” CNA, 20 June 2024, https://www.channelnewsasia.com/singapore/cathay-cineplexes-amk-hub-close-jun-30-cinema-close-jun-30-4421641; Hazeeq Sukri, “Golden Village X the Projector at Cineleisure Launching in December, Will Feature Blockbusters, Indie Films, Live Music,” CNA, 13 June 2023, https://cnalifestyle.channelnewsasia.com/entertainment/golden-village-projector-cineleisure-orchard-december-2023-361196.
+[^37]: Jan Lee, “Filmgarde Cineplexes Shuts Down Last Outlet at Kallang, Exits Industry,” _Straits Times_, 25 March 2025, [https://www.straitstimes.com/life/entertainment/filmgarde-cineplexes-shuts-down-last-kallang-outlet-exits-industry](https://www.straitstimes.com/life/entertainment/filmgarde-cineplexes-shuts-down-last-kallang-outlet-exits-industry); Lakeisha Leo, “The Cathay Cineplex in Handy Road to Close on Jun 26, Independent Cinema the Projector to Enter as Pop-Up,” CNA, 17 June 2022, [https://www.channelnewsasia.com/singapore/cathay-cineplex-handy-road-close-jun-26-projector-cathay-building-2753516](https://www.channelnewsasia.com/singapore/cathay-cineplex-handy-road-close-jun-26-projector-cathay-building-2753516); Yasmin Begum, “Cathay Cineplex at Parkway Parade to Close on Aug 27,” CNA, 21 August 2023, [https://www.channelnewsasia.com/singapore/cathay-cineplex-cinema-parkway-parkway-close-shut-aug-27-3712996](https://www.channelnewsasia.com/singapore/cathay-cineplex-cinema-parkway-parkway-close-shut-aug-27-3712996); Renee Quek, “Cathay Cineplexes at AMK Hub to Close After Jun 30,” CNA, 20 June 2024, [https://www.channelnewsasia.com/singapore/cathay-cineplexes-amk-hub-close-jun-30-cinema-close-jun-30-4421641](https://www.channelnewsasia.com/singapore/cathay-cineplexes-amk-hub-close-jun-30-cinema-close-jun-30-4421641); Hazeeq Sukri, “Golden Village X the Projector at Cineleisure Launching in December, Will Feature Blockbusters, Indie Films, Live Music,” CNA, 13 June 2023, [https://cnalifestyle.channelnewsasia.com/entertainment/golden-village-projector-cineleisure-orchard-december-2023-361196](https://cnalifestyle.channelnewsasia.com/entertainment/golden-village-projector-cineleisure-orchard-december-2023-361196).
 
 
 
