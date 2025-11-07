@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 By Nicholas Y.H. Wong
-
 #### **Hsu’s Nanyang Studies: Under the Shadow of Siamese Historiography**
 Before co-founding Chinese-language Southeast Asian (Nanyang or South
 Seas) studies in Singapore in 1940, the Suzhou-born historian Hsu Yun-
