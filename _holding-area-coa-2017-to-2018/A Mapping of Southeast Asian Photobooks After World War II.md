@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 By Zhuang Wubin
-
 #### **Introduction**
 There has been a surge in interest in photobooks since 2004, triggered by the
 publication of a series of richly illustrated volumes by publisher Phaidon,
