@@ -110,7 +110,17 @@ Older cinemas began closing despite attempts at reconfiguring themselves as cine
 
 In 1986, Fairfield Methodist Church acquired and refurbished the Metropole Theatre in Tanjong Pagar. The cinema, with its distinctive Modernist curves and wall-to-wall window facade, was designed by local architect Wong Foo Nam and completed in 1958.[^31]
 
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_majestic.jpg" style="width: 80%;">
+
+<div style="background-color: white;">Metropole Theatre at the junction of Tanjong Pagar Road and Maxwell Road, late 1960s. The building, which has a curved facade with floor-to-ceiling windows, presently serves as the Fairfield Methodist Church.<i> Collection of the National Museum of Singapore, National Heritage Board. </i></div>
+
+
 Toa Payoh’s eponymously named cinema, which opened in 1972, changed hands twice and is now ERA Asia-Pacific’s new headquarters. Majestic Theatre on Eu Tong Sen Street in Chinatown, a Swan &amp; Maclaren design, was granted conservation status in 1989. It currently houses the Majestic Smart Seniors Applied Learning Centre.[^32]
+
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_majestic.jpg" style="width: 60%;">
+
+<div style="background-color: white;">Majestic Theatre on Eu Tong Sen Street in Chinatown, 1960s. It was designed by Swan &amp; Maclaren in a mix of Western and Chinese architectural styles. The building today houses the Smart Seniors Applied Learning Centre by RSVP Singapore.<i> RAFSA Collection, courtesy of National Archives of Singapore (Media - Image no. 20220000214 - 1262). </i></div>
+
 
 By the 2000s, standalone cinemas were well on their way to becoming extinct. Recognising this, the state decided to designate Cathay Building’s Art Deco facade as a national monument in 2003, while the building itself was demolished and replaced by a modern steel-and-glass construction. In 2007, the same conservation status was granted to Capitol Theatre.[^33]
 
