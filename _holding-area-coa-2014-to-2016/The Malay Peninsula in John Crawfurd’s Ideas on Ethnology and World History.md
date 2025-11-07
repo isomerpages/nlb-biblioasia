@@ -4,6 +4,8 @@ permalink: /holding-area/chapters-on-asia-2014-2017/malay-peninsula-john-crawfur
 variant: markdown
 description: ""
 ---
+By Wilbert Wong Wei Wen
+
 #### **Introduction**
 Studying colonial writings, let alone understanding them, is a complex
 undertaking. Ideas were relative to the author and could change over

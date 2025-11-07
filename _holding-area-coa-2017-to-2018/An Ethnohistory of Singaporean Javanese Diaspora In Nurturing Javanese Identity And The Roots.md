@@ -5,7 +5,8 @@ permalink: /holding-area/chapters-on-asia-2017-2018/ethnohistory-singaporean-jav
 variant: markdown
 description: ""
 ---
-#### **Introduction**
+By Fuji Riang Prastow
+### **Introduction**
 On 29 May 2016, the Javanese Association of Singapore (JAS) conducted
 the opening ceremony of the exhibition *Pusåkå* held at the Malay Heritage
 Centre. Posing for group photos in front of a Malay-style building on a

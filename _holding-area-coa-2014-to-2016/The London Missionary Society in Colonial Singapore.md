@@ -4,6 +4,8 @@ permalink: /holding-area/chapters-on-asia-2014-2017/london-missionary-society-co
 variant: markdown
 description: ""
 ---
+By Dr Sandra Hudd
+
 #### **Introduction**
 It did not take long for the London Missionary Society (LMS ) to arrive in
 Singapore after Stamford Raffles of the British East India Company signed
