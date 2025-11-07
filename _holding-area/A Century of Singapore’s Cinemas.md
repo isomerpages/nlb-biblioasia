@@ -25,6 +25,11 @@ Singapore’s first enclosed cinema – the Paris Cinematograph – opened in 19
 
 As “talkies” (films with sound) came on the scene, _bangsawan_ failed to compete and former _bangsawan_ venues were converted into movie theatres. In February 1935, Theatre Royal on North Bridge Road – ostensibly the first permanent _bangsawan_ venue – was modernised, renamed Royal Theatre and eventually screened Tamil “talkies” in place of _bangsawan_ performances.[^3]&nbsp;
 
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_royal.jpg" style="width: 80%;">
+
+<div style="background-color: white;">Theatre Royal on North Bridge Road, c. 1910. It was the first permanent venue for <i>bangsawan</i> (Malay opera) performances. <i> Courtesy of National Archives of Singapore (Media - Image no. 19980007360 - 0033). </i></div>
+
+
 Meanwhile, with their moving images (and eventually sound), cinemas in Singapore grew in popularity. New venues appeared, some of which became household names and geographical landmarks. In 1909, Tan Cheng Kee – the eldest son of the Melaka-born Peranakan entrepreneur Tan Keong Saik (Keong Saik Road in Singapore was named after him) – bought the Marlborough and the adjacent Alhambra theatres on Beach Road. He rebuilt the Alhambra in 1914 per the design of Eurasian architect J.B. Westerhout and reopened it to great fanfare in 1916.[^4]
 
 The cinema was nicknamed “Hai Kee”, meaning “edge of the sea” in Hokkien because of its beachfront location. The Alhambra could seat 3,500 patrons who could take in the sea view from its tea garden, which came with a live orchestra to boot.[^5] These marked Tan’s first forays into Singapore’s cinema business. His pioneering moves predated the better-known Shaw Brothers and Cathay Organisation by more than a decade. &nbsp;
