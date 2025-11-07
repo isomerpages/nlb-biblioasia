@@ -5,7 +5,7 @@ permalink: /holding-area/chapters-on-asia-2020/chinese-rice-commerce-colonial-vi
 variant: markdown
 description: ""
 ---
-By Anh Sy Huy Len
+By Anh Sy Huy Len<br>
 In the mid-19th century, as the French empire began to consolidate its
 foothold in Southeast Asia, the Chinese rice trade became the cornerstone
 of the colonial economy. On the back of this trade, the port city of Sài Gòn–
