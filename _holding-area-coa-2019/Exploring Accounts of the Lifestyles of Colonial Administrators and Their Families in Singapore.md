@@ -5,6 +5,7 @@ permalink: /holding-area/chapters-on-asia-2019/lifestyles-of-colonial-administra
 variant: markdown
 description: ""
 ---
+By Emma Harper
 #### **Introduction**
 
 In 1900, British traveller and sometime political activist Ethel Colquhoun
