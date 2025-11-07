@@ -32,6 +32,11 @@ As “talkies” (films with sound) came on the scene, _bangsawan_ failed to com
 
 Meanwhile, with their moving images (and eventually sound), cinemas in Singapore grew in popularity. New venues appeared, some of which became household names and geographical landmarks. In 1909, Tan Cheng Kee – the eldest son of the Melaka-born Peranakan entrepreneur Tan Keong Saik (Keong Saik Road in Singapore was named after him) – bought the Marlborough and the adjacent Alhambra theatres on Beach Road. He rebuilt the Alhambra in 1914 per the design of Eurasian architect J.B. Westerhout and reopened it to great fanfare in 1916.[^4]
 
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_marl.jpg" style="width: 80%;">
+
+<div style="background-color: white;">The Marlborough on Beach Road, 1938–39. Along with the Alhambra, it was demolished in the 1970s to make way for the Shaw Towers complex. <i> RAFSA Collection, courtesy of National Archives of Singapore Media - Image no. 20170000052 - 0172). </i></div>
+
+
 The cinema was nicknamed “Hai Kee”, meaning “edge of the sea” in Hokkien because of its beachfront location. The Alhambra could seat 3,500 patrons who could take in the sea view from its tea garden, which came with a live orchestra to boot.[^5] These marked Tan’s first forays into Singapore’s cinema business. His pioneering moves predated the better-known Shaw Brothers and Cathay Organisation by more than a decade. &nbsp;
 
 Tan went on to acquire the Palladium on Orchard Road in 1918 for $25,000 – way below its $60,000 construction cost. Tan remodelled this erstwhile rival of the Alhambra, renaming it the Pavilion in 1925.[^6] At the same time, he rebuilt his first acquisition – the Marlborough – and equipped it with electric fans and lighting to make for a more comfortable viewer experience.&nbsp;
@@ -39,6 +44,11 @@ Tan went on to acquire the Palladium on Orchard Road in 1918 for $25,000 – way
 A shrewd businessman, Tan was an inveterate upgrader who willingly invested to make his cinemas relevant and appealing. In 1930, he shelled out $100,000 to update and improve the Alhambra which, together with the screening rights he obtained from major film producers Metro-Goldwyn-Mayer, United Artists, Fox Film Corporation and Warner Brothers, ensured that the crowds kept coming.[^7]
 
 The late 1920s onwards saw a boom in the movie theatre industry. In 1929, Jubilee Theatre on North Bridge Road opened. It was among the first cinemas to be installed with equipment to support “talkies”. In the 1950s, it was the premier theatre for Cantonese films, with bookings having to be made one week in advance.&nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_jubilee.jpg" style="width: 60%;">
+
+<div style="background-color: white;">Jubilee Theatre on North Bridge Road, 1937–38. It was demolished in the 1990s to make way for an annex to the Raffles Hotel, and today comprises shops, restaurants and Jubilee Hall.<i> RAFSA Collection, courtesy of National Archives of Singapore (Media - Image no. 20170000052 - 0152).  </i></div>
+
 
 A year later, Capitol Theatre, owned by the Namazie brothers, opened on 22 May 1930. Located at the junction of Stamford Road and North Bridge Road, it was not just another cinema. It was a high-end destination that exuded a touch of upmarket class that none of the other cinemas quite managed to replicate.[^8]
 
@@ -48,6 +58,11 @@ Its ventilation system, novel and innovative for its time, pumped in cooled air 
 
 The others were not to be outdone though. On 3 October 1939, Singapore’s first skyscraper, the 16-storey Cathay Building opened at the foot of Mount Sophia. Housing a hotel, a restaurant and Singapore’s first air-conditioned cinema with 1,321 seats, it was owned by the film magnate Loke Wan Tho, who established Cathay Organisation in 1935.[^10]
 
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_16.jpg" style="width: 60%;">
+
+<div style="background-color: white;">The Marlborough on Beach Road, 1938–39. Along with the Alhambra, it was demolished in the 1970s to make way for the Shaw Towers complex. <i> RAFSA Collection, courtesy of National Archives of Singapore Media - Image no. 20170000052 - 0172). </i></div>
+
+
 On 15 February 1942, the British surrendered Singapore to the Japanese after a bruising 70-day campaign that saw them retreat down the length of the Malay Peninsula. Cathay Building, which was hit by enemy gunfire, was appropriated by the Japanese during the occupation years and renamed Dai Toa Gekijo (Greater Eastern Asian Theatre). It was used as the base for Radio Syonan, and as the headquarters of the propaganda department and the military information bureau.&nbsp;
 
 #### **Postwar Recovery and Growth (1946–65)**
@@ -55,6 +70,11 @@ On 15 February 1942, the British surrendered Singapore to the Japanese after a b
 After the war, the cinema industry underwent a period of consolidation and growth. In 1946, Shaw Brothers – founded by Shanghainese brothers Runme Shaw and Run Run Shaw in 1928, who were originally from Ningbo, China – acquired Capitol Theatre.[^11] Tan Cheng Kee’s cinema empire, which had divested the Alhambra and the Marlborough in the late 1930s to Shaw Brothers, exited the scene.[^12] &nbsp;
 
 Shaw Brothers, which became the holding company Shaw Organisation in 1988, built Shaw House at the junction of Orchard Road and Scotts Road. The 10-storey building officially opened in November 1958, and was constructed using Italian marble, specially hammered plaster and Venetian glass mosaic tiles. Lido Cinema, described as the “most luxurious theatre in Singapore” by the _Straits Times_, opened beside Shaw House in February 1959.[^13]
+
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_lido.jpg" style="width: 80%;">
+
+<div style="background-color: white;">Lido Theatre and Shaw House at the junction of Orchard Road and Scotts Road, 1960s. Both buildings were demolished in 1990 to make way for the present-day Shaw House which houses Lido cineplex, Isetan Department Store and retail shops. <i> Courtesy of National Archives of Singapore (Media - Image no. 19980002919 - 0084). </i></div>
+
 
 Cathay Organisation also began expanding its cinema chain.[^14] In January 1951, Cathay, after renovating and renaming the Alhambra as the New Alhambra, reopened a year later with a screening of the Western film, _Broken Arrow_.[^15]
 
