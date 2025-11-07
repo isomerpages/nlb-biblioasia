@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 By Chua Ai Lin
-
 #### **Introduction**
 In January 1936, an article in *The Singapore Free Press and Mercantile
 Advertiser* remarked that with so many American filmmakers arriving
