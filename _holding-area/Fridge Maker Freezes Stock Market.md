@@ -131,6 +131,10 @@ The decision proved prescient for Pan-El as it rode on the global shipping boom 
 
 Between 1973 and 1975, Pan-El achieved “record-breaking performances” with pre-tax profits increasing from $236,000 in 1972 to $15.73 million in 1975. In 1973, the company made inroads into property development by acquiring Vanguard Realty and Development Pte Ltd, which “paid off handsomely through the years”.[^45]
 
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_ad1.png" style="width: 80%;">
+
+<div style="background-color: white;">A 1974 Pan-Electric advertisement for its new range of Permadoor refrigerators that were built with rust-proof, scratch-resistant and easy-to-clean materials. The refrigerators also came in a range of colours. <i>Source: The Straits Annual, 1 January 1974, 150–51 © SPH Media Limited. Permission required for reproduction. </i></div>
+
 In 1976, Pan-El underwent reorganisation&nbsp; and became a holding company with its activities carried out by wholly owned subsidiaries. The electrical appliances business came under Pan-Electric Appliances (PEA), which merged with Acma Electrical Industries Ltd, another well-known local appliance maker, in 1981. According to Kahlenberg, there was “a pressing need for manufacturing and service industries in like fields to get together and group themselves into large units”.[^46]&nbsp;
 
 <img src="/images/Vol%2021%20Issue%204/PanEl/panel_staff.png" style="width: 80%;">
@@ -142,10 +146,6 @@ With the merger, Pan-El announced that they would no longer be directly involved
 Under new management, Pan-El pursued opportunities in the hotel and property sectors, including an industrial estate project along Tagore Avenue, and acquiring an 80 percent stake in Orchard Hotel and a 64.5 percent stake in developer F L Investments. The company further expanded into marine services, buying an energy company, erecting the world’s largest desalination plant and acquiring controlling interests in a shipyard, financing such ventures with bank loans.[^48]
 
 As the first domestic fridge maker in 1965, Pan-El had contributed to Singapore’s economic progress during its nation-building years. At the time of its collapse in 1985, Pan-El was a large investment holding company with no fewer than 60 subsidiaries and 10 associate companies.[^49]
-
-<img src="/images/Vol%2021%20Issue%204/PanEl/panel_ad1.png" style="width: 80%;">
-
-<div style="background-color: white;">A 1974 Pan-Electric advertisement for its new range of Permadoor refrigerators that were built with rust-proof, scratch-resistant and easy-to-clean materials. The refrigerators also came in a range of colours. <i>Source: The Straits Annual, 1 January 1974, 150–51 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 Although the stock market eventually recovered, the same could not be said for the company which was ordered to be wound up on 9 October 1986. The Pan-El brand also disappeared from the market when Acma stopped using the name on its refrigerators and air conditioners in 1986.[^50] By then, the brand was so tainted that no one would have wanted to own any appliances bearing the Pan-El name.
 
