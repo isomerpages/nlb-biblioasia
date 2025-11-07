@@ -191,7 +191,7 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 
 
 
-[^25]: National Library Board, “Urban Oasis,” Curiocity, last updated 27 August 2025, [https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/](https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/); Richard H., “JCube: A Pictorial Memorial,” Urban Red Dot, 7 August 2023, https://urbanreddot.substack.com/p/jcube-a-pictorial-memorial; “Corporate History,” Cathay Organisation, accessed 3 October 2025, https://cathay.com.sg/about-us/corporate-history/.&nbsp;
+[^25]: National Library Board, “Urban Oasis,” Curiocity, last updated 27 August 2025, [https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/](https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/); Richard H., “JCube: A Pictorial Memorial,” Urban Red Dot, 7 August 2023, [https://urbanreddot.substack.com/p/jcube-a-pictorial-memorial](https://urbanreddot.substack.com/p/jcube-a-pictorial-memorial); “Corporate History,” Cathay Organisation, accessed 3 October 2025, [https://cathay.com.sg/about-us/corporate-history/](https://cathay.com.sg/about-us/corporate-history/).&nbsp;
 
 
 [^26]: Genevieve Cua, “Group to Set Up $500 M S’pore-Wide Cable Network,” _Business Times_, 18 July 1994, 1. (From NewspaperSG)&nbsp;
