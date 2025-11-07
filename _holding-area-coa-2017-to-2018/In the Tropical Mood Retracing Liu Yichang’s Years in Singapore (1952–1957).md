@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 By Lim Fong Wei
-
 ### **Introduction**
 In 2000, a new generation was introduced to Hong Kong writer Liu
 Yichang (刘以鬯, 7 December 1918 – 8 June 2018) through the technicoloursaturated
