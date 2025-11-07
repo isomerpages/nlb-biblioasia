@@ -4,6 +4,8 @@ permalink: /holding-area/chapters-on-asia-2014-2017/teochew-1819-founding-singap
 variant: markdown
 description: ""
 ---
+By Jason Heng
+
 #### **Introduction: The Chinese in Singapore Before Raffles**
 
 The landing of Sir Stamford Raffles at the Singapore River on 28 January
