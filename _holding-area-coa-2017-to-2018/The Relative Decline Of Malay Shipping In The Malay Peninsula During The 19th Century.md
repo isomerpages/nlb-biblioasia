@@ -6,7 +6,6 @@ variant: markdown
 description: ""
 ---
 By Scot Abel
-
 #### **Introduction**
 For untold centuries, the *perahu* (sailing vessels) of the Malay people plied
 the waters of the Indonesian archipelago for the purposes of trade, warfare
