@@ -47,6 +47,10 @@ The crisis “led to scores of failed businesses and half a dozen stockbroking f
 
 The sudden closure impacted all investors, even those who did not hold any Pan-El stocks, inviting harsh criticisms from the foreign press. Singapore’s reputation as an international stock exchange took a hit and confidence in its trading centre was shaken.[^15]
 
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_closure.png" style="width: 80%;">
+
+<div style="background-color: white;">The&nbsp;<i>Straits Times</i>&nbsp;announcing the closure of the Stock Exchange of Singapore. <i>  Source: The Straits Times, 2 December 1985, 1 © SPH Media Limited. Permission required for reproduction. </i></div>
+
 Pan-El’s collapse also affected employees financially and emotionally. “We are angry because all this is not our fault,” said a long-time employee of subsidiary Selco. “We don’t even know if we will be paid… There are men whose wives are not working.” He added that some of the workers had just bought houses after working for 10 to 15 years. [^16] &nbsp;
 
 Over at Pan-El, a number of men cried. “Some of them have wives who do not work, with children still at school and other commitments,” said an employee who had been working in Pan-El for 15 years. She was more concerned for her older colleagues. “They don’t have the paper qualifications the younger people have. They will be hard hit when they go out to look for a job.”[^17]
