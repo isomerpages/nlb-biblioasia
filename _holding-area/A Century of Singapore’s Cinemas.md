@@ -149,7 +149,7 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 
 
 <div style="background-color: white;">
-<b>Alvin Tan</b>&nbsp;is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of _Singapore: A Very Short History – From Temasek to Tomorrow_ (Talisman Publishing, 2nd edition, 2022) and the editor of _Singapore at Random: Magic, Myths and Milestones_ (Talisman Publishing, 2021).</div>
+<b>Alvin Tan</b>&nbsp;is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> (Talisman Publishing, 2nd edition, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
 
 #### **Notes**
 
