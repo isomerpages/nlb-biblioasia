@@ -110,7 +110,7 @@ Older cinemas began closing despite attempts at reconfiguring themselves as cine
 
 In 1986, Fairfield Methodist Church acquired and refurbished the Metropole Theatre in Tanjong Pagar. The cinema, with its distinctive Modernist curves and wall-to-wall window facade, was designed by local architect Wong Foo Nam and completed in 1958.[^31]
 
-<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_majestic.jpg" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_metropole.jpg" style="width: 80%;">
 
 <div style="background-color: white;">Metropole Theatre at the junction of Tanjong Pagar Road and Maxwell Road, late 1960s. The building, which has a curved facade with floor-to-ceiling windows, presently serves as the Fairfield Methodist Church.<i> Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
