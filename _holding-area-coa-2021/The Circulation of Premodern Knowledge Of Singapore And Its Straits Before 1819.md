@@ -4,6 +4,7 @@ permalink: /holding-area/chapters-on-asia-2021/the-circulation-of-premodern-know
 variant: markdown
 description: ""
 ---
+By Benjamin J. Q. Khoo
 #### **Introduction**
 
 In 1907, the British colonial official Frank Swettenham expressed his
