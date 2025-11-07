@@ -4,7 +4,9 @@ permalink: /holding-area/chapters-on-asia-2014-2017/netherlands-east-indies-comm
 variant: markdown
 description: ""
 ---
-   *In the Dutch East Indies, the demeanour of the native<br>
+By Kankan Xie
+
+*In the Dutch East Indies, the demeanour of the native<br>
    towards the European has passed by successive stages from an almost*<br>
    *abject deference to a thinly veiled hostility. The Dutch colonists<br>
    are accordingly anxious and restive about the ultimate outcome<br>
