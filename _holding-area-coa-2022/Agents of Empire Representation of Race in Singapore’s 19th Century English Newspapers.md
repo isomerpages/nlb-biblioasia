@@ -5,6 +5,7 @@ permalink: /holding-area/chapters-on-asia-2022/agents-of-empire-representation/
 variant: markdown
 description: ""
 ---
+By Abishek Mehrotra
 #### **Introduction**
 
 Singapore’s first newspaper, the  <i> Singapore Chronicle </i> , was published a mere five years after Stamford Raffles stepped ashore in 1819.[^1] Soon, the printed word took such a hold of the public mind that busy merchants in Commercial Square (now Raffles Place) were spending a half hour daily discussing the news, including commodity prices and the arrival and departure of cargo-laden ships.[^2]
