@@ -1,0 +1,7 @@
+collections:
+  holding-area:
+    output: true
+    order:
+      - A Century of Singapore’s Cinemas.md
+      - Fridge Maker Freezes Stock Market.md
+      - Sample article.md
