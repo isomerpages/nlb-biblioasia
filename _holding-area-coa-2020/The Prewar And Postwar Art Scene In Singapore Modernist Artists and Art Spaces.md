@@ -4,6 +4,7 @@ permalink: /holding-area/chapters-on-asia-2020/prewar-and-postwar-art-scene/
 variant: markdown
 description: ""
 ---
+By Lee Chor Lin
 #### **Introduction**
 In September 1935, a group of immigrant Chinese artists established the
 Society of Chinese Artists (SOCA; 中華美術研究會), or Société des artistes
