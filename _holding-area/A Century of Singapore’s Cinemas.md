@@ -9,6 +9,12 @@ description: ""
 By Alvin Tan
 
 
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_main.jpg" style="width: 80%;">
+
+<div style="background-color: white;">Capitol Theatre and the adjoining Namazie Mansions at the junction of Stamford Road and North Bridge Road, c.1950. <i> Courtesy of National Archives of Singapore (Media - Image no. 19980005110 - 0043).</i></div>
+
+
+
 For film aficionados in Singapore, Tuesday, 19 August 2025, was a black day. That was when The Projector – Singapore’s only independent cinema – announced that it would cease all operations immediately, with all screenings and events cancelled. Citing “rising operational costs, shifting audience habits and the global decline in cinema attendance”, The Projector would go into liquidation with debts totalling $1.2 million.[^1] This was followed by an announcement a few weeks later that Cathay Cineplexes would be wound up and go into voluntary liquidation.[^2] Is this curtains for the cinema industry in Singapore? &nbsp;
 
 Cinemas were once institutions that served important social, cultural, educational and economic functions. In the pre-television era, these landmark buildings provided the people with communal experiences. Today, for most people, watching a movie has gone from being a shared experience to a siloed and personalised act of private, if not solitary, consumption, on a glass screen slightly wider than one’s palm. Or if one makes the effort to go to the cinema, it means traversing the many floors in a shopping mall before locating it on the uppermost floor, one option among the many offerings and services available.&nbsp;
