@@ -5,7 +5,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/historical-singapore-early-p
 variant: markdown
 description: ""
 ---
-BY Lee Ching Seng
+By Lee Ching Seng
 
 #### **Introduction**
 From its founding in 1819, modern Singapore has been a multiracial and
