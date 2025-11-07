@@ -4,6 +4,8 @@ permalink: /holding-area/chapters-on-asia-2014-2017/lancing-girls-cabarets-chari
 variant: markdown
 description: ""
 ---
+By Adeline Foo
+
 #### **Introduction**
 Who were the so-called “lancing” girls[^1] of yesteryear? They were the
 glamorous dance hostesses from the cabarets of the “big three” worlds of
