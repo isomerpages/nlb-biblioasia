@@ -181,17 +181,17 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 [^21]: Sharon Teng, “[Movies Beneath a Starry, Starry Night](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema/),” _BiblioAsia_ 17, no. 4 (January–March 2022): 19–23; Lito Gutierrez, “[It’s Curtains for Jurong Drive-In Tomorrow](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850929-1.2.24.1),” _Straits Times_, 29 September 1985, 10 (From NewspaperSG)&nbsp;
 
 
-[^22]: National Library Board, “Cinemas in Bras Basah,” Curiocity, last updated 27 August 2025, https://curiocity.nlb.gov.sg/digital-stories/bras-basah/bb-cinemas/; Teo Lian Huay, “Curtains to Come Down on Another Theatre,” _New Nation_, 29 September 1978, 2. (From NewspaperSG); Teng, “Movies Beneath a Starry, Starry Night.”
+[^22]: National Library Board, “Cinemas in Bras Basah,” Curiocity, last updated 27 August 2025, [https://curiocity.nlb.gov.sg/digital-stories/bras-basah/bb-cinemas/](https://curiocity.nlb.gov.sg/digital-stories/bras-basah/bb-cinemas/); Teo Lian Huay, “[Curtains to Come Down on Another Theatre](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19780929-1.2.9),” _New Nation_, 29 September 1978, 2. (From NewspaperSG); Teng, “[Movies Beneath a Starry, Starry Night](https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema/).”
 
 
-[^23]: Justin Zhuang, “Yishun 10,” DocomomoSG, accessed 3 October 2025, https://www.docomomo.sg/modernist-100/yishun-10. It was not until 1996 that the North-South Line was extended to Woodlands and beyond. Ratnala Thulaja Naidu, “Woodlands MRT Line,” _Singapore Infopedia_. Article published September 2019.&nbsp;
+[^23]: Justin Zhuang, “Yishun 10,” DocomomoSG, accessed 3 October 2025, [https://www.docomomo.sg/modernist-100/yishun-10](https://www.docomomo.sg/modernist-100/yishun-10). It was not until 1996 that the North-South Line was extended to Woodlands and beyond. Ratnala Thulaja Naidu, “[Woodlands MRT Line](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7c4f9862-8c93-4d99-96c8-bb2eecee4a4a),” _Singapore Infopedia_. Article published September 2019.&nbsp;
 
 
-[^24]: Zhuang, “Yishun 10”; “Crowds Pack Movieplex on Opening Day,” _Straits Times_, 29 May 1992, 33; “Yishun Cinema Offers Cards to Buy Film Tickets,” _Straits Times_, 9 May 1992, 25. (From NewspaperSG)&nbsp;
+[^24]: Zhuang, “Yishun 10”; “[Crowds Pack Movieplex on Opening Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920529-1.2.36.22),” _Straits Times_, 29 May 1992, 33; “[Yishun Cinema Offers Cards to Buy Film Tickets](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920509-1.2.31.16),” _Straits Times_, 9 May 1992, 25. (From NewspaperSG)&nbsp;
 
 
 
-[^25]: National Library Board, “Urban Oasis,” Curiocity, last updated 27 August 2025, https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/; Richard H., “JCube: A Pictorial Memorial,” Urban Red Dot, 7 August 2023, https://urbanreddot.substack.com/p/jcube-a-pictorial-memorial; “Corporate History,” Cathay Organisation, accessed 3 October 2025, https://cathay.com.sg/about-us/corporate-history/.&nbsp;
+[^25]: National Library Board, “Urban Oasis,” Curiocity, last updated 27 August 2025, [https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/](https://curiocity.nlb.gov.sg/digital-stories/jurong/new-town/); Richard H., “JCube: A Pictorial Memorial,” Urban Red Dot, 7 August 2023, https://urbanreddot.substack.com/p/jcube-a-pictorial-memorial; “Corporate History,” Cathay Organisation, accessed 3 October 2025, https://cathay.com.sg/about-us/corporate-history/.&nbsp;
 
 
 [^26]: Genevieve Cua, “Group to Set Up $500 M S’pore-Wide Cable Network,” _Business Times_, 18 July 1994, 1. (From NewspaperSG)&nbsp;
