@@ -6,7 +6,6 @@ variant: markdown
 description: ""
 ---
 By Fuji Riang Prastow
-
 ### **Introduction**
 On 29 May 2016, the Javanese Association of Singapore (JAS) conducted
 the opening ceremony of the exhibition *Pusåkå* held at the Malay Heritage
