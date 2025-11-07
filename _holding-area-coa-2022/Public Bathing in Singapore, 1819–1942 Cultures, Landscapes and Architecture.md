@@ -4,6 +4,7 @@ permalink: /holding-area/chapters-on-asia-2022/public-bathing-in-singapore/
 variant: markdown
 description: ""
 ---
+By Jesse O'Neil
 The east is essentially a land of bathing. The white man tubs<br>himself, the yellow man, the brown man and some of the black<br>men rub themselves – with water. The remainder prefer oil.<br>The first question a white man asks on arrival is “Have you a<br>swimming bath?”[^1]
 
 #### **Introduction**
