@@ -157,19 +157,19 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 [^14]: Bonny Tan, “Loke Wan Tho: The Man Who Built Cathay,” _BiblioAsia_ 18, no. 3 (October–December 2022): 60–68; Alvin Chua, “[Cathay Organisation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6e292eee-270c-4170-a1a7-7d73711f8888),” _Singapore Infopedia_. Article published 2011.&nbsp;
 
 
-[^15]: “[Alhambra to Be Renovated](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510113-1.2.103),” _Straits Times_, 13 January 1951, 5; “Face Lift for Singapore Cinema,” _Straits Times_, 14 January 1951, 11. (From NewspaperSG)
+[^15]: “[Alhambra to Be Renovated](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510113-1.2.103),” _Straits Times_, 13 January 1951, 5; “[Face Lift for Singapore Cinema](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510114-1.2.80.2),” _Straits Times_, 14 January 1951, 11. (From NewspaperSG)
 
 
-[^16]: Boon Chan, “Goh Eng Wah, Pioneer of Local Cinema Industry, Dies at 92 of Congestive Cardiac Failure,” _Straits Times_, 7 September 2015, https://www.straitstimes.com/lifestyle/entertainment/goh-eng-wah-pioneer-of-local-cinema-industry-dies-at-92-of-congestive.
+[^16]: Boon Chan, “Goh Eng Wah, Pioneer of Local Cinema Industry, Dies at 92 of Congestive Cardiac Failure,” _Straits Times_, 7 September 2015, [https://www.straitstimes.com/lifestyle/entertainment/goh-eng-wah-pioneer-of-local-cinema-industry-dies-at-92-of-congestive](https://www.straitstimes.com/lifestyle/entertainment/goh-eng-wah-pioneer-of-local-cinema-industry-dies-at-92-of-congestive).
 
 
-[^17]: Heirwin Mohd Nasir, “Goh Eng Wah,” _Singapore Infopedia_. Article published 2015.&nbsp;
+[^17]: Heirwin Mohd Nasir, “[Goh Eng Wah](https://www.nlb.gov.sg/main/article-detail?cmsuuid=badb8eaa-1a11-4f10-93a1-d22b9708e32e),” _Singapore Infopedia_. Article published 2015.&nbsp;
 
 
-[^18]: “Development of Queenstown, Singapore’s First Satellite Town,” _Singapore Infopedia_. Article published 2014; National Heritage Board, “Former Venus and Golden City Cinemas,” Roots, last updated 2 November 2021, https://www.roots.gov.sg/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/former-venus-golden-city-theatres.
+[^18]: “[Development of Queenstown, Singapore’s First Satellite Town](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ecd861b6-87eb-4f95-bfb9-4cc439cf44ea#3),” _Singapore Infopedia_. Article published 2014; National Heritage Board, “Former Venus and Golden City Cinemas,” Roots, last updated 2 November 2021, [https://www.roots.gov.sg/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/former-venus-golden-city-theatres](https://www.roots.gov.sg/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/former-venus-golden-city-theatres).
 
 
-[^19]: “Queenstown/Queensway Cinema,” Remember Singapore, accessed 3 October 2025, https://remembersingapore.org/queenway-cinema/; Tan Chun Wei, “Queenstown Cinema and Bowling Centre,” 14 January 2010, photograph. (From National Library Online)&nbsp;
+[^19]: “Queenstown/Queensway Cinema,” Remember Singapore, accessed 3 October 2025, [https://remembersingapore.org/queenway-cinema/](https://remembersingapore.org/queenway-cinema/); Tan Chun Wei, “[Queenstown Cinema and Bowling Centre](https://www.nlb.gov.sg/main/image-detail?cmsuuid=ae3f2bbf-cf6b-4e2d-b957-dfb59f94f584),” 14 January 2010, photograph. (From National Library Online)&nbsp;
 
 
 [^20]: Alvin Tan, _Singapore: A Very Short History – From Temasek to Tomorrow_, 2nd edition (Singapore: Talisman Press, 2022), 157–58. (From National Library Singapore, call no. RSING 959.57 TAN); National Heritage Board, “ERA APAC Centre (Former Toa Payoh Cinema),” Roots, last updated 11 August 2021, https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/ERA-APAC-Centre-Former-Toa-Payoh-Cinema; National Heritage Board, “600@Toa Payoh (Former Kong Chian Cinema,” Roots, last updated 17 January 2022, https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/600-at-Toa-Payoh-Former-Kong-Chian-Cinema; Singapore Film Society, “Part 5: Savoy Cinema,” Facebook, 3 July 2016, https://www.facebook.com/singaporefilmsociety/photos/to-the-residents-living-in-boon-lay-and-jurong-west-during-the-1970s-and-1980s-t/10154309751113594/; National Heritage Board, “Broadway Plaza (Former Broadway Cinema),” Roots, last updated 17 January 2022, https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Broadway-Plaza-Former-Broadway-Cinema; John Lui, “Eng Wah’s 80-Year Legacy Ends As Historic Singapore Cinema Operator Exits Industry,” _Straits Times_, 23 October 2024, https://www.straitstimes.com/life/entertainment/eng-wah-s-80-year-legacy-ends-as-we-cinemas-in-clementi-changes-hands; “Memories of Bedok’s Princess,” Remember Singapore, 16 July 2018, https://remembersingapore.org/2018/07/16/bedok-princess-cinema-memories/.&nbsp;
