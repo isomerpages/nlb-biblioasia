@@ -47,7 +47,7 @@ The crisis “led to scores of failed businesses and half a dozen stockbroking f
 
 The sudden closure impacted all investors, even those who did not hold any Pan-El stocks, inviting harsh criticisms from the foreign press. Singapore’s reputation as an international stock exchange took a hit and confidence in its trading centre was shaken.[^15]
 
-<img src="/images/Vol%2021%20Issue%204/PanEl/panel_closure.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_closure.png" style="width: 60%;">
 
 <div style="background-color: white;">The&nbsp;<i>Straits Times</i>&nbsp;announcing the closure of the Stock Exchange of Singapore. <i>  Source: The Straits Times, 2 December 1985, 1 © SPH Media Limited. Permission required for reproduction. </i></div>
 
@@ -64,6 +64,11 @@ Former Chief Justice Chan Sek Keong, then a corporate lawyer with Shook Lin &amp
 Any firm intending to use the credit line was subject to stringent conditions though. Hu emphasised that the fund was “not meant to bail out individual stockbrokers who have become insolvent through their own imprudence”. “Rather, the ‘lifeboat’ is there to ensure that the obligations of the members of the exchange are fulfilled,” he said, and “any drawdowns against this fund have to be repaid with interest by SES member-firms individually or collectively”.[^20]&nbsp;
 
 Tan Koon Swan was arrested on 21 January 1986 and jailed for two years while Tan Kok Liang, the financial director of Pan-El, was sentenced to 15 months of imprisonment which was later reduced to six months. Peter Tham was given a higher jail term of eight years for 36 counts of forgery such as fraud, which concerned the commercial and financial institutions of a country, affecting a wide range of people and institutions, according to Senior District Judge Errol Foenander.[^21]
+
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_koon.png" style="width: 80%;">
+
+<div style="background-color: white;">Tan Koon Swan and Peter Tham were two of the key characters in the Pan-Electric saga. <i> Source: The Straits Times, 5 February 1986, 15 © SPH Media Limited. Permission required for reproduction.</i></div>
+
 
 Additionally, Singapore’s securities regulatory framework was tightened, leading to the new Securities Industry Act 1986 which took effect on 18 August, repealing the earlier 1973 act. The new legislation and the accompanying regulations gave the MAS greater control over the management of the securities industry. Corporate governance standards, which were not as developed as today, were raised and acknowledged as “crucial and fundamental” in the running of a company.[^22]
 
@@ -104,6 +109,11 @@ The factory began operations in 1965 with 120 workers. “Pan-El, in those days,
 Production went into full swing in 1966, churning out 6,000 units of refrigerators that year. Within three years, this jumped to 20,000 units, with capacity for 40,000 units if necessary.[^36] By 1967, Pan-El’s markets for refrigerators had expanded to 10 Asian countries, with exports accounting for 30 percent of sales, making it “Southeast Asia’s largest refrigerator factory”.[^37]
 
 By the time of its public listing in August 1968, Pan-El was already “one of Singapore’s most successful export-oriented industrial plants”, delivering refrigerators to Hong Kong, Thailand, Laos, Cambodia and Vietnam. Kahlenberg’s aim at the time was to increase exports “to a point where at least one refrigerator will leave for overseas markets for every one sold in Singapore”.[^38]&nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_listing.png" style="width: 60%;">
+
+<div style="background-color: white;">The various processes involved in making the twin door Pan-Electric Super de Luxe 9 refrigerators at the Kampong Arang Road factory.<i> Images reproduced from
+Directors' Report and Accounts, Dec. 31, 1968 (Pan-Electric Industries Limited), 3. (From National Library Online).</i></div>
 
 In 1969, the company presented its 50,000th unit to the Singapore government. It was also awarded the largest contract from Australia worth $694,000 for 1,500 refrigerators.[^39]
 
