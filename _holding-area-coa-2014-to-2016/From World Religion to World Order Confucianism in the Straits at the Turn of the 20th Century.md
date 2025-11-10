@@ -5,6 +5,7 @@ permalink: /holding-area/chapters-on-asia-2014-2017/world-religion-confucianism-
 variant: markdown
 description: ""
 ---
+By Ivana Prazic
 #### **Introduction**
 This essay explores the impact of the emerging scholarly discipline of the
 “science of religion” on the Confucianist movement in Singapore in the late

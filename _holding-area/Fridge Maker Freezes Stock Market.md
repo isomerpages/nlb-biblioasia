@@ -47,6 +47,10 @@ The crisis “led to scores of failed businesses and half a dozen stockbroking f
 
 The sudden closure impacted all investors, even those who did not hold any Pan-El stocks, inviting harsh criticisms from the foreign press. Singapore’s reputation as an international stock exchange took a hit and confidence in its trading centre was shaken.[^15]
 
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_closure.png" style="width: 60%;">
+
+<div style="background-color: white;">The&nbsp;<i>Straits Times</i>&nbsp;announcing the closure of the Stock Exchange of Singapore. <i>  Source: The Straits Times, 2 December 1985, 1 © SPH Media Limited. Permission required for reproduction. </i></div>
+
 Pan-El’s collapse also affected employees financially and emotionally. “We are angry because all this is not our fault,” said a long-time employee of subsidiary Selco. “We don’t even know if we will be paid… There are men whose wives are not working.” He added that some of the workers had just bought houses after working for 10 to 15 years. [^16] &nbsp;
 
 Over at Pan-El, a number of men cried. “Some of them have wives who do not work, with children still at school and other commitments,” said an employee who had been working in Pan-El for 15 years. She was more concerned for her older colleagues. “They don’t have the paper qualifications the younger people have. They will be hard hit when they go out to look for a job.”[^17]
@@ -60,6 +64,11 @@ Former Chief Justice Chan Sek Keong, then a corporate lawyer with Shook Lin &amp
 Any firm intending to use the credit line was subject to stringent conditions though. Hu emphasised that the fund was “not meant to bail out individual stockbrokers who have become insolvent through their own imprudence”. “Rather, the ‘lifeboat’ is there to ensure that the obligations of the members of the exchange are fulfilled,” he said, and “any drawdowns against this fund have to be repaid with interest by SES member-firms individually or collectively”.[^20]&nbsp;
 
 Tan Koon Swan was arrested on 21 January 1986 and jailed for two years while Tan Kok Liang, the financial director of Pan-El, was sentenced to 15 months of imprisonment which was later reduced to six months. Peter Tham was given a higher jail term of eight years for 36 counts of forgery such as fraud, which concerned the commercial and financial institutions of a country, affecting a wide range of people and institutions, according to Senior District Judge Errol Foenander.[^21]
+
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_koon.png" style="width: 80%;">
+
+<div style="background-color: white;">Tan Koon Swan and Peter Tham were two of the key characters in the Pan-Electric saga. <i> Source: The Straits Times, 5 February 1986, 15 © SPH Media Limited. Permission required for reproduction.</i></div>
+
 
 Additionally, Singapore’s securities regulatory framework was tightened, leading to the new Securities Industry Act 1986 which took effect on 18 August, repealing the earlier 1973 act. The new legislation and the accompanying regulations gave the MAS greater control over the management of the securities industry. Corporate governance standards, which were not as developed as today, were raised and acknowledged as “crucial and fundamental” in the running of a company.[^22]
 
@@ -101,6 +110,11 @@ Production went into full swing in 1966, churning out 6,000 units of refrigerato
 
 By the time of its public listing in August 1968, Pan-El was already “one of Singapore’s most successful export-oriented industrial plants”, delivering refrigerators to Hong Kong, Thailand, Laos, Cambodia and Vietnam. Kahlenberg’s aim at the time was to increase exports “to a point where at least one refrigerator will leave for overseas markets for every one sold in Singapore”.[^38]&nbsp;
 
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_listing.png" style="width: 60%;">
+
+<div style="background-color: white;">The various processes involved in making the twin door Pan-Electric Super de Luxe 9 refrigerators at the Kampong Arang Road factory.<i> Images reproduced from
+Directors' Report and Accounts, Dec. 31, 1968 (Pan-Electric Industries Limited), 3. (From National Library Online).</i></div>
+
 In 1969, the company presented its 50,000th unit to the Singapore government. It was also awarded the largest contract from Australia worth $694,000 for 1,500 refrigerators.[^39]
 
 #### **The Boom Years**
@@ -117,6 +131,10 @@ The decision proved prescient for Pan-El as it rode on the global shipping boom 
 
 Between 1973 and 1975, Pan-El achieved “record-breaking performances” with pre-tax profits increasing from $236,000 in 1972 to $15.73 million in 1975. In 1973, the company made inroads into property development by acquiring Vanguard Realty and Development Pte Ltd, which “paid off handsomely through the years”.[^45]
 
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_ad1.png" style="width: 80%;">
+
+<div style="background-color: white;">A 1974 Pan-Electric advertisement for its new range of Permadoor refrigerators that were built with rust-proof, scratch-resistant and easy-to-clean materials. The refrigerators also came in a range of colours. <i>Source: The Straits Annual, 1 January 1974, 150–51 © SPH Media Limited. Permission required for reproduction. </i></div>
+
 In 1976, Pan-El underwent reorganisation&nbsp; and became a holding company with its activities carried out by wholly owned subsidiaries. The electrical appliances business came under Pan-Electric Appliances (PEA), which merged with Acma Electrical Industries Ltd, another well-known local appliance maker, in 1981. According to Kahlenberg, there was “a pressing need for manufacturing and service industries in like fields to get together and group themselves into large units”.[^46]&nbsp;
 
 <img src="/images/Vol%2021%20Issue%204/PanEl/panel_staff.png" style="width: 80%;">
@@ -128,10 +146,6 @@ With the merger, Pan-El announced that they would no longer be directly involved
 Under new management, Pan-El pursued opportunities in the hotel and property sectors, including an industrial estate project along Tagore Avenue, and acquiring an 80 percent stake in Orchard Hotel and a 64.5 percent stake in developer F L Investments. The company further expanded into marine services, buying an energy company, erecting the world’s largest desalination plant and acquiring controlling interests in a shipyard, financing such ventures with bank loans.[^48]
 
 As the first domestic fridge maker in 1965, Pan-El had contributed to Singapore’s economic progress during its nation-building years. At the time of its collapse in 1985, Pan-El was a large investment holding company with no fewer than 60 subsidiaries and 10 associate companies.[^49]
-
-<img src="/images/Vol%2021%20Issue%204/PanEl/panel_ad1.png" style="width: 80%;">
-
-<div style="background-color: white;">A 1974 Pan-Electric advertisement for its new range of Permadoor refrigerators that were built with rust-proof, scratch-resistant and easy-to-clean materials. The refrigerators also came in a range of colours. <i>Source: The Straits Annual, 1 January 1974, 150–51 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 Although the stock market eventually recovered, the same could not be said for the company which was ordered to be wound up on 9 October 1986. The Pan-El brand also disappeared from the market when Acma stopped using the name on its refrigerators and air conditioners in 1986.[^50] By then, the brand was so tainted that no one would have wanted to own any appliances bearing the Pan-El name.
 

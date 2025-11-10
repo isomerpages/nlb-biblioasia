@@ -4,6 +4,7 @@ permalink: /holding-area/chapters-on-asia-2021/chinese-newspaper-literary-supple
 variant: markdown
 description: ""
 ---
+By Seah Cheng Ta
 #### **Introduction**
 Amid the booming newspaper industry and active Chinese literary scene
 in Singapore after the Second World War, two editors of newspaper literary

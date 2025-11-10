@@ -4,6 +4,7 @@ permalink: /holding-area/chapters-on-asia-2019/multi-ethnic-roman-catholic-commu
 variant: markdown
 description: ""
 ---
+By Dr Marc Sebastian Rerceretnam
 #### **INTRODUCTION**
 In historical studies of Malaysia and Singapore, the British colonial practice
 of “divide and rule” in its governing of ethnic communities is a prominent
@@ -507,5 +508,3 @@ McNamara, Anthony. “[The Letters of Fr. J. M. Beurel Relating to the Establish
 [^60]: Van Kirk, “From “Marrying-In” to “Marrying-Out,” 2.
 
 [^61]: Van Kirk, “From “Marrying-In” to “Marrying-Out,” 3.
-
-

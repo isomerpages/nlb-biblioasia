@@ -7,14 +7,8 @@ description: ""
 By Kankan Xie
 
 *In the Dutch East Indies, the demeanour of the native<br>
-   towards the European has passed by successive stages from an almost*<br>
-   *abject deference to a thinly veiled hostility. The Dutch colonists<br>
-   are accordingly anxious and restive about the ultimate outcome<br>
-   of the present “ethical” policy*.[^1] Knowledge of the natives’ history<br>
-   *encourages the colonists in the view that the extreme plasticity of the*<br>
-   *native character renders outside influences particularly powerful*<br>
-   *in Java, and that it will prove disastrous if the Government stands*<br>
-   *weakly aside in the presence of subversive agitation*.[^2]
+towards the European has passed by successive stages from an almost*<br>*abject deference to a thinly veiled hostility. The Dutch colonists<br>
+are accordingly anxious and restive about the ultimate outcome<br>of the present “ethical” policy*.[^1] Knowledge of the natives’ history<br> *encourages the colonists in the view that the extreme plasticity of the*<br>*native character renders outside influences particularly powerful*<br>*in Java, and that it will prove disastrous if the Government stands*<br>*weakly aside in the presence of subversive agitation*.[^2]
 
 #### **Introduction**
 

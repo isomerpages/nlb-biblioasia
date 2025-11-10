@@ -5,6 +5,7 @@ permalink: /holding-area/chapters-on-asia-2019/japanese-army-operation-singapore
 variant: markdown
 description: ""
 ---
+By Yosuke Watanabe
 #### **INTRODUCTION**
 As is well known, Japan started their invasion of Southeast Asia on
 8 December 1941, when the Japanese Imperial Army landed at Kota Bharu
@@ -468,5 +469,3 @@ Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōs
 [^39]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 129–30.
 
 [^40]: Shimizu, 19–20.
-
-

@@ -1,10 +1,10 @@
 ---
-title: In the Tropical Mood Retracing Liu Yichang’s Years in Singapore (1952–1957)
+title: "In the Tropical Mood: Retracing Liu Yichang’s Years in Singapore (1952–1957)"
 permalink: /holding-area/chapters-on-asia-2017-2018/tropical-mood-retracing-liu-yichang-singapore/
 variant: markdown
 description: ""
 ---
-By Lim Fong Wei
+By Lim Fong Wei<br>
 ### **Introduction**
 In 2000, a new generation was introduced to Hong Kong writer Liu
 Yichang (刘以鬯, 7 December 1918 – 8 June 2018) through the technicoloursaturated

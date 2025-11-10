@@ -4,6 +4,7 @@ permalink: /holding-area/chapters-on-asia-2020/pemikiran-sosio-agama-ahmad-sonha
 variant: markdown
 description: ""
 ---
+By Dr Mohamed Qusalry Bin Thaha
 #### **Pendahuluan**
 
 Ahmad Sonhadji lebih dikenali sebagai tokoh tafsir di Singapura melalui

@@ -5,6 +5,7 @@ permalink: /holding-area/chapters-on-asia-2022/excavating-women-s-participation/
 variant: markdown
 description: ""
 ---
+By Liew Kai Khiun
 #### **Introduction: The Machine Age**
 The introduction of mechanised accounting machines in the late 19th century marked a radical break from manual accounting practices. Ranging from punch card readers to cash registers,[^1] these accounting machines were the ancestors of the modern computer, and constituted a crucial transition stage in Malaya’s technological history.[^2]
 
