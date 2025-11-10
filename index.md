@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 2/Hedwig/HeroImage_Hedwig.jpg
       variant: center
   - infopic:
+      title: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
+      subtitle: Women
+      id: infopic
+      description: One of Singapore’s first women philanthropists, Mrs Lee, née Tan
+        Teck Neo, supported a wide range of charities.
+      button: A WOMAN AHEAD OF HER TIME
+      url: /vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/
+      image: /images/Vol 21 Issue 4/A Pioneering
+        Philanthropist/Philianthropist_races_Topics.jpg
+      alt: A Pioneering Philanthropist
+  - infopic:
       title: Gems in the Singapore Hokkien Huay Kuan Collection
       subtitle: BiblioAsia Reels
       id: infopic
@@ -956,17 +967,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
-      subtitle: Women
-      id: infopic
-      description: One of Singapore’s first women philanthropists, Mrs Lee, née Tan
-        Teck Neo, supported a wide range of charities.
-      button: A WOMAN AHEAD OF HER TIME
-      url: /vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/
-      image: /images/Vol 21 Issue 4/A Pioneering
-        Philanthropist/Philianthropist_races_Topics.jpg
-      alt: A Pioneering Philanthropist
   - infopic:
       title: "“We Do”: Mass Weddings in Singapore"
       subtitle: Culture
