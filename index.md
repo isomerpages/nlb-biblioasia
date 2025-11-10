@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
-      button: My Mother, Hedwig Anuar
+      url: /vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/
+      button: The House of Cheang
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Hedwig/HeroImage_Hedwig.jpg
+      background: /images/Online Only Articles/The House of
+        Cheang/HouseCheang_Heroimage.png
       variant: center
   - infopic:
       title: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
