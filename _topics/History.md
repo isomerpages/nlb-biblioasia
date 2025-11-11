@@ -4,6 +4,13 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore\-stock-market/">Fridge Maker Freezes Stock Market</a>
+
+Pan-Electric Industries started out as Singapore’s fridge maker in the 1960s. Its enormous debts and subsequent collapse caused the Stock Exchange of Singapore to close for three days in 1985.
+
+<img src="/images/Vol%2021%20Issue%204/PanEl/panel_staff.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/formation-national-library-board/">Writing the NLB Story</a>
 
  <p>Established in 1995, the National Library Board was conceived as one of many levers to transform Singapore’s economy and culture.</p>
