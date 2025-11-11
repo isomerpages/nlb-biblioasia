@@ -1,6 +1,6 @@
 ---
 title: Fridge Maker Freezes Stock Market
-permalink: /holding-area/vol-21/issue-4/jan-mar-2026/how-singapore-s-first-fridge-maker-froze-the-stock-market/
+permalink: /vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/
 variant: markdown
 description: ""
 ---
