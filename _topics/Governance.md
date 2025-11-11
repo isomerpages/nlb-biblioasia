@@ -4,7 +4,7 @@ permalink: /topics/governance/
 description: ""
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore\-stock-market/">Fridge Maker Freezes Stock Market</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/">Fridge Maker Freezes Stock Market</a>
 
 Pan-Electric Industries started out as Singapore’s fridge maker in the 1960s. Its enormous debts and subsequent collapse caused the Stock Exchange of Singapore to close for three days in 1985.
 
