@@ -2,6 +2,7 @@ collections:
   jan-to-mar-2026:
     output: true
     order:
+      - Fridge Maker Freezes Stock Market.md
       - "Wandering Wood: The Transoceanic Pollination of the Double Coconut.md"
       - "Playing It Cool: The Early History of Air Conditioning in Singapore.md"
       - In Search of Silvestr.md
