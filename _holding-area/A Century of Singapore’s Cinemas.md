@@ -86,9 +86,21 @@ Singapore’s independence and subsequent urban redevelopment marked the next st
 
 This reflected the ethos of HDB’s town planning, that is each satellite or new town would be self-contained with a range of amenities and services that residents could access conveniently. In 1972, Toa Payoh Cinema and Kong Chian Cinema (later renamed Central Cinema) opened, bringing the cinematic experience to HDB’s first new town. Other names soon appeared: Savoy in Boon Lay in 1978, Broadway in Ang Mo Kio in 1979, Empress in Clementi in 1980, Bedok Cinema in 1980, Jubilee in Ang Mo Kio in 1981, and Princess and Raja in Bedok in 1983.[^20]
 
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_pizza.png" style="width: 60%;">
+
+<div style="background-color: white;">Jubilee Theatre in Ang Mo Kio Town Centre, 1994. <i> Courtesy of National Archives of Singapore (Media - Image no. 19980007383&nbsp;-&nbsp;0107).</i></div>
+
+
+
 Over in Jurong, Cathay developed the Jurong Drive-In Cinema, which opened on 14 July 1971. The drive-in combined the privilege of car ownership and the fun of film viewing. It afforded cinemagoers a modicum of privacy and the atmosphere of a carnival, under the night sky.&nbsp;
 
 Located on Yuan Ching Road, it occupied 5.6 ha of land for 900 cars, which required 259,939 cc of infill, and had a massive 14.3 m by 33.5 m screen, hanging 7.6 m from the ground. To add to the atmosphere, vendors sold ice cream and cold drinks to customers in their cars, which were hooked up with speakers. Even its location in far-flung Jurong was a draw. Hotel executive Lilian Gan recalled: “My husband and I used to go there once or twice a week. We’d go on long drives on weekends and end up there.”[^21]
+
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_jurong.png" style="width: 80%;">
+
+<div style="background-color: white;">Vehicles at the Jurong Drive-in Cinema on opening night, 14 July 1971, <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore Media - Image No. 19980007001&nbsp;-&nbsp;0003).</i></div>
+
+
 
 Although many cinemas were opening in the suburbs, there were signs from the late 1970s that the movie theatre was losing its draw. Jubilee Theatre on North Bridge Road closed in 1978 due to the lack of modern facilities and declining business. Then in September 1985, Jurong Drive-In closed for good after a short 15-year existence.[^22] Both the iconic Lido and the original Shaw House were demolished in 1990 to make way for the present-day Shaw House, with the theatre being integrated into the building as opposed to a standalone structure. &nbsp;
 
