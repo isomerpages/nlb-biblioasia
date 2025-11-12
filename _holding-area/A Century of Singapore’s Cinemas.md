@@ -277,7 +277,7 @@ While Hollywood blockbusters and big-name directors might still pull in crowds o
 [^34]: “History of Internet in Singapore: From Niche Toy to Must Have Essential,” GovTech Singapore, 12 August 2021, [https://www.tech.gov.sg/media/technews/history-of-the-internet/](https://www.tech.gov.sg/media/technews/history-of-the-internet/).&nbsp;
 
 
-[^35]: “Cinema, Seating Capacity And Attendances, Annual,” Singapore Department of Statistics, accessed 3 October 2025, https://data.gov.sg/datasets/d_db2db28d64339467a1d44f4026f0dd7a/view?columnLegendPage=1&amp;dataExplorerSort=%7b%222022%22:%22DESC%22%7d.
+[^35]: “Cinema, Seating Capacity And Attendances, Annual,” Singapore Department of Statistics, accessed 3 October 2025, [https://data.gov.sg/datasets/d_db2db28d64339467a1d44f4026f0dd7a/view?columnLegendPage=1&amp;dataExplorerSort=%7b%222022%22:%22DESC%22%](https://data.gov.sg/datasets/d_db2db28d64339467a1d44f4026f0dd7a/view?columnLegendPage=1&amp;dataExplorerSort=%7B%222022%22:%22DESC%22%).
 
 
 [^36]: John Lui, “JB Cinemas Are Getting More Popular with S’poreans. How are Local Operators Upping Their Game?,” _Straits Times_, 1 October 2025, [https://www.straitstimes.com/life/entertainment/jb-cinemas-are-getting-more-popular-with-sporeans-how-are-local-operators-upping-their-game](https://www.straitstimes.com/life/entertainment/jb-cinemas-are-getting-more-popular-with-sporeans-how-are-local-operators-upping-their-game).
