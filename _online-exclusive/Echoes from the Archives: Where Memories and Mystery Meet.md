@@ -10,11 +10,11 @@ By Ruth Wee
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/tracey_and_ruth.jpg" style="width: 80%;">A selfie with Tracey Morton, June 2025. <i>Photo by Ruth Wee.</i></div>
+<img src="/images/Podcast/tracey_600_400.jpg" style="width: 80%;">Tracey Morton, 2025. <i>Photo by Jimmy Yap.</i></div>
 
 Most of the time, the archivists of the National Archives of Singapore play a quiet supporting role in the background. They collect and preserve records – documents, papers, photographs and oral history testimonies – that are used by researchers.
 
-But in Tracey Morton’s 2022 novel_, Someone Is Coming_, an oral history interviewer moves to centre stage as an important protagonist, helping to set in motion a gripping piece of crime fiction set in Malaya at the turn of the 20th century.[^1]
+But in Tracey Morton’s 2022 novel, <i>Someone Is Coming</i>, an oral history interviewer moves to centre stage as an important protagonist, helping to set in motion a gripping piece of crime fiction set in Malaya at the turn of the 20th century.[^1]
 
 <div style="background-color: white;">
 <br>
@@ -22,7 +22,7 @@ But in Tracey Morton’s 2022 novel_, Someone Is Coming_, an oral history interv
 
 #### **Using Oral Testimonies**
 
-Heavily inspired by life in the early 20th-century Malayan plantations, _Someone Is Coming_ puts a fictional spin on this haunting period in history. Born from hours going through at least 16 oral history testimonies[^2] as well as related newspaper reports,[^3] the narrative unfolds through an oral history interview – “an interesting way to tell a story”, as Tracey describes it. Though grounded in meticulous archival research, Tracey gave her imagination free rein in crafting the fictional elements of her story. It revolves around nonagenarian Philip Goundry’s recollections of his childhood in Malayan plantations, elicited by Dr Lin, an oral history interviewer whose questioning sometimes bordered on intrusive.
+Heavily inspired by life in the early 20th-century Malayan plantations, <i>Someone Is Coming</i> puts a fictional spin on this haunting period in history. Born from hours going through at least 16 oral history testimonies[^2] as well as related newspaper reports,[^3] the narrative unfolds through an oral history interview – “an interesting way to tell a story”, as Tracey describes it. Though grounded in meticulous archival research, Tracey gave her imagination free rein in crafting the fictional elements of her story. It revolves around nonagenarian Philip Goundry’s recollections of his childhood in Malayan plantations, elicited by Dr Lin, an oral history interviewer whose questioning sometimes bordered on intrusive.
 
 Patience, pragmatics and paralinguistic cues are quintessential in oral histories – elements Tracey wove throughout her novel. Tension between the protagonists revealed their distinct personalities. Under a veil of politeness, Dr Lin emerged as direct, persistent and slightly aggressive while Philip was a reticent man who had emotional outbursts when dangerous memories were unlocked. Through their interactions, Tracey captured the dynamics of real oral history interviews.
 
