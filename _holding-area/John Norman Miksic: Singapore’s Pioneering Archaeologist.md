@@ -7,6 +7,12 @@ description: ""
 #### The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79.  
 By Kwa Chong Guan
 
+<img src="/images/Vol%2021%20Issue%204/John/john_main.png" style="width: 80%;">
+
+
+<div style="background-color: white;">John Miksic at the Fort Canning archaeological dig, June 1997.  <i>Source: Berita Harian © SPH Media Limited. Permission required for reproduction.</i></div>
+
+
 The pioneering archaeologist John Miksic never thought of archaeologically investigating Fort Canning Hill until the invitation to do so came from the old National Museum (later Singapore History Museum and now National Museum of Singapore) in 1983. He was focused on Indonesian archaeology, having excavated port settlements along the Deli River valley in northeast Sumatra. His doctoral thesis to Cornell University’s Department of Anthropology was about his excavations, which won the Lauriston Sharp Prize for best doctoral thesis in 1979.&nbsp;
 
 Miksic accepted the invitation to archaeologically investigate Fort Canning and, against the odds, in a 10-day investigation of the top of Fort Canning from 18 to 28 January 1984, recovered _in situ_ 1,346 pottery shards weighing a total of 14.31 kg dating back to the 14th century. The report he produced of his investigations set the standard on the conduct and reporting of future archaeological excavations in Singapore.&nbsp;
