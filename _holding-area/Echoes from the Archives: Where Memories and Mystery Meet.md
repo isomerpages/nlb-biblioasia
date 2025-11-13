@@ -75,7 +75,6 @@ Somerset Maugham’s visits to Singapore in the 1920s inspired some of his great
 
   
 
-* * *
 
 #### **Notes**
 
