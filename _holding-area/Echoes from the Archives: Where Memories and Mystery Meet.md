@@ -40,9 +40,11 @@ She is definitely no stranger to the library and the archives, having pored thro
 
 And with passion came obsession. “I actually found out where he's buried,” Tracey fondly recalled a side quest that found her outside Detective Williams’ former residence in Melbourne, Australia, in April 2025. “There was a dog and it's just right down… by the beach. We went in Easter. My poor husband – I dragged him around to these crazy places and I took photos… it was really amazing.”
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/detective_william_house_HD1.png" style="width: 80%;">The presumed former residence of Detective Richard David Williams in Melbourne, April 2025. <i>Photo by Ruth Wee.</i></div>
   
 
-* * *
 
 
   
