@@ -10,7 +10,7 @@ By Ruth Wee
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/tracey_and_ruth.jpg" style="width: 80%;">A Selfie with Tracey Morton, June 2025.<i>Photo by Ruth Wee.</i></div>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/tracey_and_ruth.jpg" style="width: 80%;">A selfie with Tracey Morton, June 2025. <i>Photo by Ruth Wee.</i></div>
 
 Most of the time, the archivists of the National Archives of Singapore play a quiet supporting role in the background. They collect and preserve records – documents, papers, photographs and oral history testimonies – that are used by researchers.
 
@@ -18,7 +18,7 @@ But in Tracey Morton’s 2022 novel_, Someone Is Coming_, an oral history interv
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/someone_is_coming_book_in_shelf.jpg" style="width: 40%;"><i>Someone Is Coming</i> (Monsoon Books, 2022) at the Singapore Alcove at the Central Public Library.<i>Photo by Ruth Wee.</i></div>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/someone_is_coming_book_in_shelf.jpg" style="width: 40%;"><i>Someone Is Coming</i> (Monsoon Books, 2022) at the Singapore Alcove at the Central Public Library. <i>Photo by Ruth Wee.</i></div>
 
 #### **Using Oral Testimonies**
 
