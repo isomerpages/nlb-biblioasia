@@ -30,6 +30,19 @@ Speaking to a neuroscientist, Tracey learnt that traumatic events experienced as
 
 While Philip’s firsthand accounts shed light on the dark period of the early 20th century, more critical were omissions, outbursts and moments of hesitation resulting in half-truths. As memories were unlocked and secrets unravelled, newspaper clippings and photographs that Dr Lin brought along to the interview sessions further challenged Philip’s factoids, exposing the unreliability and fragility of recollections.
 
+#### **Interest in Archival Materials**
+
+Tracey’s fascination with Malayan plantations germinated while researching an essay for her master’s degree on crime and thriller writing&nbsp;at the University of Cambridge on whether Somerset Maugham’s short stories from the East could be considered crime fiction. Knowing that Maugham drew inspiration from real life, she began scouring the collections of the NAS and the National Library Singapore to trace the links between murders in his stories and the past, meticulously piecing together reported crime cases.
+
+She is definitely no stranger to the library and the archives, having pored through countless oral history testimonies, newspaper clippings and even historical records like death notices in the past 11 years. Akin to digging through digital treasure troves, these have led to unexpected finds.
+
+“I went through different rabbit holes and found other stuff that \[were\] interesting”. Through newspaper snippets and obituaries, Tracey discovered a case involving Richard David Williams, former Chief Inspector of police in the Straits Settlements, and this became her favourite. Williams had apparently recognised a Chinese man disguised as a Malay in Tanjong Pagar, who had been on the run for more than 10 years after killing a Peranakan woman and her servant in 1897.[^4] “This really sparked my imagination as he was dressed as a Malay and he still managed to identify him, very Sherlock Holmes,” she remarked.
+
+And with passion came obsession. “I actually found out where he's buried,” Tracey fondly recalled a side quest that found her outside Detective Williams’ former residence in Melbourne, Australia, in April 2025. “There was a dog and it's just right down… by the beach. We went in Easter. My poor husband – I dragged him around to these crazy places and I took photos… it was really amazing.”
+
+  
+
+* * *
 
 
   
@@ -43,3 +56,5 @@ While Philip’s firsthand accounts shed light on the dark period of the early 2
 [^2]:  [Tee Kok Luan, Nelson](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/95295d14-b3ba-11ec-997c-005056a7c0ea), oral history interview by Lulu Ong, 7 January 2022, transcript and MP3 audio, 54:06, National Archives of Singapore (accession no. 004784), 1; [Chan Chooi Ling](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1168d19c-1161-11e3-83d5-0050568939ad), oral history interview by Claire Yeo, 7 May 2007, transcript and MP3 audio, 58:40, National Archives of Singapore (accession no. 003162), 1.
 
 [^3]:  “[Planter’s Tragic Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19161113-1.2.95),” _Malaya Tribune_, 13 November 1916, 13. (From NewspaperSG)
+
+[^4]:  “[After Many Years.](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19080507-1.2.89),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 7 May 1908, 11. (From NewspaperSG)
