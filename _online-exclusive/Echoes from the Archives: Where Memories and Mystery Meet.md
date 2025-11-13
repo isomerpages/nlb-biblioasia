@@ -12,7 +12,7 @@ By Ruth Wee
 <br>
 <img src="/images/Podcast/tracey_600_400.jpg" style="width: 80%;">Tracey Morton, 2025. <i>Photo by Jimmy Yap.</i></div>
 
-Most of the time, the archivists of the National Archives of Singapore play a quiet supporting role in the background. They collect and preserve records – documents, papers, photographs and oral history testimonies – that are used by researchers.
+Most of the time, the archivists of the National Archives of Singapore (NAS) play a quiet supporting role in the background. They collect and preserve records – documents, papers, photographs and oral history testimonies – that are used by researchers.
 
 But in Tracey Morton’s 2022 novel, <i>Someone Is Coming</i>, an oral history interviewer moves to centre stage as an important protagonist, helping to set in motion a gripping piece of crime fiction set in Malaya at the turn of the 20th century.[^1]
 
