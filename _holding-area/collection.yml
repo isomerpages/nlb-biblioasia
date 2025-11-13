@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - "Echoes from the Archives: Where Memories and Mystery Meet.md"
       - Sample article.md
