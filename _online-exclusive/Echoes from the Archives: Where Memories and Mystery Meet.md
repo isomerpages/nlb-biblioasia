@@ -10,7 +10,7 @@ By Ruth Wee
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/tracey_and_ruth.jpg" style="width: 80%;">A selfie with Tracey Morton, June 2025. <i>Photo by Ruth Wee.</i></div>
+<img src="/images/Podcast/tracey_600_400.jpg" style="width: 80%;">Tracey Morton, 2025. <i>Photo by Jimmy Yap.</i></div>
 
 Most of the time, the archivists of the National Archives of Singapore play a quiet supporting role in the background. They collect and preserve records – documents, papers, photographs and oral history testimonies – that are used by researchers.
 
