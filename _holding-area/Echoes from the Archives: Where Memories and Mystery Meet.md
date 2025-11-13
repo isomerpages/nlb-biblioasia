@@ -43,9 +43,35 @@ And with passion came obsession. “I actually found out where he's buried,” T
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Tracey%20Morton/detective_william_house_HD1.png" style="width: 80%;">The presumed former residence of Detective Richard David Williams in Melbourne, April 2025. <i>Photo by Ruth Wee.</i></div>
-  
 
+While still images and text provide the necessary facts, oral testimonies flesh out the thoughts, feelings and raw emotions of people recounting their stories.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/detective_williams_obituary.png" style="width: 80%;">Screengrab of a newspaper obituary for Detective Richard David Williams who died on 5 January 1934. <i>Image from Trove, National Library of Australia.</i></div>
+
+#### **The Usefulness of Historical Materials**
+
+Oral history accounts and old newspaper reports have been valuable mines of information not only for Tracey, but for budding writers that she mentors as well. &nbsp;&nbsp;&nbsp;
+
+In her crime fiction-writing class with the Singapore Book Council in 2023, she introduced participants to creating crime fiction stories through research informed by historical materials. Working in small groups, participants examined cold cases from newspaper reports, listened to oral testimonies and brainstormed story ideas. With information scattered across different sources, aspiring writers had to piece them together. “That's the best thing about the archives,” Tracey quipped, “It makes you into a detective.”
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/missing_people_case__class_materials.jpg" style="width: 50%;">A newspaper report of a missing person case and a 1906 photograph of Singapore's first detective branch are some of the materials used at Tracey's crime writing workshop with the Singapore Book Council in 2023. <i>Photo by Ruth Wee.</i></div>
+
+Participants were tasked to write from different perspectives – ranging from journalist to witness, from victim’s relative to even the victim’s ghost. One participant uncovered accounts of the Red Butterfly Gang, or Ang Hor Tiap in Hokkien, an all-girl gang that terrorised Singapore with violence, intimidation and extortion from the late 1950s to the 1970s. As their name suggests, members wore red butterfly tattoos on their thighs, or sometimes on the shoulder or groin.[^5] They were among the many gangs that rocked Singapore’s history and left their footprints in the archives.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/research_and_brainstorming_material.jpg" style="width: 50%;">     Some of Tracey’s research and brainstorming materials. <i>Photo by Ruth Wee.</i></div>
+
+Just as _Someone Is Coming_ drew inspiration from the library and archives, Tracey encourages writers to tap into their vast resources. “\[The story is\] pretty much all out for you. The crime is there; the characters are there… The story is just there waiting to be written.”
+
+For Tracey, the National Library and National Archives are more than repositories of facts – these are treasure troves of historical narratives waiting to be rediscovered and retold through fresh eyes.
+
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba">
+Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictional works. Read Tracey Morton’s _BiblioAsia_ article, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/">W. Somerset Maugham: Secrets from the Outstations</a>, and listen to her podcast, “<a href="https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton/">Somerset Maugham Scandalises 1920s Singapore</a></div>
 
   
 
@@ -60,3 +86,5 @@ And with passion came obsession. “I actually found out where he's buried,” T
 [^3]:  “[Planter’s Tragic Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19161113-1.2.95),” _Malaya Tribune_, 13 November 1916, 13. (From NewspaperSG)
 
 [^4]:  “[After Many Years.](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19080507-1.2.89),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 7 May 1908, 11. (From NewspaperSG)
+
+[^5]:  “[Women Thugs Have Butterflies Tattooed on Their Thighs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590830-1.2.72),” _Straits Times_, 30 August 1959, 11; “[Red Butterflies of the 60s Packed a Wallop](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19861207-1.2.27.2),” _Straits Times_, 7 December 1986, 16. (From NewspaperSG)
