@@ -4,6 +4,13 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/">A Century of Singapore’s Cinemas</a>
+
+ <p>Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls.</p>
+ 
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_main.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/">Fridge Maker Freezes Stock Market</a>
 
 Pan-Electric Industries started out as Singapore’s fridge maker in the 1960s. Its enormous debts and subsequent collapse caused the Stock Exchange of Singapore to close for three days in 1985.

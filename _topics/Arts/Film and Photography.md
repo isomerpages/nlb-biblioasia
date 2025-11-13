@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/">A Century of Singapore’s Cinemas</a>
+
+ <p>Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls.</p>
+ 
+<img src="/images/Vol%2021%20Issue%204/Cinema/cinema_main.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/">Women Photographers in Singapore and Malaya</a>
 
 In the male-dominated world of 1940s and 1950s photography, three women in Singapore and Malaya found different ways to participate in their craft.
