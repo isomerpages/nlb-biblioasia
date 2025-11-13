@@ -2,6 +2,7 @@ collections:
   online-exclusive:
     output: true
     order:
+      - "Echoes from the Archives: Where Memories and Mystery Meet.md"
       - "A Mansion in Serangoon: Whampoa House-Bendemeer.md"
       - Hidden History Brought to Life in a Game.md
       - Singapore Youth Orchestra Brings Singapore Composers into the
