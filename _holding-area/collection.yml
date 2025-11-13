@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - "John Norman Miksic: Singapore’s Pioneering Archaeologist.md"
       - Sample article.md
