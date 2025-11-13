@@ -2,6 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Singapore’s Pioneering Archaeologist.md
+      - "John Norman Miksic: Singapore’s Pioneering Archaeologist.md"
       - "Echoes from the Archives: Where Memories and Mystery Meet.md"
       - Sample article.md
