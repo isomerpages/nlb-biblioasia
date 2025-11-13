@@ -18,7 +18,7 @@ But in Tracey Morton’s 2022 novel_, Someone Is Coming_, an oral history interv
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/someone_is_coming_book_in_shelf.jpg" style="width: 40%;"><i>Someone Is Coming</i> (Monsoon Books, 2022) at the Singapore Alcove at the Central Public Library. <i>Photo by Ruth Wee.</i></div>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/someone_is_coming_book_in_shelf1.jpg" style="width: 50%;"><i>Someone Is Coming</i> (Monsoon Books, 2022) at the Singapore Alcove at the Central Public Library. <i>Photo by Ruth Wee.</i></div>
 
 #### **Using Oral Testimonies**
 
