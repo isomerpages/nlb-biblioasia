@@ -4,6 +4,14 @@ permalink: /inspired-by-history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/11/tracey-morton-writer-memories-mystery/">**Echoes from the Archives: Where Memories and Mystery Meet**</a>
+
+Where past traumas echo in oral testimonies, writer Tracey Morton discovers both a window into Singapore's haunting past and inspiration for her crime fiction novel, _Someone Is Coming_ (Monsoon Books, 2022).
+
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/tracey_and_ruth.jpg" style="width:80%;"> 
+																																																										
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/8/lim-yee-hung-hidden-singapore-game/">**Hidden History Brought to Life in a Game**</a>
 
 From burial grounds to secret societies, HiddenSG weaves historical materials into immersive adventures across the island.
