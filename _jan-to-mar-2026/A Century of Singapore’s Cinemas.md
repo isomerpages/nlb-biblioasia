@@ -138,7 +138,7 @@ By the 2000s, standalone cinemas were well on their way to becoming extinct. Rec
 
 Disruption finally and truly arrived in June 2007 when the Apple iPhone was launched. Within a decade, Singapore would be inundated by a wave of converging technological developments – mobile broadband, social media, fibre broadband and nationwide 4G coverage – enabling mobile computing that would radically transform how entertainment is consumed.[^34]
 
-Both cinemas and cable TV operators worldwide faced the prospect of freefalling viewership as content creation became increasingly social, personal and personalised. Not only could you watch a movie in the comfort of your home, but you could also watch whatever whenever you want, as many times as you wish and rewatch whatever you have watched earlier. Or you could even create your own content and put it online, and wait or hope for it to go viral.&nbsp;
+Both cinemas and cable TV operators worldwide faced the prospect of freefalling viewership as content creation became increasingly social, personal and personalised. Now, you can watch a movie in the comfort of your home, watch whatever whenever you want as many times as you wish, and rewatching whatever you've watched earlier. You can also create your own content and put it online, and wait or hope for it to go viral.
 
 Cinema attendance fell from a peak of 22 million in 2013 to 10 million in 2023. Despite an increase in the number of cinema screens from 218 to 277 in the same period, seating capacity held steady at about 39,000 between 2013 and 2023.[^35]&nbsp;
 
