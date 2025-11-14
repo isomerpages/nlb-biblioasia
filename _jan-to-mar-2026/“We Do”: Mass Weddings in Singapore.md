@@ -110,7 +110,7 @@ As wedding customs and practices continue to evolve alongside social values and 
 
 
 <div style="background-color: white;">
-<b>Seow Peck Ngiam</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include the selection, evaluation and management of materials for the Chinese and donor collections. She also conducts research and writes for the library. </div>
+<b>Seow Peck Ngiam</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include the selection, evaluation and management of materials for the Chinese and donor collections. She also conducts research and writes for the library. </div><br>
 			
 <div style="background-color: white;">
 <b>Benita Lim</b> is a Senior Manager at Resource Discovery and Management, National Library Board. She was formerly a Senior Librarian with the National Library, where she worked with the Singapore and Southeast Asia Collection, developing content as well as providing reference and research services. </div>
