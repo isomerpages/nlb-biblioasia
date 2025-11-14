@@ -77,7 +77,7 @@ I never thought that my personal quest to discover the fate of my granduncle wou
 <br>
 <img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/cover.jpg" style="width: 40%;"><br>Jan Beránek’s book, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300110453">In Search of Silvestr: Unravelling My Granduncle’s Fate, Bata, Czechoslovaks and World War II in Singapore</a></i>, is available for reference at the Lee Kong Chian Reference Library (call no. RSING 305.8918605957 BER) and for loan at selected public libraries (call no. SING 305.8918605957 BER), the  culmination of eight years of research and writing. It is also available for sale at physical and online bookstores.<br><br>
 Listen to&nbsp;”<a href="https://biblioasia.nlb.gov.sg/podcast/searching-for-family-in-the-shadows-of-war-jan-beranek/">Searching for Family in the Shadows of War</a>”, the BiblioAsia+ podcast by Jan Beránek where he talks about his search for his granduncle Silvestr Němec.
-</div><br><br>
+</div><br>
 
 
 <div style="background-color: white;">
