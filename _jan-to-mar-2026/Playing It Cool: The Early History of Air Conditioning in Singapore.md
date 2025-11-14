@@ -42,14 +42,14 @@ In June 1938, the _Morning Tribune_ explained that the main purpose of air condi
 
 #### **Air Conditioning in Singapore**
 
-Mechanical air ventilation systems for entertainment spaces in Singapore were the first iteration of the transition to modern cooled and healthy buildings.[^9] The new Capitol Theatre, for example, which opened in May 1930, incorporated a mechanical air cooling system in which air was circulated around the theatre from a suction fan in the basement passed through a ventilation system, which filtered, purified and “washed” the air before it was electrically charged in an Ozonair machine and pushed out into the theatre through air vents “with all the freshness of a cool breeze”.[^10]
+Mechanical air ventilation systems for entertainment spaces in Singapore were the first iteration of the transition to modern cooled and healthy buildings.[^9] The new Capitol Theatre, for example, which opened in May 1930, incorporated a mechanical air cooling system in which air was circulated around the theatre from a suction fan in the basement passed through a ventilation system, which filtered, purified and “washed” the air before it was electrically charged in an Ozonair machine and pushed out into the theatre through air vents “with all the freshness of a cool breeze”.[^10] Within a decade, however, this cooling system was becoming obsolete.
 
 <img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_theatre.png" style="width: 80%;">
 
 
 <div style="background-color: white;"> Capitol Theatre at the junction of Stamford Road and North Bridge Road, c. 1964. <i>RAFSA Collection, courtesy of National Archives of Singapore (Media - Image no. 20170000052 - 0034). </i></div>
 
-Within a decade, however, this cooling system was becoming obsolete. The Alhambra cinema on Beach Road is believed to have been the first movie theatre in Malaya to have modern air conditioning.[^11] When it reopened as the New Alhambra in July 1938, it had a new bar, seating and decor but it was the cool air which dominated the discussion at the VIP opening ceremony.&nbsp;
+The Alhambra cinema on Beach Road is believed to have been the first movie theatre in Malaya to have modern air conditioning.[^11] When it reopened as the New Alhambra in July 1938, it had a new bar, seating and decor but it was the cool air which dominated the discussion at the VIP opening ceremony.&nbsp;
 
 “Entertainment in the East is controlled for the most part by the problem of weather. It is a remarkable fact that the idea of installing an air conditioning plant has not been thought of before,” noted the _Morning Tribune_. “There is no doubt that the air conditioning is a huge success – all through the evening there was a pleasant sense of cool dehumidified air. It was perfectly cool and there was no suggestion of any intolerable heat that can so often ruin an evening’s entertainment.”[^12]
 
