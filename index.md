@@ -998,4 +998,14 @@ sections:
       url: /vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/
       image: /images/Vol 21 Issue 4/Flu/Flu_main.png
       alt: 1918 Flu Pandemic in Singapore
+  - infopic:
+      title: Queenstown Library, the First Branch Library
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Opened in 1970 by then Prime Minister Lee Kuan Yew, Queenstown
+        Library has been a landmark on Margaret Drive for more than 50 years.
+      button: First Branch Library
+      url: https://www.youtube.com/embed/rSeaQ0G-CYc
+      image: "/images/Videos: BiblioAsia Reels/Queenstown_Library.png"
+      alt: Queenstown Library
 ---
