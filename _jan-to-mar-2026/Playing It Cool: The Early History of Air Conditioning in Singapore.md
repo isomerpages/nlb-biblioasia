@@ -120,9 +120,7 @@ In 1999, while Singapore’s first prime minister, Lee Kuan Yew, famously credit
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 	<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_imperial.png" style="width: 70%;"><br>
 This essay is adapted from Chapter 7, “Regulating Heat, Controlling Urban Airs”, from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803"><i>Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya</i></a> (University of Pittsburgh Press, 2025) by Fiona Williamson. The book is available for sale at online bookstores and for reference at the Lee Kong Chian Reference Library (call no. RSEA 959.503 WIL).
-</div>
-
-
+</div><br>
 
 <div style="background-color: white;">
 <b>Fiona Williamson</b> is Professor of Environmental History in the College of Integrative Studies and Associate Dean (Undergraduate Education) at the Singapore Management University. She is interested in the history of climate, meteorology and extreme weather in Singapore, Malaysia and Hong Kong.   </div>

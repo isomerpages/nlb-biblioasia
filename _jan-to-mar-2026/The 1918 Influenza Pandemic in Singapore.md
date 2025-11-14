@@ -111,7 +111,7 @@ Moreover, medical knowledge and public health infrastructure had significantly a
 
 Crucially, effective therapies were developed more quickly in 2020 compared to 1918. While the influenza vaccine was developed long after the 1918 outbreak, the first Covid-19 vaccines were ready for distribution in Singapore by December 2020.[^35]
 
-While the 1918 influenza pandemic was met with uncertainty and unpreparedness, the Covid-19 outbreak was met with swift action, clear communication and groundbreaking medical innovation. This contrast highlights the significant progress in public health made in the last 100 years and also the vital importance of learning from history.
+While the 1918 influenza pandemic was met with uncertainty and unpreparedness, the Covid-19 outbreak was met with swift action, clear communication and groundbreaking medical innovation. This contrast highlights the significant progress in public health made in the last 100 years and also the vital importance of learning from history.<br><br>
 
 
 <div style="background-color: white;">
