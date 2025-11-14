@@ -8,6 +8,12 @@ variant: tiptap
 <h3><strong>A Reel-ly Good Story: History in Five Minutes</strong></h3>
 <p><em>BiblioAsia Reels</em> turns a <em>BiblioAsia</em> story into a short
 video. Take five to learn interesting things about Singapore history.</p>
+<h4><strong>Queenstown Library, the First Branch Library</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rSeaQ0G-CYc"></iframe>
+</div>
+<p>Opened in 1970 by then Prime Minister Lee Kuan Yew, Queenstown Library
+has been a landmark on Margaret Drive for more than 50 years.</p>
 <h4><strong>Gems in the Singapore Hokkien Huay Kuan Collection</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6wJcqcSoNcA"></iframe>
