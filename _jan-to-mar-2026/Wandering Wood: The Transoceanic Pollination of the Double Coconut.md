@@ -136,7 +136,7 @@ The double coconut’s unique qualities had so captivated humans that they devis
 
 In Seychelles, there is a legend about how the palm reproduces: on stormy nights, male trees are believed to uproot themselves, wandering the forest to mate with female trees. In the rainswept darkness, the distinct sound produced by the leaves of the palm rubbing against one another is said to be the sound of trees mating. Witnessing such an event, however, was believed to result in blindness, or even death for unfortunate observers.[^30]
 
-In many respects, these transoceanic pollinations of the coco-de-mer are even more extraordinary than the old Seychellois legends of walking trees, for woven into them, too, is a story of charismatic plants – and the resourceful, determined botanists who worked across international boundaries to save them from extinction.
+In many respects, these transoceanic pollinations of the coco-de-mer are even more extraordinary than the old Seychellois legends of walking trees, for woven into them, too, is a story of charismatic plants – and the resourceful, determined botanists who worked across international boundaries to save them from extinction.<br><br>
 
 
 
