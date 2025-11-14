@@ -109,7 +109,7 @@ In another letter, Cyril Seah Chen Chuan said: “I often see children in privat
 
 By now, the jury is in on the necessity of wearing a seat belt. “The chances of an unbelted patient getting to a hospital alive after a bad crash is close to zero,” said Teo Li-Tserng, director of the Tan Tock Seng Hospital Trauma Centre and regional director of the Central Region Trauma Services under the National Healthcare Group. “Those who wear a seat belt may still get injured, but their injuries are usually not as immediately life-threatening,” he added. “This gives them time to be transported to a hospital where they can be treated”.[^32]&nbsp;
 
-Anecdotally, most drivers and front seat passengers these days will have their seat belts on. The same, however, cannot be said for passengers in the back. Rear seat belt reminder systems, which detect unbuckled rear seats and provide visual and audible alerts to the driver, are currently not required under the older internationally recognised standards. However, the LTA is considering making rear seat belt reminders mandatory for all seats in new cars, taking into account the lead time needed for car manufacturers to implement the changes.[^33]
+Anecdotally, most drivers and front seat passengers these days will have their seat belts on. The same, however, cannot be said for passengers in the back. Rear seat belt reminder systems, which detect unbuckled rear seats and provide visual and audible alerts to the driver, are currently not required under the older internationally recognised standards. However, the LTA is considering making rear seat belt reminders mandatory for all seats in new cars, taking into account the lead time needed for car manufacturers to implement the changes.[^33]<br><br>
 
 
 	 
