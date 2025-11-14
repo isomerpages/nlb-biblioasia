@@ -155,7 +155,7 @@ Are present developments merely a market shakeout allowing the fittest to surviv
 
 Shaw has also taken over the cinema space in Jurong’s Jem mall after the landlord terminated its lease with Cathay Cineplexes and repossessed the cinema space in March 2025. Mark Shaw, director of the Shaw Organisation Group of Companies, told the _Straits Times_ that Shaw Theatres at Jem would open in stages from November 2025.[^40]
 
-While Hollywood blockbusters and big-name directors might still pull in crowds on occasion, cinema operators will have to address the larger societal and economic shifts that have eroded the spatial, visual and aural advantages that their big halls, big screens and big sound systems have traditionally enjoyed. With the shift in consumption patterns and the current preference for solitary, private viewing over communal experiences, cinemas certainly must reinvent themselves if they hope to continue avoiding the fate of the _bangsawan_ theatres that they replaced a century ago.
+While Hollywood blockbusters and big-name directors might still pull in crowds on occasion, cinema operators will have to address the larger societal and economic shifts that have eroded the spatial, visual and aural advantages that their big halls, big screens and big sound systems have traditionally enjoyed. With the shift in consumption patterns and the current preference for solitary, private viewing over communal experiences, cinemas certainly must reinvent themselves if they hope to continue avoiding the fate of the _bangsawan_ theatres that they replaced a century ago.<br><br>
 
 
 
