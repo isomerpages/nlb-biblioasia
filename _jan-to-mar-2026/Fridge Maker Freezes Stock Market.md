@@ -147,7 +147,7 @@ Under new management, Pan-El pursued opportunities in the hotel and property sec
 
 As the first domestic fridge maker in 1965, Pan-El had contributed to Singapore’s economic progress during its nation-building years. At the time of its collapse in 1985, Pan-El was a large investment holding company with no fewer than 60 subsidiaries and 10 associate companies.[^49]
 
-Although the stock market eventually recovered, the same could not be said for the company which was ordered to be wound up on 9 October 1986. The Pan-El brand also disappeared from the market when Acma stopped using the name on its refrigerators and air conditioners in 1986.[^50] By then, the brand was so tainted that no one would have wanted to own any appliances bearing the Pan-El name.
+Although the stock market eventually recovered, the same could not be said for the company which was ordered to be wound up on 9 October 1986. The Pan-El brand also disappeared from the market when Acma stopped using the name on its refrigerators and air conditioners in 1986.[^50] By then, the brand was so tainted that no one would have wanted to own any appliances bearing the Pan-El name.<br><br>
 
 
 
