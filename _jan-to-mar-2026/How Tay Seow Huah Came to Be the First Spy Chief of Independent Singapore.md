@@ -63,7 +63,7 @@ And Mr Nathan’s book went into great detail. Of course, the newspapers covered
 <img src="/images/Vol%2021%20Issue%204/Spy/Spy_portrait.png" style="width:55%;">
 
 
-<div style="background-color: white;"> Simon Tay: lawyer, academic and winner of the 2010 Singapore Literature Prize.  <i> Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;"> Simon Tay: lawyer, academic and winner of the 2010 Singapore Literature Prize.  <i> Photo by Jimmy Yap. </i></div><br>
 
 
 
