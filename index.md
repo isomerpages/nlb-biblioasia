@@ -19,6 +19,16 @@ sections:
         Cheang/HouseCheang_Heroimage.png
       variant: center
   - infopic:
+      title: Queenstown Library, the First Branch Library
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Opened in 1970 by then Prime Minister Lee Kuan Yew, Queenstown
+        Library has been a landmark on Margaret Drive for more than 50 years.
+      button: Watch the Video
+      url: https://www.youtube.com/embed/rSeaQ0G-CYc
+      image: "/images/Videos: BiblioAsia Reels/Queenstown_Library.png"
+      alt: Queenstown Library
+  - infopic:
       title: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
       subtitle: Women
       id: infopic

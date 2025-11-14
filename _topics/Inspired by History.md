@@ -8,7 +8,7 @@ description: ""
 
 Where past traumas echo in oral testimonies, writer Tracey Morton discovers both a window into Singapore's haunting past and inspiration for her crime fiction novel, _Someone Is Coming_ (Monsoon Books, 2022).
 
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/tracey_and_ruth.jpg" style="width:80%;"> 
+<img src="/images/Podcast/tracey_600_400.jpg" style="width:80%;"> 
 																																																										
 <hr>
 

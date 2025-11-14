@@ -82,7 +82,7 @@ The telecast created a major business opportunity and commercial entities, parti
 
 <img src="/images/Vol%2021%20Issue%204/Mass%20Weddings/Wedding_mass.png" style="width: 80%;">
 
-<div style="background-color: white;">A mass wedding on 18 May 1980 organised by Siakson Tours and Nanyang Siang Pau Travel Department at the Neptune Theatre Restaurant in Mandarin Hotel. <i>Courtesy of Tan Li Kheng (Not available in NLB’s holdings). </i></div>
+<div style="background-color: white;">A mass wedding on 18 May 1980 organised by Siakson Tours and Nanyang Siang Pau Travel Department at the Neptune Theatre Restaurant in Mandarin Hotel. <i>Courtesy of Tan Li Kheng.</i></div>
 
 Beyond the ceremonial occasion, the event also raised funds for the government-established People’s Scholarship Fund, which supported tertiary education for promising Singaporeans. Another unique feature of the event was the simultaneous ceremonies in Malaysia and Hong Kong, each involving 60 couples.[^26]
 
@@ -94,7 +94,7 @@ Even as late as the 1980s, couples were still choosing to get married at mass we
 
 <img src="/images/Vol%2021%20Issue%204/Mass%20Weddings/Wedding_tanli.png" style="width: 80%;">
 
-<div style="background-color: white;">Tan Li Kheng and her husband Lee Chun Ho participated in a mass wedding organised by Siakson Tours and Nanyang Siang Pau Travel Department at the Neptune Theatre Restaurant in Mandarin Hotel on 18 May 1980. <i>Courtesy of Tan Li Kheng (Not available in NLB’s holdings).</i></div>
+<div style="background-color: white;">Tan Li Kheng and her husband Lee Chun Ho participated in a mass wedding organised by Siakson Tours and Nanyang Siang Pau Travel Department at the Neptune Theatre Restaurant in Mandarin Hotel on 18 May 1980. <i>Courtesy of Tan Li Kheng.</i></div>
 
 In the late 1980s, government agencies, including the Registry of Marriages (ROM) and the People’s Association, jumped on the bandwagon and organised several mass weddings in collaboration with private operators.&nbsp;
 

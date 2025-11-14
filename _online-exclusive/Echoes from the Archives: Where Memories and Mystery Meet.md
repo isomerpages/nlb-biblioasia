@@ -18,7 +18,7 @@ But in Tracey Morton’s 2022 novel, <i>Someone Is Coming</i>, an oral history i
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/someone_is_coming_book_in_shelf1.jpg" style="width: 50%;"><i>Someone Is Coming</i> (Monsoon Books, 2022) at the Singapore Alcove at the Central Public Library. <i>Photo by Ruth Wee.</i></div>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/someone_is_coming_book_in_shelf2.jpg" style="width: 80%;"><i>Someone Is Coming</i> (Monsoon Books, 2022) at the Singapore Alcove at the Central Public Library. <i>Photo by Ruth Wee.</i></div>
 
 #### **Using Oral Testimonies**
 
@@ -42,7 +42,7 @@ And with passion came obsession. “I actually found out where he's buried,” T
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/detective_william_house_HD1.png" style="width: 80%;">The presumed former residence of Detective Richard David Williams in Melbourne, April 2025. <i>Photo by Ruth Wee.</i></div>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/detective_william_house_adj.png" style="width: 80%;">The presumed former residence of Detective Richard David Williams in Melbourne, April 2025. <i>Photo by Tracey Morton.</i></div>
 
 While still images and text provide the necessary facts, oral testimonies flesh out the thoughts, feelings and raw emotions of people recounting their stories.
 
@@ -58,13 +58,13 @@ In her crime fiction-writing class with the Singapore Book Council in 2023, she 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/missing_people_case__class_materials.jpg" style="width: 50%;">A newspaper report of a missing person case and a 1906 photograph of Singapore's first detective branch are some of the materials used at Tracey's crime writing workshop with the Singapore Book Council in 2023. <i>Photo by Ruth Wee.</i></div>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/missing_people_case__class_materials.jpg" style="width: 80%;">A newspaper report of a missing person case and a 1906 photograph of Singapore's first detective branch are some of the materials used at Tracey's crime writing workshop with the Singapore Book Council in 2023. <i>Photo by Tracey Morton.</i></div>
 
 Participants were tasked to write from different perspectives – ranging from journalist to witness, from victim’s relative to even the victim’s ghost. One participant uncovered accounts of the Red Butterfly Gang, or Ang Hor Tiap in Hokkien, an all-girl gang that terrorised Singapore with violence, intimidation and extortion from the late 1950s to the 1970s. As their name suggests, members wore red butterfly tattoos on their thighs, or sometimes on the shoulder or groin.[^5] They were among the many gangs that rocked Singapore’s history and left their footprints in the archives.
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/research_and_brainstorming_material.jpg" style="width: 50%;">     Some of Tracey’s research and brainstorming materials. <i>Photo by Ruth Wee.</i></div>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/research_and_brainstorming_material.jpg" style="width: 80%;">     Some of Tracey’s research and brainstorming materials. <i>Photo by Tracey Morton.</i></div>
 
 Just as _Someone Is Coming_ drew inspiration from the library and archives, Tracey encourages writers to tap into their vast resources. “\[The story is\] pretty much all out for you. The crime is there; the characters are there… The story is just there waiting to be written.”
 
