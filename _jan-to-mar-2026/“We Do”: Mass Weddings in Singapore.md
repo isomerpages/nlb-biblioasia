@@ -106,15 +106,14 @@ Newspaper reports of mass weddings became noticeably fewer in the 1990s, likely 
 
 Couples were still willing to walk down the aisle en masse if that meant they could do it on popular dates. On 20 September 2009 (20/09/2009), the Singapore Botanic Gardens hosted a mass wedding for 168 couples as part of its 150th anniversary celebrations. The following year, on 10 October 2010 (10/10/2010), the People’s Association, in collaboration with _Lianhe Zaobao_ and Sentosa Leisure Group, organised a large-scale ceremony for 118 couples who exchanged vows on Sentosa.[^35] 
 
-As wedding customs and practices continue to evolve alongside social values and cultural trends, the era of mass weddings remains a distinctive chapter in Singapore’s matrimonial landscape.<br>
-
-
+As wedding customs and practices continue to evolve alongside social values and cultural trends, the era of mass weddings remains a distinctive chapter in Singapore’s matrimonial landscape.<br><br>
 
 
 <div style="background-color: white;">
-<b>Seow Peck Ngiam</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include the selection, evaluation and management of materials for the Chinese and donor collections. She also conducts research and writes for the library. </div><br>
+<b>Seow Peck Ngiam</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include the selection, evaluation and management of materials for the Chinese and donor collections. She also conducts research and writes for the library. </div><br>			
 <div style="background-color: white;">
-<b>Benita Lim</b> is a Senior Manager at Resource Discovery and Management, National Library Board. She was formerly a Senior Librarian with the National Library, where she worked with the Singapore and Southeast Asia Collection, developing content as well as providing reference and research services.  </div>
+<b>Benita Lim</b> is a Senior Manager at Resource Discovery and Management, National Library Board. She was formerly a Senior Librarian with the National Library, where she worked with the Singapore and Southeast Asia Collection, developing content as well as providing reference and research services. </div>
+			
 
 #### **Notes**
 
