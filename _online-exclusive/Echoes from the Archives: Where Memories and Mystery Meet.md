@@ -42,7 +42,7 @@ And with passion came obsession. “I actually found out where he's buried,” T
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Tracey%20Morton/detective_william_house_HD1.png" style="width: 80%;">The presumed former residence of Detective Richard David Williams in Melbourne, April 2025. <i>Photo by Ruth Wee.</i></div>
+<img src="/images/Online%20Only%20Articles/Tracey%20Morton/detective_william_house_adj.png" style="width: 80%;">The presumed former residence of Detective Richard David Williams in Melbourne, April 2025. <i>Photo by Ruth Wee.</i></div>
 
 While still images and text provide the necessary facts, oral testimonies flesh out the thoughts, feelings and raw emotions of people recounting their stories.
 
