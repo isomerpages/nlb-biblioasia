@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/
-      button: The House of Cheang
+      url: /vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/
+      button: Excavating the Past
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/The House of
-        Cheang/HouseCheang_Heroimage.png
+      background: /images/Vol 21 Issue 3/Excavating the Past/HeroImage_excavating2.jpg
       variant: center
   - infopic:
       title: Queenstown Library, the First Branch Library
