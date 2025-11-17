@@ -22,7 +22,7 @@ But in Tracey Morton’s 2022 novel, <i>Someone Is Coming</i>, an oral history i
 
 #### **Using Oral Testimonies**
 
-Heavily inspired by life in the early 20th-century Malayan plantations, <i>Someone Is Coming</i> puts a fictional spin on this haunting period in history. Born from hours going through at least 16 oral history testimonies[^2] as well as related newspaper reports,[^3] the narrative unfolds through an oral history interview – “an interesting way to tell a story”, as Tracey describes it. Though grounded in meticulous archival research, Tracey gave her imagination free rein in crafting the fictional elements of her story. It revolves around nonagenarian Philip Goundry’s recollections of his childhood in Malayan plantations, elicited by Dr Lin, an oral history interviewer whose questioning sometimes bordered on intrusive.
+Heavily inspired by life in the early 20th-century Malayan plantations, <i>Someone Is Coming</i> puts a fictional spin on this haunting period in history. Born from hours spent going through at least 16 oral history testimonies[^2] as well as related newspaper reports,[^3] the narrative unfolds through an oral history interview – “an interesting way to tell a story”, as Tracey describes it. Though grounded in meticulous archival research, Tracey gave her imagination free rein in crafting the fictional elements of her story. It revolves around nonagenarian Philip Goundry’s recollections of his childhood in Malayan plantations, elicited by Dr Lin, an oral history interviewer whose questioning sometimes bordered on intrusive.
 
 Patience, pragmatics and paralinguistic cues are quintessential in oral histories – elements Tracey wove throughout her novel. Tension between the protagonists revealed their distinct personalities. Under a veil of politeness, Dr Lin emerged as direct, persistent and slightly aggressive while Philip was a reticent man who had emotional outbursts when dangerous memories were unlocked. Through their interactions, Tracey captured the dynamics of real oral history interviews.
 
@@ -32,7 +32,7 @@ While Philip’s firsthand accounts shed light on the dark period of the early 2
 
 #### **Interest in Archival Materials**
 
-Tracey’s fascination with Malayan plantations germinated while researching an essay for her master’s degree on crime and thriller writing&nbsp;at the University of Cambridge on whether Somerset Maugham’s short stories from the East could be considered crime fiction. Knowing that Maugham drew inspiration from real life, she began scouring the collections of the NAS and the National Library Singapore to trace the links between murders in his stories and the past, meticulously piecing together reported crime cases.
+Tracey’s fascination with Malayan plantations germinated while working on an essay for her master’s degree on crime and thriller writing&nbsp;at the University of Cambridge. The essay explored on whether Somerset Maugham’s short stories from the East could be considered crime fiction. Knowing that Maugham drew inspiration from real life, she began scouring the collections of the NAS and the National Library Singapore to trace the links between murders in his stories and the past, meticulously piecing together reported crime cases.
 
 She is definitely no stranger to the library and the archives, having pored through countless oral history testimonies, newspaper clippings and even historical records like death notices in the past 11 years. Akin to digging through digital treasure troves, these have led to unexpected finds.
 
@@ -52,7 +52,7 @@ While still images and text provide the necessary facts, oral testimonies flesh 
 
 #### **The Usefulness of Historical Materials**
 
-Oral history accounts and old newspaper reports have been valuable mines of information not only for Tracey, but for budding writers that she mentors as well. &nbsp;&nbsp;&nbsp;
+Oral history accounts and old newspaper reports have been valuable mines of information not only for Tracey, but for budding writers that she mentors.
 
 In her crime fiction-writing class with the Singapore Book Council in 2023, she introduced participants to creating crime fiction stories through research informed by historical materials. Working in small groups, participants examined cold cases from newspaper reports, listened to oral testimonies and brainstormed story ideas. With information scattered across different sources, aspiring writers had to piece them together. “That's the best thing about the archives,” Tracey quipped, “It makes you into a detective.”
 
@@ -60,7 +60,7 @@ In her crime fiction-writing class with the Singapore Book Council in 2023, she 
 <br>
 <img src="/images/Online%20Only%20Articles/Tracey%20Morton/missing_people_case__class_materials.jpg" style="width: 80%;">A newspaper report of a missing person case and a 1906 photograph of Singapore's first detective branch are some of the materials used at Tracey's crime writing workshop with the Singapore Book Council in 2023. <i>Photo by Ruth Wee.</i></div>
 
-Participants were tasked to write from different perspectives – ranging from journalist to witness, from victim’s relative to even the victim’s ghost. One participant uncovered accounts of the Red Butterfly Gang, or Ang Hor Tiap in Hokkien, an all-girl gang that terrorised Singapore with violence, intimidation and extortion from the late 1950s to the 1970s. As their name suggests, members wore red butterfly tattoos on their thighs, or sometimes on the shoulder or groin.[^5] They were among the many gangs that rocked Singapore’s history and left their footprints in the archives.
+Participants were tasked with writing from different perspectives – ranging from journalist to witness, from victim’s relative to even the victim’s ghost. One participant uncovered accounts of the Red Butterfly Gang, or Ang Hor Tiap in Hokkien, an all-girl gang that terrorised Singapore with violence, intimidation and extortion from the late 1950s to the 1970s. As their name suggests, members wore red butterfly tattoos on their thighs, or sometimes on the shoulder or groin.[^5] They were among the many gangs that rocked Singapore’s history and left their footprints in the archives.
 
 <div style="background-color: white;">
 <br>
@@ -71,7 +71,7 @@ Just as _Someone Is Coming_ drew inspiration from the library and archives, Trac
 For Tracey, the National Library and National Archives are more than repositories of facts – these are treasure troves of historical narratives waiting to be rediscovered and retold through fresh eyes.
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba">
-Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictional works. Read Tracey Morton’s <i>BiblioAsia</i> article, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/">W. Somerset Maugham: Secrets from the Outstations</a>, and listen to her podcast, “<a href="https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton/">Somerset Maugham Scandalises 1920s Singapore.</a></div><br>
+Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictional works. Read Tracey Morton’s <i>BiblioAsia</i> article, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/">W. Somerset Maugham: Secrets from the Outstations"</a>, and listen to her podcast, “<a href="https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton/">Somerset Maugham Scandalises 1920s Singapore".</a></div><br>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/Ruth_new_photo.jpg"><b>Ruth Wee</b> is an intern with the publishing department at the National Library Singapore. Ruth has a Bachelor of Arts (Honours) in English Language and Linguistics (Distinction) from the National University of Singapore.</div>   
