@@ -32,7 +32,7 @@ While Philip’s firsthand accounts shed light on the dark period of the early 2
 
 #### **Interest in Archival Materials**
 
-Tracey’s fascination with Malayan plantations germinated while working on an essay for her master’s degree on crime and thriller writing&nbsp;at the University of Cambridge. The essay explored on whether Somerset Maugham’s short stories from the East could be considered crime fiction. Knowing that Maugham drew inspiration from real life, she began scouring the collections of the NAS and the National Library Singapore to trace the links between murders in his stories and the past, meticulously piecing together reported crime cases.
+Tracey’s fascination with Malayan plantations germinated while working on an essay for her master’s degree on crime and thriller writing&nbsp;at the University of Cambridge. The essay explored whether Somerset Maugham’s short stories from the East could be considered crime fiction. Knowing that Maugham drew inspiration from real life, she began scouring the collections of the NAS and the National Library Singapore to trace the links between murders in his stories and the past, meticulously piecing together reported crime cases.
 
 She is definitely no stranger to the library and the archives, having pored through countless oral history testimonies, newspaper clippings and even historical records like death notices in the past 11 years. Akin to digging through digital treasure troves, these have led to unexpected finds.
 
@@ -71,7 +71,7 @@ Just as _Someone Is Coming_ drew inspiration from the library and archives, Trac
 For Tracey, the National Library and National Archives are more than repositories of facts – these are treasure troves of historical narratives waiting to be rediscovered and retold through fresh eyes.
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba">
-Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictional works. Read Tracey Morton’s <i>BiblioAsia</i> article, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/">W. Somerset Maugham: Secrets from the Outstations"</a>, and listen to her podcast, “<a href="https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton/">Somerset Maugham Scandalises 1920s Singapore".</a></div><br>
+Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictional works. Read Tracey Morton’s <i>BiblioAsia</i> article, "<a href="“https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/&quot;">W. Somerset Maugham: Secrets from the Outstations"</a>, and listen to her podcast, “<a href="“https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton/&quot;">Somerset Maugham Scandalises 1920s Singapore".</a></div><br>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/Ruth_new_photo.jpg"><b>Ruth Wee</b> is an intern with the publishing department at the National Library Singapore. Ruth has a Bachelor of Arts (Honours) in English Language and Linguistics (Distinction) from the National University of Singapore.</div>   
