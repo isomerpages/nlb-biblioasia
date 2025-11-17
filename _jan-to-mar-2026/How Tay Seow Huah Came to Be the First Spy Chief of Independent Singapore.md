@@ -59,6 +59,8 @@ And Mr Nathan’s book went into great detail. Of course, the newspapers covered
 
 **Jimmy:** We know that President Nathan was part of a team of Singaporeans who accompanied the four hijackers to Kuwait to guarantee their safety. And I think your father was or was perhaps possibly one of those people who was supposed to have gone on, but didn’t. In your book, you talked about that.
 
+**Simon:**&nbsp;My father had come out of \[the\] Istana, and the first person he called was Mr Nathan.&nbsp;Mr Nathan was then in charge of security intelligence, which was outward looking. And the internal security person seems to have been the more logical person to choose. But I think going back to what I said about my father and Mr Nathan having worked together before, and when you face a crunch – think it is a good instinct of the pioneers, and we shouldn’t give it up ­– you turn to people you know and trust.
+
 
 <img src="/images/Vol%2021%20Issue%204/Spy/Spy_portrait.png" style="width:55%;">
 
