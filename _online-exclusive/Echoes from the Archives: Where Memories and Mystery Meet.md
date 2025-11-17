@@ -32,7 +32,7 @@ While Philip’s firsthand accounts shed light on the dark period of the early 2
 
 #### **Interest in Archival Materials**
 
-Tracey’s fascination with Malayan plantations germinated while working on an essay for her master’s degree on crime and thriller writing&nbsp;at the University of Cambridge. The essay explored on whether Somerset Maugham’s short stories from the East could be considered crime fiction. Knowing that Maugham drew inspiration from real life, she began scouring the collections of the NAS and the National Library Singapore to trace the links between murders in his stories and the past, meticulously piecing together reported crime cases.
+Tracey’s fascination with Malayan plantations germinated while working on an essay for her master’s degree on crime and thriller writing&nbsp;at the University of Cambridge. The essay explored whether Somerset Maugham’s short stories from the East could be considered crime fiction. Knowing that Maugham drew inspiration from real life, she began scouring the collections of the NAS and the National Library Singapore to trace the links between murders in his stories and the past, meticulously piecing together reported crime cases.
 
 She is definitely no stranger to the library and the archives, having pored through countless oral history testimonies, newspaper clippings and even historical records like death notices in the past 11 years. Akin to digging through digital treasure troves, these have led to unexpected finds.
 
