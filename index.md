@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 3/Excavating the Past/HeroImage_excavating2.jpg
       variant: center
   - infopic:
+      title: "“We Do”: Mass Weddings in Singapore"
+      subtitle: Culture
+      id: infopic
+      description: Initially inspired by the “New Life Movement” in China, couples in
+        Singapore would opt for mass weddings to save money.
+      button: Happily Ever After
+      url: /vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/
+      image: /images/Vol 21 Issue 4/Mass Weddings/mass_wedding_topics.jpg
+      alt: Mass Weddings in Singapore
+  - infopic:
       title: Queenstown Library, the First Branch Library
       subtitle: BiblioAsia Reels
       id: infopic
@@ -977,16 +987,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: "“We Do”: Mass Weddings in Singapore"
-      subtitle: Culture
-      id: infopic
-      description: Initially inspired by the “New Life Movement” in China, couples in
-        Singapore would opt for mass weddings to save money.
-      button: Happily Ever After
-      url: /vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/
-      image: /images/Vol 21 Issue 4/Mass Weddings/mass_wedding_topics.jpg
-      alt: Mass Weddings in Singapore
   - infopic:
       title: Please Fasten Your Seat Belts
       subtitle: Governance
