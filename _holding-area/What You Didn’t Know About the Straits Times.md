@@ -4,17 +4,20 @@ permalink: /holding-area/vol-21/issue-4/jan-mar-2026/what-you-didn-t-know-about-
 variant: markdown
 description: ""
 ---
-The first issue of the _Straits Times and Singapore Journal of Commerce_ (as it was originally named) rolled off the presses in July 1845. Back then, it competed with the only other English-language newspaper, the _Singapore Free Press_. 
+#### The first fake news. The illegal postwar edition. Newsmen turned presidents. The Straits Times has had an interesting 180 years.
+By Irene Hoe
+
+The first issue of the _Straits Times and Singapore Journal of Commerce_ (as it was originally named) rolled off the presses in July 1845. Back then, it competed with the only other English-language newspaper, the _Singapore Free Press_.&nbsp;
 
 Over the last 180 years, the newspaper has accompanied Singapore’s growth from colonial outpost to modern city-state. Along the way, the _Straits Times_ has not simply been a witness to these changes; it has also been part of the story. Here are some facts about the _Straits Times_ of which most people are probably not aware.
 
-180 Years Ago
+#### **180 Years Ago**
 
-There has been much speculation about the origins of the _Straits Times_. According to Walter Makepeace, Gilbert E. Brooke and Roland St J. Braddell in _One Hundred Years of Singapore_, the Armenian merchant Marterus Thaddeus Apcar, of the firm Apcar & Stephens, planned to set up a newspaper in Singapore and ordered printing equipment from England. But Apcar died and fellow Armenian Catchick Moses took over the equipment and invited Robert Carr Woods, an English editor from Bombay, to be the first editor of the paper.1 
+There has been much speculation about the origins of the _Straits Times_. According to Walter Makepeace, Gilbert E. Brooke and Roland St J. Braddell in _One Hundred Years of Singapore_, the Armenian merchant Marterus Thaddeus Apcar, of the firm Apcar &amp; Stephens, planned to set up a newspaper in Singapore and ordered printing equipment from England. But Apcar died and fellow Armenian Catchick Moses took over the equipment and invited Robert Carr Woods, an English editor from Bombay, to be the first editor of the paper.1&nbsp;
 
-While it has been surmised by some that Apcar had ordered the press to publish a newspaper in English, C.M. Turnbull wrote in her book, _Dateline Singapore: 150 Years of The Straits Times_, that it was more likely Apcar had planned to publish books in Armenian for the community in Singapore. However, following the collapse of Apcar & Stephens in 1845, Moses acquired the printing equipment, hired Woods and started up the _Straits Times and Singapore Journal of Commerce_ at No. 7 Commercial Square, in present-day Raffles Place. The paper’s first print run was far from impressive: at just eight folio pages and “printed with new type, on fine English paper”, it sold for half a Spanish dollar.2 
+While it has been surmised by some that Apcar had ordered the press to publish a newspaper in English, C.M. Turnbull wrote in her book, _Dateline Singapore: 150 Years of The Straits Times_, that it was more likely Apcar had planned to publish books in Armenian for the community in Singapore. However, following the collapse of Apcar &amp; Stephens in 1845, Moses acquired the printing equipment, hired Woods and started up the _Straits Times and Singapore Journal of Commerce_ at No. 7 Commercial Square, in present-day Raffles Place. The paper’s first print run was far from impressive: at just eight folio pages and “printed with new type, on fine English paper”, it sold for half a Spanish dollar.2&nbsp;
 
-Woods promised somewhat grandiloquently in his opening editorial: “Convinced that the Press has a noble object for its end, believing it to be an engine of power capable of ameliorating the condition of mankind, we approach the task our new undertaking imposes on us with delicacy and diffidence.”3 
+Woods promised somewhat grandiloquently in his opening editorial: “Convinced that the Press has a noble object for its end, believing it to be an engine of power capable of ameliorating the condition of mankind, we approach the task our new undertaking imposes on us with delicacy and diffidence.”3&nbsp;
 
 Then a weekly newspaper, which appeared only on Tuesday mornings, the _Straits Times_ was not even Singapore’s first. By the time the newcomer was first published on 15 July 1845, Singapore already had newspapers for more than 20 years. The pioneering effort was the _Singapore Chronicle_, which made its debut on 1 January 1824.4
 
@@ -22,35 +25,35 @@ In 1835, the _Chronicle_ was sold, and in October that year, a rival, the _Singa
 
 Within four months of the _Straits Times’_ debut, it was publishing twice a week, albeit as a smaller-sized paper. But by the end of the paper’s first year, Woods could not convince Moses that the _Straits Times_ was commercially viable. When Moses put the paper up for sale in September 1846, there were no offers.6
 
-Fake News
+#### **Fake News**
 
 Fake news likely had its beginnings in Singapore much further back in history than you would ever imagine. In fact, the first likely instance of fake news happened in the _Straits Times_ not quite a year after the paper made its debut.
 
 It was June 1846 and as Turnbull described in _Dateline Singapore_, as an American ship sailed across the harbour, several merchants paid a boy to “dash into the newspaper office dripping wet just as the paper was going to press, with a tale that he had swum ashore bearing a letter from the captain giving the prices at recent opium sales in Calcutta”. This “news” was apparently meant to stir panic in the commercial sector.7
 
-And the fakery? The ship had actually been on its way from Bombay, not Calcutta, and the “news” deliberately misspelled the ship’s captain’s name. But the story was irresistible. Woods published the “scoop” on 13 June 1846 only to discover that it was a fake.8 He then put up a notice at the office of the _Straits Times_, offering a $50 bounty for exposing the “scoundrel” responsible.9 
+And the fakery? The ship had actually been on its way from Bombay, not Calcutta, and the “news” deliberately misspelled the ship’s captain’s name. But the story was irresistible. Woods published the “scoop” on 13 June 1846 only to discover that it was a fake.8 He then put up a notice at the office of the _Straits Times_, offering a $50 bounty for exposing the “scoundrel” responsible.9&nbsp;
 
-World War II 
+#### **World War II&nbsp;**
 
-The fall of Singapore to the Japanese on 15 February 1942 led to the renaming of Singapore as Syonan-to and the disappearance of the _Straits Times_ for a spell. But although the Japanese Occupation (which ended only in September 1945) put a temporary stop to publication, the lights stayed on in the offices of the _Straits Times_ because the Japanese used the newsroom to publish their own English-language version of a newspaper. 
+The fall of Singapore to the Japanese on 15 February 1942 led to the renaming of Singapore as Syonan-to and the disappearance of the _Straits Times_ for a spell. But although the Japanese Occupation (which ended only in September 1945) put a temporary stop to publication, the lights stayed on in the offices of the _Straits Times_ because the Japanese used the newsroom to publish their own English-language version of a newspaper.&nbsp;
 
-They called the initial version the _Shonan Times_, with the first issue published on 20 February 1942. It was renamed the _Syonan Times_ the very next day.10 To get the wartime paper going, the Japanese employed several of the technicians who had worked for the _Straits Times_ and also hired several local journalists to produce the paper in English.11 
+They called the initial version the _Shonan Times_, with the first issue published on 20 February 1942. It was renamed the _Syonan Times_ the very next day.10 To get the wartime paper going, the Japanese employed several of the technicians who had worked for the _Straits Times_ and also hired several local journalists to produce the paper in English.11&nbsp;
 
-The publication was renamed the _Syonan Sinbun_ on 8 December 1942, commemorating the first anniversary of the war, and then the _Syonan Shimbun_ on the second anniversary. This name remained until the last issue on 4 September 1945.12 
+The publication was renamed the _Syonan Sinbun_ on 8 December 1942, commemorating the first anniversary of the war, and then the _Syonan Shimbun_ on the second anniversary. This name remained until the last issue on 4 September 1945.12&nbsp;
 
-First Issue After the War
+#### **First Issue After the War**
 
 It would not be until 7 September 1945 that the _Straits Times_ would once again reappear in print. It looked neither like the newspaper of today nor the prewar version. This issue was, however, illegal as the British Military Administration (BMA; the interim administrator of British Malaya from August 1945 to the establishment of the Malayan Union in April 1946) had reserved all newsprint for the official _Malayan Times_.13
 
 Undeterred by the post-surrender looting and mayhem, a team of _Straits Times_ journalists and other determined technical crew members located a working linotype machine and managed to run off 10,000 copies of the paper, in defiance of the BMA ban.14
 
-The revived paper was printed in an abbreviated format. But perhaps the most consequential change was that the news, rather than advertisements, was printed on the front page. So it was that the reborn newspaper carried these main headlines: “Singapore Is British Again!” and “King’s Message to Malaya: Peace, Security and Happiness”.15 
+The revived paper was printed in an abbreviated format. But perhaps the most consequential change was that the news, rather than advertisements, was printed on the front page. So it was that the reborn newspaper carried these main headlines: “Singapore Is British Again!” and “King’s Message to Malaya: Peace, Security and Happiness”.15&nbsp;
 
 Several of the journalists then set off with copies of the paper piled high in a car commandeered for the purpose to Changi Camp. There, Admiral Lord Louis Mountbatten, Supreme Commander of the South East Asia Command, was speaking to former prisoners-of-war when Hugh Savage, one of the editorial staff, shouted, “Straits Times! Straits Times! Today’s news today!” Mountbatten asked to see the paper and was delighted with it. He told the journalists that “it was a splendid effort and they should carry on with the good work”. When Savage explained that “this was probably the first and last copy… Mountbatten gave orders that they should continue publication and report any interference to him”.16
 
-The postwar editions of the _Straits Times_ survived on the efforts of skeleton staff – some almost literally skeletal after internment during the Occupation. Not before and not since have the newspaper’s staff suffered this way. Seven of the paper’s 16 European staff had died and many media employees died trying to escape from Singapore, or perished as prisoners-of-war on forced marches.17  
+The postwar editions of the _Straits Times_ survived on the efforts of skeleton staff – some almost literally skeletal after internment during the Occupation. Not before and not since have the newspaper’s staff suffered this way. Seven of the paper’s 16 European staff had died and many media employees died trying to escape from Singapore, or perished as prisoners-of-war on forced marches.17 &nbsp;
 
-Maria Hertogh Riots
+#### **Maria Hertogh Riots**
 
 To journalists in hot pursuit of news, the Maria Hertogh story in 1950 was the perfect story. A world war. A family torn apart. A tortured international tussle over a 13-year-old Dutch Eurasian girl renamed Nadra by her adoptive Muslim mother and then married off to prevent her from being reunited with her biological parents.18
 
@@ -66,9 +69,9 @@ Although the _Straits Times_ did not directly cause the riots, it was “partly 
 
 On 18 December 1950, the _Straits Times_ published a notice that it would stop printing discussion of racial and religious aspects of the case in its correspondence columns “to assist in promoting the return of a calm and normal atmosphere in Singapore”. As Turnbull wrote in _Dateline Singapore_: “From that time the paper’s policy was to tread warily and avoid inflaming racial or religious passions. The experience of the Hertogh riots provided a more effective and lasting lesson than restrictive legislation.”24
 
-Times House
+#### **Times House**
 
-Commercial Square, later renamed Raffles Place, was the birthplace of the newspaper. In 1903, the _Straits Times_ moved to Cecil Street and then subsequently acquired additional premises on Anson Road. But the site most people have associated with the “moving story” of the newspaper was Times House, where the Straits Times Press office and its varied branches were housed for 44 years.25 
+Commercial Square, later renamed Raffles Place, was the birthplace of the newspaper. In 1903, the _Straits Times_ moved to Cecil Street and then subsequently acquired additional premises on Anson Road. But the site most people have associated with the “moving story” of the newspaper was Times House, where the Straits Times Press office and its varied branches were housed for 44 years.25&nbsp;
 
 Back in 1952, the newspaper’s 20-year-old overworked Crabtree rotary press was printing two million copies a month. The following year, the company bought a $500,000 replacement, also a Crabtree, that could print 40,000 copies of a 24-page newspaper in an hour.26
 
@@ -82,27 +85,27 @@ On 4 August 1984, Singapore Press Holdings Limited was incorporated and formed t
 
 It was also in this “newspaper maternity ward” that the _New Paper_ was born in 1988, before being reduced to a freesheet in 2016 and then, in December 2021, virtualised and reduced to a digital publication.32 Late in October 2025, it was announced that the _New Paper_ would merge with the news website _Stomp_.
 
-Just Peter 
+#### **Just Peter&nbsp;**
 
-In its 180-year history, the newsrooms of the _Straits Times_ and its associated newspapers have been ruled by a plethora of editors, but none have had the impact or the longevity of Peter Lim Heng Loong and the man who succeeded him, Cheong Yip Seng. Between them, they racked up 86 years with the Straits Times Press and its successor organisations. 
+In its 180-year history, the newsrooms of the _Straits Times_ and its associated newspapers have been ruled by a plethora of editors, but none have had the impact or the longevity of Peter Lim Heng Loong and the man who succeeded him, Cheong Yip Seng. Between them, they racked up 86 years with the Straits Times Press and its successor organisations.&nbsp;
 
-Officially, Lim spent 33 years as a journalist. The telltale signs were already there as early as 1957 when he represented Singapore at the New York Herald Youth Forum. However, aviation was his first love and if he had his way, he would have stuck with the Malayan Air Training Corps and become a fighter pilot. But he was grounded by shortsightedness and got diverted into journalism.  
+Officially, Lim spent 33 years as a journalist. The telltale signs were already there as early as 1957 when he represented Singapore at the New York Herald Youth Forum. However, aviation was his first love and if he had his way, he would have stuck with the Malayan Air Training Corps and become a fighter pilot. But he was grounded by shortsightedness and got diverted into journalism. &nbsp;
 
-Lim was a reporter, a noted columnist with the newspapers and, unusually, continued to report and write even from overseas while many editors would have been content to assign a senior reporter or an overseas correspondent. 
+Lim was a reporter, a noted columnist with the newspapers and, unusually, continued to report and write even from overseas while many editors would have been content to assign a senior reporter or an overseas correspondent.&nbsp;
 
-During most of the 1960s, Lim was an active unionist, becoming chairman then secretary-general of the Singapore National Union of Journalists. He even led workers on a strike, perhaps the first to do so, and eventually led the papers as editor-in-chief. He had also served on the employee panel of the Industrial Arbitration Court, and was named as a Friend of Labour by the National Trades Union Congress. 
+During most of the 1960s, Lim was an active unionist, becoming chairman then secretary-general of the Singapore National Union of Journalists. He even led workers on a strike, perhaps the first to do so, and eventually led the papers as editor-in-chief. He had also served on the employee panel of the Industrial Arbitration Court, and was named as a Friend of Labour by the National Trades Union Congress.&nbsp;
 
 In the 1970s, Lim became chief editor of the _New Nation_. Then in 1978, he ascended to editor-in-chief of the _Straits Times_ and a member of the board of directors. In 1987, he was named chief editor to plan and launch the _New Paper_.33
 
-Lim’s leadership there lasted until August 1990 when he left the corporation that had metamorphosed into Singapore Press Holdings, or SPH. He left “for a different lifestyle”, says his curriculum vitae. And what a lifestyle change it was. It included what no one – least of all, the man himself – had expected. At 80, he wed his longtime partner, Lindy Ong. 
+Lim’s leadership there lasted until August 1990 when he left the corporation that had metamorphosed into Singapore Press Holdings, or SPH. He left “for a different lifestyle”, says his curriculum vitae. And what a lifestyle change it was. It included what no one – least of all, the man himself – had expected. At 80, he wed his longtime partner, Lindy Ong.&nbsp;
 
-Throughout Lim’s decades in the newspaper business, there was one constant. He was never “Mr Lim”. Straight off, he was known simply as “Peter”, perhaps deliberately to set himself apart from his polar opposite, the man he had succeeded as editor-in-chief, T.S. Khoo, who had always been “Mr Khoo”. 
+Throughout Lim’s decades in the newspaper business, there was one constant. He was never “Mr Lim”. Straight off, he was known simply as “Peter”, perhaps deliberately to set himself apart from his polar opposite, the man he had succeeded as editor-in-chief, T.S. Khoo, who had always been “Mr Khoo”.&nbsp;
 
 When Cheong Yip Seng took over as editor-in-chief of English and Malay newspapers in January 1987, he also eschewed the “Mr”. He was simply “Cheong”.34
 
-From the Press Room to the Istana
+#### **From the Press Room to the Istana**
 
-The place of the _Straits Times_ in Singapore’s history isn’t just engraved in newsprint. How many newspapers can claim to have contributed three of a nation’s nine presidents? The distinguished gentlemen are former editorial manager Wee Kim Wee, Singapore’s fourth president, former executive chairman S.R. Nathan, its sixth president, and Tony Tan, its seventh president. 
+The place of the _Straits Times_ in Singapore’s history isn’t just engraved in newsprint. How many newspapers can claim to have contributed three of a nation’s nine presidents? The distinguished gentlemen are former editorial manager Wee Kim Wee, Singapore’s fourth president, former executive chairman S.R. Nathan, its sixth president, and Tony Tan, its seventh president.&nbsp;
 
 Wee dropped out of school in 1930 to join the _Straits Times_ as a clerk. He got his big break in journalism when he was asked to report on sports after office hours. In 1941 he left the paper for the United Press Associations (UPA), which later became known as UPI, or United Press International.35
 
@@ -112,9 +115,9 @@ In 1966, with Malaysia and Indonesia caught up in the violent throes of Konfront
 
 Wee retired from the _Straits Times_ in 1973 when Foreign Minister S. Rajaratnam asked him to serve as a diplomat. So Wee was appointed high commissioner to Malaysia (1973–80) and then ambassador to Japan and the Republic of Korea (1980–84). He died on 2 May 2005.38
 
-Singapore’s sixth president has the shortest name of the nine. Everyone referred to him as S.R. Nathan, and few ever used his full name, Sellapan Ramanathan. Still, the one with the shortest name served the longest stint as president, from 1999 to 2011. 
+Singapore’s sixth president has the shortest name of the nine. Everyone referred to him as S.R. Nathan, and few ever used his full name, Sellapan Ramanathan. Still, the one with the shortest name served the longest stint as president, from 1999 to 2011.&nbsp;
 
-Nathan is also Singapore’s only president to have been expelled from school – twice – and also possibly the only one to have run away from home. A lengthy career in the civil service from 1955 included a spell with the National Trades Union Congress and stints in the Foreign Affairs and Home Affairs ministries. His name burst into the headlines in 1974 when he was with the Defence Ministry. In what became known as the _Laju_ hijacking incident, Nathan led a 13-member delegation that accompanied the terrorists on a flight to Kuwait to secure the release of the ferry’s crew and guarantee the terrorists’ safe passage.39 
+Nathan is also Singapore’s only president to have been expelled from school – twice – and also possibly the only one to have run away from home. A lengthy career in the civil service from 1955 included a spell with the National Trades Union Congress and stints in the Foreign Affairs and Home Affairs ministries. His name burst into the headlines in 1974 when he was with the Defence Ministry. In what became known as the _Laju_ hijacking incident, Nathan led a 13-member delegation that accompanied the terrorists on a flight to Kuwait to secure the release of the ferry’s crew and guarantee the terrorists’ safe passage.39&nbsp;
 
 In 1982, Nathan left the civil service to become executive chairman of Straits Times Press and then Singapore Press Holdings, before leaving in 1988 to serve as high commissioner to Malaysia (1988–90) and then ambassador to the United States of America (1990–96). Then came the 12 years of his presidency, and a rather hyperactive “retirement” during which he wrote several books, became a distinguished senior fellow at the Singapore Management University and the Institute of Southeast Asian Studies. Nathan died on 22 August 2016.40
 
@@ -124,12 +127,83 @@ Yusof Ishak started a sports magazine, then joined the daily _Warta Malaya_ befo
 
 The journalism connection with the Istana doesn’t end there. Current President of Singapore Tharman Shanmugaratnam’s wife, Jane Yumiko Ittogi, briefly worked as a lead/feature writer with the _Straits Times_ in the 1980s before returning to law.43
 
-Whither the Straits Times?
+#### **Whither the Straits Times?**
 
 At one point in its history, the _Straits Times_ strode across the media landscape in Singapore like a Colossus. As the main English-language paper, it was the paper of record, and anyone who needed to learn about what was going on in the country simply had to read the paper. As a result, advertisers flocked to the newspaper because it was, at the time, the most cost-efficient way to reach potential consumers.
 
 The newspaper was flush with cash, and the newspaper itself, especially its Saturday edition, was so thick that they had to break the newspaper up into several discrete sections.
 
-Those glory days are over thanks to the rise of search engines and social media, which offered advertisers an even cheaper and more targeted way to reach consumers than display ads in the daily broadsheet. Singapore Press Holdings, the parent company, has been delisted from the Singapore Exchange. The newspaper business has been transferred to SPH Media Trust, a company limited by guarantee that is privately managed. 
+Those glory days are over thanks to the rise of search engines and social media, which offered advertisers an even cheaper and more targeted way to reach consumers than display ads in the daily broadsheet. Singapore Press Holdings, the parent company, has been delisted from the Singapore Exchange. The newspaper business has been transferred to SPH Media Trust, a company limited by guarantee that is privately managed.&nbsp;
 
 The fate of the _Straits Times_ is not unique though. Newspapers around the world are struggling due to the loss of revenue thanks to the rise of the internet. As it has done in the last 180 years, the _Straits Times_ will have to adapt to new circumstances if it is to survive to see its 200th anniversary.
+
+
+
+<div style="background-color: white;">
+<b>Irene Hoe</b>is a veteran Singaporean journalist and editorial consultant, journalism instructor and author of several books on Singapore. A former civil servant, she also describes herself as an inveterate and irrepressible “kaypoh”.</div>
+
+#### **Notes**
+
+[^1]: 
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
+
+
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
+
+[^15]: 
+
+[^16]: 
+
+[^17]: 
+
+[^18]: 
+
+[^19]: 
+
+[^20]: 
+
+
+
+[^21]: 
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
