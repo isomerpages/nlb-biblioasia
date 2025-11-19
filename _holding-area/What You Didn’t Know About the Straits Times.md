@@ -33,7 +33,7 @@ It was June 1846 and as Turnbull described in _Dateline Singapore_, as an Americ
 
 And the fakery? The ship had actually been on its way from Bombay, not Calcutta, and the “news” deliberately misspelled the ship’s captain’s name. But the story was irresistible. Woods published the “scoop” on 13 June 1846 only to discover that it was a fake.8 He then put up a notice at the office of the _Straits Times_, offering a $50 bounty for exposing the “scoundrel” responsible.9&nbsp;
 
-#### **World War II&nbsp;**
+#### **World War II**
 
 The fall of Singapore to the Japanese on 15 February 1942 led to the renaming of Singapore as Syonan-to and the disappearance of the _Straits Times_ for a spell. But although the Japanese Occupation (which ended only in September 1945) put a temporary stop to publication, the lights stayed on in the offices of the _Straits Times_ because the Japanese used the newsroom to publish their own English-language version of a newspaper.&nbsp;
 
@@ -146,157 +146,95 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 [^1]: Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., _One Hundred Years of Singapore_, vol. 2 (London: John Murray, 1921), 281. (From National Library Singapore, RCLOS 959.51 ONE)&nbsp;
 
-“Page 1 Advertisements Column 1,” _Straits Times and Singapore Journal of Commerce_, 15 July 1845, 1; “The Morning of Tues., July 15, 1845,” _Straits Times and Singapore Journal of Commerce_, 18 January 1953, 3; “150th Anniversary,” _New Paper_, 8 July 1994, 24. (From NewspaperSG); C.M. Turnbull, _Dateline Singapore: 150 Years of the Straits Times_ (Singapore: Singapore Press Holdings, 1995), 13–17. (From National Library Singapore, call no. RSING 079.5957 TUR)
+[^2]: “Page 1 Advertisements Column 1,” _Straits Times and Singapore Journal of Commerce_, 15 July 1845, 1; “The Morning of Tues., July 15, 1845,” _Straits Times and Singapore Journal of Commerce_, 18 January 1953, 3; “150th Anniversary,” _New Paper_, 8 July 1994, 24. (From NewspaperSG); C.M. Turnbull, _Dateline Singapore: 150 Years of the Straits Times_ (Singapore: Singapore Press Holdings, 1995), 13–17. (From National Library Singapore, call no. RSING 079.5957 TUR)
 
-“The Straits Times,” _Straits Times and Singapore Journal of Commerce_, 15 July 1845, 2. (From NewspaperSG)
+[^3]: “The Straits Times,” _Straits Times and Singapore Journal of Commerce_, 15 July 1845, 2. (From NewspaperSG)
 
-_The Straits Times and Singapore Journal of Commerce_, 15 July 1845. (From NewspaperSG); Mazelan Anuar, “The First Newspaper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 114–15.
+[^4]: _The Straits Times and Singapore Journal of Commerce_, 15 July 1845. (From NewspaperSG); Mazelan Anuar, “The First Newspaper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 114–15.
 
-Tan Soo Chye, “The First Newspaper in the Colony,” _Straits Times_, 5 January 1950, 6. (From NewspaperSG); Charles Burton Buckley, _An Anecdotal History of Old Times in Singapore_, vol. 1 (Singapore: Fraser and Neave, 1902), 153, 380. (From National Library Online); Makepeace, Brooke and St. J. Braddell, eds., _One Hundred Years of Singapore_, 283, 588.&nbsp;
+[^5]: Tan Soo Chye, “The First Newspaper in the Colony,” _Straits Times_, 5 January 1950, 6. (From NewspaperSG); Charles Burton Buckley, _An Anecdotal History of Old Times in Singapore_, vol. 1 (Singapore: Fraser and Neave, 1902), 153, 380. (From National Library Online); Makepeace, Brooke and St. J. Braddell, eds., _One Hundred Years of Singapore_, 283, 588.&nbsp;
 
-Turnbull, _Dateline Singapore_, 23; “Page 2 Advertisements Column 4,” _Straits Times_, 16 September 1846, 2. (From NewspaperSG)
+[^6]: Turnbull, _Dateline Singapore_, 23; “Page 2 Advertisements Column 4,” _Straits Times_, 16 September 1846, 2. (From NewspaperSG)
 
-Turnbull, _Dateline Singapore_, 22.
+[^7]: Turnbull, _Dateline Singapore_, 22.
 
-“Fourth Calcutta Opium Sale,” _Straits Times_, 10 June 1846, 2; “Page 4 Advertisements Column 1,” _Straits Times_, 13 June 1846, 4. (From NewspaperSG)
+[^8]: “Fourth Calcutta Opium Sale,” _Straits Times_, 10 June 1846, 2; “Page 4 Advertisements Column 1,” _Straits Times_, 13 June 1846, 4. (From NewspaperSG)
 
-“The Late Opium Sale,” _Straits Times_, 17 June 1846, 3; “Straits Times Extra,” _Straits Times_, 17 June 1846, 5. (From NewspaperSG); Turnbull, _Dateline Singapore_, 22.
+[^9]: “The Late Opium Sale,” _Straits Times_, 17 June 1846, 3; “Straits Times Extra,” _Straits Times_, 17 June 1846, 5. (From NewspaperSG); Turnbull, _Dateline Singapore_, 22.
 
-_The Shonan Times_, 20 February 1942; _The Syonan Times_, 21 February 1942. (From NewspaperSG)
+[^10]: _The Shonan Times_, 20 February 1942; _The Syonan Times_, 21 February 1942. (From NewspaperSG)
 
-Turnbull, _Dateline Singapore_, 116.
 
-Lee Meiyu, “Propagnada Paper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41; _The Syonan Sinbun_, 8 December 1942; _The Syonan Shimbun_, 8 December 1943; _The Syonan Shimbun_, 4 September 1945. (From NewspaperSG)&nbsp;
 
-Turnbull, _Dateline Singapore_, 132.
+[^11]: Turnbull, _Dateline Singapore_, 116.
 
-Turnbull, _Dateline Singapore_, 134.
+[^12]: Lee Meiyu, “Propagnada Paper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41; _The Syonan Sinbun_, 8 December 1942; _The Syonan Shimbun_, 8 December 1943; _The Syonan Shimbun_, 4 September 1945. (From NewspaperSG)&nbsp;
 
-“Singapore Is British Again!,” _Straits Times_, 7 September 1945, 1; “King’s Message to Malaya: Peace, Security and Happiness,” _Straits Times_, 7 September 1945, 1. (From NewspaperSG)
+[^13]: Turnbull, _Dateline Singapore_, 132.
 
-Turnbull, _Dateline Singapore_, 134.
+[^14]: Turnbull, _Dateline Singapore_, 134.
 
-Turnbull, _Dateline Singapor_e, 138–39.
+[^15]: “Singapore Is British Again!,” _Straits Times_, 7 September 1945, 1; “King’s Message to Malaya: Peace, Security and Happiness,” _Straits Times_, 7 September 1945, 1. (From NewspaperSG)
 
-“Maria Hertogh Riots,” _Singapore Infopedia_. Article published 28 September 2014.&nbsp;
+[^16]: Turnbull, _Dateline Singapore_, 134.
 
-Turnbull, _Dateline Singapore_, 175.&nbsp;
+[^17]: Turnbull, _Dateline Singapor_e, 138–39.
 
-“Maria Hertogh Riots”; Turnbull, _Dateline Singapore_, 175.
+[^18]: “Maria Hertogh Riots,” _Singapore Infopedia_. Article published 28 September 2014.&nbsp;
 
-“Maria Hertogh Riots.”
+[^19]: Turnbull, _Dateline Singapore_, 175.&nbsp;
 
-“Maria Hertogh Riots”; “Maria Hertogh Dies Aged 72,” _Today_, 10 July 2009, 16. (From NewspaperSG)
+[^20]: “Maria Hertogh Riots”; Turnbull, _Dateline Singapore_, 175.
 
-Turnbull, _Dateline Singapore_, 175.
 
-Turnbull, _Dateline Singapore_, 178; “Maria Hertogh Case,” _Straits Times_, 18 December 1950, 6. (From NewspaperSG)
 
-Stephanie Ho, “The Straits Times,” _Singapore Infopedia_. Article published 28 February 2016; Naidu Ratnala Thulaja, “Times House,” _Singapore Infopedia_. Article published 5 August 2016.&nbsp;
+[^21]: “Maria Hertogh Riots.”
 
-Turnbull, _Dateline Singapore,_ 179, 182.
+[^22]: “Maria Hertogh Riots”; “Maria Hertogh Dies Aged 72,” _Today_, 10 July 2009, 16. (From NewspaperSG)
 
-Turnbull, _Dateline Singapore_, 189.
+[^23]: Turnbull, _Dateline Singapore_, 175.
 
-“Our Aims,” _Business Times_, 1 October 1976, 2. (From NewspaperSG); Turnbull, _Dateline Singapore_, 320.
+[^24]: Turnbull, _Dateline Singapore_, 178; “Maria Hertogh Case,” _Straits Times_, 18 December 1950, 6. (From NewspaperSG)
 
-“So Here We Are!” _New Nation_, 18 January 1971, 2. (From NewspaperSG); Turnbull, _Dateline Singapore_, 287.
+[^25]: Stephanie Ho, “The Straits Times,” _Singapore Infopedia_. Article published 28 February 2016; Naidu Ratnala Thulaja, “Times House,” _Singapore Infopedia_. Article published 5 August 2016.&nbsp;
 
-Turnbull, _Dateline Singapore_, 343.
+[^26]: Turnbull, _Dateline Singapore,_ 179, 182.
 
-Turnbull, _Dateline Singapore_, 349; Arti Mulchand, “Time’s Up for Times House,” _Straits Times_, 2 April 2004, 3. (From NewspaperSG)
+[^27]: Turnbull, _Dateline Singapore_, 189.
 
-Turnbull, _Dateline Singapore_, 359; “The New Paper Goes Fully Digital from Dec 10,” _New Paper_, 20 September 2021, https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10.
+[^28]: “Our Aims,” _Business Times_, 1 October 1976, 2. (From NewspaperSG); Turnbull, _Dateline Singapore_, 320.
 
-Shefali Rekhi, “‘There’s No Shame in Having Your Story Corrected’,” _Straits Times_, 15 July 2025, https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected.
+[^29]: “So Here We Are!” _New Nation_, 18 January 1971, 2. (From NewspaperSG); Turnbull, _Dateline Singapore_, 287.
 
-Turnbull, _Dateline Singapore_, 361.
+[^30]: Turnbull, _Dateline Singapore_, 343.
 
-Sharon Teng and Jenny Tien, “Wee Kim Wee,” _Singapore Infopedia_. Article published 2016.&nbsp;
 
-Teng and Tien, “Wee Kim Wee.”
 
-“Peace: The Sooner the Better,” _Straits Times_, 2 May 1966, 1; Peh Shing Huei, “Journalist Who Got World Scoop,” _Straits Times_, 3 May 2005, 3. (From NewspaperSG); Marsita Omar, “Indonesia–Malaysia Confrontation,” _Singapore Infopedia_. Article published 2008.
 
-Teng and Tien, “Wee Kim Wee”; Joyce Koh, “Former President Wee Kim Wee Dies 89,” _Business Times_, 3 May 2005, 1. (From NewspaperSG)
+[^31]: Turnbull, _Dateline Singapore_, 349; Arti Mulchand, “Time’s Up for Times House,” _Straits Times_, 2 April 2004, 3. (From NewspaperSG)
 
-Alvin Chua, “S.R. Nathan,” _Singapore Infopedia_. Article published 2016.&nbsp;
+[^32]: Turnbull, _Dateline Singapore_, 359; “The New Paper Goes Fully Digital from Dec 10,” _New Paper_, 20 September 2021, https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10.
 
-Chua, “S.R. Nathan”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92.
+[^33]: Shefali Rekhi, “‘There’s No Shame in Having Your Story Corrected’,” _Straits Times_, 15 July 2025, https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected.
 
-“Yusof Ishak Is Sworn in As Yang di-Pertuan Negara,” National Library Online. Article published 2014.
+[^34]: Turnbull, _Dateline Singapore_, 361.
 
-“Yusof Ishak Is Sworn in As Yang di-Pertuan Negara”; Stephanie Ho, “History of Singapore Currency,” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
+[^35]: Sharon Teng and Jenny Tien, “Wee Kim Wee,” _Singapore Infopedia_. Article published 2016.&nbsp;
 
-Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife.
+[^36]: Teng and Tien, “Wee Kim Wee.”
 
-[^2]: 
+[^37]: “Peace: The Sooner the Better,” _Straits Times_, 2 May 1966, 1; Peh Shing Huei, “Journalist Who Got World Scoop,” _Straits Times_, 3 May 2005, 3. (From NewspaperSG); Marsita Omar, “Indonesia–Malaysia Confrontation,” _Singapore Infopedia_. Article published 2008.
 
-[^3]: 
+[^38]: Teng and Tien, “Wee Kim Wee”; Joyce Koh, “Former President Wee Kim Wee Dies 89,” _Business Times_, 3 May 2005, 1. (From NewspaperSG)
 
-[^4]: 
+[^39]: Chua, “S.R. Nathan”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92.
 
-[^5]: 
+[^40]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara,” National Library Online. Article published 2014.
 
-[^6]: 
 
-[^7]: 
 
-[^8]: 
+[41^]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara”; Stephanie Ho, “History of Singapore Currency,” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
 
-[^9]: 
-
-[^10]: 
-
-
-
-[^11]: 
-
-[^12]: 
-
-[^13]: 
-
-[^14]: 
-
-[^15]: 
-
-[^16]: 
-
-[^17]: 
-
-[^18]: 
-
-[^19]: 
-
-[^20]: 
-
-
-
-[^21]: 
-
-[^22]: 
-
-[^23]: 
-
-[^24]: 
-
-[^25]: 
-
-[^26]: 
-
-[^27]: 
-
-[^28]: 
-
-[^39]: 
-
-[^40]: 
-
-
-
-[41^]: 
-
-[^42]: 
+[^42]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife.
 
 [^43]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife.
-
