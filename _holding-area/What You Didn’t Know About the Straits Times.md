@@ -140,7 +140,7 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 
 <div style="background-color: white;">
-<b>Irene Hoe</b>is a veteran Singaporean journalist and editorial consultant, journalism instructor and author of several books on Singapore. A former civil servant, she also describes herself as an inveterate and irrepressible “kaypoh”.</div>
+<b>Irene Hoe</b> is a veteran Singaporean journalist and editorial consultant, journalism instructor and author of several books on Singapore. A former civil servant, she also describes herself as an inveterate and irrepressible “kaypoh”.</div>
 
 #### **Notes**
 
