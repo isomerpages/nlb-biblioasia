@@ -4,7 +4,7 @@ permalink: /chapters-on-asia-2024/multilingualism-as-utopia/
 variant: markdown
 description: ""
 ---
-By Lee Tong King
+By Lee Tong King<br>
 The 1950s was a decade of radical transformation in Malaya. In the aftermath of the Japanese Occupation (1942–45) and before the idea of political independence from colonial rule became reality, Malaya, including Singapore, was embroiled in the rise of anti-colonial sentiments and British suppression of communist insurgencies. This culminated in the promulgation of the Emergency Act in June 1948, which remained in effect till July 1960.[^1]  
 
 In the intervening years, Malaya’s sociopolitical landscape was mired in ideological tensions and armed conflict. Precisely due to these tensions, a nascent Malayan consciousness began to take shape, with important implications for literary and cultural activities. More specifically, this period of extraordinary flux in identity incubated the notion of a distinctive Malayan literature and culture, a hitherto nonexistent category, thereby opening the way to a vibrant tradition of creative writing in the region. 
