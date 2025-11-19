@@ -4,7 +4,7 @@ permalink: /chapters-on-asia-2024/keramat-grave-shrine-singapore/
 variant: markdown
 description: ""
 ---
-By William L. Gibson
+By William L. Gibson<br>
 Singapore once abounded with *keramat* that ranged from sturdy structures, such as the Keramat Iskandar Shah* at Fort Canning, to simple roadside shrines, such as the vanished Orang Halus* *keramat* at the Havelock Road Police Station.[^1] Sadly, most of these *keramat* were demolished over the past half century to make way for development. The most recent of these demolitions, Keramat Siti Mariam in Kallang*, was followed by an exhibition at the National University of Singapore’s museum in 2011, but most of the demolitions were carried out without much notice.
 
 *Keramat* represent physical markers of Singapore’s history as a maritime trading centre, yet they are also focal points for the communities in which they stood, offering a sanctified space where people could seek solace or ask for dispensation or intervention in personal problems. Maintained by self-appointed caretakers, each *keramat* has folklore that interweaves historical facts with a syncretic spirituality mirroring the sensibilities of the community.
