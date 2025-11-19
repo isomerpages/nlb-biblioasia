@@ -227,14 +227,15 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 [^38]: Teng and Tien, “Wee Kim Wee”; Joyce Koh, “Former President Wee Kim Wee Dies 89,” _Business Times_, 3 May 2005, 1. (From NewspaperSG)
 
-[^39]: Chua, “S.R. Nathan”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92.
+[^39]: _Alvin Chua, “S.R. Nathan,” Singapore Infopedia. Article published 2016._
 
-[^40]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara,” National Library Online. Article published 2014.
+[^40]: Chua, “S.R. Nathan”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92.
+
+[^41]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara,” National Library Online. Article published 2014.
 
 
 
-[41^]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara”; Stephanie Ho, “History of Singapore Currency,” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
-
-[^42]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife.
+[^42]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara”; Stephanie Ho, “History of Singapore Currency,” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
 
 [^43]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife.
+
