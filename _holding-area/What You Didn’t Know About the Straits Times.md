@@ -95,37 +95,37 @@ Lim was a reporter, a noted columnist with the newspapers and, unusually, contin
 
 During most of the 1960s, Lim was an active unionist, becoming chairman then secretary-general of the Singapore National Union of Journalists. He even led workers on a strike, perhaps the first to do so, and eventually led the papers as editor-in-chief. He had also served on the employee panel of the Industrial Arbitration Court, and was named as a Friend of Labour by the National Trades Union Congress.&nbsp;
 
-In the 1970s, Lim became chief editor of the _New Nation_. Then in 1978, he ascended to editor-in-chief of the _Straits Times_ and a member of the board of directors. In 1987, he was named chief editor to plan and launch the _New Paper_.33
+In the 1970s, Lim became chief editor of the _New Nation_. Then in 1978, he ascended to editor-in-chief of the _Straits Times_ and a member of the board of directors. In 1987, he was named chief editor to plan and launch the _New Paper_.[^33]
 
 Lim’s leadership there lasted until August 1990 when he left the corporation that had metamorphosed into Singapore Press Holdings, or SPH. He left “for a different lifestyle”, says his curriculum vitae. And what a lifestyle change it was. It included what no one – least of all, the man himself – had expected. At 80, he wed his longtime partner, Lindy Ong.&nbsp;
 
 Throughout Lim’s decades in the newspaper business, there was one constant. He was never “Mr Lim”. Straight off, he was known simply as “Peter”, perhaps deliberately to set himself apart from his polar opposite, the man he had succeeded as editor-in-chief, T.S. Khoo, who had always been “Mr Khoo”.&nbsp;
 
-When Cheong Yip Seng took over as editor-in-chief of English and Malay newspapers in January 1987, he also eschewed the “Mr”. He was simply “Cheong”.34
+When Cheong Yip Seng took over as editor-in-chief of English and Malay newspapers in January 1987, he also eschewed the “Mr”. He was simply “Cheong”.[^34]
 
 #### **From the Press Room to the Istana**
 
 The place of the _Straits Times_ in Singapore’s history isn’t just engraved in newsprint. How many newspapers can claim to have contributed three of a nation’s nine presidents? The distinguished gentlemen are former editorial manager Wee Kim Wee, Singapore’s fourth president, former executive chairman S.R. Nathan, its sixth president, and Tony Tan, its seventh president.&nbsp;
 
-Wee dropped out of school in 1930 to join the _Straits Times_ as a clerk. He got his big break in journalism when he was asked to report on sports after office hours. In 1941 he left the paper for the United Press Associations (UPA), which later became known as UPI, or United Press International.35
+Wee dropped out of school in 1930 to join the _Straits Times_ as a clerk. He got his big break in journalism when he was asked to report on sports after office hours. In 1941 he left the paper for the United Press Associations (UPA), which later became known as UPI, or United Press International.[^35]
 
-When the Japanese invaded Malaya, Wee worked in the Air Raid Precautions Unit. During the Japanese Occupation, he peddled miscellaneous goods in Kampong Bahru. After the war, it was back to journalism at UPA where he became the office manager and chief correspondent before quitting the agency in 1959 to rejoin the _Straits Times_ as deputy editor.36
+When the Japanese invaded Malaya, Wee worked in the Air Raid Precautions Unit. During the Japanese Occupation, he peddled miscellaneous goods in Kampong Bahru. After the war, it was back to journalism at UPA where he became the office manager and chief correspondent before quitting the agency in 1959 to rejoin the _Straits Times_ as deputy editor.[^36]
 
-In 1966, with Malaysia and Indonesia caught up in the violent throes of Konfrontasi (Indonesia’s opposition to the formation and existence of the Federation of Malaysia; 1963–66), Wee went to Indonesia to interview Lieutenant-General Suharto and broke the news that Indonesia intended to end Konfrontasi.37
+In 1966, with Malaysia and Indonesia caught up in the violent throes of Konfrontasi (Indonesia’s opposition to the formation and existence of the Federation of Malaysia; 1963–66), Wee went to Indonesia to interview Lieutenant-General Suharto and broke the news that Indonesia intended to end Konfrontasi.[^37]
 
-Wee retired from the _Straits Times_ in 1973 when Foreign Minister S. Rajaratnam asked him to serve as a diplomat. So Wee was appointed high commissioner to Malaysia (1973–80) and then ambassador to Japan and the Republic of Korea (1980–84). He died on 2 May 2005.38
+Wee retired from the _Straits Times_ in 1973 when Foreign Minister S. Rajaratnam asked him to serve as a diplomat. So Wee was appointed high commissioner to Malaysia (1973–80) and then ambassador to Japan and the Republic of Korea (1980–84). He died on 2 May 2005.[^38]
 
 Singapore’s sixth president has the shortest name of the nine. Everyone referred to him as S.R. Nathan, and few ever used his full name, Sellapan Ramanathan. Still, the one with the shortest name served the longest stint as president, from 1999 to 2011.&nbsp;
 
-Nathan is also Singapore’s only president to have been expelled from school – twice – and also possibly the only one to have run away from home. A lengthy career in the civil service from 1955 included a spell with the National Trades Union Congress and stints in the Foreign Affairs and Home Affairs ministries. His name burst into the headlines in 1974 when he was with the Defence Ministry. In what became known as the _Laju_ hijacking incident, Nathan led a 13-member delegation that accompanied the terrorists on a flight to Kuwait to secure the release of the ferry’s crew and guarantee the terrorists’ safe passage.39&nbsp;
+Nathan is also Singapore’s only president to have been expelled from school – twice – and also possibly the only one to have run away from home. A lengthy career in the civil service from 1955 included a spell with the National Trades Union Congress and stints in the Foreign Affairs and Home Affairs ministries. His name burst into the headlines in 1974 when he was with the Defence Ministry. In what became known as the _Laju_ hijacking incident, Nathan led a 13-member delegation that accompanied the terrorists on a flight to Kuwait to secure the release of the ferry’s crew and guarantee the terrorists’ safe passage.[^39]&nbsp;
 
-In 1982, Nathan left the civil service to become executive chairman of Straits Times Press and then Singapore Press Holdings, before leaving in 1988 to serve as high commissioner to Malaysia (1988–90) and then ambassador to the United States of America (1990–96). Then came the 12 years of his presidency, and a rather hyperactive “retirement” during which he wrote several books, became a distinguished senior fellow at the Singapore Management University and the Institute of Southeast Asian Studies. Nathan died on 22 August 2016.40
+In 1982, Nathan left the civil service to become executive chairman of Straits Times Press and then Singapore Press Holdings, before leaving in 1988 to serve as high commissioner to Malaysia (1988–90) and then ambassador to the United States of America (1990–96). Then came the 12 years of his presidency, and a rather hyperactive “retirement” during which he wrote several books, became a distinguished senior fellow at the Singapore Management University and the Institute of Southeast Asian Studies. Nathan died on 22 August 2016.[^40]
 
-These are not the only connections between journalism and the Istana. The first was Yang di-Pertuan Negara (Malay for “Head of State”) Yusof Ishak, the first journalist to become the official occupant of the Istana. He was Yang di-Pertuan Negara from 1959 to 1965, before being installed as independent Singapore’s very first president in 1965. He served until his death from heart failure on 23 November 1970.41
+These are not the only connections between journalism and the Istana. The first was Yang di-Pertuan Negara (Malay for “Head of State”) Yusof Ishak, the first journalist to become the official occupant of the Istana. He was Yang di-Pertuan Negara from 1959 to 1965, before being installed as independent Singapore’s very first president in 1965. He served until his death from heart failure on 23 November 1970.[^41]
 
-Yusof Ishak started a sports magazine, then joined the daily _Warta Malaya_ before leaving in 1939 to co-found the _Utusan Melayu_ daily in Kuala Lumpur. He returned to Singapore to chair the Public Service Commission at the invitation of Prime Minister Lee Kuan Yew. His portrait still adorns Singapore’s currency notes.42
+Yusof Ishak started a sports magazine, then joined the daily _Warta Malaya_ before leaving in 1939 to co-found the _Utusan Melayu_ daily in Kuala Lumpur. He returned to Singapore to chair the Public Service Commission at the invitation of Prime Minister Lee Kuan Yew. His portrait still adorns Singapore’s currency notes.[^42]
 
-The journalism connection with the Istana doesn’t end there. Current President of Singapore Tharman Shanmugaratnam’s wife, Jane Yumiko Ittogi, briefly worked as a lead/feature writer with the _Straits Times_ in the 1980s before returning to law.43
+The journalism connection with the Istana doesn’t end there. Current President of Singapore Tharman Shanmugaratnam’s wife, Jane Yumiko Ittogi, briefly worked as a lead/feature writer with the _Straits Times_ in the 1980s before returning to law.[^43]
 
 #### **Whither the Straits Times?**
 
