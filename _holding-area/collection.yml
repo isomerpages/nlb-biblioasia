@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - What You Didn’t Know About the Straits Times.md
       - "John Norman Miksic: Singapore’s Pioneering Archaeologist.md"
       - Sample article.md
