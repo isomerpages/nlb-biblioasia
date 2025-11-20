@@ -2,7 +2,6 @@ collections:
   jan-to-mar-2026:
     output: true
     order:
-      - Remembering John Norman Miksic.md
       - A Century of Singapore’s Cinemas.md
       - "Wandering Wood: The Transoceanic Pollination of the Double Coconut.md"
       - "Playing It Cool: The Early History of Air Conditioning in Singapore.md"
@@ -14,4 +13,5 @@ collections:
       - "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan.md"
       - How Tay Seow Huah Came to Be the First Spy Chief of Independent
         Singapore.md
+      - Remembering John Norman Miksic.md
       - New Books on Singapore History.md
