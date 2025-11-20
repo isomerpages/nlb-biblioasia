@@ -1114,7 +1114,7 @@ Yi Mingshan 易明善, _Liu yi chang chuan_ 刘以鬯传 \[Biography of Liu Yich
 
 [^61]: “Xiānggǎng gēwǔ tuán jīn wǎn tuīchū dà wǔjù ‘yù tuǐ língkōng’” [香港歌舞团今晚推出大舞剧“玉腿凌空”](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19531106-1.2.32.7) \[Hong Kong song and dance troupe presents a new dance act tonight\], _Nanyang Siang Pau_ _南洋商__报_, 6 November 1953, 6. (From NewspaperSG)
 
-[^62]: “Xiānggǎng qúnyīng gēwǔ tuán zài kuàilè shìjiè yǎnchū gēwǔ jù chōngmǎn shīqínghuàyì zhāng lù de gēshēng zuì shòu zànshǎng” [香港群英歌舞团 在快乐世界演出 歌舞剧充满诗情画意 张露的歌声最受赞赏](南洋商报) \[Hong Kong Song and Dance Troupe performing at Happy World – Their musical is poetic and Chang Loo’s singing is highly praised\], _Nanyang Siang Pau_ _南洋商__报_, 23 January 1955, 6. (From NewspaperSG)
+[^62]: “Xiānggǎng qúnyīng gēwǔ tuán zài kuàilè shìjiè yǎnchū gēwǔ jù chōngmǎn shīqínghuàyì zhāng lù de gēshēng zuì shòu zànshǎng” [香港群英歌舞团 在快乐世界演出 歌舞剧充满诗情画意 张露的歌声最受赞赏](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19550123-1.2.28.2) \[Hong Kong Song and Dance Troupe performing at Happy World – Their musical is poetic and Chang Loo’s singing is highly praised\], _Nanyang Siang Pau_ _南洋商__报_, 23 January 1955, 6. (From NewspaperSG)
 
 [^63]: Kong Kam Yoke, [_The Majestic Theatre (__大__华戏院__): Where Chinese Opera Ruled_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=94189c68-0c6f-4383-81a8-a3cbc2d815fc), 26 June 2012. (From National Library Online)
 
