@@ -19,12 +19,6 @@ Miksic accepted the invitation to archaeologically investigate Fort Canning and,
 
 Both Stamford Raffles and John Crawfurd, the second Resident of Singapore, had reported remains of an ancient settlement on Fort Canning. But the summit of Fort Canning had been levelled and excavated three times in the intervening 165 years since. The archaeological team was hoping against hope that there might still be some intact artefacts buried on the hill, confirming the stories in the _Sulalat al-Salatin_ (Genealogy of Kings), or _Sejarah Melayu_ (Malay Annals), that Fort Canning was the seat of government of Sang Nila Utama (Sri Tribuana), the mythical prince of Palembang who founded the city of Singapura on the island of Temasik (Temasek) around 1299.&nbsp;
 
-<img src="/images/Vol%2021%20Issue%204/John/john_ancient.png" style="width: 60%;">
-
-
-<div style="background-color: white;"><i>Ancient Southeast Asia</i>&nbsp;(Routledge, 2017) by Johh Miksic and Geok Yian Goh highlights the discoveries and research in the archaeology of Southeast Asia. It explores the evolution of complex societies in the region from the protohistoric period in around 500 BCE to the arrival of British and Dutch colonists in 1600. <i>Collection of the National Library Singapore (call no. RSEA 959.01 MIK).</i></div>
-
-
 Miksic’s successful finds stimulated public interest in the potential for archaeology to recover more about Singapore’s deep past. The National Parks Board offered him a consultancy on further archaeological investigations and the History Department at the National University of Singapore (NUS) recruited him to its staff in 1987. In 1991, Miksic joined the newly formed Southeast Asian Studies Programme at NUS, which became the Department of Southeast Asian Studies where he remained until he retired as emeritus professor in 2019.
 
 Miksic’s interest in archaeology dates back to his undergraduate student days at Dartmouth College (Hanover, New Hampshire) where he graduated with a BA in anthropology in 1968. He then served as a Peace Corps volunteer in Malaysia from 1968 to 1972, helping to set up a farmers’ cooperative and developing an irrigation system in the Bujang Valley in Kedah, before returning to the United States to earn an MA from the Department of International Affairs, Ohio University (Athens, Ohio), in 1974.&nbsp;
@@ -60,6 +54,12 @@ For his stellar services to furthering archaeology in Singapore, Miksic was awar
 It was not only in Singapore that Miksic’s yeoman service to archaeology and heritage had been recognised. The Indonesian National Archaeology Research Centre acknowledged his contributions to the development of Indonesian archaeology, as did the National Museum of Indonesia for the catalogues he had edited of their collections. From the Sultan of Solo, Miksic received a royal title for his work in cataloguing the collections of the palace.&nbsp;
 
 Miksic also served on the board of the Center for Khmer Studies in Cambodia from 2000 until 2016, advising them on their research projects at Angkor. Additionally, he worked with Assoc Prof Goh Geok Yian, Associate Chair (Faculty), School of Humanities at NTU, running a series of workshops in Bagan on archaeology and cultural resource management during the years when Myanmar was opened to foreign scholars.&nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/John/john_ancient.png" style="width: 60%;">
+
+
+<div style="background-color: white;"><i>Ancient Southeast Asia</i>&nbsp;(Routledge, 2017) by Johh Miksic and Geok Yian Goh highlights the discoveries and research in the archaeology of Southeast Asia. It explores the evolution of complex societies in the region from the protohistoric period in around 500 BCE to the arrival of British and Dutch colonists in 1600. <i>Collection of the National Library Singapore (call no. RSEA 959.01 MIK).</i></div>
+
 
 Miksic was committed to archaeology to the end, and continued to read and write until the last weeks of his life. His legacy is not just in what he unearthed, but in how he transformed Singapore’s historical consciousness, proving that archaeology could speak powerfully in forging a national identity.
 
