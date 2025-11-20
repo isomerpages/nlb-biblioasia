@@ -25,7 +25,7 @@ sections:
         2025, aged 79.
       button: A PIONEERING ARCHAEOLOGIST
       url: /vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/
-      image: /images/Vol 21 Issue 4/John/john_main.png
+      image: /images/Vol 21 Issue 4/John/john_main3.png
       alt: Remembering John Norman Miksic
   - infopic:
       title: "“We Do”: Mass Weddings in Singapore"
