@@ -1007,4 +1007,14 @@ sections:
       url: /vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/
       image: /images/Vol 21 Issue 4/Flu/Flu_main.png
       alt: 1918 Flu Pandemic in Singapore
+  - infopic:
+      title: Remembering John Norman Miksic
+      subtitle: People
+      id: infopic
+      description: The “Indiana Jones” of Singapore archaeology died on 25 October
+        2025, aged 79.
+      button: A PIONEERING ARCHAEOLOGIST
+      url: /vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/
+      image: /images/Vol 21 Issue 4/John/john_main.png
+      alt: Image alt text
 ---
