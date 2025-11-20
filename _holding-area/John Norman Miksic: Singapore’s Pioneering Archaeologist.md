@@ -7,7 +7,7 @@ description: ""
 #### The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79.  
 By Kwa Chong Guan
 
-<img src="/images/Vol%2021%20Issue%204/John/john_main.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/John/john_main2.png" style="width: 80%;">
 
 
 <div style="background-color: white;">John Miksic at the Fort Canning archaeological dig, June 1997.  <i>Source: Berita Harian © SPH Media Limited. Permission required for reproduction.</i></div>
@@ -19,7 +19,7 @@ Miksic accepted the invitation to archaeologically investigate Fort Canning and,
 
 Both Stamford Raffles and John Crawfurd, the second Resident of Singapore, had reported remains of an ancient settlement on Fort Canning. But the summit of Fort Canning had been levelled and excavated three times in the intervening 165 years since. The archaeological team was hoping against hope that there might still be some intact artefacts buried on the hill, confirming the stories in the _Sulalat al-Salatin_ (Genealogy of Kings), or _Sejarah Melayu_ (Malay Annals), that Fort Canning was the seat of government of Sang Nila Utama (Sri Tribuana), the mythical prince of Palembang who founded the city of Singapura on the island of Temasik (Temasek) around 1299.&nbsp;
 
-<img src="/images/Vol%2021%20Issue%204/John/john_ancient.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/John/john_ancient.png" style="width: 60%;">
 
 
 <div style="background-color: white;"><i>Ancient Southeast Asia</i>&nbsp;(Routledge, 2017) by Johh Miksic and Geok Yian Goh highlights the discoveries and research in the archaeology of Southeast Asia. It explores the evolution of complex societies in the region from the protohistoric period in around 500 BCE to the arrival of British and Dutch colonists in 1600. <i>Collection of the National Library Singapore (call no. RSEA 959.01 MIK).</i></div>
@@ -49,7 +49,7 @@ When the storage space on Fort Canning ran out, Miksic got the Department of Sou
 
 Miksic was also the founding Head of the Archaeological Unit, which supports the work of the old Nalanda-Sriwijaya Centre at the ISEAS-Yusof Ishak Institute on Southeast Asia’s historical interactions between South and East Asia. He summed up his 40 years of archaeological research on Singapore – which established 14th-century Temasek as the best archaeologically documented port-settlement in the Straits of Melaka – in his book, _Singapore &amp; the Silk Road of the Sea, 1300–1800_ (NUS Press, 2013). The book won the inaugural Singapore History Prize in 2018 and is the standard reference on archaeology in Singapore.
 
-<img src="/images/Vol%2021%20Issue%204/John/john_silk.png" style="width: 70%;">
+<img src="/images/Vol%2021%20Issue%204/John/john_silk.png" style="width: 60%;">
 
 
 <div style="background-color: white;">John Miksic’s&nbsp;<i>Singapore &amp; the Silk Road of the Sea, 1300–1800</i>&nbsp;(NUS Press, 2013) won the inaugural Singapore History Prize in 2018. <i>Collection of the National Library Singapore (call no. RSING 959.57 MIK).</i></div>
