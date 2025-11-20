@@ -1,13 +1,13 @@
 ---
-title: "John Norman Miksic: Singapore’s Pioneering Archaeologist"
-permalink: /holding-area/vol-21/issue-4/jan-mar-2026/singapore-s-pioneering-archaeologist/
+title: Remembering John Norman Miksic
+permalink: /vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/
 variant: markdown
 description: ""
 ---
 #### The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79.  
 By Kwa Chong Guan
 
-<img src="/images/Vol%2021%20Issue%204/John/john_main.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/John/john_main2.png" style="width: 80%;">
 
 
 <div style="background-color: white;">John Miksic at the Fort Canning archaeological dig, June 1997.  <i>Source: Berita Harian © SPH Media Limited. Permission required for reproduction.</i></div>
@@ -18,12 +18,6 @@ The pioneering archaeologist John Miksic never thought of archaeologically inves
 Miksic accepted the invitation to archaeologically investigate Fort Canning and, against the odds, in a 10-day investigation of the top of Fort Canning from 18 to 28 January 1984, recovered _in situ_ 1,346 pottery shards weighing a total of 14.31 kg dating back to the 14th century. The report he produced of his investigations set the standard on the conduct and reporting of future archaeological excavations in Singapore.&nbsp;
 
 Both Stamford Raffles and John Crawfurd, the second Resident of Singapore, had reported remains of an ancient settlement on Fort Canning. But the summit of Fort Canning had been levelled and excavated three times in the intervening 165 years since. The archaeological team was hoping against hope that there might still be some intact artefacts buried on the hill, confirming the stories in the _Sulalat al-Salatin_ (Genealogy of Kings), or _Sejarah Melayu_ (Malay Annals), that Fort Canning was the seat of government of Sang Nila Utama (Sri Tribuana), the mythical prince of Palembang who founded the city of Singapura on the island of Temasik (Temasek) around 1299.&nbsp;
-
-<img src="/images/Vol%2021%20Issue%204/John/john_ancient.png" style="width: 80%;">
-
-
-<div style="background-color: white;"><i>Ancient Southeast Asia</i>&nbsp;(Routledge, 2017) by Johh Miksic and Geok Yian Goh highlights the discoveries and research in the archaeology of Southeast Asia. It explores the evolution of complex societies in the region from the protohistoric period in around 500 BCE to the arrival of British and Dutch colonists in 1600. <i>Collection of the National Library Singapore (call no. RSEA 959.01 MIK).</i></div>
-
 
 Miksic’s successful finds stimulated public interest in the potential for archaeology to recover more about Singapore’s deep past. The National Parks Board offered him a consultancy on further archaeological investigations and the History Department at the National University of Singapore (NUS) recruited him to its staff in 1987. In 1991, Miksic joined the newly formed Southeast Asian Studies Programme at NUS, which became the Department of Southeast Asian Studies where he remained until he retired as emeritus professor in 2019.
 
@@ -49,7 +43,7 @@ When the storage space on Fort Canning ran out, Miksic got the Department of Sou
 
 Miksic was also the founding Head of the Archaeological Unit, which supports the work of the old Nalanda-Sriwijaya Centre at the ISEAS-Yusof Ishak Institute on Southeast Asia’s historical interactions between South and East Asia. He summed up his 40 years of archaeological research on Singapore – which established 14th-century Temasek as the best archaeologically documented port-settlement in the Straits of Melaka – in his book, _Singapore &amp; the Silk Road of the Sea, 1300–1800_ (NUS Press, 2013). The book won the inaugural Singapore History Prize in 2018 and is the standard reference on archaeology in Singapore.
 
-<img src="/images/Vol%2021%20Issue%204/John/john_silk.png" style="width: 70%;">
+<img src="/images/Vol%2021%20Issue%204/John/john_silk.png" style="width: 60%;">
 
 
 <div style="background-color: white;">John Miksic’s&nbsp;<i>Singapore &amp; the Silk Road of the Sea, 1300–1800</i>&nbsp;(NUS Press, 2013) won the inaugural Singapore History Prize in 2018. <i>Collection of the National Library Singapore (call no. RSING 959.57 MIK).</i></div>
@@ -60,6 +54,12 @@ For his stellar services to furthering archaeology in Singapore, Miksic was awar
 It was not only in Singapore that Miksic’s yeoman service to archaeology and heritage had been recognised. The Indonesian National Archaeology Research Centre acknowledged his contributions to the development of Indonesian archaeology, as did the National Museum of Indonesia for the catalogues he had edited of their collections. From the Sultan of Solo, Miksic received a royal title for his work in cataloguing the collections of the palace.&nbsp;
 
 Miksic also served on the board of the Center for Khmer Studies in Cambodia from 2000 until 2016, advising them on their research projects at Angkor. Additionally, he worked with Assoc Prof Goh Geok Yian, Associate Chair (Faculty), School of Humanities at NTU, running a series of workshops in Bagan on archaeology and cultural resource management during the years when Myanmar was opened to foreign scholars.&nbsp;
+
+<img src="/images/Vol%2021%20Issue%204/John/john_ancient.png" style="width: 60%;">
+
+
+<div style="background-color: white;"><i>Ancient Southeast Asia</i>&nbsp;(Routledge, 2017) by Johh Miksic and Geok Yian Goh highlights the discoveries and research in the archaeology of Southeast Asia. It explores the evolution of complex societies in the region from the protohistoric period in around 500 BCE to the arrival of British and Dutch colonists in 1600. <i>Collection of the National Library Singapore (call no. RSEA 959.01 MIK).</i></div>
+
 
 Miksic was committed to archaeology to the end, and continued to read and write until the last weeks of his life. His legacy is not just in what he unearthed, but in how he transformed Singapore’s historical consciousness, proving that archaeology could speak powerfully in forging a national identity.
 

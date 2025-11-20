@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/">Remembering John Norman Miksic</a>
+
+The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79.
+
+<img src="/images/Vol%2021%20Issue%204/John/john_main2.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/">In Search of Silvestr</a>
 
  <p>Sparked by a box of old family documents, Jan Beránek embarked on an eight-year quest that brough him from a small Czech village to modern Singapore to uncover the life of his granduncle who died during the Japanese invasion of Singapore.</p> 
