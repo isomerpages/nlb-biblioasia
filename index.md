@@ -1016,5 +1016,5 @@ sections:
       button: A PIONEERING ARCHAEOLOGIST
       url: /vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/
       image: /images/Vol 21 Issue 4/John/john_main.png
-      alt: Image alt text
+      alt: Remembering John Norman Miksic
 ---
