@@ -125,9 +125,17 @@ The place of the _Straits Times_ in Singapore’s history isn’t just engraved 
 
 Wee dropped out of school in 1930 to join the _Straits Times_ as a clerk. He got his big break in journalism when he was asked to report on sports after office hours. In 1941 he left the paper for the United Press Associations (UPA), which later became known as UPI, or United Press International.[^35]
 
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_president.png" style="width: 80%;">
+
+<div style="background-color: white;">President Wee Kim Wee (left) chatting with old press and media friends at the Singapore Press Club’s pre-dinner cocktail reception at Shangri-La Hotel, 1985. He was once the editorial manager of the <i>Straits Times</i>. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no.19980006027 - 0067). </i></div>
+
 When the Japanese invaded Malaya, Wee worked in the Air Raid Precautions Unit. During the Japanese Occupation, he peddled miscellaneous goods in Kampong Bahru. After the war, it was back to journalism at UPA where he became the office manager and chief correspondent before quitting the agency in 1959 to rejoin the _Straits Times_ as deputy editor.[^36]
 
 In 1966, with Malaysia and Indonesia caught up in the violent throes of Konfrontasi (Indonesia’s opposition to the formation and existence of the Federation of Malaysia; 1963–66), Wee went to Indonesia to interview Lieutenant-General Suharto and broke the news that Indonesia intended to end Konfrontasi.[^37]
+
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_interview.png" style="width: 80%;">
+
+<div style="background-color: white;">In April 1966, Wee Kim Wee secured an exclusive interview with Lieutenant-General Suharto where he announced his intention to end Konfrontasi. The interview was published in the Straits Times on 2 May 1966. <i> Source: The Straits Times, 2 May 1966, 1 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Wee retired from the _Straits Times_ in 1973 when Foreign Minister S. Rajaratnam asked him to serve as a diplomat. So Wee was appointed high commissioner to Malaysia (1973–80) and then ambassador to Japan and the Republic of Korea (1980–84). He died on 2 May 2005.[^38]
 
