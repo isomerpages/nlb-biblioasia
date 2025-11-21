@@ -211,30 +211,30 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 
 
-[^31]: Turnbull, _Dateline Singapore_, 349; Arti Mulchand, “Time’s Up for Times House,” _Straits Times_, 2 April 2004, 3. (From NewspaperSG)
+[^31]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 349; Arti Mulchand, “[Time’s Up for Times House](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20040402-1.2.8.2),” _Straits Times_, 2 April 2004, 3. (From NewspaperSG)
 
-[^32]: Turnbull, _Dateline Singapore_, 359; “The New Paper Goes Fully Digital from Dec 10,” _New Paper_, 20 September 2021, https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10.
+[^32]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 359; “The New Paper Goes Fully Digital from Dec 10,” _New Paper_, 20 September 2021, [https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10](https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10).
 
-[^33]: Shefali Rekhi, “‘There’s No Shame in Having Your Story Corrected’,” _Straits Times_, 15 July 2025, https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected.
+[^33]: Shefali Rekhi, “‘There’s No Shame in Having Your Story Corrected’,” _Straits Times_, 15 July 2025, [https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected](https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected).
 
-[^34]: Turnbull, _Dateline Singapore_, 361.
+[^34]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 361.
 
-[^35]: Sharon Teng and Jenny Tien, “Wee Kim Wee,” _Singapore Infopedia_. Article published 2016.&nbsp;
+[^35]: Sharon Teng and Jenny Tien, “[Wee Kim Wee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c2ebc8f6-3467-4c31-81c0-a5225b3c09c3),” _Singapore Infopedia_. Article published 2016.&nbsp;
 
-[^36]: Teng and Tien, “Wee Kim Wee.”
+[^36]: Teng and Tien, “[Wee Kim Wee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c2ebc8f6-3467-4c31-81c0-a5225b3c09c3).”
 
-[^37]: “Peace: The Sooner the Better,” _Straits Times_, 2 May 1966, 1; Peh Shing Huei, “Journalist Who Got World Scoop,” _Straits Times_, 3 May 2005, 3. (From NewspaperSG); Marsita Omar, “Indonesia–Malaysia Confrontation,” _Singapore Infopedia_. Article published 2008.
+[^37]: “[Peace: The Sooner the Better](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660502-1.2.2),” _Straits Times_, 2 May 1966, 1; Peh Shing Huei, “[Journalist Who Got World Scoop](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050503-1.2.38.8.aspx),” _Straits Times_, 3 May 2005, 3. (From NewspaperSG); Marsita Omar, “[Indonesia–Malaysia Confrontation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213),” _Singapore Infopedia_. Article published 2008.
 
-[^38]: Teng and Tien, “Wee Kim Wee”; Joyce Koh, “Former President Wee Kim Wee Dies 89,” _Business Times_, 3 May 2005, 1. (From NewspaperSG)
+[^38]: Teng and Tien, “[Wee Kim Wee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c2ebc8f6-3467-4c31-81c0-a5225b3c09c3)”; Joyce Koh, “[Former President Wee Kim Wee Dies 89](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20050503-1.2.3.aspx),” _Business Times_, 3 May 2005, 1. (From NewspaperSG)
 
-[^39]: _Alvin Chua, “S.R. Nathan,” Singapore Infopedia. Article published 2016._
+[^39]: _Alvin Chua, “[S.R. Nathan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4c462235-1a9b-46a5-b000-cdcfd59ec6c6),” Singapore Infopedia. Article published 2016._
 
-[^40]: Chua, “S.R. Nathan”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92.
+[^40]: Chua, “[S.R. Nathan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4c462235-1a9b-46a5-b000-cdcfd59ec6c6)”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, [https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92](https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92).
 
-[^41]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara,” National Library Online. Article published 2014.
+[^41]: “[Yusof Ishak Is Sworn in As Yang di-Pertuan Negara](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4a526bb8-380d-4b00-b45a-6bb7cc4ec13f),” National Library Online. Article published 2014.
 
 
 
-[^42]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara”; Stephanie Ho, “History of Singapore Currency,” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
+[^42]: “[Yusof Ishak Is Sworn in As Yang di-Pertuan Negara](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4a526bb8-380d-4b00-b45a-6bb7cc4ec13f)”; Stephanie Ho, “[History of Singapore Currency](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ac36a2e4-5620-4812-9405-e5bd24023213),” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
 
-[^43]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife.
+[^43]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, [https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife](https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife).
