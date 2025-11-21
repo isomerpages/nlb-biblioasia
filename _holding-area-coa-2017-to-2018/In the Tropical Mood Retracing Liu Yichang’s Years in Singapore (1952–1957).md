@@ -836,7 +836,7 @@ individuals, which form the basis of his storytelling.</div>
 
 #### **REFERENCES**   
 
-Kong, Kam Yoke. [_The Majestic Theatre (__大__华戏院__): Where Chinese Opera Ruled_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=94189c68-0c6f-4383-81a8-a3cbc2d815fc), 26 June 2012. (From National Library Online)
+Kong, Kam Yoke. [_The Majestic Theatre (__大华戏院__): Where Chinese Opera Ruled_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=94189c68-0c6f-4383-81a8-a3cbc2d815fc), 26 June 2012. (From National Library Online)
 
 “Cǎixié zì nánměi rèqíng gēwǔ de jīnghuá āgēntíng gēwǔ tuán jíjiāng nán yóu yóu bì hǔ dānrèn tuán zhǎng, guō xiùzhēn, gù mèi, lù fēn, yíng zǐ, céngqǐpíng děng, dōu shì huánán de zhùmíng gēxīng” [采撷自南美热情歌舞的精华 阿根廷歌舞团即将南游 由毕虎担任团长，郭秀珍、顾媚、鹭芬、莹子、曾绮萍等，都是华南的著名歌星](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530326-1.2.32.17) \[Argentinian song and dance troupe that encapsulates the essence of Latin-American songs and dances will be travelling south – The troupe features Bi Hu as its leader, and includes other famous singers of South China, such as Guo Xiu Zhen, Koo Mei, Lu Fen, Ying Zi and Zeng Qi Ping.\], _Nanyang Siang Pau_ _南洋商__报_, 26 March 1953, 6. (From NewspaperSG)
 
