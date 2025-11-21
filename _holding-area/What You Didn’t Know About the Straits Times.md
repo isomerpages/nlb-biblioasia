@@ -180,7 +180,7 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 [^16]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 134.
 
-[^17]: Turnbull, [_Dateline Singapor_e](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 138–39.
+[^17]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 138–39.
 
 [^18]: “[Maria Hertogh Riots](https://www.nlb.gov.sg/main/article-detail?cmsuuid=fbc266c5-4f6f-49d8-b77e-d37e20742087),” _Singapore Infopedia_. Article published 28 September 2014.&nbsp;
 
