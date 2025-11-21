@@ -91,7 +91,7 @@ In its 180-year history, the newsrooms of the _Straits Times_ and its associated
 
 Officially, Lim spent 33 years as a journalist. The telltale signs were already there as early as 1957 when he represented Singapore at the New York Herald Youth Forum. However, aviation was his first love and if he had his way, he would have stuck with the Malayan Air Training Corps and become a fighter pilot. But he was grounded by shortsightedness and got diverted into journalism. &nbsp;
 
-Lim was a reporter, a noted columnist with the newspapers and, unusually, continued to report and write even from overseas while many editors would have been content to assign a senior reporter or an overseas correspondent.&nbsp;
+Lim was a reporter, a noted columnist with the newspapers and, unusually, continued to report and write even from overseas while many editors would have been content to assign such work to a senior reporter or an overseas correspondent.&nbsp;
 
 During most of the 1960s, Lim was an active unionist, becoming chairman then secretary-general of the Singapore National Union of Journalists. He even led workers on a strike, perhaps the first to do so, and eventually led the papers as editor-in-chief. He had also served on the employee panel of the Industrial Arbitration Court, and was named as a Friend of Labour by the National Trades Union Congress.&nbsp;
 
@@ -105,7 +105,7 @@ When Cheong Yip Seng took over as editor-in-chief of English and Malay newspaper
 
 #### **From the Press Room to the Istana**
 
-The place of the _Straits Times_ in Singapore’s history isn’t just engraved in newsprint. How many newspapers can claim to have contributed three of a nation’s nine presidents? The distinguished gentlemen are former editorial manager Wee Kim Wee, Singapore’s fourth president, former executive chairman S.R. Nathan, its sixth president, and Tony Tan, its seventh president.&nbsp;
+The place of the _Straits Times_ in Singapore’s history isn’t just engraved in newsprint. How many newspapers can claim to have contributed three of a nation’s nine presidents? The distinguished gentlemen are former editorial manager Wee Kim Wee, Singapore’s fourth president; former executive chairman S.R. Nathan, its sixth president; and former chairman Tony Tan Keng Yam, its seventh president.
 
 Wee dropped out of school in 1930 to join the _Straits Times_ as a clerk. He got his big break in journalism when he was asked to report on sports after office hours. In 1941 he left the paper for the United Press Associations (UPA), which later became known as UPI, or United Press International.[^35]
 
@@ -121,11 +121,13 @@ Nathan is also Singapore’s only president to have been expelled from school �
 
 In 1982, Nathan left the civil service to become executive chairman of Straits Times Press and then Singapore Press Holdings, before leaving in 1988 to serve as high commissioner to Malaysia (1988–90) and then ambassador to the United States of America (1990–96). Then came the 12 years of his presidency, and a rather hyperactive “retirement” during which he wrote several books, became a distinguished senior fellow at the Singapore Management University and the Institute of Southeast Asian Studies. Nathan died on 22 August 2016.[^40]
 
-These are not the only connections between journalism and the Istana. The first was Yang di-Pertuan Negara (Malay for “Head of State”) Yusof Ishak, the first journalist to become the official occupant of the Istana. He was Yang di-Pertuan Negara from 1959 to 1965, before being installed as independent Singapore’s very first president in 1965. He served until his death from heart failure on 23 November 1970.[^41]
+Tan entered politics in 1979 and held various key ministerial posts before retiring as deputy prime minister in August 2005. He was appointed executive director and deputy chairman of GIC, and later chairman of Singapore Press Holdings. In June 2011, Tan resigned from his posts in GIC and SPH to contest the presidential election. He served as Singapore’s seventh president between 2011 and 2017.[^41]
 
-Yusof Ishak started a sports magazine, then joined the daily _Warta Malaya_ before leaving in 1939 to co-found the _Utusan Melayu_ daily in Kuala Lumpur. He returned to Singapore to chair the Public Service Commission at the invitation of Prime Minister Lee Kuan Yew. His portrait still adorns Singapore’s currency notes.[^42]
+These are not the only connections between journalism and the Istana. The first was Yang di-Pertuan Negara (Malay for “Head of State”) Yusof Ishak, the first journalist to become the official occupant of the Istana. He was Yang di-Pertuan Negara from 1959 to 1965, before being installed as independent Singapore’s very first president in 1965. He served until his death from heart failure on 23 November 1970.[^42]
 
-The journalism connection with the Istana doesn’t end there. Current President of Singapore Tharman Shanmugaratnam’s wife, Jane Yumiko Ittogi, briefly worked as a leader/feature writer with the _Straits Times_ in the 1980s before returning to law.[^43]
+Yusof Ishak started a sports magazine, then joined the daily _Warta Malaya_ before leaving in 1939 to co-found the _Utusan Melayu_ daily in Kuala Lumpur. He returned to Singapore to chair the Public Service Commission at the invitation of Prime Minister Lee Kuan Yew. His portrait still adorns Singapore’s currency notes.[^43]
+
+The journalism connection with the Istana doesn’t end there. Current President of Singapore Tharman Shanmugaratnam’s wife, Jane Yumiko Ittogi, briefly worked as a leader/feature writer with the _Straits Times_ in the 1980s before returning to law.[^44]
 
 #### **Whither the Straits Times?**
 
@@ -231,10 +233,13 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 [^40]: Chua, “[S.R. Nathan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4c462235-1a9b-46a5-b000-cdcfd59ec6c6)”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, [https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92](https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92).
 
-[^41]: “[Yusof Ishak Is Sworn in As Yang di-Pertuan Negara](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4a526bb8-380d-4b00-b45a-6bb7cc4ec13f),” National Library Online. Article published 2014.
+[^41]: Alvin Chua, “Tony Tan Keng Yam,”&nbsp;_Singapore Infopedia_. Article published 3 October 2017.
+
+
+[^42]: “[Yusof Ishak Is Sworn in As Yang di-Pertuan Negara](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4a526bb8-380d-4b00-b45a-6bb7cc4ec13f),” National Library Online. Article published 2014.
 
 
 
-[^42]: “[Yusof Ishak Is Sworn in As Yang di-Pertuan Negara](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4a526bb8-380d-4b00-b45a-6bb7cc4ec13f)”; Stephanie Ho, “[History of Singapore Currency](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ac36a2e4-5620-4812-9405-e5bd24023213),” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
+[^43]: “[Yusof Ishak Is Sworn in As Yang di-Pertuan Negara](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4a526bb8-380d-4b00-b45a-6bb7cc4ec13f)”; Stephanie Ho, “[History of Singapore Currency](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ac36a2e4-5620-4812-9405-e5bd24023213),” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
 
-[^43]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, [https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife](https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife).
+[^44]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, [https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife](https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife).
