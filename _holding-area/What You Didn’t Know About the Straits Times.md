@@ -7,6 +7,10 @@ description: ""
 #### The first fake news. The illegal postwar edition. Newsmen turned presidents. The Straits Times has had an interesting 180 years.
 By Irene Hoe
 
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_main.png" style="width: 50%;">
+
+<div style="background-color: white;">The first issue of the <i>Straits Times and Singapore Journal of Commerce</i> published on 15 July 1845. <i> Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+
 The first issue of the _Straits Times and Singapore Journal of Commerce_ (as it was originally named) rolled off the presses in July 1845. Back then, it competed with the only other English-language newspaper, the _Singapore Free Press_.&nbsp;
 
 Over the last 180 years, the newspaper has accompanied Singapore’s growth from colonial outpost to modern city-state. Along the way, the _Straits Times_ has not simply been a witness to these changes; it has also been part of the story. Here are some facts about the _Straits Times_ of which most people are probably not aware.
