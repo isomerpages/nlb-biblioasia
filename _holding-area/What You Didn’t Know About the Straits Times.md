@@ -141,7 +141,7 @@ When the Japanese invaded Malaya, Wee worked in the Air Raid Precautions Unit. D
 
 In 1966, with Malaysia and Indonesia caught up in the violent throes of Konfrontasi (Indonesia’s opposition to the formation and existence of the Federation of Malaysia; 1963–66), Wee went to Indonesia to interview Lieutenant-General Suharto and broke the news that Indonesia intended to end Konfrontasi.[^37]
 
-<img src="/images/Vol%2021%20Issue%204/Straits/straits_interview.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_interview.png" style="width: 60%;">
 
 <div style="background-color: white;">In April 1966, Wee Kim Wee secured an exclusive interview with Lieutenant-General Suharto where he announced his intention to end Konfrontasi. The interview was published in the Straits Times on 2 May 1966. <i> Source: The Straits Times, 2 May 1966, 1 © SPH Media Limited. Permission required for reproduction.</i></div>
 
