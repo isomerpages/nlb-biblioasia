@@ -144,98 +144,97 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 #### **Notes**
 
-[^1]: Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., _One Hundred Years of Singapore_, vol. 2 (London: John Murray, 1921), 281. (From National Library Singapore, RCLOS 959.51 ONE)&nbsp;
+[^1]: Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2 (London: John Murray, 1921), 281. (From National Library Singapore, RCLOS 959.51 ONE)&nbsp;
 
-[^2]: “Page 1 Advertisements Column 1,” _Straits Times and Singapore Journal of Commerce_, 15 July 1845, 1; “The Morning of Tues., July 15, 1845,” _Straits Times and Singapore Journal of Commerce_, 18 January 1953, 3; “150th Anniversary,” _New Paper_, 8 July 1994, 24. (From NewspaperSG); C.M. Turnbull, _Dateline Singapore: 150 Years of the Straits Times_ (Singapore: Singapore Press Holdings, 1995), 13–17. (From National Library Singapore, call no. RSING 079.5957 TUR)
+[^2]: “[Page 1 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18450715-1.2.2.1),” _Straits Times and Singapore Journal of Commerce_, 15 July 1845, 1; “[The Morning of Tues., July 15, 1845](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19530118-1.2.169.4),” _Straits Times and Singapore Journal of Commerce_, 18 January 1953, 3; “[150th Anniversary](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19940708-1.2.30.3),” _New Paper_, 8 July 1994, 24. (From NewspaperSG); C.M. Turnbull, [_Dateline Singapore: 150 Years of the Straits Times_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414) (Singapore: Singapore Press Holdings, 1995), 13–17. (From National Library Singapore, call no. RSING 079.5957 TUR)
 
-[^3]: “The Straits Times,” _Straits Times and Singapore Journal of Commerce_, 15 July 1845, 2. (From NewspaperSG)
+[^3]: “[The Straits Times](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18450715-1.2.5),” _Straits Times and Singapore Journal of Commerce_, 15 July 1845, 2. (From NewspaperSG)
 
-[^4]: _The Straits Times and Singapore Journal of Commerce_, 15 July 1845. (From NewspaperSG); Mazelan Anuar, “The First Newspaper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 114–15.
+[^4]: [_The Straits Times and Singapore Journal of Commerce_](https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes18450715-1.1.1), 15 July 1845. (From NewspaperSG); Mazelan Anuar, “[The First Newspaper](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/singapore-chronicle-first-newspaper/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 114–15.
 
-[^5]: Tan Soo Chye, “The First Newspaper in the Colony,” _Straits Times_, 5 January 1950, 6. (From NewspaperSG); Charles Burton Buckley, _An Anecdotal History of Old Times in Singapore_, vol. 1 (Singapore: Fraser and Neave, 1902), 153, 380. (From National Library Online); Makepeace, Brooke and St. J. Braddell, eds., _One Hundred Years of Singapore_, 283, 588.&nbsp;
+[^5]: Tan Soo Chye, “[The First Newspaper in the Colony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19500105-1.2.95),” _Straits Times_, 5 January 1950, 6. (From NewspaperSG); Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1 (Singapore: Fraser and Neave, 1902), 153, 380. (From National Library Online); Makepeace, Brooke and St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), 283, 588.&nbsp;
 
-[^6]: Turnbull, _Dateline Singapore_, 23; “Page 2 Advertisements Column 4,” _Straits Times_, 16 September 1846, 2. (From NewspaperSG)
+[^6]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 23; “[Page 2 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18460916-1.2.7.4),” _Straits Times_, 16 September 1846, 2. (From NewspaperSG)
 
-[^7]: Turnbull, _Dateline Singapore_, 22.
+[^7]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 22.
 
-[^8]: “Fourth Calcutta Opium Sale,” _Straits Times_, 10 June 1846, 2; “Page 4 Advertisements Column 1,” _Straits Times_, 13 June 1846, 4. (From NewspaperSG)
+[^8]: “[Fourth Calcutta Opium Sale](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18460610-1.2.11),” _Straits Times_, 10 June 1846, 2; “[Page 4 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18460613-1.2.13.1),” _Straits Times_, 13 June 1846, 4. (From NewspaperSG)
 
-[^9]: “The Late Opium Sale,” _Straits Times_, 17 June 1846, 3; “Straits Times Extra,” _Straits Times_, 17 June 1846, 5. (From NewspaperSG); Turnbull, _Dateline Singapore_, 22.
+[^9]: “[The Late Opium Sale](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18460617-1.2.8),” _Straits Times_, 17 June 1846, 3; “[Straits Times Extra](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18460617-1.2.18),” _Straits Times_, 17 June 1846, 5. (From NewspaperSG); Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 22.
 
-[^10]: _The Shonan Times_, 20 February 1942; _The Syonan Times_, 21 February 1942. (From NewspaperSG)
-
-
-
-[^11]: Turnbull, _Dateline Singapore_, 116.
-
-[^12]: Lee Meiyu, “Propagnada Paper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41; _The Syonan Sinbun_, 8 December 1942; _The Syonan Shimbun_, 8 December 1943; _The Syonan Shimbun_, 4 September 1945. (From NewspaperSG)&nbsp;
-
-[^13]: Turnbull, _Dateline Singapore_, 132.
-
-[^14]: Turnbull, _Dateline Singapore_, 134.
-
-[^15]: “Singapore Is British Again!,” _Straits Times_, 7 September 1945, 1; “King’s Message to Malaya: Peace, Security and Happiness,” _Straits Times_, 7 September 1945, 1. (From NewspaperSG)
-
-[^16]: Turnbull, _Dateline Singapore_, 134.
-
-[^17]: Turnbull, _Dateline Singapor_e, 138–39.
-
-[^18]: “Maria Hertogh Riots,” _Singapore Infopedia_. Article published 28 September 2014.&nbsp;
-
-[^19]: Turnbull, _Dateline Singapore_, 175.&nbsp;
-
-[^20]: “Maria Hertogh Riots”; Turnbull, _Dateline Singapore_, 175.
+[^10]: [_The Shonan Times_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19420220-1.1.1), 20 February 1942; [_The Syonan Times_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19420221-1.1.1), 21 February 1942. (From NewspaperSG)
 
 
 
-[^21]: “Maria Hertogh Riots.”
+[^11]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 116.
 
-[^22]: “Maria Hertogh Riots”; “Maria Hertogh Dies Aged 72,” _Today_, 10 July 2009, 16. (From NewspaperSG)
+[^12]: Lee Meiyu, “[Propagnada Paper](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/syonan-shimbun/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41; [_The Syonan Sinbun_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19421208-1.1.1), 8 December 1942; [_The Syonan Shimbun_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19431208-1.1.1), 8 December 1943; [_The Syonan Shimbun_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19450904-1.1.1), 4 September 1945. (From NewspaperSG)&nbsp;
 
-[^23]: Turnbull, _Dateline Singapore_, 175.
+[^13]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 132.
 
-[^24]: Turnbull, _Dateline Singapore_, 178; “Maria Hertogh Case,” _Straits Times_, 18 December 1950, 6. (From NewspaperSG)
+[^14]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 134.
 
-[^25]: Stephanie Ho, “The Straits Times,” _Singapore Infopedia_. Article published 28 February 2016; Naidu Ratnala Thulaja, “Times House,” _Singapore Infopedia_. Article published 5 August 2016.&nbsp;
+[^15]: “[Singapore Is British Again!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19450907-1.2.2),” _Straits Times_, 7 September 1945, 1; “[King’s Message to Malaya: Peace, Security and Happiness](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19450907-1.2.6),” _Straits Times_, 7 September 1945, 1. (From NewspaperSG)
 
-[^26]: Turnbull, _Dateline Singapore,_ 179, 182.
+[^16]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 134.
 
-[^27]: Turnbull, _Dateline Singapore_, 189.
+[^17]: Turnbull, [_Dateline Singapor_e](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 138–39.
 
-[^28]: “Our Aims,” _Business Times_, 1 October 1976, 2. (From NewspaperSG); Turnbull, _Dateline Singapore_, 320.
+[^18]: “[Maria Hertogh Riots](https://www.nlb.gov.sg/main/article-detail?cmsuuid=fbc266c5-4f6f-49d8-b77e-d37e20742087),” _Singapore Infopedia_. Article published 28 September 2014.&nbsp;
 
-[^29]: “So Here We Are!” _New Nation_, 18 January 1971, 2. (From NewspaperSG); Turnbull, _Dateline Singapore_, 287.
+[^19]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 175.&nbsp;
 
-[^30]: Turnbull, _Dateline Singapore_, 343.
-
-
-
-
-[^31]: Turnbull, _Dateline Singapore_, 349; Arti Mulchand, “Time’s Up for Times House,” _Straits Times_, 2 April 2004, 3. (From NewspaperSG)
-
-[^32]: Turnbull, _Dateline Singapore_, 359; “The New Paper Goes Fully Digital from Dec 10,” _New Paper_, 20 September 2021, https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10.
-
-[^33]: Shefali Rekhi, “‘There’s No Shame in Having Your Story Corrected’,” _Straits Times_, 15 July 2025, https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected.
-
-[^34]: Turnbull, _Dateline Singapore_, 361.
-
-[^35]: Sharon Teng and Jenny Tien, “Wee Kim Wee,” _Singapore Infopedia_. Article published 2016.&nbsp;
-
-[^36]: Teng and Tien, “Wee Kim Wee.”
-
-[^37]: “Peace: The Sooner the Better,” _Straits Times_, 2 May 1966, 1; Peh Shing Huei, “Journalist Who Got World Scoop,” _Straits Times_, 3 May 2005, 3. (From NewspaperSG); Marsita Omar, “Indonesia–Malaysia Confrontation,” _Singapore Infopedia_. Article published 2008.
-
-[^38]: Teng and Tien, “Wee Kim Wee”; Joyce Koh, “Former President Wee Kim Wee Dies 89,” _Business Times_, 3 May 2005, 1. (From NewspaperSG)
-
-[^39]: _Alvin Chua, “S.R. Nathan,” Singapore Infopedia. Article published 2016._
-
-[^40]: Chua, “S.R. Nathan”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92.
-
-[^41]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara,” National Library Online. Article published 2014.
+[^20]: “[Maria Hertogh Riots](https://www.nlb.gov.sg/main/article-detail?cmsuuid=fbc266c5-4f6f-49d8-b77e-d37e20742087)”; Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 175.
 
 
 
-[^42]: “Yusof Ishak Is Sworn in As Yang di-Pertuan Negara”; Stephanie Ho, “History of Singapore Currency,” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
+[^21]: “[Maria Hertogh Riots](https://www.nlb.gov.sg/main/article-detail?cmsuuid=fbc266c5-4f6f-49d8-b77e-d37e20742087).”
 
-[^43]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife.
+[^22]: “[Maria Hertogh Riots](https://www.nlb.gov.sg/main/article-detail?cmsuuid=fbc266c5-4f6f-49d8-b77e-d37e20742087)”; “[Maria Hertogh Dies Aged 72](https://eresources.nlb.gov.sg/newspapers/digitised/article/today20090710-1.2.21.5),” _Today_, 10 July 2009, 16. (From NewspaperSG)
 
+[^23]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 175.
+
+[^24]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 178; “[Maria Hertogh Case](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19501218-1.2.67.4),” _Straits Times_, 18 December 1950, 6. (From NewspaperSG)
+
+[^25]: Stephanie Ho, “[The Straits Times](https://www.nlb.gov.sg/main/article-detail?cmsuuid=382e8b41-dc5a-4091-af00-56ae985f0c5c),” _Singapore Infopedia_. Article published 28 February 2016; Naidu Ratnala Thulaja, “[Times House](https://www.nlb.gov.sg/main/article-detail?cmsuuid=bad35de9-3582-4057-9bac-1bc2a452ff14),” _Singapore Infopedia_. Article published 5 August 2016.&nbsp;
+
+[^26]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 179, 182.
+
+[^27]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 189.
+
+[^28]: “[Our Aims](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19761001-1.2.16),” _Business Times_, 1 October 1976, 2. (From NewspaperSG); Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 320.
+
+[^29]: “[So Here We Are!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19710118-1.2.18)” _New Nation_, 18 January 1971, 2. (From NewspaperSG); Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 287.
+
+[^30]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 343.
+
+
+
+
+[^31]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 349; Arti Mulchand, “[Time’s Up for Times House](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20040402-1.2.8.2),” _Straits Times_, 2 April 2004, 3. (From NewspaperSG)
+
+[^32]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 359; “The New Paper Goes Fully Digital from Dec 10,” _New Paper_, 20 September 2021, [https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10](https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10).
+
+[^33]: Shefali Rekhi, “‘There’s No Shame in Having Your Story Corrected’,” _Straits Times_, 15 July 2025, [https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected](https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected).
+
+[^34]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 361.
+
+[^35]: Sharon Teng and Jenny Tien, “[Wee Kim Wee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c2ebc8f6-3467-4c31-81c0-a5225b3c09c3),” _Singapore Infopedia_. Article published 2016.&nbsp;
+
+[^36]: Teng and Tien, “[Wee Kim Wee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c2ebc8f6-3467-4c31-81c0-a5225b3c09c3).”
+
+[^37]: “[Peace: The Sooner the Better](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660502-1.2.2),” _Straits Times_, 2 May 1966, 1; Peh Shing Huei, “[Journalist Who Got World Scoop](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050503-1.2.38.8.aspx),” _Straits Times_, 3 May 2005, 3. (From NewspaperSG); Marsita Omar, “[Indonesia–Malaysia Confrontation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=78909a3d-b4c3-4ee8-a1f3-9d3b56c00213),” _Singapore Infopedia_. Article published 2008.
+
+[^38]: Teng and Tien, “[Wee Kim Wee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c2ebc8f6-3467-4c31-81c0-a5225b3c09c3)”; Joyce Koh, “[Former President Wee Kim Wee Dies 89](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20050503-1.2.3.aspx),” _Business Times_, 3 May 2005, 1. (From NewspaperSG)
+
+[^39]: _Alvin Chua, “[S.R. Nathan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4c462235-1a9b-46a5-b000-cdcfd59ec6c6),” Singapore Infopedia. Article published 2016._
+
+[^40]: Chua, “[S.R. Nathan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4c462235-1a9b-46a5-b000-cdcfd59ec6c6)”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, [https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92](https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92).
+
+[^41]: “[Yusof Ishak Is Sworn in As Yang di-Pertuan Negara](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4a526bb8-380d-4b00-b45a-6bb7cc4ec13f),” National Library Online. Article published 2014.
+
+
+
+[^42]: “[Yusof Ishak Is Sworn in As Yang di-Pertuan Negara](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4a526bb8-380d-4b00-b45a-6bb7cc4ec13f)”; Stephanie Ho, “[History of Singapore Currency](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ac36a2e4-5620-4812-9405-e5bd24023213),” _Singapore Infopedia_. Article published 9 March 2016.&nbsp;
+
+[^43]: Deanne Koh, “Jane Yumiko Ittogi: 10 Things You Didn’t Know About President Tharman’s Wife,” _The Singapore Women’s Weekly_, 14 September 2023, [https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife](https://www.womensweekly.com.sg/your-life/jane-yumiko-ittogi-president-tharman-wife).
