@@ -101,17 +101,13 @@ Veno’s Lightning Cough Cure was advertised as a remedy that could “[check] I
 
 #### **Remembering the “Forgotten Pandemic”**
 
-A little more than a century has gone by since the 1918 influenza pandemic in Singapore. Since then, the virus outbreak has largely been forgotten in public memory as it occurred in the shadow of World War I.&nbsp;
+A little more than a century has gone by since the 1918 influenza pandemic. In the decades that followed, the pandemic faded from public memory. But while most people may have forgotten about the incident, subsequent outbreaks throughout the 20th century prompted medical professionals and historians to recognise the importance of the 1918 pandemic.
 
-But there has been some revival of interest in the 1918 influenza pandemic due to subsequent outbreaks throughout the 20th century – the latest being Covid-19 that emerged in December 2019 – that were reminiscent of it.
+Lessons gleaned from the 1918 influenza pandemic contributed to a better understanding of subsequent influenza outbreaks, such as the 1957 influenza outbreak in East Asia that eventually spread to the rest of the world. Almost 10 years later, an outbreak first recorded in Hong Kong in 1968 also spread worldwide, adding to the growing interest in the 1918 historical episode.[^33]
 
-Comparing the two pandemics, about 100 years apart, is instructive. Unlike the case with the 1918 pandemic, the Singapore government was more prepared to combat Covid-19 in 2020. Drawing lessons from previous outbreaks of infectious diseases, especially SARS (Severe acute respiratory syndrome) in 2003, the government immediately set up a Multi-Ministry Taskforce by January 2020 to tackle the outbreak.[^33] The preparedness of the government allowed it to react nimbly to the outbreak, ensuring that necessary hygiene measures such as social distancing and testing were evenly, efficiently and effectively put in place.
+In 1952, the World Health Organization (WHO) set up the Global Influenza Surveillance and Response System to foster international cooperation and safeguard against influenza outbreaks.[^34]&nbsp;Twice a year, in February and September, the WHO makes recommendations on the strains of viruses to be included in the influenza vaccines for the northern and southern hemispheres respectively.[^35]
 
-Moreover, medical knowledge and public health infrastructure had significantly advanced in the century since the 1918 pandemic. As a result, the epidemiological characteristics of the novel coronavirus were rapidly identified in 2020, and accurate information was efficiently disseminated to the public in Singapore.[^34] Greater scientific clarity enabled timely and appropriate public health measures to be implemented, in contrast to the 1918 pandemic, during which limited understanding led to ineffective or misguided treatments.
-
-Crucially, effective therapies were developed more quickly in 2020 compared to 1918. While the influenza vaccine was developed long after the 1918 outbreak, the first Covid-19 vaccines were ready for distribution in Singapore by December 2020.[^35]
-
-While the 1918 influenza pandemic was met with uncertainty and unpreparedness, the Covid-19 outbreak was met with swift action, clear communication and groundbreaking medical innovation. This contrast highlights the significant progress in public health made in the last 100 years and also the vital importance of learning from history.<br><br>
+Currently, health authorities are closely monitoring the avian flu situation and watching for signs of the virus spilling over into cattle and other mammals.[^36]&nbsp;While certain animal influenza viruses can and have infected humans, the greater concern is that the viruses may mutate even further and become highly transmissible among humans and thus trigger another widespread influenza pandemic. The 1918 pandemic continues to cast&nbsp;a long shadow.<br><br>
 
 
 <div style="background-color: white;">
@@ -218,11 +214,13 @@ While the 1918 influenza pandemic was met with uncertainty and unpreparedness, t
 [^32]: “[Page 2 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsecho19161107-1.2.4.3),” _Straits Echo_, 7 November 1916, 2; “[Page 5 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19170208-1.2.30.1),” _Pinang Gazette and Straits Chronicle_, 8 February 1917, 5; “[Page 7 Advertisements Column 5](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19181106-1.2.46.5),” _Singapore Free Press and Mercantile Advertiser_, 6 November 1918, 7. (From NewspaperSG)
 
 
-[^33]: “Ministerial Statement on Whole‑of‑Government Response to the 2019 Novel Coronavirus (2019‑nCoV),” Ministry of Health (Singapore), 3 February 2020, [https://www.moh.gov.sg/newsroom/ministerial-statement-on-whole-of-government-response-to-the-2019-novel-coronavirus-%282019-ncov%29](https://www.moh.gov.sg/newsroom/ministerial-statement-on-whole-of-government-response-to-the-2019-novel-coronavirus-%282019-ncov%29).
+[^33]:  Howard Phillips, “The Re-appearing Shadow of 1918: Trends in the Historiography of the 1918–19 Influenza Pandemic,”&nbsp;_Canadian Journal of Health History_&nbsp;21 no. 1 (February 2004): 125–26,&nbsp;[https://www.researchgate.net/publication/8506148\_The\_Re-appearing\_Shadow\_of\_1918\_Trends\_in\_the\_Historiography\_of\_the\_1918-19\_Influenza\_Pandemic](https://www.researchgate.net/publication/8506148_The_Re-appearing_Shadow_of_1918_Trends_in_the_Historiography_of_the_1918-19_Influenza_Pandemic).
 
 
-[^34]: “Minsterial Statement on Whole‑of‑Government Response to the 2019 Novel Coronavirus (2019‑nCoV).”
+[^34]:  “Global Influenza Surveillance and Response System (GISRS),” World Health Organization, accessed 20 November 2025,&nbsp;[https://www.who.int/initiatives/global-influenza-surveillance-and-response-system](https://www.who.int/initiatives/global-influenza-surveillance-and-response-system).
 
 
 
-[^35]: Yuen Sin, “Covid-19 Vaccination Drive Kicks off with Jabs for 40 NCID Healthcare Workers,” _Straits Times_, 30 December 2020, [https://www.straitstimes.com/singapore/coronavirus-vaccination-drive-kicks-off-to-pave-way-for-more-economic-activities](https://www.straitstimes.com/singapore/coronavirus-vaccination-drive-kicks-off-to-pave-way-for-more-economic-activities).
+[^35]:  “Recommendations Announced for Influenza Vaccine Composition for the 2026 Southern Hemisphere Influenza Season,” World Health Organization, 26 September 2025,&nbsp;[https://www.who.int/news/item/26-09-2025-recommendations-announced-for-influenza-vaccine-composition-for-the-2026-southern-hemisphere-influenza-season](https://www.who.int/news/item/26-09-2025-recommendations-announced-for-influenza-vaccine-composition-for-the-2026-southern-hemisphere-influenza-season).
+
+[^36]:  Meghan Bartels, “Bird Flu Is Back. Here’s What to Know,”&nbsp;_Scientific American_, 24 October 2025,&nbsp;[https://www.scientificamerican.com/article/why-bird-flu-is-surging-again-and-what-it-means-for-public-health/](https://www.scientificamerican.com/article/why-bird-flu-is-surging-again-and-what-it-means-for-public-health/).
