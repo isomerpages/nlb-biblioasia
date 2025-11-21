@@ -103,7 +103,7 @@ Veno’s Lightning Cough Cure was advertised as a remedy that could “[check] I
 
 A little more than a century has gone by since the 1918 influenza pandemic. In the decades that followed, the pandemic faded from public memory. But while most people may have forgotten about the incident, subsequent outbreaks throughout the 20th century prompted medical professionals and historians to recognise the importance of the 1918 pandemic.
 
-Lessons gleaned from the 1918 influenza pandemic contributed to a better understanding of subsequent influenza outbreaks, such as the 1957 influenza outbreak in East Asia that eventually spread to the rest of the world. Almost 10 years later, an outbreak first recorded in Hong Kong in 1968 also spread worldwide, adding to the growing interest in the 1918 historical episode.[^33]
+Lessons gleaned from the 1918 influenza pandemic contributed to a better understanding of subsequent influenza outbreaks, such as the 1957 influenza outbreak in East Asia that eventually spread to the rest of the world. A decade later, an outbreak first recorded in Hong Kong in 1968 also spread worldwide, adding to the growing interest in the 1918 historical episode.[^33]
 
 In 1952, the World Health Organization (WHO) set up the Global Influenza Surveillance and Response System to foster international cooperation and safeguard against influenza outbreaks.[^34]&nbsp;Twice a year, in February and September, the WHO makes recommendations on the strains of viruses to be included in the influenza vaccines for the northern and southern hemispheres respectively.[^35]
 
