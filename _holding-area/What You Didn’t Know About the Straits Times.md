@@ -47,6 +47,10 @@ The fall of Singapore to the Japanese on 15 February 1942 led to the renaming of
 
 They called the initial version the _Shonan Times_, with the first issue published on 20 February 1942. It was renamed the _Syonan Times_ the very next day.[^10] To get the wartime paper going, the Japanese employed several of the technicians who had worked for the _Straits Times_ and also hired several local journalists to produce the paper in English.[^11]&nbsp;
 
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_syonan.png" style="width: 80%;">
+
+<div style="background-color: white;">During the Japanese Occupation, the first issue of the _Shonan Times_ was printed on 20 February 1942 at the former premises of the <i>Straits Times</i>. On the very next day, the paper was renamed the <i>Syonan Times</i> pictured here. The paper then became the <i>Syonan Sinbun</i> on 8 December 1942 followed by the <i>Syonan Shimbun</i> on 8 December 1943. This name remained until its last issue on 4 September 1945. <i> Collection of the National Library Singapore. </i></div>
+
 The publication was renamed the _Syonan Sinbun_ on 8 December 1942, commemorating the first anniversary of the war, and then the _Syonan Shimbun_ on the second anniversary. This name remained until the last issue on 4 September 1945.[^12]&nbsp;
 
 #### **First Issue After the War**
@@ -64,6 +68,10 @@ The postwar editions of the _Straits Times_ survived on the efforts of skeleton 
 #### **Maria Hertogh Riots**
 
 To journalists in hot pursuit of news, the Maria Hertogh story in 1950 was the perfect story. A world war. A family torn apart. A tortured international tussle over a 13-year-old Dutch Eurasian girl renamed Nadra by her adoptive Muslim mother and then married off to prevent her from being reunited with her biological parents.[^18]
+
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_maria.png" style="width: 80%;">
+
+<div style="background-color: white;">Maria Hertogh and her foster mother Che Aminah leaving the Singapore High Court on 24 November 1950. Justice Brown reserved judgement in the custody case. <i> Source: The Straits Times, 25 November 1950, 1 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 Incensed by news coverage in the English- and Malay-language newspapers, people took to the streets. Violence ensued. As Turnbull summed up the tragedy in _Dateline Singapore_: “Mobs roamed the streets, dragging Europeans and Eurasians out of cars, beating them up and killing them. The army was called out.”[^19] The violence that took place between 11 and 13 December 1950 remains an indelible stain on Singapore’s history.
 
