@@ -229,7 +229,7 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 [^38]: Teng and Tien, “[Wee Kim Wee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c2ebc8f6-3467-4c31-81c0-a5225b3c09c3)”; Joyce Koh, “[Former President Wee Kim Wee Dies 89](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20050503-1.2.3.aspx),” _Business Times_, 3 May 2005, 1. (From NewspaperSG)
 
-[^39]: _Alvin Chua, “[S.R. Nathan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4c462235-1a9b-46a5-b000-cdcfd59ec6c6),” Singapore Infopedia. Article published 2016._
+[^39]: Alvin Chua, “[S.R. Nathan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4c462235-1a9b-46a5-b000-cdcfd59ec6c6),” _Singapore Infopedia_. Article published 2016.
 
 [^40]: Chua, “[S.R. Nathan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4c462235-1a9b-46a5-b000-cdcfd59ec6c6)”; Chong Zi Liang, “Former President S R Nathan Dies, Aged 92,” _Straits Times_, 22 August 2016, [https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92](https://www.straitstimes.com/singapore/former-president-sr-nathan-dies-aged-92).
 
