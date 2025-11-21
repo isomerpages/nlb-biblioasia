@@ -19,7 +19,7 @@ Over the last 180 years, the newspaper has accompanied Singapore’s growth from
 
 There has been much speculation about the origins of the _Straits Times_. According to Walter Makepeace, Gilbert E. Brooke and Roland St J. Braddell in _One Hundred Years of Singapore_, the Armenian merchant Marterus Thaddeus Apcar, of the firm Apcar &amp; Stephens, planned to set up a newspaper in Singapore and ordered printing equipment from England. But Apcar died and fellow Armenian Catchick Moses took over the equipment and invited Robert Carr Woods, an English editor from Bombay, to be the first editor of the paper.[^1]&nbsp;
 
-<img src="/images/Vol%2021%20Issue%204/Straits/straits_catchick.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_catchick.png" style="width: 60%;">
 
 <div style="background-color: white;">Armenian businessman Catchick Moses (pictured here) and Robert Carr Woods, an English editor from Bombay, founded the <i>Straits Times and Singapore Journal of Commerce</i> on 15 July 1845. Woods was the paper’s first editor. <i> Image reproduced from Charles Burton Buckley, An Anecdotal History of Singapore, vol. 1 (Singapore: Printed by Fraser &amp; Neave, Limited, 1902.), facing p. 344. Collection of the National Library Singapore (From National Library Online). </i></div>
 
@@ -69,7 +69,7 @@ The postwar editions of the _Straits Times_ survived on the efforts of skeleton 
 
 To journalists in hot pursuit of news, the Maria Hertogh story in 1950 was the perfect story. A world war. A family torn apart. A tortured international tussle over a 13-year-old Dutch Eurasian girl renamed Nadra by her adoptive Muslim mother and then married off to prevent her from being reunited with her biological parents.[^18]
 
-<img src="/images/Vol%2021%20Issue%204/Straits/straits_maria.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_maria.png" style="width: 70%;">
 
 <div style="background-color: white;">Maria Hertogh and her foster mother Che Aminah leaving the Singapore High Court on 24 November 1950. Justice Brown reserved judgement in the custody case. <i> Source: The Straits Times, 25 November 1950, 1 © SPH Media Limited. Permission required for reproduction. </i></div>
 
