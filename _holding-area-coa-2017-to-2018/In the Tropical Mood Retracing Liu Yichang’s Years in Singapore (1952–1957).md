@@ -1116,7 +1116,7 @@ Yi Mingshan 易明善, _Liu yi chang chuan_ 刘以鬯传 \[Biography of Liu Yich
 
 [^62]: “Xiānggǎng qúnyīng gēwǔ tuán zài kuàilè shìjiè yǎnchū gēwǔ jù chōngmǎn shīqínghuàyì zhāng lù de gēshēng zuì shòu zànshǎng” [香港群英歌舞团 在快乐世界演出 歌舞剧充满诗情画意 张露的歌声最受赞赏](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19550123-1.2.28.2) \[Hong Kong Song and Dance Troupe performing at Happy World – Their musical is poetic and Chang Loo’s singing is highly praised\], _Nanyang Siang Pau_ _南洋商__报_, 23 January 1955, 6. (From NewspaperSG)
 
-[^63]: Kong Kam Yoke, [_The Majestic Theatre (__大__华戏院__): Where Chinese Opera Ruled_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=94189c68-0c6f-4383-81a8-a3cbc2d815fc), 26 June 2012. (From National Library Online)
+[^63]: Kong Kam Yoke, [_The Majestic Theatre (__大华戏院__): Where Chinese Opera Ruled_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=94189c68-0c6f-4383-81a8-a3cbc2d815fc), 26 June 2012. (From National Library Online)
 
 [^64]: “Xiè lǔ bā luópèiyún lǐngdǎo tiān'é gēwǔ jù yì tuán èrshíwǔ rén zuó dǐ xīng èrshíjiǔ wǎn qǐ zài kuàilè shìjiè yǎnchū” [谢鲁八罗佩云领导 天鹅歌舞剧艺团 二十五人昨抵星 二十九晚起在快乐世界演出](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19560527-1.2.28.30) \[The 25 artistes from the Swan Song and Dance Troupe led by Tse Liu-Baat and Lo Pai Wan arrived in Singapore yesterday and will be performing on the stage of Happy World Stadium from May 29th\], _Nanyang Siang Pau_ _南洋商__报_, 27 May 1956, 6. (From NewspaperSG)
 
