@@ -115,7 +115,7 @@ In 1966, with Malaysia and Indonesia caught up in the violent throes of Konfront
 
 Wee retired from the _Straits Times_ in 1973 when Foreign Minister S. Rajaratnam asked him to serve as a diplomat. So Wee was appointed high commissioner to Malaysia (1973–80) and then ambassador to Japan and the Republic of Korea (1980–84). He died on 2 May 2005.[^38]
 
-Singapore’s sixth president has the shortest name of the nine. Everyone referred to him as S.R. Nathan, and few ever used his full name, Sellapan Ramanathan. Still, the one with the shortest name served the longest stint as president, from 1999 to 2011.&nbsp;
+Singapore’s sixth president has the shortest name of the nine. Everyone referred to him as SR and few ever used his full name, Sellapan Ramanathan. Still, the one with the shortest name served the longest stint as president, from 1999 to 2011.&nbsp;
 
 Nathan is also Singapore’s only president to have been expelled from school – twice – and also possibly the only one to have run away from home. A lengthy career in the civil service from 1955 included a spell with the National Trades Union Congress and stints in the Foreign Affairs and Home Affairs ministries. His name burst into the headlines in 1974 when he was with the Defence Ministry. In what became known as the _Laju_ hijacking incident, Nathan led a 13-member delegation that accompanied the terrorists on a flight to Kuwait to secure the release of the ferry’s crew and guarantee the terrorists’ safe passage.[^39]&nbsp;
 
@@ -125,7 +125,7 @@ These are not the only connections between journalism and the Istana. The first 
 
 Yusof Ishak started a sports magazine, then joined the daily _Warta Malaya_ before leaving in 1939 to co-found the _Utusan Melayu_ daily in Kuala Lumpur. He returned to Singapore to chair the Public Service Commission at the invitation of Prime Minister Lee Kuan Yew. His portrait still adorns Singapore’s currency notes.[^42]
 
-The journalism connection with the Istana doesn’t end there. Current President of Singapore Tharman Shanmugaratnam’s wife, Jane Yumiko Ittogi, briefly worked as a lead/feature writer with the _Straits Times_ in the 1980s before returning to law.[^43]
+The journalism connection with the Istana doesn’t end there. Current President of Singapore Tharman Shanmugaratnam’s wife, Jane Yumiko Ittogi, briefly worked as a leader/feature writer with the _Straits Times_ in the 1980s before returning to law.[^43]
 
 #### **Whither the Straits Times?**
 
