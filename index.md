@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 3/Excavating the Past/HeroImage_excavating2.jpg
       variant: center
   - infopic:
+      title: Please Fasten Your Seat Belts
+      subtitle: Governance
+      id: infopic
+      description: How crash tests, mangled cars and grieving families drove
+        Singapore’s battle to protect motorists’ lives.
+      button: Seat Belt Shenanigans
+      url: /vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/
+      image: /images/Vol 21 Issue 4/Seatbelts/Seatbelt_drivers.png
+      alt: Please Fasten Your Seat Belts
+  - infopic:
       title: Remembering John Norman Miksic
       subtitle: People
       id: infopic
@@ -997,16 +1007,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Please Fasten Your Seat Belts
-      subtitle: Governance
-      id: infopic
-      description: How crash tests, mangled cars and grieving families drove
-        Singapore’s battle to protect motorists’ lives.
-      button: Seat Belt Shenanigans
-      url: /vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/
-      image: /images/Vol 21 Issue 4/Seatbelts/Seatbelt_drivers.png
-      alt: Please Fasten Your Seat Belts
   - infopic:
       title: The 1918 Influenza Pandemic in Singapore
       subtitle: Health and Medicine
