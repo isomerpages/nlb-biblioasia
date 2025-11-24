@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/
-      button: Excavating the Past
+      url: /vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/
+      button: “Majulah Singapura” Finally Repaired the Breach
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Excavating the Past/HeroImage_excavating2.jpg
+      background: /images/Vol 21 Issue 3/Composer/HeroImage_Composer.jpg
       variant: center
   - infopic:
       title: Please Fasten Your Seat Belts
