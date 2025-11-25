@@ -93,6 +93,10 @@ On 18 December 1950, the _Straits Times_ published a notice that it would stop p
 
 Commercial Square, later renamed Raffles Place, was the birthplace of the newspaper. In 1903, the _Straits Times_ moved to Cecil Street and then subsequently acquired additional premises on Anson Road. But the site most people have associated with the “moving story” of the newspaper was Times House, where the Straits Times Press office and its varied branches were housed for 44 years.[^25]&nbsp;
 
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_commercial.png" style="width: 80%;">
+
+<div style="background-color: white;">Finlayson Green, c. 1905. The&nbsp;Straits Times&nbsp;office, which moved from its fist location at No. 7 Commercial Square, is on the extreme left on Cecil Street. The other two buildings are the two-storeyed offices of KPM (Koninklijke Paketvaart Maatschappij) and the three-storey headquarters of Behn Meyer. <i> Courtesy of National Archives of Singapore (Media - Image no. 19980005106&nbsp;-&nbsp;0053).</i></div>
+
 Back in 1952, the newspaper’s 20-year-old overworked Crabtree rotary press was printing two million copies a month. The following year, the company bought a $500,000 replacement, also a Crabtree, that could print 40,000 copies of a 24-page newspaper in an hour.[^26]
 
 By the mid-1950s, some 110 years from its unlikely and almost accidental start in 1845, the company’s operations – including its printing works – had outgrown its antiquated premises on Cecil Street and Anson Road. The decision was made to move its overcrowded operations to a single site. The company bought land at the junction of Kim Seng Road and River Valley Road and in 1958, moved in and consolidated all its operations at 390 Kim Seng Road. It later had to house its magazine offshoot, Times Periodicals, on Thomson Road.[^27]
