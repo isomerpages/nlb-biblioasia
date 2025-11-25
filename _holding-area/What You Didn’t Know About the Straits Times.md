@@ -49,7 +49,7 @@ They called the initial version the _Shonan Times_, with the first issue publish
 
 <img src="/images/Vol%2021%20Issue%204/Straits/straits_syonan.png" style="width: 80%;">
 
-<div style="background-color: white;">During the Japanese Occupation, the first issue of the _Shonan Times_ was printed on 20 February 1942 at the former premises of the <i>Straits Times</i>. On the very next day, the paper was renamed the <i>Syonan Times</i> pictured here. The paper then became the <i>Syonan Sinbun</i> on 8 December 1942 followed by the <i>Syonan Shimbun</i> on 8 December 1943. This name remained until its last issue on 4 September 1945. <i> Collection of the National Library Singapore. </i></div>
+<div style="background-color: white;">During the Japanese Occupation, the first issue of the <i>Shonan Times</i> was printed on 20 February 1942 at the former premises of the <i>Straits Times</i>. On the very next day, the paper was renamed the <i>Syonan Times</i> pictured here. The paper then became the <i>Syonan Sinbun</i> on 8 December 1942 followed by the <i>Syonan Shimbun</i> on 8 December 1943. This name remained until its last issue on 4 September 1945. <i> Collection of the National Library Singapore. </i></div>
 
 The publication was renamed the _Syonan Sinbun_ on 8 December 1942, commemorating the first anniversary of the war, and then the _Syonan Shimbun_ on the second anniversary. This name remained until the last issue on 4 September 1945.[^12]&nbsp;
 
