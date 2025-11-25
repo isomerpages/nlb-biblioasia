@@ -103,7 +103,7 @@ By the mid-1950s, some 110 years from its unlikely and almost accidental start i
 
 <img src="/images/Vol%2021%20Issue%204/Straits/straits_house.png" style="width: 80%;">
 
-<div style="background-color: white;">&nbsp;&nbsp;Times House on Kim Seng Road, 1977. <i> Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Times House on Kim Seng Road, 1977. <i> Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
 
 By the 1970s, the company’s growth necessitated the construction of an extra multistorey building which would house, among other things, the newsroom of a new financial daily, the _Business Times_, on 1 October 1976. This paper had grown out of the four-page _Times Business_ section in the _Straits Times_.[^28]
 
