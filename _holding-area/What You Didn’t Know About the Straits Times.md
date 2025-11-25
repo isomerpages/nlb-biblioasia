@@ -39,6 +39,10 @@ Fake news likely had its beginnings in Singapore much further back in history th
 
 It was June 1846 and as Turnbull described in _Dateline Singapore_, as an American ship sailed across the harbour, several merchants paid a boy to “dash into the newspaper office dripping wet just as the paper was going to press, with a tale that he had swum ashore bearing a letter from the captain giving the prices at recent opium sales in Calcutta”. This “news” was apparently meant to stir panic in the commercial sector.[^7]
 
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_fake.png" style="width: 60%;">
+
+<div style="background-color: white;">The “fake” news that appeared in the&nbsp;<i>Straits Times</i>&nbsp;on 10 June 1846, providing the prices of recent opium sales in Calcutta. <i> Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+
 And the fakery? The ship had actually been on its way from Bombay, not Calcutta, and the “news” deliberately misspelled the ship’s captain’s name. But the story was irresistible. Woods published the “scoop” on 13 June 1846 only to discover that it was a fake.[^8] He then put up a notice at the office of the _Straits Times_, offering a $50 bounty for exposing the “scoundrel” responsible.[^9]&nbsp;
 
 #### **World War II**
