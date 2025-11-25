@@ -143,7 +143,7 @@ In 1966, with Malaysia and Indonesia caught up in the violent throes of Konfront
 
 <img src="/images/Vol%2021%20Issue%204/Straits/straits_interview.png" style="width: 60%;">
 
-<div style="background-color: white;">In April 1966, Wee Kim Wee secured an exclusive interview with Lieutenant-General Suharto where he announced his intention to end Konfrontasi. The interview was published in the Straits Times on 2 May 1966. <i> Source: The Straits Times, 2 May 1966, 1 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">In April 1966, Wee Kim Wee secured an exclusive interview with Lieutenant-General Suharto where he announced his intention to end Konfrontasi. The interview was published in the <i>Straits Times</i> on 2 May 1966. <i> Source: The Straits Times, 2 May 1966, 1 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Wee retired from the _Straits Times_ in 1973 when Foreign Minister S. Rajaratnam asked him to serve as a diplomat. So Wee was appointed high commissioner to Malaysia (1973–80) and then ambassador to Japan and the Republic of Korea (1980–84). He died on 2 May 2005.[^38]
 
