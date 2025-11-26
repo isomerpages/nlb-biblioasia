@@ -4,6 +4,13 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">**What You Didn’t Know About the Straits Times**</a>
+
+The first fake news. The illegal postwar edition. Newsmen turned presidents. The&nbsp;_Straits Times_&nbsp;has had an interesting 180 years.
+
+<img src="/images/Vol%2021%20Issue%204/Straits/StraistsTimes_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/">A Century of Singapore’s Cinemas</a>
 
  <p>Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls.</p>
