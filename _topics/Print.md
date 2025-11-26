@@ -4,6 +4,13 @@ permalink: /topics/print/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">**What You Didn’t Know About the Straits Times**</a>
+
+The first fake news. The illegal postwar edition. Newsmen turned presidents. The&nbsp;_Straits Times_&nbsp;has had an interesting 180 years.
+
+<img src="/images/Vol%2021%20Issue%204/Straits/StraistsTimes_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/">**An 800-Year-Old Family History**</a>
 
 Thanks to his ancestry book (_zupu_) and a lot of persistence, a practising Taoist priest was able to trace his ancestry all the way back to 1195.
