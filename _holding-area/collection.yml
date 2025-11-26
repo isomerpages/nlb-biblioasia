@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - What You Didn’t Know About the Straits Times.md
       - Sample article.md
