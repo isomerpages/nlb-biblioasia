@@ -1,10 +1,10 @@
 ---
 title: What You Didn’t Know About the Straits Times
-permalink: /holding-area/vol-21/issue-4/jan-mar-2026/what-you-didn-t-know-about-the-straits-times/
+permalink: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
 variant: markdown
 description: ""
 ---
-#### The first fake news. The illegal postwar edition. Newsmen turned presidents. The Straits Times has had an interesting 180 years.
+#### The first fake news. The illegal postwar edition. Newsmen turned presidents. The _Straits Times_ has had an interesting 180 years.
 By Irene Hoe
 
 <img src="/images/Vol%2021%20Issue%204/Straits/straits_main.png" style="width: 50%;">
@@ -19,7 +19,7 @@ Over the last 180 years, the newspaper has accompanied Singapore’s growth from
 
 There has been much speculation about the origins of the _Straits Times_. According to Walter Makepeace, Gilbert E. Brooke and Roland St J. Braddell in _One Hundred Years of Singapore_, the Armenian merchant Marterus Thaddeus Apcar, of the firm Apcar &amp; Stephens, planned to set up a newspaper in Singapore and ordered printing equipment from England. But Apcar died and fellow Armenian Catchick Moses took over the equipment and invited Robert Carr Woods, an English editor from Bombay, to be the first editor of the paper.[^1]&nbsp;
 
-<img src="/images/Vol%2021%20Issue%204/Straits/straits_catchick.png" style="width: 50%;">
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_catchick.png" style="width: 650%;">
 
 <div style="background-color: white;">Armenian businessman Catchick Moses (pictured here) and Robert Carr Woods, an English editor from Bombay, founded the <i>Straits Times and Singapore Journal of Commerce</i> on 15 July 1845. Woods was the paper’s first editor. <i> Image reproduced from Charles Burton Buckley, An Anecdotal History of Singapore, vol. 1 (Singapore: Printed by Fraser &amp; Neave, Limited, 1902.), facing p. 344. Collection of the National Library Singapore (From National Library Online). </i></div>
 
@@ -39,6 +39,10 @@ Fake news likely had its beginnings in Singapore much further back in history th
 
 It was June 1846 and as Turnbull described in _Dateline Singapore_, as an American ship sailed across the harbour, several merchants paid a boy to “dash into the newspaper office dripping wet just as the paper was going to press, with a tale that he had swum ashore bearing a letter from the captain giving the prices at recent opium sales in Calcutta”. This “news” was apparently meant to stir panic in the commercial sector.[^7]
 
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_fake.png" style="width: 60%;">
+
+<div style="background-color: white;">The “fake” news that appeared in the&nbsp;<i>Straits Times</i>&nbsp;on 10 June 1846, providing the prices of recent opium sales in Calcutta. <i> Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+
 And the fakery? The ship had actually been on its way from Bombay, not Calcutta, and the “news” deliberately misspelled the ship’s captain’s name. But the story was irresistible. Woods published the “scoop” on 13 June 1846 only to discover that it was a fake.[^8] He then put up a notice at the office of the _Straits Times_, offering a $50 bounty for exposing the “scoundrel” responsible.[^9]&nbsp;
 
 #### **World War II**
@@ -49,7 +53,7 @@ They called the initial version the _Shonan Times_, with the first issue publish
 
 <img src="/images/Vol%2021%20Issue%204/Straits/straits_syonan.png" style="width: 80%;">
 
-<div style="background-color: white;">During the Japanese Occupation, the first issue of the _Shonan Times_ was printed on 20 February 1942 at the former premises of the <i>Straits Times</i>. On the very next day, the paper was renamed the <i>Syonan Times</i> pictured here. The paper then became the <i>Syonan Sinbun</i> on 8 December 1942 followed by the <i>Syonan Shimbun</i> on 8 December 1943. This name remained until its last issue on 4 September 1945. <i> Collection of the National Library Singapore. </i></div>
+<div style="background-color: white;">During the Japanese Occupation, the first issue of the <i>Shonan Times</i> was printed on 20 February 1942 at the former premises of the <i>Straits Times</i>. On the very next day, the paper was renamed the <i>Syonan Times</i> pictured here. The paper then became the <i>Syonan Sinbun</i> on 8 December 1942 followed by the <i>Syonan Shimbun</i> on 8 December 1943. This name remained until its last issue on 4 September 1945. <i> Collection of the National Library Singapore. </i></div>
 
 The publication was renamed the _Syonan Sinbun_ on 8 December 1942, commemorating the first anniversary of the war, and then the _Syonan Shimbun_ on the second anniversary. This name remained until the last issue on 4 September 1945.[^12]&nbsp;
 
@@ -89,13 +93,17 @@ On 18 December 1950, the _Straits Times_ published a notice that it would stop p
 
 Commercial Square, later renamed Raffles Place, was the birthplace of the newspaper. In 1903, the _Straits Times_ moved to Cecil Street and then subsequently acquired additional premises on Anson Road. But the site most people have associated with the “moving story” of the newspaper was Times House, where the Straits Times Press office and its varied branches were housed for 44 years.[^25]&nbsp;
 
-<img src="/images/Vol%2021%20Issue%204/Straits/straits_house.png" style="width: 80%;">
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_commercial.png" style="width: 80%;">
 
-<div style="background-color: white;">&nbsp;&nbsp;Times House on Kim Seng Road, 1977. <i> Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Finlayson Green, c. 1905. The&nbsp;Straits Times&nbsp;office, which moved from its fist location at No. 7 Commercial Square, is on the extreme left on Cecil Street. The other two buildings are the two-storeyed offices of KPM (Koninklijke Paketvaart Maatschappij) and the three-storey headquarters of Behn Meyer. <i> Courtesy of National Archives of Singapore (Media - Image no. 19980005106&nbsp;-&nbsp;0053).</i></div>
 
 Back in 1952, the newspaper’s 20-year-old overworked Crabtree rotary press was printing two million copies a month. The following year, the company bought a $500,000 replacement, also a Crabtree, that could print 40,000 copies of a 24-page newspaper in an hour.[^26]
 
 By the mid-1950s, some 110 years from its unlikely and almost accidental start in 1845, the company’s operations – including its printing works – had outgrown its antiquated premises on Cecil Street and Anson Road. The decision was made to move its overcrowded operations to a single site. The company bought land at the junction of Kim Seng Road and River Valley Road and in 1958, moved in and consolidated all its operations at 390 Kim Seng Road. It later had to house its magazine offshoot, Times Periodicals, on Thomson Road.[^27]
+
+<img src="/images/Vol%2021%20Issue%204/Straits/straits_house.png" style="width: 80%;">
+
+<div style="background-color: white;">Times House on Kim Seng Road, 1977. <i> Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
 
 By the 1970s, the company’s growth necessitated the construction of an extra multistorey building which would house, among other things, the newsroom of a new financial daily, the _Business Times_, on 1 October 1976. This paper had grown out of the four-page _Times Business_ section in the _Straits Times_.[^28]
 
@@ -143,7 +151,7 @@ In 1966, with Malaysia and Indonesia caught up in the violent throes of Konfront
 
 <img src="/images/Vol%2021%20Issue%204/Straits/straits_interview.png" style="width: 60%;">
 
-<div style="background-color: white;">In April 1966, Wee Kim Wee secured an exclusive interview with Lieutenant-General Suharto where he announced his intention to end Konfrontasi. The interview was published in the Straits Times on 2 May 1966. <i> Source: The Straits Times, 2 May 1966, 1 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">In April 1966, Wee Kim Wee secured an exclusive interview with Lieutenant-General Suharto where he announced his intention to end Konfrontasi. The interview was published in the <i>Straits Times</i> on 2 May 1966. <i> Source: The Straits Times, 2 May 1966, 1 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Wee retired from the _Straits Times_ in 1973 when Foreign Minister S. Rajaratnam asked him to serve as a diplomat. So Wee was appointed high commissioner to Malaysia (1973–80) and then ambassador to Japan and the Republic of Korea (1980–84). He died on 2 May 2005.[^38]
 
