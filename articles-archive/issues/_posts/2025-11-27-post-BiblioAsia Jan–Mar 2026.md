@@ -22,10 +22,9 @@ The first fake news. The illegal postwar edition. Newsmen turned presidents. The
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/">Women Photographers in Singapore and Malaya </a><br>
-In the male-dominated world of 1940s and 1950s photography,
-three women in Singapore and Malaya found different ways to
-participate in the profession. *Zhuang Wubin*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Women_Photographers.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/">Wandering Wood: The Transoceanic Pollination of the 
+Double Coconut </a><br>
+Male double coconut trees in Singapore were able to fertilise female trees in Hawaii, thanks to the efforts of resourceful, determined botanists. *Choo Ruizhi*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Women_Photographers-54tr.pdf)
 
 
 
