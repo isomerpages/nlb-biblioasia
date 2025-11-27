@@ -42,8 +42,8 @@ The Bata Shoe Company brought Czechs to Singapore before the war. Some of them e
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/">Bacalah Singapura: Reading Habits in Singapore (1960s–1990s) </a><br>
-Reading surveys in the nation-building years reveal what Singaporeans read and why it mattered. *Janice Loo.*[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Reading_Habit.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/">Please Fasten Your Seat Belts </a><br>
+How crash tests, mangled cars and grieving families drove Singapore’s battle to protect motorists’ lives. *Sharon Teng.*[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Reading_Habitvter.pdf)
 
 
 
