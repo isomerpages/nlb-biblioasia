@@ -55,26 +55,26 @@ Initially inspired by the “New Life Movement” in China, couples in Singapore
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/">The 1918 Influenza Pandemic in Singapore</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/">The 1918 Influenza Pandemic in Singapore</a><br>
 When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.  *Sean Hoh*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Louis_de_Camoeshtrb.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/">Fridge Maker Freezes Stock Market </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/">Fridge Maker Freezes Stock Market </a><br>
 Pan-Electric Industries started out as Singapore’s fridge maker. However, its aggressive expansion and questionable practices led to enormous debts that caused a three-day closure of the Singapore and Kuala Lumpur stock markets in 1985.  *Joanna Tan*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Chung_Kwang_Tongb65htr.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/">A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/">A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan </a><br>
 One of Singapore’s first women philanthropists, Mrs Lee, née Tan Teck Neo, supported a wide range of charities.
 *Yu-lin Ooi*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Dutch_Burgherhrt.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/">How Tay Seow Huah Came to Be the First Spy Chief of Independent Singapore</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/">How Tay Seow Huah Came to Be the First Spy Chief of Independent Singapore</a><br>
 Simon Tay recounts how his Penang-born father came to play a giant role serving a newly independent Singapore.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Excavating_the_Pasverbsdvt.pdf)
 
 
