@@ -37,7 +37,7 @@ The humble air conditioner first came to Singapore about 100 years ago. Cows wer
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/singapore-time-zones/">In Search of Silvestr </a><br>
-The Bata Shoe Company brought Czechs to Singapore before the war. Some of them ended up fighting the Japanese in 1942. *Jan Beránek.*[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Singapore_Time_Zone.pdf)
+The Bata Shoe Company brought Czechs to Singapore before the war. Some of them ended up fighting the Japanese in 1942. *Jan Beránek.*[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Singapore_Time_Zone56tr.pdf)
 
 
 
