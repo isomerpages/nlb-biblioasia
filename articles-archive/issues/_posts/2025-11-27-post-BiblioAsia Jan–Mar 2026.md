@@ -86,6 +86,6 @@ The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 7
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/">New Books on Singapore History</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/">New Books on Singapore History</a><br>
 _Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya; Reimagining Singapore’s History: Essays on  
 Pre-Colonial Roots and Modern Identity;_ and _The Grand Mosque of Singapore: Two Centuries in the History of Masjid Sultan_ are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___NewBooghegrk.pdf)
