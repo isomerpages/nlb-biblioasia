@@ -48,27 +48,28 @@ How crash tests, mangled cars and grieving families drove Singapore’s battle t
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/">The House of Cheang </a><br>
-Hong Lim Park was named after Cheang Hong Lim. Cheang and his descendants were once among Singapore’s most illustrious Baba-Nonya families. *Walter Woon.*[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___House_of_Cheang.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/">We Do: Mass Weddings in Singapore </a><br>
+Initially inspired by the “New Life Movement” in China, couples in Singapore opted for mass weddings to save money. 
+*Seow Peck Ngiam and Benita Lim.*[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___House_of_Cheangg5hte.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/">Luís de Camões in Asia </a><br>
-Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ternate, was shipwrecked near the Mekong Delta and worked as the Superintendent for the Dead in Macau. *Isabel Rio Novo*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Louis_de_Camoes.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/">The 1918 Influenza Pandemic in Singapore</a><br>
+When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.  *Sean Hoh*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Louis_de_Camoeshtrb.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/">An 800-Year-Old Family History </a><br>
-Thanks to his ancestry book (zupu) and a lot of persistence, a practising Taoist priest was able to trace his ancestry all the way back to 1195. *Chung Kwang Tong*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Chung_Kwang_Tong.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/">Fridge Maker Freezes Stock Market </a><br>
+Pan-Electric Industries started out as Singapore’s fridge maker. However, its aggressive expansion and questionable practices led to enormous debts that caused a three-day closure of the Singapore and Kuala Lumpur stock markets in 1985.  *Joanna Tan*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Chung_Kwang_Tongb65htr.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/">Dutch Burghers in British Malaya </a><br>
-A murder mystery sheds light on the little-known story of the Ceylonese pioneers from the Dutch Burgher community who joined the subordinate government ranks in British Malaya.
-*Yorim Spoelder*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Dutch_Burgher.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/">A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan </a><br>
+One of Singapore’s first women philanthropists, Mrs Lee, née Tan Teck Neo, supported a wide range of charities.
+*Yu-lin Ooi*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Dutch_Burgherhrt.pdf)
 
 
 
