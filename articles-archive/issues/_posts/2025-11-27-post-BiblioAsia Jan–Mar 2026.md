@@ -29,10 +29,9 @@ Male double coconut trees in Singapore were able to fertilise female trees in Ha
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/">From Liguria to the Lion City: The Life and Times of Giovanni Gaggino </a><br>
-The remarkable story of an Italian merchant who once owned
-Pulau Bukom and authored an Italian-Malay dictionary in
-colonial Singapore. *Alex Foo*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Giovanni.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/">Playing It Cool: The Early History of Air Conditioning 
+in Singapore </a><br>
+The humble air conditioner first came to Singapore about 100 years ago. Cows were among its beneficiaries. *Fiona Williamson*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Giovannivrtberfq.pdf)
 
 
 
