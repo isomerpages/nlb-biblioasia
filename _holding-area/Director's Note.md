@@ -12,6 +12,15 @@ I used to love going to the movies and I remember eagerly turning to the newspap
 
 The double coconut palm is an endangered tree that produces the world’s heaviest – and also the world’s most suggestive-looking – fruit. Because it takes 25 to 40 years to reach sexual maturity, getting these trees to reproduce is a tall order. In fact, to fertilise a female double coconut tree in Honolulu in 2011, botanists in Singapore and Honolulu had to devise a way to transport pollen all the way from Singapore’s Botanic Gardens 11,000 km away. In his colourful Hawaiian shirt, Choo Ruizhi plays tour guide across history and geography.
 
-Bata is a household name and many of us would have grown up owning a pair of Bata shoes, especially for going to school. Bata may look like a local company but it was actually founded in a town that is now part of the Czech Republic. In the old days, the company would send Czechs to cities around the world to work in Bata stores, which is how Jan Beránek’s granduncle Silvestr Němec ended up in Singapore fighting the Japanese during the Second World War. 
+Bata is a household name and many of us would have grown up owning a pair of Bata shoes, especially for going to school. Bata may look like a local company but it was actually founded in a town that is now part of the Czech Republic. In the old days, the company would send Czechs to cities around the world to work in Bata stores, which is how Jan Beránek’s granduncle Silvestr Němec ended up in Singapore fighting the Japanese during the Second World War.&nbsp;
 
 These are just some of the exciting stories that you can find in this issue of _BiblioAsia_. Kick off your (Bata) shoes, turn on the air conditioning, grab a piña colada and enjoy!
+
+
+
+
+<div style="background-color: white;">
+<br>
+<img src="/images/vol-17-issue-3/Director.png" style="width: 100px; height: 100px;">
+<center><b>Alicia Yeo</b><br>Director<br>National Library, Singapore</center>
+</div>
