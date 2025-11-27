@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - Director's Note.md
       - Sample article.md
