@@ -19,8 +19,4 @@ These are just some of the exciting stories that you can find in this issue of _
 
 
 
-<div style="background-color: white;">
-<br>
-<img src="/images/vol-17-issue-3/Director.png" style="width: 100px; height: 100px;">
 <center><b>Alicia Yeo</b><br>Director<br>National Library, Singapore</center>
-</div>
