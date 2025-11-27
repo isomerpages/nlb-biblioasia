@@ -80,12 +80,12 @@ Simon Tay recounts how his Penang-born father came to play a giant role serving 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/">Remembering John Norman Miksic
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/">Remembering John Norman Miksic
 </a><br>
 The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79. *Kwa Chong Guan*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Excavating_the_Pasverbsdvt.pdf)
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/new-books-on-singapore-history/">New Books on Singapore History</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/">New Books on Singapore History</a><br>
 _Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya; Reimagining Singapore’s History: Essays on  
 Pre-Colonial Roots and Modern Identity;_ and _The Grand Mosque of Singapore: Two Centuries in the History of Masjid Sultan_ are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___NewBooghegrk.pdf)
