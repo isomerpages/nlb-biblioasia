@@ -16,7 +16,7 @@ variant: markdown
 Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls. *Alvin Tan* . [(PDF)](/files/pdf/Vol%2021/cinemare2.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">What You Didn’t Know About the Straits Times</a><br>
-The first fake news. The illegal postwar edition. Newsmen turned presidents. The <i>Straits Times</i> has had an interesting 180 years. *Irene Hoe* .[(PDF)](/files/pdf/Vol%2021/straits-times.pdf)
+The first fake news. The illegal postwar edition. Newsmen turned presidents. The <i>Straits Times</i> has had an interesting 180 years. *Irene Hoe* .[(PDF)](/files/pdf/Vol%2021/straits_times.pdf)
 
 
 
@@ -67,23 +67,23 @@ Pan-Electric Industries started out as Singapore’s fridge maker. However, its 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/">A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan </a><br>
 One of Singapore’s first women philanthropists, Mrs Lee, née Tan Teck Neo, supported a wide range of charities.
-*Yu-lin Ooi*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Dutch_Burgherhrt.pdf)
+*Yu-lin Ooi*.[(PDF)](/files/pdf/Vol%2021/philanthropist.pdf)
 
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/">How Tay Seow Huah Came to Be the First Spy Chief of Independent Singapore</a><br>
-Simon Tay recounts how his Penang-born father came to play a giant role serving a newly independent Singapore.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Excavating_the_Pasverbsdvt.pdf)
+Simon Tay recounts how his Penang-born father came to play a giant role serving a newly independent Singapore.[(PDF)](/files/pdf/Vol%2021/spy.pdf)
 
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/">Remembering John Norman Miksic
 </a><br>
-The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79. *Kwa Chong Guan*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Excavating_the_Pasverbsdvt.pdf)
+The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79. *Kwa Chong Guan*.[(PDF)](/files/pdf/Vol%2021/john-norman.pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/">New Books on Singapore History</a><br>
 _Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya; Reimagining Singapore’s History: Essays on  
-Pre-Colonial Roots and Modern Identity;_ and _The Grand Mosque of Singapore: Two Centuries in the History of Masjid Sultan_ are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___NewBooghegrk.pdf)
+Pre-Colonial Roots and Modern Identity;_ and _The Grand Mosque of Singapore: Two Centuries in the History of Masjid Sultan_ are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/philanthropist.pdf)
