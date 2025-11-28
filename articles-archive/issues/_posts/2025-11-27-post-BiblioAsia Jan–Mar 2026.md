@@ -23,7 +23,7 @@ The first fake news. The illegal postwar edition. Newsmen turned presidents. The
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/">Wandering Wood: The Transoceanic Pollination of the 
 Double Coconut </a><br>
-Male double coconut trees in Singapore were able to fertilise female trees in Hawaii, thanks to the efforts of resourceful, determined botanists. *Choo Ruizhi*.[(PDF)](/files/pdf/Vol%2021/straits-timesee.pdf)
+Male double coconut trees in Singapore were able to fertilise female trees in Hawaii, thanks to the efforts of resourceful, determined botanists. *Choo Ruizhi*.[(PDF)](/files/pdf/Vol%2021/double_coconut.pdf)
 
 
 
@@ -41,14 +41,14 @@ The Bata Shoe Company brought Czechs to Singapore before the war. Some of them e
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/">Please Fasten Your Seat Belts </a><br>
-How crash tests, mangled cars and grieving families drove Singapore’s battle to protect motorists’ lives. *Sharon Teng.*[(PDF)](/files/pdf/Vol%2021/seat-belts.pdf)
+How crash tests, mangled cars and grieving families drove Singapore’s battle to protect motorists’ lives. *Sharon Teng.*[(PDF)](/files/pdf/Vol%2021/seat_belts.pdf)
 
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/">We Do: Mass Weddings in Singapore </a><br>
 Initially inspired by the “New Life Movement” in China, couples in Singapore opted for mass weddings to save money. 
-*Seow Peck Ngiam and Benita Lim.*[(PDF)](/files/pdf/Vol%2021/mass-weddings.pdf)
+*Seow Peck Ngiam and Benita Lim.*[(PDF)](/files/pdf/Vol%2021/mass_weddings.pdf)
 
 
 
@@ -60,7 +60,7 @@ When influenza hit Singapore in 1918, many were sickened, hospitals were overwhe
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/">Fridge Maker Freezes Stock Market </a><br>
-Pan-Electric Industries started out as Singapore’s fridge maker. However, its aggressive expansion and questionable practices led to enormous debts that caused a three-day closure of the Singapore and Kuala Lumpur stock markets in 1985.  *Joanna Tan*.[(PDF)](/files/pdf/Vol%2021/stock-market.pdf)
+Pan-Electric Industries started out as Singapore’s fridge maker. However, its aggressive expansion and questionable practices led to enormous debts that caused a three-day closure of the Singapore and Kuala Lumpur stock markets in 1985.  *Joanna Tan*.[(PDF)](/files/pdf/Vol%2021/stock_market.pdf)
 
 
 
@@ -80,10 +80,10 @@ Simon Tay recounts how his Penang-born father came to play a giant role serving 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/">Remembering John Norman Miksic
 </a><br>
-The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79. *Kwa Chong Guan*.[(PDF)](/files/pdf/Vol%2021/john-norman.pdf)
+The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79. *Kwa Chong Guan*.[(PDF)](/files/pdf/Vol%2021/john_norman.pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/">New Books on Singapore History</a><br>
 _Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya; Reimagining Singapore’s History: Essays on  
-Pre-Colonial Roots and Modern Identity;_ and _The Grand Mosque of Singapore: Two Centuries in the History of Masjid Sultan_ are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/new-books.pdf)
+Pre-Colonial Roots and Modern Identity;_ and _The Grand Mosque of Singapore: Two Centuries in the History of Masjid Sultan_ are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/new_books.pdf)
