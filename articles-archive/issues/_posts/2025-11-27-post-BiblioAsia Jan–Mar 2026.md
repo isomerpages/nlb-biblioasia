@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Vol%2021%20Issue%203/ContentPage_Cover_213.png">
+<img src="/images/Vol%2021%20Issue%204/Biblio214_Cover.png">
 
 <a style="text-decoration: none; font-weight: bold;" href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-4/jan-mar-2026/director-s-note/">Director's Note</a><br>
 
