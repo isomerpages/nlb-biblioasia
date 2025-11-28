@@ -152,7 +152,7 @@ Today, the migration history of the Dutch Burghers is largely forgotten and only
 [^10]: “[Death Sentence in Johore Trial](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320802-1.2.63).” &nbsp;
 
 
-[^11]: “[I am Going to Kill My Father](file:///C:/Users/nlbnlms/Desktop/Santa_2025/Stephanie/2025/Oct-Dec 2025/I am Going to Kill My Father).”&nbsp;
+[^11]: “[I am Going to Kill My Father](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320714-1.2.63).”&nbsp;
 
 
 [^12]: “[Murderer Hanged](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321028-1.2.21),” _Straits Times_, 28 October 1932, 6. (From NewspaperSG)
