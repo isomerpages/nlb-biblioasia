@@ -94,7 +94,7 @@ It is difficult to ascertain the reception of the second edition. The publicatio
 
 #### **Gaggino and His Motherland**
 
-In the prefaces of both editions, Gaggino described himself as a proud Italian who had “never forgotten to promote the well-intended interests of his motherland in these distant countries”. Gaggino declared in the second edition: “We must emigrate if we wish to become independent and wealthy”. He added: “We need people with some commercial training, who know English at least”, as Italian labourers could not compete with local inhabitants who were industrious and inexpensive.[^31]
+In the prefaces of both editions, Gaggino described himself as a proud Italian who had “never forgotten to promote the well-intended interests of his motherland in these distant countries”. Gaggino declared in the second edition: “We must emigrate if we wish to become independent and wealthy.” He added: “We need people with some commercial training, who know English at least”, as Italian labourers could not compete with local inhabitants who were industrious and inexpensive.[^31]
 
 Gaggino was also concerned about Italy’s reliance on second-hand trade through colonial intermediaries and its commercial lag compared to other European powers. To circumvent these issues, he felt that an Italian trading presence was needed on the banks of the Yangtze in China. In 1898, Gaggino sailed up the famed river and stopped at various ports. He found English, French, German, Austrian and Belgian goods but “no matter how hard \[he\] searched everywhere, \[he\] found nothing of Italian origin”.[^32] Only in Yichang, Hubei province, did he come across a solitary bottle of Cinzano vermouth which he promptly purchased for five _lire_.[^33]
 
