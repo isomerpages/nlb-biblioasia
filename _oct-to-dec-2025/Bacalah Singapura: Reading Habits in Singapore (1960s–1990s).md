@@ -47,7 +47,7 @@ The IE survey approached reading as a socially embedded activity shaped by paren
 
 Concluding that little could be done about the home environment, the IE report focused on the role of schools. It emphasised that teachers needed to be readers themselves to effectively model reading habits, and recommended incorporating regular reading and book-related activities, like story dramatisations, into lessons.[^19]
 
-&nbsp;The IE survey also raised concerns about the time children spent watching television at the expense of reading, with 62 percent watching one to three hours daily and 21 percent exceeding three hours. Television emerged as the greatest competitor to reading because it functioned as a shared family activity that naturally drew children in and, unlike reading, could be enjoyed with little linguistic competence.[^20]
+The IE survey also raised concerns about the time children spent watching television at the expense of reading, with 62 percent watching one to three hours daily and 21 percent exceeding three hours. Television emerged as the greatest competitor to reading because it functioned as a shared family activity that naturally drew children in and, unlike reading, could be enjoyed with little linguistic competence.[^20]
 
 #### **Adult Readers, Lifelong Workers**
 
