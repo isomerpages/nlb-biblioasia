@@ -56,7 +56,7 @@ Edward Arnold Christoffelsz, for example, scored the highest batting average for
 Young Burghers were well aware that “a capable cricketer could always be sure of gaining employment out here with average intelligence”, and the _Morning Tribune_ concluded in 1938 that Burghers had “made a valuable contribution to the rapid progress of cricket” in British Malaya.[^15]
 
 ![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_cricket.jpg)
-<div style="background-color:white;">The Singapore Cricket Club, 1906. Young Burghers were well aware that “a capable cricketer could always be sure of gaining employment out here with average intelligence”. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore. </i></div>
+<div style="background-color:white;">The Singapore Cricket Club, 1906. Young Burghers were well aware that “a capable cricketer could always be sure of gaining employment out here with average intelligence”. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore (Media - Image no. 19980000432 -&nbsp;0016). </i></div>
 
 However, this sport-centred recruitment policy had its detractors and became a topic of debate in the _Straits Times_ following the scandal that led to the arrest of Christoffelsz in 1894. He excelled on the pitch but turned out to be a dishonest employee who embezzled government funds to holiday in Japan. The brazen young man was promptly arrested while travelling from Japan to Ceylon and sentenced to three years of rigorous imprisonment in the Singapore jail.[^16]
 
