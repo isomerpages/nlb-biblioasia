@@ -12,11 +12,11 @@ variant: markdown
 <a style="text-decoration: none; font-weight: bold;" href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-4/jan-mar-2026/director-s-note/">Director's Note</a><br>
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/">“A Century of Singapore’s Cinemas</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/">A Century of Singapore’s Cinemas</a><br>
 Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls. *Alvin Tan* . [(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Majulah_Singapura-4.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">“What You Didn’t Know About the Straits Times</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">What You Didn’t Know About the Straits Times</a><br>
 The first fake news. The illegal postwar edition. Newsmen turned presidents. The <i>Straits Times</i> has had an interesting 180 years. *Irene Hoe* .[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Interview-5.pdf)
 
 
