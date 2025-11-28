@@ -13,56 +13,54 @@ variant: markdown
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/">A Century of Singapore’s Cinemas</a><br>
-Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls. *Alvin Tan* . [(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Majulah_Singapura-4.pdf)
-
+Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls. *Alvin Tan* . [(PDF)](/files/pdf/Vol%2021/cinemare2.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">What You Didn’t Know About the Straits Times</a><br>
-The first fake news. The illegal postwar edition. Newsmen turned presidents. The <i>Straits Times</i> has had an interesting 180 years. *Irene Hoe* .[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Interview-5.pdf)
+The first fake news. The illegal postwar edition. Newsmen turned presidents. The <i>Straits Times</i> has had an interesting 180 years. *Irene Hoe* .[(PDF)](/files/pdf/Vol%2021/straits-times.pdf)
 
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/">Wandering Wood: The Transoceanic Pollination of the 
 Double Coconut </a><br>
-Male double coconut trees in Singapore were able to fertilise female trees in Hawaii, thanks to the efforts of resourceful, determined botanists. *Choo Ruizhi*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Women_Photographers-54tr.pdf)
-
+Male double coconut trees in Singapore were able to fertilise female trees in Hawaii, thanks to the efforts of resourceful, determined botanists. *Choo Ruizhi*.[(PDF)](/files/pdf/Vol%2021/straits-timesee.pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/">Playing It Cool: The Early History of Air Conditioning 
 in Singapore </a><br>
-The humble air conditioner first came to Singapore about 100 years ago. Cows were among its beneficiaries. *Fiona Williamson*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Giovannivrtberfq.pdf)
+The humble air conditioner first came to Singapore about 100 years ago. Cows were among its beneficiaries. *Fiona Williamson*.[(PDF)](/files/pdf/Vol%2021/airconre2.pdf)
 
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/">In Search of Silvestr </a><br>
-The Bata Shoe Company brought Czechs to Singapore before the war. Some of them ended up fighting the Japanese in 1942. *Jan Beránek.*[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Singapore_Time_Zone56tr.pdf)
+The Bata Shoe Company brought Czechs to Singapore before the war. Some of them ended up fighting the Japanese in 1942. *Jan Beránek.*[(PDF)](/files/pdf/Vol%2021/silvestrre2.pdf)
 
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/">Please Fasten Your Seat Belts </a><br>
-How crash tests, mangled cars and grieving families drove Singapore’s battle to protect motorists’ lives. *Sharon Teng.*[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Reading_Habitvter.pdf)
+How crash tests, mangled cars and grieving families drove Singapore’s battle to protect motorists’ lives. *Sharon Teng.*[(PDF)](/files/pdf/Vol%2021/seat-belts.pdf)
 
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/">We Do: Mass Weddings in Singapore </a><br>
 Initially inspired by the “New Life Movement” in China, couples in Singapore opted for mass weddings to save money. 
-*Seow Peck Ngiam and Benita Lim.*[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___House_of_Cheangg5hte.pdf)
+*Seow Peck Ngiam and Benita Lim.*[(PDF)](/files/pdf/Vol%2021/mass-weddings.pdf)
 
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/">The 1918 Influenza Pandemic in Singapore</a><br>
-When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.  *Sean Hoh*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Louis_de_Camoeshtrb.pdf)
+When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.  *Sean Hoh*.[(PDF)](/files/pdf/Vol%2021/influenza.pdf)
 
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/">Fridge Maker Freezes Stock Market </a><br>
-Pan-Electric Industries started out as Singapore’s fridge maker. However, its aggressive expansion and questionable practices led to enormous debts that caused a three-day closure of the Singapore and Kuala Lumpur stock markets in 1985.  *Joanna Tan*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Chung_Kwang_Tongb65htr.pdf)
+Pan-Electric Industries started out as Singapore’s fridge maker. However, its aggressive expansion and questionable practices led to enormous debts that caused a three-day closure of the Singapore and Kuala Lumpur stock markets in 1985.  *Joanna Tan*.[(PDF)](/files/pdf/Vol%2021/stock-market.pdf)
 
 
 
