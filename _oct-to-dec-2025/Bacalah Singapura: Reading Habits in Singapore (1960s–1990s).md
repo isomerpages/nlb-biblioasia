@@ -43,7 +43,7 @@ The IE survey approached reading as a socially embedded activity shaped by paren
 
 
 ![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_home.jpg)
-<div style="background-color:white;">The home environment plays an integral role in nurturing the reading habit from a young age, 1989. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no.: 19990001247 - 0090).</i></div>
+<div style="background-color:white;">The home environment plays an integral role in nurturing the reading habit from a young age, 1989. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19990001247 - 0090).</i></div>
 
 Concluding that little could be done about the home environment, the IE report focused on the role of schools. It emphasised that teachers needed to be readers themselves to effectively model reading habits, and recommended incorporating regular reading and book-related activities, like story dramatisations, into lessons.[^19]
 
