@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 3/Composer/HeroImage_Composer.jpg
       variant: center
   - infopic:
+      title: In Search of Silvestr
+      subtitle: People
+      id: infopic
+      description: Sparked by a box of old family documents, Jan Beránek embarked on
+        an eight-year quest that brought him from a small Czech village to
+        modern Singapore.
+      button: Finding Family
+      url: /vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/
+      image: /images/Online Only Articles/In Search of Silvestr/Silvestr_resized.jpg
+      alt: In Search of Silvestr
+  - infopic:
       title: Please Fasten Your Seat Belts
       subtitle: Governance
       id: infopic
@@ -517,17 +528,6 @@ sections:
       url: /podcast/peng-tsu-ying-singapore-pioneering-deaf-educator-nathaniel-chew/
       image: /images/Podcast/Nathaniel_Chew_web.jpg
       alt: Pioneering Deaf Educator
-  - infopic:
-      title: In Search of Silvestr
-      subtitle: People
-      id: infopic
-      description: Sparked by a box of old family documents, Jan Beránek embarked on
-        an eight-year quest that brought him from a small Czech village to
-        modern Singapore.
-      button: Finding Family
-      url: /vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/
-      image: /images/Online Only Articles/In Search of Silvestr/Silvestr_resized.jpg
-      alt: In Search of Silvestr
   - infopic:
       title: Remembering the Part-Time Libraries
       subtitle: Places and Buildings
