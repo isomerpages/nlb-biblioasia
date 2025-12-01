@@ -16,7 +16,7 @@ variant: markdown
 Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls. *Alvin Tan* . [(PDF)](/files/pdf/Vol%2021/cinemare2.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">What You Didn’t Know About the Straits Times</a><br>
-The first fake news. The illegal postwar edition. Newsmen turned presidents. The <i>Straits Times</i> has had an interesting 180 years. *Irene Hoe* .[(PDF)](/files/pdf/Vol%2021/straits_times.pdf)
+The first fake news. The illegal postwar edition. Newsmen turned presidents. The <i>Straits Times</i> has had an interesting 180 years. *Irene Hoe*. [(PDF)](/files/pdf/Vol%2021/straits_times.pdf)
 
 
 

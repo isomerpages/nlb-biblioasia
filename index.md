@@ -9,14 +9,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/
-      button: “Majulah Singapura” Finally Repaired the Breach
+      url: /vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/
+      button: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Composer/HeroImage_Composer.jpg
+      background: /images/Vol 21 Issue 3/Bacalah Singapura/HeroImage_BacalahSingapura2.jpg
       variant: center
+  - infopic:
+      title: In Search of Silvestr
+      subtitle: People
+      id: infopic
+      description: Sparked by a box of old family documents, Jan Beránek embarked on
+        an eight-year quest that brought him from a small Czech village to
+        modern Singapore.
+      button: Finding Family
+      url: /vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/
+      image: /images/Online Only Articles/In Search of Silvestr/Silvestr_resized.jpg
+      alt: In Search of Silvestr
   - infopic:
       title: Please Fasten Your Seat Belts
       subtitle: Governance
@@ -517,17 +528,6 @@ sections:
       url: /podcast/peng-tsu-ying-singapore-pioneering-deaf-educator-nathaniel-chew/
       image: /images/Podcast/Nathaniel_Chew_web.jpg
       alt: Pioneering Deaf Educator
-  - infopic:
-      title: In Search of Silvestr
-      subtitle: People
-      id: infopic
-      description: Sparked by a box of old family documents, Jan Beránek embarked on
-        an eight-year quest that brought him from a small Czech village to
-        modern Singapore.
-      button: Finding Family
-      url: /vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/
-      image: /images/Online Only Articles/In Search of Silvestr/Silvestr_resized.jpg
-      alt: In Search of Silvestr
   - infopic:
       title: Remembering the Part-Time Libraries
       subtitle: Places and Buildings
