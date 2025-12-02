@@ -22,7 +22,7 @@ Whampoa was born in the district of Whampoa (present-day Huangpu) in Canton (Gua
 <br>
 <img src="/images/Online%20Only%20Articles/Whampoa%20House/Hoo_Ah_Kay.jpg" style="width: 50%;">Portrait of Whampoa Hoo Ah Kay, c. 1850s. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980006437&nbsp;-&nbsp;0084).</i></div>
 
-Whampoa’s fortune grew through selling foodstuffs, including bread and baked goods from his Havelock Road bakery, as well as meat and vegetables. He also owned an ice house in Boat Quay that sold ice imported from America.[^2] In the era before refrigeration, ice was a necessary commodity for preserving perishables. Some Russian guests of Whampoa who once dined at his home marvelled at the cold water and beer served, which were kept cool by a system in Whampoa’s deep cellar that uses nitre, or saltpetre (potassium or sodium nitrate).[^3]
+Whampoa’s fortune grew through selling foodstuffs, including bread and baked goods from his Havelock Road bakery, as well as meat and vegetables. He also owned an ice house in Boat Quay that sold ice imported from America.[^2] In the era before refrigeration, ice was a necessary commodity for preserving perishables. Some Russian guests of Whampoa who once dined at his home marvelled at the cold water and beer served, which were kept cool by a system in Whampoa’s deep cellar that used nitre, or saltpetre (potassium or sodium nitrate).[^3]
 
 <div style="background-color: white;">
 <br>
