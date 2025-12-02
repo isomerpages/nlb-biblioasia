@@ -101,7 +101,7 @@ By the 1950s, Bendemeer had fallen into disrepair, with its once-magnificent gar
 
 #### **Notes**
 
-[^1]:  Song One Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923), 51. (From National Library Online)
+[^1]:  Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923), 51. (From National Library Online)
 
 [^2]:  Goh Lee Kim, “[A Cool Business: The History of Ice-Making in Singapore](https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/history-ice-making-singapore/),” _BiblioAsia_ 20, no. 2 (July–September 2024): 36–40; “[The ‘Ice House’ That Whampoa Built – A Key Landmark](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730309-1.2.46.1),” _New Nation_, 9 March 1973, 9. (From Newspaper)
 
