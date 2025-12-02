@@ -82,7 +82,7 @@ The gathering brought together Singapore’s colonial elite and numerous Chinese
 
 Entertainment included games such as clock golf, croquet, driving, and fishing and shooting competitions, with attractive prizes, while the 99th Deccans Band played music. The governor gave a speech of thanks, and in response, Seah congratulated him for selecting a day with the finest weather before his departure from Singapore.[^28]
 
-Among those that Seah invited to tea at Bendemeer was the English writer Mrs Florence Caddy, who toured the Far East aboard the Duke of Sutherland’s yacht, the _Sans Peur._ She described “dishes of curious confectionary, and all the fruits of the country arranged with flowers, ferns, and above all, roses”. The roses were particularly noteworthy as Singapore was too hot to grow them, requiring Seah to import fresh rose bushes every year from China.[^29]
+Among those that Seah invited to tea at Bendemeer was the English writer Mrs Florence Caddy, who toured the Far East aboard the Duke of Sutherland’s yacht, the _Sans Peur._ She described “dishes of curious confectionery, and all the fruits of the country arranged with flowers, ferns, and above all, roses”. The roses were particularly noteworthy as Singapore was too hot to grow them, requiring Seah to import fresh rose bushes every year from China.[^29]
 
 #### **Not All Roses**        
 
