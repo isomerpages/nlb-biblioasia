@@ -50,6 +50,18 @@ The tiger dance was introduced to Hainan from the Central Plains during the Ming
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tudi_gong.jpg" style="width: 80%;"> Tudi Gong (top) with multiple Huye (tiger deity) and Tian Gou (bottom left) and Hei Hu Jiang Jun (the tiger general, middle) at&nbsp;Poh Tiong Beo Temple in 2022. <i>Courtesy of Angela Sim</i></div>
 
+The effigies of Tu Di Gong and Tu Di Po and Huye (the tiger deity), or the tiger general (虎将军, Hu Jiang Jun, who falls under the tutelage of Tu Di Gong), are often seen together beneath the main altar of most Taoist temples, watching over and protecting the local community. The tiger dance dramatises the struggle between humans and tigers, showing how people use intelligence, skill and martial prowess to overcome these formidable creatures. Once the tiger is subdued, the dance celebrates the possibility of harmony, symbolising a balance between human courage and respect for nature.[^4]
+
+However, overshadowed by the popular Foshan, or Hoksan (鹤山) Cantonese Southern lions, the tiger dance subsequently faded into obscurity – and into Guang Wu’s storeroom.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guangwu_Hainan_tiger1.jpg" style="width: 80%;">The Guang Wu club’s Hainan tiger (left) and lion (right). <i>Courtesy of Low Jue Ming.</i></div>
+
+
+
+
+
   
 
 * * *
@@ -67,3 +79,5 @@ The tiger dance was introduced to Hainan from the Central Plains during the Ming
 [^2]:  Benjamin Henry Couch,&nbsp;[_Ling-Nam; or, Interior Views of Southern China, Including Explorations in the Hitherto Untraversed Island of Hainan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3199683) (London, S. W. Partridge and Co., 1886), 334. (From National Library Singapore, call no. 951.03 HEN)
 
 [^3]:  Raymond Foo, interview with author, 2024.
+
+[^4]:  Liu Mengxiao 刘梦晓 , “Sheng ji fei wuzhi wenhua yichan hainan hu wu: Hu wu sheng wei sanbai nian” 省级非物质文化遗产海南虎舞：虎舞生威三百年 &nbsp;\[Hainan Tiger Dance, a provincial-level intangible cultural heritage: The majestic tiger dance has been performed for three hundred years\], 人民网, 13 July 2020, [http://hi.people.com.cn/n2/2020/0713/c231190-34151945.html](http://hi.people.com.cn/n2/2020/0713/c231190-34151945.html)
