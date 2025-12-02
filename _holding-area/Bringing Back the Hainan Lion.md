@@ -120,7 +120,9 @@ Conch shells, much like the horn trumpet or bugle, have been used in China as fa
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo1.jpg" style="width: 80%;">Raymond Foo made the traditional tempo of the percussions more upbeat. <i>Courtesy of Low Jue Ming.</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo_blows_conch_shell1.jpg" style="width: 80%;">Raymond Foo blows into the conch shell to signal the start of the Hainan lion dance. <i>Courtesy of Low Jue Ming.</i></div>
+
+Specific weapons are also used during the Hainan lion dance for routines such as 单刀破狮 (_dandao po shi),_双刀破狮 (_shuangdao po shi),_关刀破狮 (_guandao po shi),_棍棒破狮 (_gunbang po shi),_ 板凳破狮 (_bandeng po shi),_ and 盾牌破狮 (_dunpai po shi)_. The broad sword (关刀, _guandao_) is noteworthy as it represents Lady Xian’s fight for equality, social stability and better lives for the clansmen. Each weapon-based sequence is carefully choreographed to showcase both&nbsp;**combat skill**&nbsp;and&nbsp;**dramatic flair****,** adding an intense, theatrical dimension to the Hainan lion dance routines. Each routine allows the performers to demonstrate&nbsp;**strength, timing, coordination and martial aesthetics****,** making the Hainan lion dance uniquely vigorous and expressive compared to other regional lion dance forms in Guangxi, Fujian and Chaozhou. For instance, in **棍棒破****狮** **(_gunbang po shi_, or “staff versus lion”),** a&nbsp;**staff or cudgel**&nbsp;is used to challenge the lion, showcasing the quick reflexes and precise control of the performer.
 
   
 
@@ -173,3 +175,5 @@ Conch shells, much like the horn trumpet or bugle, have been used in China as fa
 [^13]:  Prakriti Anand,&nbsp;“What is a Conch Shell? History, Meaning &amp; Uses in Hinduism and Buddhism,” Exotic India,&nbsp; 22 October 2021,[https://www.exoticindiaart.com/article/the-conch-shell-or-the-shankha/](https://www.exoticindiaart.com/article/the-conch-shell-or-the-shankha/).
 
 [^14]:  “Conch Shell in Buddhism,”&nbsp; Tibetan Buddhist Encyclopedia, last updated 6 January 2024, [https://tibetanbuddhistencyclopedia.com/en/index.php/Conch\_Shell\_in\_Buddhism](https://tibetanbuddhistencyclopedia.com/en/index.php/Conch_Shell_in_Buddhism).; Raymond Foo, interview with author, 2024.
+
+[^15]:  Raymond Foo, interview with author, 2024.
