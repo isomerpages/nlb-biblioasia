@@ -12,4 +12,4 @@ When martial artist and lion dance master Raymond Foo, the head of 光武国术�
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tiger_cape.jpg" style="width: 80%;">Lim Yee Hung in the HiddenSG office. <i>Photo by Ruth Wee.</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tiger_cape.jpg" style="width: 80%;">Detail of the Hainan tiger cape found in the storeroom of Guang Wu Club. <i>Courtesy of Low Jue Ming.</i></div>
