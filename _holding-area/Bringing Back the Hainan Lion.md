@@ -114,17 +114,17 @@ Besides enhancing the design of the Hainan lion, Foo also sought to improve the 
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo1.jpg" style="width: 80%;">Raymond Foo made the traditional tempo of the percussions more upbeat. <i>Courtesy of Low Jue Ming.</i></div>
 
+Both the Hainan lion and tiger dances begin with the _shifu_ or trained senior troupe member blowing into a conch shell.[^12] This heralds the start of the performance, representing 冲天 (_chongtian_), or soaring to the heavens, a metaphor for great ambitions or achievements. The sound of the conch is also believed to purify the space and dispel negativity, creating a positive and auspicious environment for the performance.
 
+Conch shells, much like the horn trumpet or bugle, have been used in China as far back as 1000 BCE[^13] for military signals, religious assemblies, funeral rites as well as a tool for relaying messages. It is also considered spiritual.[^14] According to Foo, blowing the conch takes “skill and practice… Getting the right sound can also be tricky, but once you master the technique, the buzzing vibration from your lips is magnified by the shell, creating a powerful, resonant tone, much like playing a bugle”.[^15]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo1.jpg" style="width: 80%;">Raymond Foo made the traditional tempo of the percussions more upbeat. <i>Courtesy of Low Jue Ming.</i></div>
 
   
 
-* * *
 
-
-
-  
-
-* * *
 
 
   
@@ -167,3 +167,9 @@ Besides enhancing the design of the Hainan lion, Foo also sought to improve the 
 [^10]:  Raymond Foo, interview with author, 2024.
 
 [^11]:  Raymond Foo, interview with author, 2024.
+
+[^12]:  Chen Aiwei 陈爱薇 , &nbsp;“Cankao hainan hu duchuang hainan shī huxiao shī cheng” 参考海南虎 独创海南狮呼啸狮城, \[Inspired by the Hainan Tiger, the unique Hainan Lion Roars Over the Lion City\] 联合早报 _Lianhe Zaobao_, 19 February 2023, [https://www.zaobao.com.sg/lifestyle/culture/story20230219-1364575](https://www.zaobao.com.sg/lifestyle/culture/story20230219-1364575).
+
+[^13]:  Prakriti Anand,&nbsp;“What is a Conch Shell? History, Meaning &amp; Uses in Hinduism and Buddhism,” Exotic India,&nbsp; 22 October 2021,[https://www.exoticindiaart.com/article/the-conch-shell-or-the-shankha/](https://www.exoticindiaart.com/article/the-conch-shell-or-the-shankha/).
+
+[^14]:  “Conch Shell in Buddhism,”&nbsp; Tibetan Buddhist Encyclopedia, last updated 6 January 2024, [https://tibetanbuddhistencyclopedia.com/en/index.php/Conch\_Shell\_in\_Buddhism](https://tibetanbuddhistencyclopedia.com/en/index.php/Conch_Shell_in_Buddhism).; Raymond Foo, interview with author, 2024.
