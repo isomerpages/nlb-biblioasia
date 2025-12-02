@@ -107,6 +107,21 @@ Undeterred (and thanks to a sponsorship in 2022), Foo ordered a Hainan lion from
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/close_up1.jpg" style="width: 60%;">A close-up of the Hainan lion cape. <i>Courtesy of Low Jue Ming.</i></div>
 
 #### **Hainan Lion Dance Performance**
+
+Besides enhancing the design of the Hainan lion, Foo also sought to improve the accompanying percussion of the dance. He acknowledged that “each lion troupe has a different drum method” and he “incorporated the drumbeats of the Hainan tiger \[dance\] as well as the Foshan lion \[dance\]” into the Hainan lion drumbeats, resulting in the three-star, five-star and seven-star drumming methods \[三星 (_sanxing)_，五星鼓法 (_wuxinggufa)_，七星斗等 (_qi xingdou deng_).[^11] These drumming sequences dictate the lion’s choreography, indicating when it should leap, bow or shake its head. The changes introduced by Foo made the lion’s movements more fluid and flexible.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo1.jpg" style="width: 60%;">Raymond Foo made the traditional tempo of the percussions more upbeat. <i>Courtesy of Low Jue Ming.</i></div>
+
+
+
+  
+
+* * *
+
+
+
   
 
 * * *
@@ -150,3 +165,5 @@ Undeterred (and thanks to a sponsorship in 2022), Foo ordered a Hainan lion from
 [^9]:  Raymond Foo, interview with author, 2024.
 
 [^10]:  Raymond Foo, interview with author, 2024.
+
+[^11]:  Raymond Foo, interview with author, 2024.
