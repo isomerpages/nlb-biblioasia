@@ -65,6 +65,46 @@ In the early 1950s, Guang Wu Club hired Feng Anbang (冯安邦) as a martial art
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Feng_Anbang1.jpg" style="width: 80%;">Feng Anbang as the head of the Hainan lion (right), 1961. <i>Courtesy of Guang Wu Club.</i></div>
+
+Feng synthesised elements of the Hainan tiger dance with the performance techniques of the Southern (Foshan) lion dance for the movements of the Hainan lion. These movements are more aggressive, unlike the Southern lion which has a more docile and cuter demeanor.&nbsp; Guang Wu’s distinctive Hainan lion dance was based on referencing its archival black-and-white photographs and the oral testimonies of its senior practitioners, along with steps from the Hainan tiger dance. In 1958, Feng commissioned a lion head which was made in Malacca, Malaysia, which he brought back to Singapore. Three years later, in 1961, the Guang Wu Club commissioned another Hainan lion. In 1967, at the first National Martial Arts Performance Competition hosted by the People's Association, Guang Wu performed their routine, 三叉大扒镇狮 (_sancha da ba zhen shi_) with the two Hainan lions, which was their last public performance until 2016.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lions_competition.jpg" style="width: 80%;">The Hainan lions at the first National Martial Arts Performance Competition hosted by the People’s Association, 1961. <i>Courtesy of Guang Wu Club.</i></div>
+
+Guang Wu’s Hainan lion and the Foshan lion from Guangdong share a historical lineage, with Guang Wu’s lions hailing from a specific branch of the Qiongzhou tradition known for features such as the lion’s facial features, expressive gestures and footwork. The Arhat (big-headed Buddha) similarly shares a historical lineage with the Guang Wu lions via Qiongzhou. The Hainan lion’s head is designed in the likeness of an Arhat (a big-headed Buddha), with a prominent mouth and fangs that convey strength and grandeur – traits associated with the Arhat as a guardian figure. The Hainan lion is made from materials such as sandpaper, bamboo, rabbit fur and horsehair, and features tiger stripes, colourful pom-poms and Tang-style motifs (such as swirling cloud patterns, vegetal motifs, stylised florals and geometric outlines). While its eyes and overall form might differ, most elements are consistent with the Southern lions, reflecting shared design traditions and motifs reminiscent of Guangdong and Fujian artistic heritage.[^6]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/early_Hainan_lion1.jpg" style="width: 80%;">An early Hainan lion, c.1950s. <i>Courtesy of Raymond Foo.</i></div>
+
+According to a senior Guang Wu member, the heads of the first-generation Hainan lions were made of layers of paper pasted together using pig’s blood, which made them very heavy, each weighing about 10 kg.&nbsp; “The first-generation Hainan lion had a large round head and face \[and was\] much heavier than the average Southern lion,” said Foo. “This larger head is not easy to control, and it \[was\] quite difficult to dance \[with\]”.[^7]
+
+Like the Hainan tiger, the Hainan lion also had a relatively flat head. Compared with Southern lions, which were smaller, sharper and more delicate, the Hainan ones were seen less attractive due to their bulbous head, huge centrally positioned eyes and a big nose.&nbsp;
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guangwu_dance_troupe1.jpg" style="width: 80%;">Guang Wu lion dance troupe, 1958s. <i>Courtesy of Raymond Foo.</i></div>
+
+Foo also said that a key difference between the Hainan and Southern lions is that “\[Hainan lions have\] no horn on \[their heads\] …&nbsp; and \[their\] eyes are more centred \[in the middle of their faces\]”.[^8] But the body structure of the Hainan lion was similar to that of the Southern lion, taking inspiration from the distinctive visual traits of Guangdong’s stone-carved lions: &nbsp;upright ears, a pronounced forehead, fierce eyes, a prominent nose and an upturned mouth. The Hainan lion’s nose is positioned in the centre of head when viewed from the front and resembled a garlic bulb, which is why craftsmen often refer to it as the “garlic bulb nose”.[^9]
+
+  
+
+* * *
+
+
+
+  
+
+* * *
+
+
+  
+
+
+
+
+
   
 
 
@@ -86,3 +126,11 @@ In the early 1950s, Guang Wu Club hired Feng Anbang (冯安邦) as a martial art
 [^4]:  Liu Mengxiao 刘梦晓 , “Sheng ji fei wuzhi wenhua yichan hainan hu wu: Hu wu sheng wei sanbai nian” 省级非物质文化遗产海南虎舞：虎舞生威三百年 &nbsp;\[Hainan Tiger Dance, a provincial-level intangible cultural heritage: The majestic tiger dance has been performed for three hundred years\], 人民网, 13 July 2020, [http://hi.people.com.cn/n2/2020/0713/c231190-34151945.html](http://hi.people.com.cn/n2/2020/0713/c231190-34151945.html)
 
 [^5]:  Raymond Foo, interview with author, 2024.
+
+[^6]:  Daniel H. M. Chan, “Chinese Lion Dance: The Development of a Traditional Performance Art,” _Asian Folklore Studies_ 54, no. 1 (1995): 35–58.; Wong Siu-fai 黃少輝, _Zhongguo wushi_ 中國舞獅 \[Chinese lion dance\] (Hong Kong: Joint Publishing, 1990); Xiao Mei 肖梅, _Hainan minsu wenhua_ 海南民俗文化 \[Hainan folk culture\] (Haikou: Hainan Publishing House, 2008).
+
+[^7]:  Raymond Foo, interview with author, 2024.
+
+[^8]:  Raymond Foo, interview with author, 2024.
+
+[^9]:  Raymond Foo, interview with author, 2024.
