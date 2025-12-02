@@ -88,18 +88,19 @@ Like the Hainan tiger, the Hainan lion also had a relatively flat head. Compared
 
 Foo also said that a key difference between the Hainan and Southern lions is that “\[Hainan lions have\] no horn on \[their heads\] …&nbsp; and \[their\] eyes are more centred \[in the middle of their faces\]”.[^8] But the body structure of the Hainan lion was similar to that of the Southern lion, taking inspiration from the distinctive visual traits of Guangdong’s stone-carved lions: &nbsp;upright ears, a pronounced forehead, fierce eyes, a prominent nose and an upturned mouth. The Hainan lion’s nose is positioned in the centre of head when viewed from the front and resembled a garlic bulb, which is why craftsmen often refer to it as the “garlic bulb nose”.[^9]
 
+#### **New Hainan Lions**
+
+Based on old photographs, Foo asked a master to recreate four Hainan lions. After a few performances, however, the Hainan lions failed to gain any traction. Foo believed that the lions’ movements were not domineering and powerful enough, and that the Guang Wu dance troupe needed more time to hone their skills. Those four lions were eventually put to rest.
+
+Undeterred (and thanks to a sponsorship in 2022), Foo ordered a Hainan lion from Lai Holin (黎贺年), a Malaysian master from Long Xin Dragon and Lion Dance troupe (马来西亚龍芯武术龙狮团) in Kuala Lumpur. Unlike the earlier lions, this Hainan lion's eyes faced forward, and appeared bright and energetic. Its hair was made of stiffer horsetail hair giving it a more imposing look. Like its predecessors, the lion did not have a horn on its head. &nbsp;Although it was much lighter at 5 kg, with the head weighing about 3 kg, it was still challenging for the Guang Wu lion dancers to carry out deft manoeuvres such as balancing on high poles. However, they “still aim\[ed\] to incorporate \[the\] traditional aspects \[of Hainan lion dance\] to pass down the culture and heritage of this folk art form \[to the next generation\]”.[^10]
+
   
 
 * * *
 
 
-
   
 
-* * *
-
-
-  
 
 
 
@@ -134,3 +135,5 @@ Foo also said that a key difference between the Hainan and Southern lions is tha
 [^8]:  Raymond Foo, interview with author, 2024.
 
 [^9]:  Raymond Foo, interview with author, 2024.
+
+[^10]:  Raymond Foo, interview with author, 2024.
