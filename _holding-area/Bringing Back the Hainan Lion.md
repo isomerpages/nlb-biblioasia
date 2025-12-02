@@ -124,6 +124,10 @@ Conch shells, much like the horn trumpet or bugle, have been used in China as fa
 
 Specific weapons are also used during the Hainan lion dance for routines such as 单刀破狮 (<i>dandao po shi</i>), 双刀破狮 (<i>shuangdao po shi),</i> 关刀破狮 (<i>guandao po shi),</i> 棍棒破狮 (<i>gunbang po shi),</i>  板凳破狮 (<i>bandeng po shi),</i>  and 盾牌破狮 (<i>dunpai po shi)</i>. The broad sword (关刀, <i>guandao</i>) is noteworthy as it represents Lady Xian’s fight for equality, social stability and better lives for the clansmen. Each weapon-based sequence is carefully choreographed to showcase both&nbsp; <b>combat skill</b>; <b>dramatic flair</b>, adding an intense, theatrical dimension to the Hainan lion dance routines. Each routine allows the performers to demonstrate&nbsp; <b>strength, timing, coordination and martial aesthetics</b>, making the Hainan lion dance uniquely vigorous and expressive compared to other regional lion dance forms in Guangxi, Fujian and Chaozhou. For instance, in <b>棍棒破狮</b>(<i>gunbang po shi</i>, or “staff versus lion”), a&nbsp;<b>staff or cudgel</b>&nbsp;is used to challenge the lion, showcasing the quick reflexes and precise control of the performer.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo_wielding_sabres1.jpg" style="width: 80%;">Raymond Foo wielding the 双刀 (<i>shuangdao</i>). <i>Courtesy of Low Jue Ming.</i></div>
+
   
 
 
