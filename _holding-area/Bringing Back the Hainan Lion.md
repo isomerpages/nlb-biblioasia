@@ -94,6 +94,19 @@ Based on old photographs, Foo asked a master to recreate four Hainan lions. Afte
 
 Undeterred (and thanks to a sponsorship in 2022), Foo ordered a Hainan lion from Lai Holin (黎贺年), a Malaysian master from Long Xin Dragon and Lion Dance troupe (马来西亚龍芯武术龙狮团) in Kuala Lumpur. Unlike the earlier lions, this Hainan lion's eyes faced forward, and appeared bright and energetic. Its hair was made of stiffer horsetail hair giving it a more imposing look. Like its predecessors, the lion did not have a horn on its head. &nbsp;Although it was much lighter at 5 kg, with the head weighing about 3 kg, it was still challenging for the Guang Wu lion dancers to carry out deft manoeuvres such as balancing on high poles. However, they “still aim\[ed\] to incorporate \[the\] traditional aspects \[of Hainan lion dance\] to pass down the culture and heritage of this folk art form \[to the next generation\]”.[^10]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Lai_Holin_Hainan_Lion1.jpg" style="width: 60%;">The Hainan lion made by Lai Holin in Kuala Lumpur. Hainan lions have no horn. <i>Courtesy of Angela Sim</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lion_eye_details1.jpg" style="width: 60%;">Hainan lions have flatter faces compared to their Southern cousins. <i>Courtesy of Low Jue Ming.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/close_up1.jpg" style="width: 60%;">A close-up of the Hainan lion cape. <i>Courtesy of Low Jue Ming.</i></div>
+
+#### **Hainan Lion Dance Performance**
   
 
 * * *
