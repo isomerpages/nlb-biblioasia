@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 #### **Due to development and urbanisation, Lim Boon Keng’s last home at Paterson Hill no longer exists today.**
-By Patrica Lin
+By Patricia Lin
 
 Lim Boon Keng (1869–1957) was undoubtedly one of the most iconic figures in the history of Singapore and a prominent member of the Straits Chinese community. From his youth in the 1880s until the end of World War II, his fame as a scholar, physician, social reformer and legislator had earned him a place in history as the “Grand Old Man of Singapore”, or on other occasions, “Sage of Singapore”.[^1]
 
@@ -80,7 +80,7 @@ In all likelihood, the “gift” had been made by Tan Chay Yan’s wife, Chua W
 
 #### **Matriarch of the Mansion**
 
-Aside for a period in 1942 when Lim and his wife were interned in a concentration camp on Arab Street during the Japanese Occupation of Singapore (1942–45), the man who came to be known as “the Grand Old Man”, or “the Sage of Singapore”, would spend the remaining years of his life in the mansion with the attap roof surrounded by his kampong as its “Sen-si kung” (“venerable sage”).[^15]
+Aside from a period in 1942 when Lim and his wife were interned in a concentration camp on Arab Street during the Japanese Occupation of Singapore (1942–45), the man who came to be known as “the Grand Old Man”, or “the Sage of Singapore”, would spend the remaining years of his life in the mansion with the attap roof surrounded by his kampong as its “Sen-si kung” (“venerable sage”).[^15]
 
 Despite the reverence and respect accorded to him, family and former residents of the mansion and surrounding kampong recall that it was Mrs Lim Boon Keng who quietly presided over the often chaotic and unorthodox household. Over the years, 1 Paterson Hill became something of a halfway house for various progenies or relatives in need of temporary lodgings before they moved to more permanent places of domicile.[^16]
 
