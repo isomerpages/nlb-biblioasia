@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 #### **Due to development and urbanisation, Lim Boon Keng’s last home at Paterson Hill no longer exists today.**
-By Patrica Lin
+By Patricia Lin
 
 Lim Boon Keng (1869–1957) was undoubtedly one of the most iconic figures in the history of Singapore and a prominent member of the Straits Chinese community. From his youth in the 1880s until the end of World War II, his fame as a scholar, physician, social reformer and legislator had earned him a place in history as the “Grand Old Man of Singapore”, or on other occasions, “Sage of Singapore”.[^1]
 
@@ -80,7 +80,7 @@ In all likelihood, the “gift” had been made by Tan Chay Yan’s wife, Chua W
 
 #### **Matriarch of the Mansion**
 
-Aside for a period in 1942 when Lim and his wife were interned in a concentration camp on Arab Street during the Japanese Occupation of Singapore (1942–45), the man who came to be known as “the Grand Old Man”, or “the Sage of Singapore”, would spend the remaining years of his life in the mansion with the attap roof surrounded by his kampong as its “Sen-si kung” (“venerable sage”).[^15]
+Aside from a period in 1942 when Lim and his wife were interned in a concentration camp on Arab Street during the Japanese Occupation of Singapore (1942–45), the man who came to be known as “the Grand Old Man”, or “the Sage of Singapore”, would spend the remaining years of his life in the mansion with the attap roof surrounded by his kampong as its “Sen-si kung” (“venerable sage”).[^15]
 
 Despite the reverence and respect accorded to him, family and former residents of the mansion and surrounding kampong recall that it was Mrs Lim Boon Keng who quietly presided over the often chaotic and unorthodox household. Over the years, 1 Paterson Hill became something of a halfway house for various progenies or relatives in need of temporary lodgings before they moved to more permanent places of domicile.[^16]
 
@@ -92,7 +92,7 @@ Lim, as his grandson Lim Kok Lian recalls, lived the life not unlike any other r
 
 Several times during the week, and accompanied by his grandson, Lim would be driven in his Humpback Dodge by a Malay chauffeur to the City Club on Cecil Street. His grandson’s role was to help him in and out of the car, and ride the antiquated lift up to the second floor of the club where he would spend the day reading the daily papers and various periodicals, meet with old friends over lunch and then nap before being taken home.[^18]
 
-With her husband at the City Club, which served as his daycare centre, Mrs Lim had free reign to oversee the running of the mansion and kampong residents as well as engage in the numerous charities and organisations to which she belonged. She supervised the collection of rents, and managed the wages and chores of the various servants, gardeners and handymen.&nbsp; She not only oversaw the health and well-being of her immediate family members, but also that of the children and families who were part of the kampong, going as far as to ensure that their schooling needs are met and arranging for jobs and suitable marriages as they grew up. In effect, Mrs Lim was the kampong’s affectionately remembered châtelaine (mistress of a large household).[^19]
+With her husband at the City Club, which served as his daycare centre, Mrs Lim had free reign to oversee the running of the mansion and kampong residents as well as engage in the numerous charities and organisations to which she belonged. She supervised the collection of rents, and managed the wages and chores of the various servants, gardeners and handymen.&nbsp; She not only oversaw the health and well-being of her immediate family members, but also that of the children and families who were part of the kampong, going as far as to ensure that their schooling needs were met and arranging for jobs and suitable marriages as they grew up. In effect, Mrs Lim was the kampong’s affectionately remembered châtelaine (mistress of a large household).[^19]
 
 <div style="background-color: white;">
 <br>
@@ -102,7 +102,7 @@ With her husband at the City Club, which served as his daycare centre, Mrs Lim h
 
 Over time, the old building with its labyrinth of dark corridors and numerous rooms began to show signs of deterioration. Built on a gradient, the mansion had a split-level section nearer the lower end of the incline.
 
-“The walls on the upper floor were of wood whilst those on the ground floor were of concrete,” said Chong Joo Beng. Over the years, the concrete walls of the ground floor that were painted with a limestone-based whitewash had become cracked, flaky and peeling. Likewise, the putty-like paint used to coat and weather-proof the wooden doors, windows and support beams suffered the same fate due to exposure to the elements and age. The upper storied wood structures were painted brown, while the lower parts were white-washed.”[^20]
+“The walls on the upper floor were of wood whilst those on the ground floor were of concrete,” said Chong Joo Beng. Over the years, the concrete walls of the ground floor that were painted with a limestone-based whitewash had become cracked, flaky and peeling. Likewise, the putty-like paint used to coat and weather-proof the wooden doors, windows and support beams suffered the same fate due to exposure to the elements and age. The upper-storey wood structures were painted brown, while the lower parts were white-washed.”[^20]
 
 As sections of the attap roof disintegrated, the holes were patched haphazardly with corrugated zinc sheets. The whole property was edged by expanses of waist-high lalang, and huge trees partially obscured the house from the street.[^21]&nbsp; Nevertheless, it was home for Lim in his last years where his clan came to celebrate his birthdays and pay their respects during the Lunar New Year.
 

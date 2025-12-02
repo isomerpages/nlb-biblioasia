@@ -22,7 +22,7 @@ Whampoa was born in the district of Whampoa (present-day Huangpu) in Canton (Gua
 <br>
 <img src="/images/Online%20Only%20Articles/Whampoa%20House/Hoo_Ah_Kay.jpg" style="width: 50%;">Portrait of Whampoa Hoo Ah Kay, c. 1850s. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980006437&nbsp;-&nbsp;0084).</i></div>
 
-Whampoa’s fortune grew through selling foodstuffs, including bread and baked goods from his Havelock Road bakery, as well as meat and vegetables. He also owned an ice house in Boat Quay that sold ice imported from America.[^2] In the era before refrigeration, ice was a necessary commodity for preserving perishables. Some Russian guests of Whampoa who once dined at his home marvelled at the cold water and beer served, which were kept cool by a system in Whampoa’s deep cellar that uses nitre, or saltpetre (potassium or sodium nitrate).[^3]
+Whampoa’s fortune grew through selling foodstuffs, including bread and baked goods from his Havelock Road bakery, as well as meat and vegetables. He also owned an ice house in Boat Quay that sold ice imported from America.[^2] In the era before refrigeration, ice was a necessary commodity for preserving perishables. Some Russian guests of Whampoa who once dined at his home marvelled at the cold water and beer served, which were kept cool by a system in Whampoa’s deep cellar that used nitre, or saltpetre (potassium or sodium nitrate).[^3]
 
 <div style="background-color: white;">
 <br>
@@ -82,7 +82,7 @@ The gathering brought together Singapore’s colonial elite and numerous Chinese
 
 Entertainment included games such as clock golf, croquet, driving, and fishing and shooting competitions, with attractive prizes, while the 99th Deccans Band played music. The governor gave a speech of thanks, and in response, Seah congratulated him for selecting a day with the finest weather before his departure from Singapore.[^28]
 
-Among those that Seah invited to tea at Bendemeer was the English writer Mrs Florence Caddy, who toured the Far East aboard the Duke of Sutherland’s yacht, the _Sans Peur._ She described “dishes of curious confectionary, and all the fruits of the country arranged with flowers, ferns, and above all, roses”. The roses were particularly noteworthy as Singapore was too hot to grow them, requiring Seah to import fresh rose bushes every year from China.[^29]
+Among those that Seah invited to tea at Bendemeer was the English writer Mrs Florence Caddy, who toured the Far East aboard the Duke of Sutherland’s yacht, the _Sans Peur._ She described “dishes of curious confectionery, and all the fruits of the country arranged with flowers, ferns, and above all, roses”. The roses were particularly noteworthy as Singapore was too hot to grow them, requiring Seah to import fresh rose bushes every year from China.[^29]
 
 #### **Not All Roses**        
 
@@ -101,7 +101,7 @@ By the 1950s, Bendemeer had fallen into disrepair, with its once-magnificent gar
 
 #### **Notes**
 
-[^1]:  Song One Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923), 51. (From National Library Online)
+[^1]:  Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923), 51. (From National Library Online)
 
 [^2]:  Goh Lee Kim, “[A Cool Business: The History of Ice-Making in Singapore](https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/history-ice-making-singapore/),” _BiblioAsia_ 20, no. 2 (July–September 2024): 36–40; “[The ‘Ice House’ That Whampoa Built – A Key Landmark](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730309-1.2.46.1),” _New Nation_, 9 March 1973, 9. (From Newspaper)
 
