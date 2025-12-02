@@ -62,15 +62,12 @@ However, overshadowed by the popular Foshan, or Hoksan (鹤山) Cantonese Southe
 
 In the early 1950s, Guang Wu Club hired Feng Anbang (冯安邦) as a martial arts and lion dance coach in an attempt to revive the Hainan lion dance, which, due to difficulties in dance stances and construction of the lion’s head, had not been widely performed. Guang Wu martial arts elder Lin Youhe (林猷和师傅) remembered watching a Hainan lion performance only once in his life – in 1941, when he was seven. This was also the last known performance of the Hainan lion dance in Singapore. &nbsp;The Hainan lion performers from the Nanmei Association (南梅同乡会), who were trained by Qiongzhou master Lin Hongyi (琼州拳师林鸿仪), had performed at a national salvation and relief event organised by the Chinese community in Singapore in support of the Second Sino-Japanese War (1937-45).[^5]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Feng_Anbang1.jpg" style="width: 80%;">Feng Anbang as the head of the Hainan lion (right), 1961. <i>Courtesy of Guang Wu Club.</i></div>
   
 
-* * *
 
-
-
-  
-
-* * *
 
 
 
