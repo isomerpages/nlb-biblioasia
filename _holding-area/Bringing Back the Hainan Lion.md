@@ -112,7 +112,7 @@ Besides enhancing the design of the Hainan lion, Foo also sought to improve the 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo1.jpg" style="width: 60%;">Raymond Foo made the traditional tempo of the percussions more upbeat. <i>Courtesy of Low Jue Ming.</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo1.jpg" style="width: 80%;">Raymond Foo made the traditional tempo of the percussions more upbeat. <i>Courtesy of Low Jue Ming.</i></div>
 
 
 
