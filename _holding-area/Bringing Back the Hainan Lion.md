@@ -24,4 +24,4 @@ When Foo saw the full Hainan tiger at Luowu Village, he was astonished that it b
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tiger_cape.jpg" style="width: 80%;">     A Hainan tiger dance costume in Sanjiang Town, 2016. <i>Courtesy of Raymond Foo.</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_tiger_dance.jpg" style="width: 80%;">     A Hainan tiger dance costume in Sanjiang Town, 2016. <i>Courtesy of Raymond Foo.</i></div>
