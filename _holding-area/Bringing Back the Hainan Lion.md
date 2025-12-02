@@ -70,7 +70,7 @@ Feng synthesised elements of the Hainan tiger dance with the performance techniq
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lions_competition.jpg" style="width: 80%;">The Hainan lions at the first National Martial Arts Performance Competition hosted by the People’s Association, 1961. <i>Courtesy of Guang Wu Club.</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lions_competition1.jpg" style="width: 80%;">The Hainan lions at the first National Martial Arts Performance Competition hosted by the People’s Association, 1961. <i>Courtesy of Guang Wu Club.</i></div>
 
 Guang Wu’s Hainan lion and the Foshan lion from Guangdong share a historical lineage, with Guang Wu’s lions hailing from a specific branch of the Qiongzhou tradition known for features such as the lion’s facial features, expressive gestures and footwork. The Arhat (big-headed Buddha) similarly shares a historical lineage with the Guang Wu lions via Qiongzhou. The Hainan lion’s head is designed in the likeness of an Arhat (a big-headed Buddha), with a prominent mouth and fangs that convey strength and grandeur – traits associated with the Arhat as a guardian figure. The Hainan lion is made from materials such as sandpaper, bamboo, rabbit fur and horsehair, and features tiger stripes, colourful pom-poms and Tang-style motifs (such as swirling cloud patterns, vegetal motifs, stylised florals and geometric outlines). While its eyes and overall form might differ, most elements are consistent with the Southern lions, reflecting shared design traditions and motifs reminiscent of Guangdong and Fujian artistic heritage.[^6]
 
