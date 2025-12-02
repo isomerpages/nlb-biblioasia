@@ -13,3 +13,7 @@ When martial artist and lion dance master Raymond Foo, the head of 光武国术�
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tiger_cape.jpg" style="width: 80%;">Detail of the Hainan tiger cape found in the storeroom of Guang Wu Club. <i>Courtesy of Low Jue Ming.</i></div>
+
+An advocate of all things Hainanese, Foo has more than 50 years’ experience in martial arts and lion dance. Established in 1936, Guang Wu Club is the only organisation in Singapore that promotes the elusive Hainan lion dance (海南狮; Hainan _shi_), also known as 琼州狮 _(_Qiongzhou _shi)_, the Hainan tiger dance (海南虎; Hainan _hu_) and Hainan _qiong pai_ martial arts (琼派功夫; _qiong pai gong fu_). Even though the Hainan tiger dance is rarely performed in Singapore today, its influence on Hainan lion dance can still be seen.
+
+#### **The Hainan Tiger**
