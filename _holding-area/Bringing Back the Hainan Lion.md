@@ -60,13 +60,13 @@ However, overshadowed by the popular Foshan, or Hoksan (鹤山) Cantonese Southe
 
 #### **Early Hainan Lions**
 
-In the early 1950s, Guang Wu Club hired Feng Anbang (冯安邦) as a martial arts and lion dance coach in an attempt to revive the Hainan lion dance, which, due to difficulties in dance stances and construction of the lion’s head, had not been widely performed. Guang Wu martial arts elder Lin Youhe (林猷和师傅) remembered watching a Hainan lion performance only once in his life – in 1941, when he was seven. This was also the last known performance of the Hainan lion dance in Singapore. &nbsp;The Hainan lion performers from the Nanmei Association (南梅同乡会), who were trained by Qiongzhou master Lin Hongyi (琼州拳师林鸿仪), had performed at a national salvation and relief event organised by the Chinese community in Singapore in support of the Second Sino-Japanese War (1937-45).[^5n1)
+In the early 1950s, Guang Wu Club hired Feng Anbang (冯安邦) as a martial arts and lion dance coach in an attempt to revive the Hainan lion dance, which, due to difficulties in dance stances and construction of the lion’s head, had not been widely performed. Guang Wu martial arts elder Lin Youhe (林猷和师傅) remembered watching a Hainan lion performance only once in his life – in 1941, when he was seven. This was also the last known performance of the Hainan lion dance in Singapore. &nbsp;The Hainan lion performers from the Nanmei Association (南梅同乡会), who were trained by Qiongzhou master Lin Hongyi (琼州拳师林鸿仪), had performed at a national salvation and relief event organised by the Chinese community in Singapore in support of the Second Sino-Japanese War (1937-45).[^5]
 
   
 
 * * *
 
-[\[1\]](#_ftnref1) Raymond Foo, interview with author, 2024.
+
 
   
 
@@ -87,3 +87,5 @@ In the early 1950s, Guang Wu Club hired Feng Anbang (冯安邦) as a martial art
 [^3]:  Raymond Foo, interview with author, 2024.
 
 [^4]:  Liu Mengxiao 刘梦晓 , “Sheng ji fei wuzhi wenhua yichan hainan hu wu: Hu wu sheng wei sanbai nian” 省级非物质文化遗产海南虎舞：虎舞生威三百年 &nbsp;\[Hainan Tiger Dance, a provincial-level intangible cultural heritage: The majestic tiger dance has been performed for three hundred years\], 人民网, 13 July 2020, [http://hi.people.com.cn/n2/2020/0713/c231190-34151945.html](http://hi.people.com.cn/n2/2020/0713/c231190-34151945.html)
+
+[^5]:  Raymond Foo, interview with author, 2024.
