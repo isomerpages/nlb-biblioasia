@@ -158,25 +158,29 @@ Each lion dance master contributes his own unique style to the performance. Toda
 
 Lion dance in Singapore faces numerous challenges, including strict regulations on noise and limited availability of suitable locations to train. Troupes also face difficulties in attracting more students. According to Foo, many only want to sign up with friends. This is compounded by misconceptions, particularly by parents, that lion dance troupes are bad company comprising troubled youths, school dropouts and secret society members.[^16]
 
-  
+In the face of waning interest, Foo believes that lion dance can only be passed down to the younger generations by continuous innovation and “more theatrical dance routine\[s\] which will excite audiences and leave them wanting to find out more about our Hainan lions”.[^17]
 
-* * *
-
-
-  
-
-
-
-
-
+<div style="background-color: white;">
+<br>
+<img src="![](/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guang_Wu_Club2.jpg)/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lion_dance_routine1.jpg" style="width: 80%;">A Hainan lion dance routine. <i>Courtesy of Low Jue Ming.</i></div>
 
   
 
 
 
+  
 
 
-* * *
+
+
+
+
+  
+
+
+
+
+
 
 
 
@@ -213,3 +217,5 @@ Lion dance in Singapore faces numerous challenges, including strict regulations 
 [^15]:  Raymond Foo, interview with author, 2024.
 
 [^16]:  Megan Elise Michael, “Lion Dance Troupes in S’pore Hard-pressed to interest the young in continuing the tradition ,” Straits Times, updated 21 November 2024, https://www.straitstimes.com/singapore/lion-dance-troupes-in-s-pore-hard-pressed-to-interest-the-young-in-continuing-the-tradition[](https://www.asiaone.com/confessions-lion-dance-troupe-member)
+
+[^17]:  Raymond Foo, interview with author, 2024.
