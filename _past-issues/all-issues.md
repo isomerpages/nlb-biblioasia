@@ -10,7 +10,7 @@ variant: markdown
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 21-1 cover](/images/covers/ba21_1_cover.jpg)[Apr–Jun 2025](https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/)<br>[Apr–Jun 2025 (PDF)](/files/pdf/BiblioAsia_Apr_Jun2025_LowRes_5mbv2.pdf)|![BiblioAsia 21-2 cover](/images/covers/BA21_2.png)[Jul-Sep 2025](https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/)<br>[Jul-Sep 2025 (PDF)](/files/pdf/BiblioAsia_JUL_SEP2025_Lowres_below5MB1.pdf)|
-|![BiblioAsia 21-3 cover](/images/covers/ba21_3_cover1.jpg)[Oct–Dec 2025](https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/)<br>[Oct–Dec 2025 (PDF)](/files/pdf/Biblioasia_OCT_DEC2025_Lowres_5MB.pdf)|![BiblioAsia 20-4 cover](/images/covers/ba21_4_cover1_jpg.png)[Jan-Mar 2025](https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/)<br>[Jan-Mar 2025 (PDF)](/files/pdf/BiblioAsia_JAN_MAR2025_Lowres_5MB1.pdf)|
+|![BiblioAsia 21-3 cover](/images/covers/ba21_3_cover1.jpg)[Oct–Dec 2025](https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/)<br>[Oct–Dec 2025 (PDF)](/files/pdf/Biblioasia_OCT_DEC2025_Lowres_5MB.pdf)|![BiblioAsia 20-4 cover](/images/covers/ba21_4_cover1.png)[Jan-Mar 2025](https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/)<br>[Jan-Mar 2025 (PDF)](/files/pdf/BiblioAsia_JAN_MAR2025_Lowres_5MB1.pdf)|
 
 #### Volume 20
 
