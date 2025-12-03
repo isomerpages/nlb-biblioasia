@@ -134,8 +134,23 @@ Specific weapons are also used during the Hainan lion dance for routines such as
 
 Troupe members representing the deities Tu Di Gong and Tu Di Po closely mimic the movements of the lion, with graceful, rhythmic steps. Then, with a sudden burst of energy, shouts fill the air as soldiers (兵勇, <i>bingyong</i>) appear, ready to take on the lions. The Guang Wu dancers bring the beasts’ nimble, swift movements to life, while the soldiers’ bravery and expert martial arts skills add to the thrill for a truly breathtaking display.
   
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tudi_Po1.jpg" style="width: 80%;">Tu Di Po (with white hair) and Tu Di Gong (with grey beard). <i>Courtesy of Guang Wu Club.</i></div>
 
+The soldiers symbolise&nbsp;武德 (<i>wude)</i> – the discipline, courage and strength underpinning the martial arts tradition. They embody human skill and valour, standing as obstacles that challenge the lion’s path. At the same time, they hark back to the militia traditions of Lady Xian: men trained in weapons and martial arts, prepared to defend their communities.
 
+The soldiers’ confrontation with the lion reinforces Lady Xian’s philosophy that force is sometimes necessary but must always be balanced with order and the well-being of the society. When the lion prevails, or reconciles with the soldiers, it reflects her legacy of uniting force with virtue. More than a festive spectacle, the Hainan lion dance is a living folk memory of Lady Xian’s governance, where martial discipline and ritual display work together to protect the people.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lion_battles1.jpg" style="width: 80%;">A Hainan lion engages in battle with a pugilist holding a trident. <i>Courtesy of Low Jue Ming.</i></div>
+
+#### **The Path Forward**
+
+The foundations of the Hainan lion dance are closely linked to <i>kung fu</i> (Chinese martial arts), with an emphasis on endurance and core strength. Like <i>kung fu</i>, the basic position in any lion dance is the horse stance (馬步; <i>ma bu</i>), which is like a squat. In this position, the dancer's weight is evenly balanced, providing strength and stability.
+
+Each lion dance master contributes his own unique style to the performance. Today, dance troupes tend to focus on the dance itself, rather than mastering traditional <i>kung fu</i> forms that are crucial for manoeuvring the lion. Novices also take a longer time to master the moves as many can only commit to training once a week.
 
 
   
