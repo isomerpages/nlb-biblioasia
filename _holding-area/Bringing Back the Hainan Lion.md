@@ -156,6 +156,11 @@ Each lion dance master contributes his own unique style to the performance. Toda
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lion_dance_routine1.jpg" style="width: 80%;">A Hainan lion dance routine. <i>Courtesy of Low Jue Ming.</i></div>
 
+Lion dance in Singapore faces numerous challenges, including strict regulations on noise and limited availability of suitable locations to train. Troupes also face difficulties in attracting more students. According to Foo, many only want to sign up with friends. This is compounded by misconceptions, particularly by parents, that lion dance troupes are bad company comprising troubled youths, school dropouts and secret society members.[^16]
+
+  
+
+* * *
 
 
   
@@ -206,3 +211,5 @@ Each lion dance master contributes his own unique style to the performance. Toda
 [^14]:  “Conch Shell in Buddhism,”&nbsp; Tibetan Buddhist Encyclopedia, last updated 6 January 2024, [https://tibetanbuddhistencyclopedia.com/en/index.php/Conch\_Shell\_in\_Buddhism](https://tibetanbuddhistencyclopedia.com/en/index.php/Conch_Shell_in_Buddhism).; Raymond Foo, interview with author, 2024.
 
 [^15]:  Raymond Foo, interview with author, 2024.
+
+[^16]:  Megan Elise Michael, “Lion Dance Troupes in S’pore Hard-pressed to interest the young in continuing the tradition ,” Straits Times, updated 21 November 2024, https://www.straitstimes.com/singapore/lion-dance-troupes-in-s-pore-hard-pressed-to-interest-the-young-in-continuing-the-tradition[](https://www.asiaone.com/confessions-lion-dance-troupe-member)
