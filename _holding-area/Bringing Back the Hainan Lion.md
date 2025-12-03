@@ -128,6 +128,11 @@ Specific weapons are also used during the Hainan lion dance for routines such as
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo_wielding_sabres1.jpg" style="width: 80%;">Raymond Foo wielding the 双刀 (<i>shuangdao</i>). <i>Courtesy of Low Jue Ming.</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo_twin_fish_shield1.jpg" style="width: 60%;">Raymond Foo performing with the 双鱼撞 (<i>shuangyudang</i> or double fish shield). <i>Courtesy of Low Jue Ming.</i></div>
+
+Troupe members representing the deities Tu Di Gong and Tu Di Po closely mimic the movements of the lion, with graceful, rhythmic steps. Then, with a sudden burst of energy, shouts fill the air as soldiers (兵勇, <i>bingyong</i>) appear, ready to take on the lions. The Guang Wu dancers bring the beasts’ nimble, swift movements to life, while the soldiers’ bravery and expert martial arts skills add to the thrill for a truly breathtaking display.
   
 
 
