@@ -2,6 +2,7 @@ collections:
   jan-to-mar-2026:
     output: true
     order:
+      - Director's Note.md
       - A Century of Singapore’s Cinemas.md
       - What You Didn’t Know About the Straits Times.md
       - "Wandering Wood: The Transoceanic Pollination of the Double Coconut.md"
