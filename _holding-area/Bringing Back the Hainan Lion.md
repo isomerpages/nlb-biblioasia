@@ -152,6 +152,11 @@ The foundations of the Hainan lion dance are closely linked to <i>kung fu</i> (C
 
 Each lion dance master contributes his own unique style to the performance. Today, dance troupes tend to focus on the dance itself, rather than mastering traditional <i>kung fu</i> forms that are crucial for manoeuvring the lion. Novices also take a longer time to master the moves as many can only commit to training once a week.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lion_dance_routine1.jpg" style="width: 80%;">A Hainan lion dance routine. <i>Courtesy of Low Jue Ming.</i></div>
+
+
 
   
 
