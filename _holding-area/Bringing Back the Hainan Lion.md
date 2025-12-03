@@ -162,7 +162,7 @@ In the face of waning interest, Foo believes that lion dance can only be passed 
 
 <div style="background-color: white;">
 <br>
-<img src="![](/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guang_Wu_Club2.jpg)/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lion_dance_routine1.jpg" style="width: 80%;">A Hainan lion dance routine. <i>Courtesy of Low Jue Ming.</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guang_Wu_Club2.jpg" style="width: 80%;">Guang Wu Club’s Hainan lion dance troupe at Kheng Chiu Tin Hou Kong. <i>Courtesy of Low Jue Ming.</i></div>
 
   
 
