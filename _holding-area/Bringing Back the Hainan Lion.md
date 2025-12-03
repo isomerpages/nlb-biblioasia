@@ -122,35 +122,52 @@ Conch shells, much like the horn trumpet or bugle, have been used in China as fa
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo_blows_conch_shell1.jpg" style="width: 80%;">Raymond Foo blows into the conch shell to signal the start of the Hainan lion dance. <i>Courtesy of Low Jue Ming.</i></div>
 
-Specific weapons are also used during the Hainan lion dance for routines such as 单刀破狮 (<i>dandao po shi</i>), 双刀破狮 (<i>shuangdao po shi),</i> 关刀破狮 (<i>guandao po shi),</i> 棍棒破狮 (<i>gunbang po shi),</i>  板凳破狮 (<i>bandeng po shi),</i>  and 盾牌破狮 (<i>dunpai po shi)</i>. The broad sword (关刀, <i>guandao</i>) is noteworthy as it represents Lady Xian’s fight for equality, social stability and better lives for the clansmen. Each weapon-based sequence is carefully choreographed to showcase both&nbsp; <b>combat skill</b>; <b>dramatic flair</b>, adding an intense, theatrical dimension to the Hainan lion dance routines. Each routine allows the performers to demonstrate&nbsp; <b>strength, timing, coordination and martial aesthetics</b>, making the Hainan lion dance uniquely vigorous and expressive compared to other regional lion dance forms in Guangxi, Fujian and Chaozhou. For instance, in <b>棍棒破狮</b>(<i>gunbang po shi</i>, or “staff versus lion”), a&nbsp;<b>staff or cudgel</b>&nbsp;is used to challenge the lion, showcasing the quick reflexes and precise control of the performer.
+Specific weapons are also used during the Hainan lion dance for routines such as 单刀破狮 (<i>dandao po shi</i>), 双刀破狮 (<i>shuangdao po shi),</i> 关刀破狮 (<i>guandao po shi),</i> 棍棒破狮 (<i>gunbang po shi),</i>  板凳破狮 (<i>bandeng po shi),</i>  and 盾牌破狮 (<i>dunpai po shi)</i>. The broad sword (关刀, <i>guandao</i>) is noteworthy as it represents Lady Xian’s fight for equality, social stability and better lives for the clansmen. Each weapon-based sequence is carefully choreographed to showcase both&nbsp; combat skill; dramatic flair, adding an intense, theatrical dimension to the Hainan lion dance routines. Each routine allows the performers to demonstrate&nbsp; strength, timing, coordination and martial aesthetics, making the Hainan lion dance uniquely vigorous and expressive compared to other regional lion dance forms in Guangxi, Fujian and Chaozhou. For instance, in 棍棒破狮 (<i>gunbang po shi</i>, or “staff versus lion”), a&nbsp;staff or cudgel&nbsp;is used to challenge the lion, showcasing the quick reflexes and precise control of the performer.
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo_wielding_sabres1.jpg" style="width: 80%;">Raymond Foo wielding the 双刀 (<i>shuangdao</i>). <i>Courtesy of Low Jue Ming.</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo_twin_fish_shield1.jpg" style="width: 60%;">Raymond Foo performing with the 双鱼撞 (<i>shuangyudang</i> or double fish shield). <i>Courtesy of Low Jue Ming.</i></div>
+
+Troupe members representing the deities Tu Di Gong and Tu Di Po closely mimic the movements of the lion, with graceful, rhythmic steps. Then, with a sudden burst of energy, shouts fill the air as soldiers (兵勇, <i>bingyong</i>) appear, ready to take on the lions. The Guang Wu dancers bring the beasts’ nimble, swift movements to life, while the soldiers’ bravery and expert martial arts skills add to the thrill for a truly breathtaking display.
   
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tudi_Po1.jpg" style="width: 80%;">Tu Di Po (with white hair) and Tu Di Gong (with grey beard). <i>Courtesy of Guang Wu Club.</i></div>
 
+The soldiers symbolise&nbsp;武德 (<i>wude)</i> – the discipline, courage and strength underpinning the martial arts tradition. They embody human skill and valour, standing as obstacles that challenge the lion’s path. At the same time, they hark back to the militia traditions of Lady Xian: men trained in weapons and martial arts, prepared to defend their communities.
 
+The soldiers’ confrontation with the lion reinforces Lady Xian’s philosophy that force is sometimes necessary but must always be balanced with order and the well-being of the society. When the lion prevails, or reconciles with the soldiers, it reflects her legacy of uniting force with virtue. More than a festive spectacle, the Hainan lion dance is a living folk memory of Lady Xian’s governance, where martial discipline and ritual display work together to protect the people.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lion_battles1.jpg" style="width: 80%;">A Hainan lion engages in battle with a pugilist holding a trident. <i>Courtesy of Low Jue Ming.</i></div>
 
-  
+#### **The Path Forward**
 
+The foundations of the Hainan lion dance are closely linked to <i>kung fu</i> (Chinese martial arts), with an emphasis on endurance and core strength. Like <i>kung fu</i>, the basic position in any lion dance is the horse stance (馬步; <i>ma bu</i>), which is like a squat. In this position, the dancer's weight is evenly balanced, providing strength and stability.
 
+Each lion dance master contributes his own unique style to the performance. Today, dance troupes tend to focus on the dance itself, rather than mastering traditional <i>kung fu</i> forms that are crucial for manoeuvring the lion. Novices also take a longer time to master the moves as many can only commit to training once a week.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lion_dance_routine1.jpg" style="width: 80%;">A Hainan lion dance routine. <i>Courtesy of Low Jue Ming.</i></div>
 
+Lion dance in Singapore faces numerous challenges, including strict regulations on noise and limited availability of suitable locations to train. Troupes also face difficulties in attracting more students. According to Foo, many only want to sign up with friends. This is compounded by misconceptions, particularly by parents, that lion dance troupes are bad company comprising troubled youths, school dropouts and secret society members.[^16]
 
+In the face of waning interest, Foo believes that lion dance can only be passed down to the younger generations by continuous innovation and “more theatrical dance routine\[s\] which will excite audiences and leave them wanting to find out more about our Hainan lions”.[^17]
 
-  
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guang_Wu_Club2.jpg" style="width: 80%;">Guang Wu Club’s Hainan lion dance troupe at Kheng Chiu Tin Hou Kong. <i>Courtesy of Low Jue Ming.</i></div><br>
 
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Angela_profile.png"><b>Angela Sim</b>&nbsp;is a researcher of Asian heritage and culture. She uses her platform as a media content creator to explore areas such as folk religion, Peranakan culture and sunset industries, including Chinese woodblock printing, effigy restoration and lantern making. Angela is a Singapore native and promotes the nation as a cultural destination. She has a Bachelor of Arts majoring in Japanese Art History and currently resides in Brisbane, Australia. Her work can be found on <a href="https://www.youtube.com/c/HakkaMoi/about">YouTube</a> under the handle Hakka Moi.</div>   
 
-
-
-
-* * *
-
-
-
-* * *
+#### **Notes**
 
 [^1]:  “海南军坡节千年不衰,” -客家文化\-中国华文教育网, published 2 May 2022, https://www.hwjyw.com/article/10059.html.
 
@@ -181,3 +198,7 @@ Specific weapons are also used during the Hainan lion dance for routines such as
 [^14]:  “Conch Shell in Buddhism,”&nbsp; Tibetan Buddhist Encyclopedia, last updated 6 January 2024, [https://tibetanbuddhistencyclopedia.com/en/index.php/Conch\_Shell\_in\_Buddhism](https://tibetanbuddhistencyclopedia.com/en/index.php/Conch_Shell_in_Buddhism).; Raymond Foo, interview with author, 2024.
 
 [^15]:  Raymond Foo, interview with author, 2024.
+
+[^16]:  Megan Elise Michael, “Lion Dance Troupes in S’pore Hard-pressed to interest the young in continuing the tradition ,” Straits Times, updated 21 November 2024, https://www.straitstimes.com/singapore/lion-dance-troupes-in-s-pore-hard-pressed-to-interest-the-young-in-continuing-the-tradition[](https://www.asiaone.com/confessions-lion-dance-troupe-member)
+
+[^17]:  Raymond Foo, interview with author, 2024.

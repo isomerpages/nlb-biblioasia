@@ -14,7 +14,7 @@ variant: markdown
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/">“Majulah Singapura” and Other Love Songs </a><br>
 National anthems often begin life as something else. Singapore’s
-“Majulah Singapura” is no different. *Bernard T.G. Tan* . [(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Majulah_Singapura.pdf)
+“Majulah Singapura” is no different. *Bernard T.G. Tan* . [(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025_Majulah_Singapura1.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/">“Majulah Singapura” Finally Repaired the Breach </a><br>
@@ -34,7 +34,7 @@ participate in the profession. *Zhuang Wubin*.[(PDF)](/files/pdf/Vol%2021/FA_Bib
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/">From Liguria to the Lion City: The Life and Times of Giovanni Gaggino </a><br>
 The remarkable story of an Italian merchant who once owned
 Pulau Bukom and authored an Italian-Malay dictionary in
-colonial Singapore. *Alex Foo*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Giovanni.pdf)
+colonial Singapore. *Alex Foo*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025_Giovanni1.pdf)
 
 
 
@@ -58,7 +58,7 @@ Hong Lim Park was named after Cheang Hong Lim. Cheang and his descendants were o
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/">Luís de Camões in Asia </a><br>
-Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ternate, was shipwrecked near the Mekong Delta and worked as the Superintendent for the Dead in Macau. *Isabel Rio Novo*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Louis_de_Camoes.pdf)
+Portugal’s most important poet was once imprisoned in Goa, saw fighting in Ternate, was shipwrecked near the Mekong Delta and worked as the Superintendent for the Dead in Macau. *Isabel Rio Novo*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025_Louis_de_Camoes1.pdf)
 
 
 
@@ -71,7 +71,7 @@ Thanks to his ancestry book (zupu) and a lot of persistence, a practising Taoist
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/">Dutch Burghers in British Malaya </a><br>
 A murder mystery sheds light on the little-known story of the Ceylonese pioneers from the Dutch Burgher community who joined the subordinate government ranks in British Malaya.
-*Yorim Spoelder*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025___Dutch_Burgher.pdf)
+*Yorim Spoelder*.[(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025_Dutch_Burgher1.pdf)
 
 
 
