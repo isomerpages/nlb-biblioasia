@@ -162,7 +162,7 @@ In the face of waning interest, Foo believes that lion dance can only be passed 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guang_Wu_Club2.jpg" style="width: 80%;">Guang Wu Club’s Hainan lion dance troupe at Kheng Chiu Tin Hou Kong. <i>Courtesy of Low Jue Ming.</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guang_Wu_Club2.jpg" style="width: 80%;">Guang Wu Club’s Hainan lion dance troupe at Kheng Chiu Tin Hou Kong. <i>Courtesy of Low Jue Ming.</i></div><br>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Angela_profile.png"><b>Angela Sim</b>&nbsp;is a researcher of Asian heritage and culture. She uses her platform as a media content creator to explore areas such as folk religion, Peranakan culture and sunset industries, including Chinese woodblock printing, effigy restoration and lantern making. Angela is a Singapore native and promotes the nation as a cultural destination. She has a Bachelor of Arts majoring in Japanese Art History and currently resides in Brisbane, Australia. Her work can be found on <a href="https://www.youtube.com/c/HakkaMoi/about">YouTube</a> under the handle Hakka Moi.</div>   
