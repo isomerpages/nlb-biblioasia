@@ -527,44 +527,52 @@ so long, because there was just so much. And pretty much any record, so
 personal diaries. At some point, you’re going to come across some reference
 to the weather because there’s going to have been some bad weather, a storm,
 a flood or something like that.&nbsp;</p>
-<p><strong>Jimmy</strong>So, you go into personal diaries looking for people
-and they say, “oh, it rained really badly today”.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>Yeah. Also the newspapers. So, what I
-would tend to do as a starting point is I would maybe go through all the
-newspapers. I went through about 100 years worth of newspapers looking
-for floods and droughts.&nbsp;</p>
-<p><strong>Jimmy</strong>Is this in Singapore? I mean, in Malaya?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>Yes, so these are the National Library’s…&nbsp;</p>
-<p><strong>Jimmy</strong>Oh, NewspaperSG.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>Yeah, brilliant resource.&nbsp;</p>
-<p><strong>Jimmy</strong>It is wonderful.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>And so I went through about 100 years
-of that looking for floods and droughts because those are things that stand
-out. And so once I had those particular years, I could then maybe go to
-somebody’s diary and look up that particular year and see if they mentioned
-it. So, then I can then get context. So, if there was a major flood in
-1926, for example. If I’ve got a diary from 1926, I can then go through
-the diary and say, okay, did they experience it? I can then go and look
-at district office records. So, the National Archives of Malaysia, for
-example, has some really good district records. So, I can then go to, like,
-district officer records, people who are actually employed to work in the
-regions, some of the rural areas, and see what they say about it. And they
-would often say they have records of flood heights or impact on local people
-in this area. You know, the floodwaters reached six feet deep and there
-were five casualties or, you know, information like that. So, you build
-this picture from lots of different sources. It’s like putting together
-a jigsaw. So official records, personal records. And they all come together
-to provide context.&nbsp;</p>
-<p><strong>Jimmy</strong>What was the genesis of this book?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>Actually, more than 15 years ago, I was
-asked to look up, for a project I was working on back in the UK, meteorological
-records for Malaya. And as I started to look up the actual meteorological
-data, it was a scientific project. And from that project, I started getting
-interested in the weather here. By that time, I was living out here as
-well. And the meteorological data in itself is useful for scientists. But
-as a historian, it's not such fun, interesting information. It’s just pure
-data. It’s great for scientists because they can put it into models to
-see how climate changes are taking place.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>So, you go into personal diaries looking for people and they say, “oh,
+it rained really badly today”.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>Yeah. Also the newspapers. So, what I would tend to do as a starting point
+is I would maybe go through all the newspapers. I went through about 100
+years worth of newspapers looking for floods and droughts.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>Is this in Singapore? I mean, in Malaya?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>Yes, so these are the National Library’s…&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>Oh, NewspaperSG.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>Yeah, brilliant resource.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>It is wonderful.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>And so I went through about 100 years of that looking for floods and droughts
+because those are things that stand out. And so once I had those particular
+years, I could then maybe go to somebody’s diary and look up that particular
+year and see if they mentioned it. So, then I can then get context. So,
+if there was a major flood in 1926, for example. If I’ve got a diary from
+1926, I can then go through the diary and say, okay, did they experience
+it? I can then go and look at district office records. So, the National
+Archives of Malaysia, for example, has some really good district records.
+So, I can then go to, like, district officer records, people who are actually
+employed to work in the regions, some of the rural areas, and see what
+they say about it. And they would often say they have records of flood
+heights or impact on local people in this area. You know, the floodwaters
+reached six feet deep and there were five casualties or, you know, information
+like that. So, you build this picture from lots of different sources. It’s
+like putting together a jigsaw. So official records, personal records.
+And they all come together to provide context.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>What was the genesis of this book?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>Actually, more than 15 years ago, I was asked to look up, for a project
+I was working on back in the UK, meteorological records for Malaya. And
+as I started to look up the actual meteorological data, it was a scientific
+project. And from that project, I started getting interested in the weather
+here. By that time, I was living out here as well. And the meteorological
+data in itself is useful for scientists. But as a historian, it's not such
+fun, interesting information. It’s just pure data. It’s great for scientists
+because they can put it into models to see how climate changes are taking
+place.&nbsp;</p>
 <p>But for me, I wanted to start to find out a little bit more about, well,
 how are they making these records? Why is there a gap for this year? So,
 I started finding out a little bit more context. You have to find out more
@@ -572,51 +580,60 @@ about the history to find out whether it’s why there’s suddenly a 10 year
 gap in a record. So I just started looking more and more, and it just kind
 of evolved over time to suddenly become this much larger project. I had
 lots, lots more material.&nbsp;</p>
-<p><strong>Jimmy</strong>[The book] could be even thicker than this?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>Yeah, it could actually be.</p>
-<p><strong>Jimmy</strong>You’re a full-time professor at SMU but you’re also
-the co-president of – and this is something I’ve never heard of – the International
-Commission for the History of Meteorology. What is it, and what does it
-involve? You get to go up on weather balloons and things?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>I wish. No, it was established about
-20 or so years ago by a very eminent historian of meteorology in the U.S.,
-Jim Fleming. And he and some of his colleagues were all doing history of
-meteorology subjects and really felt like there needed to be like a group
-that brought people together. And he was very successful in rallying people
-and making this kind of what’s been, I suppose, a largely informal group
-of people with an interest in the history of meteorology. There's now several
-hundred members across the entire world.&nbsp;</p>
-<p><strong>Jimmy</strong>You meet every year.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>No, we don’t have funds necessarily to
-meet up and have an annual conference. But we do have events, we sponsor
-panels at conferences. I’ve just come back from the UK, actually. We had
-a nice, sponsored panel in Cambridge. So, yeah, we do all sorts of events
-around the place just promoting the history of meteorology.&nbsp;</p>
-<p><strong>Jimmy</strong>It sounds fascinating. You teach all this at SMU.
-If a student came up to you and said, “why should I sign up for your course”?
-What would you say to them?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>Well, I would say that if you want to
-find out a different side of Singapore history to the one that you perhaps
-learned at school, and if you want to understand more about how Singapore
-has grown in terms of its environmental history, or climatic history, then
-you come to my class. Because I think that seeing the growth of a city
-or the development of a city is very different from thinking about, say,
-a political narrative of a city, for example.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>[The book] could be even thicker than this?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>Yeah, it could actually be.</p>
+<p><strong>Jimmy</strong>
+<br>You’re a full-time professor at SMU but you’re also the co-president of
+– and this is something I’ve never heard of – the International Commission
+for the History of Meteorology. What is it, and what does it involve? You
+get to go up on weather balloons and things?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>I wish. No, it was established about 20 or so years ago by a very eminent
+historian of meteorology in the U.S., Jim Fleming. And he and some of his
+colleagues were all doing history of meteorology subjects and really felt
+like there needed to be like a group that brought people together. And
+he was very successful in rallying people and making this kind of what’s
+been, I suppose, a largely informal group of people with an interest in
+the history of meteorology. There's now several hundred members across
+the entire world.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>You meet every year.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>No, we don’t have funds necessarily to meet up and have an annual conference.
+But we do have events, we sponsor panels at conferences. I’ve just come
+back from the UK, actually. We had a nice, sponsored panel in Cambridge.
+So, yeah, we do all sorts of events around the place just promoting the
+history of meteorology.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>It sounds fascinating. You teach all this at SMU. If a student came up
+to you and said, “why should I sign up for your course”? What would you
+say to them?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>Well, I would say that if you want to find out a different side of Singapore
+history to the one that you perhaps learned at school, and if you want
+to understand more about how Singapore has grown in terms of its environmental
+history, or climatic history, then you come to my class. Because I think
+that seeing the growth of a city or the development of a city is very different
+from thinking about, say, a political narrative of a city, for example.&nbsp;</p>
 <p>But the weather intersects with everything, it intersects with environmental
 issues, and it intersects with political issues. Intersects with the economy.
 So, it’s actually a way of seeing history through this very kind of holistic
 lens, but through the lens itself being the weather or the environment.
 It’s just a different way of looking at things.&nbsp;</p>
-<p><strong>Jimmy</strong>Okay. We do this with all our guests. We get them
-to complete a sentence. If I say to you “climate history” what would you
-say? Climate history is…&nbsp;</p>
-<p><strong>Fiona Williamson</strong>Awesome.&nbsp;</p>
-<p><strong>Jimmy</strong>Why is it awesome?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>Because it teaches you about everything.
-You know, the climate is so ubiquitous to our existence as humans. It dictates
-what we eat, how we behave, the times of day in which we do things. And
-even today, you know, kind of very air conditioned, a world where we feel
-like we’re very distinct from climate.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>Okay. We do this with all our guests. We get them to complete a sentence.
+If I say to you “climate history” what would you say? Climate history is…&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>Awesome.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>Why is it awesome?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>Because it teaches you about everything. You know, the climate is so ubiquitous
+to our existence as humans. It dictates what we eat, how we behave, the
+times of day in which we do things. And even today, you know, kind of very
+air conditioned, a world where we feel like we’re very distinct from climate.&nbsp;</p>
 <p>And this is something that I say to my students, we still don’t realise
 how dependent we are on the climate. For example, if there’s a major drought
 in Russia or the U.S., suddenly, grain prices go up. If there’s kind of
@@ -626,39 +643,45 @@ get rice.&nbsp;</p>
 does still affect us in every way and understanding about the long history
 of it and how, for example, we’ve known about climate change. It’s been
 happening for such a long time.&nbsp;</p>
-<p><strong>Jimmy</strong>I think we can all agree that it is very important.
-You know, there’s a great understanding these days about the impact of
-climate change. Do you think we’re likely to make a difference and stop
-climate change?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>I think we need to move quicker. I think
-that one of the things as a historian that depresses me slightly is we
-have known about it since the 19th century. That’s unsurprising. And although
-maybe the scale of the understanding of the impact wasn’t necessarily understood.
-What I also know from kind of looking at much later history, like the 70s
-and the 80s, politicians have known about it in the 70s and 80s and it
-actually really requires a lot of political will to have done more in the
-past. And I think we really should have started in the ’70s, in the ’80s,
-to have done more. So, we’re now playing a game of catch up. The Singapore
-government, of course, is really addressing climate change, providing a
-lot of funding for research, which I see through the university side.</p>
+<p><strong>Jimmy</strong>
+<br>I think we can all agree that it is very important. You know, there’s
+a great understanding these days about the impact of climate change. Do
+you think we’re likely to make a difference and stop climate change?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>I think we need to move quicker. I think that one of the things as a historian
+that depresses me slightly is we have known about it since the 19th century.
+That’s unsurprising. And although maybe the scale of the understanding
+of the impact wasn’t necessarily understood. What I also know from kind
+of looking at much later history, like the 70s and the 80s, politicians
+have known about it in the 70s and 80s and it actually really requires
+a lot of political will to have done more in the past. And I think we really
+should have started in the ’70s, in the ’80s, to have done more. So, we’re
+now playing a game of catch up. The Singapore government, of course, is
+really addressing climate change, providing a lot of funding for research,
+which I see through the university side.</p>
 <p>But Singapore is a small country in terms of the world. It’s really the
 bigger countries like the US –&nbsp;</p>
-<p><strong>Jimmy</strong>China.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>China, yeah. That needs to step up because
-they’re the ones that have the biggest impact but it’s a group effort.&nbsp;</p>
-<p><strong>Jimmy</strong>Yes, of course. Fiona, thank you very much for coming
-on the BiblioAsia+ podcast. We are really happy to have had this conversation
-with you. To learn more about the history of air conditioning in Singapore,
-you have to read Fiona’s article that is on the BiblioAsia website at
-<a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>China.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>
+<br>China, yeah. That needs to step up because they’re the ones that have
+the biggest impact but it’s a group effort.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>Yes, of course. Fiona, thank you very much for coming on the BiblioAsia+
+podcast. We are really happy to have had this conversation with you. To
+learn more about the history of air conditioning in Singapore, you have
+to read Fiona’s article that is on the BiblioAsia website at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>.&nbsp;</p>
 <p>Her book, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803" rel="noopener noreferrer nofollow" target="_blank">Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya</a></em> is
 available at the National Library. Fiona, thank you very much for coming
 on the show and I wish you good luck in volume two of your book.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>Indeed, thank you very much.&nbsp;</p>
-<p><strong>Jimmy</strong>Thank you.<strong>&nbsp;</strong>
+<p><strong>Fiona Williamson</strong>
+<br>Indeed, thank you very much.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>Thank you.<strong>&nbsp;</strong>
 </p>
 <p>[Music playing]<strong>&nbsp;</strong>
 </p>
 <p>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> 
 <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on<em> BiblioAsia+.</em>
+<br>
 </p>
