@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Before Air Conditioning
 ---
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona</strong>
 <br>So, electricity was an essential precursor of air conditioning, and there
 was electricity in Singapore from as early as the 1870s. And then you have
 the developments in the early, late 19th to the early 20th century of refrigeration
@@ -15,15 +15,14 @@ which is based on fans and air purification. And then by the 30s, something
 that’s more recognisable, is our modern style of air conditioning.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>When was air conditioning actually invented?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>I think in the early 1920s.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay. So, Singapore wasn’t that far behind then.</p>
-<p><strong>Fiona Williamson</strong>
-<br>No. So, I mean, the idea of cooling the air is ancient. Lots of countries
-in Asia have had ways of cooling air for a very long time, but the technology
-of air conditioning really developed commercially in the US. And then it
-was exported out, and it came directly to Singapore.&nbsp;</p>
+<p><strong>Fiona </strong>No. So, I mean, the idea of cooling the air is
+ancient. Lots of countries in Asia have had ways of cooling air for a very
+long time, but the technology of air conditioning really developed commercially
+in the US. And then it was exported out, and it came directly to Singapore.&nbsp;</p>
 <p>[Music playing]&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>You’re listening to BiblioAsia+, a podcast produced by the National Library
@@ -57,27 +56,28 @@ podcast. Fiona. How’ve you been?&nbsp;</p>
 <br>Around 15 years.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>So how have you adapted to the weather? You came from the UAE before that?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-<br>UK.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Fiona </strong>
+<br>UK.&nbsp;
+<br>
+<br><strong>Jimmy</strong>
 <br>Oh, in the UK before that?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Yeah. So, it was a very big contrast from the classic English weather
 with the gray drizzle. Yes. The cooler temperatures.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Right.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>I’ve been here long enough to acclimatise.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Speaking of acclimatising, before air conditioning, how did people keep
 cool in Singapore in general?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Well, long before air conditioning, it was more a question of architectural
 solutions. So, we all know, structures like the incredible Peranakan building,
 which is just around the corner from the National Library on Armenian Street.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Yeah.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>But these buildings were created with central air wells with sort of things
 like high ceilings, which encourage airflow. The windows are placed in
 a particular way to encourage airflow to come through the building. And
@@ -103,7 +103,7 @@ designed for the tropical weather.&nbsp;</p>
 <br>Right. Okay. But that’s like, you know, buildings for homes in general.
 When you start talking about bigger buildings, like in concert halls or
 cinemas, it must be different.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Yes and no. I mean, they were still all designed with this idea of kind
 of like, large spaces, ventilation. You would have had fans in the ceiling,
 of course, whether they were manual before the days of electricity. But
@@ -115,7 +115,7 @@ in a way to maximise airflow.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay, tell us about how air conditioning was introduced to Singapore.
 When and where and how did it happen?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Okay. So I think one of the important things to remember about this is,
 there have been precursors. You couldn’t have air conditioning until you
 had electricity. So electricity was an essential precursor of air conditioning,
@@ -128,11 +128,11 @@ And then by the 30s, something that’s more recognisable, is our modern
 style of air conditioning.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>When was air conditioning actually invented?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>I think in the early 1920s.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay. So, Singapore wasn’t that far behind then.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>No. So, I mean, the idea of cooling the air is ancient. Lots of countries
 in Asia have had ways of cooling air for a very long time, but the technology
 of air conditioning really developed commercially in the U.S. And then
@@ -142,11 +142,11 @@ So, Singapore was a relatively early-adopter.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay. It is impressive. But then how prevalent then was, you know, air
 conditioning in the 1920s? What kind of buildings had it?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Well, here’s the thing is, it’s very much based on who had electricity.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Ah, okay.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>So, in those days, there was a power station. But the power station was
 mainly for some of the commercial infrastructure, like the trams. The main
 buildings would have been the ones that were large enough or could afford
@@ -168,29 +168,29 @@ hall because [they had] air conditioning.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>It's obviously more pleasant to dance with air conditioning than with
 tropical heat.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Exactly. And another thing about air conditioning that we tend to forget
 about today is that in those days, everybody smoked.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Right.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>And if you’re in a dance hall where you’re, you know, maybe breathing
 a little more deeply because you’re being physically active, and it’s full
 of cigarette smoke, as well as being hot – it’s going to be pretty unpleasant.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>That does not sound that fun.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Yeah, so a lot of these early commercial enterprises were like, okay,
 come and dance with us, you’ll be cooler, but you’ll also be healthier.
 You know, it’ll purify the air. It will get rid of all the fumes. And it’ll
 just be this much nicer environment to dance in.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay. So, do we know the first building in Singapore to get air conditioning?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>One of the first buildings was the Capitol.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>All right.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Which actually, you know, very close to the library. And this, of course,
 was a major cinema. And owned by wealthy entrepreneurs who could afford
 to invest and they actually had the mechanical ventilation first and then
@@ -201,7 +201,7 @@ systems in the 1920s or 1910s, but, prior to that, you know, people coming
 from Europe or wherever coming to Singapore or to Asia had to encounter
 the heat and humidity. And so how did they sort of react? How did they
 write about it?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>So, there’s a really big kind of historical literature about adaptation
 in Europeans in tropical atmospheres. And there are two sides to this story.
 On the one hand, there’s this kind of fascination with the tropics and
@@ -240,7 +240,7 @@ in elevation, or have a lot of land, big gardens.&nbsp;</p>
 <br>Right. Talking about colonial civil servants. Tell us about meteorology
 as an imperial science or a colonial project. How does one understand meteorology
 within that particular framework?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>So, meteorology has been really important to the colonial enterprise,
 right from the very beginnings of European expansion or exploration. Firstly,
 because of oceangoing or seagoing navigation, you need to understand the
@@ -267,7 +267,7 @@ commercialisation of the new areas where the British were going.&nbsp;</p>
 <br>Right. And I think in Singapore, when the British first arrived, rainfall
 and temperature were one of the first things that they began recording.
 Records actually go quite far back, don’t they?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>They do. There are records here literally from 1819. There are gaps, huge
 gaps, but so there are records. Actually, I think there’s some early ones
 even going back to about 1815 from Singapore. With early commercial, just
@@ -281,7 +281,7 @@ enterprise. And from then on, we’ve got more accurate continuous records.&nbsp
 gather meteorological data. You know, why do we need a station and how
 do they, can’t you just put it in a cup with a machine with a ruler or
 something to measure rainfall.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Well, early rain gauges are pretty much like that. I mean, they tend to
 be like a standard size. But yeah, they are pretty much just, you know,
 a very large kind of cup. With a measuring apparatus. So rainfall is actually
@@ -306,7 +306,7 @@ for the kind of observational sites that were either plantations or civic
 sites. So libraries often were places where –&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Oh, really?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Yeah, libraries would, they would keep observations. And I think mainly
 it’s because these were government owned. You know, so it’s like a government
 exercise. And these are government-owned sites. Botanic Gardens, obviously,
@@ -315,12 +315,12 @@ observation points for the whole Malay Peninsula. And Tan Tock Seng actually
 had its own observatory.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Oh. When you say an observatory, what did it have?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Instruments like the barometer, rain gauge, thermometer.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>All right. Did the colonial government attempt to manage the weather and
 make Singapore or Malaya more livable?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Yeah. I mean, I think they would have loved to have done more, to reduce
 the humidity. But, you know, the technology simply wasn’t there. But, what
 they did try to do was to manage the weather through infrastructure.&nbsp;</p>
@@ -348,7 +348,7 @@ and early 20th centuries.&nbsp;</p>
 <br>Clearly with Singapore becoming increasingly urbanised, cutting down forests.
 You have the urban heat problem. Can you talk about how the environment
 in Singapore began to change during this period?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>It changed quite quickly. And I think it’s interesting actually, looking
 at colonial sites like Singapore because say, in England, towns developed
 much more slowly over long, long, long periods. Here, because of the kind
@@ -373,13 +373,13 @@ because they had already been cleared.&nbsp;</p>
 <br>You know, that obviously has implications, right. Because obviously, if
 you have a city and you have roads, you don’t have earth and grass and
 trees to absorb the water.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Or the heat.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Or heat, yes. So, that increases flooding. Of course, you have a greater
 population, so more people are affected. And then, you know, it’s much
 hotter.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Yeah. It is a vicious cycle. It is very difficult for governments, especially
 in those days with limited resources to do really too much about it. And
 I think one of the things that I found interesting is that you always think
@@ -430,12 +430,12 @@ additional pumps. They didn’t have enough pumps and the gravity wasn’t
 quite enough. So, there were some flaws in the original design.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay, okay. That’s a shame. It’s a very pretty reservoir.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Well, it works well now.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>You’re comparing present day Singapore to the early 20th century. How
 different or similar are discussions about climate issues?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>There are similarities. They understood that the climate changed in the
 early 20th century. And they were also particularly concerned about human
 impacts, anthropogenic impacts on the climate. They already understood,
@@ -468,7 +468,7 @@ plantations. So, the scale wasn’t there, so the urgency wasn’t there.&nbsp;<
 <br>Okay. I’d like to turn to your book, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803" rel="noopener noreferrer nofollow" target="_blank">Imperial Weather</a></em>.
 Tell us what the book is about.</p>
 <p>Only it’s a big question, is it not? It’s like 260 pages or so.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>So, I guess it’s about all aspects of thinking about weather in the Straits
 Settlements, especially Singapore, largely from a British colonial perspective.
 So, it starts off with thinking about what was weather science, how it
@@ -484,15 +484,15 @@ the rhythms of life in the Straits Settlements as they were then.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>It’s a wonderful book and everybody should read it and buy it. What kind
 of sources did you have to refer to or to plumb –&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-<br>– in order to write? Well, I mean, this is one of the reasons why the
-book took so long to write, because –&nbsp;</p>
+<p><strong>Fiona </strong>
+<br>In order to write? Well, I mean, this is one of the reasons why the book
+took so long to write.</p>
 <p><strong>Jimmy</strong>
 <br>How long did it take to write?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-<br>Probably about 2 to 3 years. And it’s because you can’t just go to an
-archive or a library and do a search for weather because the weather is
-so ubiquitous. It’s not catalogued. You can’t go to the National Archives
+<p><strong>Fiona </strong>
+<br>Probably about two to three years. And it’s because you can’t just go
+to an archive or a library and do a search for weather because the weather
+is so ubiquitous. It’s not catalogued. You can’t go to the National Archives
 of Singapore and just put in “weather” because weather accounts or meteorological
 records might be in something else and is not going to be catalogued in
 that way. So, you have to look for sources. I read a lot of things like
@@ -500,12 +500,12 @@ agricultural records, plantation records, colonial government records.
 And you just have to go through a lot of material to find. You had to …&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>… sift through all these…&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>…many, many different records, everything, manually. And of course, Singapore
 was a British colony. So, a lot of the records are not in Singapore.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Oh, okay.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>So, it would have been very convenient for me working at SMU to have just
 gone round the corner to the National Archives. But a lot of the records
 are actually in Cambridge. From the British, Malayan Association. A lot
@@ -515,13 +515,13 @@ the scientific records. I went to the Wellcome Trust in London, which is
 a medical archive.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Oh.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>How did it help? So that’s the experiments that they were making – medical
 experiments that they were [doing on] the effects of heat on the human
 body.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Right.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>So, there’s all sorts of things. That’s one of the reasons why it took
 so long, because there was just so much. And pretty much any record, so
 personal diaries. At some point, you’re going to come across some reference
@@ -530,21 +530,21 @@ a flood or something like that.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>So, you go into personal diaries looking for people and they say, “oh,
 it rained really badly today”.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Yeah. Also the newspapers. So, what I would tend to do as a starting point
 is I would maybe go through all the newspapers. I went through about 100
 years worth of newspapers looking for floods and droughts.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Is this in Singapore? I mean, in Malaya?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Yes, so these are the National Library’s…&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Oh, NewspaperSG.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona</strong>
 <br>Yeah, brilliant resource.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>It is wonderful.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>And so I went through about 100 years of that looking for floods and droughts
 because those are things that stand out. And so once I had those particular
 years, I could then maybe go to somebody’s diary and look up that particular
@@ -563,7 +563,7 @@ like putting together a jigsaw. So official records, personal records.
 And they all come together to provide context.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>What was the genesis of this book?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Actually, more than 15 years ago, I was asked to look up, for a project
 I was working on back in the UK, meteorological records for Malaya. And
 as I started to look up the actual meteorological data, it was a scientific
@@ -582,14 +582,14 @@ of evolved over time to suddenly become this much larger project. I had
 lots, lots more material.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>[The book] could be even thicker than this?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Yeah, it could actually be.</p>
 <p><strong>Jimmy</strong>
 <br>You’re a full-time professor at SMU but you’re also the co-president of
 – and this is something I’ve never heard of – the International Commission
 for the History of Meteorology. What is it, and what does it involve? You
 get to go up on weather balloons and things?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona</strong>
 <br>I wish. No, it was established about 20 or so years ago by a very eminent
 historian of meteorology in the U.S., Jim Fleming. And he and some of his
 colleagues were all doing history of meteorology subjects and really felt
@@ -600,7 +600,7 @@ the history of meteorology. There's now several hundred members across
 the entire world.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>You meet every year.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>No, we don’t have funds necessarily to meet up and have an annual conference.
 But we do have events, we sponsor panels at conferences. I’ve just come
 back from the UK, actually. We had a nice, sponsored panel in Cambridge.
@@ -610,7 +610,7 @@ history of meteorology.&nbsp;</p>
 <br>It sounds fascinating. You teach all this at SMU. If a student came up
 to you and said, “why should I sign up for your course”? What would you
 say to them?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Well, I would say that if you want to find out a different side of Singapore
 history to the one that you perhaps learned at school, and if you want
 to understand more about how Singapore has grown in terms of its environmental
@@ -625,11 +625,11 @@ It’s just a different way of looking at things.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay. We do this with all our guests. We get them to complete a sentence.
 If I say to you “climate history” what would you say? Climate history is…&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Awesome.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Why is it awesome?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Because it teaches you about everything. You know, the climate is so ubiquitous
 to our existence as humans. It dictates what we eat, how we behave, the
 times of day in which we do things. And even today, you know, kind of very
@@ -647,13 +647,13 @@ happening for such a long time.&nbsp;</p>
 <br>I think we can all agree that it is very important. You know, there’s
 a great understanding these days about the impact of climate change. Do
 you think we’re likely to make a difference and stop climate change?&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>I think we need to move quicker. I think that one of the things as a historian
 that depresses me slightly is we have known about it since the 19th century.
 That’s unsurprising. And although maybe the scale of the understanding
 of the impact wasn’t necessarily understood. What I also know from kind
-of looking at much later history, like the 70s and the 80s, politicians
-have known about it in the 70s and 80s and it actually really requires
+of looking at much later history, like the ’70s and the ’80s, politicians
+have known about it in the ’70s and ’80s and it actually really requires
 a lot of political will to have done more in the past. And I think we really
 should have started in the ’70s, in the ’80s, to have done more. So, we’re
 now playing a game of catch up. The Singapore government, of course, is
@@ -663,7 +663,7 @@ which I see through the university side.</p>
 bigger countries like the US –&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>China.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona</strong>
 <br>China, yeah. That needs to step up because they’re the ones that have
 the biggest impact but it’s a group effort.&nbsp;</p>
 <p><strong>Jimmy</strong>
@@ -674,7 +674,7 @@ to read Fiona’s article that is on the BiblioAsia website at <a rel="noopener 
 <p>Her book, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803" rel="noopener noreferrer nofollow" target="_blank">Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya</a></em> is
 available at the National Library. Fiona, thank you very much for coming
 on the show and I wish you good luck in volume two of your book.&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
+<p><strong>Fiona </strong>
 <br>Indeed, thank you very much.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Thank you.<strong>&nbsp;</strong>
