@@ -58,127 +58,77 @@ podcast. Fiona. How’ve you been?&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>So how have you adapted to the weather? You came from the UAE before that?&nbsp;</p>
 <p><strong>Fiona Williamson</strong>
-<br>UK.</p>
-<p>&nbsp;</p>
+<br>UK.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, in the UK before that?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Yeah. So, it was a very big contrast from the classic English weather
-with the gray drizzle. Yes. The cooler temperatures.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>I’ve been here long enough to acclimatise.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Speaking of acclimatising, before air conditioning, how did people keep
-cool in Singapore in general?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Well, long before air conditioning, it was more a question of architectural
-solutions. So, we all know, structures like the incredible Peranakan building,
-which is just around the corner from the National Library on Armenian Street.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Yeah.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>But these buildings were created with central air wells with sort of things
-like high ceilings, which encourage airflow. The windows are placed in
-a particular way to encourage airflow to come through the building. And
-we must also remember that the temperatures weren’t quite as high in those
-days. Because of climate change, up until the 1950s, 1960s, temperatures
-were a lot lower.</p>
-<p>&nbsp;</p>
+<br>Oh, in the UK before that?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Yeah. So, it was a very big contrast
+from the classic English weather with the gray drizzle. Yes. The cooler
+temperatures.&nbsp;</p>
+<p><strong>Jimmy</strong>Right.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>I’ve been here long enough to acclimatise.&nbsp;</p>
+<p><strong>Jimmy</strong>Speaking of acclimatising, before air conditioning,
+how did people keep cool in Singapore in general?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Well, long before air conditioning, it
+was more a question of architectural solutions. So, we all know, structures
+like the incredible Peranakan building, which is just around the corner
+from the National Library on Armenian Street.&nbsp;</p>
+<p><strong>Jimmy</strong>Yeah.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>But these buildings were created with
+central air wells with sort of things like high ceilings, which encourage
+airflow. The windows are placed in a particular way to encourage airflow
+to come through the building. And we must also remember that the temperatures
+weren’t quite as high in those days. Because of climate change, up until
+the 1950s, 1960s, temperatures were a lot lower.&nbsp;</p>
 <p>So if we’re talking about pre air conditioning days, the temperatures
 would have been about 1.5 degrees lower on average and there was less urbanisation,
 so you don’t have so much of the urban heat effect. So to keep cool, it
 wasn’t quite so much of an issue because it wasn’t so hot anyway. You would
 have periods of heatwave but yesterday’s heatwave is more like today’s
-normal.</p>
-<p>&nbsp;</p>
+normal.&nbsp;</p>
 <p>So, yeah, it wasn’t quite so bad. The only one caveat I would mention,
 though, is I’m talking about kind of incredible buildings like the, you
 know, the Peranakan Museum. These were homes for the wealthy. Your average
-person wouldn’t have lived in these types of places.</p>
-<p>&nbsp;</p>
+person wouldn’t have lived in these types of places.&nbsp;</p>
 <p>But even then, things like shophouses, which were a large part of the
 Singapore city centre. They still had high ceilings. They had the verandas,
 the five-foot walkways. All of this was designed with the idea of airflow
 and ventilation. So, you know, these older-style buildings were perfectly
-designed for the tropical weather.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Right. Okay. But that’s like, you know, buildings for homes in general.
-When you start talking about bigger buildings, like in concert halls or
-cinemas, it must be different.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Yes and no. I mean, they were still all designed with this idea of kind
-of like, large spaces, ventilation. You would have had fans in the ceiling,
-of course, whether they were manual before the days of electricity. But
-if you think about things like, you know, the obviously iconic Raffles
-Hotel, again, it’s built in this style where you have blinds, you have
-these verandas, everything is designed again for airflow. If you walk through
-the Raffles Hotel, you can actually feel a breeze because it’s designed
-in a way to maximise airflow.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Okay, tell us about how air conditioning was introduced to Singapore.
-When and where and how did it happen?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Okay. So I think one of the important things to remember about this is,
-there have been precursors. You couldn’t have air conditioning until you
-had electricity. So electricity was an essential precursor of air conditioning,
-and there was electricity in Singapore from as early as the 1870s. And
-then you have the developments in the early, late 19th to the early 20th
-century of refrigeration techniques and newer cooling technologies. So
-air conditioning really comes in during the 1920s and the 1930s, first
-with mechanical ventilation, which is based on fans and air purification.
-And then by the 30s, something that’s more recognisable, is our modern
-style of air conditioning.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>When was air conditioning actually invented?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>I think in the early 1920s.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Okay. So, Singapore wasn’t that far behind then.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>No. So, I mean, the idea of cooling the air is ancient. Lots of countries
-in Asia have had ways of cooling air for a very long time, but the technology
-of air conditioning really developed commercially in the U.S. And then
-it was exported, and it came directly to Singapore from the U.S., actually
-through the Carrier [Air Conditioning] Company, which was a U.S. company.
-So, Singapore was a relatively early-adopter.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Okay. It is impressive. But then how prevalent then was, you know, air
-conditioning in the 1920s? What kind of buildings had it?</p>
+designed for the tropical weather.&nbsp;</p>
+<p><strong>Jimmy</strong>Right. Okay. But that’s like, you know, buildings
+for homes in general. When you start talking about bigger buildings, like
+in concert halls or cinemas, it must be different.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Yes and no. I mean, they were still all
+designed with this idea of kind of like, large spaces, ventilation. You
+would have had fans in the ceiling, of course, whether they were manual
+before the days of electricity. But if you think about things like, you
+know, the obviously iconic Raffles Hotel, again, it’s built in this style
+where you have blinds, you have these verandas, everything is designed
+again for airflow. If you walk through the Raffles Hotel, you can actually
+feel a breeze because it’s designed in a way to maximise airflow.&nbsp;</p>
+<p><strong>Jimmy</strong>Okay, tell us about how air conditioning was introduced
+to Singapore. When and where and how did it happen?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Okay. So I think one of the important
+things to remember about this is, there have been precursors. You couldn’t
+have air conditioning until you had electricity. So electricity was an
+essential precursor of air conditioning, and there was electricity in Singapore
+from as early as the 1870s. And then you have the developments in the early,
+late 19th to the early 20th century of refrigeration techniques and newer
+cooling technologies. So air conditioning really comes in during the 1920s
+and the 1930s, first with mechanical ventilation, which is based on fans
+and air purification. And then by the 30s, something that’s more recognisable,
+is our modern style of air conditioning.&nbsp;</p>
+<p><strong>Jimmy</strong>When was air conditioning actually invented?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>I think in the early 1920s.&nbsp;</p>
+<p><strong>Jimmy</strong>Okay. So, Singapore wasn’t that far behind then.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>No. So, I mean, the idea of cooling the
+air is ancient. Lots of countries in Asia have had ways of cooling air
+for a very long time, but the technology of air conditioning really developed
+commercially in the U.S. And then it was exported, and it came directly
+to Singapore from the U.S., actually through the Carrier [Air Conditioning]
+Company, which was a U.S. company. So, Singapore was a relatively early-adopter.&nbsp;</p>
+<p><strong>Jimmy</strong>Okay. It is impressive. But then how prevalent then
+was, you know, air conditioning in the 1920s? What kind of buildings had
+it?</p>
 <p>&nbsp;</p>
 <p><strong>Fiona Williamson</strong>
 </p>
