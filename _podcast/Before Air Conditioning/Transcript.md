@@ -128,30 +128,20 @@ to Singapore from the U.S., actually through the Carrier [Air Conditioning]
 Company, which was a U.S. company. So, Singapore was a relatively early-adopter.&nbsp;</p>
 <p><strong>Jimmy</strong>Okay. It is impressive. But then how prevalent then
 was, you know, air conditioning in the 1920s? What kind of buildings had
-it?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Well, here’s the thing is, it’s very much based on who had electricity.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Ah, okay.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>So, in those days, there was a power station. But the power station was
-mainly for some of the commercial infrastructure, like the trams. The main
-buildings would have been the ones that were large enough or could afford
-to have their own generator, like electrical generators. So, you’re looking
-at commercial enterprises, basically.</p>
-<p>&nbsp;</p>
+it?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Well, here’s the thing is, it’s very
+much based on who had electricity.&nbsp;</p>
+<p><strong>Jimmy</strong>Ah, okay.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>So, in those days, there was a power
+station. But the power station was mainly for some of the commercial infrastructure,
+like the trams. The main buildings would have been the ones that were large
+enough or could afford to have their own generator, like electrical generators.
+So, you’re looking at commercial enterprises, basically.&nbsp;</p>
 <p>To have an air conditioning unit in your home, it would have been very
 expensive. And you would also have had to have had your own personal electrical
 generator as well, because most houses, domestic houses were not on the
 national grid. There wasn’t a national grid. They would have been commercial
-enterprises that could have afforded it.</p>
-<p>&nbsp;</p>
+enterprises that could have afforded it.&nbsp;</p>
 <p>[It was also available where there] would be a real reason to have it.
 So, for example, hospitals – the operating surgery in Tan Tock Seng was
 one of the first places to have it because operations go better if you’ve
@@ -159,94 +149,58 @@ got cooler air rather than heat and humidity. And places where you have
 a lot of people gathering, like hotels, concert halls, dance halls – dance
 halls in particular were one of the early adopters because it was part
 of the USP, the unique selling point, you know, [people] came to our dance
-hall because [they had] air conditioning.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>It's obviously more pleasant to dance with air conditioning than with
-tropical heat.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Exactly. And another thing about air conditioning that we tend to forget
-about today is that in those days, everybody smoked.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>And if you’re in a dance hall where you’re, you know, maybe breathing
-a little more deeply because you’re being physically active, and it’s full
-of cigarette smoke, as well as being hot – it’s going to be pretty unpleasant.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>That does not sound that fun.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Yeah, so a lot of these early commercial enterprises were like, okay,
-come and dance with us, you’ll be cooler, but you’ll also be healthier.
-You know, it’ll purify the air. It will get rid of all the fumes. And it’ll
-just be this much nicer environment to dance in.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Okay. So, do we know the first building in Singapore to get air conditioning?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>One of the first buildings was the Capitol.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>All right.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Which actually, you know, very close to the library. And this, of course,
-was a major cinema. And owned by wealthy entrepreneurs who could afford
-to invest and they actually had the mechanical ventilation first and then
-updated again around 1936, I think.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Right. Well, all this to say that, you know, with mechanical ventilation
-systems in the 1920s or 1910s, but, prior to that, you know, people coming
-from Europe or wherever coming to Singapore or to Asia had to encounter
-the heat and humidity. And so how did they sort of react? How did they
-write about it?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>So, there’s a really big kind of historical literature about adaptation
-in Europeans in tropical atmospheres. And there are two sides to this story.
-On the one hand, there’s this kind of fascination with the tropics and
-the incredible colors and the heat and the vibrancy. But on the other hand,
-there’s a negative side where a lot of European doctors felt like the heat
-and the humidity would be unhealthy.</p>
-<p>&nbsp;</p>
+hall because [they had] air conditioning.&nbsp;</p>
+<p><strong>Jimmy</strong>It's obviously more pleasant to dance with air conditioning
+than with tropical heat.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Exactly. And another thing about air
+conditioning that we tend to forget about today is that in those days,
+everybody smoked.&nbsp;</p>
+<p><strong>Jimmy</strong>Right.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>And if you’re in a dance hall where you’re,
+you know, maybe breathing a little more deeply because you’re being physically
+active, and it’s full of cigarette smoke, as well as being hot – it’s going
+to be pretty unpleasant.&nbsp;</p>
+<p><strong>Jimmy</strong>That does not sound that fun.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Yeah, so a lot of these early commercial
+enterprises were like, okay, come and dance with us, you’ll be cooler,
+but you’ll also be healthier. You know, it’ll purify the air. It will get
+rid of all the fumes. And it’ll just be this much nicer environment to
+dance in.&nbsp;</p>
+<p><strong>Jimmy</strong>Okay. So, do we know the first building in Singapore
+to get air conditioning?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>One of the first buildings was the Capitol.&nbsp;</p>
+<p><strong>Jimmy</strong>All right.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Which actually, you know, very close
+to the library. And this, of course, was a major cinema. And owned by wealthy
+entrepreneurs who could afford to invest and they actually had the mechanical
+ventilation first and then updated again around 1936, I think.&nbsp;</p>
+<p><strong>Jimmy</strong>Right. Well, all this to say that, you know, with
+mechanical ventilation systems in the 1920s or 1910s, but, prior to that,
+you know, people coming from Europe or wherever coming to Singapore or
+to Asia had to encounter the heat and humidity. And so how did they sort
+of react? How did they write about it?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>So, there’s a really big kind of historical
+literature about adaptation in Europeans in tropical atmospheres. And there
+are two sides to this story. On the one hand, there’s this kind of fascination
+with the tropics and the incredible colors and the heat and the vibrancy.
+But on the other hand, there’s a negative side where a lot of European
+doctors felt like the heat and the humidity would be unhealthy.&nbsp;</p>
 <p>And, in particular, it was unhealthy for the European body because it
 was unused to, it was not acclimatised. So, there were a lot of medical
 studies, talking about the heat and the humidity in the 19th and very early
 20th centuries. By the early 20th century, a lot of that thinking was dying
 away because it was kind of accepted that it was not as bad as people once
-assumed.</p>
-<p>&nbsp;</p>
+assumed.&nbsp;</p>
 <p>But at the same time, I mean, it’s going to be hard to adapt, certainly
 to start off with, if you’ve just arrived, and you’re not used to living
 in such heat. I think one of the things that’s interesting to me is thinking
 about transport at that time. These days you get off the plane. I can go
-all the way from the UK to Singapore in 12, 13 hours.</p>
-<p>&nbsp;</p>
+all the way from the UK to Singapore in 12, 13 hours.&nbsp;</p>
 <p>I get on the plane, it’s cold and wet, winter maybe, and I get off and
 the heat and humidity just hits me. But in those days, you have to think,
 you would have been coming by boat. You would have taken weeks and you’d
 have been actually adapting all the way. It wouldn’t have just hit you
-like walking out of the door.</p>
-<p>&nbsp;</p>
+like walking out of the door.&nbsp;</p>
 <p>You would have adapted as you went through the Middle East. You would
 have been on deck as you kind of came past India. And the heat would have
 gotten stronger as you came along. So, over several weeks, the body would
@@ -257,128 +211,88 @@ working for the civil service. And so, they would have had relatively larger
 houses. And those larger houses would probably not have been in the city
 centre, but maybe slightly outside. In the area now, there is the Tanglin
 area on top of Orchard Road. So, these are houses that are usually on slightly
-in elevation, or have a lot of land, big gardens.</p>
-<p>&nbsp;</p>
-<p>So you would have got more air flow, more ventilation.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Right. Talking about colonial civil servants. Tell us about meteorology
-as an imperial science or a colonial project. How does one understand meteorology
-within that particular framework?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>So, meteorology has been really important to the colonial enterprise,
-right from the very beginnings of European expansion or exploration. Firstly,
-because of oceangoing or seagoing navigation, you need to understand the
-weather. Especially, you know, in the days before steamships, you were
-completely reliant on the winds, on the weather. But when talking about
-the British colonial context, when they first came here, they went to Penang
-in the 1780s.</p>
-<p>&nbsp;</p>
+in elevation, or have a lot of land, big gardens.&nbsp;</p>
+<p>So you would have got more air flow, more ventilation.&nbsp;</p>
+<p><strong>Jimmy</strong>Right. Talking about colonial civil servants. Tell
+us about meteorology as an imperial science or a colonial project. How
+does one understand meteorology within that particular framework?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>So, meteorology has been really important
+to the colonial enterprise, right from the very beginnings of European
+expansion or exploration. Firstly, because of oceangoing or seagoing navigation,
+you need to understand the weather. Especially, you know, in the days before
+steamships, you were completely reliant on the winds, on the weather. But
+when talking about the British colonial context, when they first came here,
+they went to Penang in the 1780s.&nbsp;</p>
 <p>And one of the very first things they did was take the temperature and
 the rainfall. And they did this for about six months after they first arrived,
 because it was super important for them to understand whether, you know,
 the area around Penang Island would be suitable for habitation. The weather,
 of course, is important for that, but more importantly, suitable for long
 term habitation in the sense of growing fruit, vegetables, crops, ultimately
-ones that could be commercial.</p>
-<p>&nbsp;</p>
+ones that could be commercial.&nbsp;</p>
 <p>So, they did lots of studies of the natural environment, the soils, the
 local plants, flora, fauna as well as the weather. And you see these arguments
 in the very early days of settlement establishing the Straits Settlements,
 that arguments were being used like, well, you know, this place has a deep
-harbour, but then this place also has a great climate.</p>
-<p>&nbsp;</p>
+harbour, but then this place also has a great climate.&nbsp;</p>
 <p>It would be fantastic for growing commercial crops at a later date. So,
 the weather was really important right from the beginning as part of this
-commercialisation of the new areas where the British were going.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Right. And I think in Singapore, when the British first arrived, rainfall
-and temperature were one of the first things that they began recording.
-Records actually go quite far back, don’t they?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>They do. There are records here literally from 1819. There are gaps, huge
-gaps, but so there are records. Actually, I think there’s some early ones
-even going back to about 1815 from Singapore. With early commercial, just
-exploration. And then from 1819 onwards, right through, well, until the
-present day, there are gaps around the 30s, 40s and 50s, because meteorology
-wasn’t being kept by anyone in particular. It was a bit of an ad hoc affair.
-But from the 1860s onwards, it became more of a kind of a government-owned
-enterprise. And from then on, we’ve got more accurate continuous records.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>In Malaya, I mean we have these observational stations that are used to
-gather meteorological data. You know, why do we need a station and how
-do they, can’t you just put it in a cup with a machine with a ruler or
-something to measure rainfall.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Well, early rain gauges are pretty much like that. I mean, they tend to
-be like a standard size. But yeah, they are pretty much just, you know,
-a very large kind of cup. With a measuring apparatus. So rainfall is actually
-one of the easiest things to measure. And rainfall has been measured in
-countries in Asia since the 1500s in places like Korea, China. So, this
-is very early technology that was well known around the world.</p>
-<p>&nbsp;</p>
+commercialisation of the new areas where the British were going.&nbsp;</p>
+<p><strong>Jimmy</strong>Right. And I think in Singapore, when the British
+first arrived, rainfall and temperature were one of the first things that
+they began recording. Records actually go quite far back, don’t they?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>They do. There are records here literally
+from 1819. There are gaps, huge gaps, but so there are records. Actually,
+I think there’s some early ones even going back to about 1815 from Singapore.
+With early commercial, just exploration. And then from 1819 onwards, right
+through, well, until the present day, there are gaps around the 30s, 40s
+and 50s, because meteorology wasn’t being kept by anyone in particular.
+It was a bit of an ad hoc affair. But from the 1860s onwards, it became
+more of a kind of a government-owned enterprise. And from then on, we’ve
+got more accurate continuous records.&nbsp;</p>
+<p><strong>Jimmy</strong>In Malaya, I mean we have these observational stations
+that are used to gather meteorological data. You know, why do we need a
+station and how do they, can’t you just put it in a cup with a machine
+with a ruler or something to measure rainfall.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Well, early rain gauges are pretty much
+like that. I mean, they tend to be like a standard size. But yeah, they
+are pretty much just, you know, a very large kind of cup. With a measuring
+apparatus. So rainfall is actually one of the easiest things to measure.
+And rainfall has been measured in countries in Asia since the 1500s in
+places like Korea, China. So, this is very early technology that was well
+known around the world.&nbsp;</p>
 <p>Temperature was harder because you had to wait for the invention of the
 thermometer. So, the Fahrenheit thermometer was brought in from the UK.
 It was made by instrument manufacturers in London. And then brought in
-by the East India Company ships, via India and then down to Malaya.</p>
-<p>&nbsp;</p>
+by the East India Company ships, via India and then down to Malaya.&nbsp;</p>
 <p>And then that was what was being used in Georgetown, in Singapore and
 in Malacca for very, very early observations. So, the Straits Settlements,
 the urban centres have got those observational sites. Originally, they
 were more likely to be military sites. So, observations would be kept at
 Fort Canning because it was a military site where you had officers who
 were used to making measurements because they would have done it on board
-ship.</p>
-<p>&nbsp;</p>
+ship.&nbsp;</p>
 <p>And later you have more ad hoc stations. So, plantation owners, for example,
 were really interested in rainfall because they were growing crops. So,
 they might make their own observations. So those were some of the reasons
 for the kind of observational sites that were either plantations or civic
-sites. So libraries often were places where –</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Oh, really?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Yeah, libraries would, they would keep observations. And I think mainly
-it’s because these were government owned. You know, so it’s like a government
-exercise. And these are government-owned sites. Botanic Gardens, obviously,
-I suppose. But then hospitals, from the 1880s, hospitals were the main
-observation points for the whole Malay Peninsula. And Tan Tock Seng actually
-had its own observatory.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Oh. When you say an observatory, what did it have?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Instruments like the barometer, rain gauge, thermometer.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>All right. Did the colonial government attempt to manage the weather and
-make Singapore or Malaya more livable?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Yeah. I mean, I think they would have loved to have done more, to reduce
-the humidity. But, you know, the technology simply wasn’t there. But, what
-they did try to do was to manage the weather through infrastructure.</p>
-<p>&nbsp;</p>
+sites. So libraries often were places where –&nbsp;</p>
+<p><strong>Jimmy</strong>Oh, really?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Yeah, libraries would, they would keep
+observations. And I think mainly it’s because these were government owned.
+You know, so it’s like a government exercise. And these are government-owned
+sites. Botanic Gardens, obviously, I suppose. But then hospitals, from
+the 1880s, hospitals were the main observation points for the whole Malay
+Peninsula. And Tan Tock Seng actually had its own observatory.&nbsp;</p>
+<p><strong>Jimmy</strong>Oh. When you say an observatory, what did it have?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Instruments like the barometer, rain
+gauge, thermometer.&nbsp;</p>
+<p><strong>Jimmy</strong>All right. Did the colonial government attempt to
+manage the weather and make Singapore or Malaya more livable?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Yeah. I mean, I think they would have
+loved to have done more, to reduce the humidity. But, you know, the technology
+simply wasn’t there. But, what they did try to do was to manage the weather
+through infrastructure.&nbsp;</p>
 <p>As the town started to grow, it was obvious from the beginning that there
 was an issue particularly with water, not just the lack of water for people
 to drink as the population grew. But water was also required for the port
@@ -386,38 +300,28 @@ because ships would come into the ports, to take on fresh water. So, as
 the population grew and as the commercial enterprises grew, there was a
 need for more fresh water. And actually the commercial reasons were probably
 even more so than the population increases. But then conversely, you have
-the opposite effect.</p>
-<p>&nbsp;</p>
+the opposite effect.&nbsp;</p>
 <p>You know, this is a monsoon climate. Every December, January, there were
 heavy rains and we don’t really notice it in modern day Singapore. Yeah,
 we can get annoyed because, you know, it’s been raining for the entire
 week. It’s, you know, difficult to manage. But in those days, if it rained
-for an entire week, whole parts of Singapore would have flooded.</p>
-<p>&nbsp;</p>
+for an entire week, whole parts of Singapore would have flooded.&nbsp;</p>
 <p>And not just like a little bit of inconvenience, but, like, seriously
 flooded for days. And this then had a knock-on effect in terms of disease
 as well. So, it was really in the government’s interests to both provide
 better sources of water through reservoirs, but also to control water that
-fell so that it wouldn’t flood.</p>
-<p>&nbsp;</p>
+fell so that it wouldn’t flood.&nbsp;</p>
 <p>So, lots of big engineering projects were taking place in the late 19th
-and early 20th centuries.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Clearly with Singapore becoming increasingly urbanised, cutting down forests.
-You have the urban heat problem. Can you talk about how the environment
-in Singapore began to change during this period?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>It changed quite quickly. And I think it’s interesting actually, looking
-at colonial sites like Singapore because say, in England, towns developed
-much more slowly over long, long, long periods. Here, because of the kind
-of rapid migration and the rapid development, you get this kind of lesson
-in environmental change in microcosm, you know, some things that will happen
-over like 100 years rather than 500.</p>
-<p>&nbsp;</p>
+and early 20th centuries.&nbsp;</p>
+<p><strong>Jimmy</strong>Clearly with Singapore becoming increasingly urbanised,
+cutting down forests. You have the urban heat problem. Can you talk about
+how the environment in Singapore began to change during this period?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>It changed quite quickly. And I think
+it’s interesting actually, looking at colonial sites like Singapore because
+say, in England, towns developed much more slowly over long, long, long
+periods. Here, because of the kind of rapid migration and the rapid development,
+you get this kind of lesson in environmental change in microcosm, you know,
+some things that will happen over like 100 years rather than 500.&nbsp;</p>
 <p>So, you can almost see change happening. If you were here in the 19th
 century for one generation, in your lifetime you’d have seen so much change
 happen. And from very early on, land was cleared for plantation, commercial
@@ -428,64 +332,45 @@ the long term. So, urbanisation happened very, very fast. The majority
 of the changes actually happened probably post-1950s. It’s actually been
 because of, again, you know, urbanisation happened mainly since the 1950s,
 but a lot of that original kind of forests and stuff that was developed
-into plantations was already gone in the 19th century.</p>
-<p>&nbsp;</p>
+into plantations was already gone in the 19th century.&nbsp;</p>
 <p>And after the plantations, a lot of them shut down. A lot of the newer
 housing estates that we have are actually built on old plantation sites
-because they had already been cleared.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>You know, that obviously has implications, right. Because obviously, if
-you have a city and you have roads, you don’t have earth and grass and
-trees to absorb the water.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Or the heat.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Or heat, yes. So, that increases flooding. Of course, you have a greater
-population, so more people are affected. And then, you know, it’s much
-hotter.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Yeah. It is a vicious cycle. It is very difficult for governments, especially
-in those days with limited resources to do really too much about it. And
-I think one of the things that I found interesting is that you always think
-of the British Empire as being incredibly wealthy. And certain people in
-certain parts of it were, but really, when it came to a lot of the colonies
-in Southeast Asia, the government in London kind of said, okay, you can
-just do your own thing. You look after yourself. And so, when it came to
-creating a big reservoir project or something, the local people here had
-to rely on a lot of donations. Major philanthropists, to actually give
-the money to sponsor some of these projects. So, you can see<s>,</s>  <s>like, </s>engineering
-projects that were proposed, but they just never got enacted.</p>
-<p><s>&nbsp;</s>
-</p>
-<p>&nbsp;So, the government had the right idea, but they just simply couldn't
-do a lot of things because they didn't have the money or the resources.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>I was reading your book where you talk about MacRitchie reservoir, but
-there was a mistake? Can you tell us a little bit about that?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Actually Brenda Yeoh from NUS has written quite a lot about this as well.
-But that, the MacRitchie project. Yeah, it was funded in the 1840s, maybe
-1850s. And it took about 20 or 30 years to come to fruition. The original
-money was given by a wealthy Chinese philanthropist. And he bequeathed
-the money saying that Singapore needs this reservoir. We need the water.
-And he gave the money. But the problem was the amount of time it took.
-Of course, you have inflation. So, the original costs and the money that
-he gave wasn’t enough to complete the project because of inflation. And
-then, of course, over that period of time, the urban centre and the commercial
-centre had developed so much more was actually needed.</p>
-<p>&nbsp;</p>
+because they had already been cleared.&nbsp;</p>
+<p><strong>Jimmy</strong>You know, that obviously has implications, right.
+Because obviously, if you have a city and you have roads, you don’t have
+earth and grass and trees to absorb the water.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Or the heat.&nbsp;</p>
+<p><strong>Jimmy</strong>Or heat, yes. So, that increases flooding. Of course,
+you have a greater population, so more people are affected. And then, you
+know, it’s much hotter.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Yeah. It is a vicious cycle. It is very
+difficult for governments, especially in those days with limited resources
+to do really too much about it. And I think one of the things that I found
+interesting is that you always think of the British Empire as being incredibly
+wealthy. And certain people in certain parts of it were, but really, when
+it came to a lot of the colonies in Southeast Asia, the government in London
+kind of said, okay, you can just do your own thing. You look after yourself.
+And so, when it came to creating a big reservoir project or something,
+the local people here had to rely on a lot of donations. Major philanthropists,
+to actually give the money to sponsor some of these projects. So, you can
+see<s> </s>engineering projects that were proposed, but they just never
+got enacted.</p>
+<p>So, the government had the right idea, but they just simply couldn't do
+a lot of things because they didn't have the money or the resources.&nbsp;</p>
+<p><strong>Jimmy</strong>I was reading your book where you talk about MacRitchie
+reservoir, but there was a mistake? Can you tell us a little bit about
+that?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Actually Brenda Yeoh from NUS has written
+quite a lot about this as well. But that, the MacRitchie project. Yeah,
+it was funded in the 1840s, maybe 1850s. And it took about 20 or 30 years
+to come to fruition. The original money was given by a wealthy Chinese
+philanthropist. And he bequeathed the money saying that Singapore needs
+this reservoir. We need the water. And he gave the money. But the problem
+was the amount of time it took. Of course, you have inflation. So, the
+original costs and the money that he gave wasn’t enough to complete the
+project because of inflation. And then, of course, over that period of
+time, the urban centre and the commercial centre had developed so much
+more was actually needed.&nbsp;</p>
 <p>So, it was like it never quite kept up with need. And there was a major
 drought in 1877, and the newspapers were just full of complaints like,
 we’ve got this reservoir sitting there and it’s not working yet. And it
@@ -495,125 +380,86 @@ You know, the drought has been resolved because of MacRitchie and actually,
 you know, the drought was just over anyway. But yeah, so it took ages and
 funding was a huge, huge problem. And also because reservoirs in those
 days (and still are in many respects) were built on what we call the gravitation
-principle.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>What does that mean?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>So, you build it on a hill so you don’t need to rely so much on pumps
-to pump the water from the reservoir, to have enough pressure to actually
-push it into people’s taps. Or wherever it is you want it to go. You need
-the pressure. So, gravity provides the pressure. Of course, you know, that
-area around MacRitchie is elevated, but Singapore doesn’t have mountains.
-So, it was never quite high enough to provide enough pressure without using
-additional pumps. They didn’t have enough pumps and the gravity wasn’t
-quite enough. So, there were some flaws in the original design.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Okay, okay. That’s a shame. It’s a very pretty reservoir.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>Well, it works well now.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>You’re comparing present day Singapore to the early 20th century. How
-different or similar are discussions about climate issues?</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>There are similarities. They understood that the climate changed in the
-early 20th century. And they were also particularly concerned about human
-impacts, anthropogenic impacts on the climate. They already understood,
-from the 19th century, that humans could impact the climate. And things
-like chopping down trees would change, could increase heat, could potentially
-decrease rainfall.</p>
-<p>&nbsp;</p>
+principle.&nbsp;</p>
+<p><strong>Jimmy</strong>What does that mean?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>So, you build it on a hill so you don’t
+need to rely so much on pumps to pump the water from the reservoir, to
+have enough pressure to actually push it into people’s taps. Or wherever
+it is you want it to go. You need the pressure. So, gravity provides the
+pressure. Of course, you know, that area around MacRitchie is elevated,
+but Singapore doesn’t have mountains. So, it was never quite high enough
+to provide enough pressure without using additional pumps. They didn’t
+have enough pumps and the gravity wasn’t quite enough. So, there were some
+flaws in the original design.&nbsp;</p>
+<p><strong>Jimmy</strong>Okay, okay. That’s a shame. It’s a very pretty reservoir.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>Well, it works well now.&nbsp;</p>
+<p><strong>Jimmy</strong>You’re comparing present day Singapore to the early
+20th century. How different or similar are discussions about climate issues?&nbsp;</p>
+<p><strong>Fiona Williamson</strong>There are similarities. They understood
+that the climate changed in the early 20th century. And they were also
+particularly concerned about human impacts, anthropogenic impacts on the
+climate. They already understood, from the 19th century, that humans could
+impact the climate. And things like chopping down trees would change, could
+increase heat, could potentially decrease rainfall.&nbsp;</p>
 <p>So, these questions were already understood. And there are questions even
 in the local council minutes. Governmental minutes from meetings were,
 you know, so and so from representing a particular area of Singapore would
 say, you know, Mr. Speaker, you know, what can we say about chopping down
-trees? Are we going to address this problem?</p>
-<p>&nbsp;</p>
+trees? Are we going to address this problem?&nbsp;</p>
 <p>So they’re actually kind of asking: given that we know that climate change
 is induced by people, what are we doing to address this? So, they were
 asking these questions over 100 years ago. Which is not that dissimilar
-today. I think the difference is that the science was not as strong.</p>
-<p>&nbsp;</p>
+today. I think the difference is that the science was not as strong.&nbsp;</p>
 <p>It was more like inferred. So, people knew that cities tended to be hotter
 than rural areas because you could feel it. It was experiential. People
 knew that temperature had increased slightly in areas where there had been
 deforestation because they’d seen it on the meteorological records, but
 science was still not as strong. And also it just wasn’t considered to
-have been a big deal.</p>
-<p>&nbsp;</p>
+have been a big deal.&nbsp;</p>
 <p>They were worried that if the climate changed, rainfall would change.
 That might have an impact on agriculture. They were not concerned that
 there would be the impact like we know today about the rising temperatures
 and how it would affect human health, human survivability and adaptability.
 They just didn’t think it was ever going to be that big a deal. They were
 just concerned about whether we would have enough rain to water the rubber
-plantations. So, the scale wasn’t there, so the urgency wasn’t there.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Okay. I’d like to turn to your book, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803" rel="noopener noreferrer nofollow" target="_blank">Imperial Weather</a></em>.
+plantations. So, the scale wasn’t there, so the urgency wasn’t there.&nbsp;</p>
+<p><strong>Jimmy</strong>Okay. I’d like to turn to your book, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803" rel="noopener noreferrer nofollow" target="_blank">Imperial Weather</a></em>.
 Tell us what the book is about.</p>
-<p>Only it’s a big question, is it not? It’s like 260 pages or so.</p>
-<p>&nbsp;</p>
-<p><strong>Fiona Williamson</strong>
-</p>
-<p>So, I guess it’s about all aspects of thinking about weather in the Straits
-Settlements, especially Singapore, largely from a British colonial perspective.
-So, it starts off with thinking about what was weather science, how it
-was understood, how the climate was understood and how climate change was
-understood. It then moves into thinking about controlling the weather.</p>
-<p>&nbsp;</p>
+<p>Only it’s a big question, is it not? It’s like 260 pages or so.&nbsp;</p>
+<p><strong>Fiona Williamson</strong>So, I guess it’s about all aspects of
+thinking about weather in the Straits Settlements, especially Singapore,
+largely from a British colonial perspective. So, it starts off with thinking
+about what was weather science, how it was understood, how the climate
+was understood and how climate change was understood. It then moves into
+thinking about controlling the weather.&nbsp;</p>
 <p>So, I look at things like how the government controlled floods or droughts
 or tried to control heat and humidity through the introduction of cooling
 systems like air conditioning. So, it’s kind of about all these different
 ways of thinking through weather. It talks about weather and health and
 how that was conceptualised by the colonial government. It talks about
 managing the weather, but also a little bit about how weather kind of created
-the rhythms of life in the Straits Settlements as they were then.</p>
-<p>&nbsp;</p>
+the rhythms of life in the Straits Settlements as they were then.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s a wonderful book and everybody should read it and buy it. What kind
-of sources did you have to refer to or to plumb –</p>
-<p>&nbsp;</p>
+<br>It’s a wonderful book and everybody should read it and buy it. What kind
+of sources did you have to refer to or to plumb –&nbsp;</p>
 <p><strong>Fiona Williamson</strong>
-</p>
-<p>– in order to write? Well, I mean, this is one of the reasons why the
-book took so long to write, because –</p>
-<p>&nbsp;</p>
+<br>– in order to write? Well, I mean, this is one of the reasons why the
+book took so long to write, because –&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>How long did it take to write?</p>
-<p>&nbsp;</p>
+<br>How long did it take to write?&nbsp;</p>
 <p><strong>Fiona Williamson</strong>
-</p>
-<p>Probably about 2 to 3 years. And it’s because you can’t just go to an
+<br>Probably about 2 to 3 years. And it’s because you can’t just go to an
 archive or a library and do a search for weather because the weather is
 so ubiquitous. It’s not catalogued. You can’t go to the National Archives
 of Singapore and just put in “weather” because weather accounts or meteorological
 records might be in something else and is not going to be catalogued in
 that way. So, you have to look for sources. I read a lot of things like
 agricultural records, plantation records, colonial government records.
-And you just have to go through a lot of material to find. You had to …</p>
-<p>&nbsp;</p>
+And you just have to go through a lot of material to find. You had to …&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>… sift through all these…</p>
-<p>&nbsp;</p>
+<br>… sift through all these…&nbsp;</p>
 <p><strong>Fiona Williamson</strong>
-</p>
-<p>…many, many different records, everything, manually. And of course, Singapore
+<br>…many, many different records, everything, manually. And of course, Singapore
 was a British colony. So, a lot of the records are not in Singapore.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
