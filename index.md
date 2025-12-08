@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/
-      button: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
+      url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
+      button: Dutch Burghers in British Malaya
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Bacalah Singapura/HeroImage_BacalahSingapura2.jpg
+      background: /images/Vol 21 Issue 3/Dutch Burghers/HeroImage_burghers2.jpg
       variant: center
   - infopic:
       title: In Search of Silvestr
