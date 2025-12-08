@@ -28,6 +28,17 @@ sections:
       image: /images/Vol 21 Issue 4/Flu/Flu_main.png
       alt: 1918 Flu Pandemic in Singapore
   - infopic:
+      title: "Echoes from the Archives: Where Memories and Mystery Meet"
+      subtitle: Inspired by History
+      id: infopic
+      description: Where past traumas echo in oral testimonies, Tracey Morton
+        discovers both a window into Singapore’s past and inspiration for her
+        novel, Someone Is Coming.
+      button: Inspiration from oral history and old newspapers
+      url: /people/2025/11/tracey-morton-writer-memories-mystery/
+      image: /images/Podcast/tracey_600_400.jpg
+      alt: Echoes from the Archives
+  - infopic:
       title: In Search of Silvestr
       subtitle: People
       id: infopic
@@ -1017,15 +1028,4 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: "Echoes from the Archives: Where Memories and Mystery Meet"
-      subtitle: Inspired by History
-      id: infopic
-      description: Where past traumas echo in oral testimonies, Tracey Morton
-        discovers both a window into Singapore’s past and inspiration for her
-        novel, Someone Is Coming.
-      button: Inspiration from oral history and old newspapers
-      url: /people/2025/11/tracey-morton-writer-memories-mystery/
-      image: /images/Podcast/tracey_600_400.jpg
-      alt: Echoes from the Archives
 ---
