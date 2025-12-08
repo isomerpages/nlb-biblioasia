@@ -113,9 +113,9 @@ The sheer size of Eu Villa accordingly necessitated a large kennel of dogs to pa
 
 With the huge amount of expensive jade, statues, paintings, jewellery and other precious artifacts in the villa, security was a major concern for the household. All in all, it was estimated that there were about a hundred servants, chauffeurs, gardeners, dog handlers, amahs and cooks who attended to and served the Eu family.[^22]
 
-Eu had 11 wives who variously provided him with 13 sons and nine daughters. To accommodate the enormous family, an annex that came to be called, “The Spanish House” was built to house the sons.[^23]
+Eu had 11 wives who variously provided him with 13 sons and nine daughters. To accommodate the enormous family, an annex that came to be called “The Spanish House” was built to house the sons.[^23]
 
-Eu owned a fleet of six cars, including a Rolls Royce and a 44 hp super charged seven-seater Bentley.[^24]
+Eu owned a fleet of six cars, including a Rolls Royce and a 44 hp supercharged seven-seater Bentley.[^24]
 
 #### **Philanthropic Endeavours**
 
@@ -131,7 +131,7 @@ After his departure from Singapore, Eu Villa continued to be home to his various
 
 #### **End of an Era**
 
-Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers and society events were held. Under the auspices of Mrs Diana Eu, wife of Richard Eu Keng Mun (a son of Eu Tong Sen), the villa was frequently the setting for bridge and mahjong drives by the Chinese Ladies Association in aid of different charities, including St Andrew's Hospital, the Singapore Anti-Tuberculosis Association and the Singapore Boys’ Scouts Association.[^31]
+Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers and society events were held. Under the auspices of Mrs Diana Eu, wife of Richard Eu Keng Mun (a son of Eu Tong Sen), the villa was frequently the setting for bridge and mahjong drives by the Chinese Ladies' Association in aid of different charities, including St Andrew's Hospital, the Singapore Anti-Tuberculosis Association and the Singapore Boys’ Scouts Association.[^31]
 
 <div style="background-color: white;">
 <br>
