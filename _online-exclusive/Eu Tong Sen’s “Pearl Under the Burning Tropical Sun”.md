@@ -21,11 +21,11 @@ Eu was born in Penang on 23 July 1877 but received his early education in Foshan
 <img src="/images/Vol-16-issue-3/building/planningbuilding-eutongsenportrait.jpg" style="width: 100%;">
 Portrait of Eu Tong Sen. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 332. Collection of the National Library, Singapore (Accession no. B20048226B).</i></div>
 
-Eu took over his father’s business at the relative early age of 21 following the latter’s untimely death in 1890. He parlayed his father’s concerns into mining, rubber, banking, traditional Chinese medicine, entertainment and hotels. Like many of the Chinese entrepreneurs of his time, Eu’s wealth was also accrued through the acquisition of British monopolies for opium, alcohol and gambling.[^2]&nbsp;
+Eu took over his father’s business at the relatively early age of 21 following the latter’s untimely death in 1890. He parlayed his father’s concerns into mining, rubber, banking, traditional Chinese medicine, entertainment and hotels. Like many of the Chinese entrepreneurs of his time, Eu’s wealth was also accrued through the acquisition of British monopolies for opium, alcohol and gambling.[^2]&nbsp;
 
 #### **An Opulent Mansion**
 
-Eu Villa on Adis Road was the third mansion to be built at the site on Mount Sophia. The first home belonged to Municipal Engineer W.T. Carrington, who had purchased the two-acre property from merchant Charles Robert Prinsep and built Carrington House sometime around 1873 (by 1840, Prinsep had established a huge nutmeg and coffee plantation on the hill and in the surrounding areas). Little is known as to who owned the property following Carington’s death in 1878.[^3]
+Eu Villa on Adis Road was the third mansion to be built at the site on Mount Sophia. The first home belonged to Municipal Engineer W.T. Carrington, who had purchased the two-acre property from merchant Charles Robert Prinsep and built Carrington House sometime around 1873 (by 1840, Prinsep had established a huge nutmeg and coffee plantation on the hill and in the surrounding areas). Little is known about the house and who owned it following Carrington’s death in 1878.[^3]
 
 <div style="background-color: white;">
 <br>
@@ -34,7 +34,7 @@ Eu Villa, 1940. <i>Edward William Newell Collection, courtesy of National Archiv
 
 In 1903, the house was purchased by Nissim N. Adis, the Calcutta barrister and businessman. Adis demolished the Carrington edifice and built a luxurious mansion that came to be known as Adis Lodge. It had a steel and concrete construction, and a commanding view of Singapore.&nbsp; The mansion had eight bedrooms and boasted a bathroom for each bedroom, with hot and cold running water.[^4]
 
-The Adis family occupied their lodge for less than 10 years before the property was purchased by Eu Tong Sen. Evidently unimpressed by the elegance and opulence of Adis Lodge, he proceeded to demolish the building and built the villa that would be unrivaled for decades.[^5] Eu Villa would be only one of a string of luxurious mansions that he commissioned to be built in Singapore, Hong Kong (where he had two palatial homes), Gopeng and Kuala Lumpur.[^6] Rumour has it that Eu had been told by a seer that he had to keep building if he wished to live a long life, and build he did.
+The Adis family occupied their lodge for less than 10 years before the property was purchased by Eu Tong Sen. Evidently unimpressed by the elegance and opulence of Adis Lodge, he proceeded to demolish the building and build the villa that would be unrivalled for decades.[^5] Eu Villa would be only one of a string of luxurious mansions that he commissioned to be built in Singapore, Hong Kong (where he had two palatial homes), Gopeng and Kuala Lumpur.[^6] Rumour has it that Eu had been told by a seer that he had to keep building if he wished to live a long life, and build he did.
 
 Eu Villa, which commanded a panoramic view of the town and harbour, was designed by the architectural firm of Swan &amp; Maclaren for a million dollars and completed in 1913. “Eu Villa has the mark of a millionaire in all its commodious premises. It is built like a chateau – the French influence is strong – and its dull-white exterior shines like a pearl under the burning tropical sun,” reported the _Straits Times_ in 1934.[^7]
 
@@ -61,9 +61,9 @@ The 1913 building plan of Eu Tong Sen’s Eu Villa showing the east and north el
 
 #### **Marble and Statues**
 
-Another feature that came to be unique to Eu Villa was the copious use of marble. Eu loved marble and the villa was a veritable celebration in marble. There were sea-green marble pillars, floors with marble of every color possible and marble statues in the garden as well as in the villa itself.&nbsp;
+Another feature that came to be unique to Eu Villa was the copious use of marble which Eu loved. There were sea-green marble pillars, floors with marble of every colour possible and marble statues in the garden as well as in the villa itself.&nbsp;
 
-The statues depicting mythological figures such as Phrine, Eve, Bacchante, the hunteress Dinah, Apollo and Venus were all provided by Raoul Bigazzi from Florence. The company, which specialised in marble statues, mosaics, bronze work and floors, was also responsible for the work done on Chartered Bank, the Municipal Building, the Supreme Court, Hong Kong Bank and the Union Insurance Building in Singapore before the World War II. &nbsp;After the war, the company provided and installed the marble for Bank of China, the Lim Bo Seng Memorial and Finlayson House in Singapore, among the many other buildings throughout Asia.[^11]
+The statues depicting mythological figures such as Phrine, Eve, Bacchante, the huntress Dinah, Apollo and Venus were all provided by Raoul Bigazzi from Florence. The company, which specialised in marble statues, mosaics, bronze work and floors, was also responsible for the work done on Chartered Bank, the Municipal Building, the Supreme Court, Hong Kong Bank and the Union Insurance Building in Singapore before World War II. &nbsp;After the war, the company provided and installed the marble for the Bank of China, the Lim Bo Seng Memorial and Finlayson House in Singapore, among the many other buildings throughout Asia.[^11]
 
 <div style="background-color: white;">
 <br>
@@ -113,9 +113,9 @@ The sheer size of Eu Villa accordingly necessitated a large kennel of dogs to pa
 
 With the huge amount of expensive jade, statues, paintings, jewellery and other precious artifacts in the villa, security was a major concern for the household. All in all, it was estimated that there were about a hundred servants, chauffeurs, gardeners, dog handlers, amahs and cooks who attended to and served the Eu family.[^22]
 
-Eu had 11 wives who variously provided him with 13 sons and nine daughters. To accommodate the enormous family, an annex that came to be called, “The Spanish House” was built to house the sons.[^23]
+Eu had 11 wives who variously provided him with 13 sons and nine daughters. To accommodate the enormous family, an annex that came to be called “The Spanish House” was built to house the sons.[^23]
 
-Eu owned a fleet of six cars, including a Rolls Royce and a 44 hp super charged seven-seater Bentley.[^24]
+Eu owned a fleet of six cars, including a Rolls Royce and a 44 hp supercharged seven-seater Bentley.[^24]
 
 #### **Philanthropic Endeavours**
 
@@ -131,7 +131,7 @@ After his departure from Singapore, Eu Villa continued to be home to his various
 
 #### **End of an Era**
 
-Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers and society events were held. Under the auspices of Mrs Diana Eu, wife of Richard Eu Keng Mun (a son of Eu Tong Sen), the villa was frequently the setting for bridge and mahjong drives by the Chinese Ladies Association in aid of different charities, including St Andrew's Hospital, the Singapore Anti-Tuberculosis Association and the Singapore Boys’ Scouts Association.[^31]
+Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers and society events were held. Under the auspices of Mrs Diana Eu, wife of Richard Eu Keng Mun (a son of Eu Tong Sen), the villa was frequently the setting for bridge and mahjong drives by the Chinese Ladies' Association in aid of different charities, including St Andrew's Hospital, the Singapore Anti-Tuberculosis Association and the Singapore Boys’ Scouts Association.[^31]
 
 <div style="background-color: white;">
 <br>

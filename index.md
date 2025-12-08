@@ -9,14 +9,35 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/
-      button: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
+      url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
+      button: Dutch Burghers in British Malaya
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Bacalah Singapura/HeroImage_BacalahSingapura2.jpg
+      background: /images/Vol 21 Issue 3/Dutch Burghers/HeroImage_burghers2.jpg
       variant: center
+  - infopic:
+      title: The 1918 Influenza Pandemic in Singapore
+      subtitle: Health and Medicine
+      id: infopic
+      description: When influenza hit Singapore in 1918, many were sickened, hospitals
+        were overwhelmed and everyday life was disrupted.
+      button: THE “FORGOTTEN PANDEMIC”
+      url: /vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/
+      image: /images/Vol 21 Issue 4/Flu/Flu_main.png
+      alt: 1918 Flu Pandemic in Singapore
+  - infopic:
+      title: "Echoes from the Archives: Where Memories and Mystery Meet"
+      subtitle: Inspired by History
+      id: infopic
+      description: Where past traumas echo in oral testimonies, Tracey Morton
+        discovers both a window into Singapore’s past and inspiration for her
+        novel, Someone Is Coming.
+      button: Inspiration from oral history and old newspapers
+      url: /people/2025/11/tracey-morton-writer-memories-mystery/
+      image: /images/Podcast/tracey_600_400.jpg
+      alt: Echoes from the Archives
   - infopic:
       title: In Search of Silvestr
       subtitle: People
@@ -1008,13 +1029,23 @@ sections:
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
   - infopic:
-      title: The 1918 Influenza Pandemic in Singapore
-      subtitle: Health and Medicine
+      title: Fridge Maker Freezes Stock Market
+      subtitle: History
       id: infopic
-      description: When influenza hit Singapore in 1918, many were sickened, hospitals
-        were overwhelmed and everyday life was disrupted.
-      button: THE “FORGOTTEN PANDEMIC”
-      url: /vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/
-      image: /images/Vol 21 Issue 4/Flu/Flu_main.png
-      alt: 1918 Flu Pandemic in Singapore
+      description: Pan-Electric’s enormous debts and subsequent collapse caused the
+        Stock Exchange of Singapore to close for three days in 1985.
+      button: A STOCK MARKET CRISIS
+      url: /vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/
+      image: /images/Vol 21 Issue 4/PanEl/panel_staff.png
+      alt: Pan El Freezes Stock Market
+  - infopic:
+      title: What You Didn’t Know About the Straits Times
+      subtitle: Print
+      id: infopic
+      description: The first fake news. The illegal postwar edition. Newsmen turned
+        presidents. The Straits Times has had an interesting 180 years.
+      button: '"HEAR YE, HEAR YE”'
+      url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
+      image: /images/Vol 21 Issue 4/Straits/StraistsTimes_Topics.jpg
+      alt: About the Straits Times
 ---
