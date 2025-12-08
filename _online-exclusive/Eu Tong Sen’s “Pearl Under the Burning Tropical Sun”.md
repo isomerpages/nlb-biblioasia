@@ -61,9 +61,9 @@ The 1913 building plan of Eu Tong Sen’s Eu Villa showing the east and north el
 
 #### **Marble and Statues**
 
-Another feature that came to be unique to Eu Villa was the copious use of marble which Eu loved. There were sea-green marble pillars, floors with marble of every color possible and marble statues in the garden as well as in the villa itself.&nbsp;
+Another feature that came to be unique to Eu Villa was the copious use of marble which Eu loved. There were sea-green marble pillars, floors with marble of every colour possible and marble statues in the garden as well as in the villa itself.&nbsp;
 
-The statues depicting mythological figures such as Phrine, Eve, Bacchante, the hunteress Dinah, Apollo and Venus were all provided by Raoul Bigazzi from Florence. The company, which specialised in marble statues, mosaics, bronze work and floors, was also responsible for the work done on Chartered Bank, the Municipal Building, the Supreme Court, Hong Kong Bank and the Union Insurance Building in Singapore before the World War II. &nbsp;After the war, the company provided and installed the marble for Bank of China, the Lim Bo Seng Memorial and Finlayson House in Singapore, among the many other buildings throughout Asia.[^11]
+The statues depicting mythological figures such as Phrine, Eve, Bacchante, the huntress Dinah, Apollo and Venus were all provided by Raoul Bigazzi from Florence. The company, which specialised in marble statues, mosaics, bronze work and floors, was also responsible for the work done on Chartered Bank, the Municipal Building, the Supreme Court, Hong Kong Bank and the Union Insurance Building in Singapore before the World War II. &nbsp;After the war, the company provided and installed the marble for Bank of China, the Lim Bo Seng Memorial and Finlayson House in Singapore, among the many other buildings throughout Asia.[^11]
 
 <div style="background-color: white;">
 <br>
