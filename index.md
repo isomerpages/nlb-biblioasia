@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 3/Dutch Burghers/HeroImage_burghers2.jpg
       variant: center
   - infopic:
+      title: The 1918 Influenza Pandemic in Singapore
+      subtitle: Health and Medicine
+      id: infopic
+      description: When influenza hit Singapore in 1918, many were sickened, hospitals
+        were overwhelmed and everyday life was disrupted.
+      button: THE “FORGOTTEN PANDEMIC”
+      url: /vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/
+      image: /images/Vol 21 Issue 4/Flu/Flu_main.png
+      alt: 1918 Flu Pandemic in Singapore
+  - infopic:
       title: In Search of Silvestr
       subtitle: People
       id: infopic
@@ -1007,14 +1017,4 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: The 1918 Influenza Pandemic in Singapore
-      subtitle: Health and Medicine
-      id: infopic
-      description: When influenza hit Singapore in 1918, many were sickened, hospitals
-        were overwhelmed and everyday life was disrupted.
-      button: THE “FORGOTTEN PANDEMIC”
-      url: /vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/
-      image: /images/Vol 21 Issue 4/Flu/Flu_main.png
-      alt: 1918 Flu Pandemic in Singapore
 ---
