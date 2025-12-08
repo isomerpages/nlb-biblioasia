@@ -1028,4 +1028,14 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
+  - infopic:
+      title: Fridge Maker Freezes Stock Market
+      subtitle: History
+      id: infopic
+      description: Pan-Electric’s enormous debts and subsequent collapse caused the
+        Stock Exchange of Singapore to close for three days in 1985.
+      button: A STOCK MARKET CRISIS
+      url: /vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/
+      image: /images/Vol 21 Issue 4/PanEl/panel_staff.png
+      alt: Pan El Freezes Stock Market
 ---
