@@ -1038,4 +1038,14 @@ sections:
       url: /vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/
       image: /images/Vol 21 Issue 4/PanEl/panel_staff.png
       alt: Pan El Freezes Stock Market
+  - infopic:
+      title: What You Didn’t Know About the Straits Times
+      subtitle: Print
+      id: infopic
+      description: The first fake news. The illegal postwar edition. Newsmen turned
+        presidents. The Straits Times has had an interesting 180 years.
+      button: '"HEAR YE, HEAR YE”'
+      url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
+      image: /images/Vol 21 Issue 4/Straits/StraistsTimes_Topics.jpg
+      alt: About the Straits Times
 ---
