@@ -1048,4 +1048,14 @@ sections:
       url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
       image: /images/Vol 21 Issue 4/Straits/StraistsTimes_Topics.jpg
       alt: About the Straits Times
+  - infopic:
+      title: A Century of Singapore’s Cinemas
+      subtitle: Film and Photography
+      id: infopic
+      description: Once central to Singapore’s social and cultural life, cinemas are
+        now more utilitarian and prosaic halls housed in shopping malls.
+      button: LET’S GO TO THE MOVIES
+      url: /vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/
+      image: /images/Vol 21 Issue 4/Cinema/cinema_main.jpg
+      alt: Century of Singapore’s Cinemas
 ---
