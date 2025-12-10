@@ -60,18 +60,7 @@ For Yip, preserving Singapore’s past means capturing not just its iconic landm
 
   
 
-* * *
-
-
-
-
-
-  
-
-* * *
-
-
-  
+ 
 
 
 
