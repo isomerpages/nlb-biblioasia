@@ -4,3 +4,32 @@ permalink: /holding-area/painting-history-one-stroke-at-a-time/
 variant: markdown
 description: ""
 ---
+#### **When landscapes and street markets disappear, visual artist Yip Yew Chong preserves them in their fading glory, recreating paintings informed by maps, memory and archival photos.**
+By Ruth Wee
+<br><small>10 December 2025</small>
+
+In a city where continuous progress is often at conflict with preservation, old buildings tend to make way for gleaming new structures. Landmarks that once stood on solid ground now reside solely in memory, their physical presence replaced by modernisation.
+
+To remember old landscapes, visual artist Yip Yew Chong relies on his paintbrush. His journey began in 2015 when he convinced a homeowner to let him paint a mural of a barbershop on a wall for free. This eventually resulted in a plethora of murals scattered around Singapore today. These murals typically reflect scenes of everyday life in a bygone Singapore.[^1] Yip has since expanded his artistic repertoire to include canvas paintings, digital artworks and even painting on household items, skilfully documenting his impressions of the Singapore he grew up in.[^2]
+
+#### **Beyond Mere Nostalgia**
+
+Many of Yip’s works are scenes based on Singapore’s past. These works rely on a combination of memory, research and imagination. “Trengganu Street Market” (2020) captures a wet market scene from the 1970s. This work in his _Stories from Yesteryear_ series (2017–21) features itinerant hawkers selling their wares at makeshift stalls along Sago Street, Smith Street, Temple Street and Pagoda Street, sheltered from the elements by scant canvas material stretched across poles.[^3]
+
+  
+
+
+
+
+  
+
+* * *
+
+
+#### **Notes**
+
+[^1]:  Amanda Oon, “The Mural Artist Making Singapore’s Heritage Accessible,” Southeast Asia Globe, 16 December 2021, [https://southeastasiaglobe.com/mural-artist-singapore-heritage-accessible-yip-yew-chong/](https://southeastasiaglobe.com/mural-artist-singapore-heritage-accessible-yip-yew-chong/).
+
+[^2]:  Karen Tee, “Singapore Street Artist Yip Yew Chong’s First Series of Nostalgic Paintings Sells out in a Flash,” CNA, 25 January 2021, [https://www.channelnewsasia.com/people/singapore-street-artist-yip-yew-chong-paintings-1883626](https://www.channelnewsasia.com/people/singapore-street-artist-yip-yew-chong-paintings-1883626).
+
+[^3]:  Yip Yew Chong, “‘Stories from Yesteryear’ 2017–2021 Series,” Yip Yew Chong blog, accessed 30 October 2025, [https://yipyc.com/blog/2023/06/10/stories-from-yesteryear-2017-2021-series/](https://yipyc.com/blog/2023/06/10/stories-from-yesteryear-2017-2021-series/)[](https://yipyc.com/blog/2023/06/10/stories-from-yesteryear-2017-2021-series/). An exhibition catalogue was published in conjunction with an exhibition of the same title, organised by and presented at The Substation, 17–22 February 2021, and Sofitel Singapore City Centre, 26 February–31 March 2021.
