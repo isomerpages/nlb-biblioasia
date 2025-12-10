@@ -64,6 +64,20 @@ For Yip, preserving Singapore’s past means capturing not just its iconic landm
 
 #### **From History to the Future**
 
+These days in Singapore, Yip spends most of his time on canvases, creating digital artworks and working on installations. The well-received “I Paint my Singapore” exhibited in the foyer of the Raffles City Convention Centre from late 2023 to early 2024 is a case in point. The 60-metre-long work captures Singapore in the 1970s and 1980s, and was done with acrylic on canvas.
+
+He has not given up on murals though. However, rather than painting them in Singapore, many of his recent murals have been outside Singapore, in cities like Perth, Australia, and Wuhan, China. At exit B of Wuhan’s Garden Expo metro station, his “Old Hankou Quay” mural (“老汉口码头” 壁画) recreates scenes of daily life at the quays along the Yangtze and Han rivers in the 1920s. For this project, he referenced old photographs online to capture scenes from a century ago while consulting heritage experts to ensure accurate representation.
+
+Yip’s works, especially his murals, are unique. The works combine research, memory, artistic talent and accessibility to help make history come to life. In Wuhan, he wrote on his Instagram feed that he had observed older folks being inspired by his work to talk about their childhood. In a similar way, during his exhibition of “I Paint my Singapore”, those who came would gaze at different scenes and share their experiences with their peers. The ability of his work to get authentic engagement is a tribute to his skill as an artist and to the very human desire to connect with the past.
+
+"I am not lamenting their loss," Yip said about the vanishing landscapes he recreates. "I also love the modern efficiency and high living standard of today. My goal in presenting these scenes is to remind ourselves how far Singapore has progressed – educating the younger generations of how life used to be, while allowing the older generations to cherish fond memories of the days when life was much simpler and slower."[^10]
+
+  
+
+* * *
+
+
+
 
 
   
@@ -104,3 +118,5 @@ For Yip, preserving Singapore’s past means capturing not just its iconic landm
 [^8]:  Woon, [_Art of Joy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003267), 18.
 
 [^9]:  Woon, [_Art of Joy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003267), 110.
+
+[^10]:  “‘My Goal in Presenting These Scenes Is to Remind Ourselves How Far Singapore Has Progressed’: Yip Yew Chong,” On Art and Aesthetics, 14 January 2018, [https://onartandaesthetics.com/2018/01/14/my-goal-in-presenting-these-scenes-is-to-remind-ourselves-how-far-singapore-has-progressed-yip-yew-chong/](https://onartandaesthetics.com/2018/01/14/my-goal-in-presenting-these-scenes-is-to-remind-ourselves-how-far-singapore-has-progressed-yip-yew-chong/).
