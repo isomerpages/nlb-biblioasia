@@ -48,7 +48,7 @@ The tiger dance was introduced to Hainan from the Central Plains during the Ming
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tudi_gong.jpg" style="width: 80%;"> Tudi Gong (top) with multiple Huye (tiger deity) and Tian Gou (bottom left) and Hei Hu Jiang Jun (the tiger general, middle) at&nbsp;Poh Tiong Beo Temple in 2022. <i>Courtesy of Angela Sim</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tudi_gong.jpg" style="width: 80%;"> Tudi Gong (top) with multiple Huye (tiger deity) and Tian Gou (bottom left) and Hei Hu Jiang Jun (the tiger general, middle) at&nbsp;Poh Tiong Beo Temple in 2022. <i>Courtesy of Angela Sim.</i></div>
 
 The effigies of Tu Di Gong and Tu Di Po and Huye (the tiger deity), or the tiger general (虎将军, Hu Jiang Jun, who falls under the tutelage of Tu Di Gong), are often seen together beneath the main altar of most Taoist temples, watching over and protecting the local community. The tiger dance dramatises the struggle between humans and tigers, showing how people use intelligence, skill and martial prowess to overcome these formidable creatures. Once the tiger is subdued, the dance celebrates the possibility of harmony, symbolising a balance between human courage and respect for nature.[^4]
 
