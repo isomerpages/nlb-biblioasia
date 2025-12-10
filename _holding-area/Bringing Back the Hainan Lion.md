@@ -26,7 +26,7 @@ When Foo saw the full Hainan tiger at Luowu Village, he was astonished that it b
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_tiger_dance1.jpg" style="width: 80%;">A Hainan tiger dance costume in Sanjiang Town, 2016. <i>Courtesy of Raymond Foo.</i></div>
 
-The tiger dance is a tribute to the bravery and strength of Lady Xian (冼太夫人; Xian Tai Furen, c. 522–602 AD) and is still performed today during the annual Junpo Festival (军坡节; Jun Bo Jie) celebrated between the first and third lunar months (around February and March) on Hainan Island in the town of Xinpo. A rich cultural and religion event, the festival coincides with the start of spring and the tiger dance is performed to pray for a bountiful harvest, clement weather, the safety of animals and people and prosperity.[^1]  Lady Xian’s father was the chieftain of the Xian clan (or Baiyue) of the Li people in Southern China (modern day Guangdong). She was a politician and militarist who fostered good ties among neighbouring clans as well as with the Han Chinese.[^2] Her people were frequently embroiled in conflict with other clans, which she sought to prevent through diplomacy and negotiation.
+The tiger dance is a tribute to the bravery and strength of Lady Xian (冼太夫人; Xian Tai Furen, c. 522–602 AD) and is still performed today during the annual Junpo Festival (军坡节; Jun Bo Jie) celebrated between the first and third lunar months (around February and March) on Hainan Island in the town of Xinpo. A rich cultural and religious event, the festival coincides with the start of spring and the tiger dance is performed to pray for a bountiful harvest, clement weather, the safety of animals and people and prosperity.[^1]  Lady Xian’s father was the chieftain of the Xian clan (or Baiyue) of the Li people in Southern China (modern day Guangdong). She was a politician and militarist who fostered good ties among neighbouring clans as well as with the Han Chinese.[^2] Her people were frequently embroiled in conflict with other clans, which she sought to prevent through diplomacy and negotiation.
 
 However, her brother, Xian Ting (刺史), the governor of Nanliangzhou (南梁州), had grown arrogant and greedy from wealth acquired largely through trade with the Han Chinese. He would harass nearby counties and seize their possessions, causing widespread suffering in the Lingnan (岭南) region. Lady Xian repeatedly advised her brother against such actions, gradually easing public resentment toward him. She promoted political unity and cooperation among the various ethnic groups in the Lingnan region and devoted her life to building racial harmony between the Li people and the neighbouring communities and growing the local economy by developing agriculture after witnessing the suffering and disasters caused by war.
 
@@ -56,7 +56,7 @@ However, overshadowed by the popular Foshan, or Hoksan (鹤山) Cantonese Southe
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guangwu_Hainan_tiger1.jpg" style="width: 80%;">The Guang Wu club’s Hainan tiger (left) and lion (right). <i>Courtesy of Low Jue Ming.</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guangwu_Hainan_tiger1.jpg" style="width: 80%;">The Guang Wu Club’s Hainan tiger (left) and lion (right). <i>Courtesy of Low Jue Ming.</i></div>
 
 #### **Early Hainan Lions**
 
@@ -72,7 +72,7 @@ Feng synthesised elements of the Hainan tiger dance with the performance techniq
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lions_competition1.jpg" style="width: 80%;">The Hainan lions at the first National Martial Arts Performance Competition hosted by the People’s Association, 1961. <i>Courtesy of Guang Wu Club.</i></div>
 
-Guang Wu’s Hainan lion and the Foshan lion from Guangdong share a historical lineage, with Guang Wu’s lions hailing from a specific branch of the Qiongzhou tradition known for features such as the lion’s facial features, expressive gestures and footwork. The Arhat (big-headed Buddha) similarly shares a historical lineage with the Guang Wu lions via Qiongzhou. The Hainan lion’s head is designed in the likeness of an Arhat (a big-headed Buddha), with a prominent mouth and fangs that convey strength and grandeur – traits associated with the Arhat as a guardian figure. The Hainan lion is made from materials such as sandpaper, bamboo, rabbit fur and horsehair, and features tiger stripes, colourful pom-poms and Tang-style motifs (such as swirling cloud patterns, vegetal motifs, stylised florals and geometric outlines). While its eyes and overall form might differ, most elements are consistent with the Southern lions, reflecting shared design traditions and motifs reminiscent of Guangdong and Fujian artistic heritage.[^6]
+Guang Wu’s Hainan lion and the Foshan lion from Guangdong share a historical lineage, with Guang Wu’s lions hailing from a specific branch of the Qiongzhou tradition known for features such as the lion’s facial features, expressive gestures and footwork. The Arhat (big-headed Buddha) similarly shares a historical lineage with the Guang Wu lions via Qiongzhou. The Hainan lion’s head is designed in the likeness of an Arhat, with a prominent mouth and fangs that convey strength and grandeur – traits associated with the Arhat as a guardian figure. The Hainan lion is made from materials such as sandpaper, bamboo, rabbit fur and horsehair, and features tiger stripes, colourful pom-poms and Tang-style motifs (such as swirling cloud patterns, vegetal motifs, stylised florals and geometric outlines). While its eyes and overall form might differ, most elements are consistent with the Southern lions, reflecting shared design traditions and motifs reminiscent of Guangdong and Fujian artistic heritage.[^6]
 
 <div style="background-color: white;">
 <br>
@@ -80,7 +80,7 @@ Guang Wu’s Hainan lion and the Foshan lion from Guangdong share a historical l
 
 According to a senior Guang Wu member, the heads of the first-generation Hainan lions were made of layers of paper pasted together using pig’s blood, which made them very heavy, each weighing about 10 kg.&nbsp; “The first-generation Hainan lion had a large round head and face \[and was\] much heavier than the average Southern lion,” said Foo. “This larger head is not easy to control, and it \[was\] quite difficult to dance \[with\]”.[^7]
 
-Like the Hainan tiger, the Hainan lion also had a relatively flat head. Compared with Southern lions, which were smaller, sharper and more delicate, the Hainan ones were seen less attractive due to their bulbous head, huge centrally positioned eyes and a big nose.&nbsp;
+Like the Hainan tiger, the Hainan lion also had a relatively flat head. Compared with Southern lions, which were smaller, sharper and more delicate, the Hainan ones were seen as less attractive due to their bulbous heads, huge centrally positioned eyes and big noses.
 
 <div style="background-color: white;">
 <br>
@@ -96,7 +96,7 @@ Undeterred (and thanks to a sponsorship in 2022), Foo ordered a Hainan lion from
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Lai_Holin_Hainan_Lion1.jpg" style="width: 60%;">The Hainan lion made by Lai Holin in Kuala Lumpur. Hainan lions have no horn. <i>Courtesy of Angela Sim</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Lai_Holin_Hainan_Lion1.jpg" style="width: 60%;">The Hainan lion made by Lai Holin in Kuala Lumpur. Hainan lions have no horn. <i>Courtesy of Angela Sim.</i></div>
 
 <div style="background-color: white;">
 <br>
