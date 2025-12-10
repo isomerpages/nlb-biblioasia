@@ -62,7 +62,7 @@ For Yip, preserving Singapore’s past means capturing not just its iconic landm
 <br>
 <img src="/images/Online%20Only%20Articles/Painting%20History/Figure_resembling_Dai_Soh.png" style="width: 60%;">A figure resembling Dai Soh begs in the foreground of Yip Yew Chong’s 60-metre painting, “I Paint my Singapore” (2023). <i>Courtesy of Yip Yew Chong.</i></div>
 
-
+#### **From History to the Future**
 
 
 
