@@ -58,6 +58,14 @@ A character in Dai Soh’s likeness has appeared in several other paintings. “
 
 For Yip, preserving Singapore’s past means capturing not just its iconic landmarks but also stories of quiet, ordinary characters that would otherwise be forgotten.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Figure_resembling_Dai_Soh.png" style="width: 60%;">A figure resembling Dai Soh begs in the foreground of Yip Yew Chong’s 60-metre painting, “I Paint my Singapore” (2023). <i>Courtesy of Yip Yew Chong.</i></div>
+
+
+
+
+
   
 
  
