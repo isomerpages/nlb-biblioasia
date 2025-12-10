@@ -32,15 +32,22 @@ In works like “Trengganu Street Market”, Yip was drew from his own memories 
 <br>
 <img src="/images/Online%20Only%20Articles/Painting%20History/Preparing_for_the_Haj.png" style="width: 80%;">“Preparing for the Haj” (2020) captures the Haj preparations on Bussorah Street, with Sultan Mosque in the backgrounds. <i>Courtesy of Yip Yew Chong.</i></div>
 
+The work shows, among other things, two men walking down Bussorah Street, jointly carrying a trunk, while several others load luggage onto trucks as women gather nearby, waiting to bid farewell to departing pilgrims. These two elements in the painting were inspired by photograps that can be found in the National Archives of Singapore.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Close_up_view.png" style="width: 80%;">A close-up view of men walking down Bussorah Street in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
+
+“I imagined these viewpoints based on a mixture of old street level photos, present day aerial views (Google Maps), and old maps. Most scenes show condensed versions of real places, selectively showcasing the more iconic or representative infrastructures and leaving out the more repetitive buildings around them. It is like a composite drawing but painted in a more realistic than illustrative style.”[^7]
+
   
 
 * * *
 
 
-
   
 
-* * *
+
 
 
 
@@ -67,3 +74,6 @@ In works like “Trengganu Street Market”, Yip was drew from his own memories 
 [^5]:  Woon Tai Ho, [_Art of Joy: The Journey of Yip Yew Chong_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003267) (Singapore: World Scientific, 2024), 3. (From National Library Singapore, call no. RSING 759.95957 WOO)
 
 [^6]:  Yip, “‘Stories from Yesteryear’ 2017–2021 Series.”
+
+
+[^7]:  Woon, [_Art of Joy_](https://catalogue.nlb.gov.sg/search/card?recordId=300003267), 206.
