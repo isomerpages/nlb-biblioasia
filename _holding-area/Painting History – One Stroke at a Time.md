@@ -50,7 +50,21 @@ Some of his paintings also weave in tiny personal stories. His 2019 painting, �
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Men_loading_luggage.png" style="width: 60%;">Men loading the luggage onto the truck in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/New_Years_eve.png" style="width: 60%;">In “New Year’s Eve” (2019), Dai Soh sits alone in her room while Yip Yew Chong’s family celebrates next door. <i>Courtesy of Yip Yew Chong.</i></div>
+
+The woman is Dai Soh, an elderly woman who was a co-tenant in Yip’s old Chinatown home on Sago Lane and had two sons. One suffered from a compulsive condition and “couldn’t control himself and would throw his mother’s things in the house”. The other was “well-educated and married to a rich girl, \[but\] was ashamed of his poor background”. This son never returned to visit his mother, only sending her some money monthly.[^8]
+
+A character in Dai Soh’s likeness has appeared in several other paintings. “I created her because I want to remember Dai Soh,” he said. “I insert\[ed\] a poor old lady, begging, picking up crumbs on tables. Although my artworks depict positive and happy energy, I also want to be realistic \[in showing\] that amongst us there are always those less fortunate that we need to be mindful of. If the observer looks hard enough, he will see this figure, not prominent, but she is there in my paintings.”[^9]
+
+For Yip, preserving Singapore’s past means capturing not just its iconic landmarks but also stories of quiet, ordinary characters that would otherwise be forgotten.
+
+  
+
+* * *
+
+
+
+
 
   
 
@@ -89,3 +103,7 @@ Some of his paintings also weave in tiny personal stories. His 2019 painting, �
 
 
 [^7]:  Woon, [_Art of Joy_](https://catalogue.nlb.gov.sg/search/card?recordId=300003267), 206.
+
+[^8]:  Woon, [_Art of Joy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003267), 18.
+
+[^9]:  Woon, [_Art of Joy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003267), 110.
