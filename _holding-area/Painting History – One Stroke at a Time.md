@@ -36,9 +36,21 @@ The work shows, among other things, two men walking down Bussorah Street, jointl
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Close_up_view.png" style="width: 80%;">A close-up view of men walking down Bussorah Street in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Close_up_view.png" style="width: 60%;">A close-up view of men walking down Bussorah Street in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
 
 “I imagined these viewpoints based on a mixture of old street level photos, present day aerial views (Google Maps), and old maps. Most scenes show condensed versions of real places, selectively showcasing the more iconic or representative infrastructures and leaving out the more repetitive buildings around them. It is like a composite drawing but painted in a more realistic than illustrative style.”[^7]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Men_loading_luggage.png" style="width: 60%;">Men loading the luggage onto the truck in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
+
+#### **A Personal Connection**
+
+Some of his paintings also weave in tiny personal stories. His 2019 painting, “New Year’s Eve”, depicts an older woman waiting alone in her room while Yip’s family enjoys a reunion gathering in the adjoining room – a deliberate and sharp contrast highlighting isolation amid celebration.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Men_loading_luggage.png" style="width: 60%;">Men loading the luggage onto the truck in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
 
   
 
