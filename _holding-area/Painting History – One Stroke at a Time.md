@@ -72,30 +72,8 @@ Yip’s works, especially his murals, are unique. The works combine research, me
 
 "I am not lamenting their loss," Yip said about the vanishing landscapes he recreates. "I also love the modern efficiency and high living standard of today. My goal in presenting these scenes is to remind ourselves how far Singapore has progressed – educating the younger generations of how life used to be, while allowing the older generations to cherish fond memories of the days when life was much simpler and slower."[^10]
 
-  
-
-* * *
-
-
-
-
-
-  
-
- 
-
-
-
-
-
-  
-
-
-
-
-  
-
-* * *
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Hidden%20History%20Brought%20to%20Life/Ruth_new_photo.jpg"><b>Ruth Wee</b> is an intern with the publishing department at the National Library Singapore. Ruth has a Bachelor of Arts (Honours) in English Language and Linguistics (Distinction) from the National University of Singapore.</div>
 
 
 #### **Notes**
