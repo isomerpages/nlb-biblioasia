@@ -16,6 +16,18 @@ To remember old landscapes, visual artist Yip Yew Chong relies on his paintbrush
 
 Many of Yip’s works are scenes based on Singapore’s past. These works rely on a combination of memory, research and imagination. “Trengganu Street Market” (2020) captures a wet market scene from the 1970s. This work in his _Stories from Yesteryear_ series (2017–21) features itinerant hawkers selling their wares at makeshift stalls along Sago Street, Smith Street, Temple Street and Pagoda Street, sheltered from the elements by scant canvas material stretched across poles.[^3]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Trengganu_Street_Market.png" style="width: 80%;">“Trengganu Street Market” (2020). Yip Yew Chong’s rendition of a busy market scene in Chinatown in the 1970s. <i>Courtesy of Yip Yew Chong.</i></div>
+
+In 1983, most of these street hawkers were resettled into Chinatown Complex (originally known as Kreta Ayer Complex), emptying the streets of Chinatown of its bustling market life.[^4] For Yip, painting this lively scene in Chinatown evoked vivid memories and allowed him to relive his childhood – something he hopes his paintings do for other Singaporeans too. “I am conscious of how my work affects people,” he said in a book about his work, _Art of Joy_. “As much as my art is drawn from my imagination, it also lives through the imagination of the people who see it.”[^5]
+
+  
+
+* * *
+
+
+
   
 
 
@@ -33,3 +45,7 @@ Many of Yip’s works are scenes based on Singapore’s past. These works rely o
 [^2]:  Karen Tee, “Singapore Street Artist Yip Yew Chong’s First Series of Nostalgic Paintings Sells out in a Flash,” CNA, 25 January 2021, [https://www.channelnewsasia.com/people/singapore-street-artist-yip-yew-chong-paintings-1883626](https://www.channelnewsasia.com/people/singapore-street-artist-yip-yew-chong-paintings-1883626).
 
 [^3]:  Yip Yew Chong, “‘Stories from Yesteryear’ 2017–2021 Series,” Yip Yew Chong blog, accessed 30 October 2025, [https://yipyc.com/blog/2023/06/10/stories-from-yesteryear-2017-2021-series/](https://yipyc.com/blog/2023/06/10/stories-from-yesteryear-2017-2021-series/)[](https://yipyc.com/blog/2023/06/10/stories-from-yesteryear-2017-2021-series/). An exhibition catalogue was published in conjunction with an exhibition of the same title, organised by and presented at The Substation, 17–22 February 2021, and Sofitel Singapore City Centre, 26 February–31 March 2021.
+
+[^4]:  Joanna Tan Hwang Soo, “[Chinatown Complex](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ed1f5021-0acb-47b1-b1f7-b6350d29c155),” _Singapore Infopedia_. Article published October 2020.
+
+[^5]:  Woon Tai Ho, [_Art of Joy: The Journey of Yip Yew Chong_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003267) (Singapore: World Scientific, 2024), 3. (From National Library Singapore, call no. RSING 759.95957 WOO)
