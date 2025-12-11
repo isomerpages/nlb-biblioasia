@@ -12,7 +12,7 @@ By Ruth Wee
 <br>
 <img src="/images/Podcast/tracey_600_400.jpg" style="width: 80%;">Tracey Morton, 2025. <i>Photo by Jimmy Yap.</i></div>
 
-Most of the time, the archivists of the National Archives of Singapore (NAS) play a quiet supporting role in the background. They collect and preserve records – documents, papers, photographs and oral history testimonies – that are used by researchers.
+Most of the time, the archivists of the National Archives of Singapore (NAS) play a quiet supporting role. They collect and preserve records – documents, papers, photographs and oral history testimonies – that are used by researchers.
 
 But in Tracey Morton’s 2022 novel, <i>Someone Is Coming</i>, an oral history interviewer moves to centre stage as an important protagonist, helping to set in motion a gripping piece of crime fiction set in Malaya at the turn of the 20th century.[^1]
 
@@ -22,11 +22,11 @@ But in Tracey Morton’s 2022 novel, <i>Someone Is Coming</i>, an oral history i
 
 #### **Using Oral Testimonies**
 
-Heavily inspired by life in the early 20th-century Malayan plantations, <i>Someone Is Coming</i> puts a fictional spin on this haunting period in history. Born from hours spent going through at least 16 oral history testimonies[^2] as well as related newspaper reports,[^3] the narrative unfolds through an oral history interview – “an interesting way to tell a story”, as Tracey describes it. Though grounded in meticulous archival research, Tracey gave her imagination free rein in crafting the fictional elements of her story. It revolves around nonagenarian Philip Goundry’s recollections of his childhood in Malayan plantations, elicited by Dr Lin, an oral history interviewer whose questioning sometimes bordered on intrusive.
+Heavily inspired by life in the early 20th-century Malayan plantations, <i>Someone Is Coming</i> puts a fictional spin on this haunting period in history. Born from hours spent going through at least 16 oral history testimonies[^2] as well as related newspaper reports,[^3] the narrative unfolds through an oral history interview – “an interesting way to tell a story”, as Tracey describes it. Though grounded in meticulous archival research, Tracey gave her imagination free rein in crafting the fictional elements of her story. It revolves around nonagenarian Philip Goundry’s recollections of his childhood in Malayan plantations, elicited by Dr Lin, an oral history interviewer whose questioning sometimes borders on intrusive.
 
-Patience, pragmatics and paralinguistic cues are quintessential in oral histories – elements Tracey wove throughout her novel. Tension between the protagonists revealed their distinct personalities. Under a veil of politeness, Dr Lin emerged as direct, persistent and slightly aggressive while Philip was a reticent man who had emotional outbursts when dangerous memories were unlocked. Through their interactions, Tracey captured the dynamics of real oral history interviews.
+Patience, pragmatics and paralinguistic cues are quintessential in oral histories – elements Tracey wove throughout her novel. Tension between the protagonists revealed their distinct personalities. Under a veil of politeness, Dr Lin emerged as direct, persistent and slightly aggressive while Philip was a reticent man who had emotional outbursts when dangerous memories were triggered. Through their interactions, Tracey captured the dynamics of real oral history interviews.
 
-Speaking to a neuroscientist, Tracey learnt that traumatic events experienced as a child can be suppressed and recreated to cope with past tragedies. This played out as Philip recounted his tales from memory, with contradictions in his account revealing the limitations of human memory and unconditional reliance on personal testimonies.
+Speaking to a neuroscientist, Tracey learnt that traumatic events experienced as a child can be suppressed and reconstructed to cope with past tragedies. This played out as Philip recounted his tales from memory, with contradictions in his account revealing the limitations of human memory and the dangers of relying unconditionally on personal testimonies.
 
 While Philip’s firsthand accounts shed light on the dark period of the early 20th century, more critical were omissions, outbursts and moments of hesitation resulting in half-truths. As memories were unlocked and secrets unravelled, newspaper clippings and photographs that Dr Lin brought along to the interview sessions further challenged Philip’s factoids, exposing the unreliability and fragility of recollections.
 
@@ -36,7 +36,7 @@ Tracey’s fascination with Malayan plantations germinated while working on an e
 
 She is definitely no stranger to the library and the archives, having pored through countless oral history testimonies, newspaper clippings and even historical records like death notices in the past 11 years. Akin to digging through digital treasure troves, these have led to unexpected finds.
 
-“I went through different rabbit holes and found other stuff that \[were\] interesting”. Through newspaper snippets and obituaries, Tracey discovered a case involving Richard David Williams, former Chief Inspector of police in the Straits Settlements, and this became her favourite. Williams had apparently recognised a Chinese man disguised as a Malay in Tanjong Pagar, who had been on the run for more than 10 years after killing a Peranakan woman and her servant in 1897.[^4] “This really sparked my imagination as he was dressed as a Malay and he still managed to identify him, very Sherlock Holmes,” she remarked.
+“I went through different rabbit holes and found other stuff that \[was\] interesting”. Through newspaper snippets and obituaries, Tracey discovered a case involving Richard David Williams, former Chief Inspector of police in the Straits Settlements, and this became her favourite. Williams had apparently recognised a Chinese man disguised as a Malay in Tanjong Pagar, who had been on the run for more than 10 years after killing a Peranakan woman and her servant in 1897.[^4] “This really sparked my imagination as he was dressed as a Malay and he still managed to identify him, very Sherlock Holmes,” she remarked.
 
 And with passion came obsession. “I actually found out where he's buried,” Tracey fondly recalled a side quest that found her outside Detective Williams’ former residence in Melbourne, Australia, in April 2025. “There was a dog and it's just right down… by the beach. We went in Easter. My poor husband – I dragged him around to these crazy places and I took photos… it was really amazing.”
 
@@ -54,7 +54,7 @@ While still images and text provide the necessary facts, oral testimonies flesh 
 
 Oral history accounts and old newspaper reports have been valuable mines of information not only for Tracey, but for budding writers that she mentors.
 
-In her crime fiction-writing class with the Singapore Book Council in 2023, she introduced participants to creating crime fiction stories through research informed by historical materials. Working in small groups, participants examined cold cases from newspaper reports, listened to oral testimonies and brainstormed story ideas. With information scattered across different sources, aspiring writers had to piece them together. “That's the best thing about the archives,” Tracey quipped, “It makes you into a detective.”
+In her crime fiction-writing class with the Singapore Book Council in 2023, she introduced participants to creating crime fiction stories through research informed by historical materials. Working in small groups, participants examined cold cases from newspaper reports, listened to oral testimonies and brainstormed story ideas. With information scattered across different sources, aspiring writers had to piece them together. “That's the best thing about the archives,” Tracey quipped. “It makes you into a detective.”
 
 <div style="background-color: white;">
 <br>
