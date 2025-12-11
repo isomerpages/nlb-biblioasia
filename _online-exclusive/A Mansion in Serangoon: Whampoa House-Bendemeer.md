@@ -12,7 +12,7 @@ By Dr Patricia Lin
 <br>
 <img src="/images/Online%20Only%20Articles/Whampoa%20House/Whampoa_House.jpg" style="width: 80%;">Whampoa Hoo Ah Kay and guests at a moon gate of his mansion, mid-19th century. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
-The name Nam Sang Hua Yuan (南生花园), or Nam-sang Fa-un in Cantonese, may not ring a bell today but in the mid-19th century, it was one of Singapore’s most famous residences, attracting visitors from all over the world. Also known as Whampoa House, it was built by the businessman and community leader Hoo Ah Kay (胡亞基, Hu Ya Ji; better known as Whampoa), and located about 5 km outside the city on Serangoon Road.
+The name Nam Sang Hua Yuan (南生花园), or Nam-sang Fa-un in Cantonese, may not ring a bell today, but in the mid-19th century, it was one of Singapore’s most famous residences, attracting visitors from all over the world. Also known as Whampoa House, it was built by the businessman and community leader Hoo Ah Kay (胡亞基, Hu Ya Ji; better known as Whampoa), and was located about 5 km outside the city on Serangoon Road.
 
 #### **An Astute Businessman**
 
@@ -28,7 +28,7 @@ Whampoa’s fortune grew through selling foodstuffs, including bread and baked g
 <br>
 <img src="/images/Online%20Only%20Articles/Whampoa%20House/Old_Ice_House.jpg" style="width: 80%;">Whampoa’s ice house in Boat Quay, 1958. <i>Collection of the National Library Singapore.</i></div>
 
-Whampoa’s business interests eventually intersected with politics and diplomacy.&nbsp; In 1869, he was appointed a member of the Legislative Council and within a few years was made an extraordinary member of the Executive Council, the first and only Chinese to have held this seat. He was also appointed Vice Consul to Singapore for Russia in 1867 and Consul for China in 1877. In 1879, the Japanese government appointed him Vice Consul for Japan thus making him a consul for three foreign countries.[^4]
+Whampoa’s business interests eventually intersected with politics and diplomacy.&nbsp; In 1869, he was appointed a member of the Legislative Council and within a few years was made an extraordinary member of the Executive Council, the first and only Chinese to have held this seat. He was also appointed Vice Consul to Singapore for Russia in 1867 and Consul for China in 1877. In 1879, the Japanese government appointed him Vice Consul for Japan, thus making him a consul for three foreign countries.[^4]
 
 #### **An Opulent Abode**
 
@@ -48,7 +48,7 @@ Frederickson also extolled the beauty of Whampoa’s world-famous Vitória-Régi
 <br>
 <img src="/images/Online%20Only%20Articles/Whampoa%20House/Vitoria_regia_water_lilies.jpg" style="width: 80%;">Whampoa’s famous Vitória-Régia water lilies, late 19th century. Photograph by G.R. Lambert &amp; Co. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
-Whampoa also had an aviary with peacocks and a “piggery” where fat, enormous pigs were kept, with some measuring 7 ft (213 cm) from snout to tail. To Frederickson’s satisfaction, the piggery was “wonderfully clean and neat in all its arrangements”.[^11] Topping it all was Whampoa’s menagerie housing a vicious cassowary that often attacked unwary visitors, some monkeys and a silvery-white Arabian horse.[^12]
+Whampoa also had an aviary with peacocks and a “piggery” where fat, enormous pigs were kept, with some measuring 7 ft (213 cm) from snout to tail. To Frederickson’s satisfaction, the piggery was “wonderfully clean and neat in all its arrangements”.[^11] Topping it all was Whampoa’s menagerie which housed a vicious cassowary that often attacked unwary visitors, some monkeys and a silvery-white Arabian horse.[^12]
 
 Besides Whampoa House, Whampoa owned several other commercial and private establishments, including the plot of land bounded by Grange Road and River Valley Road (where the Spring Grove condominium project stands today). It remains unknown whether Whampoa lived in one of the three modest houses on this allotment before selling the land in 1849 to focus on developing the house and grounds on Serangoon Road.[^13]
 
@@ -56,7 +56,7 @@ In choosing a location away from the city, Whampoa pioneered a trend that other 
 
 #### **New Owner, New Name**
 
-After Whampoa’s death in 1880,[^16] Seah Liang Seah, one of Singapore’s wealthiest and most prominent Chinese towkays, purchased Nam Sang Hua Yuan in the late 1890s. He renamed it “Bendemeer”,[^17] at the suggestion of Governor of the Straits Settlements Charles Mitchell, or Ming Li Yuan (明丽园) in Chinese.[^18]
+After Whampoa’s death in 1880,[^16] Seah Liang Seah, one of Singapore’s wealthiest and most prominent Chinese towkays, purchased Nam Sang Hua Yuan in the late 1890s. He renamed it “Bendemeer”[^17] at the suggestion of Governor of the Straits Settlements Charles Mitchell, or Ming Li Yuan (明丽园) in Chinese.[^18]
 
 <div style="background-color: white;">
 <br>
@@ -82,7 +82,7 @@ The gathering brought together Singapore’s colonial elite and numerous Chinese
 
 Entertainment included games such as clock golf, croquet, driving, and fishing and shooting competitions, with attractive prizes, while the 99th Deccans Band played music. The governor gave a speech of thanks, and in response, Seah congratulated him for selecting a day with the finest weather before his departure from Singapore.[^28]
 
-Among those that Seah invited to tea at Bendemeer was the English writer Mrs Florence Caddy, who toured the Far East aboard the Duke of Sutherland’s yacht, the _Sans Peur._ She described “dishes of curious confectionery, and all the fruits of the country arranged with flowers, ferns, and above all, roses”. The roses were particularly noteworthy as Singapore was too hot to grow them, requiring Seah to import fresh rose bushes every year from China.[^29]
+Among those whom Seah invited to tea at Bendemeer was the English writer Mrs Florence Caddy, who toured the Far East aboard the Duke of Sutherland’s yacht, the _Sans Peur._ She described “dishes of curious confectionery, and all the fruits of the country arranged with flowers, ferns, and above all, roses”. The roses were particularly noteworthy as Singapore was too hot to grow them, requiring Seah to import fresh rose bushes every year from China.[^29]
 
 #### **Not All Roses**        
 

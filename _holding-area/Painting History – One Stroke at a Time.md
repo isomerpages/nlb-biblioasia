@@ -18,7 +18,7 @@ Many of Yip’s works are scenes based on Singapore’s past. These works rely o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Trengganu_Street_Market.png" style="width: 80%;">“Trengganu Street Market” (2020). Yip Yew Chong’s rendition of a busy market scene in Chinatown in the 1970s. <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Trengganu_Street_Market1.jpg" style="width: 80%;">“Trengganu Street Market” (2020). Yip Yew Chong’s rendition of a busy market scene in Chinatown in the 1970s. <i>Courtesy of Yip Yew Chong.</i></div>
 
 In 1983, most of these street hawkers were resettled into Chinatown Complex (originally known as Kreta Ayer Complex), emptying the streets of Chinatown of its bustling market life.[^4] For Yip, painting this lively scene in Chinatown evoked vivid memories and allowed him to relive his childhood – something he hopes his paintings do for other Singaporeans too. “I am conscious of how my work affects people,” he said in a book about his work, _Art of Joy_. “As much as my art is drawn from my imagination, it also lives through the imagination of the people who see it.”[^5]
 
@@ -36,13 +36,13 @@ The work shows, among other things, two men walking down Bussorah Street, jointl
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Close_up_view.png" style="width: 60%;">A close-up view of men walking down Bussorah Street in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/close_up_of_men_walking_donw_bussorah_street.png" style="width: 60%;">A close-up view of men walking down Bussorah Street in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
 
 “I imagined these viewpoints based on a mixture of old street level photos, present day aerial views (Google Maps), and old maps. Most scenes show condensed versions of real places, selectively showcasing the more iconic or representative infrastructures and leaving out the more repetitive buildings around them. It is like a composite drawing but painted in a more realistic than illustrative style.”[^7]
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Men_loading_luggage.png" style="width: 60%;">Men loading the luggage onto the truck in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/close_up_of_truck_at_bussorah_street.png" style="width: 60%;">Men loading the luggage onto the truck in “Preparing for the Haj”. <i>Courtesy of Yip Yew Chong.</i></div>
 
 #### **A Personal Connection**
 
@@ -50,7 +50,7 @@ Some of his paintings also weave in tiny personal stories. His 2019 painting, �
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/New_Years_eve.png" style="width: 60%;">In “New Year’s Eve” (2019), Dai Soh sits alone in her room while Yip Yew Chong’s family celebrates next door. <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/new_year_s_eve_chinatown_home_dai_soh.jpg" style="width: 60%;">In “New Year’s Eve” (2019), Dai Soh sits alone in her room while Yip Yew Chong’s family celebrates next door. <i>Courtesy of Yip Yew Chong.</i></div>
 
 The woman is Dai Soh, an elderly woman who was a co-tenant in Yip’s old Chinatown home on Sago Lane and had two sons. One suffered from a compulsive condition and “couldn’t control himself and would throw his mother’s things in the house”. The other was “well-educated and married to a rich girl, \[but\] was ashamed of his poor background”. This son never returned to visit his mother, only sending her some money monthly.[^8]
 
@@ -60,7 +60,7 @@ For Yip, preserving Singapore’s past means capturing not just its iconic landm
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Figure_resembling_Dai_Soh.png" style="width: 60%;">A figure resembling Dai Soh begs in the foreground of Yip Yew Chong’s 60-metre painting, “I Paint my Singapore” (2023). <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/woman_begging_resembles_dai_soh.jpg" style="width: 80%;">A figure resembling Dai Soh begs in the foreground of Yip Yew Chong’s 60-metre painting, “I Paint my Singapore” (2023). <i>Courtesy of Yip Yew Chong.</i></div>
 
 #### **From History to the Future**
 
