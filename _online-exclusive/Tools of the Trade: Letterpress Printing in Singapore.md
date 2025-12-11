@@ -10,7 +10,7 @@ The history of printing in Singapore goes back about 200 years when Christian mi
 
 A form of relief printing where ink is applied to a raised surface which is then pressed onto paper, letterpress printing was the main commercial method for printing books and newspapers until the late 20th century. It was eventually overtaken by newer commercial printing technologies that were more efficient and economical.
 
-This article showcases some of the letterpress printing equipment used here between the 1950s and 1980s. These equipment from a bygone era were salvaged by Sun Yao Yu, founder of Typesettingsg, a studio he set up in 2014 to preserve and document Singapore’s printing heritage. From hand-carved wooden type to manually operated presses, these items showcase the technology and craftsmanship that once formed the backbone of Singapore’s printing industry.
+This article showcases some of the letterpress printing equipment used here between the 1950s and 1980s. These pieces of equipment from a bygone era were salvaged by Sun Yao Yu, founder of Typesettingsg, a studio he set up in 2014 to preserve and document Singapore’s printing heritage. From hand-carved wooden type to manually operated presses, these items showcase the technology and craftsmanship that once formed the backbone of Singapore’s printing industry.
 
 <div style="background-color:white;">
 <br>
@@ -21,7 +21,7 @@ Sun Yao Yu, a traditional letterpress educator and Typesettingsg’s founder. <i
 
 Wood has been widely used to print letterforms and illustrations for centuries. In China and Europe, woodblock printing precedes printing with wood type. In Singapore, most wood type was hand-carved by craftsmen locally, using cheap and lightweight wood. For increased durability, end-grain hardwood is used when mass-producing wood type.
 
-Wood type was used mainly to print large format prints like posters, as metal type was rarely cast in such large sizes and were expensive to produce. This made wood type more affordable and accessible.
+Wood type was used mainly for large format prints like posters, as metal type was rarely cast in such large sizes and were expensive to produce. This made wood type more affordable and accessible.
 
 <div style="background-color:white;">
 <br>
@@ -32,7 +32,7 @@ Pictured here are wood type from the 1980s from Yu Yi Rubber Stamp &amp; Print, 
 
 A sort or type is a block with a letter or character cast from a mould called a matrix.
 
-Sorts are manually arranged into words and lines to make up a forme, which is the locked-up arrangement of type used for printing. These durable and reusable metal type allowed printers to create consistent and high-quality printed materials.
+Sorts are manually arranged into words and lines to make up a forme, which is the locked-up arrangement of type used for printing. This durable and reusable metal type allowed printers to create consistent and high-quality printed materials.
 
 <div style="background-color:white;">
 <br>
@@ -45,7 +45,7 @@ A matrix is a mould used to cast the printing surface of a sort or type. To crea
 
 To create different sizes for each character, a matrix for each size is used. Some of the more common sizes, when converted from the Chinese sizing system to the point system, are 63 pt, 36 pt, 28 pt, 21 pt, 15.75 pt, 14 pt, 10.5 pt, 7.875 pt and 6 pt.
 
-In Singapore, the casting of both simplified and traditional Chinese type was still being done in the 1980s.
+In Singapore, the casting of both simplified and traditional Chinese type was still carried out in the 1980s.
 
 <div style="background-color:white;">
 <br>
@@ -87,7 +87,7 @@ Universal Notting London Lead and rule cutter. Cutters like these are a rarity t
 
 #### **Formes**
 
-When setting type by hand, lines of type are moved from the composing stick to the galley – metal trays where type is laid and tightened into place by printer’s string. This locked arrangement or composition of type and spacing material from which prints are made is called a forme.
+When setting type by hand, lines of type are moved from the composing stick to the galley – metal trays where type is laid and tightened into place with printer’s string. This locked arrangement or composition of type and spacing material from which prints are made is called a forme.
 
 The photo below shows a forme for a name card that contains both the information of the client (leftmost side of the printed card) and the print shop (right). To reduce the time taken for typesetting, formes that are frequently used for reprints may be left assembled, like this one from Jetprint Services.
 
@@ -100,7 +100,7 @@ Forme for a Chinese name card, early 1980s.</div>
 
 For the most part, as it was impractical for printers to keep their type, leads, furniture and chases locked as formes for a single project, stereotype plates created from temporary moulds or matrices called flongs were used instead.
 
-A flong is made by pressing papier-mâché over a forme. The flong is then used as a mould to cast a stereotype plate from hot metal. Stereotype plates kept type from wearing down and were widely used for short-lived tasks such as newspaper and advertising printing. After printing, flongs were burned and stereotypes were melted down to plate metal to be reused.
+A flong is made by pressing papier-mâché over a forme. The flong is then used as a mould to cast a stereotype plate from hot metal. Stereotype plates kept type from wearing down and were widely used for short-lived tasks such as newspaper and advertising printing. After printing, flongs were burnt and stereotypes were melted down to plate metal to be reused.
 
 <div style="background-color:white;">
 <br>
@@ -112,7 +112,7 @@ Flong for <i>Sin Chew Daily</i> (星洲日报), 1967.</div>
 
 Although printing presses were reaching incredible speeds, typesetting remained a slow and labour-intensive process. Type had to be individually cast in moulds and assembled manually in composing sticks, then re-sorted back into their type cases after they were used.
 
-First manufactured in 1886, Linotype machines greatly sped up the typesetting process. Within a single machine, moulds or matrices could be assembled into lines, with each line cast from molten metal into a single type, called a slug. The process of using molten metal to create sorts or slugs for printing was referred to as hot metal typesetting. Linotype machines could also return the matrices back to their respective magazines after casting the slugs.
+First manufactured in 1886, Linotype machines greatly sped up the typesetting process. Within a single machine, moulds or matrices could be assembled into a line then cast using molten metal into a single piece bearing a line of text called a slug. The process of using molten metal to create sorts or slugs for printing was referred to as hot metal typesetting. Linotype machines could also return the matrices back to their respective magazines after casting the slugs.
 
 <div style="background-color:white;">
 <br>
@@ -166,7 +166,7 @@ Printing block for a bottle label with Chan Kong Thye’s branding, 1970.</div>
 
 Printing blocks are often made using zinc, magnesium or brass plates. The plate is combined with a wooden base to bring the printing surface to the standard type height of 0.918 inch.
 
-To produce a label in colour, multiple printing blocks were created for each colour based on the CMYK colour model. Each block is then precisely aligned and used separately with the printing press, with the different colours printed in quick succession to produce secondary colours.
+To produce a label in colour, multiple printing blocks were created for each colour based on the CMYK colour model. Each block is then precisely aligned and used separately on the printing press, with the different colours printed in quick succession to produce secondary colours.
 
 <div style="background-color:white;">
 <br>
