@@ -24,7 +24,7 @@ In 1983, most of these street hawkers were resettled into Chinatown Complex (ori
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Trengganu_Street_Market.png" style="width: 80%;">“Trengganu Street Market” (2020). Yip Yew Chong’s rendition of a busy market scene in Chinatown in the 1970s. <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Wet_Market.png" style="width: 60%;">A wet market on Trengganu Street, Chinatown, c. 1960. In the background is the former Lai Chun Yuen Opera House. <i>Courtesy of National Archives Singapore (Media - Image no. 19980005922&nbsp;-&nbsp;0089).</i></div>
 
 In works like “Trengganu Street Market”, Yip was drew from his own memories growing up in Chinatown. However, in other works, archival research and old photographs play a bigger role. In “Preparing for the Haj” (2020), the canvas captures a cross-section of Bussorah Street bustling with activities surrounding the Haj preparations, with the grand Masjid Sultan (Sultan Mosque) in the background.[^6]
 
