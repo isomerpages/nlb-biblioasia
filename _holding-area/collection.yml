@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - Painting History – One Stroke at a Time.md
       - Bringing Back the Hainan Lion.md
       - Sample article.md

@@ -14,7 +14,7 @@ When martial artist and lion dance master Raymond Foo, the head of 光武国术�
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tiger_cape1.jpg" style="width: 80%;">Detail of the Hainan tiger cape found in the storeroom of Guang Wu Club. <i>Courtesy of Low Jue Ming.</i></div>
 
-An advocate of all things Hainanese, Foo has more than 50 years’ experience in martial arts and lion dance. Established in 1936, Guang Wu Club is the only organisation in Singapore that promotes the elusive Hainan lion dance (海南狮; Hainan _shi_), also known as 琼州狮 _(_Qiongzhou _shi)_, the Hainan tiger dance (海南虎; Hainan _hu_) and Hainan _qiong pai_ martial arts (琼派功夫; _qiong pai gong fu_). Even though the Hainan tiger dance is rarely performed in Singapore today, its influence on Hainan lion dance can still be seen.
+An advocate of all things Hainanese, Foo has more than 50 years’ experience in martial arts and lion dance. Established in 1936, Guang Wu Club is the only organisation in Singapore that promotes the elusive Hainan lion dance (海南狮; Hainan _shi_), also known as 琼州狮 _(Qiongzhou shi)_, the Hainan tiger dance (海南虎; Hainan _hu_) and Hainan _qiong pai_ martial arts (琼派功夫; _qiong pai gong fu_). Even though the Hainan tiger dance is rarely performed in Singapore today, its influence on Hainan lion dance can still be seen.
 
 #### **The Hainan Tiger**
 
@@ -26,7 +26,7 @@ When Foo saw the full Hainan tiger at Luowu Village, he was astonished that it b
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_tiger_dance1.jpg" style="width: 80%;">A Hainan tiger dance costume in Sanjiang Town, 2016. <i>Courtesy of Raymond Foo.</i></div>
 
-The tiger dance is a tribute to the bravery and strength of Lady Xian (冼太夫人; Xian Tai Furen, c. 522–602 AD) and is still performed today during the annual Junpo Festival (军坡节; Jun Bo Jie) celebrated between the first and third lunar months (around February and March) on Hainan Island in the town of Xinpo. A rich cultural and religion event, the festival coincides with the start of spring and the tiger dance is performed to pray for a bountiful harvest, clement weather, the safety of animals and people and prosperity.[^1]  Lady Xian’s father was the chieftain of the Xian clan (or Baiyue) of the Li people in Southern China (modern day Guangdong). She was a politician and militarist who fostered good ties among neighbouring clans as well as with the Han Chinese.[^2] Her people were frequently embroiled in conflict with other clans, which she sought to prevent through diplomacy and negotiation.
+The tiger dance is a tribute to the bravery and strength of Lady Xian (冼太夫人; Xian Tai Furen, c. 522–602 AD) and is still performed today during the annual Junpo Festival (军坡节; Jun Bo Jie) celebrated between the first and third lunar months (around February and March) on Hainan Island in the town of Xinpo. A rich cultural and religious event, the festival coincides with the start of spring and the tiger dance is performed to pray for a bountiful harvest, clement weather, the safety of animals and people and prosperity.[^1]  Lady Xian’s father was the chieftain of the Xian clan (or Baiyue) of the Li people in Southern China (modern day Guangdong). She was a politician and militarist who fostered good ties among neighbouring clans as well as with the Han Chinese.[^2] Her people were frequently embroiled in conflict with other clans, which she sought to prevent through diplomacy and negotiation.
 
 However, her brother, Xian Ting (刺史), the governor of Nanliangzhou (南梁州), had grown arrogant and greedy from wealth acquired largely through trade with the Han Chinese. He would harass nearby counties and seize their possessions, causing widespread suffering in the Lingnan (岭南) region. Lady Xian repeatedly advised her brother against such actions, gradually easing public resentment toward him. She promoted political unity and cooperation among the various ethnic groups in the Lingnan region and devoted her life to building racial harmony between the Li people and the neighbouring communities and growing the local economy by developing agriculture after witnessing the suffering and disasters caused by war.
 
@@ -48,7 +48,7 @@ The tiger dance was introduced to Hainan from the Central Plains during the Ming
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tudi_gong.jpg" style="width: 80%;"> Tudi Gong (top) with multiple Huye (tiger deity) and Tian Gou (bottom left) and Hei Hu Jiang Jun (the tiger general, middle) at&nbsp;Poh Tiong Beo Temple in 2022. <i>Courtesy of Angela Sim</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Tudi_gong.jpg" style="width: 80%;"> Tudi Gong (top) with multiple Huye (tiger deity) and Tian Gou (bottom left) and Hei Hu Jiang Jun (the tiger general, middle) at&nbsp;Poh Tiong Beo Temple in 2022. <i>Courtesy of Angela Sim.</i></div>
 
 The effigies of Tu Di Gong and Tu Di Po and Huye (the tiger deity), or the tiger general (虎将军, Hu Jiang Jun, who falls under the tutelage of Tu Di Gong), are often seen together beneath the main altar of most Taoist temples, watching over and protecting the local community. The tiger dance dramatises the struggle between humans and tigers, showing how people use intelligence, skill and martial prowess to overcome these formidable creatures. Once the tiger is subdued, the dance celebrates the possibility of harmony, symbolising a balance between human courage and respect for nature.[^4]
 
@@ -56,7 +56,7 @@ However, overshadowed by the popular Foshan, or Hoksan (鹤山) Cantonese Southe
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guangwu_Hainan_tiger1.jpg" style="width: 80%;">The Guang Wu club’s Hainan tiger (left) and lion (right). <i>Courtesy of Low Jue Ming.</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guangwu_Hainan_tiger1.jpg" style="width: 80%;">The Guang Wu Club’s Hainan tiger (left) and lion (right). <i>Courtesy of Low Jue Ming.</i></div>
 
 #### **Early Hainan Lions**
 
@@ -72,7 +72,7 @@ Feng synthesised elements of the Hainan tiger dance with the performance techniq
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Hainan_lions_competition1.jpg" style="width: 80%;">The Hainan lions at the first National Martial Arts Performance Competition hosted by the People’s Association, 1961. <i>Courtesy of Guang Wu Club.</i></div>
 
-Guang Wu’s Hainan lion and the Foshan lion from Guangdong share a historical lineage, with Guang Wu’s lions hailing from a specific branch of the Qiongzhou tradition known for features such as the lion’s facial features, expressive gestures and footwork. The Arhat (big-headed Buddha) similarly shares a historical lineage with the Guang Wu lions via Qiongzhou. The Hainan lion’s head is designed in the likeness of an Arhat (a big-headed Buddha), with a prominent mouth and fangs that convey strength and grandeur – traits associated with the Arhat as a guardian figure. The Hainan lion is made from materials such as sandpaper, bamboo, rabbit fur and horsehair, and features tiger stripes, colourful pom-poms and Tang-style motifs (such as swirling cloud patterns, vegetal motifs, stylised florals and geometric outlines). While its eyes and overall form might differ, most elements are consistent with the Southern lions, reflecting shared design traditions and motifs reminiscent of Guangdong and Fujian artistic heritage.[^6]
+Guang Wu’s Hainan lion and the Foshan lion from Guangdong share a historical lineage, with Guang Wu’s lions hailing from a specific branch of the Qiongzhou tradition known for features such as the lion’s facial features, expressive gestures and footwork. The Arhat (big-headed Buddha) similarly shares a historical lineage with the Guang Wu lions via Qiongzhou. The Hainan lion’s head is designed in the likeness of an Arhat, with a prominent mouth and fangs that convey strength and grandeur – traits associated with the Arhat as a guardian figure. The Hainan lion is made from materials such as sandpaper, bamboo, rabbit fur and horsehair, and features tiger stripes, colourful pom-poms and Tang-style motifs (such as swirling cloud patterns, vegetal motifs, stylised florals and geometric outlines). While its eyes and overall form might differ, most elements are consistent with the Southern lions, reflecting shared design traditions and motifs reminiscent of Guangdong and Fujian artistic heritage.[^6]
 
 <div style="background-color: white;">
 <br>
@@ -80,13 +80,13 @@ Guang Wu’s Hainan lion and the Foshan lion from Guangdong share a historical l
 
 According to a senior Guang Wu member, the heads of the first-generation Hainan lions were made of layers of paper pasted together using pig’s blood, which made them very heavy, each weighing about 10 kg.&nbsp; “The first-generation Hainan lion had a large round head and face \[and was\] much heavier than the average Southern lion,” said Foo. “This larger head is not easy to control, and it \[was\] quite difficult to dance \[with\]”.[^7]
 
-Like the Hainan tiger, the Hainan lion also had a relatively flat head. Compared with Southern lions, which were smaller, sharper and more delicate, the Hainan ones were seen less attractive due to their bulbous head, huge centrally positioned eyes and a big nose.&nbsp;
+Like the Hainan tiger, the Hainan lion also had a relatively flat head. Compared with Southern lions, which were smaller, sharper and more delicate, the Hainan ones were seen as less attractive due to their bulbous heads, huge centrally positioned eyes and big noses.
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guangwu_dance_troupe1.jpg" style="width: 80%;">Guang Wu lion dance troupe, 1958s. <i>Courtesy of Raymond Foo.</i></div>
 
-Foo also said that a key difference between the Hainan and Southern lions is that “\[Hainan lions have\] no horn on \[their heads\] …&nbsp; and \[their\] eyes are more centred \[in the middle of their faces\]”.[^8] But the body structure of the Hainan lion was similar to that of the Southern lion, taking inspiration from the distinctive visual traits of Guangdong’s stone-carved lions: &nbsp;upright ears, a pronounced forehead, fierce eyes, a prominent nose and an upturned mouth. The Hainan lion’s nose is positioned in the centre of head when viewed from the front and resembled a garlic bulb, which is why craftsmen often refer to it as the “garlic bulb nose”.[^9]
+Foo also said that a key difference between the Hainan and Southern lions is that “\[Hainan lions have\] no horn on \[their heads\] …&nbsp; and \[their\] eyes are more centred \[in the middle of their faces\]”.[^8] But the body structure of the Hainan lion is similar to that of the Southern lion, taking inspiration from the distinctive visual traits of Guangdong’s stone-carved lions: &nbsp;upright ears, a pronounced forehead, fierce eyes, a prominent nose and an upturned mouth. The Hainan lion’s nose is positioned in the centre of its head when viewed from the front and resembles a garlic bulb, which is why craftsmen often refer to it as the “garlic bulb nose”.[^9]
 
 #### **New Hainan Lions**
 
@@ -96,7 +96,7 @@ Undeterred (and thanks to a sponsorship in 2022), Foo ordered a Hainan lion from
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Lai_Holin_Hainan_Lion1.jpg" style="width: 60%;">The Hainan lion made by Lai Holin in Kuala Lumpur. Hainan lions have no horn. <i>Courtesy of Angela Sim</i></div>
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Lai_Holin_Hainan_Lion1.jpg" style="width: 60%;">The Hainan lion made by Lai Holin in Kuala Lumpur. Hainan lions have no horn. <i>Courtesy of Angela Sim.</i></div>
 
 <div style="background-color: white;">
 <br>
@@ -122,7 +122,7 @@ Conch shells, much like the horn trumpet or bugle, have been used in China as fa
 <br>
 <img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Raymond_Foo_blows_conch_shell1.jpg" style="width: 80%;">Raymond Foo blows into the conch shell to signal the start of the Hainan lion dance. <i>Courtesy of Low Jue Ming.</i></div>
 
-Specific weapons are also used during the Hainan lion dance for routines such as 单刀破狮 (<i>dandao po shi</i>), 双刀破狮 (<i>shuangdao po shi),</i> 关刀破狮 (<i>guandao po shi),</i> 棍棒破狮 (<i>gunbang po shi),</i>  板凳破狮 (<i>bandeng po shi),</i>  and 盾牌破狮 (<i>dunpai po shi)</i>. The broad sword (关刀, <i>guandao</i>) is noteworthy as it represents Lady Xian’s fight for equality, social stability and better lives for the clansmen. Each weapon-based sequence is carefully choreographed to showcase both&nbsp; combat skill; dramatic flair, adding an intense, theatrical dimension to the Hainan lion dance routines. Each routine allows the performers to demonstrate&nbsp; strength, timing, coordination and martial aesthetics, making the Hainan lion dance uniquely vigorous and expressive compared to other regional lion dance forms in Guangxi, Fujian and Chaozhou. For instance, in 棍棒破狮 (<i>gunbang po shi</i>, or “staff versus lion”), a&nbsp;staff or cudgel&nbsp;is used to challenge the lion, showcasing the quick reflexes and precise control of the performer.
+Specific weapons are also used during the Hainan lion dance for routines such as 单刀破狮 (<i>dandao po shi</i>), 双刀破狮 (<i>shuangdao po shi),</i> 关刀破狮 (<i>guandao po shi),</i> 棍棒破狮 (<i>gunbang po shi),</i>  板凳破狮 (<i>bandeng po shi),</i>  and 盾牌破狮 (<i>dunpai po shi)</i>. The broad sword (关刀, <i>guandao</i>) is noteworthy as it represents Lady Xian’s fight for equality, social stability and better lives for the clansmen. Each weapon-based sequence is carefully choreographed to showcase both&nbsp; combat skill and dramatic flair, adding an intense, theatrical dimension to the Hainan lion dance routines. Each routine allows the performers to demonstrate&nbsp; strength, timing, coordination and martial aesthetics, making the Hainan lion dance uniquely vigorous and expressive compared to other regional lion dance forms in Guangxi, Fujian and Chaozhou. For instance, in 棍棒破狮 (<i>gunbang po shi</i>, or “staff versus lion”), a&nbsp;staff or cudgel&nbsp;is used to challenge the lion, showcasing the quick reflexes and precise control of the performer.
 
 <div style="background-color: white;">
 <br>
@@ -140,7 +140,7 @@ Troupe members representing the deities Tu Di Gong and Tu Di Po closely mimic th
 
 The soldiers symbolise&nbsp;武德 (<i>wude)</i> – the discipline, courage and strength underpinning the martial arts tradition. They embody human skill and valour, standing as obstacles that challenge the lion’s path. At the same time, they hark back to the militia traditions of Lady Xian: men trained in weapons and martial arts, prepared to defend their communities.
 
-The soldiers’ confrontation with the lion reinforces Lady Xian’s philosophy that force is sometimes necessary but must always be balanced with order and the well-being of the society. When the lion prevails, or reconciles with the soldiers, it reflects her legacy of uniting force with virtue. More than a festive spectacle, the Hainan lion dance is a living folk memory of Lady Xian’s governance, where martial discipline and ritual display work together to protect the people.
+The soldiers’ confrontation with the lion reinforces Lady Xian’s philosophy that force is sometimes necessary but must always be balanced with order and the well-being of society. When the lion prevails, or reconciles with the soldiers, it reflects her legacy of uniting force with virtue. More than a festive spectacle, the Hainan lion dance is a living folk memory of Lady Xian’s governance, where martial discipline and ritual display work together to protect the people.
 
 <div style="background-color: white;">
 <br>
@@ -191,14 +191,14 @@ In the face of waning interest, Foo believes that lion dance can only be passed 
 
 [^11]:  Raymond Foo, interview with author, 2024.
 
-[^12]:  Chen Aiwei 陈爱薇 , &nbsp;“Cankao hainan hu duchuang hainan shī huxiao shī cheng” 参考海南虎 独创海南狮呼啸狮城, \[Inspired by the Hainan Tiger, the unique Hainan Lion Roars Over the Lion City\] 联合早报 _Lianhe Zaobao_, 19 February 2023, [https://www.zaobao.com.sg/lifestyle/culture/story20230219-1364575](https://www.zaobao.com.sg/lifestyle/culture/story20230219-1364575).
+[^12]:  Chen Aiwei 陈爱薇 , &nbsp;“Cankao hainan hu duchuang hainan shī huxiao shī cheng” 参考海南虎 独创海南狮呼啸狮城, \[Inspired by the Hainan Tiger, the Unique Hainan Lion Roars Over the Lion City\] 联合早报 _Lianhe Zaobao_, 19 February 2023, [https://www.zaobao.com.sg/lifestyle/culture/story20230219-1364575](https://www.zaobao.com.sg/lifestyle/culture/story20230219-1364575).
 
-[^13]:  Prakriti Anand,&nbsp;“What is a Conch Shell? History, Meaning &amp; Uses in Hinduism and Buddhism,” Exotic India,&nbsp; 22 October 2021,[https://www.exoticindiaart.com/article/the-conch-shell-or-the-shankha/](https://www.exoticindiaart.com/article/the-conch-shell-or-the-shankha/).
+[^13]:  Prakriti Anand,&nbsp;“What is a Conch Shell? History, Meaning &amp; Uses in Hinduism and Buddhism,” Exotic India,&nbsp; published 22 October 2021, [https://www.exoticindiaart.com/article/the-conch-shell-or-the-shankha/](https://www.exoticindiaart.com/article/the-conch-shell-or-the-shankha/).
 
 [^14]:  “Conch Shell in Buddhism,”&nbsp; Tibetan Buddhist Encyclopedia, last updated 6 January 2024, [https://tibetanbuddhistencyclopedia.com/en/index.php/Conch\_Shell\_in\_Buddhism](https://tibetanbuddhistencyclopedia.com/en/index.php/Conch_Shell_in_Buddhism).; Raymond Foo, interview with author, 2024.
 
 [^15]:  Raymond Foo, interview with author, 2024.
 
-[^16]:  Megan Elise Michael, “Lion Dance Troupes in S’pore Hard-pressed to interest the young in continuing the tradition ,” Straits Times, updated 21 November 2024, https://www.straitstimes.com/singapore/lion-dance-troupes-in-s-pore-hard-pressed-to-interest-the-young-in-continuing-the-tradition[](https://www.asiaone.com/confessions-lion-dance-troupe-member)
+[^16]:  Megan Elise Michael, “Lion Dance Troupes in S’pore Hard-pressed to Interest the Young in Continuing the Tradition ,” Straits Times, updated 21 November 2024, https://www.straitstimes.com/singapore/lion-dance-troupes-in-s-pore-hard-pressed-to-interest-the-young-in-continuing-the-tradition[](https://www.asiaone.com/confessions-lion-dance-troupe-member)
 
 [^17]:  Raymond Foo, interview with author, 2024.

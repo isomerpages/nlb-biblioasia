@@ -1039,6 +1039,16 @@ sections:
       image: /images/Vol 21 Issue 4/PanEl/panel_staff.png
       alt: Pan El Freezes Stock Market
   - infopic:
+      title: A Century of Singapore’s Cinemas
+      subtitle: Film and Photography
+      id: infopic
+      description: Once central to Singapore’s social and cultural life, cinemas are
+        now more utilitarian and prosaic halls housed in shopping malls.
+      button: LET’S GO TO THE MOVIES
+      url: /vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/
+      image: /images/Vol 21 Issue 4/Cinema/cinema_main.jpg
+      alt: Century of Singapore’s Cinemas
+  - infopic:
       title: What You Didn’t Know About the Straits Times
       subtitle: Print
       id: infopic
