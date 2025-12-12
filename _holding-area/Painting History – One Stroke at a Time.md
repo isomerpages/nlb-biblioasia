@@ -8,6 +8,10 @@ description: ""
 By Ruth Wee
 <br><small>10 December 2025</small>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Yip_Yew_Chong.jpg" style="width: 80%;">Yip Yew Chong with a section of his 60-metre-long painting, “I Paint my Singapore” (2023). <i>Courtesy of Yip Yew Chong.</i></div>
+
 In a city where continuous progress is often at conflict with preservation, old buildings tend to make way for gleaming new structures. Landmarks that once stood on solid ground now reside solely in memory, their physical presence replaced by modernisation.
 
 To remember old landscapes, visual artist Yip Yew Chong relies on his paintbrush. His journey began in 2015 when he convinced a homeowner to let him paint a mural of a barbershop on a wall for free. This eventually resulted in a plethora of murals scattered around Singapore today. These murals typically reflect scenes of everyday life in a bygone Singapore.[^1] Yip has since expanded his artistic repertoire to include canvas paintings, digital artworks and even painting on household items, skilfully documenting his impressions of the Singapore he grew up in.[^2]
@@ -60,7 +64,7 @@ For Yip, preserving Singapore’s past means capturing not just its iconic landm
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/woman_begging_resembles_dai_soh.jpg" style="width: 80%;">A figure resembling Dai Soh begs in the foreground of Yip Yew Chong’s 60-metre painting, “I Paint my Singapore” (2023). <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/woman_begging_resembles_dai_soh.jpg" style="width: 80%;">A figure resembling Dai Soh begs in the foreground of Yip Yew Chong’s “I Paint my Singapore” (2023). <i>Courtesy of Yip Yew Chong.</i></div>
 
 #### **From History to the Future**
 
