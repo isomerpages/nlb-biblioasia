@@ -9,14 +9,34 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/
-      button: Dutch Burghers in British Malaya
+      url: /vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/
+      button: "From Liguria to the Lion City: The Life and Times of Giovanni Gaggino"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Dutch Burghers/HeroImage_burghers2.jpg
+      background: /images/Vol 21 Issue 3/Giovanni/HeroImage_giovanni_3.jpg
       variant: center
+  - infopic:
+      title: Painting History – One Stroke at a Time
+      subtitle: Inspired by History
+      id: infopic
+      description: When familiar landscapes disappear, artist Yip Yew Chong preserves
+        them in paintings recreated from memory and archival photos.
+      button: Preserving History in Brushstrokes
+      url: /people/2025/12/yip-yew-chong-artist-paintings/
+      image: /images/Online Only Articles/Painting History/Yip_Yew_Chong.jpg
+      alt: Painting History Yip Yew Chong
+  - infopic:
+      title: Fridge Maker Freezes Stock Market
+      subtitle: History
+      id: infopic
+      description: Pan-Electric’s enormous debts and subsequent collapse caused the
+        Stock Exchange of Singapore to close for three days in 1985.
+      button: A STOCK MARKET CRISIS
+      url: /vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/
+      image: /images/Vol 21 Issue 4/PanEl/panel_staff.png
+      alt: Pan El Freezes Stock Market
   - infopic:
       title: The 1918 Influenza Pandemic in Singapore
       subtitle: Health and Medicine
@@ -1028,16 +1048,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Fridge Maker Freezes Stock Market
-      subtitle: History
-      id: infopic
-      description: Pan-Electric’s enormous debts and subsequent collapse caused the
-        Stock Exchange of Singapore to close for three days in 1985.
-      button: A STOCK MARKET CRISIS
-      url: /vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/
-      image: /images/Vol 21 Issue 4/PanEl/panel_staff.png
-      alt: Pan El Freezes Stock Market
   - infopic:
       title: A Century of Singapore’s Cinemas
       subtitle: Film and Photography

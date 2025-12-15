@@ -1,10 +1,10 @@
 ---
 title: Painting History – One Stroke at a Time
-permalink: /holding-area/painting-history-one-stroke-at-a-time/
+permalink: /people/2025/12/yip-yew-chong-artist-paintings/
 variant: markdown
 description: ""
 ---
-#### **When landscapes and street markets disappear, visual artist Yip Yew Chong preserves them in their fading glory, recreating paintings informed by maps, memory and archival photos.**
+#### **When landscapes and street markets disappear, visual artist Yip Yew Chong preserves them in their fading glory, recreating paintings from memory and archival photos.**
 By Ruth Wee
 <br><small>10 December 2025</small>
 
