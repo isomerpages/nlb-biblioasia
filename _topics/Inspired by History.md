@@ -4,6 +4,14 @@ permalink: /inspired-by-history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/12/yip-yew-chong-artist-paintings/">**Painting History – One Stroke at a Time**</a>
+
+When landscapes and street markets disappear, visual artist Yip Yew Chong preserves them in their fading glory, recreating paintings from memory and archival photos.
+
+<img src="/images/Online%20Only%20Articles/Painting%20History/Yip_Yew_Chong.jpg" style="width:80%;"> 
+																																																										
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/11/tracey-morton-writer-memories-mystery/">**Echoes from the Archives: Where Memories and Mystery Meet**</a>
 
 Where past traumas echo in oral testimonies, writer Tracey Morton discovers both a window into Singapore's haunting past and inspiration for her crime fiction novel, _Someone Is Coming_ (Monsoon Books, 2022).
