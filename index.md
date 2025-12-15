@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 3/Giovanni/HeroImage_giovanni_3.jpg
       variant: center
   - infopic:
+      title: Painting History – One Stroke at a Time
+      subtitle: Inspired by History
+      id: infopic
+      description: When familiar landscapes disappear, artist Yip Yew Chong preserves
+        them in paintings recreated from memory and archival photos.
+      button: Preserving History in Brushstrokes
+      url: /people/2025/12/yip-yew-chong-artist-paintings/
+      image: /images/Online Only Articles/Painting History/Yip_Yew_Chong.jpg
+      alt: Painting History Yip Yew Chong
+  - infopic:
       title: Fridge Maker Freezes Stock Market
       subtitle: History
       id: infopic
@@ -1058,14 +1068,4 @@ sections:
       url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
       image: /images/Vol 21 Issue 4/Straits/StraistsTimes_Topics.jpg
       alt: About the Straits Times
-  - infopic:
-      title: Painting History – One Stroke at a Time
-      subtitle: Inspired by History
-      id: infopic
-      description: When familiar landscapes disappear, artist Yip Yew Chong preserves
-        them in paintings recreated from memory and archival photos.
-      button: Preserving History in Brushstrokes
-      url: /people/2025/12/yip-yew-chong-artist-paintings/
-      image: /images/Online Only Articles/Painting History/Yip_Yew_Chong.jpg
-      alt: Painting History Yip Yew Chong
 ---
