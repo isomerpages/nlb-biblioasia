@@ -28,9 +28,13 @@ In 1983, most of these street hawkers were resettled into Chinatown Complex (ori
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Wet_Market.png" style="width: 60%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/d5777448-1161-11e3-83d5-0050568939ad">A wet market on Trengganu Street, Chinatown, c. 1960</a>. In the background is the former Lai Chun Yuen Opera House. <i>Courtesy of National Archives Singapore (Media - Image no. 19980005922&nbsp;-&nbsp;0089).</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Wet_Market.png" style="width: 60%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/d5777448-1161-11e3-83d5-0050568939ad">A wet market on Trengganu Street, Chinatown, c. 1960</a>. In the background is the former Lai Chun Yuen Opera House. <i>Tan Kok Kheng Collection, courtesy of National Archives Singapore (Media - Image no. 19980005922&nbsp;-&nbsp;0089).</i></div>
 
 In works like “Trengganu Street Market”, Yip drew from his own memories growing up in Chinatown. However, in other works, archival research and old photographs play a bigger role. In “Preparing for the Haj” (2020), the canvas captures a cross-section of Bussorah Street bustling with activities surrounding the Haj preparations, with the grand Masjid Sultan (Sultan Mosque) in the background.[^6]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Sultan_Mosque.jpg" style="width: 80%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/fd5866f2-1161-11e3-83d5-0050568939ad">“Sultan Mosque in Kampong Glam, 1987.</a>&nbsp;<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19990001289&nbsp;–&nbsp;0016). </i></div>
 
 <div style="background-color: white;">
 <br>
