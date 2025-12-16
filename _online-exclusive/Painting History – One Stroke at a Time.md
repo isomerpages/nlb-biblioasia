@@ -12,7 +12,7 @@ By Ruth Wee
 <br>
 <img src="/images/Online%20Only%20Articles/Painting%20History/Yip_Yew_Chong.jpg" style="width: 80%;">Yip Yew Chong with a section of his 60-metre-long painting, “I Paint my Singapore” (2023). <i>Courtesy of Yip Yew Chong.</i></div>
 
-In a city where continuous progress is often at conflict with preservation, old buildings tend to make way for gleaming new structures. Landmarks that once stood on solid ground now reside solely in memory, their physical presence replaced by modernisation.
+In a city where continuous progress is often in conflict with preservation, old buildings tend to make way for gleaming new structures. Landmarks that once stood on solid ground now reside solely in memory, their physical presence replaced by modernisation.
 
 To remember old landscapes, visual artist Yip Yew Chong relies on his paintbrush. His journey began in 2015 when he convinced a homeowner to let him paint a mural of a barbershop on a wall for free. This eventually resulted in a plethora of murals scattered around Singapore today. These murals typically reflect scenes of everyday life in a bygone Singapore.[^1] Yip has since expanded his artistic repertoire to include canvas paintings, digital artworks and even painting on household items, skilfully documenting his impressions of the Singapore he grew up in.[^2]
 
@@ -28,15 +28,15 @@ In 1983, most of these street hawkers were resettled into Chinatown Complex (ori
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Wet_Market.png" style="width: 60%;">A wet market on Trengganu Street, Chinatown, c. 1960. In the background is the former Lai Chun Yuen Opera House. <i>Courtesy of National Archives Singapore (Media - Image no. 19980005922&nbsp;-&nbsp;0089).</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Wet_Market.png" style="width: 60%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/d5777448-1161-11e3-83d5-0050568939ad">A wet market on Trengganu Street, Chinatown, c. 1960</a>. In the background is the former Lai Chun Yuen Opera House. <i>Courtesy of National Archives Singapore (Media - Image no. 19980005922&nbsp;-&nbsp;0089).</i></div>
 
-In works like “Trengganu Street Market”, Yip was drew from his own memories growing up in Chinatown. However, in other works, archival research and old photographs play a bigger role. In “Preparing for the Haj” (2020), the canvas captures a cross-section of Bussorah Street bustling with activities surrounding the Haj preparations, with the grand Masjid Sultan (Sultan Mosque) in the background.[^6]
+In works like “Trengganu Street Market”, Yip drew from his own memories growing up in Chinatown. However, in other works, archival research and old photographs play a bigger role. In “Preparing for the Haj” (2020), the canvas captures a cross-section of Bussorah Street bustling with activities surrounding the Haj preparations, with the grand Masjid Sultan (Sultan Mosque) in the background.[^6]
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Preparing_for_the_Haj.png" style="width: 80%;">“Preparing for the Haj” (2020) captures the Haj preparations on Bussorah Street, with Sultan Mosque in the backgrounds. <i>Courtesy of Yip Yew Chong.</i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Preparing_for_the_Haj.png" style="width: 80%;">“Preparing for the Haj” (2020) captures the Haj preparations on Bussorah Street, with Sultan Mosque in the background. <i>Courtesy of Yip Yew Chong.</i></div>
 
-The work shows, among other things, two men walking down Bussorah Street, jointly carrying a trunk, while several others load luggage onto trucks as women gather nearby, waiting to bid farewell to departing pilgrims. These two elements in the painting were inspired by photograps that can be found in the National Archives of Singapore.
+The work shows, among other things, two men walking down Bussorah Street, jointly carrying a trunk, while several others load luggage onto trucks as women gather nearby, waiting to bid farewell to departing pilgrims. These two elements in the painting were inspired by photographs (see <a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/a920032c-1162-11e3-83d5-0050568939ad">here</a> and <a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/a933bd2d-1162-11e3-83d5-0050568939ad">here</a>) that can be found in the National Archives of Singapore.
 
 <div style="background-color: white;">
 <br>
@@ -68,7 +68,7 @@ For Yip, preserving Singapore’s past means capturing not just its iconic landm
 
 #### **From History to the Future**
 
-These days in Singapore, Yip spends most of his time on canvases, creating digital artworks and working on installations. The well-received “I Paint my Singapore” exhibited in the foyer of the Raffles City Convention Centre from late 2023 to early 2024 is a case in point. The 60-metre-long work captures Singapore in the 1970s and 1980s, and was done with acrylic on canvas.
+These days in Singapore, Yip spends most of his time on canvases, creating digital artworks and working on installations. The well-received work, “I Paint my Singapore” exhibited in the foyer of the Raffles City Convention Centre from late 2023 to early 2024, is a case in point. The 60-metre-long work captures Singapore in the 1970s and 1980s, and was done with acrylic on canvas.
 
 He has not given up on murals though. However, rather than painting them in Singapore, many of his recent murals have been outside Singapore, in cities like Perth, Australia, and Wuhan, China. At exit B of Wuhan’s Garden Expo metro station, his “Old Hankou Quay” mural (“老汉口码头” 壁画) recreates scenes of daily life at the quays along the Yangtze and Han rivers in the 1920s. For this project, he referenced old photographs online to capture scenes from a century ago while consulting heritage experts to ensure accurate representation.
 
