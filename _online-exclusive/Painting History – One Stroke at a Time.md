@@ -34,7 +34,7 @@ In works like “Trengganu Street Market”, Yip drew from his own memories grow
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Painting%20History/Sultan_Mosque.jpg" style="width: 80%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/fd5866f2-1161-11e3-83d5-0050568939ad">“Sultan Mosque in Kampong Glam, 1987.</a>&nbsp;<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19990001289&nbsp;–&nbsp;0016). </i></div>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Sultan_Mosque.jpg" style="width: 80%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/fd5866f2-1161-11e3-83d5-0050568939ad">Sultan Mosque in Kampong Glam, 1987</a>.&nbsp;<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19990001289&nbsp;–&nbsp;0016). </i></div>
 
 <div style="background-color: white;">
 <br>
