@@ -34,6 +34,10 @@ In works like “Trengganu Street Market”, Yip drew from his own memories grow
 
 <div style="background-color: white;">
 <br>
+<img src="/images/Online%20Only%20Articles/Painting%20History/Sultan_Mosque.jpg" style="width: 80%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/fd5866f2-1161-11e3-83d5-0050568939ad">“Sultan Mosque in Kampong Glam, 1987.</a>&nbsp;<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19990001289&nbsp;–&nbsp;0016). </i></div>
+
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Painting%20History/Preparing_for_the_Haj.png" style="width: 80%;">“Preparing for the Haj” (2020) captures the Haj preparations on Bussorah Street, with Sultan Mosque in the background. <i>Courtesy of Yip Yew Chong.</i></div>
 
 The work shows, among other things, two men walking down Bussorah Street, jointly carrying a trunk, while several others load luggage onto trucks as women gather nearby, waiting to bid farewell to departing pilgrims. These two elements in the painting were inspired by photographs (see <a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/a920032c-1162-11e3-83d5-0050568939ad">here</a> and <a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/a933bd2d-1162-11e3-83d5-0050568939ad">here</a>) that can be found in the National Archives of Singapore.
