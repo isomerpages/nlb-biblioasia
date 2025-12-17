@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/
-      button: "From Liguria to the Lion City: The Life and Times of Giovanni Gaggino"
+      url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
+      button: “Majulah Singapura” and Other Love Songs
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Giovanni/HeroImage_giovanni_3.jpg
+      background: /images/Vol 21 Issue 3/Majulah Singapura/HeroImage_MajulahSingapura2.jpg
       variant: center
   - infopic:
       title: Painting History – One Stroke at a Time
