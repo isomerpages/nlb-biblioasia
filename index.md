@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/
-      button: "From Liguria to the Lion City: The Life and Times of Giovanni Gaggino"
+      url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
+      button: “Majulah Singapura” and Other Love Songs
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Giovanni/HeroImage_giovanni_3.jpg
+      background: /images/Vol 21 Issue 3/Majulah Singapura/HeroImage_MajulahSingapura2.jpg
       variant: center
+  - infopic:
+      title: A Century of Singapore’s Cinemas
+      subtitle: Film and Photography
+      id: infopic
+      description: Once central to Singapore’s social and cultural life, cinemas are
+        now more utilitarian and prosaic halls housed in shopping malls.
+      button: LET’S GO TO THE MOVIES
+      url: /vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/
+      image: /images/Vol 21 Issue 4/Cinema/cinema_main.jpg
+      alt: Century of Singapore’s Cinemas
   - infopic:
       title: Painting History – One Stroke at a Time
       subtitle: Inspired by History
@@ -1048,16 +1058,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: A Century of Singapore’s Cinemas
-      subtitle: Film and Photography
-      id: infopic
-      description: Once central to Singapore’s social and cultural life, cinemas are
-        now more utilitarian and prosaic halls housed in shopping malls.
-      button: LET’S GO TO THE MOVIES
-      url: /vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/
-      image: /images/Vol 21 Issue 4/Cinema/cinema_main.jpg
-      alt: Century of Singapore’s Cinemas
   - infopic:
       title: What You Didn’t Know About the Straits Times
       subtitle: Print
