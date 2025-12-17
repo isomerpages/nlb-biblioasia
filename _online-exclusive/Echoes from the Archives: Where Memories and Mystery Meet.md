@@ -38,7 +38,7 @@ She is definitely no stranger to the library and the archives, having pored thro
 
 “I went through different rabbit holes and found other stuff that \[was\] interesting”. Through newspaper snippets and obituaries, Tracey discovered a case involving Richard David Williams, former Chief Inspector of police in the Straits Settlements, and this became her favourite. Williams had apparently recognised a Chinese man disguised as a Malay in Tanjong Pagar, who had been on the run for more than 10 years after killing a Peranakan woman and her servant in 1897.[^4] “This really sparked my imagination as he was dressed as a Malay and he still managed to identify him, very Sherlock Holmes,” she remarked.
 
-And with passion came obsession. “I actually found out where he's buried,” Tracey fondly recalled a side quest that found her outside Detective Williams’ former residence in Melbourne, Australia, in April 2025. “There was a dog and it's just right down… by the beach. We went in Easter. My poor husband – I dragged him around to these crazy places and I took photos… it was really amazing.”
+And with passion came obsession. “I actually found out where he's buried,” Tracey said.&nbsp;She recounted a quest that took her outside Detective Williams’ former residence in Melbourne, Australia, in April 2025. “There was a dog and it's just right down… by the beach. We went in Easter. My poor husband – I dragged him around to these crazy places and I took photos… it was really amazing.”
 
 <div style="background-color: white;">
 <br>
@@ -54,7 +54,7 @@ While still images and text provide the necessary facts, oral testimonies flesh 
 
 Oral history accounts and old newspaper reports have been valuable mines of information not only for Tracey, but for budding writers that she mentors.
 
-In her crime fiction-writing class with the Singapore Book Council in 2023, she introduced participants to creating crime fiction stories through research informed by historical materials. Working in small groups, participants examined cold cases from newspaper reports, listened to oral testimonies and brainstormed story ideas. With information scattered across different sources, aspiring writers had to piece them together. “That's the best thing about the archives,” Tracey quipped. “It makes you into a detective.”
+In her crime fiction-writing class with the Singapore Book Council in 2023, she introduced participants to creating crime fiction stories through research informed by historical materials. Working in small groups, participants examined cold cases from newspaper reports, listened to oral testimonies and brainstormed story ideas. With information scattered across different sources, aspiring writers had to piece them together. “That's the best thing about the archives,” Tracey said. “It makes you into a detective.”
 
 <div style="background-color: white;">
 <br>
