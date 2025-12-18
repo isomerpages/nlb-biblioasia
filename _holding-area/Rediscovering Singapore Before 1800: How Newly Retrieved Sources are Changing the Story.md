@@ -118,22 +118,34 @@ As each new discovery surfaces, the story only grows richer, proving that the pa
 
 #### **Notes**
 
-[^1]: 
+[^1]: Peter Borschberg, “Sources for the Study of Singapore before 1800,” in _Reimagining Singapore's History: Essays on Pre-Colonial Roots and Modern Identity_, ed. Matthew Oey (Singapore: Penguin Books, an imprint of Penguin Random House, 2025). (From National Library Singapore, call no. RSING 959.5703 REI)
 
-[^2]: 
 
-[^3]: 
+[^2]: Kwa Chong Guan, “Archaeology in the Writing of Singapore’s History,” in _Reimagining Singapore's History: Essays on Pre-Colonial Roots and Modern Identity_, ed. Matthew Oey (Singapore: Penguin Books, an imprint of Penguin Random House, 2025). (From National Library Singapore, call no. RSING 959.5703 REI)
 
-[^4]: 
 
-[^5]: 
+[^3]: Kwa Chong Guan, Derek Heng and Tan Tai Yong, _Singapore, a 700-Year History: From Early Emporium to World City_ (Singapore: National Archives of Singapore, 2009). (From National Library Singapore, call no. RSING 959.57 KWA)
 
-[^6]: 
 
-[^7]: 
+[^4]: Kwa Chong Guan, Derek Heng, Peter Borschberg and Tan Tai Yong, eds., _Seven Hundred Years: A History of Singapore_ (Singapore: National Library Board; Singapore: Marshall Cavendish Editions, 2019). (From National Library Singapore, call no. RSING 959.57 KWA)
 
-[^8]: 
 
-[^9]: 
+[^5]: Isabel Rio Novo, “Luís de Camões in Asia,” _BiblioAsia_ 21, no. 3 (October–December 2025): 44–49.
 
-[^10]: 
+[^6]: “Singapore in Johann Heinrich Zedler’s Universal-Lexicon,” National Library Online. Article published 2014; Johann Heinrich Zedler, _Grosses vollständiges Universal-Lexicon aller Wissenschafften und Künste_ (Leipzig and Halle: Verlag Heinrich Zedler, 1731–54), https://www.zedler-lexikon.de/.&nbsp;
+
+[^7]: Daniel Defoe, _The Life, Adventures, and Piracies of the Famous Captain Singleton_ (Garfield Heights: Duke Classics, 2012). (From NLB OverDrive)
+
+[^8]: Lee Meiyu, “A Battle Captured in a Map,” _BiblioAsia_ 11, no. 4 (January–March 2016): 52–53.
+
+[^9]: “The 1603 Naval Battle of Changi,” National Library Online. Article published 2013.&nbsp;
+
+[^10]: Robert Dudley, _Arcano del mare Tomo I (Europa und Asien) - BSB Cod.icon._ 138, 1636, map, Münchener Digitalisierungszentrum, https://www.digitale-sammlungen.de/en/view/bsb00094608?page=180 and https://www.digitale-sammlungen.de/en/view/bsb00094608?page=181.
+
+
+[^11]: For the transcribed text of the instructions, see L.J. Matos, “Roteiros e rotas portuguesas do oriente nos séculos XVI e XVII” (doctoral thesis, University of Lisbon, 2016), 333–35.&nbsp;
+
+[^12]: Rob Harris, “Newly Discovered Diary Records Landmark Sighting of Australia in 1687,”&nbsp; _Sydney Morning Herald_, 27 March 2023, https://www.smh.com.au/world/europe/newly-discovered-diary-records-landmark-sighting-of-australia-in-1687-20230326-p5cvbe.html.
+
+
+[^13]: Johann Georg Heinrich Hassel, _Geographisch-Statistisches Handwörterbuch: Nach den neuesten Quellen und Hülfsmitteln_, vol. 2 (Weimar: Im Verlage des geographischen Instituts, 1817), 406, Münchener Digitalisierungszentrum, https://www.digitale-sammlungen.de/en/view/bsb10429388?page=1.
