@@ -83,6 +83,10 @@ Each of these discoveries underscores a vital point: archival work is never real
 
 Unlike Temasek, which as a place name never entered European records, “Singapura” appears frequently but not with a single, fixed meaning. Over three decades of research have shown that at least 11 different geographical features around today’s “Singapore” carried this name at one time or another: a settlement, a river, a sandbar, a bay, an island, a kingdom, two distinct maritime straits, a mountain ridge, a cape and even a larger hinterland.
 
+<img src="/images/Vol%2022%20Issue%201/1800/1800_name.png" style="width: 80%;">
+
+<div style="background-color: white;">The confusion over Singapore’s identity in charts and maps is reflected in written texts. Over time, different names and locations were given for the island. It has been named for a settlement, a river, a sandbar, a bay, an island, a kingdom, two distinct maritime straits, a mountain ridge, a cape and even a larger hinterland. Graphic by Peter Borschberg. <i> Image reproduced from Kwa Chong Guan, Derek Heng, Peter Borschberg and Tan Tai Yong, eds., Seven Hundred Years: A History of Singapore (Singapore: National Library Board; Singapore: Marshall Cavendish Editions, 2019), 163. (From National Library Singapore, call no. RSING 959.57 KWA).</i></div>
+
 This elasticity of the name “Singapura” makes interpretation a tricky business. A passing reference – “a ship arrived from Singapura” – might point to one of the two straits, the settlement or some entirely different feature. This problem is incidentally not unique to Singapore. Early modern sources use “Malacca” just as loosely: it might mean the city, the Melaka River, the adjacent strait or even the entire Malay Peninsula.
 
 Complicating matters further, there was not just one city or settlement named “Singapura”. Places with the same or substantially similar name appeared in Vietnam, Thailand and Java, while echoes of the name run deep through Indian epic traditions. For historians, the task is not simply to track mentions of the name “Singapura”, but to parse carefully what each reference was actually pointing to.
