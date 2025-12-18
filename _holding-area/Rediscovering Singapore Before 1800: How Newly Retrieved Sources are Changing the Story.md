@@ -26,6 +26,10 @@ Today, the earlier view that Singapore’s history began only in 1819 feels anti
 
 One of the clearest manifestations of this shift can be seen in _Singapore, a 700-Year History: From Early Emporium to World City_, first published in 2009. In this edition, the book offered only the sparsest coverage of the centuries between the fall of Temasek-Singapura in the late 14th century and the arrival of the British in 1819.[^3] A decade later, the 2019 edition, _Seven Hundred Years: A History of Singapore_, published by the National Library Board and Marshall Cavendish Editions expanded this section substantially, although important gaps still remained, especially in relation to the 15th and 18th centuries.[^4]&nbsp; Now, with a third edition due in 2026, readers can expect to see Singapore’s early history woven into a seamless seven-century narrative.
 
+<img src="/images/Vol%2022%20Issue%201/1800/1800_book.png" style="width: 80%;">
+
+<div style="background-color: white;"><i>Seven Hundred Years: A History of Singapore</i> offers new perspectives on the history of Singapore, one that stretches back to the 14th century, pre-dating the arrival of Stamford Raffles by some 500 years. <i>Image reproduced from Kwa Chong Guan, Derek Heng, Peter Borschberg and Tan Tai Yong, eds., Seven Hundred Years: A History of Singapore (Singapore: National Library Board; Singapore: Marshall Cavendish Editions, 2019). (From National Library Singapore, call no. RSING 959.57 KWA).</i></div>
+
 So what explains this transformation? What discoveries and breakthroughs have deepened our understanding of pre-1819 Singapore? And what challenges continue to confront researchers as they piece together Singapore’s fragmentary past? The answers lie in the painstaking study of surviving texts, maps and records, as well as in the new questions scholars are asking about Singapore’s role within the regional and global networks of c.1300–1824.
 
 #### **New Sources Behind the New Story**
