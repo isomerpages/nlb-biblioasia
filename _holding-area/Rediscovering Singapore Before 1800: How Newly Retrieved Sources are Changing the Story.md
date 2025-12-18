@@ -132,20 +132,20 @@ As each new discovery surfaces, the story only grows richer, proving that the pa
 
 [^5]: Isabel Rio Novo, “[Luís de Camões in Asia](https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/),” _BiblioAsia_ 21, no. 3 (October–December 2025): 44–49.
 
-[^6]: “Singapore in Johann Heinrich Zedler’s Universal-Lexicon,” National Library Online. Article published 2014; Johann Heinrich Zedler, _Grosses vollständiges Universal-Lexicon aller Wissenschafften und Künste_ (Leipzig and Halle: Verlag Heinrich Zedler, 1731–54), https://www.zedler-lexikon.de/.&nbsp;
+[^6]: “Singapore in Johann Heinrich Zedler’s Universal-Lexicon,” National Library Online. Article published 2014; Johann Heinrich Zedler, _Grosses vollständiges Universal-Lexicon aller Wissenschafften und Künste_ (Leipzig and Halle: Verlag Heinrich Zedler, 1731–54), [https://www.zedler-lexikon.de/](https://www.zedler-lexikon.de/).&nbsp;
 
-[^7]: Daniel Defoe, _The Life, Adventures, and Piracies of the Famous Captain Singleton_ (Garfield Heights: Duke Classics, 2012). (From NLB OverDrive)
+[^7]: Daniel Defoe, [_The Life, Adventures, and Piracies of the Famous Captain Singleton_](https://nlb.overdrive.com/media/786852) (Garfield Heights: Duke Classics, 2012). (From NLB OverDrive)
 
-[^8]: Lee Meiyu, “A Battle Captured in a Map,” _BiblioAsia_ 11, no. 4 (January–March 2016): 52–53.
+[^8]: Lee Meiyu, “[A Battle Captured in a Map](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 52–53.
 
-[^9]: “The 1603 Naval Battle of Changi,” National Library Online. Article published 2013.&nbsp;
+[^9]: “[The 1603 Naval Battle of Changi](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7a818ab0-2fec-4fe0-8cdc-9847e354c876),” National Library Online. Article published 2013.&nbsp;
 
-[^10]: Robert Dudley, _Arcano del mare Tomo I (Europa und Asien) - BSB Cod.icon._ 138, 1636, map, Münchener Digitalisierungszentrum, https://www.digitale-sammlungen.de/en/view/bsb00094608?page=180 and https://www.digitale-sammlungen.de/en/view/bsb00094608?page=181.
+[^10]: Robert Dudley, _Arcano del mare Tomo I (Europa und Asien) - BSB Cod.icon._ 138, 1636, map, Münchener Digitalisierungszentrum, [https://www.digitale-sammlungen.de/en/view/bsb00094608?page=180](https://www.digitale-sammlungen.de/en/view/bsb00094608?page=180) and [https://www.digitale-sammlungen.de/en/view/bsb00094608?page=181](https://www.digitale-sammlungen.de/en/view/bsb00094608?page=181).
 
 
 [^11]: For the transcribed text of the instructions, see L.J. Matos, “Roteiros e rotas portuguesas do oriente nos séculos XVI e XVII” (doctoral thesis, University of Lisbon, 2016), 333–35.&nbsp;
 
-[^12]: Rob Harris, “Newly Discovered Diary Records Landmark Sighting of Australia in 1687,”&nbsp; _Sydney Morning Herald_, 27 March 2023, https://www.smh.com.au/world/europe/newly-discovered-diary-records-landmark-sighting-of-australia-in-1687-20230326-p5cvbe.html.
+[^12]: Rob Harris, “Newly Discovered Diary Records Landmark Sighting of Australia in 1687,”&nbsp; _Sydney Morning Herald_, 27 March 2023, [https://www.smh.com.au/world/europe/newly-discovered-diary-records-landmark-sighting-of-australia-in-1687-20230326-p5cvbe.html](https://www.smh.com.au/world/europe/newly-discovered-diary-records-landmark-sighting-of-australia-in-1687-20230326-p5cvbe.html).
 
 
-[^13]: Johann Georg Heinrich Hassel, _Geographisch-Statistisches Handwörterbuch: Nach den neuesten Quellen und Hülfsmitteln_, vol. 2 (Weimar: Im Verlage des geographischen Instituts, 1817), 406, Münchener Digitalisierungszentrum, https://www.digitale-sammlungen.de/en/view/bsb10429388?page=1.
+[^13]: Johann Georg Heinrich Hassel, _Geographisch-Statistisches Handwörterbuch: Nach den neuesten Quellen und Hülfsmitteln_, vol. 2 (Weimar: Im Verlage des geographischen Instituts, 1817), 406, Münchener Digitalisierungszentrum, [https://www.digitale-sammlungen.de/en/view/bsb10429388?page=1](https://www.digitale-sammlungen.de/en/view/bsb10429388?page=1).
