@@ -114,7 +114,7 @@ As each new discovery surfaces, the story only grows richer, proving that the pa
 
 
 <div style="background-color: white;">
-<b>Peter Borschberg</b>is an Associate Professor in the Department of History, National University of Singapore. He is the author of several books and articles about the history of Singapore and the surrounding region, and pioneered the use of non-English European archives to fill the gaps in Singapore’s history from the 15th to 18th centuries. </div>
+<b>Peter Borschberg</b> is an Associate Professor in the Department of History, National University of Singapore. He is the author of several books and articles about the history of Singapore and the surrounding region, and pioneered the use of non-English European archives to fill the gaps in Singapore’s history from the 15th to 18th centuries. </div>
 
 #### **Notes**
 
