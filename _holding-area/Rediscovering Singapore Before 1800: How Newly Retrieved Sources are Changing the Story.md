@@ -8,7 +8,7 @@ description: ""
 #### Piecing together the Singapore narrative before Raffles is not easy but the sources are there, just waiting to be discovered.  
 By Peter Borschberg
 
-<img src="/images/Vol%2022%20Issue%201/1800/1800_main.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/1800/1800_main2.png" style="width: 80%;">
 
 <div style="background-color: white;">Raja Bongsu of Johor in his galley heading towards the Dutch flagship <i>Zierikzee</i> to meet with Vice-Admiral Jacob Pietersz van Enkhuysen after the battle against the Portuguese in the Johor River and Singapore Strait in 1603. The left of the etching shows a small part of a European-looking city that may have been intended to represent Singapore. <i>Courtesy of Bibliotheca Thysiana, Leiden.</i></div>
 
