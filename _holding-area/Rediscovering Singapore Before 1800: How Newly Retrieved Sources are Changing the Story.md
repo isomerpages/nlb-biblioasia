@@ -124,13 +124,13 @@ As each new discovery surfaces, the story only grows richer, proving that the pa
 [^2]: Kwa Chong Guan, “Archaeology in the Writing of Singapore’s History,” in [_Reimagining Singapore's History: Essays on Pre-Colonial Roots and Modern Identity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300139911), ed. Matthew Oey (Singapore: Penguin Books, an imprint of Penguin Random House, 2025). (From National Library Singapore, call no. RSING 959.5703 REI)
 
 
-[^3]: Kwa Chong Guan, Derek Heng and Tan Tai Yong, _Singapore, a 700-Year History: From Early Emporium to World City_ (Singapore: National Archives of Singapore, 2009). (From National Library Singapore, call no. RSING 959.57 KWA)
+[^3]: Kwa Chong Guan, Derek Heng and Tan Tai Yong, [_Singapore, a 700-Year History: From Early Emporium to World City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13205984) (Singapore: National Archives of Singapore, 2009). (From National Library Singapore, call no. RSING 959.57 KWA)
 
 
-[^4]: Kwa Chong Guan, Derek Heng, Peter Borschberg and Tan Tai Yong, eds., _Seven Hundred Years: A History of Singapore_ (Singapore: National Library Board; Singapore: Marshall Cavendish Editions, 2019). (From National Library Singapore, call no. RSING 959.57 KWA)
+[^4]: Kwa Chong Guan, Derek Heng, Peter Borschberg and Tan Tai Yong, eds., [_Seven Hundred Years: A History of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868733) (Singapore: National Library Board; Singapore: Marshall Cavendish Editions, 2019). (From National Library Singapore, call no. RSING 959.57 KWA)
 
 
-[^5]: Isabel Rio Novo, “Luís de Camões in Asia,” _BiblioAsia_ 21, no. 3 (October–December 2025): 44–49.
+[^5]: Isabel Rio Novo, “[Luís de Camões in Asia](https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/),” _BiblioAsia_ 21, no. 3 (October–December 2025): 44–49.
 
 [^6]: “Singapore in Johann Heinrich Zedler’s Universal-Lexicon,” National Library Online. Article published 2014; Johann Heinrich Zedler, _Grosses vollständiges Universal-Lexicon aller Wissenschafften und Künste_ (Leipzig and Halle: Verlag Heinrich Zedler, 1731–54), https://www.zedler-lexikon.de/.&nbsp;
 
