@@ -118,10 +118,10 @@ As each new discovery surfaces, the story only grows richer, proving that the pa
 
 #### **Notes**
 
-[^1]: Peter Borschberg, “Sources for the Study of Singapore before 1800,” in _Reimagining Singapore's History: Essays on Pre-Colonial Roots and Modern Identity_, ed. Matthew Oey (Singapore: Penguin Books, an imprint of Penguin Random House, 2025). (From National Library Singapore, call no. RSING 959.5703 REI)
+[^1]: Peter Borschberg, “Sources for the Study of Singapore before 1800,” in [_Reimagining Singapore's History: Essays on Pre-Colonial Roots and Modern Identity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300139911), ed. Matthew Oey (Singapore: Penguin Books, an imprint of Penguin Random House, 2025). (From National Library Singapore, call no. RSING 959.5703 REI)
 
 
-[^2]: Kwa Chong Guan, “Archaeology in the Writing of Singapore’s History,” in _Reimagining Singapore's History: Essays on Pre-Colonial Roots and Modern Identity_, ed. Matthew Oey (Singapore: Penguin Books, an imprint of Penguin Random House, 2025). (From National Library Singapore, call no. RSING 959.5703 REI)
+[^2]: Kwa Chong Guan, “Archaeology in the Writing of Singapore’s History,” in [_Reimagining Singapore's History: Essays on Pre-Colonial Roots and Modern Identity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300139911), ed. Matthew Oey (Singapore: Penguin Books, an imprint of Penguin Random House, 2025). (From National Library Singapore, call no. RSING 959.5703 REI)
 
 
 [^3]: Kwa Chong Guan, Derek Heng and Tan Tai Yong, _Singapore, a 700-Year History: From Early Emporium to World City_ (Singapore: National Archives of Singapore, 2009). (From National Library Singapore, call no. RSING 959.57 KWA)
