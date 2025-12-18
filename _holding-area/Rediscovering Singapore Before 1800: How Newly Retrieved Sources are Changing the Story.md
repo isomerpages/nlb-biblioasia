@@ -10,7 +10,7 @@ By Peter Borschberg
 
 In the popular imagination, Singapore’s history still begins in 1819 with the arrival of the British. But the island’s story stretches back far earlier. Long before the arrival of Stamford Raffles, Singapore and its surrounding waters were already a vital node in Southeast Asia’s maritime networks – a place where ships, goods, people and ideas converged. The traces of this earlier history lie scattered across the world, preserved in texts, maps and records that reveal Singapore not as a blank slate, but as a node in a dynamic regional web.
 
-This article draws on my chapter found in the recently published collection of essays titled _Reimagining Singapore’s History_ edited by Matthew Oey (2025).1  In my chapter, I focus on written texts and graphic sources but leave the topic of material culture to Kwa Chong Guan’s separate essay on archaeology.2 The essays in this edited volume were originally presented at the _Reimagining Southeast Asian History_ conference held at the Asian Civilisations Museum in 2023, and show how much more there still is to uncover in Singapore’s deeper and longer history.
+This article draws on my chapter found in the recently published collection of essays titled _Reimagining Singapore’s History_ edited by Matthew Oey (2025).1&nbsp; In my chapter, I focus on written texts and graphic sources but leave the topic of material culture to Kwa Chong Guan’s separate essay on archaeology.2 The essays in this edited volume were originally presented at the _Reimagining Southeast Asian History_ conference held at the Asian Civilisations Museum in 2023, and show how much more there still is to uncover in Singapore’s deeper and longer history.
 
 #### **Singapore’s Fragmentary Past**
 
@@ -20,7 +20,7 @@ Looking back, what is striking is how quickly the field has changed. In the earl
 
 Today, the earlier view that Singapore’s history began only in 1819 feels antiquated. Over the past two or three decades, new research has substantially transformed the field. Fresh sources, bold interpretations and cross-disciplinary collaborations have revealed that Singapore’s pre-1819 past was better documented and more complex than once imagined. Rather than a historical blank slate, the island emerges as an active player in the wider currents of regional and global history.
 
-One of the clearest manifestations of this shift can be seen in _Singapore, a 700-Year History: From Early Emporium to World City_, first published in 2009. In this edition, the book offered only the sparsest coverage of the centuries between the fall of Temasek-Singapura in the late 14th century and the arrival of the British in 1819.3 A decade later, the 2019 edition, _Seven Hundred Years: A History of Singapore_, published by the National Library Board and Marshall Cavendish Editions expanded this section substantially, although important gaps still remained, especially in relation to the 15th and 18th centuries.4  Now, with a third edition due in 2026, readers can expect to see Singapore’s early history woven into a seamless seven-century narrative.
+One of the clearest manifestations of this shift can be seen in _Singapore, a 700-Year History: From Early Emporium to World City_, first published in 2009. In this edition, the book offered only the sparsest coverage of the centuries between the fall of Temasek-Singapura in the late 14th century and the arrival of the British in 1819.3 A decade later, the 2019 edition, _Seven Hundred Years: A History of Singapore_, published by the National Library Board and Marshall Cavendish Editions expanded this section substantially, although important gaps still remained, especially in relation to the 15th and 18th centuries.4&nbsp; Now, with a third edition due in 2026, readers can expect to see Singapore’s early history woven into a seamless seven-century narrative.
 
 So what explains this transformation? What discoveries and breakthroughs have deepened our understanding of pre-1819 Singapore? And what challenges continue to confront researchers as they piece together Singapore’s fragmentary past? The answers lie in the painstaking study of surviving texts, maps and records, as well as in the new questions scholars are asking about Singapore’s role within the regional and global networks of c.1300–1824.
 
@@ -32,31 +32,31 @@ The surviving European materials that touch on Singapore and its surrounding wat
 
 Conventional sources include the familiar: travelogues, letters, missionary accounts, treaties and official reports by colonial authorities or agents of the British East India Company. Some were written to dazzle readers back home in Europe with vivid – sometimes exaggerated – tales of the East. Others, composed for confidential circulation, offer more sober, carefully weighed assessments.
 
-Yet not all evidence comes neatly packaged as reports or correspondence. Some of the most intriguing insights lie hidden in what might be called “unconventional sources”: maps, charts, glossaries, dictionaries, encyclopedias and even works of fiction. These materials reveal how Europeans, often armed with only secondhand knowledge, tried to make sense of Singapore and its region. 
+Yet not all evidence comes neatly packaged as reports or correspondence. Some of the most intriguing insights lie hidden in what might be called “unconventional sources”: maps, charts, glossaries, dictionaries, encyclopedias and even works of fiction. These materials reveal how Europeans, often armed with only secondhand knowledge, tried to make sense of Singapore and its region.&nbsp;
 
-Reference compendia, for instance, recycled outdated information long after it had ceased to be accurate. A mid-18th century dictionary might still describe a “great city” of Sincapura at the tip of the peninsula, centuries after such a large settlement had faded. Phantom cities continued to appear on maps and charts well into the 18th century; Sinosura, a city supposedly lying east of Singapore, was one such example. The error surrounding its existence has been traced to a misreading of Luís Vaz de Camões’ Portuguese epic poem, _Os Lusíadas_ (_The Lusiads_), first published in 1572.5 
+Reference compendia, for instance, recycled outdated information long after it had ceased to be accurate. A mid-18th century dictionary might still describe a “great city” of Sincapura at the tip of the peninsula, centuries after such a large settlement had faded. Phantom cities continued to appear on maps and charts well into the 18th century; Sinosura, a city supposedly lying east of Singapore, was one such example. The error surrounding its existence has been traced to a misreading of Luís Vaz de Camões’ Portuguese epic poem, _Os Lusíadas_ (_The Lusiads_), first published in 1572.5&nbsp;
 
-The expansive _Grosses vollständiges Universal-Lexicon aller Wissenschafften und Künste_ (_Great Complete Universal Lexicon of All Sciences and Arts_), an 18th-century German reference work in 68 volumes by the bookseller and publisher Johann Heinrich Zedler, offers a telling example. It contains multiple entries on Singapore, under different spellings, reflecting how the name circulated across European scholarship. More than that, it shows the way knowledge was compiled: snippets borrowed from older works and stitched together by researchers who often had no personal, firsthand access to the places they described.6 
+The expansive _Grosses vollständiges Universal-Lexicon aller Wissenschafften und Künste_ (_Great Complete Universal Lexicon of All Sciences and Arts_), an 18th-century German reference work in 68 volumes by the bookseller and publisher Johann Heinrich Zedler, offers a telling example. It contains multiple entries on Singapore, under different spellings, reflecting how the name circulated across European scholarship. More than that, it shows the way knowledge was compiled: snippets borrowed from older works and stitched together by researchers who often had no personal, firsthand access to the places they described.6&nbsp;
 
 Far from curiosities, these unconventional traces matter. They remind us that Singapore existed in the European imagination and circulation of knowledge long before Raffles – and that even secondhand echoes helped shape how the island was placed within the wider global networks of knowledge.
 
-In 1720, Daniel Defoe, the author of _Robinson Crusoe_, published _The Life, Adventures, and Piracies of the Famous Captain Singleton_, a novel that cast the Singapore Strait as one of the world’s most dangerous waterways. Pirates, storms and treacherous waters turned every crossing into a deadly gamble. Though fictional, Defoe’s tale reflected how Europeans of the time imagined the region: distant, perilous and impossible to ignore.7 
+In 1720, Daniel Defoe, the author of _Robinson Crusoe_, published _The Life, Adventures, and Piracies of the Famous Captain Singleton_, a novel that cast the Singapore Strait as one of the world’s most dangerous waterways. Pirates, storms and treacherous waters turned every crossing into a deadly gamble. Though fictional, Defoe’s tale reflected how Europeans of the time imagined the region: distant, perilous and impossible to ignore.7&nbsp;
 
 Maps and charts carried the same mixture of knowledge and conjecture. For sailors, these were working tools, noting reefs, anchorages, freshwater springs and ports of call. Yet they also served as repositories of rumour, copying forward old reports long after their underlying realities had eclipsed. A single map might plot the contours of the strait while also speculating about trade routes or repeating references to a “great city” that had long ceased to exist. Read alongside written accounts, these charts reveal not only geography but also the evolving ways by which Europeans sought to comprehend Singapore and its surrounding waters.
 
-Illustrations extended this visual record. Mariners and ship’s officers sketched flora, fauna, settlements and people, often with as much invention as observation. While most surviving examples date from after 1750, a few earlier engravings stand out. Two from the workshop of the German publisher Theodor de Bry are especially striking. The first, _Contrafactur Des Scharmutz Els Der Hollender Wider Die Portigesen in Dem Flus Balusabar_ (_Chart of a Skirmish Between the Dutch and the Portuguese in the Balusabar River_; 1606), schematically depicts the battles between Dutch and Portuguese naval forces near Singapore in 1603.8 
+Illustrations extended this visual record. Mariners and ship’s officers sketched flora, fauna, settlements and people, often with as much invention as observation. While most surviving examples date from after 1750, a few earlier engravings stand out. Two from the workshop of the German publisher Theodor de Bry are especially striking. The first, _Contrafactur Des Scharmutz Els Der Hollender Wider Die Portigesen in Dem Flus Balusabar_ (_Chart of a Skirmish Between the Dutch and the Portuguese in the Balusabar River_; 1606), schematically depicts the battles between Dutch and Portuguese naval forces near Singapore in 1603.8&nbsp;
 
- The other, engraved in 1607, shows Raja Bongsu of Johor, dressed in elaborate Turkish-style robes, in his galley (_prahu_; a type of boat propelled solely by oars) heading towards the Dutch flagship _Zierikzee_ to meet with Vice-Admiral Jacob Pietersz van Enkhuysen after the battle against the Portuguese in the Johor River and Singapore Strait in 1603. The left of the etching shows a small part of a European-looking city that may have been intended to represent Singapore.9 
+&nbsp;The other, engraved in 1607, shows Raja Bongsu of Johor, dressed in elaborate Turkish-style robes, in his galley (_prahu_; a type of boat propelled solely by oars) heading towards the Dutch flagship _Zierikzee_ to meet with Vice-Admiral Jacob Pietersz van Enkhuysen after the battle against the Portuguese in the Johor River and Singapore Strait in 1603. The left of the etching shows a small part of a European-looking city that may have been intended to represent Singapore.9&nbsp;
 
 For all their embellishment, such works are among the earliest surviving European attempts to picture Singapore and its environs. While these blur the lines between record and imagination, they also demonstrate how much can be gleaned from unconventional sources. Taken together, they form part of the mosaic from which Singapore’s pre-1819 history can be reconstructed. Each fragment – however flawed – adds insights, helping to restore the island’s place on the larger regional and global stage.
 
 #### **Unexpected Finds in Unexpected Places**
 
-Do new sources still surface? Absolutely – but not in the archives and libraries one might expect.  These institutions in London, Lisbon and The Hague have long been trawled for evidence. Real surprises now emerge from smaller or unexpected institutions, monastic libraries, private collections or overlooked manuscripts. 
+Do new sources still surface? Absolutely – but not in the archives and libraries one might expect.&nbsp; These institutions in London, Lisbon and The Hague have long been trawled for evidence. Real surprises now emerge from smaller or unexpected institutions, monastic libraries, private collections or overlooked manuscripts.&nbsp;
 
-Consider Robert Dudley’s maritime encyclopedia, _Dell’Arcano del Mare_ (_On the Secret of the Sea_), published in 1645–46. A manuscript copy preserved in the Bavarian State Library in Munich contains a 1636 map, also by Dudley, where multiple features – a settlement, a river, a bay, a strait and a cape – are all marked with the name “Singapura” in various spellings. Such clustering of the name on a single map specimen is unusual and signals the island’s weight in the European imagination.10 
+Consider Robert Dudley’s maritime encyclopedia, _Dell’Arcano del Mare_ (_On the Secret of the Sea_), published in 1645–46. A manuscript copy preserved in the Bavarian State Library in Munich contains a 1636 map, also by Dudley, where multiple features – a settlement, a river, a bay, a strait and a cape – are all marked with the name “Singapura” in various spellings. Such clustering of the name on a single map specimen is unusual and signals the island’s weight in the European imagination.10&nbsp;
 
-Or take the _Codex Castelo Melhor_, a privately held collection of Portuguese navigational instructions.11  Recently transcribed, it offers something exceptionally rare: sailing directions for the “New Strait of Singapore”, running from the northeastern tip of today’s Sentosa down along the island’s southwestern coast. Most early accounts focus on the Old Strait, the passage between today’s Sentosa and the harbourfront area. This new detail adds a fresh layer of navigational knowledge to a familiar name.
+Or take the _Codex Castelo Melhor_, a privately held collection of Portuguese navigational instructions.11&nbsp; Recently transcribed, it offers something exceptionally rare: sailing directions for the “New Strait of Singapore”, running from the northeastern tip of today’s Sentosa down along the island’s southwestern coast. Most early accounts focus on the Old Strait, the passage between today’s Sentosa and the harbourfront area. This new detail adds a fresh layer of navigational knowledge to a familiar name.
 
 Even more surprising is the diary of Bremond, a French surgeon aboard the naval vessel _L'Oiseau_ during a voyage to Siam (now Thailand) from 1687–88, which was sold at auction in 2023 and is now held in the National Library of Australia. While best known for recording an early European sighting of Australia, it also contains a brief but telling note of the warship passing through the Singapore Strait in December 1687. The entry records a lull – or absence – of wind that delayed the ship’s westward progress to Pondicherry (or Puducherry) in India.12 It was likely during this pause that the officers took measurements and gathered observations, which later informed French maps of the Singapore Strait and substantially shaped French cartographic representations well into the mid-18th century.
 
@@ -92,7 +92,7 @@ Only by mapping these connections – and appreciating their complexity – does
 
 #### **Engaging with the Public: History as Conversation**
 
-History is not just a scholarly pursuit; it is an ongoing conversation with the public. Audiences are curious, sceptical and sometimes impatient. They stumble upon a fleeting mention of “Singapore” in a centuries-old text and wonder if they have uncovered a hidden treasure. They confront a landscape long assumed empty and may find it hard to imagine that historians can reconstruct a coherent narrative from mere bits and fragments. 
+History is not just a scholarly pursuit; it is an ongoing conversation with the public. Audiences are curious, sceptical and sometimes impatient. They stumble upon a fleeting mention of “Singapore” in a centuries-old text and wonder if they have uncovered a hidden treasure. They confront a landscape long assumed empty and may find it hard to imagine that historians can reconstruct a coherent narrative from mere bits and fragments.&nbsp;
 
 Some accuse scholars of embellishing or inventing material; others are frustrated by inaccessible archives and libraries, or texts written in archaic languages. Making these sources accessible through annotated translations, transcriptions and affordable publications is essential. Without accessibility, scholarship risks remaining a private affair, while the public remains tethered to outdated ideas of Singapore’s pre-modern “emptiness”.
 
@@ -111,3 +111,29 @@ In the end, the historian is part detective, part translator and part storytelle
 Looking back to the advice I received in the 1990s, my quest turned out to be anything but futile. The sources were always there – waiting in unexpected archives, private collections and books written in languages long neglected. Earlier historians missed both the sources and the story because they cast their nets too narrowly, asked the wrong questions and expected tidy answers.
 
 As each new discovery surfaces, the story only grows richer, proving that the past, much like the sea, is never still, and that Singapore’s history is deeper, broader and more extraordinary than we ever ventured to think.
+
+
+<div style="background-color: white;">
+<b>Peter Borschberg</b>is an Associate Professor in the Department of History, National University of Singapore. He is the author of several books and articles about the history of Singapore and the surrounding region, and pioneered the use of non-English European archives to fill the gaps in Singapore’s history from the 15th to 18th centuries. </div>
+
+#### **Notes**
+
+[^1]: 
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
