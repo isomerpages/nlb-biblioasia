@@ -132,8 +132,7 @@ In the end, the historian is part detective, part translator and part storytelle
 Looking back to the advice I received in the 1990s, my quest turned out to be anything but futile. The sources were always there – waiting in unexpected archives, private collections and books written in languages long neglected. Earlier historians missed both the sources and the story because they cast their nets too narrowly, asked the wrong questions and expected tidy answers.
 
 As each new discovery surfaces, the story only grows richer, proving that the past, much like the sea, is never still, and that Singapore’s history is deeper, broader and more extraordinary than we ever ventured to think.
-
-<br>
+<br><br>
 <div style="background-color: white;">
 <b>Peter Borschberg</b> is an Associate Professor in the Department of History, National University of Singapore. He is the author of several books and articles about the history of Singapore and the surrounding region, and pioneered the use of non-English European archives to fill the gaps in Singapore’s history from the 15th to 18th centuries. </div>
 
