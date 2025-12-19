@@ -68,7 +68,7 @@ Do new sources still surface? Absolutely – but not in the archives and librari
 
 Consider Robert Dudley’s maritime encyclopedia, _Dell’Arcano del Mare_ (_On the Secret of the Sea_), published in 1645–46. A manuscript copy preserved in the Bavarian State Library in Munich contains a 1636 map, also by Dudley, where multiple features – a settlement, a river, a bay, a strait and a cape – are all marked with the name “Singapura” in various spellings. Such clustering of the name on a single map specimen is unusual and signals the island’s weight in the European imagination.[^10]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/1800/1800_manuscript.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/1800/1800_manuscript.png" style="width: 100%;">
 
 <div style="background-color: white;">A manuscript copy of Robert Dudley’s <i>Dell’Arcano del Mare</i> (<i>On the Secret of the Sea</i>, 1645–46), preserved in the Bavarian State Library in Munich, contains a 1636 map which shows several features – a settlement, a river, a bay, a strait and a cape – marked with the name “Singapura” in various spellings. <i>From Münchener Digitalisierungszentrum, Digitale Bibliothek.</i></div>
 
@@ -133,7 +133,7 @@ Looking back to the advice I received in the 1990s, my quest turned out to be an
 
 As each new discovery surfaces, the story only grows richer, proving that the past, much like the sea, is never still, and that Singapore’s history is deeper, broader and more extraordinary than we ever ventured to think.
 
-
+<br>
 <div style="background-color: white;">
 <b>Peter Borschberg</b> is an Associate Professor in the Department of History, National University of Singapore. He is the author of several books and articles about the history of Singapore and the surrounding region, and pioneered the use of non-English European archives to fill the gaps in Singapore’s history from the 15th to 18th centuries. </div>
 
