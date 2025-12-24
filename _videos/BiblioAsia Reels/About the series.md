@@ -8,6 +8,13 @@ variant: tiptap
 <h3><strong>A Reel-ly Good Story: History in Five Minutes</strong></h3>
 <p><em>BiblioAsia Reels</em> turns a <em>BiblioAsia</em> story into a short
 video. Take five to learn interesting things about Singapore history.</p>
+<h4><strong>Exploring Sembawang from Old Maps</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ey_geDt46j8"></iframe>
+</div>
+<p>
+<br>Find out how Sembawang, once home to pepper and gambier plantations got
+its name, and its transformation into a naval base.</p>
 <h4><strong>Queenstown Library, the First Branch Library</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rSeaQ0G-CYc"></iframe>
