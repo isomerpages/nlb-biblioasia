@@ -4,6 +4,13 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/">**Rediscovering Singapore Before 1800: How Newly Retrieved Sources are Changing the Story**</a>
+
+Piecing together the Singapore narrative before Raffles is not easy but the sources are there, just waiting to be discovered.
+
+<img src="/images/Vol%2022%20Issue%201/1800/1800_main2.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">**What You Didn’t Know About the Straits Times**</a>
 
 The first fake news. The illegal postwar edition. Newsmen turned presidents. The&nbsp;_Straits Times_&nbsp;has had an interesting 180 years.
