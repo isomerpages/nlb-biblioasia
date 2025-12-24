@@ -2,7 +2,5 @@ collections:
   holding-area:
     output: true
     order:
-      - "Rediscovering Singapore Before 1800: How Newly Retrieved Sources are
-        Changing the Story.md"
       - Bringing Back the Hainan Lion.md
       - Sample article.md
