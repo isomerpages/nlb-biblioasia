@@ -1068,4 +1068,14 @@ sections:
       url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
       image: /images/Vol 21 Issue 4/Straits/StraistsTimes_Topics.jpg
       alt: About the Straits Times
+  - infopic:
+      title: Rediscovering Singapore Before 1800
+      subtitle: History
+      id: infopic
+      description: Piecing together the Singapore narrative before Raffles is not easy
+        but the sources are there, just waiting to be discovered.
+      button: SINGAPORE’S HISTORY DID NOT BEGIN WITH RAFFLES
+      url: /vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/
+      image: /images/Vol 22 Issue 1/1800/1800_main2.png
+      alt: Rediscovering Singapore
 ---
