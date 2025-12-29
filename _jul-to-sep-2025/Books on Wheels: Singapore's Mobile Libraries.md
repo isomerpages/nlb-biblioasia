@@ -162,7 +162,7 @@ With donations from the Kwan Im Thong Hood Cho Temple, the service expanded in M
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Mini_Molly.png" style="width: 80%;">A storytelling session in Mini Molly, 2014.<i> Courtesy of National Library Board. </i></div>
+<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Mini_Molly.png" style="width: 80%;">A storytelling session in Mini Molly, 2014.<i> Collection of the National Library Board. </i></div>
 
 In September 2016, a new vehicle known as “Big Molly”, also sponsored by the temple, replaced the 2012 Molly bus which was decommissioned. This newer version carries up to 3,000 books and features enhanced accessibility, including a hydraulic wheelchair lift to serve wheelchair users and book stations placed at a lower height for children to borrow and return books on their own. Today, Big Molly visits special needs schools, homes and orphanages, welfare homes, lower-income groups and housing estates. It also conducts weekend outreach events in residential estates across Singapore.[^42]
 
