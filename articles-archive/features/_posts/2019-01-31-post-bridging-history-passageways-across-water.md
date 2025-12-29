@@ -4,6 +4,7 @@ date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/bridging-history-wtr/
 image: /images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging2.JPG
 layout: post
+variant: markdown
 ---
 #### **Lim Tin Seng** traces the history of nine iconic bridges spanning the Singapore River that have ties to the colonial period.
 
@@ -27,7 +28,7 @@ Anderson Bridge, which connects Empress Place to Collyer Quay, is named after Jo
 
 Cavenagh Bridge could no longer support the growing vehicular and pedestrian traffic that came with the rapid development of Singapore because its low height allowance prevented vessels from passing unencumbered beneath at high tide. After Anderson Bridge was built in 1910, Cavenagh Bridge was, fortunately, spared the wrecking ball and turned into a pedestrian bridge.
 
-Anderson Bridge was designed by Municipal Engineer Robert Peirce and his assistant D.M. Martin. With a length of about 230 ft (70 m), the bridge has an elaborate steel truss structure comprising three steel arches spanning the length of its deck framed by a towering column at each end. Each column bears a plaque made of red granite imported from Egypt. The bridge also has two pedestrian footpaths, one on each side, and rusticated archways flanking each footpath, making a total of four archways.
+Anderson Bridge was designed by Municipal Engineer Robert Peirce and his assistant D.M. Martia. With a length of about 230 ft (70 m), the bridge has an elaborate steel truss structure comprising three steel arches spanning the length of its deck framed by a towering column at each end. Each column bears a plaque made of red granite imported from Egypt. The bridge also has two pedestrian footpaths, one on each side, and rusticated archways flanking each footpath, making a total of four archways.
 
 The bridge was constructed by Howarth Erskine Ltd and the abutments by the Westminster Construction Company Ltd. The steelwork was fabricated in Britain, while other components such as the railings, castings, rainwater channels, gully frames and covers were produced locally at the municipal workshops on River Valley Road.
 
@@ -45,7 +46,7 @@ Cavenagh Bridge is named after William Orfeur Cavenagh, the last Governor of the
 
 Ordish was responsible for the design of several notable projects in London, including Joseph Paxton’s Crystal Palace (1851) and the dome-shaped roof of Albert Hall (1871). He was also a prolific bridge builder, having designed the Franz-Josef Bridge in Prague (1868) and the Albert Bridge in London (1873). In 1858, Ordish patented a bridge construction method called Ordish’s straight-chain suspension bridge, which comprised a rigid girder suspended by inclined straight chains instead of hanging chains. This cutting-edge technology was adopted for Cavenagh Bridge, giving the bridge the design we see today.[^4]
 
-The bridge was constructed using iron to ensure that it could withstand the high tensile forces of the cables. The iron components were fabricated in Glasgow, Scotland, by P & W MacLellan, the same firm that made the cast iron for Telok Ayer Market. The components were later shipped to Singapore and assembled by Indian convict labour.
+The bridge was constructed using iron to ensure that it could withstand the high tensile forces of the cables. The iron components were fabricated in Glasgow, Scotland, by P &amp; W MacLellan, the same firm that made the cast iron for Telok Ayer Market. The components were later shipped to Singapore and assembled by Indian convict labour.
 
 Although Cavenagh Bridge was built too low for vessels to pass beneath it during high tide, it served the local populace and business community well. In fact, it was used by both vehicles and people who traversed between the business district of Commercial Square (today’s Raffles Place) at the south bank of Singapore River and the administrative district in the north. By the time Anderson Bridge was opened in 1910, Cavenagh Bridge had served its purpose and was converted into a pedestrians-only footbridge.
 
@@ -178,11 +179,11 @@ Ng, M.F.C. (2016). [*Singapore River walk*](http://eservice.nlb.gov.sg/item_hold
 
 Samuel, D.S. (1991). [*Singapore’s heritage: Through places of historical interest*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6252232) (p. 86). Singapore: Elixir Consultancy Service. (Call no.: RSING 959.57 SAM-[HIS])
 
-Savage, V.R., & Yeoh, B.S.A. (2013). [*Singapore street names: A study of toponymics*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850) (pp. 88–89, 317, 322–324). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV-[TRA])
+Savage, V.R., &amp; Yeoh, B.S.A. (2013). [*Singapore street names: A study of toponymics*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850) (pp. 88–89, 317, 322–324). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV-[TRA])
 
-Singapore. Municipality. (1930). *Administration report of the Singapore municipality for the year 1929* (p. F–2). Singapore: Fraser & Neave, Limited. (Microfilm no.: NL3414)
+Singapore. Municipality. (1930). *Administration report of the Singapore municipality for the year 1929* (p. F–2). Singapore: Fraser &amp; Neave, Limited. (Microfilm no.: NL3414)
 
-De Silva, Leo & Chandradas. (1985, September 30). [Singapore River preserved](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850930-1.2.23.1). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+De Silva, Leo &amp; Chandradas. (1985, September 30). [Singapore River preserved](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850930-1.2.23.1). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
 Survey Department, Federated Malay States and Straits Settlements. (1893).
 
@@ -190,9 +191,9 @@ Tan, I. (2012). *Bridges to our heritage: The significance of five historic brid
 
 Hon, S,S. (1893). [*Plan of Singapore Town Showing Topographical Detail and Municipal Numbers*](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/5549d1ab-66ca-11e3-bb37-0050568939ad) [Survey map]. Retrieved from National Archives of Singapore website.
 
-Tyers, R.K. (1993). [*Ray Tyers’ Singapore: Then & now*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442235) (pp. 7, 11–12, 26–27, 95). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS])
+Tyers, R.K. (1993). [*Ray Tyers’ Singapore: Then &amp; now*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442235) (pp. 7, 11–12, 26–27, 95). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS])
 
-Wan, M.H., & Lau, J. (2009). [*Heritage places of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220774) (pp. 9–15). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 WAN-[HIS])
+Wan, M.H., &amp; Lau, J. (2009). [*Heritage places of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220774) (pp. 9–15). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 WAN-[HIS])
 
 #### **Notes**
 [^1]: Cheong, C. (1992). [*Framework and foundation: A history of the Public Works Department*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293) (p. 50). Singapore:Times Editions. (Call no.: RSING 354.5957008609 CHE) 
@@ -208,4 +209,4 @@ Wan, M.H., & Lau, J. (2009). [*Heritage places of Singapore*](http://eservice.nl
 [^11]: [Cheong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6434293), p. 55; Tan, 2012, pp. 67–70. 
 [^12]: [Singapore River smell corrodes bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390417-1.2.94). (1939, April 17). *The Straits Times*, p. 13. Retrieved from NewspaperSG. 
 [^13]: [Ord Bridg](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18860902-1.2.45.2)e. (1886, September 2). *Straits Times Weekly Issue*, p. 14. Retrieved from NewspaperSG. 
-[^14]: De Silva, L., & Chandradas. (1985, September 30). [Singapore River preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850930-1.2.23.1). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^14]: De Silva, L., &amp; Chandradas. (1985, September 30). [Singapore River preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850930-1.2.23.1). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
