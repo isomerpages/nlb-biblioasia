@@ -11,6 +11,7 @@ third_nav_title: BiblioAsia Reels
 
 Find out how Sembawang, once home to pepper and gambier plantations got its name, and its transformation into a naval base.
 
-<br>
+**Related article** <br>
+* [The Story of Sembawang from 19th-Century Singapore Maps](/vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/)<br>
 
 <hr>
