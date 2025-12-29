@@ -33,8 +33,9 @@ There is a Latin saying, _Genuensis ergo mercator_, which means “Genoese, ther
 
 By 1876, he had founded Gaggino &amp; Co., a ship chandlery that provided supplies and equipment to vessels passing through Singapore. The business quickly grew into a trusted name. Chandlers were judged by their speed and reliability, and Gaggino promised “water and coal supplied at the shortest notice”, minimising downtime for ships and maximising efficiency. His office stood near Cavenagh Bridge, just across the river from the General Post Office (where Fullerton Hotel now stands) until 1914.&nbsp;
 
-![](/images/Vol%2021%20Issue%203/Giovanni/giovanni_bridge.jpg)
-<div style="background-color:white;"> Gaggino &amp; Co. was located near Cavenagh Bridge, just across the road from the General Post Office (now the Fullerton Hotel), 1900s.&nbsp;This image is reproduced from a postcard published by Kong Hing Chiong &amp; Co. <i>  Courtesy of National Archives of Singapore (Media - Image no. 19980005492 - 0021).</i></div>
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%203/Giovanni/Gaggino_Co.jpg" style="width: 80%;"> Gaggino &amp; Co. was located near Cavenagh Bridge, just across the road from the General Post Office (now the Fullerton Hotel), 1900s.&nbsp;This image is reproduced from a postcard published by Kong Hing Chiong &amp; Co. <i>  Courtesy of National Archives of Singapore (Media - Image no. 19980005492 - 0021).</i></div>
 
 The company was eventually appointed to the Russian, French, German, Austrian, Spanish, Portuguese and Italian navies.[^8] Gaggino’s business venture, however, did not stop here. Interestingly, he was once the owner of Pulau Bukom.
 
