@@ -31,7 +31,7 @@ When Gaggino arrived in Singapore sometime around 1874 on the ship _Fratelli Gag
 
 There is a Latin saying, _Genuensis ergo mercator_, which means “Genoese, therefore a merchant”.[^7] Although Gaggino was not strictly from Genoa, hailing instead from the neighbouring province of Savona, the adage nonetheless applied.&nbsp;
 
-By 1876, he had founded Gaggino &amp; Co., a ship chandlery that provided supplies and equipment to vessels passing through Singapore. The business quickly grew into a trusted name. Chandlers were judged by their speed and reliability, and Gaggino promised “water and coal supplied at the shortest notice”, minimising downtime for ships and maximising efficiency. His office stood near Cavenagh Bridge, just across the river from the General Post Office (where Fullerton Hotel now stands) until 1914.&nbsp;
+By 1876, he had founded Gaggino &amp; Co., a ship chandlery that provided supplies and equipment to vessels passing through Singapore. The business quickly grew into a trusted name. Chandlers were judged by their speed and reliability, and Gaggino promised “water and coal supplied at the shortest notice”, minimising downtime for ships and maximising efficiency. His office stood near Cavenagh Bridge, just across the road from the General Post Office (where Fullerton Hotel now stands) until 1914.&nbsp;
 
 <div style="background-color: white;">
 <br>
