@@ -17,6 +17,9 @@ Today, people are attracted to Sembawang for a number of reasons. Families visit
 
 In the 19th century, however, Sembawang looked very different. Located at the northernmost tip of Singapore facing the narrow Selat Tebrau, or Strait of Johor (erroneously labelled as Old Straits of Singapore on some early maps),[^2] Sembawang once had vast swathes of dense forest before these were cleared for the cultivation of cash crops like pepper, gambier (_pale catechu_), coconut and rubber in the early 19th century. The plantations subsequently gave way to Chinese and Malay villages.&nbsp;
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/ey_geDt46j8" frameborder="0" allowfullscreen=""></iframe></div>
+<div style="background-color: white;">Find out how Sembawang, once home to pepper and gambier plantations got its name, and its transformation into a naval base.</div>
+
 #### **Origin of “Sembawang”**
 
 _Sembawang_ is a Malay word for a timber tree which grows in wet tropical areas especially along streams and flowing rivers in forests.[^3] The first record of the tree specimen in Singapore was by Danish surgeon Nathaniel Wallich in 1822, who named it _Mesua singaporiana_.[^4] In 1897, the tree was recorded as _Kayea ferruginea_ by Henry Nicholas Ridley, then the director of the Singapore Botanic Gardens, who also noted its local name, Pokok Sumbawang, as well as its proximity to Johor.[^5] In his book, _The Flora of the Malay Peninsula_ published in 1922, Ridley described the _Kayea ferruginea_ as a “fairly large straggling tree… \[found\] overhanging streams and rivers in forests” whose local Malay name is “Buah Sembawang”.[^6]
