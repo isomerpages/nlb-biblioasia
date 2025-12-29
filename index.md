@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/
-      button: “Majulah Singapura” and Other Love Songs
+      url: /vol-21/issue-3/oct-dec-2025/singapore-time-zones/
+      button: "Daylight Robbery: Singapore’s Shifting Time Zones"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Majulah Singapura/HeroImage_MajulahSingapura2.jpg
+      background: /images/Vol 21 Issue 3/Daylight Robbery/HeroImage_DaylightRobbery_3.jpg
       variant: center
+  - infopic:
+      title: What You Didn’t Know About the Straits Times
+      subtitle: Print
+      id: infopic
+      description: The first fake news. The illegal postwar edition. Newsmen turned
+        presidents. The Straits Times has had an interesting 180 years.
+      button: '"HEAR YE, HEAR YE”'
+      url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
+      image: /images/Vol 21 Issue 4/Straits/StraistsTimes_Topics.jpg
+      alt: About the Straits Times
   - infopic:
       title: A Century of Singapore’s Cinemas
       subtitle: Film and Photography
@@ -1058,16 +1068,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: What You Didn’t Know About the Straits Times
-      subtitle: Print
-      id: infopic
-      description: The first fake news. The illegal postwar edition. Newsmen turned
-        presidents. The Straits Times has had an interesting 180 years.
-      button: '"HEAR YE, HEAR YE”'
-      url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
-      image: /images/Vol 21 Issue 4/Straits/StraistsTimes_Topics.jpg
-      alt: About the Straits Times
   - infopic:
       title: Rediscovering Singapore Before 1800
       subtitle: History
