@@ -11,7 +11,7 @@ variant: markdown
 
 Malay comics first appeared as editorial cartoons in local newspapers such as&nbsp;_Warta Jenaka_&nbsp;and&nbsp;_Utusan Zaman_&nbsp;in the 1930s. These cartoons paved the way for Malay comic books in the 1950s.
 
-<b>Related articles</b><br>
+<b>Related Arts</b><br>
 
 * <a href="https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/early-malay-comics/">Early Malay Comics</a><br>
 
