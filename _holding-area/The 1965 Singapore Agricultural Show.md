@@ -80,21 +80,21 @@ The reduced targets reflect both a recognition of the challenges facing the agri
 
 [^2]: Lee Kuan Yew, “[Opening of the Agricultural Show at the Kallang Park in the Evening](https://www.nas.gov.sg/archivesonline/speeches/record-details/740bf986-115d-11e3-83d5-0050568939ad),” speech, Kallang Park, 19 September 1965, transcript. (From National Archives of Singapore document no. lky19670511)&nbsp;
 
-[^3]: “Singapore’s Big Egg Crisis,” _Straits Times_, 21 March 1965, 11; “270,000 Eggs for HK,” _Straits Times_, 27 March 1965, 20. (From NewspaperSG)&nbsp;
+[^3]: “[Singapore’s Big Egg Crisis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650321-1.2.49.6),” _Straits Times_, 21 March 1965, 11; “[270,000 Eggs for HK](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650327-1.2.137),” _Straits Times_, 27 March 1965, 20. (From NewspaperSG)&nbsp;
 
-[^4]: Ho Seng Choon, oral history interview by Tan Beng Luan, 1 July 1994, transcript and MP3 audio, Reel/Disc 6 of 8, National Archives of Singapore (accession no. 001519), 1–12;&nbsp; “Singapore’s Big Egg Crisis.” &nbsp;
+[^4]: Ho Seng Choon, oral history interview by Tan Beng Luan, 1 July 1994, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1d6b516b-115f-11e3-83d5-0050568939ad-OHC001519_006/web/html5/index.html) and MP3 audio, Reel/Disc 6 of 8, National Archives of Singapore ([accession no. 001519](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001519)), 1–12;&nbsp; “[Singapore’s Big Egg Crisis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650321-1.2.49.6).” &nbsp;
 
-[^5]: “Singapore’s Big Egg Crisis.” &nbsp;
+[^5]: “[Singapore’s Big Egg Crisis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650321-1.2.49.6).” &nbsp;
 
-[^6]: Ho, interview, 1 July 1994, Reel/Disc 6 of 8, 1–12.
+[^6]: [Ho](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1d6b516b-115f-11e3-83d5-0050568939ad-OHC001519_006/web/html5/index.html), interview, 1 July 1994, Reel/Disc 6 of 8, 1–12.
 
-[^7]: “Mammoth Agriculture Exhibition at Kallang Park,” _Straits Times_, 7 September 1965, 4. (From NewspaperSG)
+[^7]: “[Mammoth Agriculture Exhibition at Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650907-1.2.16),” _Straits Times_, 7 September 1965, 4. (From NewspaperSG)
 
-[^8]: Ho, interview, Reel/Disc 6 of 8, 1–12.
+[^8]: [Ho](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1d6b516b-115f-11e3-83d5-0050568939ad-OHC001519_006/web/html5/index.html), interview, Reel/Disc 6 of 8, 1–12.
 
-[^9]: “Mammoth Agriculture Exhibition at Kallang Park.”&nbsp;
+[^9]: “[Mammoth Agriculture Exhibition at Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650907-1.2.16).”&nbsp;
 
-[^10]: “Mammoth Agriculture Exhibition at Kallang Park.”&nbsp;
+[^10]: “[Mammoth Agriculture Exhibition at Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650907-1.2.16).”&nbsp;
 
 
 
