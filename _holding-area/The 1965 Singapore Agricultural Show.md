@@ -7,6 +7,10 @@ description: ""
 #### Initially planned to encourage people to eat more eggs, the agricultural show eventually morphed into a mega event showcasing the achievements of farmers in Singapore. &nbsp;
 By Caleb Leow
 
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_main.png" style="width: 80%;">
+
+<div style="background-color: white;">Goats on display at the agricultural show, 1965. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000819 - 0069).</i></div>
+
 For just over a week in 1965, the heart of Singapore was filled with the sounds of grunting, mooing, bleating, gobbling, clucking and quacking. This is because some 13 stalls – filled with pigs, cows, goats, turkeys, chickens and ducks – had been set up in Kallang Park (where the Singapore Sports Hub now sits) for the Singapore Agricultural Show. Hundreds of thousands of curious city-dwellers made their way to the public park from 18 to 26 September to take in the sights and admire the vegetables, flowers and fruits – all locally produced – on display.[^1]
 
 In his speech at the opening of the event on 19 September, Prime Minister Lee Kuan Yew acknowledged that the idea of an agricultural show in Singapore had an air of improbability. “I would like to say that there is a little bit of the flair for greatness when we call this an agricultural show,” he said. Yet what the show had achieved was something to be proud of, he noted. “You know, for an island of 214 square miles at low tide, and at high tide perhaps, two square miles less, to talk of agriculture is to take a deep breath and spread one’s chest out, and I think that is what Singapore has been doing.”[^2] 
