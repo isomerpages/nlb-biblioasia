@@ -13,7 +13,7 @@ In his speech at the opening of the event on 19 September, Prime Minister Lee Ku
 
 The farm show shone a spotlight on Singapore’s rural sector, which had taken on newfound importance in the immediate wake of independence just a month prior. The show’s abundant display of livestock and fresh produce seemed to represent, at a vulnerable historical moment, a budding nation’s potential to survive and thrive. Although its timing was fortuitous, the event had been months in the making and had been set in motion by something far more quotidian than a desire to demonstrate strength. It all started because Singapore had too many eggs. 
 
-Hatching a Plan
+#### **Hatching a Plan**
 
 On 21 March 1965, the _Straits Times_ reported that an egg glut “had resulted in a drop of farm price from about 8½ cents to 6½ cents an egg”. Coupled with the increased price of chicken feed, the decrease in profits placed a strain on the livelihood of some 150,000 farmers in the livestock industry.3   
 
@@ -27,7 +27,7 @@ This led to the idea of a large-scale agricultural show mooted by Ho and another
 
 As the project grew in scope, it attracted the attention of the prime minister. In his oral history interview, Ho recounted the anecdote of Lee turning down the invitation to open the show, assuming that it would be a small-scale event requiring, at most, the presence of a high-ranking minister (“他认为小规模的东西，最好你放一个高级政府官员就好”). However, unbeknownst to Ho and the other organisers, Lee eventually went to check out the progress of the event, and he was so impressed that he decided to open the show himself (“后来我们做好了，不懂他自己跑去看，看了以后，打电话到局长那边去，要放他的名，他要去剪彩，所以那天他去剪彩”).8  
 
-A Feast for the Eyes
+#### **A Feast for the Eyes**
 
 The highlight of the show was a display by 526 farmers over 13 stalls. There were six stalls for pigs, cattle and goats, three for poultry, ducks and eggs, while the remaining four displayed vegetables, flowers and fruits. These were not only exhibited for the public but were also part of a competition. The farmers who showcased the best “eggs, fowls, ducks, geese, pigs, goats, cattle, flowers, vegetables, fruits, singing birds and aquarium fish” stood to win a total of $20,000 in cash, as well as other prizes such as modern farming equipment, implements, animal feed, fertilisers, pesticides and veterinary drugs.9 
 
