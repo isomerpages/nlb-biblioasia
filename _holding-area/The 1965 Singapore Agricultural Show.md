@@ -75,10 +75,10 @@ The reduced targets reflect both a recognition of the challenges facing the agri
 
 #### **Notes**
 
-[^1]: “Rural People ‘Not Forgotten’: Ho,” _Straits Times_, 27 September 1965, 4; “Big Farm Show Opens in Kallang Park,” _Straits Times_, 19 September 1965, 10. (From NewspaperSG)
+[^1]: “[Rural People ‘Not Forgotten’: Ho](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650927-1.2.22),” _Straits Times_, 27 September 1965, 4; “[Big Farm Show Opens in Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650919-1.2.35.1),” _Straits Times_, 19 September 1965, 10. (From NewspaperSG)
 
 
-[^2]: Lee Kuan Yew, “Opening of the Agricultural Show at the Kallang Park in the Evening,” speech, Kallang Park, 19 September 1965, transcript. (From National Archives of Singapore document no. lky19670511)&nbsp;
+[^2]: Lee Kuan Yew, “[Opening of the Agricultural Show at the Kallang Park in the Evening](https://www.nas.gov.sg/archivesonline/speeches/record-details/740bf986-115d-11e3-83d5-0050568939ad),” speech, Kallang Park, 19 September 1965, transcript. (From National Archives of Singapore document no. lky19670511)&nbsp;
 
 [^3]: “Singapore’s Big Egg Crisis,” _Straits Times_, 21 March 1965, 11; “270,000 Eggs for HK,” _Straits Times_, 27 March 1965, 20. (From NewspaperSG)&nbsp;
 
