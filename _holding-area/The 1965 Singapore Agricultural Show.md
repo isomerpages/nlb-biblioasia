@@ -37,6 +37,10 @@ Ho Seng Choon, an egg farmer who became one of the organisers of the agricultura
 
 The 1965 egg glut led to the formation of a 20-man action committee comprising personnel from the PPD and two farmer organisations – the Singapore Stockfeed Manufacturers’ Association (饲料商公会) and the Singapore Livestock Farmers’ Association (禽畜业协会).[^5] These two associations would work closely with the PPD to organise the campaign later in the year.
 
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_stockfeed.png" style="width: 80%;">
+
+<div style="background-color: white;">Visitors at the booth of the Stockfeed Manufacturers’ Association and the Livestock Farmers’ Association, 1965. These two associations worked with the Primary Production Department to organise the agricultural show. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000820 - 0093).</i></div>
+
 Although the egg glut crisis eventually improved, the organisers still went ahead with the plan to organise a campaign and Ho began to devise new ways to promote local agriculture. “\[The egg crisis\] had stabilised, but we couldn’t stop there, we needed to find new ways to go further, to showcase the development of farming in Singapore,” he said (“这个问题稳定下来，稳定下来我们不能够停在那边，我们要想办法推动，表现我们新加坡的农业发展”).[^6]
 
 This led to the idea of a large-scale agricultural show mooted by Ho and another farmer, Ng Hung Theng. The duo said in jest that each of them would require $50,000, a sum Cheng was in fact open to providing. He even offered to deploy the full PPD team of 21 personnel to help when Ho claimed that an event of such a scale would be impossible to manage alone. It was thus only with the support of the PPD that the agricultural show managed to reach the impressive scale it did, costing almost $100,000 in the end, the precise amount promised by Cheng to the two farmers.[^7]
