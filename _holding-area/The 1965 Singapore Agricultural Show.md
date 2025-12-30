@@ -63,6 +63,10 @@ Since the creation of the PPD in 1959, the department had been working closely w
 
 To commemorate the occasion, the organising committee produced a special publication for the show titled《新嘉坡农业展览会特刊》(Special Issue of the Singapore Agricultural Exhibition), which included messages from members of the organising committee, articles on recent innovations in farming, and advertisements by local feed companies, trading companies and international pharmaceutical companies.[^17]
 
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_book.png" style="width: 70%;">
+
+<div style="background-color: white;">A special publication produced by the organising committee of the 1965 agricultural show. It included messages from members of the organising committee and articles on recent innovations in farming. <i>Image reproduced from Xin jia po nongye zhan lan hui tekan 新嘉坡农业展览会特刊 \[Special Publication of the Singapore Agricultural Show\] (Singapore: Primary Production Department, 1965). (From National Library Online).</i></div>
+
 #### **Cultivating Ties**
 
 In addition to showcasing Singapore’s farming sector, the agricultural show also had another dimension: it was an effort to placate the rural population who had become unhappy following the government’s resettlement of farmers and squatters in rural areas. The resettlement had begun in 1955 to make space for the development of Queenstown public housing estate, Singapore’s first satellite town. These efforts intensified from the early 1960s onwards, after Singapore was granted full internal self-governance, with the establishment of the Housing &amp; Development Board (HDB) in 1960.[^18]
