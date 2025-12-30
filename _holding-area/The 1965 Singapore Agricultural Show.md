@@ -13,7 +13,15 @@ By Caleb Leow
 
 For just over a week in 1965, the heart of Singapore was filled with the sounds of grunting, mooing, bleating, gobbling, clucking and quacking. This is because some 13 stalls – filled with pigs, cows, goats, turkeys, chickens and ducks – had been set up in Kallang Park (where the Singapore Sports Hub now sits) for the Singapore Agricultural Show. Hundreds of thousands of curious city-dwellers made their way to the public park from 18 to 26 September to take in the sights and admire the vegetables, flowers and fruits – all locally produced – on display.[^1]
 
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_entrance.png" style="width: 80%;">
+
+<div style="background-color: white;">Entrance to the agricultural show, 1965. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000820 - 0022).</i></div>
+
 In his speech at the opening of the event on 19 September, Prime Minister Lee Kuan Yew acknowledged that the idea of an agricultural show in Singapore had an air of improbability. “I would like to say that there is a little bit of the flair for greatness when we call this an agricultural show,” he said. Yet what the show had achieved was something to be proud of, he noted. “You know, for an island of 214 square miles at low tide, and at high tide perhaps, two square miles less, to talk of agriculture is to take a deep breath and spread one’s chest out, and I think that is what Singapore has been doing.”[^2] 
+
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_lky.png" style="width: 80%;">
+
+<div style="background-color: white;">Prime Minister Lee Kuan Yew (third from left) accompanied by Permanent Secretary for the Ministry of National Development Howe Yoon Chong (second from left) and officials at the opening of the agricultural show, 1965. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000819 - 0053).</i></div>
 
 The farm show shone a spotlight on Singapore’s rural sector, which had taken on newfound importance in the immediate wake of independence just a month prior. The show’s abundant display of livestock and fresh produce seemed to represent, at a vulnerable historical moment, a budding nation’s potential to survive and thrive. Although its timing was fortuitous, the event had been months in the making and had been set in motion by something far more quotidian than a desire to demonstrate strength. It all started because Singapore had too many eggs.
 
@@ -36,6 +44,10 @@ As the project grew in scope, it attracted the attention of the prime minister. 
 The highlight of the show was a display by 526 farmers over 13 stalls. There were six stalls for pigs, cattle and goats, three for poultry, ducks and eggs, while the remaining four displayed vegetables, flowers and fruits. These were not only exhibited for the public but were also part of a competition. The farmers who showcased the best “eggs, fowls, ducks, geese, pigs, goats, cattle, flowers, vegetables, fruits, singing birds and aquarium fish” stood to win a total of $20,000 in cash, as well as other prizes such as modern farming equipment, implements, animal feed, fertilisers, pesticides and veterinary drugs.[^9]
 
 The agricultural show was only one of the attractions of the event. Variety shows were staged at the far end of the park, near the seafront, while Chinese _wayang_ (operas) were performed on a smaller stage nearby. Other forms of entertainment included band performances, a mini zoo, an amusement park for children, a Chinese riddle competition and even a Chinese chess competition. Visitors also participated in a lucky dip. There were vegetables, fruits, eggs and poultry sold at lower prices, and hawker stalls and restaurants offering special dishes and delicacies.[^10]
+
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_riddle.png" style="width: 80%;">
+
+<div style="background-color: white;">Chinese riddle competition organised by Havelock Road Community Centre Riddle Club at the agricultural show, 1965. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000820 - 0010).</i></div>
 
 The agricultural show turned out to be a crowd pleaser. Over the course of nine days, it drew a total of some 300,000 visitors.[^11] In the _Sin Chew Jit Poh_ newspaper, a visitor by the name of Wu She wrote: “While exhibitions are a regular feature in Singapore, this agricultural show was in a whole different league” (“在星洲经常都有展览会的举行，但这个农展会是别开生面的了”).[^12] Another visitor, Jia Ling, described how different generations of visitors clustered around different activities: “Elderly folk were so engrossed in the Chinese operas that they forgot about the many other stalls they had yet to visit, youngsters were enraptured by the frenetic music, while kids snuck off to squat under the silver screen” (“老人家看 \[古装\] 大戏看得入神忘记了后头还有许多没看完的摊位；年轻人被疯狂的音乐迷住了；小孩子却溜到银幕下蹲了下去”).[^13]
 
