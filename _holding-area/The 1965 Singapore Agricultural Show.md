@@ -98,37 +98,37 @@ The reduced targets reflect both a recognition of the challenges facing the agri
 
 
 
-[^11]: “Rural People ‘Not Forgotten’: Ho.”
+[^11]: “[Rural People ‘Not Forgotten’: Ho](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650927-1.2.22).”
 
-[^12]: Wu She 吳舍, “Canguan nongye zhan lan hui” 参观农业展览会 \[Visit to the agricultural show\], 星洲日报 _Sin Chew Jit Poh_, 25 September 1965, 13. (From NewspaperSG)
+[^12]: Wu She 吳舍, “Canguan nongye zhan lan hui” [参观农业展览会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19650925-1.2.47.3.1) \[Visit to the agricultural show\], 星洲日报 _Sin Chew Jit Poh_, 25 September 1965, 13. (From NewspaperSG)
 
-[^13]: Jia Ling 嘉陵, “Nongye zhan lan hui suxie” 农业展览会速写 \[Sketch of the Agricultural Show\], 星洲日报 _Sin Chew Jit Poh_, 27 September 1965, 16. (From NewspaperSG)
+[^13]: Jia Ling 嘉陵, “Nongye zhan lan hui suxie” [农业展览会速写](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19650927-1.2.54.2) \[Sketch of the Agricultural Show\], 星洲日报 _Sin Chew Jit Poh_, 27 September 1965, 16. (From NewspaperSG)
 
-[^14]: “Mammoth Agriculture Exhibition at Kallang Park.”&nbsp;
+[^14]: “[Mammoth Agriculture Exhibition at Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650907-1.2.16).”&nbsp;
 
-[^15]: “Mammoth Agriculture Exhibition at Kallang Park.”&nbsp;
+[^15]: “[Mammoth Agriculture Exhibition at Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650907-1.2.16).”&nbsp;
 
-[^16]: “Never So Good Down on the Farm,” _Straits Times_, 3 June 1963, 5; “Big Farm Show Opens in Kallang Park.”&nbsp;
-
-
-[^17]: _Xin jia po nongye zhan lan hui tekan_ 新嘉坡农业展览会特刊 \[Special Issue of the Singapore Agricultural Show\] (Singapore: Primary Production Department, 1965). (From National Library Online)
-
-[^18]: Kwek Sian Choo, Jean Chia and Gregory Lee, eds., _Resettling Communities: Creating Space for Nation-Building_ (Singapore: Centre for Liveable Cities, 2019), 27, 116. (From National Library Singapore, call no. RSING 333.1095957 KWE)
-
-[^19]: Kwek, Chia and Lee, _Resettling Communities: Creating Space for Nation-Building_, 62.
-
-[^20]: Alan Choe Fook Cheong, oral history interview by Soh Eng Khim, 20 May 1997, transcript and MP3 audio, Reel/Disc 7 of 18, National Archives of Singapore (accession no. 001891), 9.&nbsp;
+[^16]: “[Never So Good Down on the Farm](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19630603-1.2.114),” _Straits Times_, 3 June 1963, 5; “[Big Farm Show Opens in Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650919-1.2.35.1).”&nbsp;
 
 
-[^21]: “Work to Start Now on $150M. Satellite Town,” _Straits Times_, 27 November 1964, 4. (From NewspaperSG)&nbsp;
+[^17]: _Xin jia po nongye zhan lan hui tekan_ [新嘉坡农业展览会特刊](https://www.nlb.gov.sg/main/book-detail?cmsuuid=3cfdd8e9-c560-4088-8573-5efa810463e9) \[Special Issue of the Singapore Agricultural Show\] (Singapore: Primary Production Department, 1965). (From National Library Online)
 
-[^22]: “Rural People ‘Not Forgotten’: Ho.” &nbsp;
+[^18]: Kwek Sian Choo, Jean Chia and Gregory Lee, eds., [_Resettling Communities: Creating Space for Nation-Building_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203992881) (Singapore: Centre for Liveable Cities, 2019), 27, 116. (From National Library Singapore, call no. RSING 333.1095957 KWE)
 
-[^23]: “Minister: We Can Forge Ahead to a Better Life for All,” _Straits Times_, 19 September 1965, 10. (From NewspaperSG) &nbsp;
+[^19]: Kwek, Chia and Lee, [_Resettling Communities: Creating Space for Nation-Building_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203992881), 62.
 
-[^24]: “Big Farm Show Opens in Kallang Park”; “Singapore Farmers to Put on Two-Day Show,” _Straits Times_, 2 August 1966, 8. (From NewspaperSG)&nbsp;
+[^20]: Alan Choe Fook Cheong, oral history interview by Soh Eng Khim, 20 May 1997, [transcript](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/flipviewer/publish/5/53e51e73-115e-11e3-83d5-0050568939ad-OHC001891_007/web/html5/index.html) and MP3 audio, Reel/Disc 7 of 18, National Archives of Singapore ([accession no. 001891](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001891)), 9.&nbsp;
 
-[^25]: Choo Ruizhi, “Of Change &amp; Challenges: Reminders from Singapore’s Past Agricultural Transformations,” _Food for Thought_, 12 October 2022, https://www.sfa.gov.sg/food-for-thought/article/detail/of-change-challenges-reminders-from-singapore-s-past-agricultural-transformations.
+
+[^21]: “[Work to Start Now on $150M. Satellite Town](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641127-1.2.18),” _Straits Times_, 27 November 1964, 4. (From NewspaperSG)&nbsp;
+
+[^22]: “[Rural People ‘Not Forgotten’: Ho](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650927-1.2.22).” &nbsp;
+
+[^23]: “[Minister: We Can Forge Ahead to a Better Life for All](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650919-1.2.35.3),” _Straits Times_, 19 September 1965, 10. (From NewspaperSG) &nbsp;
+
+[^24]: “[Big Farm Show Opens in Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650919-1.2.35.1)”; “[Singapore Farmers to Put on Two-Day Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660802-1.2.75),” _Straits Times_, 2 August 1966, 8. (From NewspaperSG)&nbsp;
+
+[^25]: Choo Ruizhi, “Of Change &amp; Challenges: Reminders from Singapore’s Past Agricultural Transformations,” _Food for Thought_, 12 October 2022, [https://www.sfa.gov.sg/food-for-thought/article/detail/of-change-challenges-reminders-from-singapore-s-past-agricultural-transformations](https://www.sfa.gov.sg/food-for-thought/article/detail/of-change-challenges-reminders-from-singapore-s-past-agricultural-transformations).
 
 [^26]: Chang Ai-Lien, “Parliament: Big Push to Grow Singapore’s Food and Water Resources to Ensure Survival in the Face of Climate Change,” _Straits Times_, 7 March 2019, https://www.straitstimes.com/politics/parliament-food-and-water-challenges-from-climate-change-may-be-meat-and-drink-to-spore.
 
