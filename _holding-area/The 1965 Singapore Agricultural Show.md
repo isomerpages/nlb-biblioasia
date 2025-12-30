@@ -130,8 +130,8 @@ The reduced targets reflect both a recognition of the challenges facing the agri
 
 [^25]: Choo Ruizhi, “Of Change &amp; Challenges: Reminders from Singapore’s Past Agricultural Transformations,” _Food for Thought_, 12 October 2022, [https://www.sfa.gov.sg/food-for-thought/article/detail/of-change-challenges-reminders-from-singapore-s-past-agricultural-transformations](https://www.sfa.gov.sg/food-for-thought/article/detail/of-change-challenges-reminders-from-singapore-s-past-agricultural-transformations).
 
-[^26]: Chang Ai-Lien, “Parliament: Big Push to Grow Singapore’s Food and Water Resources to Ensure Survival in the Face of Climate Change,” _Straits Times_, 7 March 2019, https://www.straitstimes.com/politics/parliament-food-and-water-challenges-from-climate-change-may-be-meat-and-drink-to-spore.
+[^26]: Chang Ai-Lien, “Parliament: Big Push to Grow Singapore’s Food and Water Resources to Ensure Survival in the Face of Climate Change,” _Straits Times_, 7 March 2019, [https://www.straitstimes.com/politics/parliament-food-and-water-challenges-from-climate-change-may-be-meat-and-drink-to-spore](https://www.straitstimes.com/politics/parliament-food-and-water-challenges-from-climate-change-may-be-meat-and-drink-to-spore).
 
-[^27]: Shabana Begum, “Singapore Drops ‘30 by 30’ Farming Goal, Sets Revised Targets for Fibre and Protein by 2035,” _Straits Times_, 4 November 2025, https://www.straitstimes.com/singapore/environment/singapores-30-by-30-farming-goal-pushed-back-to-2035-with-revised-targets-for-fibre-and-protein.
+[^27]: Shabana Begum, “Singapore Drops ‘30 by 30’ Farming Goal, Sets Revised Targets for Fibre and Protein by 2035,” _Straits Times_, 4 November 2025, [https://www.straitstimes.com/singapore/environment/singapores-30-by-30-farming-goal-pushed-back-to-2035-with-revised-targets-for-fibre-and-protein](https://www.straitstimes.com/singapore/environment/singapores-30-by-30-farming-goal-pushed-back-to-2035-with-revised-targets-for-fibre-and-protein).
 
 [^28]: Begum, “Singapore Drops ‘30 by 30’ Farming Goal, Sets Revised Targets for Fibre and Protein by 2035.”
