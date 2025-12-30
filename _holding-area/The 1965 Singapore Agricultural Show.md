@@ -37,7 +37,7 @@ Ho Seng Choon, an egg farmer who became one of the organisers of the agricultura
 
 The 1965 egg glut led to the formation of a 20-man action committee comprising personnel from the PPD and two farmer organisations – the Singapore Stockfeed Manufacturers’ Association (饲料商公会) and the Singapore Livestock Farmers’ Association (禽畜业协会).[^5] These two associations would work closely with the PPD to organise the campaign later in the year.
 
-<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_stockfeed.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_stock.png" style="width: 80%;">
 
 <div style="background-color: white;">Visitors at the booth of the Stockfeed Manufacturers’ Association and the Livestock Farmers’ Association, 1965. These two associations worked with the Primary Production Department to organise the agricultural show. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000820 - 0093).</i></div>
 
@@ -80,7 +80,7 @@ Since the creation of the PPD in 1959, the department had been working closely w
 
 To commemorate the occasion, the organising committee produced a special publication for the show titled《新嘉坡农业展览会特刊》(Special Issue of the Singapore Agricultural Exhibition), which included messages from members of the organising committee, articles on recent innovations in farming, and advertisements by local feed companies, trading companies and international pharmaceutical companies.[^17]
 
-<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_book.png" style="width: 70%;">
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_book.png" style="width: 60%;">
 
 <div style="background-color: white;">A special publication produced by the organising committee of the 1965 agricultural show. It included messages from members of the organising committee and articles on recent innovations in farming. <i>Image reproduced from Xin jia po nongye zhan lan hui tekan 新嘉坡农业展览会特刊 \[Special Publication of the Singapore Agricultural Show\] (Singapore: Primary Production Department, 1965). (From National Library Online).</i></div>
 
