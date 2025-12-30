@@ -43,7 +43,7 @@ Since the creation of the PPD in 1959, the department had been working closely w
 
 To commemorate the occasion, the organising committee produced a special publication for the show titled《新嘉坡农业展览会特刊》(Special Issue of the Singapore Agricultural Exhibition), which included messages from members of the organising committee, articles on recent innovations in farming, and advertisements by local feed companies, trading companies and international pharmaceutical companies.17  
 
-Cultivating Ties
+#### **Cultivating Ties**
 
 In addition to showcasing Singapore’s farming sector, the agricultural show also had another dimension: it was an effort to placate the rural population who had become unhappy following the government’s resettlement of farmers and squatters in rural areas. The resettlement had begun in 1955 to make space for the development of Queenstown public housing estate, Singapore’s first satellite town. These efforts intensified from the early 1960s onwards, after Singapore was granted full internal self-governance, with the establishment of the Housing & Development Board (HDB) in 1960.18  
 
@@ -55,7 +55,7 @@ In a speech delivered at a prize-giving ceremony on 27 September 1965 for the wi
 
  In a message published by the _Straits Times_ on 19 September 1965, Minister for Law and National Development E.W. Barker also praised the show’s success which, in his words, served as an “eloquent refutation of the lies that have been spread by pro-Communist agitators who have been trying to deceive the rural residents into believing that they are being ill-treated by the Singapore government”. The agricultural show highlighted the achievements and success brought about by the hard work of both the farming population and the government, he said. Efforts by the government included the “provision of extension services, assistance and advice, with a view to increasing the productivity of our farming community, bringing down the cost of production and generally improving the standard of living of the rural residents”.23 
 
-A Fleeting Bloom
+#### **A Fleeting Bloom**
 
 The success of the show led Ho to say that “exhibitions of this nature should be held periodically”. However, newspaper records seem to indicate that this was the last show of its kind to be organised. A two-day agricultural show was held in Choa Chu Kang in August 1966, but it was on a much smaller scale and did not receive the same kind of national attention as the 1965 show.24  
 
