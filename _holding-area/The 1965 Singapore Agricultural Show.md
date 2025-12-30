@@ -25,7 +25,7 @@ In his speech at the opening of the event on 19 September, Prime Minister Lee Ku
 
 The farm show shone a spotlight on Singapore’s rural sector, which had taken on newfound importance in the immediate wake of independence just a month prior. The show’s abundant display of livestock and fresh produce seemed to represent, at a vulnerable historical moment, a budding nation’s potential to survive and thrive. Although its timing was fortuitous, the event had been months in the making and had been set in motion by something far more quotidian than a desire to demonstrate strength. It all started because Singapore had too many eggs.
 
-<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_turkey.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_turkey2.png" style="width: 80%;">
 
 <div style="background-color: white;">Turkeys on display at the agricultural show, 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980000759 - 0080).</i></div>
 
