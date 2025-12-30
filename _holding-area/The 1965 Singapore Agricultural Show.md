@@ -51,6 +51,15 @@ As the project grew in scope, it attracted the attention of the prime minister. 
 
 The highlight of the show was a display by 526 farmers over 13 stalls. There were six stalls for pigs, cattle and goats, three for poultry, ducks and eggs, while the remaining four displayed vegetables, flowers and fruits. These were not only exhibited for the public but were also part of a competition. The farmers who showcased the best “eggs, fowls, ducks, geese, pigs, goats, cattle, flowers, vegetables, fruits, singing birds and aquarium fish” stood to win a total of $20,000 in cash, as well as other prizes such as modern farming equipment, implements, animal feed, fertilisers, pesticides and veterinary drugs.[^9]
 
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_judges.png" style="width: 80%;">
+
+<div style="background-color: white;">Judges examining a display of eggs for the best farm produce competition, 1965. The promotion of eggs had been the show’s initial focus. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000819 - 0036).</i></div>
+
+
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_display.png" style="width: 80%;">
+
+<div style="background-color: white;">The display of aquarium fish for a competition, 1965. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000819 - 0032).</i></div>
+
 The agricultural show was only one of the attractions of the event. Variety shows were staged at the far end of the park, near the seafront, while Chinese _wayang_ (operas) were performed on a smaller stage nearby. Other forms of entertainment included band performances, a mini zoo, an amusement park for children, a Chinese riddle competition and even a Chinese chess competition. Visitors also participated in a lucky dip. There were vegetables, fruits, eggs and poultry sold at lower prices, and hawker stalls and restaurants offering special dishes and delicacies.[^10]
 
 <img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_riddle.png" style="width: 80%;">
@@ -84,6 +93,10 @@ Just a year later, clearance and resettlement began for the development of Singa
 Such rural unrest was alluded to by Minister for National Development Lim Kim San during his speech at a news conference in November 1964 announcing the commencement of work for the Toa Payoh satellite town. Lim blamed the postponement of the project on “the organised resistance mounted by the anti-nationalist pro-Communist group, who instigated the peaceful squatters in Toa Payoh to resist clearance work in this area for almost two years”.[^21]
 
 In a speech delivered at a prize-giving ceremony on 27 September 1965 for the winners of the show’s competitions, the Parliamentary Secretary for the Ministry of National Development, Ho Cheng Choon, took the opportunity to highlight how the success of the show “demonstrated that the farmers and rural people were not forgotten by the Government”. He added that it would “remove the grounds on which the pro-Communist anti-national elements have been accusing the Government of neglecting the rural people and the farmers.” He also pointed out that if the government had not worked together with the rural population, there would not be so many exhibits on display at the show, and that surplus poultry, pigs and eggs would not be exported to Malaysia and neighbouring countries.[^22]
+
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_prize.png" style="width: 80%;">
+
+<div style="background-color: white;">Prize-giving ceremony for winners of the various competitions held during the agricultural show, 1965. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000820 - 0091).</i></div>
 
 In a message published by the _Straits Times_ on 19 September 1965, Minister for Law and National Development E.W. Barker also praised the show’s success which, in his words, served as an “eloquent refutation of the lies that have been spread by pro-Communist agitators who have been trying to deceive the rural residents into believing that they are being ill-treated by the Singapore government”. The agricultural show highlighted the achievements and success brought about by the hard work of both the farming population and the government, he said. Efforts by the government included the “provision of extension services, assistance and advice, with a view to increasing the productivity of our farming community, bringing down the cost of production and generally improving the standard of living of the rural residents”.[^23]
 
