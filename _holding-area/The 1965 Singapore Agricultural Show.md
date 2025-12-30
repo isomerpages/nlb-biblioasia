@@ -53,7 +53,7 @@ Such rural unrest was alluded to by Minister for National Development Lim Kim Sa
 
 In a speech delivered at a prize-giving ceremony on 27 September 1965 for the winners of the show’s competitions, the Parliamentary Secretary for the Ministry of National Development, Ho Cheng Choon, took the opportunity to highlight how the success of the show “demonstrated that the farmers and rural people were not forgotten by the Government”. He added that it would “remove the grounds on which the pro-Communist anti-national elements have been accusing the Government of neglecting the rural people and the farmers.” He also pointed out that if the government had not worked together with the rural population, there would not be so many exhibits on display at the show, and that surplus poultry, pigs and eggs would not be exported to Malaysia and neighbouring countries.[^22]
 
-&nbsp;In a message published by the _Straits Times_ on 19 September 1965, Minister for Law and National Development E.W. Barker also praised the show’s success which, in his words, served as an “eloquent refutation of the lies that have been spread by pro-Communist agitators who have been trying to deceive the rural residents into believing that they are being ill-treated by the Singapore government”. The agricultural show highlighted the achievements and success brought about by the hard work of both the farming population and the government, he said. Efforts by the government included the “provision of extension services, assistance and advice, with a view to increasing the productivity of our farming community, bringing down the cost of production and generally improving the standard of living of the rural residents”.[^23]
+In a message published by the _Straits Times_ on 19 September 1965, Minister for Law and National Development E.W. Barker also praised the show’s success which, in his words, served as an “eloquent refutation of the lies that have been spread by pro-Communist agitators who have been trying to deceive the rural residents into believing that they are being ill-treated by the Singapore government”. The agricultural show highlighted the achievements and success brought about by the hard work of both the farming population and the government, he said. Efforts by the government included the “provision of extension services, assistance and advice, with a view to increasing the productivity of our farming community, bringing down the cost of production and generally improving the standard of living of the rural residents”.[^23]
 
 #### **A Fleeting Bloom**
 
@@ -71,7 +71,7 @@ The reduced targets reflect both a recognition of the challenges facing the agri
 
 
 <div style="background-color: white;">
-<b>Alvin Tan</b>&nbsp;is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> (Talisman Publishing, 2nd edition, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
+<b>Caleb Leow</b> is an Associate Librarian with the National Library Singapore, who works with the Singapore and Southeast Asia collections. His responsibilities include collection management, content development as well as providing reference and research services.</div>
 
 #### **Notes**
 
