@@ -326,7 +326,7 @@ December 2016) followed by the Central Public Library (30 December 2016–28
 February 2017).</p>
 <br>
 
-<p>(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="https://ref@nlb.gov.sg">ref@nlb.gov.sg</a>.)
+<p>(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="https://reference.nlb.gov.sg/">ref@nlb.gov.sg</a>.)
 
 </p><div class="isomer-image-wrapper">
 <img style="width: 100px; height: 100px;" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/chung_sang_hong.png">
