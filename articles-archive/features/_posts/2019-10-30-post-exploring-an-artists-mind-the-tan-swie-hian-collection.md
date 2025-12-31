@@ -65,7 +65,7 @@ Tan’s affinity with the library, however, goes back much further. As a student
 
 As his personal collection comprises mainly books and publications, the decision to donate these items to the National Library made perfect sense.[^11] It was also Tan’s way of giving back to society, to provide a platform where he can share his knowledge and experience with young Singaporeans and help nurture a new generation of homegrown talent.[^12]
 
-(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="ref@nlb.gov.sg">ref@nlb.gov.sg</a>.)
+(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="https://reference.nlb.gov.sg/">ref@nlb.gov.sg</a>.)
 
 <img style="width: 250px; height: 320px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore7.JPG">
 <div style="background-color: white;">The Tan Swie Hian Collection includes autographed books that Tan received as gifts, one of which is <i>Let’s Talk about the Weather… and Other Poems</i> by the Romanian poet, playwright and novelist Marin Sorescu. <i>Image reproduced from Sorescu, M. (1985). Let’s Talk about the Weather… and other Poems. London; Boston: Forest Books. (Call no.: RDTSH 859.134 SOR). Tan Swie Hian Collection, National Library, Singapore.</i></div>
