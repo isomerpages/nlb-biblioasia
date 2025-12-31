@@ -324,9 +324,8 @@ artist himself.
 works that will take place at the Jurong Regional Library (1 November–29
 December 2016) followed by the Central Public Library (30 December 2016–28
 February 2017).</p>
-<p>
 <br>
-</p>
+
 <p>(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="ref@nlb.gov.sg">ref@nlb.gov.sg</a>.)
 
 </p><div class="isomer-image-wrapper">
