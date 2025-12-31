@@ -6,146 +6,101 @@ description: ""
 third_nav_title: Clean and Green Champion
 ---
 <p><strong>Samantha Boh</strong>
-</p>
-<p>So, you can imagine the street hawkers slaughtering chickens, and the
+<br>So, you can imagine the street hawkers slaughtering chickens, and the
 feathers and the blood just flowing into [the Singapore River]. We didn't
 have proper sanitation back then. No flushing toilets near the Singapore
 River. So, very convenient if you needed to do your business, you just
 did it in the Singapore River. And of course, the oil from the boats and
-all that. So, there was just a lot going on, and it was extremely dirty.</p>
-<p>&nbsp;</p>
+all that. So, there was just a lot going on, and it was extremely dirty.&nbsp;</p>
 <p>Early on, Lee Ek Tieng and his team realised that, okay, you need to do
 it systematically, right? Being the engineer that he is. So, the first
 thing they did was to figure out, okay, who are these people using the
 Singapore River? And of course, they came up with a huge list. I think
 there were altogether, there were definitely, you know, tens of thousands
-of individuals using it.</p>
-<p>&nbsp;</p>
+of individuals using it.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Tens of thousands.</p>
-<p>&nbsp;</p>
+<br>Tens of thousands.&nbsp;</p>
 <p><strong>Samantha Boh</strong>
-</p>
-<p>Yeah.</p>
-<p><strong>&nbsp;</strong>
+<br>Yeah.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s a big number.</p>
-<p><strong>&nbsp;</strong>
+<br>That’s a big number.<strong>&nbsp;</strong>
 </p>
 <p><strong>Samantha Boh</strong>
-</p>
-<p>Yes. So, after they figured out, okay, you know, there are all these people,
+<br>Yes. So, after they figured out, okay, you know, there are all these people,
 there are also the pig farmers. Because the thing is, it’s not just at
 the Singapore River, right, because the waterways flow there. So even upstream,
-there were people using it.</p>
-<p>&nbsp;</p>
-<p>[Music playing]</p>
-<p>&nbsp;</p>
+there were people using it.&nbsp;</p>
+<p>[Music playing]&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You’re listening to <em>BiblioAsia</em>+, a podcast produced by the National
+<br>You’re listening to <em>BiblioAsia</em>+, a podcast produced by the National
 Library of Singapore. At <em>BiblioAsia</em>, we tell stories about Singapore’s
-past. Some familiar, others forgotten, all fascinating.</p>
-<p>&nbsp;</p>
+past. Some familiar, others forgotten, all fascinating.&nbsp;</p>
 <p>The Singapore River is now a place where fish thrive, where otters frolic,
 and where people actually swim in as part of a triathlon leg. For those
 of us of a certain age, though, this is a miracle. We remember a time when
 the Singapore River was much more closely associated with dead things floating
-in it, rather than live things swimming in it.</p>
-<p>&nbsp;</p>
+in it, rather than live things swimming in it.&nbsp;</p>
 <p>When the stench from the river was its most prominent feature, the Singapore
 River cleanup was mooted by founding Prime Minister Lee Kuan Yew, but making
 it happen fell on the shoulders of a group of civil servants led by the
 young, then Permanent Secretary of the Ministry of the Environment from
 1972 to 1986. The Singapore River clean up was not his only achievement
 during his long service to the nation, which reached its pinnacle when
-he became the head of the civil service.</p>
-<p>&nbsp;</p>
+he became the head of the civil service.&nbsp;</p>
 <p>Among other things, he was also instrumental in overhauling our sewage
 system and our method of dealing with the trash that is collected daily.
 The life of this remarkable man is captured in a book entitled <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300099607" rel="noopener noreferrer nofollow" target="_blank">Lee Ek Tieng: The Green General of Lee Kuan Yew</a></em>.
-It was written by Samantha Boh, Pearl Lee and Matthew Gan.</p>
-<p>&nbsp;</p>
+It was written by Samantha Boh, Pearl Lee and Matthew Gan.&nbsp;</p>
 <p>Today we have Samantha in the studio with us to talk about the life of
 this pioneering civil servant. Morning, Samantha. Welcome to the <em>BiblioAsia</em>+
-podcast. Thanks for coming on the show. How are you?</p>
-<p>&nbsp;</p>
+podcast. Thanks for coming on the show. How are you?&nbsp;</p>
 <p><strong>Samantha Boh</strong>
-</p>
-<p>I’m good. Good morning.</p>
-<p>&nbsp;</p>
+<br>I’m good. Good morning.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Do we call you Samantha or Sam, or what would you prefer?</p>
-<p>&nbsp;</p>
+<br>Do we call you Samantha or Sam, or what would you prefer?&nbsp;</p>
 <p><strong>Samantha Boh</strong>
-</p>
-<p>Sam? Sam. Samantha is just a bit long.</p>
-<p>&nbsp;</p>
+<br>Sam? Sam. Samantha is just a bit long.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>People with three syllables in their name tend to contract it. So, Sam
+<br>People with three syllables in their name tend to contract it. So, Sam
 is good. You and two other people, your colleagues, have written a book
 about Lee Ek Tieng, but maybe for the people who don't know, give us a
 little bit more about Lee Ek Tieng. Who is he? And why should we care about
-him?</p>
-<p>&nbsp;</p>
+him?&nbsp;</p>
 <p><strong>Samantha Boh</strong>
-</p>
-<p>So, everyone knows Lee Kuan Yew? Our founding father. Singapore wouldn’t
-be what it is today without him.</p>
-<p>&nbsp;</p>
+<br>So, everyone knows Lee Kuan Yew? Our founding father. Singapore wouldn’t
+be what it is today without him.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And the other guys as well, right?</p>
-<p>&nbsp;</p>
+<br>And the other guys as well, right?&nbsp;</p>
 <p><strong>Samantha Boh</strong>
-</p>
-<p>Exactly. So, he was supported by his cabinet ministers, and those men
+<br>Exactly. So, he was supported by his cabinet ministers, and those men
 are well known. We know their names. But of course, he was also supported
 by the civil service. And I guess you could say that the civil service
 was sort of the engine that drove the efforts that allowed him to bring
-his vision into reality.</p>
-<p>&nbsp;</p>
+his vision into reality.&nbsp;</p>
 <p>And in the 1970s and 80s, there were these eight men who seemed to be
 very powerful, because they sort of together controlled the entire civil
 service and they were given the nickname The Immortals. And one of the
 men was Lee Ek Tieng. He spent, I guess, about 50 years in the civil service,
 and much of it was actually in the Environment. He started as an engineer
-in the Sewerage Department.</p>
-<p>&nbsp;</p>
+in the Sewerage Department.&nbsp;</p>
 <p>But when it came to leadership roles, the first was, head of the anti-pollution
 unit. Then after that, he was permanent secretary of the Ministry of Environment,
 chairman of PPB. In his later years, he went to finance, where he was Managing
-Director of GIC and MAS.</p>
-<p>&nbsp;</p>
+Director of GIC and MAS.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.</p>
 <p><strong>Samantha Boh</strong>
-</p>
-<p>And, I guess most people do not know who he is because a lot of his work
-was behind the scenes.</p>
-<p>&nbsp;</p>
+<br>And, I guess most people do not know who he is because a lot of his work
+was behind the scenes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Tell us a bit about his background. You mentioned he was an engineer.</p>
-<p>&nbsp;</p>
+<br>Tell us a bit about his background. You mentioned he was an engineer.&nbsp;</p>
 <p><strong>Samantha Boh</strong>
-</p>
-<p>Yes. If you go way back, I can tell you more about his earlier years.</p>
-<p>&nbsp;</p>
+<br>Yes. If you go way back, I can tell you more about his earlier years.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Yeah. Why not?</p>
-<p>&nbsp;</p>
+<br>Okay. Yeah. Why not?&nbsp;</p>
 <p><strong>Samantha Boh</strong>
-</p>
-<p>Yeah. He was born in Malaya, I think, as with many of our founding fathers.</p>
+<br>Yeah. He was born in Malaya, I think, as with many of our founding fathers.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
