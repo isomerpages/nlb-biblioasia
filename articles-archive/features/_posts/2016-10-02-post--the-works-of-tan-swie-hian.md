@@ -81,7 +81,7 @@ variant: markdown
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">《解析自由心：陈瑞献稿本与创作》特展将于2016年11月22日在国家图书馆大厦10楼展厅拉开序幕。展览将呈现100多件陈瑞献的艺术创作如绘画，雕塑，书法，篆刻，摄影，版画，多媒体表演艺术及写作，展品包括从未公开的稿本及相关文物。一部与展览同名的图录，也将同时出版发行。届时为配合展览，国家图书馆也将推出一系列活动，例如陈瑞献的特别导览和公开座谈会、每月一次的策展人导览等，欢迎公众踊跃参加。</div>
 
-(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="https://reference.nlb.gov.sg/">ref@nlb.gov.sg</a>.)
+(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a>.)
 
 <div style="background-color: white;">
 <br>
