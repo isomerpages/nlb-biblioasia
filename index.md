@@ -18,16 +18,6 @@ sections:
       background: /images/Vol 21 Issue 3/Daylight Robbery/HeroImage_DaylightRobbery_3.jpg
       variant: center
   - infopic:
-      title: New Books on Singapore History (Oct 2024)
-      subtitle: Literature
-      id: infopic
-      description: A quick look at eight new books available in the National Library’s
-        collection.
-      button: New Reads
-      url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
-      image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
-      alt: Image alt text
-  - infopic:
       title: What You Didn’t Know About the Straits Times
       subtitle: Print
       id: infopic
@@ -1069,6 +1059,16 @@ sections:
       image: /images/Vol 20 Issue 3/Laws/Laws_topics.jpg
       alt: Image alt text
   - infopic:
+      title: New Books on Singapore History (Oct 2024)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at eight new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
+      image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
+      alt: Image alt text
+  - infopic:
       title: Rediscovering Singapore Before 1800
       subtitle: History
       id: infopic
@@ -1087,5 +1087,12 @@ sections:
       button: Watch The Video
       url: https://youtu.be/ey_geDt46j8?si=4qwhD2BmMOOFRRCU
       image: "/images/Videos: BiblioAsia Reels/Sembawang_in_Maps2.jpg"
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
