@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 3/Daylight Robbery/HeroImage_DaylightRobbery_3.jpg
       variant: center
   - infopic:
+      title: New Books on Singapore History (Jan 2026)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at seven new books available in the National Library’s
+        collection.
+      button: New Reads
+      alt: Image alt text
+      url: /vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/
+      image: /images/Vol 21 Issue 4/New Books/New_Books_Jan_26.png
+  - infopic:
       title: What You Didn’t Know About the Straits Times
       subtitle: Print
       id: infopic
@@ -1088,14 +1098,4 @@ sections:
       url: https://youtu.be/ey_geDt46j8?si=4qwhD2BmMOOFRRCU
       image: "/images/Videos: BiblioAsia Reels/Sembawang_in_Maps2.jpg"
       alt: Image alt text
-  - infopic:
-      title: New Books on Singapore History (Jan 2026)
-      subtitle: Literature
-      id: infopic
-      description: A quick look at seven new books available in the National Library’s
-        collection.
-      button: New Reads
-      alt: Image alt text
-      url: /vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/
-      image: /images/Vol 21 Issue 4/New Books/New_Books_Jan_26.png
 ---
