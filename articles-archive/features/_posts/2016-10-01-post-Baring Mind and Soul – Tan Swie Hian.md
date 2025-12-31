@@ -324,10 +324,11 @@ artist himself.
 works that will take place at the Jurong Regional Library (1 November–29
 December 2016) followed by the Central Public Library (30 December 2016–28
 February 2017).</p>
-<p>
 <br>
-</p>
-<div class="isomer-image-wrapper">
+
+<p>(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a>.)
+
+</p><div class="isomer-image-wrapper">
 <img style="width: 100px; height: 100px;" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/chung_sang_hong.png">
 </div>
 <p><strong>Chung Sang Hong</strong> is Assistant Director (Exhibitions &amp;
