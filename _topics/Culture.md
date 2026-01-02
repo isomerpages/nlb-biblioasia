@@ -4,6 +4,13 @@ permalink: /topics/culture/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/">**The 1965 Singapore Agricultural Show**</a>
+
+Initially planned to encourage people to eat more eggs, the agricultural show eventually morphed into a mega event showcasing the achievements of farmers in Singapore.
+
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_entrance.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/">“We Do”: Mass Weddings in Singapore</a>
 
 Initially inspired by the “New Life Movement” in China, couples in Singapore would opt for mass weddings to save money.

@@ -1,21 +1,17 @@
 ---
 title: The 1965 Singapore Agricultural Show
-permalink: /holding-area/vol-22/issue-1/apr-jun-2026/the-1965-singapore-agricultural-show/
+permalink: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
 variant: markdown
 description: ""
 ---
 #### Initially planned to encourage people to eat more eggs, the agricultural show eventually morphed into a mega event showcasing the achievements of farmers in Singapore. &nbsp;
 By Caleb Leow
 
-<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_main.png" style="width: 80%;">
-
-<div style="background-color: white;">Goats on display at the agricultural show, 1965. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000819 - 0069).</i></div>
-
-For just over a week in 1965, the heart of Singapore was filled with the sounds of grunting, mooing, bleating, gobbling, clucking and quacking. This is because some 13 stalls – filled with pigs, cows, goats, turkeys, chickens and ducks – had been set up in Kallang Park (where the Singapore Sports Hub now sits) for the Singapore Agricultural Show. Hundreds of thousands of curious city-dwellers made their way to the public park from 18 to 26 September to take in the sights and admire the vegetables, flowers and fruits – all locally produced – on display.[^1]
-
 <img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_entrance.png" style="width: 80%;">
 
 <div style="background-color: white;">Entrance to the agricultural show, 1965. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000820 - 0022).</i></div>
+
+For just over a week in 1965, the heart of Singapore was filled with the sounds of grunting, mooing, bleating, gobbling, clucking and quacking. This is because some 13 stalls – filled with pigs, cows, goats, turkeys, chickens and ducks – had been set up in Kallang Park (where the Singapore Sports Hub now sits) for the Singapore Agricultural Show. Hundreds of thousands of curious city-dwellers made their way to the public park from 18 to 26 September to take in the sights and admire the vegetables, flowers and fruits – all locally produced – on display.[^1]
 
 In his speech at the opening of the event on 19 September, Prime Minister Lee Kuan Yew acknowledged that the idea of an agricultural show in Singapore had an air of improbability. “I would like to say that there is a little bit of the flair for greatness when we call this an agricultural show,” he said. Yet what the show had achieved was something to be proud of, he noted. “You know, for an island of 214 square miles at low tide, and at high tide perhaps, two square miles less, to talk of agriculture is to take a deep breath and spread one’s chest out, and I think that is what Singapore has been doing.”[^2] 
 
@@ -26,8 +22,10 @@ In his speech at the opening of the event on 19 September, Prime Minister Lee Ku
 The farm show shone a spotlight on Singapore’s rural sector, which had taken on newfound importance in the immediate wake of independence just a month prior. The show’s abundant display of livestock and fresh produce seemed to represent, at a vulnerable historical moment, a budding nation’s potential to survive and thrive. Although its timing was fortuitous, the event had been months in the making and had been set in motion by something far more quotidian than a desire to demonstrate strength. It all started because Singapore had too many eggs.
 
 <img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_turkey2.png" style="width: 80%;">
+<br>
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_main.png" style="width: 80%;">
 
-<div style="background-color: white;">Turkeys on display at the agricultural show, 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980000759 - 0080).</i></div>
+<div style="background-color: white;">Goats and turkeys on display at the agricultural show, 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image nos. 20060000819 - 0069 and 19980000759 - 0080).</i></div>
 
 #### **Hatching a Plan**
 
@@ -82,7 +80,7 @@ To commemorate the occasion, the organising committee produced a special publica
 
 <img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_book.png" style="width: 60%;">
 
-<div style="background-color: white;">A special publication produced by the organising committee of the 1965 agricultural show. It included messages from members of the organising committee and articles on recent innovations in farming. <i>Image reproduced from Xin jia po nongye zhan lan hui tekan 新嘉坡农业展览会特刊 \[Special Publication of the Singapore Agricultural Show\] (Singapore: Primary Production Department, 1965). (From National Library Online).</i></div>
+<div style="background-color: white;">A special publication produced by the organising committee of the 1965 agricultural show. It included messages from members of the organising committee and articles on recent innovations in farming. <i>Image reproduced from Xin jia po nongye zhan lan hui tekan 新嘉坡农业展览会特刊 [Special Publication of the Singapore Agricultural Show] (Singapore: Primary Production Department, 1965). (From National Library Online).</i></div>
 
 #### **Cultivating Ties**
 
@@ -113,8 +111,7 @@ This goal has since been scaled down. In November 2025, a more modest target was
 These new targets were announced after a year-long review of the original “30 by 30” goal. “We acknowledged that this was a challenging aspiration given our small and under-developed agri-food sector, our limited land resources and high operating cost environment,” said Minister for Sustainability and the Environment Grace Fu at the opening of the Asia-Pacific Agri-Food Innovation Summit on 4 November 2025.[^28]
 
 The reduced targets reflect both a recognition of the challenges facing the agri-food sector as well as Singapore’s determination to work towards some measure of food self-sufficiency. As both the importance and difficulties of developing agriculture in Singapore are making the news again, it is perhaps high time to pay tribute to the contributions and achievements of Singapore’s early farmers.
-
-
+<br><br>
 <div style="background-color: white;">
 <b>Caleb Leow</b> is an Associate Librarian with the National Library Singapore, who works with the Singapore and Southeast Asia collections. His responsibilities include collection management, content development as well as providing reference and research services.</div>
 
@@ -147,7 +144,7 @@ The reduced targets reflect both a recognition of the challenges facing the agri
 
 [^12]: Wu She 吳舍, “Canguan nongye zhan lan hui” [参观农业展览会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19650925-1.2.47.3.1) \[Visit to the agricultural show\], 星洲日报 _Sin Chew Jit Poh_, 25 September 1965, 13. (From NewspaperSG)
 
-[^13]: Jia Ling 嘉陵, “Nongye zhan lan hui suxie” [农业展览会速写](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19650927-1.2.54.2) \[Sketch of the Agricultural Show\], 星洲日报 _Sin Chew Jit Poh_, 27 September 1965, 16. (From NewspaperSG)
+[^13]: Jia Ling 嘉陵, “Nongye zhan lan hui suxie” [农业展览会速写](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19650927-1.2.54.2) \[Sketch of the agricultural show\], 星洲日报 _Sin Chew Jit Poh_, 27 September 1965, 16. (From NewspaperSG)
 
 [^14]: “[Mammoth Agriculture Exhibition at Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650907-1.2.16).”&nbsp;
 
