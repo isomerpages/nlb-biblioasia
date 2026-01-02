@@ -1107,6 +1107,6 @@ sections:
         farmers in Singapore.
       button: TOO MANY EGGS?
       url: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
-      image: /images/Vol 22 Issue 1/Agricultural/Agricultural_entrance.png
+      image: /images/Vol 22 Issue 1/Agricultural/Topics_agricultural_show.jpg
       alt: Singapore Agricultural Show
 ---
