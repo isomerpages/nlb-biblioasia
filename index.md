@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 3/Daylight Robbery/HeroImage_DaylightRobbery_3.jpg
       variant: center
   - infopic:
+      title: Exploring Sembawang from Old Maps
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Find out how Sembawang, once home to pepper and gambier plantations
+        got its name, and its transformation into a naval base.
+      button: Watch The Video
+      url: https://youtu.be/ey_geDt46j8?si=4qwhD2BmMOOFRRCU
+      image: "/images/Videos: BiblioAsia Reels/Sembawang_in_Maps2.jpg"
+      alt: Image alt text
+  - infopic:
       title: New Books on Singapore History (Jan 2026)
       subtitle: Literature
       id: infopic
@@ -1088,14 +1098,4 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/
       image: /images/Vol 22 Issue 1/1800/1800_main2.png
       alt: Rediscovering Singapore
-  - infopic:
-      title: Exploring Sembawang from Old Maps
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: Find out how Sembawang, once home to pepper and gambier plantations
-        got its name, and its transformation into a naval base.
-      button: Watch The Video
-      url: https://youtu.be/ey_geDt46j8?si=4qwhD2BmMOOFRRCU
-      image: "/images/Videos: BiblioAsia Reels/Sembawang_in_Maps2.jpg"
-      alt: Image alt text
 ---
