@@ -2,6 +2,5 @@ collections:
   holding-area:
     output: true
     order:
-      - The 1965 Singapore Agricultural Show.md
       - Bringing Back the Hainan Lion.md
       - Sample article.md
