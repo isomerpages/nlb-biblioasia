@@ -1098,4 +1098,15 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/
       image: /images/Vol 22 Issue 1/1800/1800_main2.png
       alt: Rediscovering Singapore
+  - infopic:
+      title: The 1965 Singapore Agricultural Show
+      subtitle: Culture
+      id: infopic
+      description: Initially planned to encourage people to eat more eggs, the show
+        eventually morphed into a mega event showcasing the achievements of
+        farmers in Singapore.
+      button: TOO MANY EGGS?
+      url: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
+      image: /images/Vol 22 Issue 1/Agricultural/Agricultural_entrance.png
+      alt: Singapore Agricultural Show
 ---
