@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/singapore-time-zones/
-      button: "Daylight Robbery: Singapore’s Shifting Time Zones"
+      url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
+      button: Luís de Camões in Asia
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Daylight Robbery/HeroImage_DaylightRobbery_3.jpg
+      background: /images/Vol 21 Issue 3/Luis/HeroImage_luis2.jpg
       variant: center
   - infopic:
       title: Exploring Sembawang from Old Maps
