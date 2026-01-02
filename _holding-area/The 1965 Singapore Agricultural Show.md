@@ -80,7 +80,7 @@ To commemorate the occasion, the organising committee produced a special publica
 
 <img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_book.png" style="width: 60%;">
 
-<div style="background-color: white;">A special publication produced by the organising committee of the 1965 agricultural show. It included messages from members of the organising committee and articles on recent innovations in farming. <i>Image reproduced from Xin jia po nongye zhan lan hui tekan 新嘉坡农业展览会特刊 \[Special Publication of the Singapore Agricultural Show\] (Singapore: Primary Production Department, 1965). (From National Library Online).</i></div>
+<div style="background-color: white;">A special publication produced by the organising committee of the 1965 agricultural show. It included messages from members of the organising committee and articles on recent innovations in farming. <i>Image reproduced from Xin jia po nongye zhan lan hui tekan 新嘉坡农业展览会特刊 [Special Publication of the Singapore Agricultural Show] (Singapore: Primary Production Department, 1965). (From National Library Online).</i></div>
 
 #### **Cultivating Ties**
 
@@ -111,8 +111,7 @@ This goal has since been scaled down. In November 2025, a more modest target was
 These new targets were announced after a year-long review of the original “30 by 30” goal. “We acknowledged that this was a challenging aspiration given our small and under-developed agri-food sector, our limited land resources and high operating cost environment,” said Minister for Sustainability and the Environment Grace Fu at the opening of the Asia-Pacific Agri-Food Innovation Summit on 4 November 2025.[^28]
 
 The reduced targets reflect both a recognition of the challenges facing the agri-food sector as well as Singapore’s determination to work towards some measure of food self-sufficiency. As both the importance and difficulties of developing agriculture in Singapore are making the news again, it is perhaps high time to pay tribute to the contributions and achievements of Singapore’s early farmers.
-
-
+<br><br>
 <div style="background-color: white;">
 <b>Caleb Leow</b> is an Associate Librarian with the National Library Singapore, who works with the Singapore and Southeast Asia collections. His responsibilities include collection management, content development as well as providing reference and research services.</div>
 
@@ -145,7 +144,7 @@ The reduced targets reflect both a recognition of the challenges facing the agri
 
 [^12]: Wu She 吳舍, “Canguan nongye zhan lan hui” [参观农业展览会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19650925-1.2.47.3.1) \[Visit to the agricultural show\], 星洲日报 _Sin Chew Jit Poh_, 25 September 1965, 13. (From NewspaperSG)
 
-[^13]: Jia Ling 嘉陵, “Nongye zhan lan hui suxie” [农业展览会速写](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19650927-1.2.54.2) \[Sketch of the Agricultural Show\], 星洲日报 _Sin Chew Jit Poh_, 27 September 1965, 16. (From NewspaperSG)
+[^13]: Jia Ling 嘉陵, “Nongye zhan lan hui suxie” [农业展览会速写](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19650927-1.2.54.2) \[Sketch of the agricultural show\], 星洲日报 _Sin Chew Jit Poh_, 27 September 1965, 16. (From NewspaperSG)
 
 [^14]: “[Mammoth Agriculture Exhibition at Kallang Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650907-1.2.16).”&nbsp;
 
