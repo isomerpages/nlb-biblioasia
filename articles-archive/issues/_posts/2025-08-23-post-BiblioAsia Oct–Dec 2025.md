@@ -12,7 +12,7 @@ variant: markdown
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/director-s-note/">Director's Note</a><br>
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/zubir-said-majulah-singapura/">“Majulah Singapura” and Other Love Songs </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/majulah-singapura/">“Majulah Singapura” and Other Love Songs </a><br>
 National anthems often begin life as something else. Singapore’s
 “Majulah Singapura” is no different. *Bernard T.G. Tan* . [(PDF)](/files/pdf/Vol%2021/FA_Biblioasia_Oct_Dec_2025_Majulah_Singapura2.pdf)
 
