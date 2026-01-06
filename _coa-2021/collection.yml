@@ -1,4 +1,6 @@
 collections:
   coa-2021:
     output: true
-    order: []
+    order:
+      - The Circulation of Premodern Knowledge Of Singapore And Its Straits
+        Before 1819.md
