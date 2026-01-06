@@ -8,7 +8,7 @@ variant: markdown
 
 Initially planned to encourage people to eat more eggs, the agricultural show eventually morphed into a mega event showcasing the achievements of farmers in Singapore.
 
-<img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_entrance.png" style="width:80%;">
+<img src="/images/Vol%2022%20Issue%201/Agricultural/Topics_agricultural_show.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/">“We Do”: Mass Weddings in Singapore</a>

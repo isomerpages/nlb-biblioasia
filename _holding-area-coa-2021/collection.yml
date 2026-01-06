@@ -1,10 +1,4 @@
 collections:
   holding-area-coa-2021:
     output: true
-    order:
-      - The Circulation of Premodern Knowledge Of Singapore And Its Straits
-        Before 1819.md
-      - Representation of “Deviant” Behaviour in English and Chinese Language
-        Newspapers.md
-      - Chinese Newspaper Literary Supplements In Singapore's Postwar Literary
-        Scene.md
+    order: []
