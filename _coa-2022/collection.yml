@@ -1,4 +1,6 @@
 collections:
   coa-2022:
     output: true
-    order: []
+    order:
+      - Through Diasporic Eyes The Writings and Worlds of 19th Century Malay
+        Travellers.md
