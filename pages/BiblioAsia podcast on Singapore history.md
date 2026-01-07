@@ -6,11 +6,30 @@ image: /images/Podcast/podcast logo.jpg
 variant: tiptap
 ---
 <h4><strong>About</strong></h4>
-<p>BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others
-forgotten, all fascinating. Does Singapore have a stone age? What’s happened
-to the murals at the old Paya Lebar airport? Who was Singapore's first
-boxing superstar?</p>
-<p></p>
+<p>The&nbsp;BiblioAsia&nbsp;Podcast&nbsp;tells Singapore stories: some unfamiliar,
+others forgotten, all fascinating. Does Singapore have a stone age? What’s
+happened to the murals at the old Paya Lebar airport? Who was Singapore's
+first boxing superstar?</p>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/italian-merchant-lexicographer-who-once-owned-pulau-bukom/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Italian Merchant and Lexicographer Who Once Owned Pulau Bukom" src="/images/Podcast/Alex_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Italian Merchant and Lexicographer Who Once Owned Pulau Bukom</div><div class="isomer-card-description">Giovanni Gaggino came to Singapore around 1874 and lived here for more than 40 years. A successful merchant, he also wrote an Italian-Malay dictionary and once owned the Pulau Bukom. Writer Alex Foo tells us about the life of Gaggino and his legacy.</div><div class="isomer-card-link">Coming in April</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/changing-times-time-zone-changes-in-singapore-since-1905/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Changing Times: Time Zone Changes in Singapore since 1905" src="/images/Podcast/Kenneth_600_400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Changing Times: Time Zone Changes in Singapore since 1905</div>
+<div class="isomer-card-description">Singapore's time zone has been changed at least seven times since 1905,
+including during the Japanese Occupation when it was synchronised to Tokyo
+time. Arts librarian Kenneth Tay tells us more.</div>
+<div class="isomer-card-link">Coming in March</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-first-local-to-head-the-national-library-hedwig-anuar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The First Local to Head the National Library: Hedwig Anuar" src="/images/Podcast/Shirin_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The First Local to Head the National Library: Hedwig Anuar</div><div class="isomer-card-description">Hedwig Anuar was the first Malayan to head the National Library, a position she held for 23 years until 1988. Her daughter, Shirin Aroozoo, tells us how her convictions about books, children's education and women empowerment were shaped by her upbringing and life events.</div><div class="isomer-card-link">Coming in February</div></div></a>
+</div>
 <h4><strong>Season 3</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/civil-servant-in-charge-of-clean-and-green-singapore-lee-ek-tieng-samantha-boh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Civil Servant in Charge of Clean and Green Singapore, Lee Ek Tieng" src="/images/Podcast/Samantha_boh_600_by_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Civil Servant in Charge of Clean and Green Singapore, Lee Ek Tieng</div><div class="isomer-card-description">Lee Ek Tieng (1933–2025) was the civil servant who headed the clean-up of the Singapore River, had the foresight to modernise the sanitation system, and ensured water self-sufficiency for Singapore. Writer Samantha Boh tells us how he did it with his colleagues and earned their respect.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-days-before-air-conditioning-fiona-williamson/" class="isomer-card">
