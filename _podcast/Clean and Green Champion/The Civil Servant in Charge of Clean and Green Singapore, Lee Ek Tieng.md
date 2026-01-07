@@ -22,8 +22,16 @@ us how he did it with his colleagues and earned their respect.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Samantha Talked About</strong></h4>
-<p></p>
-<p></p>
+<p>02:59 – About Lee Ek Tieng
+<br>07:16 – Lee Ek Tieng’s key achievements
+<br>12:31 – His personality and leadership style
+<br>19:07 – Conflict with Economic Development Board during industrial pollution
+control and backing from Lee Kuan Yew
+<br>24:01 – Building water self‑sufficiency
+<br>29:20 – How NEWater got its name
+<br>31:16 – What colleagues said about him
+<br>35:31 – His hobbies and DIY spirit
+<br>38:03 – Books by Nutgraf</p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
