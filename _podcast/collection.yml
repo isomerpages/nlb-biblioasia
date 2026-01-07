@@ -2,6 +2,8 @@ collections:
   podcast:
     output: true
     order:
+      - "Time zone changes/Changing Times: Time Zone Changes in Singapore since
+        1905.md"
       - Time zone changes/.keep
       - Example Title2.md
       - Leading the National Library/.keep
