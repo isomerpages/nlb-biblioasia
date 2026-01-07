@@ -4,13 +4,15 @@ permalink: /example-title/
 variant: tiptap
 description: ""
 ---
-<p>Hedwig Anuar was the first Malayan to head the National Library, a position
-she held for 23 years until 1988. She was also involved in the setting
-up the Singapore Book Council, National Archives of Singapore and Association
-of Women for Action and Research. Her daughter, Shirin Aroozoo, tells us
-about Anuar as a mother and a person, and about how her convictions about
-books, children's education and women empowerment were shaped by her upbringing
-and life events.</p>
+<p><strong>Coming in March</strong>
+<br>
+<br>Singapore's time zone has been changed at least seven times since 1905,
+including during the Japanese Occupation when it was synchronised to Tokyo
+time. Arts librarian Kenneth Tay explains the historical context for the
+time zone changes, the origins of the Greenwich Mean Time (GMT) system,
+and ways to measure time, including a rare atomic clock in a local laboratory.
+<br>
+</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
@@ -20,24 +22,24 @@ and life events.</p>
 <p></p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
-<h4><strong>What Shirin Talked About</strong></h4>
+<h4><strong>What Kenneth Talked About</strong></h4>
 <p></p>
 <p></p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Shirin Aroozoo is the daughter of Hedwig Anuar, who was the director of
-the National Library from 1965 to 1988.</p>
+<p>Kenneth Tay is a librarian with the Arts and General Reference team at
+the National Library Singapore. He is interested in the histories of global
+systems such as the internet, logistics and time zones, and where Singapore
+figures in them.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Shirin Aroozoo, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/" rel="noopener noreferrer nofollow" target="_blank">My Mother, Hedwig Anuar</a>,” <em>BiblioAsia</em> 21,
-no. 2 (July–September 2025).</p>
-<p>Timothy Pwee, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/" rel="noopener noreferrer nofollow" target="_blank">Hedwig Anuar: First Lady of the National Library</a>,” <em>BiblioAsia</em> 21,
-no. 2 (July–September 2025).</p>
+<p>Kenneth Tay, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/singapore-time-zones/" rel="noopener noreferrer nofollow" target="_blank">Daylight Robbery: Singapore’s Shifting Time Zones</a>,” <em>BiblioAsia</em> 21,
+no.3 (October–December 2025).</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -46,7 +48,7 @@ no. 2 (July–September 2025).</p>
 <p>This episode of BiblioAsia Podcast was hosted by Jimmy Yap and produced
 by Soh Gek Han. Sound engineering was done by Nookcha Films. The background
 music "Di Tanjong Katong" was composed by Ahmad Patek and performed by
-Chords Haven. Special thanks to Shirin for coming on the show.</p>
+Chords Haven. Special thanks to Kenneth for coming on the show.</p>
 </div>
 </details>
 <details class="isomer-details">
