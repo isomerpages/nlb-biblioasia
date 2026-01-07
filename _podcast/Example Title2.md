@@ -34,7 +34,7 @@ Foo has written for the Metropolitan Museum of Art, Orientations and ArtsEquator
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Kenneth Tay, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/singapore-time-zones/" rel="noopener noreferrer nofollow" target="_blank">Daylight Robbery: Singapore’s Shifting Time Zones</a>,” <em>BiblioAsia</em> 21,
+<p>Alex Foo, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-3/oct-dec-2025/giovanni-gaggino-malay-italian-dictionary/" rel="noopener noreferrer nofollow" target="_blank">From Liguria to the Lion City: The Life and Times of Giovanni Gaggino</a>,” <em>BiblioAsia</em> 21,
 no.3 (October–December 2025).</p>
 </div>
 </details>
