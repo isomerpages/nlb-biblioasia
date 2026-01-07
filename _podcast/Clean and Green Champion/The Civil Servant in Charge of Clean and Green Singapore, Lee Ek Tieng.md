@@ -70,8 +70,7 @@ Haven. Special thanks to Samantha for coming on the show.</p>
 <details class="isomer-details">
 <summary>About the Podcast</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>BiblioAsia+ is a podcast about Singapore history by the National Library
-Singapore.</p>
+<p>The&nbsp;BiblioAsia&nbsp;Podcast&nbsp;by&nbsp;the&nbsp;National&nbsp;Library&nbsp;Singapore&nbsp;tells&nbsp;stories&nbsp;about&nbsp;Singapore&nbsp;history.</p>
 </div>
 </details>
 <p></p>
