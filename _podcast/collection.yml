@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Example Title.md
       - "Leading the National Library/The First Local to Head the National
         Library: Hedwig Anuar.md"
       - Leading the National Library/.keep
