@@ -6,10 +6,14 @@ description: ""
 image: /images/Podcast/Shirin_600_400.jpg
 third_nav_title: Leading the National Library
 ---
-<p>Lee Ek Tieng (1933–2025) was the civil servant who headed the clean-up
-of the Singapore River, had the foresight to modernise the sanitation system,
-and ensured water self-sufficiency for Singapore. Writer Samantha Boh tells
-us how he did it with his colleagues and earned their respect.</p>
+<p>Hedwig Anuar was the first Malayan to head the National Library, a position
+she held for 23 years until 1988. She was also involved in the setting
+up the Singapore Book Council, National Archives of Singapore and Association
+of Women for Action and Research. Her daughter, Shirin Aroozoo, tells us
+about Anuar as a mother and a person, and about how her convictions about
+books, children's education and women empowerment were shaped by her upbringing
+and life events.</p>
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Podcast/5ece500f123d6d0004ce5f8a.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751"><img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Podcast/Listen_on_apple_podcasts.png"></a>
 <p></p>
