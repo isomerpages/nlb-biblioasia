@@ -61,10 +61,10 @@ The Nutgraf Books, 2022).</p>
 <details class="isomer-details">
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
-Gek Han. Sound engineering was done by Nookcha Films. The background music
-"Di Tanjong Katong" was composed by Ahmad Patek and performed by Chords
-Haven. Special thanks to Samantha for coming on the show.</p>
+<p>This episode of BiblioAsia Podcast was hosted by Jimmy Yap and produced
+by Soh Gek Han. Sound engineering was done by Nookcha Films. The background
+music "Di Tanjong Katong" was composed by Ahmad Patek and performed by
+Chords Haven. Special thanks to Samantha for coming on the show.</p>
 </div>
 </details>
 <details class="isomer-details">
