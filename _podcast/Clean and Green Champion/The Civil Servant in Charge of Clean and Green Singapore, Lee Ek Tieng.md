@@ -22,8 +22,16 @@ us how he did it with his colleagues and earned their respect.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Samantha Talked About</strong></h4>
-<p></p>
-<p></p>
+<p>02:59 – About Lee Ek Tieng
+<br>07:16 – Lee Ek Tieng’s key achievements
+<br>12:31 – His personality and leadership style
+<br>19:07 – Conflict with Economic Development Board during industrial pollution
+control and backing from Lee Kuan Yew
+<br>24:01 – Building water self‑sufficiency
+<br>29:20 – How NEWater got its name
+<br>31:16 – What colleagues said about him
+<br>35:31 – His hobbies and DIY spirit
+<br>38:03 – Books by Nutgraf</p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -53,17 +61,16 @@ The Nutgraf Books, 2022).</p>
 <details class="isomer-details">
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
-Gek Han. Sound engineering was done by Nookcha Films. The background music
-"Di Tanjong Katong" was composed by Ahmad Patek and performed by Chords
-Haven. Special thanks to Samantha for coming on the show.</p>
+<p>This episode of BiblioAsia Podcast was hosted by Jimmy Yap and produced
+by Soh Gek Han. Sound engineering was done by Nookcha Films. The background
+music "Di Tanjong Katong" was composed by Ahmad Patek and performed by
+Chords Haven. Special thanks to Samantha for coming on the show.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>About the Podcast</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>BiblioAsia+ is a podcast about Singapore history by the National Library
-Singapore.</p>
+<p>The&nbsp;BiblioAsia&nbsp;Podcast&nbsp;by&nbsp;the&nbsp;National&nbsp;Library&nbsp;Singapore&nbsp;tells&nbsp;stories&nbsp;about&nbsp;Singapore&nbsp;history.</p>
 </div>
 </details>
 <p></p>

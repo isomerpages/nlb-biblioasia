@@ -2,6 +2,18 @@ collections:
   podcast:
     output: true
     order:
+      - Giovanni Gaggino/.keep
+      - Giovanni Gaggino/The Italian Merchant and Lexicographer Who Once Owned
+        Pulau Bukom.md
+      - Giovanni Gaggino/Transcript.md
+      - Time Zone Changes/.keep
+      - "Time Zone Changes/Changing Times: Time Zone Changes in Singapore since
+        1905.md"
+      - Time Zone Changes/Transcript.md
+      - Leading the National Library/.keep
+      - "Leading the National Library/The First Local to Head the National
+        Library: Hedwig Anuar.md"
+      - Leading the National Library/Transcript.md
       - Clean and Green Champion/.keep
       - Clean and Green Champion/The Civil Servant in Charge of Clean and Green
         Singapore, Lee Ek Tieng.md
