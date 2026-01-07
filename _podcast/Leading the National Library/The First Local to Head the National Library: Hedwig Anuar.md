@@ -18,49 +18,43 @@ us how he did it with his colleagues and earned their respect.</p>
 <p></p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
-<h4><strong>What Samantha Talked About</strong></h4>
+<h4><strong>What Shirin Talked About</strong></h4>
 <p></p>
 <p></p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Samantha Boh is a journalist and an author who covers the environment
-and science. She has written extensively on breakthroughs in biomedical
-science, robotics, water resources, recycling and food wastage for more
-than a decade. She is a co-author of <em>The Last Fools</em>, <em>The Price of Being Fair</em> and <em>Lee Ek Tieng: The Green General of Lee Kuan Yew</em>.</p>
+<p>Shirin Aroozoo is the daughter of Hedwig Anuar, who was the director of
+the National Library from 1965 to 1988.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Samantha Boh, Pearl Lee and Matthew Gan, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300099607" rel="noopener noreferrer nofollow" target="_blank">Lee Ek Tieng: The Green General of Lee Kuan Yew</a></em> (Singapore:
-The Nutgraf Books, 2025).</p>
-<p>&nbsp;</p>
-<p>Chia Sue-Ann and Peh Shing Huei, eds., <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206063623" rel="noopener noreferrer nofollow" target="_blank">The Price of Being Fair: The FairPrice Group Story</a></em> (Singapore:
-The Nutgraf Books, 2023).</p>
-<p>&nbsp;</p>
-<p>Peh Shing Huei, ed., <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=%20205708349" rel="noopener noreferrer nofollow" target="_blank">The Last Fools: The Eight Immortals of Lee Kuan Yew</a></em> (Singapore:
-The Nutgraf Books, 2022).</p>
-<p></p>
-<p>Jan Beránek, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/" rel="noopener nofollow" target="_blank">In Search of Silvestr</a>,” <em>BiblioAsia </em>(April
-2025).</p>
+<p>Shirin Aroozoo, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/" rel="noopener noreferrer nofollow" target="_blank">My Mother, Hedwig Anuar</a>,” <em>BiblioAsia</em> 21,
+no. 2 (July–September 2025).
+<br>
+</p>
+<p>Timothy Pwee, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/" rel="noopener noreferrer nofollow" target="_blank">Hedwig Anuar: First Lady of the National Library</a>,” <em>BiblioAsia</em> 21,
+no. 2 (July–September 2025).
+<br>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
-Gek Han. Sound engineering was done by Nookcha Films. The background music
-"Di Tanjong Katong" was composed by Ahmad Patek and performed by Chords
-Haven. Special thanks to Samantha for coming on the show.</p>
+<p>This episode of BiblioAsia Podcast was hosted by Jimmy Yap and produced
+by Soh Gek Han. Sound engineering was done by Nookcha Films. The background
+music "Di Tanjong Katong" was composed by Ahmad Patek and performed by
+Chords Haven. Special thanks to Shirin for coming on the show.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>About the Podcast</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>BiblioAsia+ is a podcast about Singapore history by the National Library
-Singapore.</p>
+<p>The&nbsp;BiblioAsia&nbsp;Podcast&nbsp;by&nbsp;the&nbsp;National&nbsp;Library&nbsp;Singapore&nbsp;tells&nbsp;stories&nbsp;about&nbsp;Singapore&nbsp;history.</p>
 </div>
 </details>
 <p></p>
