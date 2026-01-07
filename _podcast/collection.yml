@@ -2,7 +2,8 @@ collections:
   podcast:
     output: true
     order:
-      - Giovanni Gaggino/Example Title2.md
+      - Giovanni Gaggino/The Italian Merchant and Lexicographer Who Once Owned
+        Pulau Bukom.md
       - Giovanni Gaggino/.keep
       - Time Zone Changes/.keep
       - "Time Zone Changes/Changing Times: Time Zone Changes in Singapore since
