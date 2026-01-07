@@ -27,7 +27,8 @@ the life of Gaggino and his legacy.</p>
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Formerly a literary arts librarian at the National Library Board, Alex
-Foo has written for the Metropolitan Museum of Art, Orientations and ArtsEquator.</p>
+Foo has written for the Metropolitan Museum of Art, <em>Orientations</em> and
+ArtsEquator.</p>
 <p></p>
 </div>
 </details>
