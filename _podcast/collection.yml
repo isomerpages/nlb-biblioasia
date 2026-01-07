@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Example Title.md
-      - Leading the National Library/Transcript.md
+      - Leading the National Library/.keep
       - "Leading the National Library/The First Local to Head the National
         Library: Hedwig Anuar.md"
-      - Leading the National Library/.keep
+      - Leading the National Library/Transcript.md
       - Clean and Green Champion/.keep
       - Clean and Green Champion/The Civil Servant in Charge of Clean and Green
         Singapore, Lee Ek Tieng.md
