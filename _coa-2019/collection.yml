@@ -1,4 +1,6 @@
 collections:
   coa-2019:
     output: true
-    order: []
+    order:
+      - Exploring Accounts of the Lifestyles of Colonial Administrators and
+        Their Families in Singapore.md
