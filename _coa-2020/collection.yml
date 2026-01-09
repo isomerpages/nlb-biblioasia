@@ -1,4 +1,6 @@
 collections:
   coa-2020:
     output: true
-    order: []
+    order:
+      - Chinese Rice Commerce and the Transformation of Sai Gon–Cho Lon in
+        Colonial Vietnam.md
