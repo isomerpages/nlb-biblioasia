@@ -12,7 +12,7 @@ third_nav_title: BiblioAsia Reels
 The fire dragon dance is performed once every three years to celebrate the birthday of the Chinese earth deity.
 
 **Related article** <br>
-* [At Wat Ananda, Thai Buddhism with a Singaporean Twist](/vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/)
+* [Fire Dragon Blazes Trail for Cantonese Temple in Geylang](/culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/)
 
 <hr>
 
