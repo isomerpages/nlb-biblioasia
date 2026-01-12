@@ -24,7 +24,7 @@ sections:
       description: Find out how Sembawang, once home to pepper and gambier plantations
         got its name, and its transformation into a naval base.
       button: Watch The Video
-      url: https://youtu.be/ey_geDt46j8?si=4qwhD2BmMOOFRRCU
+      url: https://youtube.com/ey_geDt46j8?si=4qwhD2BmMOOFRRCU
       image: "/images/Videos: BiblioAsia Reels/Sembawang_in_Maps2.jpg"
       alt: Image alt text
   - infopic:
@@ -1110,10 +1110,12 @@ sections:
       image: /images/Vol 22 Issue 1/Agricultural/Topics_agricultural_show.jpg
       alt: Singapore Agricultural Show
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Dance of the Fire Dragon
+      subtitle: BiblioAsia Reels
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: The fire dragon dance is performed once every three years to
+        celebrate the birthday of the Chinese earth deity.
+      button: Ascending to the heavens
+      alt: Dance of the Fire Dragon
+      url: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/
 ---
