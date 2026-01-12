@@ -1117,5 +1117,6 @@ sections:
         celebrate the birthday of the Chinese earth deity.
       button: Ascending to the heavens
       alt: Dance of the Fire Dragon
-      url: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/
+      url: https://youtu.be/r633ukrxanU?si=o2IrWzfvOIPgOwZm
+      image: "/images/Videos: BiblioAsia Reels/Dance_of_the_Fire_Dragon.jpg"
 ---
