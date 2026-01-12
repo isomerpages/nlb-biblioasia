@@ -18,10 +18,10 @@ This particular dragon dance is only performed once every three years, on the se
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Suspended_body_of_fire_dragon_at_the_Sar_Kong_Heritage_Room.jpg" style="width: 80%;">
-A Fire Dragon at the Sar Kong Heritage Room, 2023. <i>Courtesy of Edmund Lau.</i></div>
+A Fire Dragon at the Sar Kong Heritage Room, 2023. <i>Courtesy of Edmund Lau.</i></div><br>
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/r633ukrxanU?si=o2IrWzfvOIPgOwZm" frameborder="0" allowfullscreen=""></iframe></div>
-<div style="background-color: white;">The Fire Dragon in 2024. <i>Video courtesy of Angela Sim.</i></div>
+<div style="background-color: white;">Dance of the Fire Dragon. <i></i></div>
 
 #### **The Making of a Dragon**
 
