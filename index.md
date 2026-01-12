@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 3/Photographer/HeroImage_Photographer.jpg
       variant: center
   - infopic:
+      title: Dance of the Fire Dragon
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: The fire dragon dance is performed once every three years to
+        celebrate the birthday of the Chinese earth deity.
+      button: Ascending to the heavens
+      alt: Dance of the Fire Dragon
+      url: https://youtu.be/r633ukrxanU?si=o2IrWzfvOIPgOwZm
+      image: "/images/Videos: BiblioAsia Reels/Dance_of_the_Fire_Dragon.jpg"
+  - infopic:
       title: Exploring Sembawang from Old Maps
       subtitle: BiblioAsia Reels
       id: infopic
@@ -1109,14 +1119,4 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
       image: /images/Vol 22 Issue 1/Agricultural/Topics_agricultural_show.jpg
       alt: Singapore Agricultural Show
-  - infopic:
-      title: Dance of the Fire Dragon
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: The fire dragon dance is performed once every three years to
-        celebrate the birthday of the Chinese earth deity.
-      button: Ascending to the heavens
-      alt: Dance of the Fire Dragon
-      url: https://youtu.be/r633ukrxanU?si=o2IrWzfvOIPgOwZm
-      image: "/images/Videos: BiblioAsia Reels/Dance_of_the_Fire_Dragon.jpg"
 ---
