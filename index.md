@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
-      button: Luís de Camões in Asia
+      url: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
+      button: Women Photographers in Singapore and Malaya
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Luis/HeroImage_luis2.jpg
+      background: /images/Vol 21 Issue 3/Photographer/HeroImage_Photographer.jpg
       variant: center
   - infopic:
       title: Exploring Sembawang from Old Maps
@@ -1109,4 +1109,11 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
       image: /images/Vol 22 Issue 1/Agricultural/Topics_agricultural_show.jpg
       alt: Singapore Agricultural Show
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
