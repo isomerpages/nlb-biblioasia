@@ -20,6 +20,9 @@ This particular dragon dance is only performed once every three years, on the se
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Suspended_body_of_fire_dragon_at_the_Sar_Kong_Heritage_Room.jpg" style="width: 80%;">
 A Fire Dragon at the Sar Kong Heritage Room, 2023. <i>Courtesy of Edmund Lau.</i></div>
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/r633ukrxanU?si=o2IrWzfvOIPgOwZm" frameborder="0" allowfullscreen=""></iframe></div>
+<div style="background-color: white;">The Fire Dragon in 2024. <i>Video courtesy of Angela Sim.</i></div>
+
 #### **The Making of a Dragon**
 
 The first Fire Dragon that the temple made was a simple one. It was made of “banana fronds and paper for the head”. Chin Fook Siang, the chairman of the Mun San Fook Tuck Chee Temple, recalled that it cost $2,400 to produce. The money came from funds that were pooled together thanks to small donations from the temple’s patrons – “just 20 cents, 30 cents, or 50 cents only” – and generous contributions from Chin himself and two other temple committee members. The reason why the temple decided to make a Fire Dragon unfortunately has been lost to time.
