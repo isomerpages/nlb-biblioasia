@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/luis-de-camoes-portugal-poet-lusiads-os-lusiadas/
-      button: Luís de Camões in Asia
+      url: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
+      button: Women Photographers in Singapore and Malaya
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Luis/HeroImage_luis2.jpg
+      background: /images/Vol 21 Issue 3/Photographer/HeroImage_Photographer.jpg
       variant: center
+  - infopic:
+      title: Dance of the Fire Dragon
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: The fire dragon dance is performed once every three years to
+        celebrate the birthday of the Chinese earth deity.
+      button: Ascending to the heavens
+      alt: Dance of the Fire Dragon
+      url: https://youtu.be/r633ukrxanU?si=o2IrWzfvOIPgOwZm
+      image: "/images/Videos: BiblioAsia Reels/Dance_of_the_Fire_Dragon.jpg"
   - infopic:
       title: Exploring Sembawang from Old Maps
       subtitle: BiblioAsia Reels
@@ -24,7 +34,7 @@ sections:
       description: Find out how Sembawang, once home to pepper and gambier plantations
         got its name, and its transformation into a naval base.
       button: Watch The Video
-      url: https://youtu.be/ey_geDt46j8?si=4qwhD2BmMOOFRRCU
+      url: https://youtube.com/ey_geDt46j8?si=4qwhD2BmMOOFRRCU
       image: "/images/Videos: BiblioAsia Reels/Sembawang_in_Maps2.jpg"
       alt: Image alt text
   - infopic:
