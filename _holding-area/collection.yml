@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - Bringing Back the Hainan Lion.md
       - Sample article.md
