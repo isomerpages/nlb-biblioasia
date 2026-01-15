@@ -250,12 +250,9 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 [^30]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 343.
 
-
-
-
 [^31]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 349; Arti Mulchand, “[Time’s Up for Times House](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20040402-1.2.8.2),” _Straits Times_, 2 April 2004, 3. (From NewspaperSG)
 
-[^32]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 359; “The New Paper Goes Fully Digital from Dec 10,” _New Paper_, 20 September 2021, [https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10](https://www.tnp.sg/news/singapore/new-paper-goes-fully-digital-dec-10).
+[^32]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 359; Lim Han Ming, “The New Paper to Go Fully Digital After Dec 10,”&nbsp;_Straits Times_, 20 September 2021,&nbsp;[https://www.straitstimes.com/singapore/the-new-paper-goes-fully-digital-from-dec-10](https://www.straitstimes.com/singapore/the-new-paper-goes-fully-digital-from-dec-10).
 
 [^33]: Shefali Rekhi, “‘There’s No Shame in Having Your Story Corrected’,” _Straits Times_, 15 July 2025, [https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected](https://www.straitstimes.com/singapore/theres-no-shame-in-having-your-story-corrected).
 
