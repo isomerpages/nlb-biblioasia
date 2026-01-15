@@ -149,7 +149,7 @@ Currently, health authorities are closely monitoring the avian flu situation and
 [^11]: “Yi zai jing you fei liuxingbing er zuo liuxing bing yizhi zhe” 異哉竟有非流行病而作流行病醫治者 \[It is strange that non-influenza cases are being treated as influenza\], _Lat Pau_ 叻報, 30 October 1918, 3, NUS Libraries, [https://oa.nus.libnova.com/view/436041](https://oa.nus.libnova.com/view/436041); Loh and Hsu, _[Pandemics in Singapore](https://nlb.overdrive.com/media/10120783)_, 160.
 
 
-[^12]: Straits Settlements Medical Department, _Straits Settlements Medical Report 1918_ (Singapore: Straits Settlement Medical Department, 1918), 22, [https://wellcomecollection.org/works/etgw9ggs](https://wellcomecollection.org/works/etgw9ggs).
+[^12]: Straits Settlements Medical Department, _Straits Settlements Medical Report 1918_ (Singapore: Straits Settlement Medical Department, 1918), 22, https://wellcomecollection.org/works/etgw9ggs.
 
 
 [^13]: Straits Settlements Medical Department, _Straits Settlements Medical Report 1918_, 22; Loh and Hsu, _[Pandemics in Singapore](https://nlb.overdrive.com/media/10120783)_, 154, 162; “The Road to Pandemic Preparedness in Singapore,” National Centre of Infectious Diseases, accessed 29 August 2025. [https://www.ncid.sg/For-General-Public/Pages/The-NCID-Gallery.aspx](https://www.ncid.sg/For-General-Public/Pages/The-NCID-Gallery.aspx).

@@ -1,6 +1,6 @@
 ---
 title: Bringing Back the Hainan Lion
-permalink: /holding-area/bringing-back-the-hainan-lion/
+permalink: /culture/2026/1/hainan-lion-tiger-dance-guang-wu-club/
 variant: markdown
 description: ""
 ---

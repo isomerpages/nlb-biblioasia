@@ -291,7 +291,7 @@ Nor-Afidah Abdul Rahman and Marsita Omar, [The Baweanese (Boyanese)](https://www
 
 _Persatuan Bawean Singapura_, https://opengovsg.com/corporate/S34SS0001G.
 
-“Pondok Peranakan Gelam Club,” [https://www.roots.gov.sg/en/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club](https://www.roots.gov.sg/en/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club).
+“Pondok Peranakan Gelam Club,” [https://www.roots.gov.sg/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club](https://www.roots.gov.sg/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club).
 
 #### **NOTES**
      

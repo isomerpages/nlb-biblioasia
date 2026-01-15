@@ -4,6 +4,13 @@ permalink: /topics/culture/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/culture/2026/1/hainan-lion-tiger-dance-guang-wu-club/">**Bringing Back the Hainan Lion**</a>
+
+The unexpected find of a cape with tiger markings in the storeroom of the Guang Wu Club led a martial artist and lion dance master to revive a lost art form in Singapore.
+
+<img src="/images/Online%20Only%20Articles/Bringing%20Back%20the%20Hainan%20Lion/Guangwu_Hainan_tiger1.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/">**The 1965 Singapore Agricultural Show**</a>
 
 Initially planned to encourage people to eat more eggs, the agricultural show eventually morphed into a mega event showcasing the achievements of farmers in Singapore.

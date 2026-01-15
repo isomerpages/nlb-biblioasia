@@ -210,8 +210,7 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^21]: Amelia Teng, “[Singapore School for the Deaf to Close Due to Dwindling Enrolment](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20170917-1.2.11.2),”&nbsp;_Straits Times_, 17 September 2017,&nbsp;10. (From NewspaperSG)
      
 
-[^22]: “Hearing Loss and Inclusive Education,” Ministry of Education, 8 November 2022, [https://www.moe.gov.sg/news/parliamentary-replies/20221108-hearing-loss-and-inclusive-education](https://www.moe.gov.sg/news/parliamentary-replies/20221108-hearing-loss-and-inclusive-education); “Our Journey,” Canossian School, accessed 23 December 2024, [https://canossian.edu.sg/about-us/our-journey](https://canossian.edu.sg/about-us/our-journey).
-
+[^22]: “Hearing Loss and Inclusive Education,” Ministry of Education, 8 November 2022, [https://www.moe.gov.sg/news/parliamentary-replies/20221108-hearing-loss-and-inclusive-education](https://www.moe.gov.sg/news/parliamentary-replies/20221108-hearing-loss-and-inclusive-education); “Our Journey,” Canossian School, accessed 23 December 2024, https://canossian.edu.sg/about-us/our-journey; Elisha, Tushara, “Canossian School and Canossa Catholic Primary School to combine in 2025,”&nbsp;_Straits Times_, 26 January 2024,&nbsp;[https://www.straitstimes.com/singapore/canossian-school-and-canossa-catholic-primary-school-to-combine-in-2025](https://www.straitstimes.com/singapore/canossian-school-and-canossa-catholic-primary-school-to-combine-in-2025).
 
 [^23]: Goh Ewe Hong, “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720203-1.2.69.3),” _Straits Times_, 3 February 1972, 7. (From NewspaperSG)&nbsp;
      
