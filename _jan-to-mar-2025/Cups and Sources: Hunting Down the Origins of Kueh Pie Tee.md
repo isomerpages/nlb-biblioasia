@@ -200,7 +200,7 @@ To listen to his podcast discussing the origins of the dish, click <a href="http
 
 
 
-[^11]: Fannie Merritt Farmer, _The Boston Cooking-School Cookbook_ (United States: Little, Brown and Company, 1896), 314, Michigan State University,&nbsp; [https://n2t.net/ark:/85335/m5fn15277](https://n2t.net/ark:/85335/m5fn15277).
+[^11]: Fannie Merritt Farmer, _The Boston Cooking-School Cookbook_ (United States: Little, Brown and Company, 1896), 314, Michigan State University,&nbsp; https://n2t.net/ark:/85335/m5fn15277.
 
 
 [^12]: “[The Gourmet Club...](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580401-1.2.98.7),” _Singapore Free Press_, 1 April 1958, 2. (From NewspaperSG)
