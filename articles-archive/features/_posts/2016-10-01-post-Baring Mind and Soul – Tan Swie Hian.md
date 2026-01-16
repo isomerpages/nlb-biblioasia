@@ -328,7 +328,7 @@ the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhi
 
 [^3]:  From a personal communication with Tan Swie Hian on 27 June 2016.
 
-[^4]:  Yap, S. Y. (2016). <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959" rel="noopener noreferrer nofollow" target="_blank">Anatomy of a free mind: Tan Swie Hian’s notebooks and creations</a></em>. Singapore: National Library Board and Editions Dider Millet. Call no.: RSING 700.92 CHE
+[^4]:  Yap, S. Y. (2016). <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959" rel="noopener noreferrer nofollow" target="_blank">Anatomy of a free mind: Tan Swie Hian’s notebooks and creations</a></em>. Singapore: National Library Board and Editions Dider Millet. Call no.: RSING 700.92 CHE.
 
 [^5]:  Tan, S. H. (2005). <em>Tan Swie Hian</em>. Retrieved from Tan Swie Hian website.
 
@@ -342,5 +342,4 @@ the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhi
 
 [^10]:  Singapore Chinese Orchestra. (2006). <em>The Celestial Web</em> [Recorded by Terence Cho]. Singapore: Singapore Chinese Orchestra Co Ltd.
 
-[^11]:  Akkoc, R. (2014, December 11). 2004 Boxing Day tsunami facts. <em>The Telegraph</em>.
-Retrieved from The Telegraph website.
+[^11]:  Akkoc, R. (2014, December 11). 2004 Boxing Day tsunami facts. <em>The Telegraph</em>. Retrieved from The Telegraph website.
