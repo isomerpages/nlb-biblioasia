@@ -116,37 +116,24 @@ former South African president Nelson Mandela – someone whom Tan greatly
 admires – and painted over by the artist was sold for HK$3.52 million (S$630,000),
 the highest-paid piece at an auction in Hong Kong. The images depict the
 hands and arms of Mandela breaking free from manacles.[^9]
+
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/02-baring-mind-soul.jpg">
 </div>
-<p>“The Nelson Mandela Unity Series” (2004). Acrylic, ink and pencil on monochrome
-lithos, 131 cm x 150 cm. <em>Collection of Julien La Chon.</em>
-</p>
+“The Nelson Mandela Unity Series” (2004). Acrylic, ink and pencil on monochrome lithos, 131 cm x 150 cm. <em>Collection of Julien La Chon.</em>
+
 <h4><strong>Anatomy of a Free Mind: The Exhibition</strong></h4>
-<p>The works presented in “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks
-and Creations” reflect the full depth and diversity of Tan’s creative expressions.
-Representing a considerable part of Tan’s oeuvre, the exhibition features
-paintings, sculptures, public art, calligraphy, seal carvings, photographs,
-lithographs, multimedia creations (dance choreographies, performances and
-musical compositions) as well as his literary output (poetry, fables and
-essays). To contextualise his works, the artist transcribed the notes and
-writings from his notebooks – elucidating the rationale and thinking behind
-each art piece – to be displayed alongside the works.</p>
-<p>As an artist, much of Tan’s output is difficult to pin down and define:
-versatility and freedom of expression are hallmarks of his works, and much
-of it cannot be categorised into any particular subject, medium or genre.
-While the body of works presented in this exhibition has its subtle interconnectedness,
-a few themes stand out.</p>
+The works presented in “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” reflect the full depth and diversity of Tan’s creative expressions. Representing a considerable part of Tan’s oeuvre, the exhibition features
+paintings, sculptures, public art, calligraphy, seal carvings, photographs, lithographs, multimedia creations (dance choreographies, performances and musical compositions) as well as his literary output (poetry, fables and essays). To contextualise his works, the artist transcribed the notes and writings from his notebooks – elucidating the rationale and thinking behind each art piece – to be displayed alongside the works.
+
+As an artist, much of Tan’s output is difficult to pin down and define: versatility and freedom of expression are hallmarks of his works, and much of it cannot be categorised into any particular subject, medium or genre.
+While the body of works presented in this exhibition has its subtle interconnectedness, a few themes stand out.
+
 <h4><strong>Tribute to Masters</strong></h4>
-<p>Tan Swie Hian is deeply interested in people. He has painted many portraits
-of personalities – in art, literature, politics and other fields – whom
-he admires. In this exhibition, portraits and works paying tribute to some
-of these luminaries can be seen: these include Pablo Picasso, Leonor Fini,
-Bada Shanren (八大山人), Charlie Chaplin, Franz Kafka, Virginia Woolf, Steve
-Jobs and Nelson Mandela, to name a few.</p>
+Tan Swie Hian is deeply interested in people. He has painted many portraits of personalities – in art, literature, politics and other fields – whom he admires. In this exhibition, portraits and works paying tribute to some of these luminaries can be seen: these include Pablo Picasso, Leonor Fini, Bada Shanren (八大山人), Charlie Chaplin, Franz Kafka, Virginia Woolf, Steve Jobs and Nelson Mandela, to name a few.
+
 <div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/03a-baring-mind-soul.jpg">
-</div>
+<img style="width:200px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/03a-baring-mind-soul.jpg"></div>
 <p>“Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice
 paper, 226 cm x 105.4 cm. <em>Collection of Tan Swie Hian.</em>
 </p>
