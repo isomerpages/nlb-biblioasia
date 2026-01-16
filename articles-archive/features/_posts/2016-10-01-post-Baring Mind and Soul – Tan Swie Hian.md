@@ -118,10 +118,8 @@ admires – and painted over by the artist was sold for HK$3.52 million (S$630,0
 the highest-paid piece at an auction in Hong Kong. The images depict the
 hands and arms of Mandela breaking free from manacles.[^9]
 
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/02-baring-mind-soul.jpg">
-</div>
-“The Nelson Mandela Unity Series” (2004). Acrylic, ink and pencil on monochrome lithos, 131 cm x 150 cm. <em>Collection of Julien La Chon.</em>
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/02-baring-mind-soul.jpg" style="width:60%;">“The Nelson Mandela Unity Series” (2004). Acrylic, ink and pencil on monochrome lithos, 131 cm x 150 cm. <em>Collection of Julien La Chon.</em></div>
 
 #### **Anatomy of a Free Mind: The Exhibition**
 The works presented in “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” reflect the full depth and diversity of Tan’s creative expressions. Representing a considerable part of Tan’s oeuvre, the exhibition features
@@ -133,9 +131,10 @@ While the body of works presented in this exhibition has its subtle interconnect
 #### **Tribute to Masters**
 Tan Swie Hian is deeply interested in people. He has painted many portraits of personalities – in art, literature, politics and other fields – whom he admires. In this exhibition, portraits and works paying tribute to some of these luminaries can be seen: these include Pablo Picasso, Leonor Fini, Bada Shanren (八大山人), Charlie Chaplin, Franz Kafka, Virginia Woolf, Steve Jobs and Nelson Mandela, to name a few.
 
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/03a-baring-mind-soul.jpg"></div>
-“Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice paper, 226 cm x 105.4 cm. <em>Collection of Tan Swie Hian.</em>
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/03a-baring-mind-soul.jpg" style="width: 20%;">
+“Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice paper, 226 cm x 105.4 cm.
+<i>Collection of Tan Swie Hian.</i></div>
 
 One of the paintings, titled “A Couple”, is an unusual portrayal of Lee
 Kuan Yew, Singapore’s founding prime minister, and his wife as a young
@@ -150,10 +149,11 @@ on Valentine’s Day in 2009 and completed it only in 2014. When Kwa passed
 away in October 2010, he added two Vanda Miss Joaquim orchids, Singapore’s
 national flower, by her side as a tribute to the devoted mother and loving
 wife.
-</p><div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/03b-baring-mind-soul.jpg">
-</div>
-“A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm. <em>Collection of Tan Swie Hian.</em>
+
+</p><div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/03b-baring-mind-soul.jpg" style="width: 50%;">
+“A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm.
+<i>Collection of Tan Swie Hian.</i></div>
 
 #### **Spiritual and Philosophical Insights**
 Perhaps Tan’s most enigmatic and intriguing works are those inspired by
@@ -163,21 +163,20 @@ above the parted foliage of a tree reflected onto a still blue pond. He
 quickly captured the vision in a sketch in his notebook. The ethereal scene
 was eventually depicted in the oil and acrylic painting “When the Moon
 is Orbed”.
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/05-baring-mind-soul.jpg">
-</div>
-Sketches and notes of the meditative vision which led to the painting,
-“When the Moon is Orbed”. Donated by Tan Swie Hian. <em>Collection of National Library, Singapore.</em>
+
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/05-baring-mind-soul.jpg" style="width: 50%;">
+Sketches and notes of the meditative vision which led to the painting, “When the Moon is Orbed”. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
 
 The symbolism of the full moon is manifold: traditionally it represents
 togetherness of people; but in Buddhism, it symbolises the clarity of the
 mind and the enlightenment of a truth seeker. A smaller-scale reproduction
 of this work is displayed at the exhibition.
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/04-baring-mind-soul.jpg">
-</div>
+
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/04-baring-mind-soul.jpg" style="width: 50%;">
 Detail from “When the Moon Is Orbed” (2012). Oil and acrylic on canvas,
-140 cm x 206 cm. <em>Private collection.</em>
+140 cm x 206 cm. <i>Private collection.</i></div>
 
 The centrepiece of the exhibition is a unique mixed media sculpture entitled
 “The Celestial Web”, a sizable dome-shaped structure made of coiled metal
@@ -195,14 +194,10 @@ with Tan Swie Hian”, by the Singapore Chinese Orchestra. The performance
 took the form of a symphonic orchestration of recitation, chorus and music
 with the artist simultaneously writing the poem in Chinese calligraphy
 on stage.[^10]
-<div class="isomer-image-wrapper">
-<img style="width:800px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/06e-baring-mind-soul.jpg">
-</div>
-(Left) Pages from Tan Swie Hian’s notebook showing the sketch of “The
-Celestial Web”. <em>Donated by Tan Swie Hian. Collection of National Library, Singapore.</em>
 
-(Right) “The Celestial Web” (2010). Mixed media sculpture, 308 cm x 210
-cm x 125 cm. <em>Collection of Tan Swie Hian Museum.</em>
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/06e-baring-mind-soul.jpg" style="width: 80%;">
+(Left) Pages from Tan Swie Hian’s notebook showing the sketch of “The Celestial Web”. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore;</i> (Right) “The Celestial Web” (2010). Mixed media sculpture, 308 cm x 210 cm x 125 cm. <i>Collection of Tan Swie Hian Museum.</i></div>
 
 The poem subsequently spawned the creation of two other art forms: an
 oil painting (2003) and the aforementioned sculpture (2010) of the same
@@ -229,18 +224,14 @@ various poses of action, is so vividly captured that it even incurred the
 jealousy of another pet cat of his daughter’s – she kept glaring and mewing
 at the painting!
 
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/07a-baring-mind-soul.jpg">
-</div>
-Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie
-Hian. <em>Collection of National Library, Singapore.</em>
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/07a-baring-mind-soul.jpg" style="width: 30%;">
+Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie Hian. <i>Collection of National Library, Singapore.</i></div>
 <br><br>
 
-
-<div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/08-baring-mind-soul.jpg">
-</div>
-“Cat’s Cradle”. (1984). Chinese ink on rice paper, 184 cm x 87 cm. <em>Collection of Tan Chiao Joan.</em>
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/08-baring-mind-soul.jpg" style="width: 30%;">
+“Cat’s Cradle”. (1984). Chinese ink on rice paper, 184 cm x 87 cm. <i>Collection of Tan Chiao Joan.</i></div>
 
 On 26 December 2004, in a cataclysmic event that would be remembered in
 years to come, an earthquake in Indonesia triggered a tsunami in the Indian
@@ -255,10 +246,10 @@ object offered in worship, to be discarded after sacrificial rites were
 offered. As no visual reference of the actual object exists, Tan created
 the sculpture from his imagination. The austere looking bronze sculpture
 is a grim reminder of the vulnerability and fragility of life.
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/06c-baring-mind-soul.jpg">
-</div>
-“The Straw Dog” (2004). Bronze sculpture, 153 cm x 40 cm x 90 cm. <em>Collection of Tan Swie Hian Museum.</em>
+
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/06c-baring-mind-soul.jpg" style="width: 40%;">
+“The Straw Dog” (2004). Bronze sculpture, 153 cm x 40 cm x 90 cm. <i>Collection of Tan Swie Hian Museum.</i></div>
 
 Tan held his first ever solo art exhibition in 1973 when “Paintings of
 Infused Contemplation” opened at the since demolished red-brick National
