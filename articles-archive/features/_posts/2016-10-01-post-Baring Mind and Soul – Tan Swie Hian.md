@@ -122,70 +122,69 @@ hands and arms of Mandela breaking free from manacles.[^9]
 </div>
 “The Nelson Mandela Unity Series” (2004). Acrylic, ink and pencil on monochrome lithos, 131 cm x 150 cm. <em>Collection of Julien La Chon.</em>
 
-<h4><strong>Anatomy of a Free Mind: The Exhibition</strong></h4>
+#### **Anatomy of a Free Mind: The Exhibition**
 The works presented in “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” reflect the full depth and diversity of Tan’s creative expressions. Representing a considerable part of Tan’s oeuvre, the exhibition features
 paintings, sculptures, public art, calligraphy, seal carvings, photographs, lithographs, multimedia creations (dance choreographies, performances and musical compositions) as well as his literary output (poetry, fables and essays). To contextualise his works, the artist transcribed the notes and writings from his notebooks – elucidating the rationale and thinking behind each art piece – to be displayed alongside the works.
 
 As an artist, much of Tan’s output is difficult to pin down and define: versatility and freedom of expression are hallmarks of his works, and much of it cannot be categorised into any particular subject, medium or genre.
 While the body of works presented in this exhibition has its subtle interconnectedness, a few themes stand out.
 
-<h4><strong>Tribute to Masters</strong></h4>
+#### **Tribute to Masters**
 Tan Swie Hian is deeply interested in people. He has painted many portraits of personalities – in art, literature, politics and other fields – whom he admires. In this exhibition, portraits and works paying tribute to some of these luminaries can be seen: these include Pablo Picasso, Leonor Fini, Bada Shanren (八大山人), Charlie Chaplin, Franz Kafka, Virginia Woolf, Steve Jobs and Nelson Mandela, to name a few.
 
 <div class="isomer-image-wrapper">
 <img style="width:200px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/03a-baring-mind-soul.jpg"></div>
-<p>“Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice
-paper, 226 cm x 105.4 cm. <em>Collection of Tan Swie Hian.</em>
-</p>
-<p>One of the paintings, titled “A Couple”, is an unusual portrayal of Lee
+“Graffitied Portrait of Charlie Chaplin” (2013). Ink and acrylic on rice paper, 226 cm x 105.4 cm. <em>Collection of Tan Swie Hian.</em>
+
+One of the paintings, titled “A Couple”, is an unusual portrayal of Lee
 Kuan Yew, Singapore’s founding prime minister, and his wife as a young
 couple quite obviously in love. The painting, inspired by a 1946 photograph
 of the couple when they were law students in Cambridge University, England,
 depicts Lee Kuan Yew and Kwa Geok Choo in the first blush of youth, and
 exudes warmth and carefree pleasure – one can almost feel the sunshine
-that bathes the couple in vibrant colour.</p>
+that bathes the couple in vibrant colour.<p></p>
 <p>The portrait, which is devoid of any political undertones, is an ode to
 a love that spanned over six decades. Tan began painting this portrait
 on Valentine’s Day in 2009 and completed it only in 2014. When Kwa passed
 away in October 2010, he added two Vanda Miss Joaquim orchids, Singapore’s
 national flower, by her side as a tribute to the devoted mother and loving
-wife.</p>
-<div class="isomer-image-wrapper">
+wife.
+</p><div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/03b-baring-mind-soul.jpg">
 </div>
-<p>“A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm. <em>Collection of Tan Swie Hian.</em>
-</p>
-<h4><strong>Spiritual and Philosophical Insights</strong></h4>
-<p>Perhaps Tan’s most enigmatic and intriguing works are those inspired by
+“A Couple” (2014). Oil, acrylic and ink on canvas, 213.5 cm x 339 cm. <em>Collection of Tan Swie Hian.</em>
+
+#### **Spiritual and Philosophical Insights**
+Perhaps Tan’s most enigmatic and intriguing works are those inspired by
 his spiritual and philosophical enlightenment. While meditating one day
 in September 2009, Tan had a vision in which he saw the full moon hovering
 above the parted foliage of a tree reflected onto a still blue pond. He
 quickly captured the vision in a sketch in his notebook. The ethereal scene
 was eventually depicted in the oil and acrylic painting “When the Moon
-is Orbed”.</p>
+is Orbed”.
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/05-baring-mind-soul.jpg">
 </div>
-<p>Sketches and notes of the meditative vision which led to the painting,
+Sketches and notes of the meditative vision which led to the painting,
 “When the Moon is Orbed”. Donated by Tan Swie Hian. <em>Collection of National Library, Singapore.</em>
-</p>
-<p>The symbolism of the full moon is manifold: traditionally it represents
+
+The symbolism of the full moon is manifold: traditionally it represents
 togetherness of people; but in Buddhism, it symbolises the clarity of the
 mind and the enlightenment of a truth seeker. A smaller-scale reproduction
-of this work is displayed at the exhibition.</p>
+of this work is displayed at the exhibition.
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/04-baring-mind-soul.jpg">
 </div>
-<p>Detail from “When the Moon Is Orbed” (2012). Oil and acrylic on canvas,
+Detail from “When the Moon Is Orbed” (2012). Oil and acrylic on canvas,
 140 cm x 206 cm. <em>Private collection.</em>
-</p>
-<p>The centrepiece of the exhibition is a unique mixed media sculpture entitled
+
+The centrepiece of the exhibition is a unique mixed media sculpture entitled
 “The Celestial Web”, a sizable dome-shaped structure made of coiled metal
 wires adorned with “creatures” moulded from clay. The sculpture, inspired
 by Tan’s Buddhist faith, is the embodiment of his perspective that all
 beings, sentient and non-sentient, are interconnected by an immense web
-of everlasting universal love.</p>
-<p>Interestingly, “The Celestial Web” began life as a poem with 117 verses
+of everlasting universal love.
+Interestingly, “The Celestial Web” began life as a poem with 117 verses
 that Tan specially composed for the Singapore Arts Festival in 2003. The
 poem was inspired by the philosophical teachings in the Buddhist scripture
 Avatamsaka Sutra, which espouses the notion that all beings in the universe
@@ -194,95 +193,93 @@ festival’s opening act, “Instant is a Millennium – A Musical Conversation
 with Tan Swie Hian”, by the Singapore Chinese Orchestra. The performance
 took the form of a symphonic orchestration of recitation, chorus and music
 with the artist simultaneously writing the poem in Chinese calligraphy
-on stage.[^10]</p>
+on stage.[^10]
 <div class="isomer-image-wrapper">
 <img style="width:800px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/06e-baring-mind-soul.jpg">
 </div>
-<p>(Left) Pages from Tan Swie Hian’s notebook showing the sketch of “The
+(Left) Pages from Tan Swie Hian’s notebook showing the sketch of “The
 Celestial Web”. <em>Donated by Tan Swie Hian. Collection of National Library, Singapore.</em>
-</p>
-<p>(Right) “The Celestial Web” (2010). Mixed media sculpture, 308 cm x 210
+
+(Right) “The Celestial Web” (2010). Mixed media sculpture, 308 cm x 210
 cm x 125 cm. <em>Collection of Tan Swie Hian Museum.</em>
-</p>
-<p>The poem subsequently spawned the creation of two other art forms: an
+
+The poem subsequently spawned the creation of two other art forms: an
 oil painting (2003) and the aforementioned sculpture (2010) of the same
 title. In the 2008 Chingay parade, the concept was reimagined, taking the
 form of a 22-metre-long by six-metre-high mobile float featuring dancers
 and a live recitation of the poem. Tan’s uncanny ability to reinvent and
 morph his literary and artistic creations into other art forms is a distinguishing
-trademark of his multimedia artworks.</p>
-<h4><strong>Inspirations from Life</strong></h4>
-<p>At the same time, one would be wrong to assume that Tan Swie Hian’s art
+trademark of his multimedia artworks.
+
+#### **Inspirations from Life**
+At the same time, one would be wrong to assume that Tan Swie Hian’s art
 belongs in the esoteric realm of philosophy and spirituality, understood
 by only a privileged few. In fact, the down-to-earth artist lives a simple
 and disciplined life revolving around creating art, writing and meditation,
 and is a keen and compassionate observer of life and the people around
 him. Occasionally, he takes pleasure in enjoying good food and fine wines
-with friends.</p>
-<p>Tan loves animals, especially cats, and a Chinese ink on paper scroll
+with friends.
+Tan loves animals, especially cats, and a Chinese ink on paper scroll
 titled “Cat’s Cradle” is testament to this. In 1984, the artist’s daughter
 kept a pair of kittens as pets. From observing the kittens’ lively movements
 when they were playing or fighting, Tan executed the painting as a study
 of the rhythm of moving lines. The painting, with seven pairs of cats in
 various poses of action, is so vividly captured that it even incurred the
 jealousy of another pet cat of his daughter’s – she kept glaring and mewing
-at the painting!</p>
+at the painting!
+
 <div class="isomer-image-wrapper">
 <img style="width:300px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/07a-baring-mind-soul.jpg">
 </div>
-<p>Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie
+Tan Swie Hian’s sketches and notes on the painting. Donated by Tan Swie
 Hian. <em>Collection of National Library, Singapore.</em>
-</p>
-<p>
-<br>
-</p>
+<br><br>
+
+
 <div class="isomer-image-wrapper">
 <img style="width:300px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/08-baring-mind-soul.jpg">
 </div>
-<p>“Cat’s Cradle”. (1984). Chinese ink on rice paper, 184 cm x 87 cm. <em>Collection of Tan Chiao Joan.</em>
-</p>
-<p>On 26 December 2004, in a cataclysmic event that would be remembered in
+“Cat’s Cradle”. (1984). Chinese ink on rice paper, 184 cm x 87 cm. <em>Collection of Tan Chiao Joan.</em>
+
+On 26 December 2004, in a cataclysmic event that would be remembered in
 years to come, an earthquake in Indonesia triggered a tsunami in the Indian
 Ocean that struck 14 countries, claiming the lives of more than 230,000
 people.[^11] In memory of the lives lost to this tragedy, Tan created the
-sculpture, “The Straw Dog”.</p>
-<p>The concept for the sculpture came from a quote by Lao Tze (also Lao Tzu
+sculpture, “The Straw Dog”.
+The concept for the sculpture came from a quote by Lao Tze (also Lao Tzu
 or Laozi, the Chinese philosopher) in the classic <em>Tao Te Ching</em> (道德经)
 which says that “Heaven and Earth are merciless, treating all beings as
 straw dogs.” (“天地不 仁，以万物为刍狗。”). In ancient China, the straw dog was a sculpted
 object offered in worship, to be discarded after sacrificial rites were
 offered. As no visual reference of the actual object exists, Tan created
 the sculpture from his imagination. The austere looking bronze sculpture
-is a grim reminder of the vulnerability and fragility of life.</p>
+is a grim reminder of the vulnerability and fragility of life.
 <div class="isomer-image-wrapper">
 <img style="width:400px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/06c-baring-mind-soul.jpg">
 </div>
-<p>“The Straw Dog” (2004). Bronze sculpture, 153 cm x 40 cm x 90 cm. <em>Collection of Tan Swie Hian Museum.</em>
-</p>
-<p>Tan held his first ever solo art exhibition in 1973 when “Paintings of
+“The Straw Dog” (2004). Bronze sculpture, 153 cm x 40 cm x 90 cm. <em>Collection of Tan Swie Hian Museum.</em>
+
+Tan held his first ever solo art exhibition in 1973 when “Paintings of
 Infused Contemplation” opened at the since demolished red-brick National
 Library building on Stamford Road. Almost 43 years later, in November 2016,
 the artist returns to the National Library with “Anatomy of a Free Mind”
 – the first ever exhibition to showcase his private notebooks and illustrious
 body of works created during that long absence. The National Library is
 honoured to partner Tan Swie Hian in charting and presenting his fascinating
-creative journeys over the past four decades.</p>
-<p>Over the years, Tan has generously donated more than 6,600 items from
+creative journeys over the past four decades.
+Over the years, Tan has generously donated more than 6,600 items from
 his personal collection to the National Library, including artworks and
 artefacts as well as manuscripts, notebooks and monographs. These are displayed
 at the Lee Kong Chian Reference Library at the National Library Building.
 His most recent donation includes the collection of notebooks displayed
-in the exhibition.</p>
-<p><strong>ABOUT THE EXHIBITION</strong>
+in the exhibition.
+<strong>ABOUT THE EXHIBITION</strong>
 <br>
 <br>
-</p>
+
 <div class="isomer-image-wrapper">
 <img style="width:270px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/09-baring-mind-soul.jpg">
-</div>
-<p>Portrait of Tan Swie Hian. <em>Collection of Tan Swie Hian.</em>
-</p>
-<p>
+</div>Portrait of Tan Swie Hian. <em>Collection of Tan Swie Hian.</em>
 <br>
 <br>“Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” opens
 on 22 November 2016 at the gallery on Level 10 of the National Library
@@ -310,22 +307,21 @@ artist himself.
 <br>Also look out for the smaller scale roving exhibition on Tan’s literary
 works that will take place at the Jurong Regional Library (1 November–29
 December 2016) followed by the Central Public Library (30 December 2016–28
-February 2017).</p>
+February 2017).<p></p>
 <br>
 
-<p>(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a>.)
+(Note: This article is accurate at the time it was published. For enquiries about accessing this collection, please write to&nbsp;<a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a>.)
 
-</p><div class="isomer-image-wrapper">
+<div class="isomer-image-wrapper">
 <img style="width: 100px; height: 100px;" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/chung_sang_hong.png">
 </div>
-<p><strong>Chung Sang Hong</strong> is Assistant Director (Exhibitions &amp;
+<strong>Chung Sang Hong</strong> is Assistant Director (Exhibitions &amp;
 Curation) at the National Library, Singapore. He is the lead curator of
-the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhibition.</p>
-<p></p>
-<p><a href="/vol-12/issue-3/oct-dec-2016/" rel="noopener noreferrer nofollow" target="_blank">Back to Issue</a>
-</p>
-<p></p>
-<h4><strong>Notes</strong></h4>
+the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhibition.
+<br><br>
+<a href="/vol-12/issue-3/oct-dec-2016/" rel="noopener noreferrer nofollow" target="_blank">Back to Issue</a>
+
+#### **Notes**
 [^1]:  Princeton University Press (Producer). (2010, October 25). <em>Michelangelo: A life on paper</em> [Video
 file]. Retrieved from Brain Pickings website.
 
