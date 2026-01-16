@@ -142,7 +142,7 @@ couple quite obviously in love. The painting, inspired by a 1946 photograph
 of the couple when they were law students in Cambridge University, England,
 depicts Lee Kuan Yew and Kwa Geok Choo in the first blush of youth, and
 exudes warmth and carefree pleasure – one can almost feel the sunshine
-that bathes the couple in vibrant colour.<p></p>
+that bathes the couple in vibrant colour.
 <p>The portrait, which is devoid of any political undertones, is an ode to
 a love that spanned over six decades. Tan began painting this portrait
 on Valentine’s Day in 2009 and completed it only in 2014. When Kwa passed
@@ -272,7 +272,7 @@ his personal collection to the National Library, including artworks and
 artefacts as well as manuscripts, notebooks and monographs. These are displayed
 at the Lee Kong Chian Reference Library at the National Library Building.
 His most recent donation includes the collection of notebooks displayed
-in the exhibition.
+in the exhibition.<br><br>
 <strong>ABOUT THE EXHIBITION</strong>
 <br>
 <br>
@@ -322,15 +322,13 @@ the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhi
 <a href="/vol-12/issue-3/oct-dec-2016/" rel="noopener noreferrer nofollow" target="_blank">Back to Issue</a>
 
 #### **Notes**
-[^1]:  Princeton University Press (Producer). (2010, October 25). <em>Michelangelo: A life on paper</em> [Video
-file]. Retrieved from Brain Pickings website.
+[^1]:  Princeton University Press (Producer). (2010, October 25). <em>Michelangelo: A life on paper</em> [Video file]. Retrieved from Brain Pickings website.
 
 [^2]:  <em>Esplanade – Theatres on the Bay</em>. (n.d.). Tan Swie Hian. Retrieved from Tribute.sg website.
 
 [^3]:  From a personal communication with Tan Swie Hian on 27 June 2016.
 
-[^4]:  Yap, S. Y. (2016). <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959" rel="noopener noreferrer nofollow" target="_blank">Anatomy of a free mind: Tan Swie Hian’s notebooks and creations</a></em>. Singapore: National Library Board and Editions Dider Millet. Call no.:
-RSING 700.92 CHE
+[^4]:  Yap, S. Y. (2016). <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959" rel="noopener noreferrer nofollow" target="_blank">Anatomy of a free mind: Tan Swie Hian’s notebooks and creations</a></em>. Singapore: National Library Board and Editions Dider Millet. Call no.: RSING 700.92 CHE.
 
 [^5]:  Tan, S. H. (2005). <em>Tan Swie Hian</em>. Retrieved from Tan Swie Hian website.
 
@@ -338,12 +336,10 @@ RSING 700.92 CHE
 
 [^7]:  Luxury Insider. (2012, December 4). <em>Most expensive living Singapore artist: Tan Swie Hian sells for S$3.7M</em>. Retrieved from Luxury Insider website.
 
-[^8]:  Shetty, D. (2014, December 1). <a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20141201-1.2.6.12" rel="noopener noreferrer nofollow" target="_blank">Tan Swie Hian’s work fetches record S$4.4 million at auction</a>. <em>The Straits Times</em>,
-p. 8. Retrieved from NewspaperSG.
+[^8]:  Shetty, D. (2014, December 1). <a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20141201-1.2.6.12" rel="noopener noreferrer nofollow" target="_blank">Tan Swie Hian’s work fetches record S$4.4 million at auction</a>. <em>The Straits Times</em>, p. 8. Retrieved from NewspaperSG.
 
 [^9]:  <a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160531-1.2.14.3.8" rel="noopener noreferrer nofollow" target="_blank">Mandela-Tan Swie Hian work sold for $630k</a>. (2016, May 31). <em>The Straits Times</em>, p. 14. Retrieved from NewspaperSG.
 
 [^10]:  Singapore Chinese Orchestra. (2006). <em>The Celestial Web</em> [Recorded by Terence Cho]. Singapore: Singapore Chinese Orchestra Co Ltd.
 
-[^11]:  Akkoc, R. (2014, December 11). 2004 Boxing Day tsunami facts. <em>The Telegraph</em>.
-Retrieved from The Telegraph website.
+[^11]:  Akkoc, R. (2014, December 11). 2004 Boxing Day tsunami facts. <em>The Telegraph</em>. Retrieved from The Telegraph website.
