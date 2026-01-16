@@ -142,7 +142,7 @@ couple quite obviously in love. The painting, inspired by a 1946 photograph
 of the couple when they were law students in Cambridge University, England,
 depicts Lee Kuan Yew and Kwa Geok Choo in the first blush of youth, and
 exudes warmth and carefree pleasure – one can almost feel the sunshine
-that bathes the couple in vibrant colour.<p></p>
+that bathes the couple in vibrant colour.
 <p>The portrait, which is devoid of any political undertones, is an ode to
 a love that spanned over six decades. Tan began painting this portrait
 on Valentine’s Day in 2009 and completed it only in 2014. When Kwa passed
@@ -272,7 +272,7 @@ his personal collection to the National Library, including artworks and
 artefacts as well as manuscripts, notebooks and monographs. These are displayed
 at the Lee Kong Chian Reference Library at the National Library Building.
 His most recent donation includes the collection of notebooks displayed
-in the exhibition.
+in the exhibition.<br><br>
 <strong>ABOUT THE EXHIBITION</strong>
 <br>
 <br>
