@@ -339,14 +339,16 @@ the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhi
 </p>
 <p></p>
 <h4><strong>Notes</strong></h4>
-<p>[^1]:Princeton University Press (Producer). (2010, October 25). <em>Michelangelo: A life on paper</em> [Video
-file]. Retrieved from Brain Pickings website.</p>
-<p>[^2]:<em>Esplanade – Theatres on the Bay</em>. (n.d.). Tan Swie Hian.
-Retrieved from Tribute.sg website.</p>
-<p>[^3]:From a personal communication with Tan Swie Hian on 27 June 2016.</p>
-<p>[^4]:Yap, S. Y. (2016). <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959" rel="noopener noreferrer nofollow" target="_blank">Anatomy of a free mind: Tan Swie Hian’s notebooks and creations</a></em>.
+[^1]:Princeton University Press (Producer). (2010, October 25). <em>Michelangelo: A life on paper</em> [Video
+file]. Retrieved from Brain Pickings website.
+
+[^2]:<em>Esplanade – Theatres on the Bay</em>. (n.d.). Tan Swie Hian. Retrieved from Tribute.sg website.
+
+[^3]:From a personal communication with Tan Swie Hian on 27 June 2016.
+
+[^4]:Yap, S. Y. (2016). <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959" rel="noopener noreferrer nofollow" target="_blank">Anatomy of a free mind: Tan Swie Hian’s notebooks and creations</a></em>.
 Singapore: National Library Board and Editions Dider Millet. Call no.:
-RSING 700.92 CHE</p>
+RSING 700.92 CHE
 <p>[^5]:Tan, S. H. (2005). <em>Tan Swie Hian</em>. Retrieved from Tan Swie
 Hian website.</p>
 <p>[^6]:National Library Board. (2014, February 26). <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e6a91100-b81b-43f7-a0f4-95d61cb3088f" rel="noopener nofollow" target="_blank">Tan Swie Hian</a> written
