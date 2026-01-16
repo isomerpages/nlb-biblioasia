@@ -115,7 +115,7 @@ More recently in May 2016, a set of six lithographed sketches done by
 former South African president Nelson Mandela – someone whom Tan greatly
 admires – and painted over by the artist was sold for HK$3.52 million (S$630,000),
 the highest-paid piece at an auction in Hong Kong. The images depict the
-hands and arms of Mandela breaking free from manacles.[^9]<p></p>
+hands and arms of Mandela breaking free from manacles.[^9]
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/02-baring-mind-soul.jpg">
 </div>
