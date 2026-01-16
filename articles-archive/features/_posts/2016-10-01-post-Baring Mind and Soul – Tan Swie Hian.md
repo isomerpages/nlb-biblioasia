@@ -9,8 +9,9 @@ variant: markdown
 ---
 #### After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artist returns to the National Library with a new solo exhibition. **Chung Sang Hong** tells you more.
 
-<img src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg" style="width 80%;">
- <div style="background-color: white;">Tan Swie Hian’s notebooks offer an inkling into the thought processes
+<div style="background-color: white;"><br>
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg" style="width: 80%;">
+Tan Swie Hian’s notebooks offer an inkling into the thought processes
 he engages in when creating his artworks. These pages show handwritten notes and a sketch of his painting “Ode to Euphrates Poplar”. Donated by Tan Swie Hian.
 <i>Collection of National Library, Singapore.</i></div>
 
