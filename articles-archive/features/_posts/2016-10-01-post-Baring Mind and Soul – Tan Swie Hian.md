@@ -305,7 +305,7 @@ February 2017).
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/baring-mind-and-soul/chung_sang_hong.png"><b>Chung Sang Hong</b> is Assistant Director (Exhibitions &amp; Curation) at the National Library, Singapore. He is the lead curator of the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhibition.</div>
-<br>
+
 <a href="/vol-12/issue-3/oct-dec-2016/" rel="noopener noreferrer nofollow" target="_blank">Back to Issue</a>
 
 #### **Notes**
