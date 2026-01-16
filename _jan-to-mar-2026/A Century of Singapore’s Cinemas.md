@@ -60,7 +60,7 @@ The others were not to be outdone though. On 3 October 1939, Singapore’s first
 
 <img src="/images/Vol%2021%20Issue%204/Cinema/cinema_16.jpg" style="width: 60%;">
 
-<div style="background-color: white;">The Marlborough on Beach Road, 1938–39. Along with the Alhambra, it was demolished in the 1970s to make way for the Shaw Towers complex. <i> RAFSA Collection, courtesy of National Archives of Singapore Media - Image no. 20170000052 - 0172). </i></div>
+<div style="background-color: white;">The 16-storey Cathay Building was Singapore’s first skyscraper, c. 1970. It was appropriated by the Japanese during the Japanese Occupation.&nbsp;<i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
 
 On 15 February 1942, the British surrendered Singapore to the Japanese after a bruising 70-day campaign that saw them retreat down the length of the Malay Peninsula. Cathay Building, which was hit by enemy gunfire, was appropriated by the Japanese during the occupation years and renamed Dai Toa Gekijo (Greater Eastern Asian Theatre). It was used as the base for Radio Syonan, and as the headquarters of the propaganda department and the military information bureau.&nbsp;
