@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 3/Family History/HeroImage_FamilyHistory.jpg
       variant: center
   - infopic:
+      title: Rediscovering Singapore Before 1800
+      subtitle: History
+      id: infopic
+      description: Piecing together the Singapore narrative before Raffles is not easy
+        but the sources are there, just waiting to be discovered.
+      button: SINGAPORE’S HISTORY DID NOT BEGIN WITH RAFFLES
+      url: /vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/
+      image: /images/Vol 22 Issue 1/1800/1800_main2.png
+      alt: Rediscovering Singapore
+  - infopic:
       title: Dance of the Fire Dragon
       subtitle: BiblioAsia Reels
       id: infopic
@@ -1098,16 +1108,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Rediscovering Singapore Before 1800
-      subtitle: History
-      id: infopic
-      description: Piecing together the Singapore narrative before Raffles is not easy
-        but the sources are there, just waiting to be discovered.
-      button: SINGAPORE’S HISTORY DID NOT BEGIN WITH RAFFLES
-      url: /vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/
-      image: /images/Vol 22 Issue 1/1800/1800_main2.png
-      alt: Rediscovering Singapore
   - infopic:
       title: The 1965 Singapore Agricultural Show
       subtitle: Culture
