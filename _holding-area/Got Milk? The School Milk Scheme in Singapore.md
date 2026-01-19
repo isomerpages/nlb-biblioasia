@@ -8,6 +8,12 @@ description: ""
 By Rebecca Tan
 
 
+<img src="/images/Vol%2022%20Issue%201/Milk/milk_main.png" style="width: 80%;">
+
+<div style="background-color: white;">Students of Tanglin Primary School drinking milk, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001175 – 0089).</i></div>
+
+
+
 In&nbsp;schools across Singapore during the 1970s and 1980s, scenes of school children chugging milk in class daily were a common sight. Singapore students did not suddenly develop a taste for the drink though. Instead, this came about thanks to the School Milk Scheme, a government initiative that began in 1974. &nbsp;
 
 #### **Why Drink Milk?**
@@ -51,6 +57,11 @@ Another teacher who could not get 20 pupils in her class to buy the milk resorte
 #### **Milk for Children Advisory Council Set Up**
 
 Possibly to further combat falling milk consumption in schools, the Consumers’ Association of Singapore set up the Milk for Children Advisory Council (MCAC) in 1982.[^17] The council complemented the Education Ministry’s efforts to encourage milk drinking in primary schools, said Ivan Baptist, the executive secretary of the Consumers’ Association.&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Milk/milk_brochure.png" style="width: 70%;">
+
+<div style="background-color: white;">The “Milk Drinkers Make Better Thinkers” brochure by the Milk for Children Advisory Council. <i>Consumers’ Association of Singapore, courtesy of National Archives of Singapore (Microfilm no. NA 1911).</i></div>
+
 
 Chaired by Nalla Tan, the council aimed to promote milk as a dietary supplement for children aged nine months and upwards, secure sponsors to supply free or subsidised milk to children too poor to afford it as part of a diet, and promote milk as a fun and nutritious drink. The council also aimed to publish literature on the promotion of milk for children, as well as give advice to parents, teachers and consumers.[^18] &nbsp;
 
