@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
-      button: Women Photographers in Singapore and Malaya
+      url: /vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/
+      button: An 800-Year-Old Family History
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Photographer/HeroImage_Photographer.jpg
+      background: /images/Vol 21 Issue 3/Family History/HeroImage_FamilyHistory.jpg
       variant: center
   - infopic:
       title: Dance of the Fire Dragon
