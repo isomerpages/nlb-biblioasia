@@ -86,31 +86,31 @@ Uma Rajan, the medical director of the School Health Services, noted that there 
 
 #### **Notes**
 
-[^1]: Chew King Hwan, “Ministry on Course That Was Scrapped and Aim of School Milk Scheme,” _Straits Times_, 8 February 1982, 15. (From NewspaperSG)
+[^1]: Chew King Hwan, “[Ministry on Course That Was Scrapped and Aim of School Milk Scheme](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820208-1.2.87.1),” _Straits Times_, 8 February 1982, 15. (From NewspaperSG)
 
-[^2]: Eugene Wijeysingha, oral history interview by Jesley Chua, 28 June 1995, transcript and MP3 audio, Reel/Disc 33 of 54, National Archives of Singapore (accession no. 001595), 406–07.
+[^2]: Eugene Wijeysingha, oral history interview by Jesley Chua, 28 June 1995, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c580183f-115f-11e3-83d5-0050568939ad-OHC001595_033/web/html5/index.html) and MP3 audio, Reel/Disc 33 of 54, National Archives of Singapore ([accession no. 001595](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001595)0), 406–07.
 
-[^3]: Eugene Wijeysingha, oral history interview, 28 June 1995, Reel/Disc 33 of 54, 406–07.
+[^3]: [Eugene Wijeysingha](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c580183f-115f-11e3-83d5-0050568939ad-OHC001595_033/web/html5/index.html), oral history interview, 28 June 1995, Reel/Disc 33 of 54, 406–07.
 
-[^4]: “Ministry Starts Sale of Milk,” _New Nation_, 15 June 1973, 5. (From NewspaperSG)
+[^4]: “[Ministry Starts Sale of Milk](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730615-1.2.33),” _New Nation_, 15 June 1973, 5. (From NewspaperSG)
 
-[^5]: “Ministry Starts Sale of Milk.”
+[^5]: “[Ministry Starts Sale of Milk](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730615-1.2.33).”
 
-[^6]: Edmund Teo, “Milk Scheme a Big Hit So Plan Will Cover 188 More Schools,” _Straits Times_, 21 September 1975, 8; Edmund Teo, “100,000 Take Part in Milk Scheme for Students,” _Straits Times_, 21 March 1976, 4. (From NewspaperSG)
+[^6]: Edmund Teo, “[Milk Scheme a Big Hit So Plan Will Cover 188 More Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19750921-1.2.39),” _Straits Times_, 21 September 1975, 8; Edmund Teo, “[100,000 Take Part in Milk Scheme for Students](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760321-1.2.16),” _Straits Times_, 21 March 1976, 4. (From NewspaperSG)
 
-[^7]: Mohd Yusoof, “Drink a Pint a Big Hit in Schools,” _Straits Times_, 19 April 1974, 6; May Ho, “‘Alarming’ Drop in Pupils Taking Part in Milk Scheme,” _Straits Times_, 26 August 1981, 10. (From NewspaperSG)
+[^7]: Mohd Yusoof, “[Drink a Pint a Big Hit in Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740419-1.2.28),” _Straits Times_, 19 April 1974, 6; May Ho, “[‘Alarming’ Drop in Pupils Taking Part in Milk Scheme](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810826-1.2.41),” _Straits Times_, 26 August 1981, 10. (From NewspaperSG)
 
-[^8]: Mohd Yusoof, “Drink a Pint a Big Hit in Schools”; Teo, “100,000 Take Part in Milk Scheme for Students.”
-
-
-[^9]: Mohd Yusoof, “Drink a Pint a Big Hit in Schools.”
-
-[^10]: Ho, “‘Alarming’ Drop in Pupils Taking Part in Milk Scheme.”
+[^8]: Mohd Yusoof, “[Drink a Pint a Big Hit in Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740419-1.2.28)”; Teo, “[100,000 Take Part in Milk Scheme for Students](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760321-1.2.16).”
 
 
-[^11]: Ho, “‘Alarming’ Drop in Pupils Taking Part in Milk Scheme.”
+[^9]: Mohd Yusoof, “[Drink a Pint a Big Hit in Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740419-1.2.28).”
 
-[^12]: May Ho, “Ministry Hopes to Boost Milk Sale to Pupils,” _Straits Times_, 9 January 1982, 14; “Schools to Get New Type of Milk,” _Straits Times_, 16 January 1982, 11. (From NewspaperSG)&nbsp;
+[^10]: Ho, “[‘Alarming’ Drop in Pupils Taking Part in Milk Scheme](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810826-1.2.41).”
+
+
+[^11]: Ho, “[‘Alarming’ Drop in Pupils Taking Part in Milk Scheme](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810826-1.2.41).”
+
+[^12]: May Ho, “[Ministry Hopes to Boost Milk Sale to Pupils](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820109-1.2.72),” _Straits Times_, 9 January 1982, 14; “Schools to Get New Type of Milk,” _Straits Times_, 16 January 1982, 11. (From NewspaperSG)&nbsp;
 
 [^13]: Hedwig Alfred, “Milk Plan Goes Sour in Some Schools,” _Straits Times_, 2 May 1984, 9. (From NewspaperSG)
 
