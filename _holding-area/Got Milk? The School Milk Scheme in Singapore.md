@@ -122,7 +122,7 @@ Uma Rajan, the medical director of the School Health Services, noted that there 
 
 [^1]: Chew King Hwan, “[Ministry on Course That Was Scrapped and Aim of School Milk Scheme](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820208-1.2.87.1),” _Straits Times_, 8 February 1982, 15. (From NewspaperSG)
 
-[^2]: Eugene Wijeysingha, oral history interview by Jesley Chua, 28 June 1995, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c580183f-115f-11e3-83d5-0050568939ad-OHC001595_033/web/html5/index.html) and MP3 audio, Reel/Disc 33 of 54, National Archives of Singapore ([accession no. 001595](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001595)0), 406–07.
+[^2]: Eugene Wijeysingha, oral history interview by Jesley Chua, 28 June 1995, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c580183f-115f-11e3-83d5-0050568939ad-OHC001595_033/web/html5/index.html) and MP3 audio, Reel/Disc 33 of 54, National Archives of Singapore ([accession no. 001595](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001595)), 406–07.
 
 [^3]: [Eugene Wijeysingha](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c580183f-115f-11e3-83d5-0050568939ad-OHC001595_033/web/html5/index.html), oral history interview, 28 June 1995, Reel/Disc 33 of 54, 406–07.
 
