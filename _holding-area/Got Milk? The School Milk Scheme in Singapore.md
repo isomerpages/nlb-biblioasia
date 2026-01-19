@@ -80,6 +80,11 @@ Chaired by Nalla Tan, the council aimed to promote milk as a dietary supplement 
 
 In January 1983, the “Name and Milk Package Design Contests” were held. To promote the contests, existing milk packs were replaced with new packaging bearing the message, “This is your milk” in a child’s handwriting, with the added text “We need a name and design. Please help”. A $10,000 cash prize was promised to the school that provided the winning entry. The “name and age of the winner and his or her school’s name” would also be printed on the new packs.[^20]&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Milk/milk_promote.png" style="width: 60%;">
+
+<div style="background-color: white;">&nbsp;To promote the nationwide “Name and Milk Package Design Contests” in January 1983, existing milk packets were replaced with new packaging bearing the message, “This is your milk” in a child’s handwriting, with the added text “We need a name and design. Please help”. <i>Source: The Straits Times, 28 December 1982, 10 © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
 Children were rewarded for drinking milk. Between June and November 1983, children who accumulated 30 milk pack flaps received a “magic” ruler and an eraser-pencil cap. The council ordered 200,000 rulers and eraser-pencil caps costing a total of $20,000 to run the promotion, which ended on 4 November that year.[^21]&nbsp;
 
 To make the milk more palatable, the council looked into introducing new flavours beyond the five initially offered. A _Straits Times_ article on 10 November 1984 noted that the council “planned to introduce local fruit flavours but found \[that\] the flavours were not available in sufficient quantities”. Furthermore, some flavours like blackcurrant and peach were not well received when tested on children.[^22]&nbsp;
