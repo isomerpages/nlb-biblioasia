@@ -110,41 +110,41 @@ Uma Rajan, the medical director of the School Health Services, noted that there 
 
 [^11]: Ho, “[‘Alarming’ Drop in Pupils Taking Part in Milk Scheme](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810826-1.2.41).”
 
-[^12]: May Ho, “[Ministry Hopes to Boost Milk Sale to Pupils](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820109-1.2.72),” _Straits Times_, 9 January 1982, 14; “Schools to Get New Type of Milk,” _Straits Times_, 16 January 1982, 11. (From NewspaperSG)&nbsp;
+[^12]: May Ho, “[Ministry Hopes to Boost Milk Sale to Pupils](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820109-1.2.72),” _Straits Times_, 9 January 1982, 14; “[Schools to Get New Type of Milk](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820116-1.2.45),” _Straits Times_, 16 January 1982, 11. (From NewspaperSG)&nbsp;
 
-[^13]: Hedwig Alfred, “Milk Plan Goes Sour in Some Schools,” _Straits Times_, 2 May 1984, 9. (From NewspaperSG)
+[^13]: Hedwig Alfred, “[Milk Plan Goes Sour in Some Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840502-1.2.18.1),” _Straits Times_, 2 May 1984, 9. (From NewspaperSG)
 
-[^14]: “Why It Isn’t Popular With Kids,” _Singapore Monitor_, 8 January 1983, 4. (From NewspaperSG); Eugene Wijeysingha, oral history interview, 28 June 1995, Reel/Disc 33 of 54, 406–07.
+[^14]: “[Why It Isn’t Popular With Kids](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19830108-1.2.10.3),” _Singapore Monitor_, 8 January 1983, 4. (From NewspaperSG); [Eugene Wijeysingha](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c580183f-115f-11e3-83d5-0050568939ad-OHC001595_033/web/html5/index.html), oral history interview, 28 June 1995, Reel/Disc 33 of 54, 406–07.
 
-[^15]: “Why It Isn’t Popular With Kids.”&nbsp;
+[^15]: “[Why It Isn’t Popular With Kids](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19830108-1.2.10.3).”&nbsp;
 
-[^16]: Alfred, “Milk Plan Goes Sour in Some Schools.”
+[^16]: Alfred, “[Milk Plan Goes Sour in Some Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840502-1.2.18.1).”
 
-[^17]: Tay Eng Soon, “Inauguration of the Milk for Children Advisory Council Singapore,” speech, Shangri-La Hotel, 8 December 1982. (From National Archives of Singapore, document no. tes19821208s); June Tan, “One in Three Goes to School Hungry...,” _Straits Times_, 9 December 1982, 40. (From NewspaperSG)
+[^17]: Tay Eng Soon, “[Inauguration of the Milk for Children Advisory Council Singapore](https://www.nas.gov.sg/archivesonline/speeches/record-details/734a06ee-115d-11e3-83d5-0050568939ad),” speech, Shangri-La Hotel, 8 December 1982. (From National Archives of Singapore, document no. tes19821208s); June Tan, “[One in Three Goes to School Hungry...](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19821209-1.2.115),” _Straits Times_, 9 December 1982, 40. (From NewspaperSG)
 
-[^18]: “Children to Get Taste of Goodness of Milk,” _Straits Times_, 9 December 1982, 13. (From NewspaperSG)
+[^18]: “[Children to Get Taste of Goodness of Milk](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19821209-1.2.59),” _Straits Times_, 9 December 1982, 13. (From NewspaperSG)
 
-[^19]: “Plan to Boost Milk’s Image Among Kids,” _Straits Times_, 30 October 1982, 14. (From NewspaperSG)
+[^19]: “[Plan to Boost Milk’s Image Among Kids](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19821030-1.2.71),” _Straits Times_, 30 October 1982, 14. (From NewspaperSG)
 
-[^20]: Ho Kah Leong, “Prize Presentation and Exhibition of the Milk for Children Advisory Council (MCAC) Name and Milk Package Design Contests,” speech, Toa Payoh Branch Library, 19 July 1983. (From National Archives of Singapore, document no. hkl19830719s); “Milk Carton for School Children Packs a Message,” _Straits Times_, 28 December 1982, 10. (From NewspaperSG)
+[^20]: Ho Kah Leong, “[Prize Presentation and Exhibition of the Milk for Children Advisory Council (MCAC) Name and Milk Package Design Contests](https://www.nas.gov.sg/archivesonline/speeches/record-details/712c2b9d-115d-11e3-83d5-0050568939ad),” speech, Toa Payoh Branch Library, 19 July 1983. (From National Archives of Singapore, document no. hkl19830719s); “[Milk Carton for School Children Packs a Message](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19821228-1.2.33),” _Straits Times_, 28 December 1982, 10. (From NewspaperSG)
 
 
-[^21]: “Gifts to Get Children to Drink More Milk,” _Straits Times_, 29 June 1983, 15. (From NewspaperSG)
+[^21]: “[Gifts to Get Children to Drink More Milk](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830629-1.2.57),” _Straits Times_, 29 June 1983, 15. (From NewspaperSG)
 
-[^22]: “1,000,000,” _Straits Times_, 10 November 1984, 15. (From NewspaperSG)
+[^22]: “[1,000,000](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19841110-1.2.24.23),” _Straits Times_, 10 November 1984, 15. (From NewspaperSG)
 
-[^23]: “Nov 13 Is Milk Day,” Straits Times, 10 November 1984, 15; “Milk Day in September,” _Straits Times_, 15 June 1984, 10; Chee Li Choo, “Big Turnout at Zoo Day of Festivities As Primary Students Celebrate Milk Day,” _Singapore Monitor_, 13 November 1984, 2. (From NewspaperSG)
+[^23]: “[Nov 13 Is Milk Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19841110-1.2.24.24),” Straits Times, 10 November 1984, 15; “[Milk Day in September](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840615-1.2.23.14),” _Straits Times_, 15 June 1984, 10; Chee Li Choo, “[Big Turnout at Zoo Day of Festivities As Primary Students Celebrate Milk Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19841113-2.2.6.1),” _Singapore Monitor_, 13 November 1984, 2. (From NewspaperSG)
 
-[^24]: Matilda Gabriel, “Children’s Spirits Get a Jumbo Lift,” _Straits Times_, 20 November 1985, 16; “Bid to Get Pupils to Continue Milk Habit,” _Straits Times_, 10 July 1987, 19. (From NewspaperSG)
+[^24]: Matilda Gabriel, “[Children’s Spirits Get a Jumbo Lift](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851120-1.2.25.25),” _Straits Times_, 20 November 1985, 16; “[Bid to Get Pupils to Continue Milk Habit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19870710-1.2.25.30),” _Straits Times_, 10 July 1987, 19. (From NewspaperSG)
 
-[^25]: “Milky Message Scores Its Goal...,” _Straits Times_, 10 March 1983, 9. (From NewspaperSG); “1,000,000.”
+[^25]: “[Milky Message Scores Its Goal...](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830310-1.2.38),” _Straits Times_, 10 March 1983, 9. (From NewspaperSG); “[1,000,000](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19841110-1.2.24.23).”
 
-[^26]: Serene Lim, “Milk Scheme Is Stopped Temporarily,” _Straits Times_, 12 August 1988, 19. (From NewspaperSG)
+[^26]: Serene Lim, “[Milk Scheme Is Stopped Temporarily](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880812-1.2.26.9),” _Straits Times_, 12 August 1988, 19. (From NewspaperSG)
 
-[^27]: Lim, “Milk Scheme Is Stopped Temporarily.”&nbsp;
+[^27]: Lim, “[Milk Scheme Is Stopped Temporarily](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880812-1.2.26.9).”&nbsp;
 
-[^28]: Lim, “Milk Scheme Is Stopped Temporarily”; “Needy Pupils Still Getting Free Milk,” _Straits Times_, 14 August 1988, 11. (From NewspaperSG)
+[^28]: Lim, “[Milk Scheme Is Stopped Temporarily](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880812-1.2.26.9)”; “[Needy Pupils Still Getting Free Milk](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880814-1.2.21.11),” _Straits Times_, 14 August 1988, 11. (From NewspaperSG)
 
-[^29]: “Needy Pupils Still Getting Free Milk.”
+[^29]: “[Needy Pupils Still Getting Free Milk](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880814-1.2.21.11).”
 
-[^30]: &nbsp;Eugene Wijeysingha, oral history interview, 28 June 1995, Reel/Disc 33 of 54, 406–07.
+[^30]: [Eugene Wijeysingha](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c580183f-115f-11e3-83d5-0050568939ad-OHC001595_033/web/html5/index.html), oral history interview, 28 June 1995, Reel/Disc 33 of 54, 406–07.
