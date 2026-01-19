@@ -109,6 +109,11 @@ The council’s initial efforts were successful. By February 1983, “about 27,0
 
 While further numbers regarding milk consumption are not available, developments suggest that the programme was running into headwinds caused by Singapore’s growing prosperity. Although the initial impetus of the milk scheme was to improve children’s nutrition, by the late 1980s, the concern became less of nutrition and more about childhood obesity. In fact, in 1988, the School Milk Scheme was temporarily stopped because health experts feared it could be a cause of obesity, according to Baptist.[^26]
 
+<img src="/images/Vol%2022%20Issue%201/Milk/milk_packs.png" style="width: 80%;">
+
+<div style="background-color: white;">Milk packs for students of Tanglin Primary School, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001175 - 0090).</i></div>
+
+
 In August that year, the seminar “Milk for Better Living” was held and some 350 principals, teachers, nutritionists, doctors and Health Ministry officers convened at the Pan Pacific Hotel to discuss who should be included in the School Milk Scheme. The seminar also reviewed the MCAC’s role in light of “the prevailing food habits, the nutritional status, and the health of schoolchildren”.[^27]&nbsp;
 
 At the seminar, council chairman Chua Sin Bin noted that “there is no direct link between obesity and the drinking of milk in schools”, contrary to the earlier concerns of health experts. He said that since January 1988, full-cream milk had been replaced with low-fat milk even though full-cream milk did not lead to obesity in children. The reason, he said, was “psychological”, and the replacement was to “stress the need to reduce the consumption of fats”.[^28]
