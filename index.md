@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/women-photographers-singapore-malaya/
-      button: Women Photographers in Singapore and Malaya
+      url: /vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/
+      button: An 800-Year-Old Family History
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Photographer/HeroImage_Photographer.jpg
+      background: /images/Vol 21 Issue 3/Family History/HeroImage_FamilyHistory.jpg
       variant: center
+  - infopic:
+      title: Rediscovering Singapore Before 1800
+      subtitle: History
+      id: infopic
+      description: Piecing together the Singapore narrative before Raffles is not easy
+        but the sources are there, just waiting to be discovered.
+      button: SINGAPORE’S HISTORY DID NOT BEGIN WITH RAFFLES
+      url: /vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/
+      image: /images/Vol 22 Issue 1/1800/1800_main2.png
+      alt: Rediscovering Singapore
   - infopic:
       title: Dance of the Fire Dragon
       subtitle: BiblioAsia Reels
@@ -1098,16 +1108,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Rediscovering Singapore Before 1800
-      subtitle: History
-      id: infopic
-      description: Piecing together the Singapore narrative before Raffles is not easy
-        but the sources are there, just waiting to be discovered.
-      button: SINGAPORE’S HISTORY DID NOT BEGIN WITH RAFFLES
-      url: /vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/
-      image: /images/Vol 22 Issue 1/1800/1800_main2.png
-      alt: Rediscovering Singapore
   - infopic:
       title: The 1965 Singapore Agricultural Show
       subtitle: Culture
