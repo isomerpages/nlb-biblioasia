@@ -36,6 +36,10 @@ At the start of the scheme, the milk was prepared by Ben Sunshine Dairies. Later
 
 Although the scheme had initial teething problems such as “late and short deliveries”, these were eventually resolved and it became popular with both teachers and students. “Response is overwhelming. The pupils enjoy the delicious milk and some of them even buy extra packets for their brothers and sisters at home,” a teacher at River Valley English School told the _Straits Times_. Seah Peng Peng, a Primary 6 pupil, said: “I like the milk very much. I think if I drink a pack every day, I will have enough vitamins, proteins and brains to help me pass my examinations.” The ministry also approved two secondary schools to participate in the scheme.[^8]&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Milk/milk_students.png" style="width: 70%;">
+
+<div style="background-color: white;">Students of River Valley English School drinking milk, 1974. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+
 School tuckshop vendors were also said to be supportive of the scheme even though business at the drinks stall dropped. They “appreciated the importance of the scheme and have given the schools their full co-operation,” the _Straits Times_ reported.[^9] &nbsp;
 
 #### **Milk Scheme Goes Off**
