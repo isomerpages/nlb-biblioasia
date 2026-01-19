@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - Got Milk? The School Milk Scheme in Singapore.md
       - Sample article.md
