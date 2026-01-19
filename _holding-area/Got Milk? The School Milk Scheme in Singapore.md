@@ -77,10 +77,7 @@ In August that year, the seminar “Milk for Better Living” was held and some 
 At the seminar, council chairman Chua Sin Bin noted that “there is no direct link between obesity and the drinking of milk in schools”, contrary to the earlier concerns of health experts. He said that since January 1988, full-cream milk had been replaced with low-fat milk even though full-cream milk did not lead to obesity in children. The reason, he said, was “psychological”, and the replacement was to “stress the need to reduce the consumption of fats”.[^28]
 
 Uma Rajan, the medical director of the School Health Services, noted that there were “changes in the dietary profiles of Primary One pupils” due to “increased spending power and the greater freedom children had in the choice and quantity of food.” Hence, “the child of the ’80s is taller and heavier than the child of the ’60s”.[^29] The observation by Rajan suggested that childhood malnutrition was much less of a problem in the 1980s than it had been in previous decades. Indeed, it seemed that by the late 1980s, obesity among children, rather than malnutrition, was a bigger concern. The milk scheme, it would appear, had outlived its usefulness. In Wijeysingha’s analysis, “gradually, as people became more affluent, there was no need to sustain this scheme” and it “died a natural death”.[^30]
-
-
-
-
+<br><br>
 <div style="background-color: white;">
 <b>Rebecca Tan</b>&nbsp;is an Archivist with the National Archives of Singapore, where she works on preservation planning and developing systems to ensure long-term access to government records.</div>
 
