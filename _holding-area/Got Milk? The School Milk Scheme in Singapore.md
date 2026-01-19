@@ -92,7 +92,7 @@ In January 1983, the “Name and Milk Package Design Contests” were held. To p
 
 <img src="/images/Vol%2022%20Issue%201/Milk/milk_promote.png" style="width: 60%;">
 
-<div style="background-color: white;">&nbsp;To promote the nationwide “Name and Milk Package Design Contests” in January 1983, existing milk packets were replaced with new packaging bearing the message, “This is your milk” in a child’s handwriting, with the added text “We need a name and design. Please help”. <i>Source: The Straits Times, 28 December 1982, 10 © SPH Media Limited. Permission required for reproduction. </i></div>
+<div style="background-color: white;">To promote the nationwide “Name and Milk Package Design Contests” in January 1983, existing milk packets were replaced with new packaging bearing the message, “This is your milk” in a child’s handwriting, with the added text “We need a name and design. Please help”. <i>Source: The Straits Times, 28 December 1982, 10 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 
 Children were rewarded for drinking milk. Between June and November 1983, children who accumulated 30 milk pack flaps received a “magic” ruler and an eraser-pencil cap. The council ordered 200,000 rulers and eraser-pencil caps costing a total of $20,000 to run the promotion, which ended on 4 November that year.[^21]&nbsp;
