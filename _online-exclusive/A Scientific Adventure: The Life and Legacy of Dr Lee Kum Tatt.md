@@ -16,7 +16,7 @@ Hearing that three of the deceased children had had homemade barley drinks befor
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/Lee_at_UOMv1.png" style="width: 55%;">
 Dr Lee Kum Tatt at the research laboratory of the University of Malaya, 1953. <i>Image reproduced from A Fabulous Journey (2012, Singapore: The Word Press). (From National Library, Singapore, call no. 540.92 LEE)</i></div>
 
-It was a race against the clock to identify and isolate the source. Lee and his small team of two laboratory assistants and a chemist worked tirelessly to prevent further fatalities. Given that all the children had had barley drinks, Lee and his team collected 15 food samples from the victims’ homes, including barley. Mice were fed cheese injected with the samples and the single mouse given the barley extract dropped dead. Further analysis showed the presence of Parathion, an insecticide banned in Singapore.[^2]
+It was a race against the clock to identify and isolate the source. Lee and his small team of two laboratory assistants and a chemist worked tirelessly to prevent further fatalities. Given that all the children had had barley drinks, Lee and his team collected 15 food samples from the victims’ homes, including barley. Mice were fed cheese injected with the samples, and the single mouse given the barley extract dropped dead. Further analysis showed the presence of Parathion, an insecticide banned in Singapore.[^2]
 
 <div style="background-color: white;">
 <br>
