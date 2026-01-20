@@ -23,7 +23,7 @@ Danaraj, who was my father, was a part-time radio and television newsreader with
 <img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/in_recording_studio.png" style="width: 80%;">   AGS Danaraj in a recording studio reading the news. <i>Courtesy of the Danaraj Family Collection.</i></div>  
 When Danaraj returned to Singapore, he spoke with a British accent, commonly known as pure “Received Pronunciation” or “The Queen’s English”. This made his voice distinctive and easily recognisable. After six months of training, he went on air.
 
-Being a part-time newsreader could occasionally be harrowing. Once, he was so late for a news-reading session because of a traffic jam that he abandoned his car at Mount Alvernia and hailed a passing police car. He asked them for a ride to the broadcasting station and the police not only gave him a lift, they even sounded their sirens to get him there.[^2]&nbsp;
+Being a part-time newsreader could occasionally be harrowing. Once, he was so late for a news-reading session because of a traffic jam that he abandoned his car at Mount Alvernia and hailed a passing police car. He asked them for a ride to the broadcasting station and the police not only gave him a lift but even sounded their sirens to get him there.[^2]&nbsp;
 
 As a newsreader, Danaraj presented more than 38 broadcasts on radio and television. He covered a diverse range of topics, from “Redeveloping Toa Payoh”[^3] and “Rebuilding the City”[^4] to “Batik-Making”[^5] and “Keeping Birds as a Hobby”.[^6]
 
