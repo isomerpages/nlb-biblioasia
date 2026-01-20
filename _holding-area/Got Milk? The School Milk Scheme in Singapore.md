@@ -30,16 +30,18 @@ The milk was supplied at 10 cents a glass from Monday to Friday, but it was free
 
 #### **As Fresh as Milk**
 
-The scheme proper was launched in February 1974 at 33 primary schools and later expanded to more schools. By the end of 1975, “children in 150 schools were drinking the milk”, with plans lined up to extend the scheme to another 140 primary schools by the end of 1976. Under the scheme, reconstituted pasteurised milk was sold at 10 cents a packet to students (this was increased to 12 cents from 1975), but children of parents receiving social welfare need not pay. The milk came in 150ml plastic packets and provided schoolchildren with a “wholesome, nutritious and low-cost snack” each day and aimed to “inculcate in them nutrition consciousness and good food habits”, said the ministry.[^6] &nbsp;
-
-At the start of the scheme, the milk was prepared by Ben Sunshine Dairies. Later on, the milk was supplied by Malaysian Dairy Industries, Singapore Cold Storage or Premier Milk. It was “delivered daily to the schools twice a day in time for recess”. Children could choose from five different flavours: vanilla, strawberry, pineapple, chocolate or for the not too choosy, plain milk.[^7] &nbsp;
-
-Although the scheme had initial teething problems such as “late and short deliveries”, these were eventually resolved and it became popular with both teachers and students. “Response is overwhelming. The pupils enjoy the delicious milk and some of them even buy extra packets for their brothers and sisters at home,” a teacher at River Valley English School told the _Straits Times_. Seah Peng Peng, a Primary 6 pupil, said: “I like the milk very much. I think if I drink a pack every day, I will have enough vitamins, proteins and brains to help me pass my examinations.” The ministry also approved two secondary schools to participate in the scheme.[^8]&nbsp;
+The scheme proper was launched in February 1974 at 33 primary schools and later expanded to more schools. By the end of 1975, “children in 150 schools were drinking the milk”, with plans lined up to extend the scheme to another 140 primary schools by the end of 1976. Under the scheme, reconstituted pasteurised milk was sold at 10 cents a packet to students (this was increased to 12 cents from 1975), but children of parents receiving social welfare need not pay. The milk came in 150ml plastic packets and provided schoolchildren with a “wholesome, nutritious and low-cost snack” each day and aimed to “inculcate in them nutrition consciousness and good food habits”, said the ministry.[^6] 
 
 
 <img src="/images/Vol%2022%20Issue%201/Milk/milk_distributing.png" style="width: 80%;">
 
 <div style="background-color: white;">A teacher distributing milk to students of River Valley English School, 1974. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+
+
+
+At the start of the scheme, the milk was prepared by Ben Sunshine Dairies. Later on, the milk was supplied by Malaysian Dairy Industries, Singapore Cold Storage or Premier Milk. It was “delivered daily to the schools twice a day in time for recess”. Children could choose from five different flavours: vanilla, strawberry, pineapple, chocolate or for the not too choosy, plain milk.[^7] &nbsp;
+
+Although the scheme had initial teething problems such as “late and short deliveries”, these were eventually resolved and it became popular with both teachers and students. “Response is overwhelming. The pupils enjoy the delicious milk and some of them even buy extra packets for their brothers and sisters at home,” a teacher at River Valley English School told the _Straits Times_. Seah Peng Peng, a Primary 6 pupil, said: “I like the milk very much. I think if I drink a pack every day, I will have enough vitamins, proteins and brains to help me pass my examinations.” The ministry also approved two secondary schools to participate in the scheme.[^8]&nbsp;
 
 
 
