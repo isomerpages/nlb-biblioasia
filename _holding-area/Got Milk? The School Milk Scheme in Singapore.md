@@ -110,12 +110,12 @@ Milk Day in 1985 was held at the zoo over two days. The 5,500 children who visit
 
 The council’s initial efforts were successful. By February 1983, “about 27,000 of the 300,000 schoolchildren in Singapore were drinking milk compared to 24,300 a year ago”. In 1983, “primary and pre-primary schools and the People’s Association kindergartens bought about 10 million packs under the milk scheme”. In 1984, “pre-schoolers and primary schoolchildren drank the same amount within 10 months”, which meant that on average, a million packets of milk were drunk per month.[^25]&nbsp;
 
-While further numbers regarding milk consumption are not available, developments suggest that the programme was running into headwinds caused by Singapore’s growing prosperity. Although the initial impetus of the milk scheme was to improve children’s nutrition, by the late 1980s, the concern became less of nutrition and more about childhood obesity. In fact, in 1988, the School Milk Scheme was temporarily stopped because health experts feared it could be a cause of obesity, according to Baptist.[^26]
-
 <img src="/images/Vol%2022%20Issue%201/Milk/milk_packs.png" style="width: 80%;">
 
 <div style="background-color: white;">Milk packs for students of Tanglin Primary School, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001175 - 0090).</i></div>
 
+
+While further numbers regarding milk consumption are not available, developments suggest that the programme was running into headwinds caused by Singapore’s growing prosperity. Although the initial impetus of the milk scheme was to improve children’s nutrition, by the late 1980s, the concern became less of nutrition and more about childhood obesity. In fact, in 1988, the School Milk Scheme was temporarily stopped because health experts feared it could be a cause of obesity, according to Baptist.[^26]
 
 In August that year, the seminar “Milk for Better Living” was held and some 350 principals, teachers, nutritionists, doctors and Health Ministry officers convened at the Pan Pacific Hotel to discuss who should be included in the School Milk Scheme. The seminar also reviewed the MCAC’s role in light of “the prevailing food habits, the nutritional status, and the health of schoolchildren”.[^27]&nbsp;
 
