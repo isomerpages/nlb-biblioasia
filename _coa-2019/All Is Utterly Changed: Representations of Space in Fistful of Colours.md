@@ -1,5 +1,5 @@
 ---
-title: ALL IS UTTERLY CHANGED Representations of Space in Fistful of Colours
+title: "All Is Utterly Changed: Representations of Space in Fistful of Colours"
 permalink: /chapters-on-asia-2019/representations-space-fistful-colours/
 variant: markdown
 description: ""
