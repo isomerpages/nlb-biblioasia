@@ -21,7 +21,7 @@ Danaraj, who was my father, was a part-time radio and television newsreader with
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/in_recording_studio.png" style="width: 80%;">   AGS Danaraj in a recording studio reading the news. <i>Courtesy of the Danaraj Family Collection.</i></div>  
-When Danaraj returned to Singapore, he spoke with a British accent, commonly known as pure “received pronunciation” or “The Queen’s English”. This made his voice distinctive and easily recognisable. After six months of training, he went on air.
+When Danaraj returned to Singapore, he spoke with a British accent, commonly known as pure “Received Pronunciation” or “The Queen’s English”. This made his voice distinctive and easily recognisable. After six months of training, he went on air.
 
 Being a part-time newsreader could occasionally be harrowing. Once, he was so late for a news-reading session because of a traffic jam that he abandoned his car at Mount Alvernia and hailed a passing police car. He asked them for a ride to the broadcasting station and the police not only gave him a lift, they even sounded their sirens to get him there.[^2]&nbsp;
 
