@@ -20,7 +20,7 @@ In&nbsp;schools across Singapore during the 1970s and 1980s, scenes of school ch
 
 In a letter to the _Straits Times_ in 1982, the Ministry of Education explained that the main objective of the scheme was “to improve and upgrade the nutritional intake of primary school children by the consumption, regularly in school, of a substantial food item”. Milk, the ministry noted, was rich in proteins, carbohydrates and calcium which were “essential for healthy physical growth in our school children”.[^1]&nbsp;
 
-Former educator and historian Eugene Wijeysingha noted that Singapore was a poor country at the time. “Don’t forget. This was the seventies. That was the time I think when people in the country hadn’t become sufficiently affluent enough. There were still poverty gaps in different parts of the island,” he said in an oral history interview in 1995.[^2] &nbsp;
+Former educator and historian Eugene Wijeysingha noted that Singapore was a poor country at the time. “Don’t forget. This was the seventies. That was the time I think when people in the country hadn’t become sufficiently affluent enough. There were still poverty gaps in different parts of the island,” he said in an oral history interview in 1995.[^2] 
 
 The milk scheme idea came from Minister for Education Lee Chiaw Meng (1972–75) who “felt that nutrition was a crucial element in the learning process of a child”, said Wijeysingha. He surmised that Lee was most likely inspired by his visit to the United Kingdom where “every child must drink half a litre or so many pints of milk every day”, which was “part of the whole national health scheme”.[^3] &nbsp;
 
