@@ -8,7 +8,7 @@ image: /images/Online Only Articles/Cats/kuching.png
 ####  In 1960, 23 unsuspecting cats found themselves being airdropped into Bario, Sarawak, as part of a rat-busting operation.
 By Ho Sie Sie
 
-In tropical Sarawak, it often rains cats and dogs. On 17 March 1960, somewhat unusually, it rained only cats – 23 cats to be precise. The cats, together with 7,000 lb (3,175 kg) of equipment and supplies, were parachuted by the Royal Air Force (RAF) into Bario in the Kelabit Highlands in Sarawak, from a height of 400 ft (122 m). “It ‘rained’ cats in the Bario District of the Kelabit Highlands in Sarawak,” announced the _Singapore Free Press_.[^1]
+In tropical Sarawak, it often rains cats and dogs. On 17 March 1960, somewhat unusually, it rained only cats – 23 cats, to be precise. The cats, together with 7,000 lb (3,175 kg) of equipment and supplies, were parachuted by the Royal Air Force (RAF) into Bario in the Kelabit Highlands in Sarawak, from a height of 400 ft (122 m). “It ‘rained’ cats in the Bario District of the Kelabit Highlands in Sarawak,” announced the _Singapore Free Press_.[^1]
 
 After five test runs over the drop zone, the cats were dropped off via a “giant Beverly transport” plane. The _Straits Times_ reported that “\[h\]undreds of excited Kelabits on the ground watched the big operation which took more than an hour".[^2]
 
@@ -19,12 +19,12 @@ After five test runs over the drop zone, the cats were dropped off via a “gian
 	
 #### 	**Operation Cat Drop**
 
-Bario is a remote hamlet in the Kelabit highlands deep in the interior of Sarawak. In 1960, Bario’s rice crops were plagued by an infestation of rats. Their call for help was answered by Kuching, Sarawak’s capital. Kuching (which means ‘cat’ in Malay and is also known as the City of Cats) appealed for at least 30 cats (ultimately they were only able to find 23) for the mission. The cats were to be “packed expertly into wicker baskets and parachuted into the padi”[^4] to combat the aggressive rats. Located 4,500 ft above sea level and inaccessible by road,[^5] the RAF felt that the easiest way to send the cats to Bario was by air.
+Bario is a remote hamlet in the Kelabit highlands deep in the interior of Sarawak. In 1960, Bario’s rice crops were plagued by an infestation of rats. Their call for help was answered by Kuching, Sarawak’s capital. Kuching (which means ‘cat’ in Malay and is also known as the City of Cats) appealed for at least 30 cats (ultimately they were only able to find 23) for the mission. The cats were to be “packed expertly into wicker baskets and parachuted into the padi”[^4] to combat the aggressive rats. The RAF felt that the easiest way to send the cats to Bario, which was located 4,500 ft above sea level and inaccessible by road, was by air.[^5]
 
 <img src="/images/Online%20Only%20Articles/Cats/kuching.png" style="width: 85%;">
 <div style="background-color: white;">Kuching is also known as the City of Cats, 2009. <i>From Wikimedia Commons.</i></div>
 
-A month after the “army of cats from heaven” were released, the Kelabit sent Kuching this message on 18 April 1960: “Thanks for the cats – no more trouble with rats and mice.”[^6]
+A month after the “army of cats from heaven” was released, the Kelabit sent Kuching this message on 18 April 1960: “Thanks for the cats – no more trouble with rats and mice.”[^6]
 
 #### **Flying (and Falling) Felines**
 
@@ -35,13 +35,13 @@ However, a few months after that, the _Straits Times_ reported without ambiguity
 <img src="/images/Online%20Only%20Articles/Cats/valetta.png" style="width: 85%;">
 <div style="background-color: white;">A Valetta in Singapore, 1953. <i>Courtesy of National Archives of Singapore.</i></div>
 
-A jungle fort in north Malaya had requested for cats to chase away rats and mice that had been destroying their food supplies. To deliver the animals to the remote location, the RAF wanted to see if was possible to parachute the animals down.[^8]
+A jungle fort in north Malaya had requested cats to chase away rats and mice that had been destroying their food supplies. To deliver the animals to the remote location, the RAF wanted to see if it was possible to parachute the animals down.[^8]
 
 The cats seemed to take the experience well. “\[The cats\] both seemed quite jolly about the whole thing. They were none the worse for the parachute drop... When the seals were broken, the two cats jumped out of their airborne container, licked their paws, and walked away,” the _Straits Times_ on 21 June 1954 reported an officer of 55 Company RASC (Royal Army Service Corps) Air Despatch as saying. Deeming the experiment a success, the plan was for the cats to be parachuted later that week to do their job in their new home.[^9]
 
 ####  **Other Cat Missions**
 
-While the cats were undoubtedly excellent hunters, the platoons of airborne cats were not always successful in their missions. One tragic event took place in Sarawak in the mid-1960s. During Konfrontasi (the Indonesia-Malaysia confrontation) in mid-1960s, Australian military units were stationed in Sarawak to protect Malaysia from potential attacks by Indonesian forces.[^10] When the Australian troops took over the position in 1965, they found it was “overrun by large rats”. They asked the RASC for five cats to resolve the problem. The cats were obtained from the Kuching Veterinary Department by the RASC.[^11]
+While the cats were undoubtedly excellent hunters, the platoons of airborne cats were not always successful in their missions. One tragic event took place in Sarawak in the mid-1960s. During Konfrontasi (the Indonesia-Malaysia confrontation), Australian military units were stationed in Sarawak to protect Malaysia from potential attacks by Indonesian forces.[^10] When the Australian troops took over the position in 1965, they found it was “overrun by large rats”. They asked the RASC for five cats to resolve the problem. The cats were obtained from the Kuching Veterinary Department by the RASC.[^11]
 
 However, on 22 April 1965, the _Straits Times_ reported the sad news that “\[the\] five cats air-dropped into a frontline position of the 3rd Bn. (Battalion), Royal Australian Regiment, south-east of \[Kuching\], to fight an invasion of rats, have become war casualties". The Australians reported that the cats had been killed by the large and aggressive rats. The _Sarawak Tribune_ suggested to use tame pythons, which were “recognised Sarawak rodent exterminators”. [^12]
 

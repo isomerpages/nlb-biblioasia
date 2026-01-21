@@ -20,7 +20,7 @@ In&nbsp;schools across Singapore during the 1970s and 1980s, scenes of school ch
 
 In a letter to the _Straits Times_ in 1982, the Ministry of Education explained that the main objective of the scheme was “to improve and upgrade the nutritional intake of primary school children by the consumption, regularly in school, of a substantial food item”. Milk, the ministry noted, was rich in proteins, carbohydrates and calcium which were “essential for healthy physical growth in our school children”.[^1]&nbsp;
 
-Former educator and historian Eugene Wijeysingha noted that Singapore was a poor country at the time. “Don’t forget. This was the seventies. That was the time I think when people in the country hadn’t become sufficiently affluent enough. There were still poverty gaps in different parts of the island,” he said in an oral history interview in 1995.[^2] &nbsp;
+Former educator and historian Eugene Wijeysingha noted that Singapore was a poor country at the time. “Don’t forget. This was the seventies. That was the time I think when people in the country hadn’t become sufficiently affluent enough. There were still poverty gaps in different parts of the island,” he said in an oral history interview in 1995.[^2] 
 
 The milk scheme idea came from Minister for Education Lee Chiaw Meng (1972–75) who “felt that nutrition was a crucial element in the learning process of a child”, said Wijeysingha. He surmised that Lee was most likely inspired by his visit to the United Kingdom where “every child must drink half a litre or so many pints of milk every day”, which was “part of the whole national health scheme”.[^3] &nbsp;
 
@@ -30,16 +30,18 @@ The milk was supplied at 10 cents a glass from Monday to Friday, but it was free
 
 #### **As Fresh as Milk**
 
-The scheme proper was launched in February 1974 at 33 primary schools and later expanded to more schools. By the end of 1975, “children in 150 schools were drinking the milk”, with plans lined up to extend the scheme to another 140 primary schools by the end of 1976. Under the scheme, reconstituted pasteurised milk was sold at 10 cents a packet to students (this was increased to 12 cents from 1975), but children of parents receiving social welfare need not pay. The milk came in 150ml plastic packets and provided schoolchildren with a “wholesome, nutritious and low-cost snack” each day and aimed to “inculcate in them nutrition consciousness and good food habits”, said the ministry.[^6] &nbsp;
-
-At the start of the scheme, the milk was prepared by Ben Sunshine Dairies. Later on, the milk was supplied by Malaysian Dairy Industries, Singapore Cold Storage or Premier Milk. It was “delivered daily to the schools twice a day in time for recess”. Children could choose from five different flavours: vanilla, strawberry, pineapple, chocolate or for the not too choosy, plain milk.[^7] &nbsp;
-
-Although the scheme had initial teething problems such as “late and short deliveries”, these were eventually resolved and it became popular with both teachers and students. “Response is overwhelming. The pupils enjoy the delicious milk and some of them even buy extra packets for their brothers and sisters at home,” a teacher at River Valley English School told the _Straits Times_. Seah Peng Peng, a Primary 6 pupil, said: “I like the milk very much. I think if I drink a pack every day, I will have enough vitamins, proteins and brains to help me pass my examinations.” The ministry also approved two secondary schools to participate in the scheme.[^8]&nbsp;
+The scheme proper was launched in February 1974 at 33 primary schools and later expanded to more schools. By the end of 1975, “children in 150 schools were drinking the milk”, with plans lined up to extend the scheme to another 140 primary schools by the end of 1976. Under the scheme, reconstituted pasteurised milk was sold at 10 cents a packet to students (this was increased to 12 cents from 1975), but children of parents receiving social welfare need not pay. The milk came in 150ml plastic packets and provided schoolchildren with a “wholesome, nutritious and low-cost snack” each day and aimed to “inculcate in them nutrition consciousness and good food habits”, said the ministry.[^6] 
 
 
 <img src="/images/Vol%2022%20Issue%201/Milk/milk_distributing.png" style="width: 80%;">
 
 <div style="background-color: white;">A teacher distributing milk to students of River Valley English School, 1974. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+
+
+
+At the start of the scheme, the milk was prepared by Ben Sunshine Dairies. Later on, the milk was supplied by Malaysian Dairy Industries, Singapore Cold Storage or Premier Milk. It was “delivered daily to the schools twice a day in time for recess”. Children could choose from five different flavours: vanilla, strawberry, pineapple, chocolate or for the not too choosy, plain milk.[^7] &nbsp;
+
+Although the scheme had initial teething problems such as “late and short deliveries”, these were eventually resolved and it became popular with both teachers and students. “Response is overwhelming. The pupils enjoy the delicious milk and some of them even buy extra packets for their brothers and sisters at home,” a teacher at River Valley English School told the _Straits Times_. Seah Peng Peng, a Primary 6 pupil, said: “I like the milk very much. I think if I drink a pack every day, I will have enough vitamins, proteins and brains to help me pass my examinations.” The ministry also approved two secondary schools to participate in the scheme.[^8]&nbsp;
 
 
 
@@ -76,6 +78,11 @@ Possibly to further combat falling milk consumption in schools, the Consumers’
 
 Chaired by Nalla Tan, the council aimed to promote milk as a dietary supplement for children aged nine months and upwards, secure sponsors to supply free or subsidised milk to children too poor to afford it as part of a diet, and promote milk as a fun and nutritious drink. The council also aimed to publish literature on the promotion of milk for children, as well as give advice to parents, teachers and consumers.[^18] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Milk/milk_promote.png" style="width: 60%;">
+
+<div style="background-color: white;">To promote the nationwide “Name and Milk Package Design Contests” in January 1983, existing milk packets were replaced with new packaging bearing the message, “This is your milk” in a child’s handwriting, with the added text “We need a name and design. Please help”. <i>Source: The Straits Times, 28 December 1982, 10 © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
 <img src="/images/Vol%2022%20Issue%201/Milk/milk_naila.png" style="width: 80%;">
 
 <div style="background-color: white;">Nalla Tan, chairman of the Milk for Children Advisory Council, drinking milk with the top three winners of the “Name and Milk Package Design Contests”, 1983. (From left) The winners are Leong Jenn Gan of Rosyth School, Winnie Kuek Suyin of River Valley Kindergarten and Tom A. Rozario of Anglo-Chinese Primary School.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001422 - 0089).</i></div>
@@ -90,10 +97,6 @@ Chaired by Nalla Tan, the council aimed to promote milk as a dietary supplement 
 
 In January 1983, the “Name and Milk Package Design Contests” were held. To promote the contests, existing milk packs were replaced with new packaging bearing the message, “This is your milk” in a child’s handwriting, with the added text “We need a name and design. Please help”. A $10,000 cash prize was promised to the school that provided the winning entry. The “name and age of the winner and his or her school’s name” would also be printed on the new packs.[^20]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Milk/milk_promote.png" style="width: 60%;">
-
-<div style="background-color: white;">To promote the nationwide “Name and Milk Package Design Contests” in January 1983, existing milk packets were replaced with new packaging bearing the message, “This is your milk” in a child’s handwriting, with the added text “We need a name and design. Please help”. <i>Source: The Straits Times, 28 December 1982, 10 © SPH Media Limited. Permission required for reproduction. </i></div>
-
 
 Children were rewarded for drinking milk. Between June and November 1983, children who accumulated 30 milk pack flaps received a “magic” ruler and an eraser-pencil cap. The council ordered 200,000 rulers and eraser-pencil caps costing a total of $20,000 to run the promotion, which ended on 4 November that year.[^21]&nbsp;
 
@@ -107,12 +110,12 @@ Milk Day in 1985 was held at the zoo over two days. The 5,500 children who visit
 
 The council’s initial efforts were successful. By February 1983, “about 27,000 of the 300,000 schoolchildren in Singapore were drinking milk compared to 24,300 a year ago”. In 1983, “primary and pre-primary schools and the People’s Association kindergartens bought about 10 million packs under the milk scheme”. In 1984, “pre-schoolers and primary schoolchildren drank the same amount within 10 months”, which meant that on average, a million packets of milk were drunk per month.[^25]&nbsp;
 
-While further numbers regarding milk consumption are not available, developments suggest that the programme was running into headwinds caused by Singapore’s growing prosperity. Although the initial impetus of the milk scheme was to improve children’s nutrition, by the late 1980s, the concern became less of nutrition and more about childhood obesity. In fact, in 1988, the School Milk Scheme was temporarily stopped because health experts feared it could be a cause of obesity, according to Baptist.[^26]
-
 <img src="/images/Vol%2022%20Issue%201/Milk/milk_packs.png" style="width: 80%;">
 
 <div style="background-color: white;">Milk packs for students of Tanglin Primary School, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001175 - 0090).</i></div>
 
+
+While further numbers regarding milk consumption are not available, developments suggest that the programme was running into headwinds caused by Singapore’s growing prosperity. Although the initial impetus of the milk scheme was to improve children’s nutrition, by the late 1980s, the concern became less of nutrition and more about childhood obesity. In fact, in 1988, the School Milk Scheme was temporarily stopped because health experts feared it could be a cause of obesity, according to Baptist.[^26]
 
 In August that year, the seminar “Milk for Better Living” was held and some 350 principals, teachers, nutritionists, doctors and Health Ministry officers convened at the Pan Pacific Hotel to discuss who should be included in the School Milk Scheme. The seminar also reviewed the MCAC’s role in light of “the prevailing food habits, the nutritional status, and the health of schoolchildren”.[^27]&nbsp;
 

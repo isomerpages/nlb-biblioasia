@@ -21,7 +21,7 @@ In this interview, which has been condensed and edited for clarity, Jimmy Yap sp
 So, Victor, the first edition of the book was <i>[Toponymics: A Study of Singapore Street Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758)</i>, but the title and subtitle are switched around in the [fourth edition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205854725). Why the change?
 
 <b>Victor</b><br>
-The original title was Toponymics. But the publisher said “Aiyoh, every time people ask what is toponymics.” They find it a strange word. And finally, the publisher said put “Singapore street names” as the title so people will know, and the subtitle as “a study of toponymics”. Topo means “place” and nymics means “name”. Streets only came about when cities developed; before that it was all place names, no such thing as street names. 
+The original title was Toponymics. But the publisher said “Aiyoh, every time people ask what is toponymics.” They find it a strange word. And finally, the publisher said put “Singapore Street Names” as the title so people will know, and the subtitle as “A Study of Toponymics”. Topo means “place” and nymics means “name”. Streets only came about when cities developed; before that it was all place names, no such thing as street names. 
 
 Because we now live in an urban environment, we talk about street names, but basically place names are the main thing. I wrote a long article on the study of toponymics in the [<i>International Encyclopedia of Human Geography</i>](https://www.sciencedirect.com/science/article/abs/pii/B9780080449104009846). It's a big academic topic with all sorts of academics writing on it: linguists, anthropologists, political scientists, sociologists, geographers and historians. 
 
@@ -124,7 +124,7 @@ And she wrote that Farquhar is the most underrepresented in Singapore history an
 Are there any interesting anecdotes on the new entries?
 
 <b>Victor</b><br>
-One of the things I find with road naming during Singapore’s post-independent phase was that it was very controversial. The irony is that the first-generation leaders are not at all represented in roads. There is no Lee Kuan Yew Road, no Goh Keng Swee Road, no Barker Road, no Hon Sui Sen Road, no Goh Keng Swee Road, no Othman Wok Road. No presidents are named in roads; no Devan Nair Road or Benjamin Sheares Road. There’s Benjamin Sheares Bridge. No Wee Kim Wee Road and all that. What they have are institutions and buildings, but no roads. I was in the road naming committee for a very short while. I was booted out. I don't care where anyone was from. I spoke very frankly.
+One of the things I find with road naming during Singapore’s post-independent phase was that it was very controversial. The irony is that the first-generation leaders are not at all represented in roads. There is no Lee Kuan Yew Road, no Goh Keng Swee Road, no Barker Road, no Hon Sui Sen Road, no Othman Wok Road. No presidents are named in roads; no Devan Nair Road or Benjamin Sheares Road. There’s Benjamin Sheares Bridge. No Wee Kim Wee Road and all that. What they have are institutions and buildings, but no roads. I was in the road naming committee for a very short while. I was booted out. I don't care where anyone was from. I spoke very frankly.
 
 <b>Jimmy</b><br>
 What happened when you were on the road naming committee?
@@ -136,7 +136,7 @@ I don't know whether this is confidential. The committee was concerned about two
 That would be nice. 
 
 <b>Victor</b><br> 
-We talked about Changi Airport being named after Lee Kuan Yew, just like the Kennedy airport. We can have the LKY Airport. All these suggestions were there, but nothing never took off. I don't know whether the minister or whoever was too nervous to bring up these things. 
+We talked about Changi Airport being named after Lee Kuan Yew, just like the Kennedy airport. We can have the LKY Airport. All these suggestions were there, but nothing ever took off. I don't know whether the minister or whoever was too nervous to bring up these things. 
 
 There’s one more reason for the book: Petain Road. There’s a French guy who owns a gallery. He was very upset that there was a road named after Philippe Pétain [head of the collaborationist regime of Vichy France during the Second World War]. He got hold of the residents of Petain Road. And 14 of them wanted to have the road name changed. I don't know how they got me into the picture. They said my name carries more weight when I write to the minister. So, I was the guy who wrote the petition with all their inputs. 
 
@@ -150,7 +150,7 @@ About two, three years ago. I wrote to the minister in charge at that time, Grac
 It’s a compelling reason.
 
 <b>Victor</b><br> 
-I wrote twice to the minister on Petain Road, and nothing has happened. There is a precedence for changing road names. It’s recorded in the Hansard. We weren’t disrupting anything. There's no need for a new road name. We can just extend another road to cover Petain Road. 
+I wrote twice to the minister on Petain Road, and nothing has happened. There is a precedent for changing road names. It’s recorded in the Hansard. We weren’t disrupting anything. There's no need for a new road name. We can just extend another road to cover Petain Road. 
 
 <b>Jimmy</b><br>
 Very clever. It can be very political.
@@ -196,7 +196,7 @@ There are many bloggers, and these people have a lot of information. But there a
 They went to the Portuguese Church.
 
 <b>Victor</b><br>
-The churches and schools were there. On one side of Middle Road near Mount Sophia was the Jewish community. Bencoolen Street was the Malay community, because Malays from Bencoolen, Sumatra went there. We go down Middle Road, where there's a big Japanese community. Further down at Beach Road is the Hainanese community. Middle Street is very interesting. Different ethnic groups are all parked in different areas. But then again, how do we get the word “middle”? One theory is that it’s middle between Singapore River and Kampong Glam.
+The churches and schools were there. On one side of Middle Road near Mount Sophia was the Jewish community. Bencoolen Street was the Malay community, because Malays from Bencoolen, Sumatra went there. We go down Middle Road, where there's a big Japanese community. Further down at Beach Road is the Hainanese community. Middle Street is very interesting. Different ethnic groups are all parked in different areas. But then again, how do we get the word “middle”? One theory is that it’s [in the] middle between Singapore River and Kampong Glam.
 	
 	
 <img style="width:80%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/middle_road.png">

@@ -23,13 +23,13 @@ It was a race against the clock to identify and isolate the source. Lee and his 
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/at_work_in_lab.png" style="width: 80%;">
 Dr Lee Kum Tatt (left) and his team, Theng Chye Yam (middle) and Ng Hon Wing (right), at work in the laboratory in search of the toxin that killed eight children in 1959.&nbsp;<i> Image reproduced from “Barley Deaths: The Lab Boys Get to Work…,” Straits Budget, 16 September 1959, 13. (From NewspaperSG).</i></div>
 
-The incident might have been the first time the public had heard of Lee, but over the years, he would go on to play a leading role in building scientific infrastructure in the country: this includes Singapore government’s Department of Chemistry, the Science Council, Singapore Polytechnic, the Singapore Institute of Standards and Industrial Research (SISIR), and the Singapore Science Centre. These contributions are all the more impressive when set in their historical context – the dangerous, uncertain Malaya of the mid-20th century.
+The incident might have been the first time the public had heard of Lee, but over the years, he would go on to play a leading role in building scientific infrastructure in the country: this includes the Singapore government’s Department of Chemistry, the Science Council, Singapore Polytechnic, the Singapore Institute of Standards and Industrial Research (SISIR), and the Singapore Science Centre. These contributions are all the more impressive when set in their historical context – the dangerous, uncertain Malaya of the mid-20th century.
 
 #### **Early Years**
 
 While he described himself as “quite apolitical,”[^3] Lee was nonetheless swept up in the dramatic political currents of his time – from the Second World War and violent postwar nationalism, to the Malayan Emergency and Malayanisation of the civil service.
 
-His frequent relocations testify to the comparatively porous world that existed then. Born in Medan, Indonesia, in 1927, Lee moved to Penang, Malaysia, when he was six months old to live with his maternal grandparents. In 1940, he returned to his parents in Medan. Within a year, war broke out and the island was occupied by the Japanese.
+His frequent relocations testify to the comparatively porous world that existed then. Born in Medan, Indonesia, in 1927, Lee moved to Penang, Malaya, when he was six months old to live with his maternal grandparents. In 1940, he returned to his parents in Medan. Within a year, war broke out, and the island was occupied by the Japanese.
 
 Lee described those years as “very traumatic”.[^4] He stopped school and undertook jobs like selling charcoal, black marketing and farming. And yet, at least retrospectively, he thought those years did him some good, ridding him of “ego and false pride” while teaching him to value honour and dignity instead.[^5]
 
@@ -40,7 +40,7 @@ The end of the war saw clashes between Indonesian nationalists and the Dutch who
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/science_students.jpg" style="width: 80%;">
 Science students from the 1948 cohort at Raffles College, 1948. <i>Raffles College Collection, courtesy of National Archives of Singapore.</i></div>
 
-Lee attained his Bachelor of Science three years later, in 1951. He graduated with honours under a Shell Scholarship the following year. Raffles College and the King Edward VII College of Medicine had merged to form the University of Malaya in 1949, which meant Lee was among one of the first cohorts to graduate from the new university.[^7]
+Lee attained his Bachelor of Science three years later, in 1951. He graduated with honours under a Shell Scholarship the following year. Raffles College and the King Edward VII College of Medicine had merged to form the University of Malaya in 1949, which meant Lee was among the first cohorts to graduate from the new university.[^7]
 
 Unfortunately, Lee graduated during the Malayan Emergency (1948–60), the violent guerrilla war between the anti-colonial Communist Party of Malaya and the colonial government.[^8] When visiting the Rubber Research Institute in Kuala Lumpur for a prospective job, Lee was taken around in an armoured car for protection. That experience brought home the gravity of the situation: “That did it. I decided if I have to go up to work in Sungei Buloh with an armoured car, I’m not going to have it.”[^9]
 
@@ -57,7 +57,7 @@ Lee turned down an offer from Shell to work in Brunei and went on to work in the
 
 An early issue was differential treatment – Lee had been hired after completing his PhD. He was therefore appalled when an Australian woman with only a bachelor’s degree without honours was hired without going through the rigorous hiring process he had. She even commanded a higher salary than him. Lee confronted the expatriate department director and was told that his “PhD \[was\] not worth as much as the B.Sc. in Australia”. Lee raised the issue with the then Secretary of the Senior Officers’ Association and later Minister for Labour K.M. Byrne. The Australian woman left after a few days, ending the saga.[^11]
 
-Another instance was when Lee decided to try to simplify the long and tedious procedure used to analyse traces of lead and copper in wine. The chief chemist, another expatriate officer, was extremely dismissive of him, arguing that British chemists would have long discovered such a method were it viable. Lee nonetheless persisted and the success of his new method spoke for itself, winning a newfound respect from the chief chemist.[^12]
+Another instance was when Lee decided to try to simplify the long and tedious procedure used to analyse traces of lead and copper in wine. The chief chemist, another expatriate officer, was extremely dismissive of him, arguing that British chemists would have long discovered such a method were it viable. Lee nonetheless persisted, and the success of his new method spoke for itself, winning a newfound respect from the chief chemist.[^12]
 
 Lee quickly gained more administrative responsibilities, becoming a key builder of the nation’s scientific institutions. In 1959, when the People's Action Party (PAP) came into power, Lee was appointed to the board of Singapore Polytechnic by Deputy Prime Minister Toh Chin Chye. Lee recalled his expatriate boss, the Director of Chemistry, being enraged at not having been consulted on Lee’s appointment. But Toh curtly responded that since Singapore had attained self-government, he no longer had to obtain anyone’s permission for appointments. The old colonial entitlements held increasingly little weight in the newly decolonising nation.[^13]
 
@@ -65,14 +65,14 @@ Lee quickly gained more administrative responsibilities, becoming a key builder 
 
 Singapore’s need to cultivate scientific talent only intensified in later years, particularly after its departure from the Federation of Malaysia in 1965. In 1967, Lee became the first chairman of the new Singapore Science Council, dedicated to improving the country’s R&amp;D potential by cultivating both manpower and forging connections with foreign scientific bodies.[^14]
 
-Singapore became a member of the International Atomic Energy Agency (IAEA) in 1967, and the Science Council hosted the IAEA’s first research coordination meeting in November that same year.[^15] As Science Council chairman, Lee opened the conference by announcing that the IAEA had agreed to provide technical assistance to set up a radio-isotope diagnostic laboratory and in the development of radiotherapy facilities, particularly in healthcare.[^16]
+Singapore became a member of the International Atomic Energy Agency (IAEA) in 1967, and the Science Council hosted the IAEA’s first research coordination meeting in November that same year.[^15] As Science Council chairman, Lee opened the conference by announcing that the IAEA had agreed to provide technical assistance to set up a radio-isotope diagnostic laboratory and develope radiotherapy facilities, particularly in healthcare.[^16]
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_iaea.jpg" style="width: 80%;">
 Dr Lee Kum Tatt at the International Atomic Energy Agency research coordination meeting at the Singapore Conference Hall in 1967.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-In 1969, the Science Council held the Science Ball, an event that sought to raise money for a proposed Science Endowment Fund. Nearly 500 scientists, industrialists and businessmen attended, with Prime Minister Lee Kuan Yew and his wife Kwa Geok Choo as the guests-of-honour. At the ball, the council awarded its inaugural gold medal to Dr T.G. Ling, an industrial chemist who had contributed to modern poultry and pig farming.[^17] From then, the gold medal was presented annually to someone who had made significant contributions to science in the nation.
+In 1969, the Science Council held the Science Ball, an event that sought to raise money for a proposed Science Endowment Fund. Nearly 500 scientists, industrialists and businessmen attended, with Prime Minister Lee Kuan Yew and his wife Kwa Geok Choo as the guests-of-honour. At the ball, the council awarded its inaugural gold medal to Dr T.G. Ling, an industrial chemist who had contributed to modern poultry and pig farming.[^17] From then on, the gold medal was presented annually to someone who had made significant contributions to science in the nation.
 
 <div style="background-color: white;">
 <br>
@@ -120,7 +120,7 @@ Students from St Joseph’s Convent answering questions in the first round of th
 
 In 1979, the Science Council awarded Lee its gold medal to recognise his contributions to the “scientific, technological and industrial development of the Republic”.[^29] In 2005, he was awarded the Distinguished Alumni Award by the National University of Singapore’s Faculty of Science. In his foreword to Lee’s autobiography, _A Fabulous Journey_, Lee’s early mentor Professor Rayson Huang (then Vice-Chancellor of the University of Hong Kong) noted that Lee cherished this 2005 award above all others because “\[Lee\] Kum Tatt always regarded himself as a Scientist, and Chemistry held a special place in his heart”.[^30]
 
-Lee died in 2008 and his integral role in shaping science in Singapore has largely gone unknown and unacknowledged by the wider public. However, his dedication to creating a more scientific society has left behind a sprawling and indelible legacy through the range of institutions he built up, which continue to shape the nation today.
+Lee died in 2008, and his integral role in shaping science in Singapore has largely gone unknown and unacknowledged by the wider public. However, his dedication to creating a more scientific society has left behind a sprawling and indelible legacy through the range of institutions he built up, which continue to shape the nation today.
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/sharad_pandian.png"><b>Sharad Pandian</b> graduated from Nanyang Technological University with a degree in physics before pursuing a Master of Philosophy in history and philosophy of science at the University of Cambridge as a Gates-Cambridge Scholar. Sharad is interested in the history of science and standardisation in Asia. He is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022–23).</div>  

@@ -13,7 +13,7 @@ Local giant Tiger Beer dominates the scene, and indeed has been doing so for dec
 
 #### **Reliance on Imported Beer**
 
-Both Anchor and Tiger beers go back to the early 1930s. Before that, the beer consumed in Singapore was entirely imported.[^2] Some brands include Carlsberg (Scandinavia), Worthington (Britain) and Sakura (Japan). These beers were expensive, especially after accounting for transportation and other logistical costs. Beer in the 1930s cost an average of 20 cents, which might not seem like much, but this was about half the daily standard wages for labourers back then (40 and 32 cents per day for men and women respectively).[^3]
+Both Anchor and Tiger beers go back to the early 1930s. Before that, the beer consumed in Singapore was entirely imported.[^2] Some brands included are Carlsberg (Scandinavia), Worthington (Britain) and Sakura (Japan). These beers were expensive, especially after accounting for transportation and other logistical costs. Beer in the 1930s cost an average of 20 cents, which might not seem like much, but this was about half the daily standard wages for labourers back then (40 and 32 cents per day for men and women respectively).[^3]
 
 <img src="/images/Online%20Only%20Articles/Beer/worthington_carlsberg.png" style="width: 85%;">
 <div style="background-color: white;">(Left) A 1930 Worthington advertisement. <i>Image reproduced from "Worthington," Straits Times, 28 October 1930, 1 (From NewspaperSG).</i> (Right) A 1916 advertisement for Carlsberg. <i>Image reproduced from “Drink! Drink! Carlsberg Beer!,” Singapore Free Press and Mercantile Advertiser (1884–1942), 9 May 1916, 9. (From NewspaperSG).</i></div>
@@ -22,16 +22,16 @@ Seeing a gap in the industry, The Straits Brewery Limited proposed in 1904 to st
 
 #### **From Aerated Water to Liquid Gold**
 
-The story of local beer brewing in Singapore really starts with Fraser &amp; Neave (better known as F&amp;N), though the company was not set up to brew beer. Indeed, it didn’t take on this name until later. In 1883, Englishmen John Fraser and David Chalmers Neave founded the Singapore and Straits Aerated Water Company and by 1890, the company specialised in manufacturing “soda water, seltzer water, potass water, lemonade, tonic, ginger ale” for Singapore’s clubs, hotels and residences. From just 20 employees, the company grew to become one of the island’s largest companies with 63 employees and branches in other parts of Malaya and Asia by 1913.[^5] In 1898, the business went public and was renamed Fraser &amp; Neave.[^6]
+The story of local beer brewing in Singapore really starts with Fraser &amp; Neave (better known as F&amp;N), though the company was not set up to brew beer. Indeed, it didn’t take on this name until later. In 1883, Englishmen John Fraser and David Chalmers Neave founded the Singapore and Straits Aerated Water Company, and by 1890, the company specialised in manufacturing “soda water, seltzer water, potass water, lemonade, tonic, ginger ale” for Singapore’s clubs, hotels and residences. From just 20 employees, the company grew to become one of the island’s largest companies with 63 employees and branches in other parts of Malaya and Asia by 1913.[^5] In 1898, the business went public and was renamed Fraser &amp; Neave.[^6]
 
-The start of World War One (1914–18) saw F&amp;N reducing capacity to survive and it took years after the war ended for it to recover. F&amp;N then decided to partner with one of Holland’s most important breweries, Heineken. The partnership allowed both companies to further their development and expansion. Heineken was able to gain a foothold in Asia while F&amp;N had access to Heineken’s technical expertise in brewing quality beer.[^7] This partnership led to the establishment of Malayan Breweries Limited, the first modern brewery (located behind Alexandra Brickworks) built in Singapore with a capital of $1 million in 1931.[^8]
+The start of World War One (1914–18) saw F&amp;N reducing capacity to survive, and it took years after the war ended for it to recover. F&amp;N then decided to partner with one of Holland’s most important breweries, Heineken. The partnership allowed both companies to further their development and expansion. Heineken was able to gain a foothold in Asia while F&amp;N had access to Heineken’s technical expertise in brewing quality beer.[^7] This partnership led to the establishment of Malayan Breweries Limited, the first modern brewery (located behind Alexandra Brickworks) built in Singapore with a capital of $1 million in 1931.[^8]
 
 <img src="/images/Online%20Only%20Articles/Beer/malayan_breweries.png" style="width: 85%;">
 <div style="background-color: white;">Malayan Breweries Limited was the first modern brewery built in Singapore behind Alexandra Brickworks, 1962. <i>Source: Straits Times, 17 November 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The happy product of that marriage was born in 1932 when Tiger Beer, a homegrown lager beer, made its debut. At its launch, beer was given away for free and “over two hundred guests … \[were\] given as much beer as they desired, and an eloquent tribute to the new beverage lay in the fact that many who were not regular drinkers asked for a second glass, while others had a third.”[^9]
 
-Tiger Beer was an instant success, particularly among British servicemen in Malaya due to its refreshing taste and affordable price. Within two years of its launch, Tiger Beer accounted for over two-thirds of beer consumed in British Malaya.[^10]
+Tiger Beer was an instant success, particularly among British servicemen in Malaya, due to its refreshing taste and affordable price. Within two years of its launch, Tiger Beer accounted for over two-thirds of beer consumed in British Malaya.[^10]
 
 <img src="/images/Online%20Only%20Articles/Beer/tiger_beer.png" style="width: 55%;">
 <div style="background-color: white;">A 1932 advertisement for Tiger Beer. <i>Image reproduced from “Tiger Beer,” Singapore Free Press and Mercantile Advertiser, 8 October 1932, 20. (From NewspaperSG).</i></div>
@@ -40,21 +40,21 @@ The success of Malayan Breweries was largely due to the technical expertise prov
 
 #### **Time for a Tiger!**
 
-Tiger Beer was launched with the catchphrase “Time for a Tiger” in 1932. A tagline still familiar with many today, the phrase was subsequently made famous by British author Anthony Burgess, who named his 1956 novel _Time for a Tiger_. This book was the first instalment of his Malayan trilogy, _The Long Day Wanes_.[^12]
+Tiger Beer was launched with the catchphrase “Time for a Tiger” in 1932. A tagline still familiar to many today, the phrase was subsequently made famous by British author Anthony Burgess, who named his 1956 novel _Time for a Tiger_. This book was the first instalment of his Malayan trilogy, _The Long Day Wanes_.[^12]
 
-By 1935, Malayan Breweries had turned its attention toward exporting Tiger Beer, which had started to gain popularity beyond the Malayan market in countries like Hong Kong.[^13] It expanded its brewery twice – in 1937 and 1939 – to keep up with the growing demand.[^14]
+By 1935, Malayan Breweries had turned its attention towards exporting Tiger Beer, which had started to gain popularity beyond the Malayan market in countries like Hong Kong.[^13] It expanded its brewery twice – in 1937 and 1939 – to keep up with the growing demand.[^14]
 
 <img src="/images/Online%20Only%20Articles/Beer/business_drink_beer.png" style="width: 85%;">
 <div style="background-color: white;">Tiger Beer was advertised as a nutritious health drink. (Left)<i>Image reproduced from "The Hustling Business Man," Straits Times, 1 December 1932, 13. (From NewspaperSG).</i> (Right)<i> Image reproduced from "Drink Tiger Beer," Straits Times, 16 September 1935, 13. (From NewspaperSG).</i></div>
 
 #### **Tiger’s Rival**
 
-Malayan Breweries, however, was not alone in eyeing the local beer-drinking market. In 1933, Archipelago Brewery Company (ABC) opened Singapore’s second brewery, which was also located along Alexandra Road. ABC was backed by Messrs O’Wehry and Co. of Batavia, and Beck's Brewery from Germany, whose beers had been imported into Malaya since 1893. ABC also boasted a million-dollar set up and claimed to have a production capacity of 450,000 gallons of beer a year.
+Malayan Breweries, however, was not alone in eyeing the local beer-drinking market. In 1933, Archipelago Brewery Company (ABC) opened Singapore’s second brewery, which was also located along Alexandra Road. ABC was backed by Messrs O’Wehry and Co. of Batavia, and Beck's Brewery from Germany, whose beers had been imported into Malaya since 1893. ABC also boasted a million-dollar setup and claimed to have a production capacity of 450,000 gallons of beer a year.
 
 <img src="/images/Online%20Only%20Articles/Beer/archipelago_breweries.png" style="width: 85%;">
 <div style="background-color: white;">Archipegalo Brewery Company (ABC) was built at Alexandra Road in 1933. It was later acquired by Malayan Breweries. <i>Source: Straits Times, 17 November 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
 
-ABC became synonymous with its main brew, Anchor Beer, a light pilsener that used English hops and Australian malt.[^15] It also produced Diamond Pilsener, Goat’s Head Stout and ABC Stout. To promote Anchor, ABC partnered with the Phoenix Aerated Water Works to give the beer away for free with each delivered order of Phoenix Aerated Water.[^16] ABC also worked with Phoenix Aerated Water Works for its retail distribution, which allowed Anchor to be delivered directly to customers at unchanged prices.[^17]
+ABC became synonymous with its main brew, Anchor Beer, a light pilsener that used English hops and Australian malt.[^15] It also produced Diamond Pilsener, Goat’s Head Stout and ABC Stout. To promote Anchor, ABC partnered with the Phoenix Aerated Water Works to give the beer away for free with each delivered order of Phoenix Aerated Water.[^16] ABC also worked with Phoenix Aerated Water Works for its retail distribution, which allowed Anchor to be delivered directly to customers at the same price.[^17]
 
 <img src="/images/Online%20Only%20Articles/Beer/anchor_beer.png" style="width: 55%;">
 <div style="background-color: white;">Advertisement for Anchor Beer. <i>Image reproduced from "The Cure for Thirst," Straits Times, 30 July 1934, 15. (From NewspaperSG).</i></div><br>
@@ -67,13 +67,13 @@ When war broke out in Europe in 1939, the Germans who were managing ABC left Sin
 
 The war saw the government implementing new import duties and “wartime taxes” from 1 December 1939, causing an increase in sale prices of beer. Adding to this was a shortage of raw materials needed to brew the beer.
 
-The increase in cost did not reduce the demand for beer. In fact, there was an increase in demand for “intoxicating drink” such as beer, whiskey and champagne. For instance, $600,000 worth of liquor was consumed during the holiday season in 1940. This was equivalent to more than 160,000 gallons of alcohol, with beer and ale accounting for almost half of the total at about 75,000 gallons.[^21]
+The increase in cost did not reduce the demand for beer. In fact, there was an increase in demand for “intoxicating drinks” such as beer, whiskey and champagne. For instance, $600,000 worth of liquor was consumed during the holiday season in 1940. This was equivalent to more than 160,000 gallons of alcohol, with beer and ale accounting for almost half of the total at about 75,000 gallons.[^21]
 
 During the Japanese Occupation of Singapore, the breweries were seized by the Japanese and renamed Kirin Beer Kaisha.[^22] The Japanese military authorities reopened the breweries in 1942,[^23] hiring locals to work there. However, their hiring process was sometimes unorthodox. For instance, Jocelyn Simon De Souza had been hired by the Japanese to “start the \[ABC\] brewery”[^24] because his “Japanese friend had spoken highly” of him and he “look\[ed\] like a very nice person”.[^25] He had worked at APC, the Asiatic Petroleum Company, and had no experience in brewing. Unfazed, De Souza picked up a book on brewing and learnt on the job. 
 
 \[Listen to Jocelyn Simon De Souza’s story <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad">here</a>.\]
 
-According to De Souza, employees at the brewery were entitled to 18 small bottles of beer, which was particularly useful as an object of barter during the Occupation years. A bottle of beer then cost about 30 to 50 cents and De Souza remembered his wife would exchange beer for a chance to buy meat.[^26]
+According to De Souza, employees at the brewery were entitled to 18 small bottles of beer, which was particularly useful as an object of barter during the Occupation years. A bottle of beer then cost about 30 to 50 cents, and De Souza remembered his wife would exchange beer for a chance to buy meat.[^26]
 
 When the raw materials to brew beer started to run out, De Souza “start\[ed\] to reduce the malt content in the brew and increase with local rice content… then it came to the stage where \[they\] couldn’t reduce anymore.”[^27] This was not a sustainable solution as the beer’s quality was affected. Despite the Japanese importing malt from Japan, it was still not enough to maintain the usual strength of Tiger Beer.
 
@@ -95,7 +95,7 @@ Dr Leonard Bels, the brew master at Malayan Breweries from 1949 to 1974, noted t
 <img src="/images/Online%20Only%20Articles/Beer/20190000006_img0007.png" style="width: 85%;">
 <div style="background-color: white;">An employee overseeing the filling and bottling of Tiger Beer on the bottling line at the brewery, 1960s. <i>E. Wolters Collection, courtesy of National Archives of Singapore.</i></div>
 
-Malayan Breweries continued to grow from strength to strength. It extended its foothold and influence beyond Singapore and Malaya by acquiring subsidiary companies and breweries in Papua New Guinea in 1955 and New Zealand in 1956.[^33] By 1968, Tiger Beer was being exported to the United States, the Middle East, Africa, Bulgaria, Thailand, Indonesia, Australia, and New Zealand.[^34] By 1981, the company had “reached a new record for beer sales” in beer exports from Singapore, including the production of Heineken and Amstel beer”.[^35]
+Malayan Breweries continued to grow from strength to strength. It extended its foothold and influence beyond Singapore and Malaya by acquiring subsidiary companies and breweries in Papua New Guinea in 1955 and New Zealand in 1956.[^33] By 1968, Tiger Beer was being exported to the United States, the Middle East, Africa, Bulgaria, Thailand, Indonesia, Australia, and New Zealand.[^34] By 1981, the company had “reached a new record for beer sales” in beer exports from Singapore, "including the production of Heineken and Amstel beer”.[^35]
 
 In 1990, Malayan Breweries changed its name to Asia Pacific Breweries (Singapore) Limited (APB) with a new logo to reflect its global status more accurately.[^36] In 2013, APB became fully owned by The Heineken Company. Today, Tiger Beer is brewed in 11 countries and available in more than 75. [^37] It has even appeared in films such as the Marvel superhero movie _The Winter Soldier_ and the spine-chilling horror flick _IT Chapter Two_.[^38]
 
