@@ -13,7 +13,7 @@ Local giant Tiger Beer dominates the scene, and indeed has been doing so for dec
 
 #### **Reliance on Imported Beer**
 
-Both Anchor and Tiger beers go back to the early 1930s. Before that, the beer consumed in Singapore was entirely imported.[^2] Some brands include Carlsberg (Scandinavia), Worthington (Britain) and Sakura (Japan). These beers were expensive, especially after accounting for transportation and other logistical costs. Beer in the 1930s cost an average of 20 cents, which might not seem like much, but this was about half the daily standard wages for labourers back then (40 and 32 cents per day for men and women respectively).[^3]
+Both Anchor and Tiger beers go back to the early 1930s. Before that, the beer consumed in Singapore was entirely imported.[^2] Some brands included are Carlsberg (Scandinavia), Worthington (Britain) and Sakura (Japan). These beers were expensive, especially after accounting for transportation and other logistical costs. Beer in the 1930s cost an average of 20 cents, which might not seem like much, but this was about half the daily standard wages for labourers back then (40 and 32 cents per day for men and women respectively).[^3]
 
 <img src="/images/Online%20Only%20Articles/Beer/worthington_carlsberg.png" style="width: 85%;">
 <div style="background-color: white;">(Left) A 1930 Worthington advertisement. <i>Image reproduced from "Worthington," Straits Times, 28 October 1930, 1 (From NewspaperSG).</i> (Right) A 1916 advertisement for Carlsberg. <i>Image reproduced from “Drink! Drink! Carlsberg Beer!,” Singapore Free Press and Mercantile Advertiser (1884–1942), 9 May 1916, 9. (From NewspaperSG).</i></div>
