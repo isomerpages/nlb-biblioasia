@@ -35,7 +35,7 @@ However, a few months after that, the _Straits Times_ reported without ambiguity
 <img src="/images/Online%20Only%20Articles/Cats/valetta.png" style="width: 85%;">
 <div style="background-color: white;">A Valetta in Singapore, 1953. <i>Courtesy of National Archives of Singapore.</i></div>
 
-A jungle fort in north Malaya had requested for cats to chase away rats and mice that had been destroying their food supplies. To deliver the animals to the remote location, the RAF wanted to see if was possible to parachute the animals down.[^8]
+A jungle fort in north Malaya had requested cats to chase away rats and mice that had been destroying their food supplies. To deliver the animals to the remote location, the RAF wanted to see if was possible to parachute the animals down.[^8]
 
 The cats seemed to take the experience well. “\[The cats\] both seemed quite jolly about the whole thing. They were none the worse for the parachute drop... When the seals were broken, the two cats jumped out of their airborne container, licked their paws, and walked away,” the _Straits Times_ on 21 June 1954 reported an officer of 55 Company RASC (Royal Army Service Corps) Air Despatch as saying. Deeming the experiment a success, the plan was for the cats to be parachuted later that week to do their job in their new home.[^9]
 
