@@ -78,14 +78,14 @@ Possibly to further combat falling milk consumption in schools, the Consumers’
 
 Chaired by Nalla Tan, the council aimed to promote milk as a dietary supplement for children aged nine months and upwards, secure sponsors to supply free or subsidised milk to children too poor to afford it as part of a diet, and promote milk as a fun and nutritious drink. The council also aimed to publish literature on the promotion of milk for children, as well as give advice to parents, teachers and consumers.[^18] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Milk/milk_naila.png" style="width: 80%;">
-
-<div style="background-color: white;">Nalla Tan, chairman of the Milk for Children Advisory Council, drinking milk with the top three winners of the “Name and Milk Package Design Contests”, 1983. (From left) The winners are Leong Jenn Gan of Rosyth School, Winnie Kuek Suyin of River Valley Kindergarten and Tom A. Rozario of Anglo-Chinese Primary School.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001422 - 0089).</i></div>
-
-
 <img src="/images/Vol%2022%20Issue%201/Milk/milk_promote.png" style="width: 60%;">
 
 <div style="background-color: white;">To promote the nationwide “Name and Milk Package Design Contests” in January 1983, existing milk packets were replaced with new packaging bearing the message, “This is your milk” in a child’s handwriting, with the added text “We need a name and design. Please help”. <i>Source: The Straits Times, 28 December 1982, 10 © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
+<img src="/images/Vol%2022%20Issue%201/Milk/milk_naila.png" style="width: 80%;">
+
+<div style="background-color: white;">Nalla Tan, chairman of the Milk for Children Advisory Council, drinking milk with the top three winners of the “Name and Milk Package Design Contests”, 1983. (From left) The winners are Leong Jenn Gan of Rosyth School, Winnie Kuek Suyin of River Valley Kindergarten and Tom A. Rozario of Anglo-Chinese Primary School.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001422 - 0089).</i></div>
 
 
 “The council wants to create a general acceptance of milk as a nutritional drink,” said Baptist. “More importantly, we want children to enjoy the drink and not force it down their throats.” To make milk more attractive to children, the council planned to ask milk manufacturers to “package their product more attractively”.[^19] It also got children involved in the design of milk packages.
