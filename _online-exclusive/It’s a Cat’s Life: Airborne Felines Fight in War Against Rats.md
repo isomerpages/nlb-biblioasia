@@ -19,7 +19,7 @@ After five test runs over the drop zone, the cats were dropped off via a “gian
 	
 #### 	**Operation Cat Drop**
 
-Bario is a remote hamlet in the Kelabit highlands deep in the interior of Sarawak. In 1960, Bario’s rice crops were plagued by an infestation of rats. Their call for help was answered by Kuching, Sarawak’s capital. Kuching (which means ‘cat’ in Malay and is also known as the City of Cats) appealed for at least 30 cats (ultimately they were only able to find 23) for the mission. The cats were to be “packed expertly into wicker baskets and parachuted into the padi”[^4] to combat the aggressive rats. Located 4,500 ft above sea level and inaccessible by road,[^5] the RAF felt that the easiest way to send the cats to Bario was by air.
+Bario is a remote hamlet in the Kelabit highlands deep in the interior of Sarawak. In 1960, Bario’s rice crops were plagued by an infestation of rats. Their call for help was answered by Kuching, Sarawak’s capital. Kuching (which means ‘cat’ in Malay and is also known as the City of Cats) appealed for at least 30 cats (ultimately they were only able to find 23) for the mission. The cats were to be “packed expertly into wicker baskets and parachuted into the padi”[^4] to combat the aggressive rats. The RAF felt that the easiest way to send the cats to Bario, which was located 4,500 ft above sea level and inaccessible by road, was by air.[^5]
 
 <img src="/images/Online%20Only%20Articles/Cats/kuching.png" style="width: 85%;">
 <div style="background-color: white;">Kuching is also known as the City of Cats, 2009. <i>From Wikimedia Commons.</i></div>
