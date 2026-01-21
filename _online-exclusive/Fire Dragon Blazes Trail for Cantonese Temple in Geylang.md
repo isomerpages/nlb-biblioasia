@@ -9,11 +9,11 @@ image: /images/Online Only Articles/Cantonese Fire
 #### **Mun San Fook Tuck Chee Temple is the home of the Fire Dragon in Singapore.**
 By Angela Sim
 
-Dragons are known to breathe fire but one particular dragon, seen every three years in Singapore, does something even more dramatic – it eventually becomes engulfed in flames.
+Dragons are known to breathe fire, but one particular dragon, seen every three years in Singapore, does something even more dramatic – it eventually becomes engulfed in flames.
 
 The Straw Fire Dragon (稻草香火龍) has a body that is made from straw wrapped around a rattan frame. The head and body of the dragon bristle with lit joss sticks that eventually set the entire dragon on fire, ending the performance.
 
-This particular dragon dance is only performed once every three years, on the second day of the second lunar month to celebrate the birthday of the Earth Deity or Tu Di Ye Ye (土地爷爷). It is organised by the Sar Kong Mun San Fook Tuck Chee Temple (沙岡萬山福德祠) in Sims Drive in Geylang. The Fire Dragon dance originated in Guangdong province in China and the temple decided to perform this dance in the late 1980s.[^1]
+This particular dragon dance is only performed once every three years, on the second day of the second lunar month to celebrate the birthday of the Earth Deity or Tu Di Ye Ye (土地爷爷). It is organised by the Sar Kong Mun San Fook Tuck Chee Temple (沙岡萬山福德祠) in Sims Drive in Geylang. The Fire Dragon dance originated in Guangdong province in China, and the temple decided to perform this dance in the late 1980s.[^1]
 
 <div style="background-color: white;">
 <br>
@@ -24,7 +24,7 @@ A Fire Dragon at the Sar Kong Heritage Room, 2023. <i>Courtesy of Edmund Lau.</i
 
 #### **The Making of a Dragon**
 
-The first Fire Dragon that the temple made was a simple one. It was made of “banana fronds and paper for the head”. Chin Fook Siang, the chairman of the Mun San Fook Tuck Chee Temple, recalled that it cost $2,400 to produce. The money came from funds that were pooled together thanks to small donations from the temple’s patrons – “just 20 cents, 30 cents, or 50 cents only” – and generous contributions from Chin himself and two other temple committee members. The reason why the temple decided to make a Fire Dragon unfortunately has been lost to time.
+The first Fire Dragon that the temple made was a simple one. It was made of “banana fronds and paper for the head”. Chin Fook Siang, the chairman of the Mun San Fook Tuck Chee Temple, recalled that it cost $2,400 to produce. The money came from funds that were pooled together thanks to small donations from the temple’s patrons – “just 20 cents, 30 cents, or 50 cents only” – and generous contributions from Chin himself and two other temple committee members. The reason why the temple decided to make a Fire Dragon has unfortunately been lost to time.
 
 The Fire Dragon’s first performance was in 1989, on the 15th day of the eighth lunar month. After conferring with the temple elders, the then-Chairman of the temple (who was also the owner of Tiger Brand soy sauce) invited the Fire Dragon (or rather, the presence of the deity) into the temple. Since then, the temple has taken on the responsibility of continuing the Fire Dragon dance. &nbsp;
 
