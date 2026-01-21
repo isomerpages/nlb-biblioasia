@@ -73,7 +73,7 @@ During the Japanese Occupation of Singapore, the breweries were seized by the Ja
 
 \[Listen to Jocelyn Simon De Souza’s story <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad">here</a>.\]
 
-According to De Souza, employees at the brewery were entitled to 18 small bottles of beer, which was particularly useful as an object of barter during the Occupation years. A bottle of beer then cost about 30 to 50 cents and De Souza remembered his wife would exchange beer for a chance to buy meat.[^26]
+According to De Souza, employees at the brewery were entitled to 18 small bottles of beer, which was particularly useful as an object of barter during the Occupation years. A bottle of beer then cost about 30 to 50 cents, and De Souza remembered his wife would exchange beer for a chance to buy meat.[^26]
 
 When the raw materials to brew beer started to run out, De Souza “start\[ed\] to reduce the malt content in the brew and increase with local rice content… then it came to the stage where \[they\] couldn’t reduce anymore.”[^27] This was not a sustainable solution as the beer’s quality was affected. Despite the Japanese importing malt from Japan, it was still not enough to maintain the usual strength of Tiger Beer.
 
@@ -95,7 +95,7 @@ Dr Leonard Bels, the brew master at Malayan Breweries from 1949 to 1974, noted t
 <img src="/images/Online%20Only%20Articles/Beer/20190000006_img0007.png" style="width: 85%;">
 <div style="background-color: white;">An employee overseeing the filling and bottling of Tiger Beer on the bottling line at the brewery, 1960s. <i>E. Wolters Collection, courtesy of National Archives of Singapore.</i></div>
 
-Malayan Breweries continued to grow from strength to strength. It extended its foothold and influence beyond Singapore and Malaya by acquiring subsidiary companies and breweries in Papua New Guinea in 1955 and New Zealand in 1956.[^33] By 1968, Tiger Beer was being exported to the United States, the Middle East, Africa, Bulgaria, Thailand, Indonesia, Australia, and New Zealand.[^34] By 1981, the company had “reached a new record for beer sales” in beer exports from Singapore, including the production of Heineken and Amstel beer”.[^35]
+Malayan Breweries continued to grow from strength to strength. It extended its foothold and influence beyond Singapore and Malaya by acquiring subsidiary companies and breweries in Papua New Guinea in 1955 and New Zealand in 1956.[^33] By 1968, Tiger Beer was being exported to the United States, the Middle East, Africa, Bulgaria, Thailand, Indonesia, Australia, and New Zealand.[^34] By 1981, the company had “reached a new record for beer sales” in beer exports from Singapore, "including the production of Heineken and Amstel beer”.[^35]
 
 In 1990, Malayan Breweries changed its name to Asia Pacific Breweries (Singapore) Limited (APB) with a new logo to reflect its global status more accurately.[^36] In 2013, APB became fully owned by The Heineken Company. Today, Tiger Beer is brewed in 11 countries and available in more than 75. [^37] It has even appeared in films such as the Marvel superhero movie _The Winter Soldier_ and the spine-chilling horror flick _IT Chapter Two_.[^38]
 
