@@ -126,7 +126,7 @@ These eggs soon became an addition to the ongoing diplomatic practice of gifting
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/19980001401_IMG0014.jpg" style="width: 80%;">
 Tsutako Nakasone (with glasses), wife of Japanese Prime Minister Yasuhiro Nakasone, observes RISIS’ creations at the Setsco facility in 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-Imitation might be the highest form of flattery, but in the commercial world, it is also illegal. Forgeries of RISIS products did not just reduce sales, they also threatened its reputation. In 1985, for example, a curious Japanese tourist hammered open a gold-plated egg he bought, only to find a rotten raw egg inside. Furious at having shelled out more than a hundred dollars for his eggs, he marched to Setsco to complain.
+Imitation might be the highest form of flattery, but in the commercial world, it is also illegal. Forgeries of RISIS products did not just reduce sales, they also threatened its reputation. In 1985, for example, a curious Japanese tourist hammered open a gold-plated egg he had bought, only to find a rotten raw egg inside. Furious at having shelled out more than a hundred dollars for his eggs, he marched to Setsco to complain.
 
 Fortunately for Setsco (but unfortunately for the Japanese tourist), he had bought imitation eggs. Genuine RISIS eggs were always emptied before being gold-plated. In fact, Lee had complained that when they started making these eggs, he “had to eat omelette for the next 20 days”.[^42]
 
