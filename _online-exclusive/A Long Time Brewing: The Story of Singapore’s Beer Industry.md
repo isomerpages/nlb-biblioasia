@@ -49,12 +49,12 @@ By 1935, Malayan Breweries had turned its attention towards exporting Tiger Beer
 
 #### **Tiger’s Rival**
 
-Malayan Breweries, however, was not alone in eyeing the local beer-drinking market. In 1933, Archipelago Brewery Company (ABC) opened Singapore’s second brewery, which was also located along Alexandra Road. ABC was backed by Messrs O’Wehry and Co. of Batavia, and Beck's Brewery from Germany, whose beers had been imported into Malaya since 1893. ABC also boasted a million-dollar set up and claimed to have a production capacity of 450,000 gallons of beer a year.
+Malayan Breweries, however, was not alone in eyeing the local beer-drinking market. In 1933, Archipelago Brewery Company (ABC) opened Singapore’s second brewery, which was also located along Alexandra Road. ABC was backed by Messrs O’Wehry and Co. of Batavia, and Beck's Brewery from Germany, whose beers had been imported into Malaya since 1893. ABC also boasted a million-dollar setup and claimed to have a production capacity of 450,000 gallons of beer a year.
 
 <img src="/images/Online%20Only%20Articles/Beer/archipelago_breweries.png" style="width: 85%;">
 <div style="background-color: white;">Archipegalo Brewery Company (ABC) was built at Alexandra Road in 1933. It was later acquired by Malayan Breweries. <i>Source: Straits Times, 17 November 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
 
-ABC became synonymous with its main brew, Anchor Beer, a light pilsener that used English hops and Australian malt.[^15] It also produced Diamond Pilsener, Goat’s Head Stout and ABC Stout. To promote Anchor, ABC partnered with the Phoenix Aerated Water Works to give the beer away for free with each delivered order of Phoenix Aerated Water.[^16] ABC also worked with Phoenix Aerated Water Works for its retail distribution, which allowed Anchor to be delivered directly to customers at unchanged prices.[^17]
+ABC became synonymous with its main brew, Anchor Beer, a light pilsener that used English hops and Australian malt.[^15] It also produced Diamond Pilsener, Goat’s Head Stout and ABC Stout. To promote Anchor, ABC partnered with the Phoenix Aerated Water Works to give the beer away for free with each delivered order of Phoenix Aerated Water.[^16] ABC also worked with Phoenix Aerated Water Works for its retail distribution, which allowed Anchor to be delivered directly to customers at the same price.[^17]
 
 <img src="/images/Online%20Only%20Articles/Beer/anchor_beer.png" style="width: 55%;">
 <div style="background-color: white;">Advertisement for Anchor Beer. <i>Image reproduced from "The Cure for Thirst," Straits Times, 30 July 1934, 15. (From NewspaperSG).</i></div><br>
@@ -67,7 +67,7 @@ When war broke out in Europe in 1939, the Germans who were managing ABC left Sin
 
 The war saw the government implementing new import duties and “wartime taxes” from 1 December 1939, causing an increase in sale prices of beer. Adding to this was a shortage of raw materials needed to brew the beer.
 
-The increase in cost did not reduce the demand for beer. In fact, there was an increase in demand for “intoxicating drink” such as beer, whiskey and champagne. For instance, $600,000 worth of liquor was consumed during the holiday season in 1940. This was equivalent to more than 160,000 gallons of alcohol, with beer and ale accounting for almost half of the total at about 75,000 gallons.[^21]
+The increase in cost did not reduce the demand for beer. In fact, there was an increase in demand for “intoxicating drinks” such as beer, whiskey and champagne. For instance, $600,000 worth of liquor was consumed during the holiday season in 1940. This was equivalent to more than 160,000 gallons of alcohol, with beer and ale accounting for almost half of the total at about 75,000 gallons.[^21]
 
 During the Japanese Occupation of Singapore, the breweries were seized by the Japanese and renamed Kirin Beer Kaisha.[^22] The Japanese military authorities reopened the breweries in 1942,[^23] hiring locals to work there. However, their hiring process was sometimes unorthodox. For instance, Jocelyn Simon De Souza had been hired by the Japanese to “start the \[ABC\] brewery”[^24] because his “Japanese friend had spoken highly” of him and he “look\[ed\] like a very nice person”.[^25] He had worked at APC, the Asiatic Petroleum Company, and had no experience in brewing. Unfazed, De Souza picked up a book on brewing and learnt on the job. 
 
