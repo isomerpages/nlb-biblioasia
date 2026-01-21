@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-3/oct-dec-2025/chung-kwang-tong-family-zupu/
-      button: An 800-Year-Old Family History
+      url: /vol-12/issue-3/oct-dec-2016/publichouse-pvtlives/
+      button: Public Housing, Private Lives
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 3/Family History/HeroImage_FamilyHistory.jpg
+      background: /images/Vol-12-issue-3/public-housing-private-lives/Hero_Tiong_Bahru_Flat_Dwellers.png
       variant: center
   - infopic:
       title: Rediscovering Singapore Before 1800
