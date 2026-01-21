@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-12/issue-3/oct-dec-2016/publichouse-pvtlives/
-      button: Public Housing, Private Lives
+      button: Dr Liu Thai Ker’s contributions to public housingns to public housing
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
