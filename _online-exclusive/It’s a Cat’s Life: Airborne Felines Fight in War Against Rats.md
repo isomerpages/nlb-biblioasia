@@ -24,7 +24,7 @@ Bario is a remote hamlet in the Kelabit highlands deep in the interior of Sarawa
 <img src="/images/Online%20Only%20Articles/Cats/kuching.png" style="width: 85%;">
 <div style="background-color: white;">Kuching is also known as the City of Cats, 2009. <i>From Wikimedia Commons.</i></div>
 
-A month after the “army of cats from heaven” were released, the Kelabit sent Kuching this message on 18 April 1960: “Thanks for the cats – no more trouble with rats and mice.”[^6]
+A month after the “army of cats from heaven” was released, the Kelabit sent Kuching this message on 18 April 1960: “Thanks for the cats – no more trouble with rats and mice.”[^6]
 
 #### **Flying (and Falling) Felines**
 
