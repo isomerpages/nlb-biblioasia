@@ -1,6 +1,6 @@
 ---
 title: Got Milk? The School Milk Scheme in Singapore
-permalink: /holding-area/vol-22/issue-1/apr-jun-2026/the-school-milk-scheme-in-singapore/
+permalink: /vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/
 variant: markdown
 description: ""
 ---

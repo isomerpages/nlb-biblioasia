@@ -4,6 +4,13 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/">**Got Milk? The School Milk Scheme in Singapore**</a>
+
+In the 1970s and 1980s, primary school children were encouraged to drink milk in school until the initiative curdled in the late 1980s.
+ 
+<img src="/images/Vol%2022%20Issue%201/Milk/milk_main.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/">**Rediscovering Singapore Before 1800: How Newly Retrieved Sources are Changing the Story**</a>
 
 Piecing together the Singapore narrative before Raffles is not easy but the sources are there, just waiting to be discovered.
