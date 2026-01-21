@@ -40,7 +40,7 @@ The end of the war saw clashes between Indonesian nationalists and the Dutch who
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/science_students.jpg" style="width: 80%;">
 Science students from the 1948 cohort at Raffles College, 1948. <i>Raffles College Collection, courtesy of National Archives of Singapore.</i></div>
 
-Lee attained his Bachelor of Science three years later, in 1951. He graduated with honours under a Shell Scholarship the following year. Raffles College and the King Edward VII College of Medicine had merged to form the University of Malaya in 1949, which meant Lee was among one of the first cohorts to graduate from the new university.[^7]
+Lee attained his Bachelor of Science three years later, in 1951. He graduated with honours under a Shell Scholarship the following year. Raffles College and the King Edward VII College of Medicine had merged to form the University of Malaya in 1949, which meant Lee was among the first cohorts to graduate from the new university.[^7]
 
 Unfortunately, Lee graduated during the Malayan Emergency (1948–60), the violent guerrilla war between the anti-colonial Communist Party of Malaya and the colonial government.[^8] When visiting the Rubber Research Institute in Kuala Lumpur for a prospective job, Lee was taken around in an armoured car for protection. That experience brought home the gravity of the situation: “That did it. I decided if I have to go up to work in Sungei Buloh with an armoured car, I’m not going to have it.”[^9]
 
