@@ -162,7 +162,7 @@ One of Jin Hua Fu Ren’s Shi Er Nai Niang, 2008. <i>Courtesy of Ang Yik Han.</i
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Hua_Tuo_Xian_Shi.jpg" style="width: 60%;">
 Hua Tuo Xian Shi, 2008. <i>Courtesy of Ang Yik Han.</i></div>
 
-The temple is also home to Hua Tuo Xian Shi (华陀先师 or Wah To), a legendary physician in the _Annals of the Three Kingdoms_. He is the patron deity of physicians and many immigrants prayed to him to resolve medical issues in the absence of access to healthcare.
+The temple is also home to Hua Tuo Xian Shi (华陀先师 or Wah To), a legendary physician in the _Annals of the Three Kingdoms_. He is the patron deity of physicians, and many immigrants prayed to him to resolve medical issues in the absence of access to healthcare.
 
 The temple used to be the centre of _kampung_ life.&nbsp;Chin, who is also the Vice-Chairman of the Taoist Federation Singapore, has lived most of his life near the temple. The temple owned much of the land surrounding it, which it rented out.&nbsp;
 
