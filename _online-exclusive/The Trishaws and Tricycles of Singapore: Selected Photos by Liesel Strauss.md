@@ -15,7 +15,7 @@ These photographs of trishaws and cargo tricycles in Singapore in the 1990s and 
 These photos make up just a small handful of pictures of Singapore that Liesel took before she and her husband left Singapore. Others include Singapore street scenes, food, and even vanishing local trades. Liesel’s photographs reveal both her passion for the medium and her love for heritage. Thanks to her curiosity and her camera, we can revisit not only the different facets of the humble trishaw and cargo tricycle but other aspects of Singapore life that we might have otherwise forgotten.
 
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/with_passenger.png" style="width: 80%;">
-<div style="background-color: white;">A trishaw with passenger at Syed Alwi Road, 1993. This was how locals commonly got around Singapore in the 1950s and 60s. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
+<div style="background-color: white;">A trishaw with a passenger at Syed Alwi Road, 1993. This was how locals commonly got around Singapore in the 1950s and 60s. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/trishaws_at_geylang_serai.png" style="width: 80%;">
 <div style="background-color: white;">Trishaws at Geylang Serai market, 1992. These trishaws were likely waiting for passengers needing a ride after going to the market. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/convoy_trishaws.png" style="width: 80%;">
@@ -27,7 +27,7 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/rider_resting.png" style="width: 80%;">
 <div style="background-color: white;">A rider rests along the busy street of Orchard Road, 1990s. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/man_pedalling_trishaw.png" style="width: 80%;">
-<div style="background-color: white;">Man pedalling trishaw along Dunlop Street, c.2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
+<div style="background-color: white;">Man pedalling a trishaw along Dunlop Street, c.2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/cargo_tricycle_crop.png" style="width: 80%; height: 75%;">
 <div style="background-color: white;">Similar to trishaws are cargo tricycles, used to transport bulky items instead of passengers. They are commonly used by scrap collectors, like this one along Dickson Road, c.2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/newspaper_collector.png" style="width: 80%;">
