@@ -21,7 +21,7 @@ In this interview, which has been condensed and edited for clarity, Jimmy Yap sp
 So, Victor, the first edition of the book was <i>[Toponymics: A Study of Singapore Street Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758)</i>, but the title and subtitle are switched around in the [fourth edition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205854725). Why the change?
 
 <b>Victor</b><br>
-The original title was Toponymics. But the publisher said “Aiyoh, every time people ask what is toponymics.” They find it a strange word. And finally, the publisher said put “Singapore street names” as the title so people will know, and the subtitle as “a study of toponymics”. Topo means “place” and nymics means “name”. Streets only came about when cities developed; before that it was all place names, no such thing as street names. 
+The original title was Toponymics. But the publisher said “Aiyoh, every time people ask what is toponymics.” They find it a strange word. And finally, the publisher said put “Singapore Street Names” as the title so people will know, and the subtitle as “A Study of Toponymics”. Topo means “place” and nymics means “name”. Streets only came about when cities developed; before that it was all place names, no such thing as street names. 
 
 Because we now live in an urban environment, we talk about street names, but basically place names are the main thing. I wrote a long article on the study of toponymics in the [<i>International Encyclopedia of Human Geography</i>](https://www.sciencedirect.com/science/article/abs/pii/B9780080449104009846). It's a big academic topic with all sorts of academics writing on it: linguists, anthropologists, political scientists, sociologists, geographers and historians. 
 
