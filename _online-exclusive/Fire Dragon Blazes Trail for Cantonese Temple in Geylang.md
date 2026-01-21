@@ -59,7 +59,7 @@ The straw that is used for the dragon is specially obtained from farmers in Xiam
 
 The younger members of the dragon dance troupe help to construct the body of the dragon, while Fong and Zhen take on the more difficult tasks of crafting the dragon’s head and tail.
 
-Securing the straw to the head of the dragon requires skill. A needle in a shape of a metal hook is used to secure the bunches of straw to the frame of the dragon’s head. Zhen has a special technique for sewing on the straw. “Just like a seamstress or a tailor who has a method to work with, I have a method which I have adopted to sew the straw,” he said. “It’s not easy as I need to ensure the right tension is used so that the straw will not unravel during the dance of the Fire Dragon.”
+Securing the straw to the head of the dragon requires skill. A needle in the shape of a metal hook is used to secure the bunches of straw to the frame of the dragon’s head. Zhen has a special technique for sewing on the straw. “Just like a seamstress or a tailor who has a method to work with, I have a method which I have adopted to sew the straw,” he said. “It’s not easy as I need to ensure the right tension is used so that the straw will not unravel during the dance of the Fire Dragon.”
 
 Making the antlers of the dragon is particularly challenging because it requires pulling excess straw into “the ends of the antlers of the dragon”, cutting and then tucking them back into themselves to make clean, sharp edges. “Making it neat and looking sharp takes years of skill,” said Zhen.
 
