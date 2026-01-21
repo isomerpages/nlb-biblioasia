@@ -31,7 +31,7 @@ The start of World War One (1914–18) saw F&amp;N reducing capacity to survive,
 
 The happy product of that marriage was born in 1932 when Tiger Beer, a homegrown lager beer, made its debut. At its launch, beer was given away for free and “over two hundred guests … \[were\] given as much beer as they desired, and an eloquent tribute to the new beverage lay in the fact that many who were not regular drinkers asked for a second glass, while others had a third.”[^9]
 
-Tiger Beer was an instant success, particularly among British servicemen in Malaya due to its refreshing taste and affordable price. Within two years of its launch, Tiger Beer accounted for over two-thirds of beer consumed in British Malaya.[^10]
+Tiger Beer was an instant success, particularly among British servicemen in Malaya, due to its refreshing taste and affordable price. Within two years of its launch, Tiger Beer accounted for over two-thirds of beer consumed in British Malaya.[^10]
 
 <img src="/images/Online%20Only%20Articles/Beer/tiger_beer.png" style="width: 55%;">
 <div style="background-color: white;">A 1932 advertisement for Tiger Beer. <i>Image reproduced from “Tiger Beer,” Singapore Free Press and Mercantile Advertiser, 8 October 1932, 20. (From NewspaperSG).</i></div>
@@ -40,7 +40,7 @@ The success of Malayan Breweries was largely due to the technical expertise prov
 
 #### **Time for a Tiger!**
 
-Tiger Beer was launched with the catchphrase “Time for a Tiger” in 1932. A tagline still familiar with many today, the phrase was subsequently made famous by British author Anthony Burgess, who named his 1956 novel _Time for a Tiger_. This book was the first instalment of his Malayan trilogy, _The Long Day Wanes_.[^12]
+Tiger Beer was launched with the catchphrase “Time for a Tiger” in 1932. A tagline still familiar to many today, the phrase was subsequently made famous by British author Anthony Burgess, who named his 1956 novel _Time for a Tiger_. This book was the first instalment of his Malayan trilogy, _The Long Day Wanes_.[^12]
 
 By 1935, Malayan Breweries had turned its attention toward exporting Tiger Beer, which had started to gain popularity beyond the Malayan market in countries like Hong Kong.[^13] It expanded its brewery twice – in 1937 and 1939 – to keep up with the growing demand.[^14]
 
