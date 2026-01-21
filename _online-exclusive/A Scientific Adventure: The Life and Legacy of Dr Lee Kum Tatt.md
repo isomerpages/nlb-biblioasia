@@ -23,7 +23,7 @@ It was a race against the clock to identify and isolate the source. Lee and his 
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/at_work_in_lab.png" style="width: 80%;">
 Dr Lee Kum Tatt (left) and his team, Theng Chye Yam (middle) and Ng Hon Wing (right), at work in the laboratory in search of the toxin that killed eight children in 1959.&nbsp;<i> Image reproduced from “Barley Deaths: The Lab Boys Get to Work…,” Straits Budget, 16 September 1959, 13. (From NewspaperSG).</i></div>
 
-The incident might have been the first time the public had heard of Lee, but over the years, he would go on to play a leading role in building scientific infrastructure in the country: this includes Singapore government’s Department of Chemistry, the Science Council, Singapore Polytechnic, the Singapore Institute of Standards and Industrial Research (SISIR), and the Singapore Science Centre. These contributions are all the more impressive when set in their historical context – the dangerous, uncertain Malaya of the mid-20th century.
+The incident might have been the first time the public had heard of Lee, but over the years, he would go on to play a leading role in building scientific infrastructure in the country: this includes the Singapore government’s Department of Chemistry, the Science Council, Singapore Polytechnic, the Singapore Institute of Standards and Industrial Research (SISIR), and the Singapore Science Centre. These contributions are all the more impressive when set in their historical context – the dangerous, uncertain Malaya of the mid-20th century.
 
 #### **Early Years**
 
