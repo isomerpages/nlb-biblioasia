@@ -72,7 +72,7 @@ Singapore became a member of the International Atomic Energy Agency (IAEA) in 19
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_iaea.jpg" style="width: 80%;">
 Dr Lee Kum Tatt at the International Atomic Energy Agency research coordination meeting at the Singapore Conference Hall in 1967.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-In 1969, the Science Council held the Science Ball, an event that sought to raise money for a proposed Science Endowment Fund. Nearly 500 scientists, industrialists and businessmen attended, with Prime Minister Lee Kuan Yew and his wife Kwa Geok Choo as the guests-of-honour. At the ball, the council awarded its inaugural gold medal to Dr T.G. Ling, an industrial chemist who had contributed to modern poultry and pig farming.[^17] From then, the gold medal was presented annually to someone who had made significant contributions to science in the nation.
+In 1969, the Science Council held the Science Ball, an event that sought to raise money for a proposed Science Endowment Fund. Nearly 500 scientists, industrialists and businessmen attended, with Prime Minister Lee Kuan Yew and his wife Kwa Geok Choo as the guests-of-honour. At the ball, the council awarded its inaugural gold medal to Dr T.G. Ling, an industrial chemist who had contributed to modern poultry and pig farming.[^17] From then on, the gold medal was presented annually to someone who had made significant contributions to science in the nation.
 
 <div style="background-color: white;">
 <br>
