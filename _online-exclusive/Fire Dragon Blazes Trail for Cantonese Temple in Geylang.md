@@ -106,7 +106,7 @@ Joss sticks adorning the pearl of wisdom, 2023.  <i>Courtesy of Yeo GT.</i></div
 
 The Fire Dragon, at more than 60 m long and festooned with thousands of burning joss sticks, is a striking sight as it manoeuvres through the smoke. The parade of the dragon begins in the temple before going through the nearby streets. The procession is believed to help dissipate anger caused by the disturbance of the land around the temple felt by the temple’s deities.
 
-The dragon is brought to life by about 80 to 100 dancers (including fire throwers) from the temple’s lion dance troupe, which was established in 1983. Weighing in at a total of 65 kg, performing with the dragon is exhausting work – just the head alone requires three dancers who take turns to hold it up.
+The dragon is brought to life by about 80 to 100 dancers (including fire throwers) from the temple’s lion dance troupe, which was established in 1983. Weighing in at a total of 65 kg, the dragon is exhausting to perform with – just the head alone requires three dancers who take turns to hold it up.
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/-mr5YlqKFBs?feature=share" frameborder="0" allowfullscreen=""></iframe></div>
 <div style="background-color: white;">The Fire Dragon in 2024. <i>Video courtesy of Angela Sim.</i></div>
