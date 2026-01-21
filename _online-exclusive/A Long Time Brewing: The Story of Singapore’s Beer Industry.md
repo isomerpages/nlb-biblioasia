@@ -42,7 +42,7 @@ The success of Malayan Breweries was largely due to the technical expertise prov
 
 Tiger Beer was launched with the catchphrase “Time for a Tiger” in 1932. A tagline still familiar to many today, the phrase was subsequently made famous by British author Anthony Burgess, who named his 1956 novel _Time for a Tiger_. This book was the first instalment of his Malayan trilogy, _The Long Day Wanes_.[^12]
 
-By 1935, Malayan Breweries had turned its attention toward exporting Tiger Beer, which had started to gain popularity beyond the Malayan market in countries like Hong Kong.[^13] It expanded its brewery twice – in 1937 and 1939 – to keep up with the growing demand.[^14]
+By 1935, Malayan Breweries had turned its attention towards exporting Tiger Beer, which had started to gain popularity beyond the Malayan market in countries like Hong Kong.[^13] It expanded its brewery twice – in 1937 and 1939 – to keep up with the growing demand.[^14]
 
 <img src="/images/Online%20Only%20Articles/Beer/business_drink_beer.png" style="width: 85%;">
 <div style="background-color: white;">Tiger Beer was advertised as a nutritious health drink. (Left)<i>Image reproduced from "The Hustling Business Man," Straits Times, 1 December 1932, 13. (From NewspaperSG).</i> (Right)<i> Image reproduced from "Drink Tiger Beer," Straits Times, 16 September 1935, 13. (From NewspaperSG).</i></div>
