@@ -31,7 +31,7 @@ Enter Dr Lee Kum Tatt who had been appointed chairman of the Singapore Institute
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_page_22.jpg" style="width: 60%;">
 Illustration of how the wish of Lee Kum Tatt’s wife sparked the idea of the RISIS orchid. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 22. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
 
-Lee thought that gold-plated orchids were the perfect choice for a souvenir as Singapore was already known for its orchids, not only routinely presenting them to guests but also exporting large shipments of them. There was a thriving Singapore Orchid Society; and the President of the South East Asia Orchid Society was usually a Singaporean. Singapore was also a leader in orchid hybridisation. For all these reasons, Lee felt that “\[t\]he gold orchid had all the attributes of a true souvenir. It used local material (orchids) and local technology or skill (hybridisation and metal-forming), as well as time-honoured gold”.[^11]
+Lee thought that gold-plated orchids were the perfect choice for a souvenir as Singapore was already known for its orchids, not only routinely presenting them to guests but also exporting large shipments of them. There was a thriving Singapore Orchid Society, and the President of the South East Asia Orchid Society was usually a Singaporean. Singapore was also a leader in orchid hybridisation. For all these reasons, Lee felt that “\[t\]he gold orchid had all the attributes of a true souvenir. It used local material (orchids) and local technology or skill (hybridisation and metal-forming), as well as time-honoured gold”.[^11]
 
 <div style="background-color: white;">
 <br>
