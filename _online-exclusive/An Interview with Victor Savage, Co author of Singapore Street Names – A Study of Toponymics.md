@@ -35,7 +35,7 @@ Brenda and I got into this because of our PhDs. Brenda wrote her PhD on a very i
 I think I have that book. [*Contesting Space*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7753213), right?
 
 <b>Victor</b><br>
-Yeah, <i>Contesting Space</i>. So, I came to the topic, because my PhD was on a broader topic on Southeast Asia. In the long research I did for my book on Southeast Asia, I was studying the human-nature relationship in Southeast Asia, how the Westerners viewed nature in Southeast Asia. So, I found a lot of toponymics that Westerners wrote about. Why Bangkok was called Bangkok or Ayutthaya. I had a file on the side about all these. 
+Yeah, <i>Contesting Space</i>. So, I came to the topic, because my PhD was on a broader topic on Southeast Asia. In the long research I did for my book on Southeast Asia, I was studying the human-nature relationship in Southeast Asia, how the Westerners viewed nature in Southeast Asia. So, I found a lot of toponyms that Westerners wrote about. Why Bangkok was called Bangkok or Ayutthaya. I had a file on the side about all these. 
 
 I kept it at the back of my mind all the time. Then Brenda and I came together and decided to write this book. It took me a long time to get cracking on it. 
 
