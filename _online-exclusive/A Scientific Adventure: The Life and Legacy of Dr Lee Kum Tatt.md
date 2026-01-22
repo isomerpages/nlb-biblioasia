@@ -65,7 +65,7 @@ Lee quickly gained more administrative responsibilities, becoming a key builder 
 
 Singapore’s need to cultivate scientific talent only intensified in later years, particularly after its departure from the Federation of Malaysia in 1965. In 1967, Lee became the first chairman of the new Singapore Science Council, dedicated to improving the country’s R&amp;D potential by cultivating both manpower and forging connections with foreign scientific bodies.[^14]
 
-Singapore became a member of the International Atomic Energy Agency (IAEA) in 1967, and the Science Council hosted the IAEA’s first research coordination meeting in November that same year.[^15] As Science Council chairman, Lee opened the conference by announcing that the IAEA had agreed to provide technical assistance to set up a radio-isotope diagnostic laboratory and develope radiotherapy facilities, particularly in healthcare.[^16]
+Singapore became a member of the International Atomic Energy Agency (IAEA) in 1967, and the Science Council hosted the IAEA’s first research coordination meeting in November that same year.[^15] As Science Council chairman, Lee opened the conference by announcing that the IAEA had agreed to provide technical assistance to set up a radio-isotope diagnostic laboratory and develop radiotherapy facilities, particularly in healthcare.[^16]
 
 <div style="background-color: white;">
 <br>
