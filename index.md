@@ -10,12 +10,12 @@ notification: ""
 sections:
   - hero:
       url: /vol-12/issue-3/oct-dec-2016/publichouse-pvtlives/
-      button: Dr Liu Thai Ker’s contributions to public housingns to public housing
+      button: Dr Liu Thai Ker’s contributions to public housing
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-12-issue-3/public-housing-private-lives/Hero_Tiong_Bahru_Flat_Dwellers.png
+      background: /images/Vol-12-issue-3/public-housing-private-lives/Hero_Banner_Public_Housing.jpg
       variant: center
   - infopic:
       title: Rediscovering Singapore Before 1800
