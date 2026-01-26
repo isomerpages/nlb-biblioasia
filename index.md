@@ -18,6 +18,18 @@ sections:
       background: /images/Vol-12-issue-3/public-housing-private-lives/Hero_Banner_Public_Housing.jpg
       variant: center
   - infopic:
+      title: Bringing Back the Hainan Lion
+      subtitle: Culture
+      id: infopic
+      description: The unexpected find of a cape with tiger markings in the storeroom
+        of the Guang Wu Club led a martial artist and lion dance master to
+        revive a lost art form.
+      button: Reviving a lost art
+      url: /culture /2026/1/hainan-lion-tiger-dance-guang-wu-club
+      image: /images/Online Only Articles/Bringing Back the Hainan
+        Lion/Guangwu_Hainan_tiger1.jpg
+      alt: Image alt text
+  - infopic:
       title: Rediscovering Singapore Before 1800
       subtitle: History
       id: infopic
