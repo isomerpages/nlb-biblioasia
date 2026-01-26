@@ -58,6 +58,15 @@ That was a big challenge for \[Lee Ek Tieng\] because he had to figure out how \
 
 When it came to the squatters who were living there, they looked to HDB \[Housing and Development Board\] for help. So, it was about giving them housing, buying flats for them to move into. And, of course, again you say, you’ll have proper sanitation, you’ll have proper toilets, you’ll have water coming out of your pipes, proper garbage disposal. It was a lot of persuasion and showing people that there was a better life if you agree to move away from the Singapore River.
 
+<img src="/images/Vol%2022%20Issue%201/River/river_roadside1.png" style="width: 80%;">
+
+
+<img src="/images/Vol%2022%20Issue%201/River/river_roadside2.png" style="width: 80%;">
+
+
+<div style="background-color: white;"> Roadside hawkers along the Singapore River, 1970. <i>A.J. Hawker Collection, courtesy of National Archives of Singapore (Media - Image nos. 19980005683 - 0058 and 19980005683 - 0059).</i></div>
+
+
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 	<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_imperial.png" style="width: 70%;"><br>
