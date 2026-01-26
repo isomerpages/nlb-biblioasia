@@ -22,6 +22,13 @@ _BiblioAsia_ Editor-in-Chief Jimmy Yap interviews Samantha Boh, who co-wrote _Le
 <div style="background-color: white;"> Samantha Boh, lead author of <i>Lee Ek Tieng: The Green General of Lee Kuan Yew</i>. <i>Photo by Jimmy Yap. </i></div>
 
 
+
+<img src="/images/Vol%2022%20Issue%201/River/river_book.png" style="width: 65%;">
+
+
+<div style="background-color: white;"> Published by The NutGraf Books, 2025. <i>From the National Library Singapore (Call no. RSING 959.5705 BOH-[HIS]).</i></div>
+
+
 **Jimmy:** The clean-up of the Singapore River took 10 years. Is it just picking up litter off the surface and dead things floating on the river? Is there more to it?
 
   
