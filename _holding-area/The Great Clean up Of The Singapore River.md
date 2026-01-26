@@ -6,11 +6,21 @@ description: ""
 ---
 #### In a _BiblioAsia Podcast_ episode, writer Samantha Boh tells us how civil servant Lee Ek Tieng and his team at the Ministry of Environment overcame the challenges of cleaning up the Singapore River.
 
+<img src="/images/Vol%2022%20Issue%201/River/river_main.png" style="width: 80%;">
+
+
+<div style="background-color: white;"> Loading and unloading of goods from sampans moored along the banks of the Singapore River at Boat Quay, c. 1930. <i>Courtesy of National Archives of Singapore (Media - Image no. 9980006408 - 0059). </i></div>
+
 Lee Ek Tieng (1933–2025) was the first permanent secretary of the Ministry of Environment. In 1977, founding Prime Minister Lee Kuan Yew challenged Lee and his team to clean up the Singapore River.
 
 _BiblioAsia_ Editor-in-Chief Jimmy Yap interviews Samantha Boh, who co-wrote _Lee Ek Tieng: The Green General of Lee Kuan Yew_ with Pearl Lee and Matthew Gan.
 
-  
+
+<img src="/images/Vol%2022%20Issue%201/River/river_samantha.png" style="width: 80%;">
+
+
+<div style="background-color: white;"> Samantha Boh, lead author of <i>Lee Ek Tieng: The Green General of Lee Kuan Yew</i>. <i>Photo by Jimmy Yap. </i></div>
+
 
 **Jimmy:** The clean-up of the Singapore River took 10 years. Is it just picking up litter off the surface and dead things floating on the river? Is there more to it?
 
