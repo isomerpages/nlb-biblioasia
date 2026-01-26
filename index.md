@@ -1119,4 +1119,16 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
       image: /images/Vol 22 Issue 1/Agricultural/Topics_agricultural_show.jpg
       alt: Singapore Agricultural Show
+  - infopic:
+      title: Bringing Back the Hainan Lion
+      subtitle: Culture
+      id: infopic
+      description: The unexpected find of a cape with tiger markings in the storeroom
+        of the Guang Wu Club led a martial artist and lion dance master to
+        revive a lost art form.
+      button: Reviving a lost art
+      url: /culture /2026/1/hainan-lion-tiger-dance-guang-wu-club
+      image: /images/Online Only Articles/Bringing Back the Hainan
+        Lion/Guangwu_Hainan_tiger1.jpg
+      alt: Image alt text
 ---
