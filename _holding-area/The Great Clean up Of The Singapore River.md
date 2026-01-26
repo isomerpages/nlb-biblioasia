@@ -47,3 +47,9 @@ And of course, the oil from the boats and all that. So, there was just a lot goi
 That was a big challenge for \[Lee Ek Tieng\] because he had to figure out how \[to\] give them a better proposition. Street hawkers would say, “My business here is good. If you move me to the back, what if my business and livelihood are affected?” And so, they had to give \[the hawkers\] a better alternative. And that was the hawker centres, because at hawker centres, you’ve piped water. It’s clean. You’ve proper garbage disposal. We’ll make sure it’s somewhere pleasant for people to visit. So, they had to entice them. I think they managed to do that, of course, with a lot of persuasion. And it was quite a long process because you had to license them as well.
 
 When it came to the squatters who were living there, they looked to HDB \[Housing and Development Board\] for help. So, it was about giving them housing, buying flats for them to move into. And, of course, again you say, you’ll have proper sanitation, you’ll have proper toilets, you’ll have water coming out of your pipes, proper garbage disposal. It was a lot of persuasion and showing people that there was a better life if you agree to move away from the Singapore River.
+
+
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+	<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_imperial.png" style="width: 70%;"><br>
+This essay is adapted from Chapter 7, “Regulating Heat, Controlling Urban Airs”, from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803"><i>Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya</i></a> (University of Pittsburgh Press, 2025) by Fiona Williamson. The book is available for sale at online bookstores and for reference at the Lee Kong Chian Reference Library (call no. RSEA 959.503 WIL).
+</div><br>
