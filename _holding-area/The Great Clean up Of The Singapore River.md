@@ -51,5 +51,6 @@ When it came to the squatters who were living there, they looked to HDB \[Housin
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 	<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_imperial.png" style="width: 70%;"><br>
-This essay is adapted from Chapter 7, “Regulating Heat, Controlling Urban Airs”, from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803"><i>Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya</i></a> (University of Pittsburgh Press, 2025) by Fiona Williamson. The book is available for sale at online bookstores and for reference at the Lee Kong Chian Reference Library (call no. RSEA 959.503 WIL).
+This essay is adapted from Chapter 7, “Regulating Heat, Controlling Urban Airs”, from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300140803"><i>Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya</i></a> Scan the QR code to listen the full episode on <i>BiblioAsia</i> Podcast, “The Civil Servant in Charge of Clean and Green Singapore, Lee Ek Tieng”.
+<br>Check out the book, <i>Lee Ek Tieng: The Green General of Lee Kuan Yew</i>, available for reference at the Lee Kong Chian Reference Library (call no. RSING 959.5705 BOH-\[HIS\]) and for loan at selected public libraries (call no. SING 959.5705 BOH-\[HIS\]).
 </div><br>
