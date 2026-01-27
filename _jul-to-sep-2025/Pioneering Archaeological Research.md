@@ -90,7 +90,7 @@ According to Tweedie’s final report to the CCNY dated 28 August 1946, Chasen l
 Noone’s manuscript and personal papers were either lost in the looting of the Perak Museum in December 1941, or kept with Noone when he went into the jungle and disappeared.[^32] As for the Guar Kepah site, it has transformed into a cultural resource today, with many more researchers investigating the site and its artefacts in later periods. The Guar Kepah Archaeological Gallery in Penang opened in January 2026 to display various finds from the site.[^33]
 
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_gallery.jpg)
-<div style="background-color:white;">The Guar Kepah Archaeological Gallery&nbsp;in Penang will be opening soon.  <i>Photo by Foo Shu Tieng.</i></div>
+<div style="background-color:white;">The Guar Kepah Archaeological Gallery located in the Penaga state constituency, Penang, 2025.  <i>Photo by Foo Shu Tieng.</i></div>
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
