@@ -203,4 +203,4 @@ Van Stein Callenfels, Pieter Vincent. <a href="https://eservice.nlb.gov.sg/redir
 
 [^32]: Solheim II, Wheeler and Wheeler, “Archaeology in Malaysia, Brunei, and Singapore,” 3–4.&nbsp;
 
-[^33]: Lo Tern Chern, “Ancient Site Set for Modern Expansion,”&nbsp;_The Star Malaysia_, 24 January 2026, 8; Lo Tern Chern, “Prehistoric Remains Return: Ancient Penang Skeletons to Be Preserved at Guar Kepah,”&nbsp;_The Star Malaysia_, 14 January 2026, 10. (from Pressreader via NLB’s&nbsp;[eResources](https://eresources.nlb.gov.sg/main)&nbsp;website)
+[^33]: Lo Tern Chern, “Ancient Site Set for Modern Expansion,”&nbsp;_The Star Malaysia_, 24 January 2026, 8; Lo Tern Chern, “Prehistoric Remains Return: Ancient Penang Skeletons to Be Preserved at Guar Kepah,”&nbsp;_The Star Malaysia_, 14 January 2026, 10. (From Pressreader via NLB’s&nbsp;[eResources](https://eresources.nlb.gov.sg/main)&nbsp;website)
