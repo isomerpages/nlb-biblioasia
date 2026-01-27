@@ -87,10 +87,10 @@ Are there possibilities for further research? This is feasible since the private
 
 According to Tweedie’s final report to the CCNY dated 28 August 1946, Chasen lost his life in 1942 while attempting to flee Singapore on the eve of the Japanese invasion. Herbert Deane Noone (better known as H.D. Noone or Pat Noone), who was based at the Perak Museum in Taiping and responsible for the expenditure of CCNY funds in later years (such as the excavations in Kelantan in 1941), joined the guerrilla fighters during World War II and disappeared in 1943.[^31]
 
-Noone’s manuscript and personal papers were either lost in the looting of the Perak Museum in December 1941, or kept with Noone when he went into the jungle and disappeared.[^32] As for the Guar Kepah site, it has transformed into a cultural resource today, with many more researchers investigating the site and its artefacts in later periods. The Guar Kepah Archaeological Gallery is slated to open to display various finds.[^33]
+Noone’s manuscript and personal papers were either lost in the looting of the Perak Museum in December 1941, or kept with Noone when he went into the jungle and disappeared.[^32] As for the Guar Kepah site, it has transformed into a cultural resource today, with many more researchers investigating the site and its artefacts in later periods. The Guar Kepah Archaeological Gallery in Penang opened in January 2026 to display various finds from the site.[^33]
 
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_gallery.jpg)
-<div style="background-color:white;">The Guar Kepah Archaeological Gallery&nbsp;in Penang will be opening soon.  <i>Photo by Foo Shu Tieng.</i></div>
+<div style="background-color:white;">The Guar Kepah Archaeological Gallery located in the Penaga state constituency, Penang, 2025.  <i>Photo by Foo Shu Tieng.</i></div>
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
@@ -203,4 +203,4 @@ Van Stein Callenfels, Pieter Vincent. <a href="https://eservice.nlb.gov.sg/redir
 
 [^32]: Solheim II, Wheeler and Wheeler, “Archaeology in Malaysia, Brunei, and Singapore,” 3–4.&nbsp;
 
-[^33]: Opalyn Mok, “Guar Kepah Archaeological Gallery in Penang Open to Public by End 2024,” _Malay Mail_, 14 May 2024,&nbsp; [https://www.malaymail.com/news/malaysia/2024/05/14/guar-kepah-archaeological-gallery-in-penang-open-to-public-by-end-2024/134279](https://www.malaymail.com/news/malaysia/2024/05/14/guar-kepah-archaeological-gallery-in-penang-open-to-public-by-end-2024/134279#google_vignette); “41 Prehistoric Remains to Return to Malaysia From the Netherlands,” _Straits Times_, 14 November 2024, [https://www.straitstimes.com/asia/se-asia/41-prehistoric-remains-to-return-to-malaysia-from-the-netherlands](https://www.straitstimes.com/asia/se-asia/41-prehistoric-remains-to-return-to-malaysia-from-the-netherlands).
+[^33]: Lo Tern Chern, “Ancient Site Set for Modern Expansion,”&nbsp;_The Star Malaysia_, 24 January 2026, 8; Lo Tern Chern, “Prehistoric Remains Return: Ancient Penang Skeletons to Be Preserved at Guar Kepah,”&nbsp;_The Star Malaysia_, 14 January 2026, 10. (from Pressreader via NLB’s&nbsp;[eResources](https://eresources.nlb.gov.sg/main)&nbsp;website)
