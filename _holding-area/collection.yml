@@ -1,0 +1,5 @@
+collections:
+  holding-area:
+    output: true
+    order:
+      - Sample article.md

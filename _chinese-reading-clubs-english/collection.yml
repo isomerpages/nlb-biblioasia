@@ -1,0 +1,53 @@
+collections:
+  chinese-reading-clubs-english:
+    output: true
+    order:
+      - Introduction.md
+      - The Past.md
+      - The Present/.keep
+      - The Present/Timeline.md
+      - The Present/Xin Zhi Reading Club.md
+      - The Present/SG Writings Reading Club.md
+      - The Present/CEO Reading Club.md
+      - The Present/Prison Chinese Reading Club.md
+      - The Present/Women Prison Chinese Reading Club.md
+      - The Present/Hanlin Reading Club.md
+      - The Present/Interacting Point Chinese Book Club.md
+      - The Present/Taxi Shifu and Friends Reading Club.md
+      - The Present/3G Reading Club.md
+      - The Present/RIRIXIN Reading Club.md
+      - The Present/Clementi CC Chinese Reading Club.md
+      - The Present/Bishan CC Women’s Executive Committee Reading Club.md
+      - The Present/Yio Chu Kang CC Chinese Reading Club.md
+      - The Present/Xin Sheng Poets' Society Reading Club.md
+      - The Present/Sharing Chinese Book Club.md
+      - The Present/TBAS Graceful Life Reading Club.md
+      - The Present/Cui Ying Reading Club.md
+      - The Present/Spiritual Wealth Club.md
+      - The Present/Qing History Reading Club.md
+      - The Present/Bukit Timah Literary Centre Book Club.md
+      - The Present/Taiji Book Club.md
+      - The Present/Tone Club.md
+      - The Present/Han Cultural Reading Club.md
+      - The Present/Xin Yue Reading Community.md
+      - The Present/Reading Through Turbulent Times.md
+      - The Present/Growing Parents Reading Club.md
+      - The Present/SG Happiness Study.md
+      - The Present/Yue Yi Reading Club.md
+      - The Present/Youth Readers Club.md
+      - The Present/Starry Rain Book House.md
+      - The Future/.keep
+      - The Future/List of Articles.md
+      - The Future/The Future of Reading Clubs.md
+      - The Future/When Reading Meets Technology.md
+      - The Future/Writers and Reading Clubs.md
+      - The Future/How to Attract Young People to Read Chinese.md
+      - The Future/Loving Books, Loving Reading Clubs.md
+      - "The Future/Diversified Reading Guidance: Emerging Technology, Finance,
+        and Humanities.md"
+      - The Future/Reading Clubs as Platforms for Cultural Exchange.md
+      - The Future/Historical Fiction by Modern Writers – How the Past Speaks to
+        the Present.md
+      - The Future/Reading Clubs in the Digital Age.md
+      - The Future/The Value of Reading Clubs.md
+      - The Future/Exploring the Reading World of Young Readers.md

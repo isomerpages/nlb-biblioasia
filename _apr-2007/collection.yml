@@ -1,0 +1,8 @@
+collections:
+  apr-2007:
+    output: true
+    order:
+      - Director's Column.md
+      - Storm in Shuang Lin.md
+      - Educating Malayan Gentlemen.md
+      - "Money Lending: A Short History.md"

@@ -1,0 +1,62 @@
+title: BiblioAsia
+url: https://biblioasia.nlb.gov.sg
+favicon: /images/nlb-favicon.ico
+google_analytics: UA-50449401-32
+colors:
+  primary-color: "#c62128"
+  secondary-color: "#1c94d2"
+  media-colors:
+    - title: media-color-one
+      color: "#ffdf50"
+    - title: media-color-two
+      color: "#f3c751"
+    - title: media-color-three
+      color: "#1b1ba7"
+    - title: media-color-four
+      color: "#2867d8"
+    - title: media-color-five
+      color: "#ebd41a"
+resources_name: articles-archive
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+description: BiblioAsia features the history, culture and heritage of Singapore
+  within the larger Asian context. It is produced by the National Library of
+  Singapore.
+staging: https://staging.d2h71wkcgbm1yt.amplifyapp.com/
+prod: https://master.d2h71wkcgbm1yt.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+linkedin-insights: ""
+shareicon: /images/isomer-logo.svg
+is_government: true
+facebook-pixel: ""
+google_analytics_ga4: G-90BFBK0R79

@@ -1,0 +1,39 @@
+---
+title: Uniquely Singaporean Memories
+permalink: /vol-8/issue-3/oct-dec-2012/singaporean-memories/
+description: What do you remember about Singapore? When we go back to our past,
+  we discover many shared memories of a time when wanton mee cost five cents,
+  cinemas were open-air, and bathing suits covered a lot more.
+variant: markdown
+---
+#### What do you remember about Singapore? When we go back to our past, we discover many shared memories of a time when&nbsp;_wanton mee_&nbsp;cost five cents, cinemas were open-air and bathing suits covered a lot more.
+
+<img style="width:80%;" src="/images/Vol%208%20issue%203/SingaporeanMemories/Yuhua%20resident.jpg">
+ <div style="background-color: white;">A Yuhua resident with a photo of herself in her younger days. <i>All rights reserved. The Singapore Memory Project, 2012.</i></div>
+
+Launched in 2011, the Singapore Memory Project (SMP) aims to collect five million personal memories from Singaporeans by 2015, the year the country turns 50. The project ambitiously seeks to document the heart of a nation, curate shared experiences, and remind us that we have much more in common than we realise.
+
+The team also runs programmes with schools, like the Nanyang Girls’ High School, to collect memories from Singaporeans. We train students to conduct interviews and link them up with individuals in a community to gather their stories. In addition, competitions such as "irememberMySchool Days" are organised to rally students to collect and present their memories in creative ways.
+
+In July 2012, the project group partnered Google to organise a Google Photo Walk where participants embarked on an urban trail around a designated area, taking photos of old and new buildings, in particular, schools. Participants attended a photography workshop to prepare themselves before the event.
+
+<img style="width:80%;" src="/images/Vol%208%20issue%203/SingaporeanMemories/mosaic.jpg">
+ <div style="background-color: white;">A map of Singapore’s remaining old playgrounds in "Mosaic Memories" by Justin Zhuang, Wee Ho Gai and Zakaria Zainal. <i>All rights reserved. The Singapore Memory Project, 2012.</i></div>
+
+Tapping on Singapore’s great love for food, the SMP team organised a food trail with three of Singapore’s most prominent bloggers: Dr Leslie Tay (of ieatishootipost), Mr Brown and Mr Miyagi. The intrepid trio traversed the island from dawn to midnight, in search of the best of Singapore food. From tweets posted by the public, the boisterous bloggers went on a real-time food trail. The food trail videos can be viewed at the SMP Facebook page or you can read about it via the vlog.
+
+Local artists and talents have also been commissioned by SMP to document and present the memories of people and places in creative ways. One such work that resonated strongly with the public and garnered over 860 likes on Facebook was a free e-book on old mosaic playgrounds in Singapore. Another artistic production was the bittersweet comic *Once Upon a Dragon* by Dominique Fam – a graphic work that reflects on the changes in Singapore and the author’s memories of the dragon playground of his childhood years. These works serve as talking points for the public and something that they can share with others.
+
+The Singapore Memory Project is more than just events, programmes and an ambitious collection of memories. It is a reminder for people to slow down a little, look back and remember that each memory, each personal story is a part of Singapore.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>How to contribute to the Singapore Memory Project</b> 
+<br><br>
+Do you have a cache of memories just waiting to be shared? Wonder what fellow Singaporeans remember? Then be a part of our conversations over at <a href="https://www.singaporememories.gov.sg/">https://www.singaporememories.gov.sg/</a>
+
+To get in on all the action, check out the Singapore Memory portal at <a href="https://www.singaporememories.gov.sg/">https://www.singaporememories.gov.sg/</a>, our blog at <a href="https://remembersingapore.org/">https://remembersingapore.org/</a>, or download the SMP app to contribute your own memories in the form of images (up to 3MB), videos (20MB) or 20 seconds of footage.<br><br>
+<a href="https://www.facebook.com/irememberSG/">https://www.facebook.com/irememberSG/</a>	
+Twitter &amp; Instagram: <a href="https://www.instagram.com/iremembersg/@iremembersg/">https://www.instagram.com/iremembersg/@iremembersg/</a>	
+</div>
+
+<div>
+<b>Stephanie Pee</b> is an executive with the National Library Arts and the Singapore Memory Project team. She was an assistant senior editor with Marshall Cavendish before joining the National Library Board.</div>

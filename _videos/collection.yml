@@ -1,0 +1,35 @@
+collections:
+  videos:
+    output: true
+    order:
+      - Singapore Storytellers.md
+      - BiblioAsia Reels/.keep
+      - BiblioAsia Reels/About the series.md
+      - BiblioAsia Reels/Architecture.md
+      - BiblioAsia Reels/Arts.md
+      - BiblioAsia Reels/Maps.md
+      - BiblioAsia Reels/Nature and the Environment.md
+      - BiblioAsia Reels/People.md
+      - BiblioAsia Reels/Photography.md
+      - BiblioAsia Reels/Print.md
+      - BiblioAsia Reels/War.md
+      - BiblioAsia Reels/Worship.md
+      - From Book to Cook/.keep
+      - From Book to Cook/About the Series.md
+      - "From Book to Cook/Sea Snail & Papaya Curry: A Eurasian Specialty.md"
+      - From Book to Cook/The Scoop on Otak Blangah.md
+      - From Book to Cook/Soon Kueh Stories.md
+      - From Book to Cook/Peeling Back the Layers of Bunga Kobis.md
+      - From Book to Cook/Rediscovering Mee Maidin.md
+      - From Book to Cook/Kueh Pie Tee’s Peculiar Past.md
+      - From Book to Cook/Definitely Not Spaghetti Bolognese.md
+      - From Book to Cook/Eat More Wheat!.md
+      - From Book to Cook/Nasi Lemak Istimewa.md
+      - From Book to Cook/Tapioca Tales.md
+      - From Book to Cook/The Curry Chronicles.md
+      - Stories from BiblioAsia/.keep
+      - Stories from BiblioAsia/About the Series.md
+      - Stories from BiblioAsia/The Extraordinary Life of Kunnuck Mistree.md
+      - Stories from BiblioAsia/The Poet and the Night Train.md
+      - Stories from BiblioAsia/Into the Night.md
+      - Stories from BiblioAsia/Hearts and Minds.md
