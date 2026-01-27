@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/lee-ek-tieng-samantha-boh-singapore-river-podcast/">**The Great Clean-up of the Singapore River**</a>
+
+In a&nbsp;_BiblioAsia Podcast_&nbsp;episode, writer Samantha Boh tells us how civil servant Lee Ek Tieng and his team at the Ministry of Environment overcame the challenges of cleaning up the Singapore River.
+
+<img src="/images/Vol%2022%20Issue%201/River/Boat_Quay_Singapore_River.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/">Remembering John Norman Miksic</a>
 
 The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79.

@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - The Great Clean up Of The Singapore River.md
       - Sample article.md
