@@ -87,7 +87,7 @@ Are there possibilities for further research? This is feasible since the private
 
 According to Tweedie’s final report to the CCNY dated 28 August 1946, Chasen lost his life in 1942 while attempting to flee Singapore on the eve of the Japanese invasion. Herbert Deane Noone (better known as H.D. Noone or Pat Noone), who was based at the Perak Museum in Taiping and responsible for the expenditure of CCNY funds in later years (such as the excavations in Kelantan in 1941), joined the guerrilla fighters during World War II and disappeared in 1943.[^31]
 
-Noone’s manuscript and personal papers were either lost in the looting of the Perak Museum in December 1941, or kept with Noone when he went into the jungle and disappeared.[^32] As for the Guar Kepah site, it has transformed into a cultural resource today, with many more researchers investigating the site and its artefacts in later periods. The Guar Kepah Archaeological Gallery is slated to open to display various finds.[^33]
+Noone’s manuscript and personal papers were either lost in the looting of the Perak Museum in December 1941, or kept with Noone when he went into the jungle and disappeared.[^32] As for the Guar Kepah site, it has transformed into a cultural resource today, with many more researchers investigating the site and its artefacts in later periods. The Guar Kepah Archaeological Gallery in Penang opened in January 2026 to display various finds from the site.[^33]
 
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_gallery.jpg)
 <div style="background-color:white;">The Guar Kepah Archaeological Gallery&nbsp;in Penang will be opening soon.  <i>Photo by Foo Shu Tieng.</i></div>
