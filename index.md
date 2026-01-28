@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-12/issue-3/oct-dec-2016/publichouse-pvtlives/
-      button: Dr Liu Thai Ker’s contributions to public housing
+      url: /vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
+      button: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-12-issue-3/public-housing-private-lives/Hero_Banner_Public_Housing.jpg
+      background: /images/Vol 18 Issue 4/Thaipusam/Hero Banner_Thaipusam1.png
       variant: center
   - infopic:
       title: Bringing Back the Hainan Lion
