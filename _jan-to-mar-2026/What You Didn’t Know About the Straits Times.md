@@ -210,7 +210,7 @@ The fate of the _Straits Times_ is not unique though. Newspapers around the worl
 
 [^11]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 116.
 
-[^12]: Lee Meiyu, “[Propagnada Paper](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/syonan-shimbun/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41; [_The Syonan Sinbun_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19421208-1.1.1), 8 December 1942; [_The Syonan Shimbun_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19431208-1.1.1), 8 December 1943; [_The Syonan Shimbun_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19450904-1.1.1), 4 September 1945. (From NewspaperSG)&nbsp;
+[^12]: Lee Meiyu, “[Propaganda Paper](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/syonan-shimbun/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41; [_The Syonan Sinbun_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19421208-1.1.1), 8 December 1942; [_The Syonan Shimbun_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19431208-1.1.1), 8 December 1943; [_The Syonan Shimbun_](https://eresources.nlb.gov.sg/newspapers/digitised/page/syonantimes19450904-1.1.1), 4 September 1945. (From NewspaperSG)&nbsp;
 
 [^13]: Turnbull, [_Dateline Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7471414), 132.
 
