@@ -25,7 +25,7 @@ sections:
         of the Guang Wu Club led a martial artist and lion dance master to
         revive a lost art form.
       button: Reviving a lost art
-      url: /culture /2026/1/hainan-lion-tiger-dance-guang-wu-club
+      url: /culture/2026/1/hainan-lion-tiger-dance-guang-wu-club
       image: /images/Online Only Articles/Bringing Back the Hainan
         Lion/Guangwu_Hainan_tiger1.jpg
       alt: Image alt text
