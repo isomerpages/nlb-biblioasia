@@ -435,128 +435,85 @@ internet and no easy life. It’s a big decision.&nbsp;</p>
 a year or more to go, and there was actually a lot of opposition within
 the family. I mean, basically her sister and her, other aunts and my uncles,
 you know, the fact that I was a very young girl going to this faraway place
-all by myself.</p>
-<p>&nbsp;</p>
+all by myself.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And there was nobody there, right?</p>
-<p>&nbsp;</p>
+<br>And there was nobody there, right?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>No, I didn’t have any family there. I was looking to go to California
+<br>No, I didn’t have any family there. I was looking to go to California
 and there was nobody there. So, it was a huge deal. And there was also
 a financial cost, of course. Which she didn’t really talk about and only
 found out later that she actually had to borrow some money to allow me
-to go.</p>
-<p>&nbsp;</p>
+to go.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s what parents do, right? You shield your children from all this.
-You do what you can.</p>
-<p>&nbsp;</p>
+<br>That’s what parents do, right? You shield your children from all this.
+You do what you can.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, you do what you have to do. And again, this is something that now,
+<br>Yes, you do what you have to do. And again, this is something that now,
 as a parent, of course, I understand that you do everything for your children.
-So that’s exactly what she did. So yeah.</p>
-<p>&nbsp;</p>
+So that’s exactly what she did. So yeah.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But, even when you were abroad, you guys kept in touch because you are
-obviously very close.</p>
-<p>&nbsp;</p>
+<br>But, even when you were abroad, you guys kept in touch because you are
+obviously very close.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes. So, we spoke on the phone, I think every week, even though it was
+<br>Yes. So, we spoke on the phone, I think every week, even though it was
 very expensive. I think it was like a dollar a minute back in those days
-and we wrote lots of letters. I have boxes and boxes of letters.</p>
-<p>&nbsp;</p>
+and we wrote lots of letters. I have boxes and boxes of letters.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Are you writing to her about your life?</p>
-<p>&nbsp;</p>
+<br>Are you writing to her about your life?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Both. Yes. Both ways. And some of these letters are about, you know, five
+<br>Both. Yes. Both ways. And some of these letters are about, you know, five
 to 10 pages long and they’re very detailed. Yeah. I mean, I still have
 them. I go through a few of them occasionally, but I’m at a loss at what
 I’m going to do with them. Then after that, the letters that eventually
-change to emails [and we] e-mailed each other.</p>
-<p>&nbsp;</p>
+change to emails [and we] e-mailed each other.&nbsp;</p>
 <p>So yeah, we always kept in touch and she would, when I moved to Canada,
 she would visit every other year and I would come back. So, we saw each
-other pretty much every year.</p>
-<p>&nbsp;</p>
+other pretty much every year.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And she also made it a point to be at your graduation.</p>
-<p>&nbsp;</p>
+<br>And she also made it a point to be at your graduation.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, of course. You know, special occasions. In 1993, when she became
+<br>Yes, of course. You know, special occasions. In 1993, when she became
 Woman of the Year by the <em>Her World</em> magazine, I came back to surprise
-her.</p>
-<p>&nbsp;</p>
+her.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>She didn’t know you were coming?</p>
-<p>&nbsp;</p>
+<br>She didn’t know you were coming?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>No. Yeah.</p>
-<p>&nbsp;</p>
+<br>No. Yeah.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, when she realised, how did she react?</p>
-<p>&nbsp;</p>
+<br>So, when she realised, how did she react?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I think I just showed up at home. Oh. My mother-in-law picked me up and
-said she had a surprise.</p>
-<p>&nbsp;</p>
+<br>I think I just showed up at home. Oh. My mother-in-law picked me up and
+said she had a surprise.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. And how did your mother react at that point?</p>
-<p>&nbsp;</p>
+<br>Okay. And how did your mother react at that point?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>It was wonderful. Yeah, I was very happy.</p>
-<p>&nbsp;</p>
+<br>It was wonderful. Yeah, I was very happy.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I can imagine. So, you know, your mother has been involved for a number
+<br>I can imagine. So, you know, your mother has been involved for a number
 of years in the library; she’s helped start up the archives. Singapore
-Book Council. What do you think is like the common thread with all this?</p>
-<p>&nbsp;</p>
+Book Council. What do you think is like the common thread with all this?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I think the common thread is that if you are going to take up a role in
+<br>I think the common thread is that if you are going to take up a role in
 any organisation, you have to give it your all. And my mother was very
 dedicated to all these organisations and others that she was involved with.
 In terms of a common thread, in particular for these organisations, I think
-the thread is her passion for education, writing, reading and history.</p>
-<p>&nbsp;</p>
+the thread is her passion for education, writing, reading and history.&nbsp;</p>
 <p>You know, if we look at each of them sort of in isolation, for example,
 where she set up a little library that focused on women’s issues, and she
 would spend countless hours at the centre cataloguing the book titles and
 arranging the library and all this sort of thing. And on weekends, it didn’t
 end. She would go to various bookstores and always be on the lookout for
-books that covered women’s issues.</p>
-<p>&nbsp;</p>
+books that covered women’s issues.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>That she thought would be useful for the library. So, you know, that thread
+<br>That she thought would be useful for the library. So, you know, that thread
 of education is in that, for the National Archives that she was involved
 with, for almost 10 years. I think she felt that it was very important
 that Singapore build up an arsenal of our history for the future generations.
 She always believed that in order to understand where we are today, we
 need to understand where we came from and what future generations went
-through so that we can fully appreciate what we have today.</p>
-<p>&nbsp;</p>
+through so that we can fully appreciate what we have today.&nbsp;</p>
 <p>And that’s what I think she believed that the National Archives was for
 and the Singapore Book Council, which was previously the National Book
 Development Council, was set up to promote reading and encourage the development
@@ -564,18 +521,14 @@ of Singapore literature. This is again something that my mother was very
 passionate about. She was very supportive of local playwrights and local
 authors. You know, she had a whole collection in our home of Singapore
 authors such as Goh Poh Seng, Gopal Baratham, and many, many others. So,
-she really felt that this was part of Singapore’s history.</p>
-<p>&nbsp;</p>
+she really felt that this was part of Singapore’s history.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You wrote in your piece that your mother, you know, introduced books to
+<br>You wrote in your piece that your mother, you know, introduced books to
 you, especially during different phases in your life. Like, you know, maybe
 when you were a teenager, she brought home books about relationships and
-all that. Can you tell us a bit about that?</p>
-<p>&nbsp;</p>
+all that. Can you tell us a bit about that?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>So, my mother introduced me to books, obviously from a young age. I think
+<br>So, my mother introduced me to books, obviously from a young age. I think
 we started out with picture books, you know, Eric Carle and Doctor Seuss
 and she would always read me a storybook at night, just to get me engaged.
 And then in my teen years, I enjoyed the series and books by a lot of female
