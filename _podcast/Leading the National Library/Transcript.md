@@ -230,79 +230,54 @@ or university?&nbsp;</p>
 it very much, but the little that she did, it was obviously a very difficult
 time. Obviously, food was scarce, and they saw a lot of, I mean, they saw
 a lot of crimes and fallen heads, I think, displayed at Dhoby Ghaut and
-they would walk by this.</p>
-<p>&nbsp;</p>
+they would walk by this.&nbsp;</p>
 <p>And so, there was always a fear of, you know, what might happen if her
 sisters went out. Yeah. And that sort of thing. And she could not go to
 Japan. She did not want to go to Japan for many, many years because she
 just hated the Japanese. It was much later in life that she finally went.
-But it was always very painful for her to talk about the Japanese.</p>
-<p>&nbsp;</p>
+But it was always very painful for her to talk about the Japanese.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That is the war.</p>
-<p>&nbsp;</p>
+<br>That is the war.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>So yes, it impacted her greatly.</p>
-<p>&nbsp;</p>
+<br>So yes, it impacted her greatly.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. She was hoping, after she graduated, to join administrative service.
-But she ended up not getting a position. How do you think that shaped her?</p>
-<p>&nbsp;</p>
+<br>Yeah. She was hoping, after she graduated, to join administrative service.
+But she ended up not getting a position. How do you think that shaped her?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I think she was very disappointed. She didn’t talk to me directly about
-it, but I have read about it.</p>
-<p>&nbsp;</p>
+<br>I think she was very disappointed. She didn’t talk to me directly about
+it, but I have read about it.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>She had first-class honours, right?</p>
-<p>&nbsp;</p>
+<br>She had first-class honours, right?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>She was one of five people in the honours class in English. She was the
+<br>She was one of five people in the honours class in English. She was the
 only woman. She was the one who got the first class. The gentlemen got
 second and third class. And I think somebody dropped out. And the men,
-I guess three or four men, were all accepted into the administrative service.</p>
-<p>&nbsp;</p>
+I guess three or four men, were all accepted into the administrative service.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I did not know this.</p>
-<p>&nbsp;</p>
+<br>I did not know this.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes. So, she was not. The civil service apparently did not take women
+<br>Yes. So, she was not. The civil service apparently did not take women
 at that time. There was also a rumour that she was not accepted because
 of her involvement in student activities. So, I think this is something
-we will never really know, but that may have something to do with it.</p>
-<p>&nbsp;</p>
+we will never really know, but that may have something to do with it.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>And again, I think it was a very different time. And women had very few
+<br>And again, I think it was a very different time. And women had very few
 choices. They either ended up being teachers, nurses or, you know, maybe
 doing some secretarial work. And a large part was stay-at-home moms, I
 mean, there were no domestic helpers back in those days. And it was only
 a few years later that some of her close female friends got accepted into
-the administrative service.</p>
-<p>&nbsp;</p>
+the administrative service.&nbsp;</p>
 <p>So, it was a very different time. But I think going back to how it affected
 her. I think it stayed with her. I don’t think she ever forgot that. And
 I guess that was the beginning of her quest for, I don’t know, equality
-and joining AWARE and creating AWARE and all that later on in life.</p>
-<p>&nbsp;</p>
+and joining AWARE and creating AWARE and all that later on in life.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Do you know how she became a librarian?</p>
-<p>&nbsp;</p>
+<br>Do you know how she became a librarian?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>It was purely by chance. I think she didn’t really quite know what to
+<br>It was purely by chance. I think she didn’t really quite know what to
 do. So, she had an English degree, and she was hoping to join the civil
 service, but she was rejected. So, she taught for about six months. I think
-she needed to work and earn some money.</p>
-<p>&nbsp;</p>
+she needed to work and earn some money.&nbsp;</p>
 <p>And, at that time, I guess public institutions were just coming to the
 forefront or just being created in Singapore, the library being a new institution.
 So, the job just came up and it just seemed like a good alternative. And
@@ -315,83 +290,60 @@ in academia. We will never know. Because there were very few career choices.
 This librarianship post came up, a library assistant, and so she applied
 and she got it. As I mentioned earlier, there were very few choices. Even
 the law faculty had not been set up yet. And anybody who wanted to study
-law had to go overseas.</p>
-<p>&nbsp;</p>
+law had to go overseas.&nbsp;</p>
 <p>So, while she was a library assistant at the University of Malaya, based
 in Singapore, she got a scholarship to study librarianship in 1955. And,
-this was two years, so she spent two years in England studying librarianship.</p>
-<p>&nbsp;</p>
+this was two years, so she spent two years in England studying librarianship.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. And so that set her off on –</p>
-<p>&nbsp;</p>
+<br>Okay. And so that set her off on –&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>On the path of librarianship. Yes. And, in 1962, she actually received
+<br>On the path of librarianship. Yes. And, in 1962, she actually received
 a letter from Datuk Loke Wan Tho encouraging her to apply for the position
-of director of the National Library.</p>
-<p>&nbsp;</p>
+of director of the National Library.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>This is 1962?</p>
-<p>&nbsp;</p>
+<br>This is 1962?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>1962. Yes. And, he was actually the first board chairman of the National
+<br>1962. Yes. And, he was actually the first board chairman of the National
 Library, and he had discussed it with Mr. S Rajaratnam, who was the Minister
 of Culture at the time. And they both decided that she would be the best
 person for this position. So, just to backtrack a bit, the library at that
 time in Singapore was being run by an expat and Datuk Loke Wan Tho sort
 of warned her indirectly that she may not be able to get the director position
-straight away and she would have to report to this expat.</p>
-<p>&nbsp;</p>
+straight away and she would have to report to this expat.&nbsp;</p>
 <p>So that’s exactly what happened. She came back to Singapore from Malaysia,
 and she became the assistant director from 1962 to 1964, reporting to this
 person, which I think she was a little bit disappointed about. But anyway,
 subsequently, she became the director in 1965. So, all in all, she was
-involved with libraries for about 36 years.</p>
-<p>&nbsp;</p>
+involved with libraries for about 36 years.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Among her many achievements, one of the things that she did was to actually
+<br>Among her many achievements, one of the things that she did was to actually
 push for books for children, ensuring that, you know, that the libraries
 would be well stocked with books. And, in fact, I think she actually got
-one of your aunts, her sister, to come and head the children’s collection.</p>
-<p>&nbsp;</p>
+one of your aunts, her sister, to come and head the children’s collection.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, that’s right. Eleanor.</p>
-<p>&nbsp;</p>
+<br>Yes, that’s right. Eleanor.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, what do you think was behind this?</p>
-<p>&nbsp;</p>
+<br>So, what do you think was behind this?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I think I’m not 100 percent sure, but I think that my mother could see
+<br>I think I’m not 100 percent sure, but I think that my mother could see
 the value of education. And I think that after food and shelter are taken
 care of as basic needs, education comes next. And I think that my mother
 believed that if you instilled the love of learning and reading from a
-young age, it would stay with you hopefully throughout your life.</p>
-<p>&nbsp;</p>
+young age, it would stay with you hopefully throughout your life.&nbsp;</p>
 <p>It's really about forming good habits. It’s just like sports. If you start
 a child in sports from young, presumably they will continue that interest.
 Everybody has got different interests, but I think it starts from young.
 So, she really wanted to cultivate that habit from a young age. And I think
 she saw, from her own personal background, how it could change one’s life
 and how you could move on, through education. So, it was very important
-to her.</p>
-<p>&nbsp;</p>
+to her.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. I want to turn to slightly more, maybe personal questions. What
+<br>Okay. I want to turn to slightly more, maybe personal questions. What
 was it like growing up as her daughter? I mean, you mentioned earlier,
 she would bring you to the library when you were much younger, but how
-did her being a librarian sort of shape her as a parent, for example?</p>
-<p>&nbsp;</p>
+did her being a librarian sort of shape her as a parent, for example?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>So being a very small family, it was just me and my mother. We did have
+<br>So being a very small family, it was just me and my mother. We did have
 a full-time, living helper at the time growing up. And she was almost like
 my second mother. I was very close to this helper. I think looking back,
 I didn’t know any different. I didn’t grow up with a father. I didn’t grow
@@ -401,14 +353,12 @@ would bring home lots of books to read for herself and for me. When I was
 younger, she would bring home books for me to read. And then as I got older,
 of course, I got to choose my own books. Or a combination of, you know,
 whatever she thought might interest me. So, evenings were spent, either
-talking about the day or what I did in school.</p>
-<p>&nbsp;</p>
+talking about the day or what I did in school.&nbsp;</p>
 <p>Homework, you know, the usual stuff. But we didn’t have, like, tuition
 classes back in those days. The most I did was, I had an interest in ballet.
 I enjoyed ballet, so I went for ballet classes, and I also took piano for
 a little while. So those were the two extracurricular sort of activities
-I did outside of school.</p>
-<p>&nbsp;</p>
+I did outside of school.&nbsp;</p>
 <p>But I didn’t go for tuition in math or English, like they do today. So,
 we would, I guess, discuss my day or her day, and we would listen to classical
 music. My mother enjoyed classical music very much. And then, of course,
@@ -419,27 +369,19 @@ inches or something. And we would watch the news until, I think, they sang
 beginning of the programme or the end of the day, anyway. Yeah. So, we
 would watch a little bit of TV, but she wouldn’t sit there for hours. She
 was not really a TV person. And it was generally, I would say, a quiet
-household because it was just the two of us.</p>
-<p>&nbsp;</p>
+household because it was just the two of us.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And a very bookish house.</p>
-<p>&nbsp;</p>
+<br>And a very bookish house.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>A bookish household. Yes. We would go to the park. That would sort of
+<br>A bookish household. Yes. We would go to the park. That would sort of
 be our outing. We would go get groceries, like actually groceries, not
 so much. The helper would go to the market and get fresh produce.&nbsp;
 My mother was not very domesticated, in that sense. Which I find strange.
-She was really more of an academic.</p>
-<p>&nbsp;</p>
+She was really more of an academic.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, she didn’t do the cooking?</p>
-<p>&nbsp;</p>
+<br>So, she didn’t do the cooking?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>No, she didn’t do any cooking or cleaning. The helper did that. And it
+<br>No, she didn’t do any cooking or cleaning. The helper did that. And it
 wasn’t important to her. Yeah. She said you know there’s much more important
 things to do. Food was also not... That was very un-Singaporean of her.
 She enjoyed her food, but she was not the type of person to go out of her
@@ -448,72 +390,48 @@ is in front of you and you just eat it. And I think that’s something she
 taught me. We had a helper, was very good at cooking, and she could cook
 all kinds of food from Malay, Chinese-style, Indian, Western. So, I was
 exposed to a lot of different types of food. And my mother always made
-me eat everything on the plate.</p>
-<p>&nbsp;</p>
+me eat everything on the plate.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>All right. Yes. It was that time.</p>
-<p>&nbsp;</p>
+<br>All right. Yes. It was that time.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes. You know, there are people starving in Africa. Yes. So, looking back,
+<br>Yes. You know, there are people starving in Africa. Yes. So, looking back,
 I think that was, I think, that’s a trait that came from the war because,
 you know, it’s precious. And you finish[ed] what you had. Whereas in today’s
 world, I mean, people don’t think at all about leaving half of the plate
 full. So, that was very important to [her]. And the fact that she exposed
 me to a lot of different foods, I think, was also very good because there
-are a lot of children today who are extremely fussy with their food.</p>
-<p>&nbsp;</p>
+are a lot of children today who are extremely fussy with their food.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And your mother frequently had to travel with you, she brought you along
-with her.</p>
-<p>&nbsp;</p>
+<br>And your mother frequently had to travel with you, she brought you along
+with her.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Not really the biggest trip but one of her big trips that she had was
+<br>Not really the biggest trip but one of her big trips that she had was
 in 1972. She had some conferences in Europe. I forget exactly where, but
 she left me in England, and that was my first big trip. She left me with
 her sister. She had two sisters in London, so she left me there. And, I
-had a wonderful time. I think I was there for about three or four weeks.</p>
-<p>&nbsp;</p>
+had a wonderful time. I think I was there for about three or four weeks.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>How old were you?</p>
-<p>&nbsp;</p>
+<br>How old were you?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I was 10. So, I loved it. And then in 1975 she had another, sort of business
+<br>I was 10. So, I loved it. And then in 1975 she had another, sort of business
 trip, I guess you call it, to the U.S. And so, I tagged along as well.
 And it was mostly California and Hawaii and it was after those trips that
-I really wanted to go study.</p>
-<p>&nbsp;</p>
+I really wanted to go study.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You wrote about it in your piece for <em><a href="https://safe.menlosecurity.com/https:/biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em>;
-I think you were 17 when you went to Canada, was it?</p>
-<p>&nbsp;</p>
+<br>You wrote about it in your piece for <em><a href="https://safe.menlosecurity.com/https:/biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em>;
+I think you were 17 when you went to Canada, was it?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I went to the U.S.</p>
-<p>&nbsp;</p>
+<br>I went to the U.S.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>San Francisco?</p>
-<p>&nbsp;</p>
+<br>San Francisco?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>San Francisco, yes.</p>
-<p>&nbsp;</p>
+<br>San Francisco, yes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. But you know, you can imagine that, presumably as a parent now,
+<br>Right. But you know, you can imagine that, presumably as a parent now,
 letting your 17-year-old go off to a faraway country where there is no
-internet and no easy life. It’s a big decision.</p>
-<p>&nbsp;</p>
+internet and no easy life. It’s a big decision.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, it was a huge decision. I think I bugged my mother for probably about
+<br>Yes, it was a huge decision. I think I bugged my mother for probably about
 a year or more to go, and there was actually a lot of opposition within
 the family. I mean, basically her sister and her, other aunts and my uncles,
 you know, the fact that I was a very young girl going to this faraway place
