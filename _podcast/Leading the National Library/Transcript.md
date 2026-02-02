@@ -82,49 +82,36 @@ in the library, and, you know, mum would bring you to the library.&nbsp;</p>
 My mother would go up to her office and sort of leave me there as, I mean,
 they were sort of the babysitters, I guess, in a strange way. But I would
 wander around the children’s section and look out for all the new books.
-And attend the storytelling sessions.</p>
-<p>&nbsp;</p>
+And attend the storytelling sessions.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, right. So, did you go to the library quite frequently? After school,
-for example?</p>
-<p>&nbsp;</p>
+<br>Oh, right. So, did you go to the library quite frequently? After school,
+for example?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes. I only went to the convent in secondary school, so I would go there
+<br>Yes. I only went to the convent in secondary school, so I would go there
 after school. In my younger days in primary school, my helper would sometimes
 bring us there. And on Saturdays, my mother would bring me to the library
-because the library was open only half a day.</p>
-<p>&nbsp;</p>
+because the library was open only half a day.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. Okay. Let’s talk a little bit about your mother and her background.
+<br>Right. Okay. Let’s talk a little bit about your mother and her background.
 She was born in 1928 in Johor Bahru. Tell me about her background and her
-education and how she ended up being the director of the library.</p>
-<p>&nbsp;</p>
+education and how she ended up being the director of the library.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Sure. My mother is the second in a family of six siblings born to a Eurasian
+<br>Sure. My mother is the second in a family of six siblings born to a Eurasian
 mother and a Eurasian father. Her father, Percival Frank Aroozoo was the
 principal of Gan Eng Seng Secondary School from 1938 to 1955. What I found
 very interesting in some of my research is that he qualified as a teacher
-at the age of 17, so he was very young.</p>
-<p>&nbsp;</p>
+at the age of 17, so he was very young.&nbsp;</p>
 <p>He was definitely a huge influence on my mother and her siblings in terms
 of generating a deep interest in writing and reading. So, when he was the
 principal of the school, he produced an annual school play for 12 years.
 And he also started the school magazine. He taught for 20 years before
 he became the principal of Gan Eng Seng. He encouraged all his children
 to aim high and to go to university. He had missed out on going to university
-because he had to start work, and he could not afford to go to college.</p>
-<p>&nbsp;</p>
+because he had to start work, and he could not afford to go to college.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>From my understanding, he was also a very strict and stern father, but
+<br>From my understanding, he was also a very strict and stern father, but
 he was very close to his children nonetheless. And I think this is something
 that also carried through in his children, like my mother, and affected
 their outlook in life. Another interesting fact is that all of them were
@@ -133,88 +120,56 @@ in Singapore. There was also a seventh sibling, but unfortunately, he passed
 on at about the age of 12 months. And the reason that they were born in
 Johor Bahru was that their grandmother lived in this lovely big house in
 Johor Bahru, and I guess my grandmother wanted to be with her mother for
-childbirth and needed family support. And so, they were all born there.</p>
-<p>&nbsp;</p>
+childbirth and needed family support. And so, they were all born there.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, so they were actually living in Singapore?</p>
-<p>&nbsp;</p>
+<br>Oh, so they were actually living in Singapore?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>So, they did a bit of a shuttle, actually, she did go to school in Johor
+<br>So, they did a bit of a shuttle, actually, she did go to school in Johor
 Bahru at the convent there from 1934 to 1936. And then when they made the
-move to Singapore, she moved to Victoria Street from 1937 to 1941.</p>
-<p>&nbsp;</p>
+move to Singapore, she moved to Victoria Street from 1937 to 1941.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And she eventually went to university, I guess the University of Malaya
-at the time.</p>
-<p>&nbsp;</p>
+<br>And she eventually went to university, I guess the University of Malaya
+at the time.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes. That’s right.</p>
-<p>&nbsp;</p>
+<br>Yes. That’s right.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And what was her degree in?&nbsp;</p>
-<p>&nbsp;</p>
+<br>And what was her degree in?&nbsp;&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>In English literature.</p>
-<p>&nbsp;</p>
+<br>In English literature.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, okay.</p>
-<p>&nbsp;</p>
+<br>Oh, okay.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yeah. My understanding is that there were very limited subjects back in
+<br>Yeah. My understanding is that there were very limited subjects back in
 those days. She was not a science person, so it would either have been
 history, geography or literature. I think it was very limited. Yeah. She
 wasn’t interested in geography, but she enjoyed history and literature
-very much.</p>
-<p>&nbsp;</p>
+very much.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>She eventually became the director of the National Library, so she must
-have been a bit of a reader herself. What do you know about that?</p>
-<p>&nbsp;</p>
+<br>She eventually became the director of the National Library, so she must
+have been a bit of a reader herself. What do you know about that?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes. So again, it goes back to her childhood. Her father was very much
+<br>Yes. So again, it goes back to her childhood. Her father was very much
 interested in reading and had all sorts of books in their home. I mean,
 I’ve seen pictures of book shelves lining the walls and every shelf is
 filled with books. And recently, I found a typewritten list of books that
-my grandfather had, and they were actually categorised by topic.</p>
-<p>&nbsp;</p>
+my grandfather had, and they were actually categorised by topic.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, so like a catalogue?</p>
-<p>&nbsp;</p>
+<br>Oh, so like a catalogue?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, like a typewritten catalogue. Looks very yellowed. It’s very old
+<br>Yes, like a typewritten catalogue. Looks very yellowed. It’s very old
 from 1968. And it’s categorised and the subjects included art, children’s
 books, biographies, history, travel fiction, literature, which included
 drama, poetry and essays, as well as philosophy and religion. So, you can
-see the range is extremely diverse.</p>
-<p>&nbsp;</p>
+see the range is extremely diverse.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, your mother grew up in this environment?</p>
-<p>&nbsp;</p>
+<br>So, your mother grew up in this environment?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, they all did. And I think the only thing that was missing was sports.
-They were not a sports-oriented family, which was quite unusual.</p>
-<p>&nbsp;</p>
+<br>Yes, they all did. And I think the only thing that was missing was sports.
+They were not a sports-oriented family, which was quite unusual.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I think the other thing that we need to remember is that it was a very
+<br>I think the other thing that we need to remember is that it was a very
 different time. I mean, there was no television, there was no internet,
 obviously. So really reading was their form of entertainment. And the radio,
 they would listen to the radio. So, she really developed a love for reading.
@@ -223,55 +178,37 @@ was a real bookworm, and she was the biggest bookworm. She would just plonk
 herself in a corner and just read. She just loved that. And she also, I
 discovered, read to her grandfather because her grandfather had problems
 with his eyesight. So, she would read out [loud] to him, and again, would
-read, you know, all sorts of topics, I guess.</p>
-<p>&nbsp;</p>
+read, you know, all sorts of topics, I guess.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, I guess this, this love for books and this need to categorise...</p>
-<p>&nbsp;</p>
+<br>So, I guess this, this love for books and this need to categorise...&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Started from a young age.</p>
-<p>&nbsp;</p>
+<br>Started from a young age.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s genetic.</p>
-<p>&nbsp;</p>
+<br>It’s genetic.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, definitely.</p>
-<p>&nbsp;</p>
+<br>Yes, definitely.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>She had a very interesting time at university. In addition to obviously
+<br>She had a very interesting time at university. In addition to obviously
 being a very good student, she was also involved politically, as many students
 in university were at the time. Where do you think that streak of activism
-came from?</p>
-<p>&nbsp;</p>
+came from?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I think it came from her experience in the Japanese Occupation.</p>
-<p>&nbsp;</p>
+<br>I think it came from her experience in the Japanese Occupation.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>How old was she then?</p>
-<p>&nbsp;</p>
+<br>How old was she then?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>She would have been a teenager. She was about 16, I think, 16, 17. And
+<br>She would have been a teenager. She was about 16, I think, 16, 17. And
 so old enough to know what was going on, I think. She was number two in
 the family. She was told that the younger siblings didn’t really understand
 what was going on. My grandmother, unfortunately, was not very well physically.
 So, my mother and her older sister had to take on a lot of responsibilities
 in running the household, cooking and cleaning and that sort of thing,
-while my grandfather was presumably at work.</p>
-<p>&nbsp;</p>
+while my grandfather was presumably at work.&nbsp;</p>
 <p>I think this also forced them to grow up very quickly, obviously. But
 going back to the political streak, I think the Japanese Occupation affected
 her a lot. And I think there was a lot of political chatter in the home
 about the British and the Japanese and she would have had conversations
-with her father, her uncles, grandparents, neighbours, etc.</p>
-<p>&nbsp;</p>
+with her father, her uncles, grandparents, neighbours, etc.&nbsp;</p>
 <p>And I think the postwar period, especially, ignited her interest in politics
 as she could feel the impact of politics on everyday life. In fact, in
 one of her interviews in the 1990s, she mentioned coming across a demonstration
@@ -284,16 +221,12 @@ to their studies. And I think this was, you know, after the war. So probably
 about 1947, ’48, [and] she never forgot this incident. She always mentioned
 that it was a very exciting time in Singapore’s history. She said most
 of the students were very political in their outlook as they looked forward
-to independence. And she called all of them nationalists at the time.</p>
-<p>&nbsp;</p>
+to independence. And she called all of them nationalists at the time.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, did you talk to her about her time during the Japanese Occupation
-or university?</p>
-<p>&nbsp;</p>
+<br>So, did you talk to her about her time during the Japanese Occupation
+or university?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>It was a very painful time. The Japanese Occupation. She didn’t talk about
+<br>It was a very painful time. The Japanese Occupation. She didn’t talk about
 it very much, but the little that she did, it was obviously a very difficult
 time. Obviously, food was scarce, and they saw a lot of, I mean, they saw
 a lot of crimes and fallen heads, I think, displayed at Dhoby Ghaut and
