@@ -11,7 +11,7 @@ By Fiona Williamson
 <img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_main.png" style="width: 80%;">
 
 
-<div style="background-color: white;">Alhambra Theatre on Beach Road, 1947. It is considered the first cinema in Malaya to have modern air conditioning.  <i>Tan Kok Kheng Collection, courtesy of National Archives of Singapore (Media - Image no:.20050001019 - 0036). </i></div>
+<div style="background-color: white;">Alhambra Theatre on Beach Road, 1947. It is considered the first cinema in Malaya to have modern air conditioning.  <i>Tan Kok Kheng Collection, courtesy of National Archives of Singapore (Media - Image no. 20050001019 - 0036). </i></div>
 
 
 Before the advent of air conditioning in Singapore, staying cool meant being creative and, ideally, well-off. The bungalows of the colonial elite, Chinese and Europeans alike, would be situated on higher ground with ample gardens to generate maximum exposure to breezes and cooling vegetation.&nbsp;
