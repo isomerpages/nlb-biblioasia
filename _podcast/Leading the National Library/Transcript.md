@@ -26,85 +26,59 @@ guess.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>You’re listening to<em> BiblioAsia+</em>, a podcast produced by the National
 Library of Singapore. At <em>BiblioAsia</em>, we tell stories about Singapore’s
-past. Some familiar, others forgotten, all fascinating.</p>
-<p>&nbsp;</p>
+past. Some familiar, others forgotten, all fascinating.&nbsp;</p>
 <p>You wouldn’t describe Hedwig Anuar as a tall woman, but in the minds of
 Singaporeans, she is a giant. The first Malayan to hold the post of director
 of the National Library of Singapore, [a] position [she would hold] for
 a little over 20 years, from 1965 to 1988. As director, she was responsible
-for shaping the library in significant ways.</p>
-<p>&nbsp;</p>
+for shaping the library in significant ways.&nbsp;</p>
 <p>Among other things, she pushed for a focus on books for children, spearheaded
 the roll out of branch libraries, and initiated the computerisation of
 the card catalog. She was also active outside the library. She was a founding
 member of the women’s rights group AWARE and eventually became its president
 after she retired from the library. Most Singaporeans know of her through
-her many public accomplishments.</p>
-<p>&nbsp;</p>
+her many public accomplishments.&nbsp;</p>
 <p>However, few people know Hedwig Anuar, the person, and someone who knows
 this side of her well is her daughter, Shirin Aroozoo. Shirin wrote about
 growing up as the daughter of Hedwig Anuar in <em>BiblioAsia</em>, and she’s
 here in the studio today to tell us all about what that was like. Welcome
-to the BiblioAsia<em>+ </em>podcast, Shirin. How are you?</p>
-<p>&nbsp;</p>
+to the BiblioAsia<em>+ </em>podcast, Shirin. How are you?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Thank you for inviting me, Jimmy. I’m very happy to be here today.</p>
-<p>&nbsp;</p>
+<br>Thank you for inviting me, Jimmy. I’m very happy to be here today.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Thank you for coming. We are very excited to have you. I just wanted to
+<br>Thank you for coming. We are very excited to have you. I just wanted to
 start by asking you what it was like growing up as the daughter of Hedwig
 Anuar. Did people stop you in school that your teachers say, you’re the
-daughter of Hedwig Anuar? What was it like?</p>
-<p>&nbsp;</p>
+daughter of Hedwig Anuar? What was it like?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I think as a young child, you don’t really know what your parents really
+<br>I think as a young child, you don’t really know what your parents really
 do for a living. You just know them as mum and dad, right? And, I think
 it was only later, perhaps in secondary school, that I realised that well,
 yeah, she’s the head of the library and, yes, some of my friends and teachers
 were aware of that. And, of course, when I went to the library, people
-knew me as Mrs. Anuar’s daughter.</p>
-<p>&nbsp;</p>
+knew me as Mrs. Anuar’s daughter.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. Do you remember the first time you went to the library? What was
-your first memory?</p>
-<p>&nbsp;</p>
+<br>Right. Do you remember the first time you went to the library? What was
+your first memory?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I was very young. I mean, I must have been about 5, I think it was before
+<br>I was very young. I mean, I must have been about 5, I think it was before
 primary one. The building was a very iconic red-brick building, as everybody
 knows, and I would go up to her office on the second floor. I remember
 it being very big, or so I thought. And it was just a very welcoming place.
-Very comfortable place.</p>
-<p>&nbsp;</p>
+Very comfortable place.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Did they allow you to stamp books?</p>
-<p>&nbsp;</p>
+<br>Did they allow you to stamp books?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes. Yes, I did do that occasionally. It was a lot of fun.</p>
-<p>&nbsp;</p>
+<br>Yes. Yes, I did do that occasionally. It was a lot of fun.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I can imagine. And presumably, you spent a lot of time just reading books
-in the library, and, you know, mum would bring you to the library.</p>
-<p>&nbsp;</p>
+<br>I can imagine. And presumably, you spent a lot of time just reading books
+in the library, and, you know, mum would bring you to the library.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes.</p>
-<p>&nbsp;</p>
+<br>Yes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Deposit you in the children’s section or whatever?</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<br>Deposit you in the children’s section or whatever?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Definitely. And that’s how I got to know some of the children’s librarians.
+<br>Definitely. And that’s how I got to know some of the children’s librarians.
 My mother would go up to her office and sort of leave me there as, I mean,
 they were sort of the babysitters, I guess, in a strange way. But I would
 wander around the children’s section and look out for all the new books.
