@@ -539,72 +539,42 @@ a subtle message. You know, that women can do anything or whatever. So,
 when I was in secondary school, I did literature as well. And we would
 discuss some of the poems and she loved Shakespeare and poetry. So that’s
 what we enjoyed, critiquing the poetry, I guess.</p>
-<p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And now, of course, you’ve undoubtedly passed it all to your son. Your
-son is how old now?</p>
-<p>&nbsp;</p>
+<br>And now, of course, you’ve undoubtedly passed it all to your son. Your
+son is how old now?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>He’s 27.</p>
-<p>&nbsp;</p>
+<br>He’s 27.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>He’s a young man.</p>
-<p>&nbsp;</p>
+<br>He’s a young man.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>He’s a young man. Yes, yes. Late 20s.</p>
-<p>&nbsp;</p>
+<br>He’s a young man. Yes, yes. Late 20s.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But do you remember the books you’ve read?</p>
-<p>&nbsp;</p>
+<br>But do you remember the books you’ve read?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I started with picture books when he was young. And then, I think the
-book that sticks in my mind was something called <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205806052" rel="noopener noreferrer nofollow" target="_blank">Goodnight Moon</a>.</em>
-</p>
-<p>&nbsp;</p>
+<br>I started with picture books when he was young. And then, I think the
+book that sticks in my mind was something called <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205806052" rel="noopener noreferrer nofollow" target="_blank">Goodnight Moon</a>.</em>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Right.</p>
-<p>&nbsp;</p>
+<br>Okay. Right.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>by Margeret Wise Brown. Trying to put him to sleep.</p>
-<p>&nbsp;</p>
+<br>by Margeret Wise Brown. Trying to put him to sleep.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I read that every night. Yeah.</p>
-<p>&nbsp;</p>
+<br>I read that every night. Yeah.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>We’re recording this in 2025. How old is she now?</p>
-<p>&nbsp;</p>
+<br>We’re recording this in 2025. How old is she now?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>96, going on 97. In November, she will be 97.</p>
-<p>&nbsp;</p>
+<br>96, going on 97. In November, she will be 97.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And she has some health issues.</p>
-<p>&nbsp;</p>
+<br>And she has some health issues.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>So, my mother was officially diagnosed with Alzheimer’s in March of 2004.
+<br>So, my mother was officially diagnosed with Alzheimer’s in March of 2004.
 So, she’s been living with the disease for about 21 years now. Yeah. You
 know, we noticed on the phone calls when I was living in Canada at the
 time, that she was quite forgetful and repeating herself, on the phone
 and, for a bunch of reasons, we came back to Singapore at the end of 2003,
 and speaking with her friends, they said, you know, I think we need to
-get her checked out.</p>
-<p>&nbsp;</p>
+get her checked out.&nbsp;</p>
 <p>So, she was officially diagnosed in 2004. Fortunately, the disease progressed
 very, very slowly. And, as you know, it is not a physical disease, but
 it affects the brain. And it’s really only in the last six years or so
@@ -613,31 +583,19 @@ communicate. She no longer recognises anyone. She’s not mobile. She’s at
 an advanced stage now, and she is like a baby. Almost. She sleeps about
 95 percent of the time, and she eats all blended food. But she’s very well
 taken care of, and she fortunately, she doesn’t have any other ailments,
-actually.</p>
-<p>&nbsp;</p>
+actually.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Good physical health.</p>
-<p>&nbsp;</p>
+<br>Good physical health.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, her physical health, her vitals are all good.</p>
-<p>&nbsp;</p>
+<br>Yes, her physical health, her vitals are all good.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And I understand that people from the library still visit her.</p>
-<p>&nbsp;</p>
+<br>And I understand that people from the library still visit her.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>That’s right. Yes.</p>
-<p>&nbsp;</p>
+<br>That’s right. Yes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, what happens when people come in?</p>
-<p>&nbsp;</p>
+<br>So, what happens when people come in?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>We sit around at the dining table with my mother at the head of the table
+<br>We sit around at the dining table with my mother at the head of the table
 in the wheelchair, and she’s pretty much sleeping most of the time. I’m
 not sure if she’s even aware of what’s going on. We like to think that
 she does and that she is absorbing something. The helpers do tell me that
@@ -645,100 +603,60 @@ they believe. I mean, because they spend a lot of time with her, they believe
 there is something. There’s a little bit of reaction. But it’s very hard
 to measure because I’m not sure if her hearing is that good anymore. And
 also her sight. Yeah. So, it’s very hard to engage with her because of
-her current condition.</p>
-<p>&nbsp;</p>
+her current condition.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But I guess the fact that her colleagues have made it a point to come
-and visit her, not just like once a year, but several times.</p>
-<p>&nbsp;</p>
+<br>But I guess the fact that her colleagues have made it a point to come
+and visit her, not just like once a year, but several times.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, yes.</p>
-<p>&nbsp;</p>
+<br>Yes, yes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You know, it speaks to them.</p>
-<p>&nbsp;</p>
+<br>You know, it speaks to them.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>They’re very fond of her, yes.</p>
-<p>&nbsp;</p>
+<br>They’re very fond of her, yes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>The friendship that has endured.</p>
-<p>&nbsp;</p>
+<br>The friendship that has endured.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes, it’s very, very special. I have a WhatsApp library group.</p>
-<p>&nbsp;</p>
+<br>Yes, it’s very, very special. I have a WhatsApp library group.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>When did you come back to Singapore?</p>
-<p>&nbsp;</p>
+<br>When did you come back to Singapore?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I came back in November of 2003.</p>
-<p>&nbsp;</p>
+<br>I came back in November of 2003.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. So, a little before your mum was diagnosed.</p>
-<p>&nbsp;</p>
+<br>Okay. So, a little before your mum was diagnosed.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes.</p>
-<p>&nbsp;</p>
+<br>Yes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And you’ve been living in Singapore ever since? You’ve seen Singapore
-change and all that. So, what is your personal favourite library?</p>
-<p>&nbsp;</p>
+<br>And you’ve been living in Singapore ever since? You’ve seen Singapore
+change and all that. So, what is your personal favourite library?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I’m very old fashioned, so I’m going to have to say the red brick building,
+<br>I’m very old fashioned, so I’m going to have to say the red brick building,
 which no longer exists. On Stamford Road. And it’s really because it holds
 a lot of special memories for me. I feel that the libraries of today, while
 they are obviously very advanced, they lack a bit of warmth. They feel
-a bit cold and intimidating.</p>
-<p>&nbsp;</p>
+a bit cold and intimidating.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s the air conditioning, no?</p>
-<p>&nbsp;</p>
+<br>It’s the air conditioning, no?&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yeah, that could be it, too. But it’s all white, it’s a bit clinical.
+<br>Yeah, that could be it, too. But it’s all white, it’s a bit clinical.
 But having said that, it’s lovely to see people, you know, wandering through
 the stacks and looking for a book, and leaving the library with a bag of
 books, so that’s wonderful. And it’s also wonderful to see people of all
 ages, from young children to senior citizens using the library. And I think
 it’s something that my mum would have been, you know, very happy to see.
 For myself, I only really go to the Queenstown branch because I live near
-there, or the Central Library on occasion.</p>
-<p>&nbsp;</p>
+there, or the Central Library on occasion.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You grew up in the library in some way.</p>
-<p>&nbsp;</p>
+<br>You grew up in the library in some way.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes.</p>
-<p>&nbsp;</p>
+<br>Yes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So how would you say it? What are libraries to you? “Libraries are...?”</p>
-<p>&nbsp;</p>
+<br>So how would you say it? What are libraries to you? “Libraries are...?”&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Constantly evolving.</p>
-<p>&nbsp;</p>
+<br>Constantly evolving.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s true.</p>
-<p>&nbsp;</p>
+<br>That’s true.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>I think they were designed way back when as peaceful spaces for community
+<br>I think they were designed way back when as peaceful spaces for community
 and learning. But today, especially in the Singapore context, they’ve evolved
 into something much more, and by that, I mean, for example, the Central
 Library on Victoria Street, it’s got a drama theatre, it’s got a pod for
@@ -746,29 +664,20 @@ special events. It’s got rooms that you can book for meetings. They’ve
 got computers, obviously, that people can use. They’ve got art exhibitions
 and various other exhibitions. So, it’s become a place not just for borrowing
 books, but for people to come together for various reasons. And they also
-run classes for people to be engaged.</p>
-<p>&nbsp;</p>
+run classes for people to be engaged.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Well, Shirin, thank you for coming on the <em>BiblioAsia+</em> podcast.
+<br>Well, Shirin, thank you for coming on the <em>BiblioAsia+</em> podcast.
 It was really lovely having you. To learn more about Hedwig Anwar and her
 life and to learn more about Shirin’s memories of growing up with Hedwig
 Anwar as her mother, please read Shirin’s article on <a href="http://biblioasia.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>.
-Shirin, thank you once again for coming on the show.</p>
-<p>&nbsp;</p>
+Shirin, thank you once again for coming on the show.&nbsp;</p>
 <p>It’s been a real pleasure having you. And I hope to see you in the library
-sometime soon.</p>
-<p>&nbsp;</p>
+sometime soon.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Thank you for having me.</p>
-<p>&nbsp;</p>
+<br>Thank you for having me.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
-<p>[Music playing]</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
+<p>[Music playing]&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>If you’ve enjoyed this episode, subscribe to this podcast and the&nbsp;<em>BiblioAsia</em>&nbsp;
 <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on&nbsp;<em>BiblioAsia+.</em>
