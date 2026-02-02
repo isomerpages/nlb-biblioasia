@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 18 Issue 4/Thaipusam/Hero Banner_Thaipusam1.png
       variant: center
   - infopic:
+      title: The 1965 Singapore Agricultural Show
+      subtitle: Culture
+      id: infopic
+      description: Initially planned to encourage people to eat more eggs, the show
+        eventually morphed into a mega event showcasing the achievements of
+        farmers in Singapore.
+      button: TOO MANY EGGS?
+      url: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
+      image: /images/Vol 22 Issue 1/Agricultural/Topics_agricultural_show.jpg
+      alt: Singapore Agricultural Show
+  - infopic:
       title: Bringing Back the Hainan Lion
       subtitle: Culture
       id: infopic
@@ -1120,15 +1131,4 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: The 1965 Singapore Agricultural Show
-      subtitle: Culture
-      id: infopic
-      description: Initially planned to encourage people to eat more eggs, the show
-        eventually morphed into a mega event showcasing the achievements of
-        farmers in Singapore.
-      button: TOO MANY EGGS?
-      url: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
-      image: /images/Vol 22 Issue 1/Agricultural/Topics_agricultural_show.jpg
-      alt: Singapore Agricultural Show
 ---
