@@ -10,29 +10,21 @@ third_nav_title: Leading the National Library
 only woman. She is the one who got the first class. The gentlemen got second
 and third class. And I think somebody dropped out. And the men, the four
 or three men, I guess three or four men, were all accepted into the administrative
-service.</p>
-<p>&nbsp;</p>
+service.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I did not know this.</p>
-<p>&nbsp;</p>
+<br>I did not know this.&nbsp;</p>
 <p><strong>Shirin</strong>
-</p>
-<p>Yes. So, she was not. The civil service apparently did not take women
+<br>Yes. So, she was not. The civil service apparently did not take women
 at that time. There was also a rumour that she was not accepted because
 of her involvement in student activities. So, I think this is something
-we will never really know, but that may have had something to do with it.</p>
-<p>&nbsp;</p>
+we will never really know, but that may have had something to do with it.&nbsp;</p>
 <p>And again, I think it was a very different time. And women had very few
 choices. They either ended up being teachers, nurses or, you know, maybe
 doing some secretarial work. And a large part was stay-at-home moms, I
-guess.</p>
-<p>&nbsp;</p>
-<p>[Music playing]</p>
-<p>&nbsp;</p>
+guess.&nbsp;</p>
+<p>[Music playing]&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You’re listening to<em> BiblioAsia+</em>, a podcast produced by the National
+<br>You’re listening to<em> BiblioAsia+</em>, a podcast produced by the National
 Library of Singapore. At <em>BiblioAsia</em>, we tell stories about Singapore’s
 past. Some familiar, others forgotten, all fascinating.</p>
 <p>&nbsp;</p>
