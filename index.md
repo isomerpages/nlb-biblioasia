@@ -9,14 +9,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-4/jan-mar-2023/thaipusam-murugan-singapore/
-      button: "The Divine Lance: Thaipusam and Murugan Worship in Singapore"
+      url: /vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/
+      button: "Revulsion and Reverence: Crocodiles in Singapore"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 4/Thaipusam/Hero Banner_Thaipusam1.png
+      background: /images/Vol-14-issue-2/revulsion-and-reverence/Hero_Banner_Crocodile.jpg
       variant: center
+  - infopic:
+      title: The 1965 Singapore Agricultural Show
+      subtitle: Culture
+      id: infopic
+      description: Initially planned to encourage people to eat more eggs, the show
+        eventually morphed into a mega event showcasing the achievements of
+        farmers in Singapore.
+      button: TOO MANY EGGS?
+      url: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
+      image: /images/Vol 22 Issue 1/Agricultural/Topics_agricultural_show.jpg
+      alt: Singapore Agricultural Show
   - infopic:
       title: Bringing Back the Hainan Lion
       subtitle: Culture
@@ -1120,15 +1131,4 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: The 1965 Singapore Agricultural Show
-      subtitle: Culture
-      id: infopic
-      description: Initially planned to encourage people to eat more eggs, the show
-        eventually morphed into a mega event showcasing the achievements of
-        farmers in Singapore.
-      button: TOO MANY EGGS?
-      url: /vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/
-      image: /images/Vol 22 Issue 1/Agricultural/Topics_agricultural_show.jpg
-      alt: Singapore Agricultural Show
 ---
