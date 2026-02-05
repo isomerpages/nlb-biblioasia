@@ -1131,4 +1131,15 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
+  - infopic:
+      title: Books on the Move
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Travelling libraries were once a common sight on the roads of
+        Singapore, bringing books and library services to underserved
+        communities.
+      button: Accessible, convenient and innovative
+      url: https://youtu.be/hd_CVAY3n84?si=vly4lfZgBUtahhWz
+      image: "/images/Videos: BiblioAsia Reels/Mobile_library.jpg"
+      alt: Image alt text
 ---
