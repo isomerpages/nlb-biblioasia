@@ -1142,4 +1142,14 @@ sections:
       url: https://youtu.be/hd_CVAY3n84?si=vly4lfZgBUtahhWz
       image: "/images/Videos: BiblioAsia Reels/Mobile_library.jpg"
       alt: Books on the Move
+  - infopic:
+      title: Got Milk? The School Milk Scheme in Singapore
+      subtitle: History
+      id: infopic
+      description: In the 1970s and 1980s, primary school children were encouraged to
+        drink milk in school until the initiative curdled in the late 1980s.
+      button: Everything’s better with a little milk
+      url: /vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/
+      image: /images/Vol 22 Issue 1/Milk/milk_main.png
+      alt: The School Milk Scheme
 ---
