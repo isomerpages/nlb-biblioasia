@@ -8,62 +8,69 @@ variant: tiptap
 <h3><strong>A Reel-ly Good Story: History in Five Minutes</strong></h3>
 <p><em>BiblioAsia Reels</em> turns a <em>BiblioAsia</em> story into a short
 video. Take five to learn interesting things about Singapore history.</p>
+<h4><strong>Books on the Move</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hd_CVAY3n84?si=BS9CvRr4rR3aUqL8"></iframe>
+</div>
+<p>
+<br>Travelling libraries were once a common sight on the roads of Singapore,
+bringing books and library services to underserved communities.</p>
 <h4><strong>Dance of the Fire Dragon</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r633ukrxanU?si=o2IrWzfvOIPgOwZm"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r633ukrxanU?si=o2IrWzfvOIPgOwZm"></iframe>
 </div>
 <p>
 <br>The fire dragon dance is performed once every three years to celebrate
 the birthday of the Chinese earth deity.</p>
 <h4><strong>Exploring Sembawang from Old Maps</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ey_geDt46j8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ey_geDt46j8"></iframe>
 </div>
 <p>
 <br>Find out how Sembawang, once home to pepper and gambier plantations got
 its name, and its transformation into a naval base.</p>
 <h4><strong>Queenstown Library, the First Branch Library</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rSeaQ0G-CYc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rSeaQ0G-CYc"></iframe>
 </div>
 <p>Opened in 1970 by then Prime Minister Lee Kuan Yew, Queenstown Library
 has been a landmark on Margaret Drive for more than 50 years.</p>
 <h4><strong>Gems in the Singapore Hokkien Huay Kuan Collection</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6wJcqcSoNcA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6wJcqcSoNcA"></iframe>
 </div>
 <p>An 1838 land title deed for a plot of land on Telok Ayer Street bears
 the signature of pioneer businessman Tan Tock Seng.</p>
 <h4><strong>Newly Discovered Photos from Liu Kang’s 1952 Bali Trip</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/N6-mH2P16B8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/N6-mH2P16B8"></iframe>
 </div>
 <p>Gretchen Liu, who is Liu Kang’s daughter-in-law, sheds light on the discovery
 of more than 1,000 photos and negatives taken by Liu Kang during his 1952
 Bali trip with three other artists.</p>
 <h4><strong>Early Malay Comics</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pr1eklZNrB4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pr1eklZNrB4"></iframe>
 </div>
 <p>Malay comics first appeared as editorial cartoons in local newspapers
 such as <em>Warta Jenaka</em> and <em>Utusan Zaman</em> in the 1930s. These
 cartoons paved the way for Malay comic books in the 1950s.</p>
 <h4><strong>Thai Buddhist Temple Wat Ananda</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bFZM2C5XXBw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bFZM2C5XXBw"></iframe>
 </div>
 <p>At Singapore's oldest Thai Buddhist temple, you'll discover elements that
 would not normally be found in a Buddhist temple in Thailand.</p>
 <h4><strong>Singapore’s Early Zoos</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BAJrXPFgw7Y"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BAJrXPFgw7Y"></iframe>
 </div>
 <p>Before the Singapore Zoo in Mandai, there were early zoos in the Botanic
 Gardens, Punggol, Pasir Panjang and on East Coast Road.</p>
 <hr>
 <h4><strong>Pioneering Journalist R.B. Ooi</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J2EPQPWskds?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J2EPQPWskds?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc"></iframe>
 </div>
 <p>R.B. Ooi (1905-72) was one of the earliest Malayan journalists writing
 in English and had worked for newspapers like the&nbsp;<em>Straits Echo</em>&nbsp;and
@@ -72,14 +79,14 @@ her father and his work.</p>
 <hr>
 <h4><strong>Traditional Letterpress Printing in Singapore</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx"></iframe>
 </div>
 <p>Typesettingsg founder Sun Yao Yu shares more about this printing technique
 – once the main commercial printing method here in the 19th century.</p>
 <hr>
 <h4><strong>Yip Yew Chong’s “I Paint my Singapore”</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UIF61oX7im0?si=3GFNXy5rMAWMFIcp"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UIF61oX7im0?si=3GFNXy5rMAWMFIcp"></iframe>
 </div>
 <p>Yip Yew Chong’s masterpiece “I Paint my Singapore” captures scenes of
 everyday life in Singapore in the 1970s and 80s. Find out how the visual
@@ -87,7 +94,7 @@ artist ensured historical accuracy in this 60-metre-long work.</p>
 <hr>
 <h4><strong>Kranji War Memorial: Lest We Forget</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LwBu7HDNwU?si=7yXAcupYaezIg48V"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LwBu7HDNwU?si=7yXAcupYaezIg48V"></iframe>
 </div>
 <p>Unveiled on 2 March 1957, the Kranji War Memorial honours over 25,000
 men and women who gave up their lives in the line of duty defending Singapore
@@ -95,7 +102,7 @@ during the Second World War.</p>
 <hr>
 <h4><strong>Singapore’s Early Publications</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Bfx3g3Xjqf0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Bfx3g3Xjqf0"></iframe>
 </div>
 <p>Printing in Singapore dates back about 200 years when Christian missionaries
 established a printing press here to spread the gospel. &nbsp;Some of the
@@ -105,7 +112,7 @@ early publications printed in Singapore include <em>Journal of a Tour Along the 
 <hr>
 <h4><strong>The Story of Two Whales</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ROdZe1JjMhA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ROdZe1JjMhA"></iframe>
 </div>
 <p>The skeleton of a blue whale was once the centrepiece of the former Raffles
 Museum. The skeleton was gifted to the National Museum of Malaysia in 1974.</p>
@@ -115,7 +122,7 @@ was found drifting off the coast of Jurong Island in July 2015.</p>
 <hr>
 <h4><strong>The Modernist Home of Pioneer Architect Lee Kip Lin</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XA1HxdwLJEY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XA1HxdwLJEY"></iframe>
 </div>
 <p>Located at <a href="/vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/" rel="noopener noreferrer nofollow" target="_blank">32 Binjai Park</a>,
 the family home of the late architect Lee Kip Lin has stood the test of
@@ -125,7 +132,7 @@ was built in 1973.</p>
 <hr>
 <h4><strong>A Clandestine Operation in Keppel Harbour</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n8ufqND2a2w"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n8ufqND2a2w"></iframe>
 </div>
 <p>On 26 September 1943, a team of Australian and British commandos and sailors
 launched a daring raid on Japanese ships in Singapore’s Keppel Harbour.
@@ -134,7 +141,7 @@ book titled <em><a href="https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-20
 <hr>
 <h4><strong>The Frying Pan Piano</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/osLu3J8sGTg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/osLu3J8sGTg"></iframe>
 </div>
 <p>The <a href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/" rel="noopener noreferrer nofollow" target="_blank">concert grand piano</a> at
 the National Library Building once graced the stage of the Victoria Memorial
@@ -144,7 +151,7 @@ at the Memorial Hall, and how it ended up with such a reputation.</p>
 <hr>
 <h4><strong>Professor Yu Chun Yee Performs on the Chappell Grand</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eM1aWlQUvvo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eM1aWlQUvvo"></iframe>
 </div>
 <p>Professor Yu Chun Yee previously taught at the Royal College of Music
 in London. At age 18, he won the prestigious Singapore Musical Society’s
@@ -157,7 +164,7 @@ a public piano at the National Library Building.</p>
 <hr>
 <h4><strong>Interview with Rachel Heng</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jQjegt2YxCc?si=KJmfweHMNm12V4Dll"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jQjegt2YxCc?si=KJmfweHMNm12V4Dll"></iframe>
 </div>
 <p><em>The Great Reclamation</em>&nbsp;is a work of historical fiction set
 in Singapore that has received rave reviews from the&nbsp;<em>New Yorker</em>&nbsp;and
