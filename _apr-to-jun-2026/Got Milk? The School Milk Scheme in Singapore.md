@@ -4,7 +4,7 @@ permalink: /vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/
 variant: markdown
 description: ""
 ---
-#### In the 1970s and 1980s, primary school children were encouraged to drink milk in school until the initiative curdled in the late 1980s.
+#### In the 1970s and 1980s, primary school children were encouraged to drink milk in school. By the late 1980s, this initiative had curdled.
 By Rebecca Tan
 
 

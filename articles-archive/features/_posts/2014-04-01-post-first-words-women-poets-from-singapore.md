@@ -1,15 +1,16 @@
 ---
-title: "First Words:   Women Poets from  Singapore "
+title: "First Words:   Women Poets from  Singapore"
 date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/first-women-poets/
 image: /images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg
 layout: post
+variant: markdown
 ---
 #### Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles. **Gracie Lee** highlights these poets and the literary works that captured the sentiment of the times.
 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg">
 Hedwig Aroozoo was not only one of Singapore’s earliest female poets, but also the director of the National Library of Singapore from 1960 to 1988. <i>Photography by Sean Lee.</i></div>
 
@@ -30,7 +31,7 @@ The lady says she’s willing<br>She declares the prospect thrilling, <br>But th
 Though Aroozoo was a contemporary of well-known historian Wang Gungwu, who belonged to a group of pioneering writers, she is not perceived as part of that circle for her writing was primarily a private endeavour. Her poems have mainly appeared in non-literary journals, many were never published, and some (such as her love poems) were even destroyed. After graduation, Aroozoo went on to carve out an illustrious career as the Director of the National Library and discontinued her poetry writing. It was only in 1999 that her published poems were gathered and re-introduced in <i>Under the Apple Tree: Political Parodies of the 1950s.</i> 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/Uder_the_Apple_Tree_res.jpg">
 In 1999, Hedwig Aroozoo’s published poems were collected and released in <i>Under the Apple Tree. All rights reserved, National Library Board Singapore, 2014.</i></div>
 
@@ -71,7 +72,7 @@ Regarded as one of the founding triumvirate of poetry in Singapore (Edwin Thumbo
 No discussion on Lee is complete without reference to “My Country and My People”. Intended to be a personal piece that Lee wrote for herself, the poem has since been lauded as a national poem though it had been, ironically, banned from the airwaves in the 1970s, supposedly for its reference to “brown-skinned neighbours”. The famous opening lines to her poem continue to resonate with generations of Singaporeans, unerringly capturing the ambivalence and contradictions of being Singaporean: “My country and my people/ are neither here nor there, nor/ in the comfort of my preferences/ if I could even choose”. The poem goes on to explore the poet’s disquiet with the disappearance of nostalgic familiar places that have made way for the sterile ubiquitous city and material progress. At the close of the poem, the poet turns the discourse around by reversing the order of the opening lines with: “I claim citizenship in your recognition/ of our kind./ My people, and my country,/ are you, and you my home.” Here, she asserts her personal vision that it is the kinship among neighbours that makes Singapore both a country and a home. The success of “My Country and My People” has been attributed to Lee’s ability to conflate her internal and external realities, bringing together personal and public histories, giving meaning to the larger political context through the experience of the individual.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/Dr_Lee_Tzu_Pheng.jpg">
 Cultural medallion recipient (1985), Lee Tzu Pheng, is one of Singapore’s most distinguished poets. <i>All rights reserved. Eric Foo Chee Meng 1979–2001. Courtesy of National Arts Council Singapore.</i></div>
 
@@ -98,7 +99,7 @@ Where the kelong cuts across the sea <br>Like a wooden-handled kris <br>There is
 (Lines 9–12; <i>The Air Above the Tamarinds</i>, p. 17)
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/rivers_to_senang.jpg">
 Margaret Leong’s works were infused with the sights and sounds of Malaya. She was an accomplished writer and educator. <i>All rights reserved, National Library Board Singapore, 2014</i>.</div>
 
@@ -115,7 +116,7 @@ we were a crooked line of giggling children untidy-happy <br>delight burning on 
 (Lines 1–10; <i>Whitedreams</i>, p. 30)
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:60%" src="/images/vol-10-issue-1/womenpoets/geraldine_heng.jpg">
 Geraldine Heng is an associate professor at the University of Texas, Austin. Her work has earned her six research fellowships to date. <i>Courtesy of Geraldine Heng.</i></div>
 
@@ -138,17 +139,17 @@ I will not be your door-mat <br>a piece of convenience <br>waiting at the door, 
 (Lines 1–7; <i>Pillow Your Dreams</i>, p. 1)
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/dr_nalla_tan.jpg">
 Nalla Tan wore many hats – doctor, academic, writer. She advocated a diverse range of issues from health education to women’s rights. <i>Courtesy of Tan Ying Hsien.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/rosaly.jpg">
 Rosaly Puthucheary has been writing poetry since 1952. She obtained her doctorate in English Literature at the National University of Singapore. <i>Courtesy of Rosaly Puthucheary.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/sampling_of_Rosaly_Puthucheary.jpg">
 These books are a sampling of Rosaly Puthucheary’s poetry. She has also written two novels to date. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
@@ -166,12 +167,12 @@ In Modern English (Song of a Singaporean) (1975)
 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/collected_poem.jpg">
 <i>Collected Poems</i> by Angeline Yap was published in 1986. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-1/womenpoets/Gracie_Lee.jpg">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of <i>Singapore Literature in English: An Annotated Bibliography</i> (2008).</div>
 
@@ -179,7 +180,7 @@ In Modern English (Song of a Singaporean) (1975)
 
 #### **REFERENCES**
 
-<i>Angeline Yap: Biography and brief introduction.</i> (n.d.). Retrieved from Contemporary Postcolonial & Postcolonial Literature in English website.
+<i>Angeline Yap: Biography and brief introduction.</i> (n.d.). Retrieved from Contemporary Postcolonial &amp; Postcolonial Literature in English website.
 
 Hedwig, A. (1999). *[Under the apple tree: Political parodies of the 1950s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9614045)*. Singapore: Landmark Books. (Call no.: RSING S821 ANU)
 
@@ -201,9 +202,9 @@ College of Liberal Arts. (n.d.). <i>Geraldine Heng</i>. Retrieved from The Unive
 
 Durai, J. (2012, March 28). [Pioneer sex educator Nalla Tan dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120328-1.2.34.16). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-Koh, T.A. (2002). The sun in her eyes: Writing in English by Singapore women (pp. 232–240). In Mohammad A. Quayum & P. Wicks (Eds.), *[Singaporean literature in English: A critical reader](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11732118)*. Malaysia: Universiti Putra Malaysia Press. (Call no.: RSING 820.995957 SIN)
+Koh, T.A. (2002). The sun in her eyes: Writing in English by Singapore women (pp. 232–240). In Mohammad A. Quayum &amp; P. Wicks (Eds.), *[Singaporean literature in English: A critical reader](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11732118)*. Malaysia: Universiti Putra Malaysia Press. (Call no.: RSING 820.995957 SIN)
 
-Leong, L.G. (1995). The poetics of history: Three women’s perspectives (pp. 433–442). In E. Thumboo & K. Thiru. (Eds.), *[The writer as historical witness: Studies in Commonwealth Literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7504056)*. (Call no.: RSING 820.9917124 1120 WRI)
+Leong, L.G. (1995). The poetics of history: Three women’s perspectives (pp. 433–442). In E. Thumboo &amp; K. Thiru. (Eds.), *[The writer as historical witness: Studies in Commonwealth Literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7504056)*. (Call no.: RSING 820.9917124 1120 WRI)
 
 Leong, M. (1957). *[The air above the tamarinds: A collection of poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077978)*. Singapore: Eastern Universities Press. (Call no.: RCLOS 828.995957 LEO)
 
@@ -223,13 +224,13 @@ Margaret Leong, 1921–2012. (2012, November 30). <i>Columbia Daily Tribune</i>.
 
 Nair, C. (1976). Review of <i>Whitedream</i>. *[Singapore Book World](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)*, 7, 21. 
 
-Nor Faridah Abdul Manaf & Mohamma A. Quayum. (2003). *[Colonial to global: Malaysian women’s writing in English 1940s–1990s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12096522)*. Kuala Lumpur: IIUM Press. (Call no.: RSEA 828.99595 NOR)
+Nor Faridah Abdul Manaf &amp; Mohamma A. Quayum. (2003). *[Colonial to global: Malaysian women’s writing in English 1940s–1990s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12096522)*. Kuala Lumpur: IIUM Press. (Call no.: RSEA 828.99595 NOR)
 
 Ooi, T. (1984, April 23). [Singapore artist makes a stir in London](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840423-1.2.67.4.4). <i>The Straits Times</i>, p. 27. Retrieved from NewspaperSG.
 
 Ormerod, D. (1967). *[A private landscape](https://eservice.nlb.gov.sg/item_holding.aspx?bid=749298)*. Kuala Lumpur, University of Malaya Library. (Call no.: RDET 828.995957 ORM)
 
-Patke, R.S., & Philip. H. (2010). *[The Routledge concise history of Southeast Asian writing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)*. London; New York: Routledge. (Call no.: RSING 895.9 PAT)
+Patke, R.S., &amp; Philip. H. (2010). *[The Routledge concise history of Southeast Asian writing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)*. London; New York: Routledge. (Call no.: RSING 895.9 PAT)
 
 PEN America. (2013, April 24). <i>Four poems by Wong May</i>. Retrieved from PEN American website.
 
@@ -239,7 +240,7 @@ Poetry Foundation. (2014). <i>Wong May</i>. Retrieved from Poetry Foundation web
 
 Puthucheary, R. (2012). *[My burning hill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14564295)*. Singapore: Ethos Books. (Call no.: RSING 821 PUT)
 
-Puthucheary, S., & Puthucheary, R. (2008). *[Harvest of morning flowers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13063416)*. Singapore: Select Pub. (Call no.: RSING S821 TAN)
+Puthucheary, S., &amp; Puthucheary, R. (2008). *[Harvest of morning flowers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13063416)*. Singapore: Select Pub. (Call no.: RSING S821 TAN)
 
 Tan, N. (1998). *[The collected poems of Nalla Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881464)* (p. 111). Singapore: Times Books International. (Call no.: RSING S821 TAN)
 
@@ -249,7 +250,7 @@ Trope, L.R. (2009). Poetry on the brink: the indeterminate persona in the poetry
 
 University of Malaya in Singapore Literary Society. (1961– ). *[Focus](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4584806)*. Singapore. (Call no.: 828.995957 F)
 
-Wong, M. (1969). *[A bad girl’s books of animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=31320)*. New York, Harcourt, Brace & World. (Call no.: RCLOS 828.99 WON)
+Wong, M. (1969). *[A bad girl’s books of animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=31320)*. New York, Harcourt, Brace &amp; World. (Call no.: RCLOS 828.99 WON)
 
 Wong, M. (1972). *[Reports](https://eservice.nlb.gov.sg/item_holding.aspx?bid=582270)*. New York, Harcourt Brace Jovanovich. (Call no.: RSING 828.99 WON)
 
@@ -258,19 +259,19 @@ Yap. A. (2011). *[Closing my eyes to listen](https://eservice.nlb.gov.sg/item_ho
 
 #### **NOTES**
 
-[^1]: Ee, T.H. (1987). History as myth in Malaysian poetry in English. In K. Singh (Ed.), *[The writer’s sense of the past: Essay on Southeast Asian and Australian literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4770111)* (p. 10). Singapore: University Press. (Call no.: RSING 809.89595 WRI)
+[^1]: Ee, T.H. (1987). History as myth in Malaysian poetry in English. In K. Singh (Ed.), *[The writer’s sense of the past: Essays on Southeast Asian and Australasian literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4770111)* (p. 10). Singapore: University Press. (Call no.: RSING 809.89595 WRI)
 
 [^2]: Thumboo, E. (Ed.). (1976). *[The second tongue: An anthology of poetry from Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1113163)* (pp. xxxii–xxxiii). Singapore: Heinemann, Educational Books (Asia). (Call no.: RSING 828.995957 SEC)
 
 [^3]: Ormerod, D. (1967). *[A private landscape](https://eservice.nlb.gov.sg/item_holding.aspx?bid=749298)* (pp. 9–10). Kuala Lumpur, University of Malaya Library. (Call no.: RDET 828.995957 ORM)
 
-[^4]: Wong, M. (1969). *[A bad girl’s book of animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=31320)*. New York, Harcourt, Brace & World. (Call no.: RCLOS 828.99 WON)
+[^4]: Wong, M. (1969). *[A bad girl’s book of animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=31320)*. New York, Harcourt, Brace &amp; World. (Call no.: RCLOS 828.99 WON)
 
 [^5]: Chan, F. (1999). *[Silences may speak: The poetry of Lee Tzu Pheng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9248106)* (p. 53). Singapore: Times Books International. (Call no.: RSING 828.995957 CHA)
 
 [^6]: [Thumboo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1113163), 1976, p. xxx.
 
-[^7]: Patke, R.S., & Philip. H. (2010). *[The Routledge concise history of Southeast Asian writing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)* (p. 123). London; New York: Routledge. (Call no.: RSING 895.9 PAT)
+[^7]: Patke, R.S., &amp; Philip. H. (2010). *[The Routledge concise history of Southeast Asian writing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)* (p. 123). London; New York: Routledge. (Call no.: RSING 895.9 PAT)
 
 [^8]: [Malayan spirit in her poems](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581223-1.2.101.1). (1958, December 23). <i>The Straits Times</i>, p. 26. Retrieved from NewspaperSG.
 
@@ -278,4 +279,4 @@ Yap. A. (2011). *[Closing my eyes to listen](https://eservice.nlb.gov.sg/item_ho
 
 [^10]: [Thumboo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1113163), 1976, p. xxiii.
 
-[^11]: Singh, K. (1987). Introduction. In K. Singh (Ed.), *[The writer’s sense of the past: Essay on Southeast Asian and Australian literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4770111)* (p. xiii). Singapore: University Press. (Call no.: RSING 809.89595 WRI)
+[^11]: Singh, K. (1987). Introduction. In K. Singh (Ed.), *[The writer’s sense of the past: Essays on Southeast Asian and Australasian literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4770111)* (p. xiii). Singapore: University Press. (Call no.: RSING 809.89595 WRI)

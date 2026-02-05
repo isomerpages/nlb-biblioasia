@@ -1131,4 +1131,25 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
+  - infopic:
+      title: Books on the Move
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Travelling libraries were once a common sight on the roads of
+        Singapore, bringing books and library services to underserved
+        communities.
+      button: Accessible, convenient and innovative
+      url: https://youtu.be/hd_CVAY3n84?si=vly4lfZgBUtahhWz
+      image: "/images/Videos: BiblioAsia Reels/Mobile_library.jpg"
+      alt: Books on the Move
+  - infopic:
+      title: Got Milk? The School Milk Scheme in Singapore
+      subtitle: History
+      id: infopic
+      description: In the 1970s and 1980s, primary school children were encouraged to
+        drink milk in school until the initiative curdled in the late 1980s.
+      button: Everything’s better with a little milk
+      url: /vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/
+      image: /images/Vol 22 Issue 1/Milk/milk_main.png
+      alt: The School Milk Scheme
 ---
