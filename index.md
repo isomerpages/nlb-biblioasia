@@ -1141,5 +1141,5 @@ sections:
       button: Accessible, convenient and innovative
       url: https://youtu.be/hd_CVAY3n84?si=vly4lfZgBUtahhWz
       image: "/images/Videos: BiblioAsia Reels/Mobile_library.jpg"
-      alt: Image alt text
+      alt: Books on the Move
 ---
