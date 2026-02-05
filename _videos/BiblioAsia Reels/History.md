@@ -12,7 +12,7 @@ third_nav_title: BiblioAsia Reels
 Travelling libraries were once a common sight on the roads of Singapore, bringing books and library services to underserved communities.
 
 **Related article** <br>
-**Looking Back at Queenstown Library’s 50 Years**
-[https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/queenstown/](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/queenstown/)
+**Books on Wheels: Singapore’s Mobile Libraries**
+[https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/](https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/)
 
 <hr>
