@@ -4,7 +4,7 @@ permalink: /people/2025/12/yip-yew-chong-artist-paintings/
 variant: markdown
 description: ""
 ---
-#### **When landscapes and street markets disappear, visual artist Yip Yew Chong preserves them in their fading glory, recreating paintings from memory and archival photos.**
+#### **Visual artist Yip Yew Chong helps preserve Singapore’s past in paint, recreating scenes by relying on memory and archival photos.**
 By Ruth Wee
 <br><small>10 December 2025</small>
 
