@@ -23,6 +23,16 @@ and life events.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Shirin Talked About</strong></h4>
+<p>02:40 – Growing up as the daughter of a public figure
+<br>03:17 – Early childhood memories of the National Library
+<br>04:57 – Hedwig Anuar’s family background and upbringing
+<br>10:33 – Early signs of activism at university
+<br>13:05 – Painful memories of the war
+<br>16:09 – Becoming a librarian by chance
+<br>19:57 – Championing children’s books and education
+<br>21:12 – A quiet, bookish childhood at home
+<br>25:25 – &nbsp;Travelling together
+<br>38:21 – Libraries are…</p>
 <p></p>
 <p></p>
 <details class="isomer-details">
