@@ -20,7 +20,7 @@ Less than a month after that first fateful meeting in Kuala Lumpur, Singapore wa
 The following extract from _The Albatross File: Inside Separation_ describes the two meetings that Goh had with Razak in Kuala Lumpur in July 1965. It also presents a transcript of Goh’s handwritten notes from the second meeting which outlined the mechanics of how the separation would be carried out.
 
 
-Goh was in Germany for medical treatment for most of June 1965; his liver problems had started to flare up in late May 1965 and a medical specialist had recommended he receive treatment at the German spa town of Bad Kissingen.[^3]
+Goh was in Germany for medical treatment for most of June 1965; his liver problems had started to flare up in late May 1965 and a medical specialist had recommended he receive treatment at the German spa town of Bad Kissingen.[^4]
 
 In his absence, Toh \[Chin Chye, Deputy Prime Minister of Singapore\] and Rajaratnam \[S. Rajaratnam, Minister for Culture of Singapore\] launched what by most accounts was a successful first meeting of the Malaysian Solidarity Convention (MSC) on 6 June that “rang alarm bells in KL”, Goh noted in his oral history interview in 1982. Calls for Lee’s \[Lee Kuan Yew, Prime Minister of Singapore\] arrest were also beginning to alarm the British Government. When rumours of a possible coup against Lee surfaced, British Prime Minister Harold Wilson felt compelled, as he wrote in his 1970 memoirs, _The Labour Government 1964–1970: A Personal Record_, “to let the Tunku know that if he were to take actions of this kind, it would be unwise for him to show his face at the Commonwealth \[Prime Ministers’\] Conference \[in London from 17–25 June\], since a large number of his colleagues including myself – would feel that such action was totally opposed to all that we believed in as a Commonwealth”.&nbsp;
 
@@ -30,7 +30,7 @@ Goh told his oral history interviewer that he did not make a record of this meet
 
 In his 1977 memoirs, the Tunku revealed that he had written to Razak from London on 1 July 1965, saying that while it would be good to talk with Lee, “ultimately I fear we will have no choice but to cut out Singapore from Malaysia in order to save the rest of the body from gangrene”.&nbsp;
 
-Lee, however, was still keen to keep some form of union with Malaysia. In his memoirs, Lee recalled that after being briefed by Goh on his first meeting with Razak in July 1965, he had discussed with Goh “all the possible alternatives and decided that anything was worth trying if we could avoid a racial collision”.6&nbsp;
+Lee, however, was still keen to keep some form of union with Malaysia. In his memoirs, Lee recalled that after being briefed by Goh on his first meeting with Razak in July 1965, he had discussed with Goh “all the possible alternatives and decided that anything was worth trying if we could avoid a racial collision”.[^6]&nbsp;
 
 Goh then saw Razak and Ismail again on 20 July. This time, Goh made a record of the discussion and kept his handwritten notes in the Albatross file. It was very likely not circulated to the rest of the Cabinet since, as Goh told the Malaysian leaders on 20 July, the “only ones privy to this” were Lee, Lim Kim San \[Singapore’s National Development Minister\], E.W. Barker, Singapore’s Law Minister\] and himself. Toh and Rajaratnam, Goh told Razak, were “too deeply involved” in the MSC to consider any rearrangements.&nbsp;
 
