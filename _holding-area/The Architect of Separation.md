@@ -111,6 +111,6 @@ The book contains essays on merger and separation, documents from the Albatross 
 
 [^6]: Mubin Sheppard, [_Tunku, His Life and Times: The Authorized Biography of Tunku Abdul Rahman Putra al-Haj_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7262483) (Petaling Jaya, Selangor Darul Ehsan, Malaysia: Pelanduk Publications, 1995). (From National Library Singapore, call no. RSING 959.5051092 SHE)
 
-[^7]: Lee Kuan Yew, _The Singapore Story: Memoirs of Lee Kuan Yew_ (Singapore: Times Editions: Singapore Press Holdings, 1998). (From National Library Singapore, call no. RSING 959.5705092 LEE)
+[^7]: Lee Kuan Yew, [_The Singapore Story: Memoirs of Lee Kuan Yew_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9129591) (Singapore: Times Editions: Singapore Press Holdings, 1998). (From National Library Singapore, call no. RSING 959.5705092 LEE)
 
 [^8]: Ghazali Shafie, who served from 1959 to 1970 as Secretary-General of the Malaysian Ministry of External Affairs (which became the Ministry of Foreign Affairs in 1966), was later appointed Minister of Home Affairs, and then Foreign Affairs.
