@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - The Architect of Separation.md
       - Sample article.md
