@@ -85,12 +85,13 @@ The rest of the time was spent on pleasantries as Razak insisted that I should n
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 	<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_imperial.png" style="width: 70%;"><br><b>
-ALBATROSS EXHIBITION AND BOOK</b><br>The Albatross File is a secret file kept by Minister for Finance Goh Keng Swee, documenting the secret talks that led to Singapore’s separation from Malaysia. It contains Cabinet papers, memorandums as well as Goh’s handwritten notes of his discussions with Malaysian leaders in the tense days, weeks and months leading to Singapore’s independence on 9 August 1965. The original Albatross File has been in the custody of the National Archives of Singapore since 1996. &nbsp;
-<br>
+ALBATROSS EXHIBITION AND BOOK</b><br>
+<br>The Albatross File is a secret file kept by Minister for Finance Goh Keng Swee, documenting the secret talks that led to Singapore’s separation from Malaysia. It contains Cabinet papers, memorandums as well as Goh’s handwritten notes of his discussions with Malaysian leaders in the tense days, weeks and months leading to Singapore’s independence on 9 August 1965. The original Albatross File has been in the custody of the National Archives of Singapore since 1996. &nbsp;
+<br><br>
 In conjunction with newly declassified documents and oral history accounts, a permanent exhibition, <i>The Albatross File: Singapore’s Independence Declassified</i>, and a book, <i>The Albatross File: Inside Separation</i> (National Archives of Singapore and Straits Times Press, 2025), were launched in December 2025. &nbsp;
-<br>
+<br><br>
 Jointly organised by the National Library Board and the Ministry of Digital Development and Information, the exhibition on Level 10 of the National Library Building aims to deepen visitors’ understanding of Singapore’s journey to independence through interactive storytelling, historical replays and first-person narratives of Singapore’s founding fathers.&nbsp;
-<br>
+<br><br>
 The book contains essays on merger and separation, documents from the Albatross File and other key documents relating to separation, as well as oral history interviews of key players involved. It is available for reference at the Lee Kong Chian Reference Library (call no. RSING 959.5705 ALB) and for loan at selected public libraries (call no. SING 959.5705 ALB). It is also available for sale at physical and online bookshops.
 </div><br>
 
