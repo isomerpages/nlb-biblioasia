@@ -9,14 +9,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/
-      button: "Revulsion and Reverence: Crocodiles in Singapore"
+      url: /vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/
+      button: A Century of Singapore’s Cinemas
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol-14-issue-2/revulsion-and-reverence/Hero_Banner_Crocodile.jpg
       variant: center
+  - infopic:
+      title: Books on the Move
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Travelling libraries were once a common sight on the roads of
+        Singapore, bringing books and library services to underserved
+        communities.
+      button: Accessible, convenient and innovative
+      url: https://youtu.be/hd_CVAY3n84?si=vly4lfZgBUtahhWz
+      image: "/images/Videos: BiblioAsia Reels/Mobile_library.jpg"
+      alt: Books on the Move
   - infopic:
       title: The 1965 Singapore Agricultural Show
       subtitle: Culture
@@ -1131,17 +1142,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Books on the Move
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: Travelling libraries were once a common sight on the roads of
-        Singapore, bringing books and library services to underserved
-        communities.
-      button: Accessible, convenient and innovative
-      url: https://youtu.be/hd_CVAY3n84?si=vly4lfZgBUtahhWz
-      image: "/images/Videos: BiblioAsia Reels/Mobile_library.jpg"
-      alt: Books on the Move
   - infopic:
       title: Got Milk? The School Milk Scheme in Singapore
       subtitle: History
