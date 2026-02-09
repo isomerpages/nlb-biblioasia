@@ -36,14 +36,11 @@ Goh then saw Razak and Ismail again on 20 July. This time, Goh made a record of 
 
 Goh secured Razak and Ismail’s agreement on three issues at this 20 July meeting:&nbsp;
 
-•  
-Singapore’s separation from Malaysia “must be presented as a _fait accompli_ to the British” so they could not prevent it.&nbsp;
+•  Singapore’s separation from Malaysia “must be presented as a _fait accompli_ to the British” so they could not prevent it.&nbsp;
 
-•  
-The constitutional amendments to make Singapore independent should be passed no later than 9 August, when the Federal Parliament next convened.&nbsp;
+•  The constitutional amendments to make Singapore independent should be passed no later than 9 August, when the Federal Parliament next convened.&nbsp;
 
-•  
-Singapore’s Minister for Law Barker would draft the legal documents and show them to the Malaysians within a week to 10 days.&nbsp;
+•  Singapore’s Minister for Law Barker would draft the legal documents and show them to the Malaysians within a week to 10 days.&nbsp;
 
 Goh recorded that Razak was not only greatly relieved, but also grateful to Goh for “getting this solution on the move”.&nbsp;
 
@@ -52,9 +49,8 @@ The next day (21 July), Goh learnt from Ghazali Shafie,[^8] the Secretary-Genera
 Goh Keng Swee’s Notes on His Meeting with Acting Malaysian Prime Minister Abdul Razak and Minister of Home Affairs Ismail Abdul Rahman on 20 July 1965 &nbsp;
 
 Meeting:  
-20 July 1965, Tun Razak’s office,&nbsp;
-
-&nbsp; 1105 to 1155 hours
+20 July 1965, Tun Razak’s office,  
+1105 to 1155 hours
 
 Present: Myself, Razak, Ismail
 
