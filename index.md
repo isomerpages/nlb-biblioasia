@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-14-issue-2/revulsion-and-reverence/Hero_Banner_Crocodile.jpg
+      background: /images/Vol 21 Issue 4/Cinema/HeroImage_Cinema_3.jpg
       variant: center
   - infopic:
       title: Books on the Move
