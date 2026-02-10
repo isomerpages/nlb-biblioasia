@@ -18,6 +18,11 @@ In the two years that Singapore had been part of the Federation, tensions betwee
 
 While the Tunku was mulling the possibility of separating Singapore from the Federation, similar thoughts were swirling through the mind of Singapore’s Finance Minister Goh Keng Swee. During a meeting with Razak and others in mid-July 1965, Goh told Razak that “the best thing would be to call it quits, and that we should go our separate ways”.[^2]
 
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_out.png" style="width: 70%;">
+
+<div style="background-color: white;"> Singapore separated from Malaysia on 9 August 1965 following an amendment to the Constitution approved unanimously by both Houses of Parliament under a certificate of urgency. <i>Source: The Straits Times, 10 August 1965, 1 © SPH Media Limited. 
+ </i></div>
+
 In his oral history interview in 1982, Goh explained: “I’d had enough of Malaysia. I just wanted to get out. I could see no future in it, that the political cost was dreadful and the economic benefits, well, didn’t exist. So it was an exercise in futility. So \[as\] far as I was concerned, you know, it was a project that should be abandoned once you say that it was worthless.”[^3]&nbsp;
 
 Less than a month after that first fateful meeting in Kuala Lumpur, Singapore was out.&nbsp;
