@@ -81,7 +81,7 @@ Goh secured Razak and Ismail’s agreement on three issues at this 20 July meeti
 
 Goh recorded that Razak was not only greatly relieved, but also grateful to Goh for “getting this solution on the move”.&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_separation.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_separation.png" style="width: 70%;">
 
 <div style="background-color: white;">The first page of the separation agreement relating to the separation of Singapore from Malaysia, dated 7 August 1965. It was signed by the leaders of Singapore and Malaysia. <i>Courtesy of National Archives of Singapore.
 </i></div>
@@ -130,7 +130,7 @@ The rest of the time was spent on pleasantries as Razak insisted that I should n
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-	<img src="/images/Vol%2021%20Issue%204/Air%20Conditioning/ac_imperial.png" style="width: 70%;"><br><b>
+	<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_file.png" style="width: 70%;"><br><b>
 ALBATROSS EXHIBITION AND BOOK</b><br>
 <br>The Albatross File is a secret file kept by Minister for Finance Goh Keng Swee, documenting the secret talks that led to Singapore’s separation from Malaysia. It contains Cabinet papers, memorandums as well as Goh’s handwritten notes of his discussions with Malaysian leaders in the tense days, weeks and months leading to Singapore’s independence on 9 August 1965. The original Albatross File has been in the custody of the National Archives of Singapore since 1996. &nbsp;
 <br><br>
