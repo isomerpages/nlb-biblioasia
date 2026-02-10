@@ -50,7 +50,7 @@ Goh was in Germany for medical treatment for most of June 1965; his liver proble
 
 <img src="/images/Vol%2022%20Issue%201/Albatross/albatross_pap.png" style="width: 80%;">
 
-<div style="background-color: white;"> The PAP led the formation of the Malaysian Solidarity Convention which was set up to pressure the Tunku’s National Front. The first meeting of the convention was held at Singapore’s National Theatre on 6 June 1965. From left: Chairman of Machinda Party of Sarawak Michael Buma; Chan Yoon Onn of Malaysia’s People’s Progressive Party; Singapore’s Deputy Prime Minister and Chairman of Malaysian Solidarity Convention Toh Chin Chye; Chairman of Sarawak United People's Party Ong Kee Hui; and Secretary-General of United Democratic Party Lim Chong Eu.<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980002890 - 0055).
+<div style="background-color: white;"> The PAP led the formation of the Malaysian Solidarity Convention which was set up to pressure the Tunku’s National Front. The first meeting of the convention was held at Singapore’s National Theatre on 6 June 1965. From left: Chairman of Machinda Party of Sarawak Michael Buma; Chan Yoon Onn of Malaysia’s People’s Progressive Party; Singapore’s Deputy Prime Minister and Chairman of Malaysian Solidarity Convention Toh Chin Chye; Chairman of Sarawak United People's Party Ong Kee Hui; and Secretary-General of United Democratic Party Lim Chong Eu. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980002890 - 0055).
  </i></div>
 
 
