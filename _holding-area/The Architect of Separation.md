@@ -16,6 +16,12 @@ On 1 July 1965, while he was in London and recovering from an attack of shingles
 
 In the two years that Singapore had been part of the Federation, tensions between the two had ratcheted up considerably. Singapore’s ruling People’s Action Party (PAP) blamed extremists in Malaysia for fomenting two race riots in Singapore in 1964. To gain leverage, the PAP formed a coalition of opposition parties in the Federation that the Tunku saw as a threat to Malaysia’s ruling National Front coalition that he led. (Albert Lau’s essay “Separation” in _The Albatross File: Inside Separation_ explores the deep fissures in the relationship between the two countries while Tan Tai Yong’s “Merger” in the same volume provides the historical context for understanding why Singapore joined Malaysia in the first place.[^1])
 
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_lky.png" style="width: 80%;">
+
+<div style="background-color: white;"> Prime Minister of Singapore Lee Kuan Yew touring villages to address the people and to appeal for calm amidst communal tensions during the 1964 racial riots. The riots were a critical factor leading to Singapore’s separation from Malaysia in 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19990002627 - 0095).  
+ </i></div>
+
+
 While the Tunku was mulling the possibility of separating Singapore from the Federation, similar thoughts were swirling through the mind of Singapore’s Finance Minister Goh Keng Swee. During a meeting with Razak and others in mid-July 1965, Goh told Razak that “the best thing would be to call it quits, and that we should go our separate ways”.[^2]
 
 <img src="/images/Vol%2022%20Issue%201/Albatross/albatross_out.png" style="width: 70%;">
