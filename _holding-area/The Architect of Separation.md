@@ -36,6 +36,16 @@ Less than a month after that first fateful meeting in Kuala Lumpur, Singapore wa
 The following extract from _The Albatross File: Inside Separation_ describes the two meetings that Goh had with Razak in Kuala Lumpur in July 1965. It also presents a transcript of Goh’s handwritten notes from the second meeting which outlined the mechanics of how the separation would be carried out.
 
 
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_handwritten.png" style="width: 80%;">
+
+<div style="background-color: white;">The first two pages of Goh Keng Swee’s handwritten notes on his meeting with Acting Malaysian Prime Minister Tun Abdul Razak Hussein and Malaysian Minister of Home Affairs Ismail Abdul Rahman, 20 July 1965. <i>Courtesy of National Archives of Singapore. 
+ </i></div>
+
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_reverse.png" style="width: 80%;">
+
+<div style="background-color: white;">These lines on the left were written on the reverse side of the preceding page (the second page of the note) and were intended to be read at the point where Goh Keng Swee drew an asterisk in the second paragraph of the third page. <i>Courtesy of National Archives of Singapore. 
+ </i></div>
+
 Goh was in Germany for medical treatment for most of June 1965; his liver problems had started to flare up in late May 1965 and a medical specialist had recommended he receive treatment at the German spa town of Bad Kissingen.[^4]
 
 <img src="/images/Vol%2022%20Issue%201/Albatross/albatross_pap.png" style="width: 80%;">
@@ -45,6 +55,11 @@ Goh was in Germany for medical treatment for most of June 1965; his liver proble
 
 
 In his absence, Toh \[Chin Chye, Deputy Prime Minister of Singapore\] and Rajaratnam \[S. Rajaratnam, Minister for Culture of Singapore\] launched what by most accounts was a successful first meeting of the Malaysian Solidarity Convention (MSC) on 6 June that “rang alarm bells in KL”, Goh noted in his oral history interview in 1982. Calls for Lee’s \[Lee Kuan Yew, Prime Minister of Singapore\] arrest were also beginning to alarm the British Government. When rumours of a possible coup against Lee surfaced, British Prime Minister Harold Wilson felt compelled, as he wrote in his 1970 memoirs, _The Labour Government 1964–1970: A Personal Record_, “to let the Tunku know that if he were to take actions of this kind, it would be unwise for him to show his face at the Commonwealth \[Prime Ministers’\] Conference \[in London from 17–25 June\], since a large number of his colleagues including myself – would feel that such action was totally opposed to all that we believed in as a Commonwealth”.&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_tun.png" style="width: 80%;">
+
+<div style="background-color: white;">Malaysian Deputy Prime Minister Tun Abdul Razak Hussein (left) with Singapore’s Minister for Finance Goh Keng Swee, 1973. The former and his delegation were on a three-day official visit to Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980002748 - 0002). 
+ </i></div>
 
 &nbsp;Goh returned to Singapore in early July. Soon after, he was asked to call on then Acting Malaysian Prime Minister Razak. Also present at the meeting, which he remembered as taking place in Razak’s house in Kuala Lumpur, were \[Malaysia’s\] Minister of Home Affairs Ismail Abdul Rahman and Umno \[United Malays National Organisation\] Secretary-General Jaffar Albar. “It started with the usual belly-aching session against Lee – his alleged misdemeanours, his character defects and so on and so forth – to which I listened with usual patience. And then Razak said: ‘We can’t go on like this.’ And he asked whether I had any ideas to offer,” Goh recounted in the 1982 interview. Taken aback and “totally unprepared”, Goh replied: “We should go our separate ways. … we leave Malaysia, become an independent state, and you’ll be relieved of all these troubles and we would have also been relieved of troubles from you. All these tensions that built up, communal tensions, will all be over. We’re on our own, you’re on your own.” Razak had then asked Goh to talk to Lee and to let him know if Lee was “willing to go along with it”.&nbsp;
 
@@ -65,6 +80,11 @@ Goh secured Razak and Ismail’s agreement on three issues at this 20 July meeti
 •  Singapore’s Minister for Law Barker would draft the legal documents and show them to the Malaysians within a week to 10 days.&nbsp;
 
 Goh recorded that Razak was not only greatly relieved, but also grateful to Goh for “getting this solution on the move”.&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_separation.png" style="width: 80%;">
+
+<div style="background-color: white;">The first page of the separation agreement relating to the separation of Singapore from Malaysia, dated 7 August 1965. It was signed by the leaders of Singapore and Malaysia. <i>Courtesy of National Archives of Singapore.
+</i></div>
 
 The next day (21 July), Goh learnt from Ghazali Shafie,[^8] the Secretary-General of the Malaysian Ministry of External Affairs, that the Tunku had already given instructions to “return Singapore to Lee Kuan Yew” if no way to avoid communal trouble could be found. Ghazali, who had not been at previous negotiations, had been present at a lunch meeting between the Tunku and Lee on 14 April 1965, where the Malaysian leader had asked Lee to “list all complaints to Ghazali”, as Lee revealed in his oral history interview in 1982.&nbsp;
 
@@ -91,6 +111,10 @@ In the course of desultory exchanges, Ismail asked Razak if he should not fly to
 My interpretation of British policy is that they are backing PAP to the hilt as a co-partner in governing Malaysia. They believe that the MCA \[Malaysian Chinese Association\] will sooner or later lose the leadership of the Chinese to the PAP and a PAP–Umno coalition will result. The British believe this to be in their interest because they believe with PAP in the government, there is no risk of Malaysia joining Indonesia, closing their bases etc. Both Razak and Ismail confirmed that their interpretation of British intentions was exactly as I set out above. This established credibility in the soundness of my judgement that the British will never agree to the scheme.&nbsp;
 
 I then proposed that it must be presented as a _fait accompli_ to the British. This should be done no later than 9 August, when Parliament re-assembles. The Constitutional amendments may be made granting Singapore independence –&nbsp; all three readings to take place on that date.&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_proclamation.png" style="width: 80%;">
+
+<div style="background-color: white;">&nbsp;The Proclamation of Singapore as an “independent and sovereign state and nation” signed by Prime Minister Lee Kuan Yew on 9 August 1965. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Ismail readily agreed to this proposal. Razak was greatly amused and said that perhaps PAP tactics were the best. I said I saw no objection if Lord Head \[Antony Head; British High Commissioner\] were informed as an act of courtesy of our intentions at 9.30 am on 9 August, half an hour before the Bill of Independence for Singapore is introduced. This was received with great merriment.&nbsp;
 
