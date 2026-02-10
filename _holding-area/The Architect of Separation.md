@@ -7,6 +7,11 @@ description: ""
 #### Rather than being unilaterally kicked out in 1965, the decision that Singapore should separate from Malaysia was a mutual one, driven in large part by the efforts of Singapore’s Finance Minister Goh Keng Swee.
 
 
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_main.png" style="width: 80%;">
+
+<div style="background-color: white;"> Minister for the Interior and Defence Goh Keng Swee at a press conference, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005312 - 0020).
+ </i></div>
+
 On 1 July 1965, while he was in London and recovering from an attack of shingles, Malaysia’s Prime Minister Tunku Abdul Rahman (Tunku) wrote a letter to Acting Prime Minister Tun Abdul Razak Hussein about the possibility of cutting Singapore out from Malaysia.
 
 In the two years that Singapore had been part of the Federation, tensions between the two had ratcheted up considerably. Singapore’s ruling People’s Action Party (PAP) blamed extremists in Malaysia for fomenting two race riots in Singapore in 1964. To gain leverage, the PAP formed a coalition of opposition parties in the Federation that the Tunku saw as a threat to Malaysia’s ruling National Front coalition that he led. (Albert Lau’s essay “Separation” in _The Albatross File: Inside Separation_ explores the deep fissures in the relationship between the two countries while Tan Tai Yong’s “Merger” in the same volume provides the historical context for understanding why Singapore joined Malaysia in the first place.[^1])
