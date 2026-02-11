@@ -36,7 +36,7 @@ Less than a month after that first fateful meeting in Kuala Lumpur, Singapore wa
 The following extract from _The Albatross File: Inside Separation_ describes the two meetings that Goh had with Razak in Kuala Lumpur in July 1965. It also presents a transcript of Goh’s handwritten notes from the second meeting which outlined the mechanics of how the separation would be carried out.
 
 
-<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_handwritten.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_handwritten2.png" style="width: 80%;">
 
 <div style="background-color: white;">The first two pages of Goh Keng Swee’s handwritten notes on his meeting with Acting Malaysian Prime Minister Tun Abdul Razak Hussein and Malaysian Minister of Home Affairs Ismail Abdul Rahman, 20 July 1965. <i>Courtesy of National Archives of Singapore. 
  </i></div>
