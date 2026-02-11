@@ -7,7 +7,7 @@ image: /images/Vol 19 Issue 2/SG Record Industry/image1.png
 variant: markdown
 ---
 #### In this extract from the book _From Keroncong to Xinyao_, the author looks at why the record industry in Singapore took off in the 1960s.
-By Ross Laird!
+By Ross Laird
 
 ![](/images/Vol%2019%20Issue%202/SG%20Record%20Industry/image1.png)
 <div style="background-color: white;">Following its establishment in Singapore, Philips recorded local band The Crescendos, whose first record in 1963, <i>Mr Twister</i>, was a great success. <i>Courtesy of National Archives of Singapore.</i></div>
