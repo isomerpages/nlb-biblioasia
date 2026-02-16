@@ -13,10 +13,10 @@ variant: markdown
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/">A Century of Singapore’s Cinemas</a><br>
-Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls. *Alvin Tan* . [(PDF)](/files/pdf/Vol%2021/FA_BiblioAsia_Jan_Mar_2026_Cinemas.pdf)
+Once central to Singapore’s social and cultural life, cinemas went from being majestic, memorable landmarks to more utilitarian and prosaic halls housed in shopping malls. *Alvin Tan* . [(PDF)](/files/pdf/Vol%2021/cinemare3.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">What You Didn’t Know About the Straits Times</a><br>
-The first fake news. The illegal postwar edition. Newsmen turned presidents. The <i>Straits Times</i> has had an interesting 180 years. *Irene Hoe*. [(PDF)](/files/pdf/Vol%2021/FA_BiblioAsia_Jan_Mar_2026_Straits_Times.pdf)
+The first fake news. The illegal postwar edition. Newsmen turned presidents. The <i>Straits Times</i> has had an interesting 180 years. *Irene Hoe*. [(PDF)](/files/pdf/Vol%2021/straits_timesre1.pdf)
 
 
 
@@ -29,7 +29,7 @@ Male double coconut trees in Singapore were able to fertilise female trees in Ha
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/">Playing It Cool: The Early History of Air Conditioning 
 in Singapore </a><br>
-The humble air conditioner first came to Singapore about 100 years ago. Cows were among its beneficiaries. *Fiona Williamson*.[(PDF)](/files/pdf/Vol%2021/FA_BiblioAsia_Jan_Mar_2026_Aircon.pdf)
+The humble air conditioner first came to Singapore about 100 years ago. Cows were among its beneficiaries. *Fiona Williamson*.[(PDF)](/files/pdf/Vol%2021/airconre3.pdf)
 
 
 
@@ -54,7 +54,7 @@ Initially inspired by the “New Life Movement” in China, couples in Singapore
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/">The 1918 Influenza Pandemic in Singapore</a><br>
-When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.  *Sean Hoh*.[(PDF)](/files/pdf/Vol%2021/FA_BiblioAsia_Jan_Mar_2026_Flu.pdf)
+When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.  *Sean Hoh*.[(PDF)](/files/pdf/Vol%2021/influenzare1.pdf)
 
 
 
