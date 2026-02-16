@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/
-      button: A Century of Singapore’s Cinemas
+      url: /vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/
+      button: "Chingay in the 19th and 20th Centuries: A Community Procession in Time"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 4/Cinema/HeroImage_Cinema_3.jpg
+      background: /images/Vol 20 Issue 4/Chingay/HeroImage_chingay_1.png
       variant: center
+  - infopic:
+      title: Got Milk? The School Milk Scheme in Singapore
+      subtitle: History
+      id: infopic
+      description: In the 1970s and 1980s, primary school children were encouraged to
+        drink milk in school until the initiative curdled in the late 1980s.
+      button: Everything’s better with a little milk
+      url: /vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/
+      image: /images/Vol 22 Issue 1/Milk/milk_main.png
+      alt: The School Milk Scheme
   - infopic:
       title: Books on the Move
       subtitle: BiblioAsia Reels
@@ -1142,14 +1152,4 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Got Milk? The School Milk Scheme in Singapore
-      subtitle: History
-      id: infopic
-      description: In the 1970s and 1980s, primary school children were encouraged to
-        drink milk in school until the initiative curdled in the late 1980s.
-      button: Everything’s better with a little milk
-      url: /vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/
-      image: /images/Vol 22 Issue 1/Milk/milk_main.png
-      alt: The School Milk Scheme
 ---

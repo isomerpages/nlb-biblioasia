@@ -26,7 +26,7 @@ While the Tunku was mulling the possibility of separating Singapore from the Fed
 
 <img src="/images/Vol%2022%20Issue%201/Albatross/albatross_out.png" style="width: 70%;">
 
-<div style="background-color: white;"> Singapore separated from Malaysia on 9 August 1965 following an amendment to the Constitution approved unanimously by both Houses of Parliament under a certificate of urgency. <i>Source: The Straits Times, 10 August 1965, 1 © SPH Media Limited. 
+<div style="background-color: white;"> Singapore separated from Malaysia on 9 August 1965 following an amendment to the Constitution approved unanimously by both Houses of Parliament under a certificate of urgency. <i>Source: The Straits Times, 10 August 1965, 1 © SPH Media Limited. Permission required for reproduction.
  </i></div>
 
 In his oral history interview in 1982, Goh explained: “I’d had enough of Malaysia. I just wanted to get out. I could see no future in it, that the political cost was dreadful and the economic benefits, well, didn’t exist. So it was an exercise in futility. So \[as\] far as I was concerned, you know, it was a project that should be abandoned once you say that it was worthless.”[^3]&nbsp;
@@ -36,7 +36,7 @@ Less than a month after that first fateful meeting in Kuala Lumpur, Singapore wa
 The following extract from _The Albatross File: Inside Separation_ describes the two meetings that Goh had with Razak in Kuala Lumpur in July 1965. It also presents a transcript of Goh’s handwritten notes from the second meeting which outlined the mechanics of how the separation would be carried out.
 
 
-<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_handwritten.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_handwritten2.png" style="width: 80%;">
 
 <div style="background-color: white;">The first two pages of Goh Keng Swee’s handwritten notes on his meeting with Acting Malaysian Prime Minister Tun Abdul Razak Hussein and Malaysian Minister of Home Affairs Ismail Abdul Rahman, 20 July 1965. <i>Courtesy of National Archives of Singapore. 
  </i></div>
@@ -88,12 +88,9 @@ Goh recorded that Razak was not only greatly relieved, but also grateful to Goh 
 
 The next day (21 July), Goh learnt from Ghazali Shafie,[^8] the Secretary-General of the Malaysian Ministry of External Affairs, that the Tunku had already given instructions to “return Singapore to Lee Kuan Yew” if no way to avoid communal trouble could be found. Ghazali, who had not been at previous negotiations, had been present at a lunch meeting between the Tunku and Lee on 14 April 1965, where the Malaysian leader had asked Lee to “list all complaints to Ghazali”, as Lee revealed in his oral history interview in 1982.&nbsp;
 
-Goh Keng Swee’s Notes on His Meeting with Acting Malaysian Prime Minister Abdul Razak and Minister of Home Affairs Ismail Abdul Rahman on 20 July 1965 &nbsp;
+**Goh Keng Swee’s Notes on His Meeting with Acting Malaysian Prime Minister Abdul Razak and Minister of Home Affairs Ismail Abdul Rahman on 20 July 1965** &nbsp;
 
-Meeting:  
-20 July 1965, Tun Razak’s office,  
-1105 to 1155 hours
-
+Meeting:  20 July 1965, Tun Razak’s office, 1105 to 1155 hours  
 Present: Myself, Razak, Ismail
 
 I said that Lee, Lim \[Kim San\], Barker &amp; myself are only ones privy to this. Toh and Rajaratnam too deeply involved in \[Malaysian\] Solidarity Convention. We should be able to carry the party if business properly handled. Any premature leak will jeopardise scheme. Our side are agreed to secession of Singapore as sovereign, independent state as this appears the only practical way of avoiding impending calamity. But speed is of the essence if scheme is to work.&nbsp;
@@ -114,7 +111,7 @@ I then proposed that it must be presented as a _fait accompli_ to the British. T
 
 <img src="/images/Vol%2022%20Issue%201/Albatross/albatross_proclamation.png" style="width: 80%;">
 
-<div style="background-color: white;">&nbsp;The Proclamation of Singapore as an “independent and sovereign state and nation” signed by Prime Minister Lee Kuan Yew on 9 August 1965. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">The Proclamation of Singapore as an “independent and sovereign state and nation” signed by Prime Minister Lee Kuan Yew on 9 August 1965. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Ismail readily agreed to this proposal. Razak was greatly amused and said that perhaps PAP tactics were the best. I said I saw no objection if Lord Head \[Antony Head; British High Commissioner\] were informed as an act of courtesy of our intentions at 9.30 am on 9 August, half an hour before the Bill of Independence for Singapore is introduced. This was received with great merriment.&nbsp;
 
@@ -134,20 +131,19 @@ The rest of the time was spent on pleasantries as Razak insisted that I should n
 ALBATROSS EXHIBITION AND BOOK</b><br>
 <br>The Albatross File is a secret file kept by Minister for Finance Goh Keng Swee, documenting the secret talks that led to Singapore’s separation from Malaysia. It contains Cabinet papers, memorandums as well as Goh’s handwritten notes of his discussions with Malaysian leaders in the tense days, weeks and months leading to Singapore’s independence on 9 August 1965. The original Albatross File has been in the custody of the National Archives of Singapore since 1996. &nbsp;
 <br><br>
-In conjunction with newly declassified documents and oral history accounts, a permanent exhibition, <i>The Albatross File: Singapore’s Independence Declassified</i>, and a book, <i>The Albatross File: Inside Separation</i> (National Archives of Singapore and Straits Times Press, 2025), were launched in December 2025. &nbsp;
+In conjunction with newly declassified documents and oral history accounts, a permanent exhibition, <a href="https://exhibitions.nlb.gov.sg/current/thealbatrossfile/about/"><i>The Albatross File: Singapore’s Independence Declassified</i></a>, and a book, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300150121"><i>The Albatross File: Inside Separation</i></a> (National Archives of Singapore and Straits Times Press, 2025), were launched in December 2025. &nbsp;
 <br><br>
 Jointly organised by the National Library Board and the Ministry of Digital Development and Information, the exhibition on Level 10 of the National Library Building aims to deepen visitors’ understanding of Singapore’s journey to independence through interactive storytelling, historical replays and first-person narratives of Singapore’s founding fathers.&nbsp;
 <br><br>
 The book contains essays on merger and separation, documents from the Albatross File and other key documents relating to separation, as well as oral history interviews of key players involved. It is available for reference at the Lee Kong Chian Reference Library (call no. RSING 959.5705 ALB) and for loan at selected public libraries (call no. SING 959.5705 ALB). It is also available for sale at physical and online bookshops.
-</div><br>
-
+</div>
 
 #### **Notes**
 
 [^1]: Albert Lau, “Separation,” in [_The Albatross File: Inside Separation_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300150121), ed. Susan Sim (Singapore: National Archives of Singapore and Straits Times Press, 2025), 44–97. (From National Library Singapore, call no. RSING 959.5705 ALB); Tan Tai Yong, “Merger,” [_The Albatross File_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300150121), 18–43.
 
 
-[^2]: By the time Goh made the suggestion to Razak on 15 July 1965 that both countries should go their separate ways, the Tunku had already come to the same conclusion. And Razak was aware because the Tunku had written to him on 1 July that they might “have no choice but to cut out Singapore from Malaysia in order to save the rest of the body from gangrene” (Tunku Abdul Rahman Putra al-Haj, p_Looking Back: Monday Musings and Memories_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1294713) \[Kuala Lumpur: Pustaka Antara, 1977\]. \[From National Library Singapore, call no. RSEA 959.5 ABD\]). The Tunku had also told Razak that “it would be a good time to talk with him \[Lee Kuan Yew\] now”, which Razak might have interpreted as sounding out Lee on the idea of separation, a task he passed on to Goh at their 15 July meeting.
+[^2]: By the time Goh made the suggestion to Razak on 15 July 1965 that both countries should go their separate ways, the Tunku had already come to the same conclusion. And Razak was aware because the Tunku had written to him on 1 July that they might “have no choice but to cut out Singapore from Malaysia in order to save the rest of the body from gangrene” (Tunku Abdul Rahman Putra al-Haj, [_Looking Back: Monday Musings and Memories_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1294713) \[Kuala Lumpur: Pustaka Antara, 1977\]. \[From National Library Singapore, call no. RSEA 959.5 ABD\]). The Tunku had also told Razak that “it would be a good time to talk with him \[Lee Kuan Yew\] now”, which Razak might have interpreted as sounding out Lee on the idea of separation, a task he passed on to Goh at their 15 July meeting.
 
 [^3]: Sim, [_The Albatross File_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300150121), 351.&nbsp;
 
