@@ -1152,4 +1152,15 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
+  - infopic:
+      title: The Great Clean-up of the Singapore River
+      subtitle: People
+      id: infopic
+      description: In a Podcast episode, writer Samantha Boh tells us how civil
+        servant Lee Ek Tieng and his team overcame the challenges of cleaning up
+        the Singapore River.
+      button: TRANSFORMING A HISTORIC WATERWAY
+      url: /vol-22/issue-1/apr-jun-2026/lee-ek-tieng-samantha-boh-singapore-river-podcast/
+      image: /images/Vol 22 Issue 1/River/river_main.png
+      alt: Image alt text
 ---
