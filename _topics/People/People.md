@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/goh-keng-swee-albatross-file-separation-singapore-malaysia/">Architect of Separation</a>
+
+Rather than being unilaterally kicked out in 1965, the decision that Singapore should separate from Malaysia was a mutual one, driven in large part by the efforts of Singapore’s Finance Minister Goh Keng Swee.
+
+<img src="/images/Vol%2022%20Issue%201/Albatross/albatross_tun.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/lee-ek-tieng-samantha-boh-singapore-river-podcast/">**The Great Clean-up of the Singapore River**</a>
 
 In a&nbsp;_BiblioAsia Podcast_&nbsp;episode, writer Samantha Boh tells us how civil servant Lee Ek Tieng and his team at the Ministry of Environment overcame the challenges of cleaning up the Singapore River.

@@ -1,6 +1,6 @@
 ---
 title: The Architect of Separation
-permalink: /holding-area/vol-22/issue-1/apr-jun-2026/the-architect-of-separation/
+permalink: /vol-22/issue-1/apr-jun-2026/goh-keng-swee-albatross-file-separation-singapore-malaysia/
 variant: markdown
 description: ""
 ---
@@ -9,7 +9,7 @@ description: ""
 
 <img src="/images/Vol%2022%20Issue%201/Albatross/albatross_main.png" style="width: 80%;">
 
-<div style="background-color: white;"> Minister for the Interior and Defence Goh Keng Swee at a press conference, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005312 - 0020).
+<div style="background-color: white;"> Dr Goh Keng Swee, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005312 - 0020).
  </i></div>
 
 Malaysia’s Prime Minister Tunku Abdul Rahman (Tunku) was in London in June 1965 when he was laid low by an attack of shingles. Lying in hospital gave him time to think and on 1 July, he wrote a letter to Acting Prime Minister Tun Abdul Razak about the possibility of cutting Singapore out from Malaysia.
