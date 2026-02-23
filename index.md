@@ -9,14 +9,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/
-      button: "Chingay in the 19th and 20th Centuries: A Community Procession in Time"
+      url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
+      button: What You Didn’t Know About the Straits Times
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Chingay/HeroImage_chingay_1.png
+      background: /images/Vol 21 Issue 4/Straits/Straits_Times_Heroimage.jpg
       variant: center
+  - infopic:
+      title: The Great Clean-up of the Singapore River
+      subtitle: People
+      id: infopic
+      description: In a Podcast episode, writer Samantha Boh tells us how civil
+        servant Lee Ek Tieng and his team overcame the challenges of cleaning up
+        the Singapore River.
+      button: TRANSFORMING A HISTORIC WATERWAY
+      url: /vol-22/issue-1/apr-jun-2026/lee-ek-tieng-samantha-boh-singapore-river-podcast/
+      image: /images/Vol 22 Issue 1/River/river_main.png
+      alt: Image alt text
   - infopic:
       title: Got Milk? The School Milk Scheme in Singapore
       subtitle: History
@@ -1151,16 +1162,5 @@ sections:
       button: New Reads
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
-      alt: Image alt text
-  - infopic:
-      title: The Great Clean-up of the Singapore River
-      subtitle: People
-      id: infopic
-      description: In a Podcast episode, writer Samantha Boh tells us how civil
-        servant Lee Ek Tieng and his team overcame the challenges of cleaning up
-        the Singapore River.
-      button: TRANSFORMING A HISTORIC WATERWAY
-      url: /vol-22/issue-1/apr-jun-2026/lee-ek-tieng-samantha-boh-singapore-river-podcast/
-      image: /images/Vol 22 Issue 1/River/river_main.png
       alt: Image alt text
 ---
