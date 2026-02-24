@@ -84,7 +84,7 @@ A new player also entered the market. In 1945, Goh Eng Wah, originally from Muar
 
 Singapore’s independence and subsequent urban redevelopment marked the next stage of expansion for cinemas. In late 1965, two cinemas – Venus Theatre and Golden City Theatre – opened in Queenstown, Singapore’s first satellite town by the Singapore Improvement Trust.[^18] Located on Margaret Drive, these were followed by the dual-screen Queenstown Cinema and Bowling Centre in 1977.[^19]
 
-<img src="/images/Vol%2021%20Issue%204/Cinema/Picture1.jpg" style="width: 40%;">
+<img src="/images/Vol%2021%20Issue%204/Cinema/Picture1.jpg" style="width: 60%;">
 
 <div style="background-color: white;">Opening of Galaxy Cinema in Geylang on 15 October 1965. It was owned by&nbsp;Lim Nee Soon, rubber tycoon and prominent community leader, and known as Apollo Theatre in the 1930s. Upon his death in 1936, his son Lim Chong Pang took charge of the cinema and renamed it Garrick Theatre. In 1965, Chong Pang’s son,&nbsp;Herbie Lim Eng Kwan, rebranded it as Galaxy Cinema. The building is today home to the&nbsp;Muslim Converts' Association of Singapore.
 <i> Courtesy of Peter Lee.</i></div>
