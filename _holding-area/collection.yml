@@ -2,5 +2,5 @@ collections:
   holding-area:
     output: true
     order:
-      - Example Title日本の有名な話　第１９話 かぐやひめ.md
+      - 日本の有名な話　第１９話 かぐやひめ.md
       - Sample article.md
