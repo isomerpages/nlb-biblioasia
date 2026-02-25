@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - 日本の有名な話　第１９話 かぐやひめ.md
       - Sample article.md
