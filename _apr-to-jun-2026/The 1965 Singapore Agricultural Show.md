@@ -33,7 +33,7 @@ On 21 March 1965, the _Straits Times_ reported that an egg glut “had resulted 
 
 Ho Seng Choon, an egg farmer who became one of the organisers of the agricultural show, turned to the Primary Production Department (PPD) for help. The department had been formed in 1959 under the Ministry of National Development to work closely with farmers to promote the interests of rural industry. The PPD decided that the egg farmers needed assistance. “While we encourage exports of eggs, we will also launch a campaign to encourage local people to eat more eggs,” said Cheng Tong Fatt, the director of the PPD.&nbsp; “This will be carried out through the Press, radio, television, schools and exhibitions.”[^4]
 
-The 1965 egg glut led to the formation of a 20-man action committee comprising personnel from the PPD and two farmer organisations – the Singapore Stockfeed Manufacturers’ Association (饲料商公会) and the Singapore Livestock Farmers’ Association (禽畜业协会).[^5] These two associations would work closely with the PPD to organise the campaign later in the year.
+The 1965 egg glut led to the formation of a 20-man action committee comprising personnel from the PPD and two farmer organisations – the Singapore Stockfeed Manufacturers’ Association and the Singapore Livestock Farmers’ Association.[^5] These two associations would work closely with the PPD to organise the campaign later in the year.
 
 <img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_stock.png" style="width: 80%;">
 
@@ -64,7 +64,7 @@ The agricultural show was only one of the attractions of the event. Variety show
 
 <div style="background-color: white;">Chinese riddle competition organised by Havelock Road Community Centre Riddle Club at the agricultural show, 1965. <i>Primary Production Department Collection, courtesy of National Archives of Singapore (Media - Image no. 20060000820 - 0010).</i></div>
 
-The agricultural show turned out to be a crowd pleaser. Over the course of nine days, it drew a total of some 300,000 visitors.[^11] In the _Sin Chew Jit Poh_ newspaper, a visitor by the name of Wu She wrote: “While exhibitions are a regular feature in Singapore, this agricultural show was in a whole different league” (“在星洲经常都有展览会的举行，但这个农展会是别开生面的了”).[^12] Another visitor, Jia Ling, described how different generations of visitors clustered around different activities: “Elderly folk were so engrossed in the Chinese operas that they forgot about the many other stalls they had yet to visit, youngsters were enraptured by the frenetic music, while kids snuck off to squat under the silver screen” (“老人家看 \[古装\] 大戏看得入神忘记了后头还有许多没看完的摊位；年轻人被疯狂的音乐迷住了；小孩子却溜到银幕下蹲了下去”).[^13]
+The agricultural show turned out to be a crowd pleaser. Over the course of nine days, it drew a total of some 300,000 visitors.[^11] In the _Sin Chew Jit Poh_ newspaper, a visitor by the name of Wu She wrote: “While exhibitions are a regular feature in Singapore, this agricultural show was in a whole different league.”[^12] Another visitor, Jia Ling, described how different generations of visitors clustered around different activities: “Elderly folk were so engrossed in the Chinese operas that they forgot about the many other stalls they had yet to visit, youngsters were enraptured by the frenetic music, while kids snuck off to squat under the silver screen.” [^13]
 
 <img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_show.png" style="width: 80%;">
 
@@ -80,7 +80,7 @@ To commemorate the occasion, the organising committee produced a special publica
 
 <img src="/images/Vol%2022%20Issue%201/Agricultural/Agricultural_book.png" style="width: 60%;">
 
-<div style="background-color: white;">A special publication produced by the organising committee of the 1965 agricultural show. It included messages from members of the organising committee and articles on recent innovations in farming. <i>Image reproduced from Xin jia po nongye zhan lan hui tekan 新嘉坡农业展览会特刊 [Special Publication of the Singapore Agricultural Show] (Singapore: Primary Production Department, 1965). (From National Library Online).</i></div>
+<div style="background-color: white;">A special publication produced by the organising committee of the 1965 agricultural show. It included messages from members of the organising committee and articles on recent innovations in farming. <i>Image reproduced from  新嘉坡农业展览会特刊 [Special Publication of the Singapore Agricultural Show] (Singapore: Primary Production Department, 1965). (From National Library Singapore  , call no. RCLOS 338.1095957)</i></div>
 
 #### **Cultivating Ties**
 
@@ -126,7 +126,7 @@ The reduced targets reflect both a recognition of the challenges facing the agri
 
 [^4]: Ho Seng Choon, oral history interview by Tan Beng Luan, 1 July 1994, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1d6b516b-115f-11e3-83d5-0050568939ad-OHC001519_006/web/html5/index.html) and MP3 audio, Reel/Disc 6 of 8, National Archives of Singapore ([accession no. 001519](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001519)), 1–12;&nbsp; “[Singapore’s Big Egg Crisis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650321-1.2.49.6).” &nbsp;
 
-[^5]: “[Singapore’s Big Egg Crisis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650321-1.2.49.6).” &nbsp;
+[^5]: “[Singapore’s Big Egg Crisis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650321-1.2.49.6).” [Note: In Chinese, the Singapore Stockfeed Manufacturers’ Association is&nbsp;饲料商公会, while the Singapore Livestock Farmers’ Association is&nbsp;禽畜业协会.\]
 
 [^6]: [Ho](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1d6b516b-115f-11e3-83d5-0050568939ad-OHC001519_006/web/html5/index.html), interview, 1 July 1994, Reel/Disc 6 of 8, 1–12.
 
