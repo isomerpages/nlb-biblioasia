@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
-      button: What You Didn’t Know About the Straits Times
+      url: /vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/
+      button: "Wandering Wood: The Transoceanic Pollination of the Double Coconut"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
