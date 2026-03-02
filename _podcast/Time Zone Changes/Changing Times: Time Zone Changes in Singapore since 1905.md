@@ -6,9 +6,7 @@ description: ""
 image: /images/Podcast/Kenneth_600_400.jpg
 third_nav_title: Time Zone Changes
 ---
-<p><strong>Coming in March</strong>
-<br>
-<br>Singapore's time zone has been changed at least seven times since 1905,
+<p>Singapore's time zone has been changed at least seven times since 1905,
 including during the Japanese Occupation when it was synchronised to Tokyo
 time. Arts librarian Kenneth Tay explains the historical context for the
 time zone changes, the origins of the Greenwich Mean Time (GMT) system,
@@ -24,7 +22,6 @@ and ways to measure time, including a rare atomic clock in a local laboratory.
 <p></p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
-<h4><strong>What Kenneth Talked About</strong></h4>
 <p></p>
 <p></p>
 <details class="isomer-details">
