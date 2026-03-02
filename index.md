@@ -1163,4 +1163,14 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
+  - infopic:
+      title: Architect of Separation
+      subtitle: People
+      id: infopic
+      description: Rather than being unilaterally kicked out in 1965, the decision
+        that Singapore should separate from Malaysia was a mutual one.
+      button: Singapore leaves Malaysia
+      url: /vol-22/issue-1/apr-jun-2026/goh-keng-swee-albatross-file-separation-singapore-malaysia/
+      image: /images/Vol 22 Issue 1/Albatross/albatross_tun.png
+      alt: Image alt text
 ---
