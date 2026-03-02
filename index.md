@@ -21,8 +21,9 @@ sections:
       title: Architect of Separation
       subtitle: People
       id: infopic
-      description: Rather than being unilaterally kicked out in 1965, the decision
-        that Singapore should separate from Malaysia was a mutual one.
+      description: The decision that Singapore should separate from Malaysia was
+        driven in large part by the efforts of Singapore’s Finance Minister Goh
+        Keng Swee.
       button: Singapore leaves Malaysia
       url: /vol-22/issue-1/apr-jun-2026/goh-keng-swee-albatross-file-separation-singapore-malaysia/
       image: /images/Vol 22 Issue 1/Albatross/albatross_tun.png
