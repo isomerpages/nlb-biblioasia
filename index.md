@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 4/Straits/Straits_Times_Heroimage.jpg
+      background: /images/Vol 21 Issue 4/Wandering Wood/HeroImage_Coconut.jpg
       variant: center
   - infopic:
       title: Architect of Separation
