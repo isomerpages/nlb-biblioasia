@@ -9,14 +9,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/
-      button: What You Didn’t Know About the Straits Times
+      url: /vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/
+      button: "Wandering Wood: The Transoceanic Pollination of the Double Coconut"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 4/Straits/Straits_Times_Heroimage.jpg
+      background: /images/Vol 21 Issue 4/Wandering Wood/HeroImage_Coconut.jpg
       variant: center
+  - infopic:
+      title: Architect of Separation
+      subtitle: People
+      id: infopic
+      description: The decision that Singapore should separate from Malaysia was
+        driven in large part by the efforts of Singapore’s Finance Minister Goh
+        Keng Swee.
+      button: Singapore leaves Malaysia
+      url: /vol-22/issue-1/apr-jun-2026/goh-keng-swee-albatross-file-separation-singapore-malaysia/
+      image: /images/Vol 22 Issue 1/Albatross/albatross_tun.png
+      alt: Image alt text
   - infopic:
       title: The Great Clean-up of the Singapore River
       subtitle: People
