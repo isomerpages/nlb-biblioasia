@@ -122,19 +122,19 @@ While Singapore has yet to create something as lasting as the memorials in Malay
 [^10]: Harding and Ahmad Sarji, [_P. Ramlee: The Bright Star_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11727520), 243–59.
 
 
-[^11]: Adil Johan, “Cosmopolitan Sounds and Intimate Narratives in P. Ramlee’s Film Music,” _Journal of Intercultural Studies_ 40, no. 4 (July 2019): 474–90, https://doi.org/10.1080/07256868.2019.1628723.
+[^11]: Adil Johan, “Cosmopolitan Sounds and Intimate Narratives in P. Ramlee’s Film Music,” _Journal of Intercultural Studies_ 40, no. 4 (July 2019): 474–90, [https://doi.org/10.1080/07256868.2019.1628723](https://doi.org/10.1080/07256868.2019.1628723).
 
-[^12]: Yusnor Ef, _P. Ramlee Yang Saya Kenal_ \[The P. Ramlee I knew\] (Subang Jaya: Pelanduk Publications, 2000), 149. (From National Library Singapore, call no. RSING 791.40924 YUS).
+[^12]: Yusnor Ef, [_P. Ramlee Yang Saya Kenal_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9918703) \[The P. Ramlee I knew\] (Subang Jaya: Pelanduk Publications, 2000), 149. (From National Library Singapore, call no. RSING 791.40924 YUS).
 
-[^13]: Rohayati Paseng Barnard and Timothy P. Barnard, “The Ambivalence of P. Ramlee: Penarek Beca _and_ Bujang Lapok in Perspective,” _Asian Cinema_ 13, no. 2 (September 2002): 9–23, https://intellectdiscover.com/content/journals/10.1386/ac.13.2.9\_1.
+[^13]: Rohayati Paseng Barnard and Timothy P. Barnard, “The Ambivalence of P. Ramlee: Penarek Beca _and_ Bujang Lapok in Perspective,” _Asian Cinema_ 13, no. 2 (September 2002): 9–23, [https://intellectdiscover.com/content/journals/10.1386/ac.13.2.9\_1](https://intellectdiscover.com/content/journals/10.1386/ac.13.2.9_1).
 
-[^14]: Jan Uhde, “P. Ramlee and Neorealism,” _Kinema: A Journal for Film and Audiovisual Media_, 15 April 2015, https://doi.org/10.15353/kinema.vi.1323.&nbsp;
+[^14]: Jan Uhde, “P. Ramlee and Neorealism,” _Kinema: A Journal for Film and Audiovisual Media_, 15 April 2015, [https://doi.org/10.15353/kinema.vi.1323](https://doi.org/10.15353/kinema.vi.1323).
 
-[^15]: “Semerah Padi,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0278027/.
+[^15]: “Semerah Padi,” IMDb, accessed 11 February 2026, [https://www.imdb.com/title/tt0278027/](https://www.imdb.com/title/tt0278027/).
 
-[^16]: “Antara Dua Darjat,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0277581/.
+[^16]: “Antara Dua Darjat,” IMDb, accessed 11 February 2026, [https://www.imdb.com/title/tt0277581/](https://www.imdb.com/title/tt0277581/).
 
-[^17]: “Ibu Mertua Ku (My Mother In-Law, 1962),” Asian Film Archive, date accessed 11 February 2026, https://asianfilmarchive.org/event-calendar/ibu-mertua-ku-my-mother-in-law-1962/.
+[^17]: “Ibu Mertua Ku (My Mother In-Law, 1962),” Asian Film Archive, date accessed 11 February 2026, [https://asianfilmarchive.org/event-calendar/ibu-mertua-ku-my-mother-in-law-1962/](https://asianfilmarchive.org/event-calendar/ibu-mertua-ku-my-mother-in-law-1962/).
 
 [^18]: “Labu dan Labi ,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0216866/; “Madu Tiga,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0277810/; “The Three Abduls,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0278094/.
 
