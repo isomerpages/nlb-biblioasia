@@ -149,21 +149,21 @@ While Singapore has yet to create something as lasting as the memorials in Malay
 
 [^23]: Harding and Ahmad Sarji, [_P. Ramlee: The Bright Star_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11727520), 31–41.
 
-[^24]: A.H. Ahmad Sarji, [_P. Ramlee, Erti Yang Sakti_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9657032) , 338–40.&nbsp;
+[^24]: A.H. Ahmad Sarji, [_P. Ramlee, Erti Yang Sakti_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9657032), 338–40.&nbsp;
 
-[^25]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_, 35.
+[^25]: A.H. Ahmad Sarji, [_P. Ramlee, Erti Yang Sakti_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9657032), 35.
 
-[^26]: “Shaws’ Two for Film Festival,” _Straits Times_, 30 April 1973, 23. (From NewspaperSG). \[_One Thousand and One Nights_, or _The Arabian Nights_, is a collection of Middle Eastern folktales in the Arabic language.\]&nbsp;
+[^26]: “[Shaws’ Two for Film Festival](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730430-1.2.84),” _Straits Times_, 30 April 1973, 23. (From NewspaperSG). \[_One Thousand and One Nights_, or _The Arabian Nights_, is a collection of Middle Eastern folktales in the Arabic language.\]&nbsp;
 
-[^27]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_, 181.
+[^27]: A.H. Ahmad Sarji, [_P. Ramlee, Erti Yang Sakti_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9657032), 181.
 
-[^28]: “The Legend of P. Ramlee,” Thought Moments, 13 August 2019, https://thoughtmoments.wordpress.com/2019/08/13/the-legend-of-p-ramlee/.
+[^28]: “The Legend of P. Ramlee,” Thought Moments, 13 August 2019, [https://thoughtmoments.wordpress.com/2019/08/13/the-legend-of-p-ramlee/](https://thoughtmoments.wordpress.com/2019/08/13/the-legend-of-p-ramlee/).
 
-[^29]: “Off the Catalogue: A P. Ramlee Focus (May 2025),” Asian Film Archive, accessed 11 February 2026, https://asianfilmarchive.org/event-calendar/off-the-catalogue-p-ramlee-may-2025/.
+[^29]: “Off the Catalogue: A P. Ramlee Focus (May 2025),” Asian Film Archive, accessed 11 February 2026, [https://asianfilmarchive.org/event-calendar/off-the-catalogue-p-ramlee-may-2025/](https://asianfilmarchive.org/event-calendar/off-the-catalogue-p-ramlee-may-2025/).
 
-[^30]: Eddino Abdul Hadi, “Film and Music Icon P. Ramlee Remembered Through New Concerts and Mural in Singapore,” _Straits Times_, 9 April 2025, https://www.straitstimes.com/life/entertainment/film-and-music-icon-p-ramlee-remembered-through-new-concerts-and-mural-in-singapore.
+[^30]: Eddino Abdul Hadi, “Film and Music Icon P. Ramlee Remembered Through New Concerts and Mural in Singapore,” _Straits Times_, 9 April 2025, [https://www.straitstimes.com/life/entertainment/film-and-music-icon-p-ramlee-remembered-through-new-concerts-and-mural-in-singapore](https://www.straitstimes.com/life/entertainment/film-and-music-icon-p-ramlee-remembered-through-new-concerts-and-mural-in-singapore).
 
 
-[^31]: Joan Kee, “False Front: The Art of Ming Wong,” ArtForum, May 2012, https://www.artforum.com/features/false-front-the-art-of-ming-wong-199976/; Tan Siuli, “A Conversation with Ming Wong,” Art SG, accessed 13 February 2026, https://artsg.com/news/a-conversation-with-ming-wong/; Shawn Hoo, “National Gallery’s Revamped Singapore Gallery Spotlights More Women and Minority Artists,” _Straits Times_, 16 July 2025, https://www.straitstimes.com/life/arts/national-gallerys-revamped-singapore-gallery-spotlights-more-women-and-minority-artists.
+[^31]: Joan Kee, “False Front: The Art of Ming Wong,” ArtForum, May 2012, [https://www.artforum.com/features/false-front-the-art-of-ming-wong-199976/](https://www.artforum.com/features/false-front-the-art-of-ming-wong-199976/); Tan Siuli, “A Conversation with Ming Wong,” Art SG, accessed 13 February 2026, [https://artsg.com/news/a-conversation-with-ming-wong/](https://artsg.com/news/a-conversation-with-ming-wong/); Shawn Hoo, “National Gallery’s Revamped Singapore Gallery Spotlights More Women and Minority Artists,” _Straits Times_, 16 July 2025, [https://www.straitstimes.com/life/arts/national-gallerys-revamped-singapore-gallery-spotlights-more-women-and-minority-artists](https://www.straitstimes.com/life/arts/national-gallerys-revamped-singapore-gallery-spotlights-more-women-and-minority-artists).
 
-[^32]: “Hilmi Johandi – Stagecraft: Landscapes and Paradise,” Ota Fine Arts, accessed 11 February&nbsp; 2026, https://www.otafinearts.com/exhibitions/67-hilmi-johandi-stagecraft-landscapes-and-paradise-hilmi-johandi/.
+[^32]: “Hilmi Johandi – Stagecraft: Landscapes and Paradise,” Ota Fine Arts, accessed 11 February&nbsp; 2026, [https://www.otafinearts.com/exhibitions/67-hilmi-johandi-stagecraft-landscapes-and-paradise-hilmi-johandi/](https://www.otafinearts.com/exhibitions/67-hilmi-johandi-stagecraft-landscapes-and-paradise-hilmi-johandi/).
