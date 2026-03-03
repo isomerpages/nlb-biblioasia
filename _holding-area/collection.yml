@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - "P Ramlee: The Singapore Years.md"
       - Sample article.md
