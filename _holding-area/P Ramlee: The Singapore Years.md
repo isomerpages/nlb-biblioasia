@@ -4,7 +4,7 @@ permalink: /p-ramlee-the-singapore-years/
 variant: markdown
 description: ""
 ---
-#### The formative years of the legendary singer, actor and filmmaker P. Ramlee unfolded in Singapore, a city he not only helped to enliven through his presence and artistry but also captured with enduring vividness in his songs and films.  
+#### The formative years of the legendary singer, actor and filmmaker P. Ramlee unfolded in Singapore, a city he not only helped to enliven through his presence and artistry but also captured with enduring vividness in his songs and films. &nbsp;
 
 By Raphaël Millet
 
@@ -34,19 +34,19 @@ The Singer
 
 Not long after Ramlee came to Singapore to work as a background vocalist, he earned the reputation of a “golden voice”. By 1951, he was composing and performing the songs for the three films in which he appeared while also providing music for five others. Over the years, he wrote more than 500 songs and recorded about 350 of them himself.10
 
-Ramlee’s musical language grew from the cosmopolitan soundscape of early 20th-century Singapore.11 The theatrical flair of _bangsawan_ and the social rhythms of _ronggeng_ (a traditional Javanese dance form) shaped his sensibility, while _keroncong_ added its slow, swaying pulse. He wove these threads with Malay melodic lines, Anglo-American jazz harmonies, Latin inflections as well as influences from Javanese, Middle Eastern and Indian traditions. Its durability is clear in the enduring lives of songs like “Azizah”, “Getaran Jiwa”, “Engkau Laksana Bulan”, “Dendang Perantau”, “Joget Pahang”, “Tudung Periok”, “Malam Bulan Di Pagar Bintang”, “Dimanakan Ku Cari Ganti” and “Pukul Tiga Pagi”.12 
+Ramlee’s musical language grew from the cosmopolitan soundscape of early 20th-century Singapore.11 The theatrical flair of _bangsawan_ and the social rhythms of _ronggeng_ (a traditional Javanese dance form) shaped his sensibility, while _keroncong_ added its slow, swaying pulse. He wove these threads with Malay melodic lines, Anglo-American jazz harmonies, Latin inflections as well as influences from Javanese, Middle Eastern and Indian traditions. Its durability is clear in the enduring lives of songs like “Azizah”, “Getaran Jiwa”, “Engkau Laksana Bulan”, “Dendang Perantau”, “Joget Pahang”, “Tudung Periok”, “Malam Bulan Di Pagar Bintang”, “Dimanakan Ku Cari Ganti” and “Pukul Tiga Pagi”.12&nbsp;
 
 The Filmmaker
 
 Ramlee’s development as a filmmaker grew from years of close observation. He absorbed the working methods of the Indian directors who shaped early Malay cinema and learned precise camera craft from Chow Cheng Kok, the cinematographer for _Bakti_. In 1955, at just 26 years old (the same age Orson Welles was when he made _Citizen Kane_ in 1941), Ramlee was given his first movie to direct. The decision marked an important shift in an industry long dependent on Indian filmmakers and signalled confidence in a Malay creative voice at the centre of a cosmopolitan studio system.
 
-His debut effort, _Penarek Becha_ (Trishaw Puller, 1955), set out his social and aesthetic compass.13 The use of real streets, incidental sound and unposed movement created an immediacy that critics later linked to neo-realist cinema.14 His shift from actor to director demonstrated that local Malay talent could helm major productions. 
+His debut effort, _Penarek Becha_ (Trishaw Puller, 1955), set out his social and aesthetic compass.13 The use of real streets, incidental sound and unposed movement created an immediacy that critics later linked to neo-realist cinema.14 His shift from actor to director demonstrated that local Malay talent could helm major productions.&nbsp;
 
 Across his early features, Ramlee sought breadth of form and theme. _Semerah Padi_ (1956) drew on customs and moral choice.15 _Antara Dua Darjat_ (Between Two Classes, 1960) explored class conflict with clarity and bite.16 _Ibu Mertuaku_ (My Mother-in-Law, 1962) offered one of his finest performances as the blind musician Kassim Selamat moves through a vividly realised Singapore.17
 
-His comedies, including _Labu dan Labi_ (Labu and Labi, 1962), _Madu Tiga_ (Three Wives, 1964) and _Tiga Abdul_ (The Three Abduls, 1964), folded satire into everyday concerns of money, status and desire while retaining the allure of popular entertainment.18  
+His comedies, including _Labu dan Labi_ (Labu and Labi, 1962), _Madu Tiga_ (Three Wives, 1964) and _Tiga Abdul_ (The Three Abduls, 1964), folded satire into everyday concerns of money, status and desire while retaining the allure of popular entertainment.18 &nbsp;
 
-In _Seniman Bujang Lapok_ (The Nitwit Movie Stars, 1961), the fourth film in the _Bujang Lapok_ series, Ramlee not only was the director but also played one of the protagonists who attempts to become an actor despite his inexperience and ignorance of the film industry. Its unmatched portrait of Singapore’s Malay film industry remains both irresistibly funny and strikingly detached.19 What began as a satirical take on studio life has acquired remarkable archival value, capturing with unusual vividness the world that shaped his craft. 
+In _Seniman Bujang Lapok_ (The Nitwit Movie Stars, 1961), the fourth film in the _Bujang Lapok_ series, Ramlee not only was the director but also played one of the protagonists who attempts to become an actor despite his inexperience and ignorance of the film industry. Its unmatched portrait of Singapore’s Malay film industry remains both irresistibly funny and strikingly detached.19 What began as a satirical take on studio life has acquired remarkable archival value, capturing with unusual vividness the world that shaped his craft.&nbsp;
 
 Mapping Singapore on Screen
 
@@ -60,7 +60,7 @@ _Ibu Mertuaku_ traces a path through the Capitol Blue Room in Capitol Theatre, a
 
 Malay Life in a Changing City
 
-Ramlee’s films – in which class, modernity and moral choice were the focus – also traced the social currents underpinning Malay life in a city changing at great speed. In _Penarek Becha_, for example, a trishaw rider shows that dignity is not confined to wealth. _Antara Dua Darjat_ turns on a love constrained by status, while _Ibu Mertuaku_ reveals how talent can be broken by a society enthralled by appearances. 
+Ramlee’s films – in which class, modernity and moral choice were the focus – also traced the social currents underpinning Malay life in a city changing at great speed. In _Penarek Becha_, for example, a trishaw rider shows that dignity is not confined to wealth. _Antara Dua Darjat_ turns on a love constrained by status, while _Ibu Mertuaku_ reveals how talent can be broken by a society enthralled by appearances.&nbsp;
 
 His comedies – including _Labu dan Labi_, _Madu Tiga_ and _Seniman Bujang Lapok_ – mock vanity and pretence with a light touch that never obscures the moral of the stories. In _Anakku Sazali_, the city offers promise to the father and ruin to the son, capturing the uneven pull of urban life.
 
@@ -84,7 +84,7 @@ By the early 1960s, P. Ramlee seemed to feel that his long creative season at Ma
 
 Ramlee lived the rest of his life in Malaysia but would return to Singapore regularly until the very end of his life. For instance, he attended the 19th Asian Film Festival at the Singapore Conference Hall from 18 to 23 May 1973.25 There, he moved through receptions and screenings, presenting _Laksamana Do Re Mi_ (The Admirals Do, Re, and Mi, 1972) – his final completed film – a playful work drawn from _One Thousand and One Nights_.26 It would be his last public appearance abroad. A few days later, on 29 May 1973, he was gone, felled by a heart attack at his Malaysian home at the age of 44.27 There is a quiet, sad and almost fated symmetry in the fact that Singapore – the city that shaped his youth and launched his career – was the last place he visited.
 
-An Enduring Legacy 
+An Enduring Legacy&nbsp;
 
 The roads and memorials named in his honour in Malaysia testify to P. Ramlee’s substantial achievements there. In his nine years in Kuala Lumpur, he acted in 21 films and directed 18. In comparison, during his 16 years in Singapore, he performed in 42 films, made three cameo appearances, narrated one and directed 17, substantial in its own right.
 
@@ -95,4 +95,28 @@ Contemporary artists from Singapore have been inspired by Ramlee’s work. In 20
 For artist Hilmi Johandi’s series of work, _Dusk to Dawn_ (2013–14), he referenced old films, such as those by Ramlee, and reworked film stills and posters in paintings that reflect on modernity.32 These multiple artistic engagements show that Ramlee’s mid-century Singapore remains a living archive to be constantly revisited rather than just a mere nostalgic walk down memory lane.
 
 While Singapore has yet to create something as lasting as the memorials in Malaysia, one might hope that, in time, it will choose to honour not only the man but also its own film history through one of its most legendary figures.
+<br><br>
+<div style="background-color: white;">
+<b>Raphaël Millet</b> is a film director, producer and critic with a long-standing interest in Singapore’s film history. His publications include <i>Le Cinéma de Singapour</i> (2004), <i>Singapore Cinema</i> (2006) and <i>Singapore: A Cinematic Portrait</i> (2026). He also directed the documentaries, <i>Gaston Méliès and His Wandering Star Film Company</i> (2015), <i>Chaplin in Bali</i> (2017) and <i>The Capitol of Singapore</i> (2020), all preserved by the Asian Film Archive.</div>
 
+#### **Notes**
+
+[^1]: 
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
