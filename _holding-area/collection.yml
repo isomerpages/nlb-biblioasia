@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - New Books on Singapore History.md
       - "P Ramlee: The Singapore Years.md"
       - Sample article.md
