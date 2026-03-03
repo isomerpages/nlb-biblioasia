@@ -465,161 +465,113 @@ hours. It’s not, it’s really more on the scale of milliseconds.&nbsp;</p>
 about our everyday lives. These irregularities and differences cannot really
 be felt, like it really feels like one millisecond. And for a large part
 of the 19th and 20th centuries, GMT or solar time in general was good enough
-for a timekeeping system.</p>
-<p>&nbsp;</p>
+for a timekeeping system.&nbsp;</p>
 <p>But sometime in the 1970s, scientists around the world decided that there
 needed to be a more precise way of keeping time. And that solely relying
 on the Earth’s rotation about its own axis was perhaps not the most precise
 way, because it’s very irregular, and therefore slightly unpredictable.
-So, we needed a much more, precise and predictable, way of keeping time.</p>
-<p>&nbsp;</p>
+So, we needed a much more, precise and predictable, way of keeping time.&nbsp;</p>
 <p>And that’s where Coordinated Universal Time came in. It’s also quite interesting,
 because it’s quite confusing. It’s called Coordinated Universal Time, which,
 if you think about it in English, should be CUT, but it’s abbreviated as
-UTC because of French.</p>
-<p>&nbsp;</p>
+UTC because of French.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I was going to say I always knew it as UTC, but I knew what it meant.</p>
-<p>&nbsp;</p>
+<br>I was going to say I always knew it as UTC, but I knew what it meant.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yeah. So, that’s it.</p>
-<p>&nbsp;</p>
+<br>Yeah. So, that’s it.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Really, how do you see it?</p>
-<p>&nbsp;</p>
+<br>Really, how do you see it?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>French? I will not try because I don’t speak French at all, and someone’s
+<br>French? I will not try because I don’t speak French at all, and someone’s
 going to complain. But anyway, so speaking UTC, coordinates at Universal
 time, unlike GMT, it’s not built on solar observations, and therefore not
 entirely dependent on the Earth’s irregular rotations. Its foundation is
 the atomic clock, which keeps time based not on the solar rhythm, but,
 as the name suggests, on the stable oscillations of a Cesium atom. Cesium
 one, two, three atoms at rest and at a temperature of zero Kelvin, which
-is roughly about negative.</p>
-<p>&nbsp;</p>
+is roughly about negative.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Two seven three.</p>
-<p>&nbsp;</p>
+<br>Two seven three.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>273.15 degrees Celsius. So, a cesium 133 atom is found to oscillate about
+<br>273.15 degrees Celsius. So, a cesium 133 atom is found to oscillate about
 9 billion times a second. Right, to put it in other words, a second was
 now not so much one out of 86400 of a day. One second is no longer defined
 as a fraction of a day, which is again, like I said, irregular, but rather
 measured and defined now as 9,192,631,770 oscillations of a Cesium atom
-at rest and at zero Kelvin.</p>
-<p>&nbsp;</p>
+at rest and at zero Kelvin.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Is there like one atomic clock in the whole world?</p>
-<p>&nbsp;</p>
+<br>Is there like one atomic clock in the whole world?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>That’s a really interesting question. There are, in fact, over 400. I
+<br>That’s a really interesting question. There are, in fact, over 400. I
 may be wrong about this. There’s about over 400 atomic clocks distributed
-around the Earth.</p>
-<p>&nbsp;</p>
+around the Earth.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Are there any in Singapore? Where is it?</p>
-<p>&nbsp;</p>
+<br>Are there any in Singapore? Where is it?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>There is one. So, this is public knowledge and so people can look this
-up. We actually have it at the National Metrology Centre.</p>
-<p>&nbsp;</p>
+<br>There is one. So, this is public knowledge and so people can look this
+up. We actually have it at the National Metrology Centre.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>An atomic clock that’s being kept by scientists here. So that they can
+<br>An atomic clock that’s being kept by scientists here. So that they can
 correspond with the rest of the atomic clocks around the world to make
 sure that they’re always kind of in sync with each other. And what UTC
 does is to average out the time recorded across these atomic clocks distributed
-around the world. Of course, Japan has a few. Singapore has one.</p>
-<p>&nbsp;</p>
+around the world. Of course, Japan has a few. Singapore has one.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s just mind blowing.</p>
-<p>&nbsp;</p>
+<br>That’s just mind blowing.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>So, UTC keeps time based on this new atomic standard. But what is interesting
+<br>So, UTC keeps time based on this new atomic standard. But what is interesting
 to me is when there’s a difference between the so-called atomic time and
 GMT or solar time, when the difference between these gets larger or close
 to one second. UTC will actually compromise UTC. Well, at what we call
-a leap second.</p>
-<p>&nbsp;</p>
+a leap second.&nbsp;</p>
 <p>Okay. We can think of this as a kind of a compromise, because what it’s
 trying to do is that UTC is still kept fairly in line with our experience
 of solar time, which is really experience and lift. Right? I think few
 of us can actually say that we experience atomic time at a bodily level,
-but we do.</p>
-<p>&nbsp;</p>
+but we do.&nbsp;</p>
 <p>We can experience solar time at a time every day. Yeah. So, UTC is not
 pure atomic time built on that. This foundation, this atomic standards
 of timekeeping. Broadly speaking, it’s kind of modified, so that it has
-some relationship, I would say, to the natural rhythms that we can experience.</p>
-<p>&nbsp;</p>
+some relationship, I would say, to the natural rhythms that we can experience.&nbsp;</p>
 <p>I often imagine UTC as a kind of patch or upgrade to GMT because as our
 economy and the world comes to depend more and more on precise time signals
 to function, we can think here, broadly of, satellite communications using
-GPS.</p>
-<p>&nbsp;</p>
+GPS.&nbsp;</p>
 <p>But what actually needs time signals, precise time signals to triangulate
 positions on Earth, or even to more, I guess, more, yeah, prosaic things
 like high-speed frequency algorithms in stock trading. You know, those
 definitely require more precise time signals, right? Because these are
-computers or computer programmes trading at the level of microseconds.</p>
-<p>&nbsp;</p>
+computers or computer programmes trading at the level of microseconds.&nbsp;</p>
 <p>So, any sort of imprecision would cause it to malfunction. So, if you
 think about our economy and world today, it’s easy to understand why there
 was a need to patch GMT solar time to UTC. But of course, these days, at
 a local level, most people tend to use GMT and UTC quite interchangeably,
 because essentially they keep at the level of our everyday life. So, it’s
 also easy to understand that once you disregard the millisecond discrepancy
-between GMT and UTC, they pretty much show you the same time.</p>
-<p>&nbsp;</p>
+between GMT and UTC, they pretty much show you the same time.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>On an everyday level, it doesn’t make a difference. But clearly, for scientists,
-for astronomers, and for –</p>
-<p>&nbsp;</p>
+<br>On an everyday level, it doesn’t make a difference. But clearly, for scientists,
+for astronomers, and for –&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Speculative traders, speculative.</p>
-<p>&nbsp;</p>
+<br>Speculative traders, speculative.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Traders, it makes a difference. Okay. We wouldn’t want those speculative
+<br>Traders, it makes a difference. Okay. We wouldn’t want those speculative
 traders to lose money. So, you studied Singapore’s changing times. You’ve
 obviously studied, spent a lot of time thinking about time. What then does
 this say about the nature of time? Is it objective or is it subjective?
-Time will tell.</p>
-<p>&nbsp;</p>
+Time will tell.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Oh, we’re getting into philosophy, I guess.</p>
-<p>&nbsp;</p>
+<br>Oh, we’re getting into philosophy, I guess.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I think so.</p>
-<p>&nbsp;</p>
+<br>I think so.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Thankfully, or unfortunately, I’m not. I’m not a philosopher. But I suppose
+<br>Thankfully, or unfortunately, I’m not. I’m not a philosopher. But I suppose
 the most immediate conclusion you can draw from this, really, is time is
 somewhat arbitrary. And by that I mean that there’s no real inherent reason.
 For example, why does 11am. in Singapore needs to be 11am. in Singapore.
-It could easily be 2pm.</p>
-<p>&nbsp;</p>
+It could easily be 2pm.&nbsp;</p>
 <p>It depends on what we define 11pm to be, or “am” to be. In the most general
 sense and maybe people out there already know this, but “am” means <em>ante meridiem</em> and
 PM means <em>post meridiem</em>. So, it’s really in reference to noon, really,
@@ -628,46 +580,36 @@ itself, that’s why 12pm is 12pm and 11pm is 11pm, because you define noon
 as that highest point in the sky where the sun is the highest point in
 the sky. So, it’s arbitrary in the same way that there is no inherent reason
 why the Greenwich Meridian should be the centre of the Earth’s longitude,
-right?</p>
-<p>&nbsp;</p>
+right?&nbsp;</p>
 <p>To measure time, all we really need is a repeating pattern, right? It
 can be the sun’s cycle of rising and falling across the sky. You know,
 you just need a point in a cycle to be used as a reference point, right?
 So, like we mentioned several times, noon, defined as the point at which
-you can observe the sun to be at its highest.</p>
-<p>&nbsp;</p>
+you can observe the sun to be at its highest.&nbsp;</p>
 <p>And on the same note, if time is arbitrary, right. But we have to pick
 and choose a centre as our reference, right? Then who or what or where
 we choose becomes a matter of politics, right? So I think that is the question.
 That is the area I’m trying to lean towards because, I mean, it’s hard
-to sit in a room as we are, waxing lyrical about time’s elusiveness.</p>
-<p>&nbsp;</p>
+to sit in a room as we are, waxing lyrical about time’s elusiveness.&nbsp;</p>
 <p>I mean, we can do that. I’m sure I would enjoy an entire afternoon philosophising
 about that. And what time is, but, you know, at the heart of it, if we
 accept that time is arbitrary and somewhat arbitrary, then it’s political,
 right? How you choose to define it, the terms in which the language used
-to define it.</p>
-<p>&nbsp;</p>
+to define it.&nbsp;</p>
 <p>Right. As we mentioned back in 1884, there’s no real inherent reason why
 Greenwich Meridian was chosen as the prime Meridian. It could have easily
 been the Paris Meridian. Right. But because of politics, right at that
 point in time in history. So that’s really my maybe kind of a cop out answer.
 But I think to answer your question, time is arbitrary, but therefore it
-is political.</p>
-<p>&nbsp;</p>
+is political.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. So now we’re going to talk about Einstein’s theory of relativity
+<br>Okay. So now we’re going to talk about Einstein’s theory of relativity
 and how as you approach the speed of light, time slows down. How can you
-explain that to us?</p>
-<p>&nbsp;</p>
+explain that to us?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>No, I go into time dilation.</p>
-<p>&nbsp;</p>
+<br>No, I go into time dilation.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. I’m joking. And I will not put you through this. That was a joke.
+<br>Okay. I’m joking. And I will not put you through this. That was a joke.
 But it’s now time to move to lighter topics. How did this research change
 your notion of time?</p>
 <p>&nbsp;</p>
