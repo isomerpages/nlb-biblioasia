@@ -35,6 +35,10 @@ B.N. Rao then cast him in some of his most compelling early performances, notabl
 
 Ramlee’s versatility was on display in the neo-realist (a style of filmmaking focusing on ordinary people and everyday life) drama _Anakku Sazali_ (My Son Sazali, 1956) where he played both father and son. He also demonstrated his flair for comedy with the _Bujang Lapok_ series of five films, beginning with _Bujang Lapok_ (Old Bachelor, 1957) where, alongside Aziz Sattar and S. Shamsuddin, he was one of three bachelors whose missteps through modernity reveal humour and vulnerability.[^9]
 
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_poster.png" style="width: 60%;">
+
+<div style="background-color: white;">Directed by P. Ramlee, <i>Seniman Bujang Lapok</i> (The Nitwit Movie Stars, 1961) is the fourth instalment in the <i>Bujang Lapok</i> series of five films. Ramlee stars as Ramli, one of the three protagonists who attempts to become an actor and break into the film business. The film is a spoof of the Malay film industry from the 1950s to ’60s. <i>Courtesy of Wong Han Min.</i></div>
+
 #### **The Singer**
 
 Not long after Ramlee came to Singapore to work as a background vocalist, he earned the reputation of a “golden voice”. By 1951, he was composing and performing the songs for the three films in which he appeared while also providing music for five others. Over the years, he wrote more than 500 songs and recorded about 350 of them himself.[^10]
