@@ -103,23 +103,23 @@ While Singapore has yet to create something as lasting as the memorials in Malay
 
 [^1]: Alan Teh Leam Seng, “How KLʼs Streets Got Their Names,” _New Straits Times_, 21 October 2019, [https://www.nst.com.my/news/nation/2019/10/531943/how-kls-streets-got-their-names](https://www.nst.com.my/news/nation/2019/10/531943/how-kls-streets-got-their-names); “Rumah Kelahiran P. Ramlee,” National Archives of Malaysia, last updated 3 February 2026, [https://www.arkib.gov.my/ms/perkhidmatan/arkib-memorial/info-galeri/rumah-kelahiran-p-ramlee](https://www.arkib.gov.my/ms/perkhidmatan/arkib-memorial/info-galeri/rumah-kelahiran-p-ramlee); “The P. Ramlee Memorial Library,” National Archives of Malaysia, last updated 3 February 2026, [https://www.arkib.gov.my/en/perkhidmatan/arkib-memorial/info-galeri/the-p-ramlee-memorial-library](https://www.arkib.gov.my/en/perkhidmatan/arkib-memorial/info-galeri/the-p-ramlee-memorial-library).
 
-[^2]: For more on P. Ramlee’s early life, see Abdullah Hussain, _P. Ramlee: Kisah Hidup Seniman Agung_ \[P. Ramlee, the life story of the great artist\] (Kuala Lumpur: Dewan Bahasa Pustaka, 1984), 216. (From National Library Singapore, call no. RSING 791.40924 RAM.A); Raphaël Millet, _Singapore Cinema_ (Singapore: Editions Didier Millet, 2006), 48–51. (From National Library Singapore, call no. RSING q791.43095957 MIL)
+[^2]: For more on P. Ramlee’s early life, see Abdullah Hussain, [_P. Ramlee: Kisah Hidup Seniman Agung_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4568004) \[P. Ramlee, the life story of the great artist\] (Kuala Lumpur: Dewan Bahasa Pustaka, 1984), 216. (From National Library Singapore, call no. RSING 791.40924 RAM.A); Raphaël Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716044) (Singapore: Editions Didier Millet, 2006), 48–51. (From National Library Singapore, call no. RSING q791.43095957 MIL)
 
-[^3]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_ \[P. Ramlee, the magical meaning\] (Subang Jaya, Selangor Darul Ehsan, Malaysia: Pelanduk Publications, 1999), 314. (From National Library Singapore, call no. RSEA 791.43092 AHM)&nbsp;
+[^3]: A.H. Ahmad Sarji, [_P. Ramlee, Erti Yang Sakti_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9657032) \[P. Ramlee, the magical meaning\] (Subang Jaya, Selangor Darul Ehsan, Malaysia: Pelanduk Publications, 1999), 314. (From National Library Singapore, call no. RSEA 791.43092 AHM)&nbsp;
 
-[^4]: James Harding and Ahmad Sarji, _P. Ramlee: The Bright Star_ (Kuala Lumpur: Pelanduk Publications, 2002), 15. (From National Library Singapore, call no. RSEA 791.43028092 HAR)&nbsp;
+[^4]: James Harding and Ahmad Sarji, [_P. Ramlee: The Bright Star_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11727520) (Kuala Lumpur: Pelanduk Publications, 2002), 15. (From National Library Singapore, call no. RSEA 791.43028092 HAR)&nbsp;
 
-[^5]: Harding and Ahmad Sarji, _P. Ramlee: The Bright Star_, 20; Millet, _Singapore Cinema_, 48.
+[^5]: Harding and Ahmad Sarji, [_P. Ramlee: The Bright Star_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11727520), 20; Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716044), 48.
 
-[^6]: “Bakti Launches the Film Careers of L. Krishnan and P. Ramlee,” National Library Online. Article published 2014.&nbsp;
+[^6]: “[Bakti Launches the Film Careers of L. Krishnan and P. Ramlee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4ab426e2-220f-4ead-91c7-89c2c95bce87),” National Library Online. Article published 2014.&nbsp;
 
-[^7]: “Patah Hati (Broken Heart, 1952),” Asian Film Archive, accessed 11 February 2026, https://asianfilmarchive.org/event-calendar/patah-hati-broken-heart-1952/; “Miskin,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt15140978/.
+[^7]: “Patah Hati (Broken Heart, 1952),” Asian Film Archive, accessed 11 February 2026, [https://asianfilmarchive.org/event-calendar/patah-hati-broken-heart-1952/](https://asianfilmarchive.org/event-calendar/patah-hati-broken-heart-1952/); “Miskin,” IMDb, accessed 11 February 2026, [https://www.imdb.com/title/tt15140978/](https://www.imdb.com/title/tt15140978/).
 
-[^8]: “Hujan Panas,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0261741/; Gerree Read, “Kris Duels Put Hollywood to Shame,” _Sunday Standard_, 29 January 1956, 9. (From NewspaperSG)
+[^8]: “Hujan Panas,” IMDb, accessed 11 February 2026, [https://www.imdb.com/title/tt0261741/](https://www.imdb.com/title/tt0261741/); Gerree Read, “[Kris Duels Put Hollywood to Shame](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19560129-1.2.91),” _Sunday Standard_, 29 January 1956, 9. (From NewspaperSG)
 
-[^9]: “Anakku Sazali,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0235978/; “The Old Ramlee Magic in Search of a Place to Call Home,” _Straits Times_, 2 March 1998, 9; “Search for P. Ramlee’s Successor Continues,” _Straits Times_, 28 June 1988, 7. (From NewspaperSG)
+[^9]: “Anakku Sazali,” IMDb, accessed 11 February 2026, [https://www.imdb.com/title/tt0235978/](https://www.imdb.com/title/tt0235978/); “[The Old Ramlee Magic in Search of a Place to Call Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980302-1.2.72.23.1),” _Straits Times_, 2 March 1998, 9; “[Search for P. Ramlee’s Successor Continues](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880628-1.2.63.11.1),” _Straits Times_, 28 June 1988, 7. (From NewspaperSG)
 
-[^10]: Harding and Ahmad Sarji, _P. Ramlee: The Bright Star_, 243–59.
+[^10]: Harding and Ahmad Sarji, [_P. Ramlee: The Bright Star_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11727520), 243–59.
 
 
 [^11]: Adil Johan, “Cosmopolitan Sounds and Intimate Narratives in P. Ramlee’s Film Music,” _Journal of Intercultural Studies_ 40, no. 4 (July 2019): 474–90, https://doi.org/10.1080/07256868.2019.1628723.
