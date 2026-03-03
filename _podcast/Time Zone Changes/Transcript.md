@@ -139,70 +139,53 @@ Hong Kong, China and Taiwan. This was not the official reason, as we know.
 But I think because Singapore, Hong Kong, Taiwan and even South Korea came
 to be known as the four Asian tiger economies. In the ’90s, there was this
 public perception that Singapore’s time zone change was perhaps aimed at
-aligning business hours with some of these other Asian tigers. Yeah.</p>
-<p>&nbsp;</p>
+aligning business hours with some of these other Asian tigers. Yeah.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But I guess it also, I mean, it makes sense, right? It’s again very confusing.
+<br>But I guess it also, I mean, it makes sense, right? It’s again very confusing.
 You need to know what time you pick up your friend right at the airport.
 Tell me about not advancing clocks by half an hour so it is relatively
 easy to understand. But at one point Singapore had daylight savings. Now,
-how did that work?</p>
-<p>&nbsp;</p>
+how did that work?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yeah. So, it really came as a shock to me. You know, between 2017 and
+<br>Yeah. So, it really came as a shock to me. You know, between 2017 and
 2019, I lived in New York. So, I had the experience of daylight savings.
 When we had long summer days and long winter nights. So daylight savings
 really help, in a way, make sure that there is, consistent or fairly consistent
-amount of sunlight that we get throughout working hours.</p>
-<p>&nbsp;</p>
+amount of sunlight that we get throughout working hours.&nbsp;</p>
 <p>And that is really what the social benefits of daylight savings is, which
 is to give everyone a certain amount of fun in the sun after work. And
 so, you never really come to equate Singapore and equatorial countries
 with the need for daylight savings. Right. But even as early as 1910 –
 and you can look this up in our newspaper archives – there were already
 public suggestions made to adjust Singapore’s time zone, so that workers
-could enjoy a bit of sunlight after work.</p>
-<p>&nbsp;</p>
+could enjoy a bit of sunlight after work.&nbsp;</p>
 <p>And this was all believed to have health benefits for the working class.
 And there’s something that is a sentiment shared by the British, who were
 here, right? Because daylight savings was the idea that was really championed
 by a gentleman by the name of William Willett, who really wanted some time
-after work, to go golfing.</p>
-<p>&nbsp;</p>
+after work, to go golfing.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Don’t we all. This is exactly what we all want to do.</p>
-<p>&nbsp;</p>
+<br>Don’t we all. This is exactly what we all want to do.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yeah. So, in the case of Singapore, then, in 1910, there were some rumblings
+<br>Yeah. So, in the case of Singapore, then, in 1910, there were some rumblings
 towards the implementation of daylight savings. That never actually happened.
 In the 1920s, there were some internal discussions within the government
-to implement daylight savings in Singapore and other Straits Settlements.</p>
-<p>&nbsp;</p>
+to implement daylight savings in Singapore and other Straits Settlements.&nbsp;</p>
 <p>There was this really funny gentleman who suggested that if we ended the
 day earlier and people actually had the time to go out in the sun, they
 might get sunstroke. There ’30s, Singapore actually managed to pass the
-daylight saving ordinance in 1932. This allowed time to be 20 minutes ahead.</p>
-<p>&nbsp;</p>
+daylight saving ordinance in 1932. This allowed time to be 20 minutes ahead.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But this daylight savings was very different from, say, the UK or New
+<br>But this daylight savings was very different from, say, the UK or New
 York where, you know, in summer, you would change time and after that it
 would go back. So, you spring forward or spring back. Whereas in Singapore
-it was just like permanently.</p>
-<p>&nbsp;</p>
+it was just like permanently.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>That’s a great point because, in the case of Singapore, like I said, it
+<br>That’s a great point because, in the case of Singapore, like I said, it
 was all year round. If you want to, think of it as an extra 20 minutes
-after work to be out there socialising in the sun.</p>
-<p>&nbsp;</p>
+after work to be out there socialising in the sun.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>At my first job, I would go back at like 8 pm or something. And when I
+<br>At my first job, I would go back at like 8 pm or something. And when I
 left that job and went to another job, and when I went home and I could
 see the sun, it was amazing. It was like, oh my God, I’m leaving the office
 and it’s not dark. It really does make a difference. But anyway, enough
@@ -210,11 +193,9 @@ about my tragic life. You were talking earlier about the Japanese Occupation,
 and you were saying that the Japanese announced that, you know, not just
 British Malaya, but occupied Southeast Asia had to follow Tokyo time, which
 was at that point 1.5 hours, 90 minutes, ahead of the time in Singapore.
-How did people react to this?</p>
-<p>&nbsp;</p>
+How did people react to this?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>I wish I had the opportunity to go back in time. But the best I could
+<br>I wish I had the opportunity to go back in time. But the best I could
 do is to dig through our archives, which is a great resource. And I actually
 found this article, published in the <em>Shonan Shimbun</em>, which is essentially,
 the<em> Straits Times</em> rebranded, under Japanese. So, this article was
@@ -222,16 +203,14 @@ published in 1944. And so, to keep it in context. This is two years after,
 you know, the Japanese occupied Singapore and this journalist was actually
 complaining to the public that there were still people, locals presumably,
 living in Malaya who were living in Malayan time, which is, of course,
-1.5 hours behind Tokyo time.</p>
-<p>&nbsp;</p>
+1.5 hours behind Tokyo time.&nbsp;</p>
 <p>And this, he complained, was really inconveniencing a lot of people who
 were living in Tokyo time. So, you have this case in the mid-’40s, even
 under Japanese Occupation, that Singaporeans or Malaysians, or, I should
 say, people living in what was once British Malaya? We were living in double
 time. And this I find really interesting because it took a journalist about
 two years since the occupation to come up and say, hey, hey, it’s been
-two years since we came here and you guys are still living in your past.</p>
-<p>&nbsp;</p>
+two years since we came here and you guys are still living in your past.&nbsp;</p>
 <p>And interestingly enough, to me at least, you could even ask the question,
 is this some kind of subconscious rebellion or some kind of resistance?
 Weapon of the weak because people should also remember that the Japanese
@@ -239,32 +218,24 @@ Occupation is not just spatial, right? It’s not just the Japanese coming
 in to say this is not part of the empire, but it’s also temporal as well,
 because they were imposing for everyone to live at the same time as people
 living in Tokyo. Right. So, this was a temporal occupation as well. And
-one of the best ways perhaps to annex some kind of bodily noncompliance.</p>
-<p>&nbsp;</p>
+one of the best ways perhaps to annex some kind of bodily noncompliance.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Resistance.</p>
-<p>&nbsp;</p>
+<br>Resistance.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Was to literally live in a different time. Wow. To reject this notion
+<br>Was to literally live in a different time. Wow. To reject this notion
 that this is the time of the Japanese Empire, but rather, this is my time,
 my body. And I am insisting on being late, to the inconvenience of the
 Japanese administrators, I’m sure. So, this is a fascinating, I think,
 period that I wish [I had] more time to dig into and find some kind of
 anecdotal stories about this whole thing. This period of double time, this,
-this really interesting, ambiguity.</p>
-<p>&nbsp;</p>
+this really interesting, ambiguity.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Did people complain when Japan surrendered, and Mountbatten, you know,
+<br>Did people complain when Japan surrendered, and Mountbatten, you know,
 marches through the streets and all those people, do you read about anyone
 complaining that, oh my God, we have to change times yet again? If we go
-back to you, we go back an hour and a half, right? So, did anybody complain?</p>
-<p>&nbsp;</p>
+back to you, we go back an hour and a half, right? So, did anybody complain?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>They didn’t manage to find any particular sort of record that shows, like
+<br>They didn’t manage to find any particular sort of record that shows, like
 anyone bemoaning the fact that, oh, it's time to adjust my watch again.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
