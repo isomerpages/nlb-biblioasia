@@ -30,7 +30,7 @@ The Arabs in Singapore, primarily from the Hadramaut region in what is now part 
 
 
 
-#### **[The Albatross File: Inside Separation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300118049)**
+#### **[The Albatross File: Inside Separation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300150121)**
 Edited by Susan Sim  <br>
 National Archives of Singapore and Straits Times Press (2025), 487 pages<br>
 Call no. RSING 959.5705 ALB
@@ -40,3 +40,17 @@ Call no. RSING 959.5705 ALB
 
 
 In 1964, Minister for Finance Goh Keng Swee created the Albatross file documenting Singapore’s deteriorating ties with Kuala Lumpur. In the file are Cabinet papers and Goh’s notes from discussions with Malaysian officials before Singapore’s separation. Most Albatross materials are published here for the first time, along with oral history accounts from Singapore’s key leaders.
+
+
+
+
+#### **[The Benjamin Sheares Story: From Pioneering Gynaecologist to Singapore President](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300154782)**
+By K.C. Vijayan  <br>
+ISEAS - Yusof Ishak Institute (2025), 179 pages<br>
+Call no. RSING 959.5705092 VIJ-\[HIS\]
+
+
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Ink-.png" style="width: 80%;">
+
+
+Dr Benjamin Henry Sheares was a distinguished obstetrician and gynaecologist before becoming Singapore’s second president (1971–81). This biography examines his life and achievements through interviews, anecdotes and historical records. It traces his career from his work as a gynaecologist during Singapore's postwar baby boom to his tenure at the Istana.
