@@ -23,20 +23,14 @@ as people living in Tokyo.&nbsp;</p>
 to enact some kind of bodily noncompliance…<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-<br>Resistance.</p>
-<p>&nbsp;</p>
+<br>Resistance.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>…was to literally live in a different time.</p>
-<p>&nbsp;</p>
-<p>[Music playing]</p>
-<p>&nbsp;</p>
+<br>…was to literally live in a different time.&nbsp;</p>
+<p>[Music playing]&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You’re listening to<em> BiblioAsia+</em>, a podcast produced by the National
+<br>You’re listening to<em> BiblioAsia+</em>, a podcast produced by the National
 Library of Singapore. At <em>BiblioAsia</em>, we tell stories about Singapore’s
 past. Some familiar, others forgotten, all fascinating.</p>
-<p>&nbsp;</p>
 <p>Time is one of those funny things. Time can be subjective. On a day when
 nothing happens, time seems to drag. One hour feels like three days. When
 you’re having fun though, the opposite happens – time flies. Time, however,
@@ -46,90 +40,65 @@ checking your watch. Or do you look at your phone? Even though time appears
 to be an objective truth. Like Singapore is eight hours ahead of GMT. This
 is something that can be changed by policy. In fact, over the last century,
 clocks here have been set backwards and forwards at least seven times.
-The most recent occasion was in 1982, when we advanced by half an hour.</p>
-<p>&nbsp;</p>
+The most recent occasion was in 1982, when we advanced by half an hour.&nbsp;</p>
 <p>But at one point, people in Singapore had to advance their clocks by 90
 minutes, purely for political reasons. This fascinating topic of Singapore’s
 shifting time zones is the subject of a <em>BiblioAsia</em> article by Arts
 Librarian Kenneth Tay. Thanks for joining us in the studio today, Kenneth.
-How are you?</p>
-<p>&nbsp;</p>
+How are you?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>I’m good. I woke up this morning.</p>
-<p>&nbsp;</p>
+<br>I’m good. I woke up this morning.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>At what time?</p>
-<p>&nbsp;</p>
+<br>At what time?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>At about 8.30 Singapore time. Okay. See, it was standard time, I should
-add.</p>
-<p>&nbsp;</p>
+<br>At about 8.30 Singapore time. Okay. See, it was standard time, I should
+add.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, yeah.</p>
-<p>&nbsp;</p>
+<br>Yeah, yeah.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>8.30 thereabouts. I woke up with a slight sinus, as you might be able
+<br>8.30 thereabouts. I woke up with a slight sinus, as you might be able
 to tell from my voice, but good. Other than that, I am okay. And thanks
-for having me on this podcast.</p>
-<p>&nbsp;</p>
+for having me on this podcast.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>We’re very excited to have you. I really love the article that you wrote
+<br>We’re very excited to have you. I really love the article that you wrote
 for <em>BiblioAsia</em>. Very, very interesting. I hadn’t known that, you
 know, our time zones shifted so much. How did you stumble on this idea
-to write about time zones?</p>
-<p>&nbsp;</p>
+to write about time zones?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>So, without going into too much about my past life, because that seems
+<br>So, without going into too much about my past life, because that seems
 like another lifetime ago, I was a curator at the local art museum before
 joining NLB. And there I was kind of researching the histories and concepts
-of timekeeping.</p>
-<p>&nbsp;</p>
+of timekeeping.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I see, okay.</p>
-<p>&nbsp;</p>
+<br>I see, okay.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Because of an artist we were working with. Okay. So, both [the artist]
+<br>Because of an artist we were working with. Okay. So, both [the artist]
 and I became quite interested, actually, in this brief period, in our 20th
 century, where, because of the Japanese Occupation, much of what we know
 today as Southeast Asia, the region, was actually synchronised, to Tokyo
-time, which is GMT+09:00.</p>
-<p>&nbsp;</p>
+time, which is GMT+09:00.&nbsp;</p>
 <p>So, in the case of Singapore, between 1942 and 1945, when we came under
 Japanese control, time shifted to Tokyo time. What? You know, the Japanese
 like to call it Tokyo time. And this really meant a kind of time zone synchronisation
 across the entire region. So, briefly speaking, before ASEAN was even implemented
 much later on, you could even say that it was a kind of regional synchronicity
-that occurred during the Japanese Occupation.</p>
-<p>&nbsp;</p>
+that occurred during the Japanese Occupation.&nbsp;</p>
 <p>So, it’s really from there that I became interested in the idea that time
 zones are quite political in nature. And of course, extending that question
 is what is the history of time zones itself? You know, how did we arrive
 at this current system that we have, which is centered on the Greenwich
 Meridian, which gives the name of Greenwich Mean Time, GMT, as you mentioned
 earlier. But all this is to say that back then, I was also looking at broader
-concepts of timekeeping, which we can talk about later, if there’s time.</p>
-<p>&nbsp;</p>
+concepts of timekeeping, which we can talk about later, if there’s time.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, absolutely. There’s always time to talk about time. Let me ask you,
+<br>Yeah, absolutely. There’s always time to talk about time. Let me ask you,
 we’ve changed our time zones something like seven times in the last century
 or so. And most recently, as I mentioned earlier, was in 1982. For those
 of us who are too young like me to have remembered that period, tell us
 why. What happened in 1982? Why did Singapore advance clocks by half an
-hour?</p>
-<p>&nbsp;</p>
+hour?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>I think to answer that we first have to understand the situation prior
+<br>I think to answer that we first have to understand the situation prior
 to 1982, which is, in the case of Malaysia as a nation, they had two separate
 time zones. So, cities like Kuala Lumpur and Penang located on the Western
 Peninsula, operated at the time zone of GMT+07.30, while others like Kota
@@ -141,36 +110,24 @@ integrated Malaysia, right? Living in the same time zone. And second, it
 better aligns working hours between East and West Malaysia. And so, this
 had the benefit of allowing foreign companies looking to invest in Malaysia
 to have this added convenience of only dealing with one singular time zone
-and market.</p>
-<p>&nbsp;</p>
+and market.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, it makes sense, right? Because if people are trying to call, you
+<br>Yeah, it makes sense, right? Because if people are trying to call, you
 know, people in Kota Kinabalu – Call me at 9pm, my time, not your time
-or whatever. So, it makes sense that half an hour is really quite trivial.</p>
-<p>&nbsp;</p>
+or whatever. So, it makes sense that half an hour is really quite trivial.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yes. But now, of course, we can also ask the second question, which is
+<br>Yes. But now, of course, we can also ask the second question, which is
 why Malaysia decided to centre its national time zone on GMT+08:00, which
-is the time zone of its eastern territories rather than the other way round.</p>
-<p>&nbsp;</p>
+is the time zone of its eastern territories rather than the other way round.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right?</p>
-<p>&nbsp;</p>
+<br>Right?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yeah. But I think that’s a question better left to Malaysian researchers.</p>
-<p>&nbsp;</p>
+<br>Yeah. But I think that’s a question better left to Malaysian researchers.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh. All right. Okay. But maybe you can tell us then why Singapore felt
-that it needed to follow in Malaysia's footsteps?</p>
-<p>&nbsp;</p>
+<br>Oh. All right. Okay. But maybe you can tell us then why Singapore felt
+that it needed to follow in Malaysia's footsteps?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yeah. So, Singapore follows suit, afterwards. And if you look at the Ministry
+<br>Yeah. So, Singapore follows suit, afterwards. And if you look at the Ministry
 of Culture’s press release published in December 1981, back then, this
 was justified on the basis of the close ties and large volume of trade
 between Singapore and Malaysia. So, this was the official reason given.
