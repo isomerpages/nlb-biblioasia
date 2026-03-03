@@ -143,13 +143,13 @@ While Singapore has yet to create something as lasting as the memorials in Malay
 [^20]: For more on how P. Ramlee represented Singapore in his films, see Raphaël Millet, _Singapore: A Cinematic Portrait_ (Singapore: Asian Film Archive, 2026), chapter 5.&nbsp;
 
 
-[^21]: Aljunied Khairudin, “Films as Social History – P. Ramlee’s ‘Seniman Bujang Lapok’ and Malays in Singapore (1950s–60s),” _The Heritage Journal_ 2, no. 1 (2005): 1–21, https://www.academia.edu/3015750/Films\_as\_Social\_History\_P\_Ramlee\_s\_Seniman\_Bujang\_Lapok\_and\_Malays\_in\_Singapore\_1950s\_60s.
+[^21]: Aljunied Khairudin, “Films as Social History – P. Ramlee’s ‘Seniman Bujang Lapok’ and Malays in Singapore (1950s–60s),” _The Heritage Journal_ 2, no. 1 (2005): 1–21, [https://www.academia.edu/3015750/Films\_as\_Social\_History\_P\_Ramlee\_s\_Seniman\_Bujang\_Lapok\_and\_Malays\_in\_Singapore\_1950s\_60s](https://www.academia.edu/3015750/Films_as_Social_History_P_Ramlee_s_Seniman_Bujang_Lapok_and_Malays_in_Singapore_1950s_60s).
 
-[^22]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_, 47
+[^22]: A.H. Ahmad Sarji, [_P. Ramlee, Erti Yang Sakti_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9657032), 47
 
-[^23]: Harding and Ahmad Sarji, _P. Ramlee: The Bright Star_, 31–41.
+[^23]: Harding and Ahmad Sarji, [_P. Ramlee: The Bright Star_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11727520), 31–41.
 
-[^24]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_ , 338–40.&nbsp;
+[^24]: A.H. Ahmad Sarji, [_P. Ramlee, Erti Yang Sakti_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9657032) , 338–40.&nbsp;
 
 [^25]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_, 35.
 
