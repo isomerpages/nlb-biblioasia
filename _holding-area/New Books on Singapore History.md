@@ -17,7 +17,7 @@ This memoir recounts how the Singapore Armed Forces (SAF) was built from scratch
 
 
 
-#### **[Arabs of Singapore: 200 Years On](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300118049)**
+#### **[Arabs of Singapore: 200 Years On](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300151007)**
 Edited by Syed Farid Alatas and Omar Alattas  <br>
 Singapore Arab Network (2025), 282 pages<br>
 Call no. RSING 305.892705957 ARA
