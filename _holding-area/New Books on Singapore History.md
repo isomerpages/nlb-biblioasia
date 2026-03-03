@@ -4,7 +4,7 @@ permalink: /holding-area/vol-22/issue-1/apr-jun-2026/new-books-on-singapore-hist
 variant: markdown
 description: ""
 ---
-#### **[A Matter of Duty: A Memoir of My Time in the Singapore Armed Forces (1967–1982)](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300118049)**
+#### **[A Matter of Duty: A Memoir of My Time in the Singapore Armed Forces (1967–1982)](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300153324)**
 By Tan Chin Tiong  <br>
 ISEAS - Yusof Ishak Institute (2025), 170 pages<br>
 Call no. RSING 959.57092 TAN
@@ -57,7 +57,7 @@ Dr Benjamin Henry Sheares was a distinguished obstetrician and gynaecologist bef
 
 
 
-#### **[Tommy Koh: The Extraordinary Life of An Ordinary Man](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300154782)**
+#### **[Tommy Koh: The Extraordinary Life of An Ordinary Man](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300148927)**
 By Tommy Koh   <br>
 World Scientific Publishing (2026), 263 pages
 <br>
