@@ -8,6 +8,12 @@ description: ""
 
 By Raphaël Millet
 
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_main.png" style="width: 80%;">
+
+
+<div style="background-color: white;">P. Ramlee, c. 1962. <i>Courtesy of Wong Han Min. </i></div>
+
+
 Memorials to the legendary singer, actor, filmmaker and musician P. Ramlee can be found around Malaysia. Jalan Parry in Kuala Lumpur was renamed Jalan P. Ramlee in 1982, and Caunter Hall Road (the house that he was born in was located on this street) in Georgetown, Penang, became Jalan P. Ramlee in 1983. His birthplace has since been restored and turned into a museum called Rumah P. Ramlee, while the P. Ramlee Memorial Library opened in 1986 in his former home in Setapak, Kuala Lumpur.[^1]
 
 Ramlee’s presence in Singapore, on the other hand, is much less visible. There are no roads named after him nor are there any museums dedicated to him. This is despite his years in Singapore, a little more than 15 in total, forming one of the most fertile chapters of his artistic life. Some of his more iconic films were actually made during his time in Singapore.
