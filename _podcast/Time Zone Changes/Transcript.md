@@ -270,144 +270,104 @@ the surface of the Earth, centered on the location of the Greenwich Observatory
 in London. Just outside of London. It has, since 1884, been designated
 as the prime meridian for the entire world. And what this means is that
 it is the zero degree of longitude. So, all other places on Earth take
-longitudinal positions from it. And Singapore.</p>
-<p>&nbsp;</p>
+longitudinal positions from it. And Singapore.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Longitude. Exactly.</p>
-<p>&nbsp;</p>
+<br>Longitude. Exactly.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>I was getting to that. Singapore, for example, [lies] in the 103rd longitude
+<br>I was getting to that. Singapore, for example, [lies] in the 103rd longitude
 east of the Greenwich Meridian. So, in all fairness, if we really look
 at it, there’s no inherent reason why Greenwich Meridian should be the
 primary or the longitudinal centre of the Earth. It’s important to have
 a central reference so that we can all keep track of the Earth's rotation
-about its own axis.</p>
-<p>&nbsp;</p>
+about its own axis.&nbsp;</p>
 <p>But it could easily have been an observatory in Paris. Or an observatory
 in New York or even Singapore, right? You just need a central reference
 line. But to understand why Greenwich became the centre, we have to situate
 this decision in the 1884 Prime Meridian Conference, which was held in
 Washington, DC, where delegates from all over the world came together and
 they decided that, hey, you know, in terms of, some kind of international
-system, we need to decide, on a line somewhere.</p>
-<p>&nbsp;</p>
+system, we need to decide, on a line somewhere.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And they had to draw a line.</p>
-<p>&nbsp;</p>
+<br>And they had to draw a line.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yeah, we have to draw a line. Now, of course you should. We should also
+<br>Yeah, we have to draw a line. Now, of course you should. We should also
 add this caveat that when I say delegates all over the world, this mostly
 meant people who were in power. You know, there was no representative from
 Singapore, for instance, going to that meeting, in fact, the only Asian
 sort of representative was a physicist, a mathematician from Japan, representing
 the Japanese Empire. But I would say, largely, forces in the Northern hemisphere,
 coming together to decide where the centre of the Earth should be. And
-so longitude and Greenwich.</p>
-<p>&nbsp;</p>
+so longitude and Greenwich.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Were there any candidates besides the Greenwich Observatory?</p>
-<p>&nbsp;</p>
+<br>Were there any candidates besides the Greenwich Observatory?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yes. There were, actually. So Paris, as I mentioned, was one of them,
+<br>Yes. There were, actually. So Paris, as I mentioned, was one of them,
 Cadiz in Spain, was also considered, but Greenwich won over everyone else
 because of the relative strength of the British Empire at that time, and
 a lot of people doing maritime navigation [then relied] on maps, that was
 centred on the Greenwich Meridian already.</p>
-<p>&nbsp;</p>
 <p>So, on that basis, I guess the British won out over everyone else. And
 what’s interesting to note is that with the centering of the Greenwich
 Meridian, any point east of the observatory, Greenwich Observatory, became
-known as “time in advance”. Right. And this is my own theory, by the way.</p>
-<p>&nbsp;</p>
+known as “time in advance”. Right. And this is my own theory, by the way.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>I have no sources to back this up, but I’d like to push it out there in
+<br>I have no sources to back this up, but I’d like to push it out there in
 the public. It's interesting to me because it seems like anywhere East
 of London, essentially, became seen as time before. And this to me is quite
 interesting because it almost has a kind of civilisational overtone. I’ll
 explain this in a bit, because any point west of London you think of New
-York, Washington.</p>
-<p>&nbsp;</p>
+York, Washington.&nbsp;</p>
 <p>So basically the new world, so to speak, they’re a bit behind us and then
 anywhere, I guess, in the Far East, if you want to think about it, whether
 we’re talking about, or anywhere East, really, whether we’re talking about
 Athens, which a lot of people see as a civilisation or origin of Europe,
 or the Middle East, you know, if we want to go into Abrahamic faiths, or
 even the Far East, which is, you know, all the Orient as some people would
-call it, like representing this kind of ancient wisdom.</p>
-<p>&nbsp;</p>
+call it, like representing this kind of ancient wisdom.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>How does that work on the ground, though? At a point where, you know,
+<br>How does that work on the ground, though? At a point where, you know,
 London was, ground zero, not ground zero, but zero degrees and Singapore
-was at 103. Where did that put us literally, compared to where we are now?</p>
-<p>&nbsp;</p>
+was at 103. Where did that put us literally, compared to where we are now?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yes. I forgot to address that because I got so excited. You know, pushing
-on my theory.</p>
-<p>&nbsp;</p>
+<br>Yes. I forgot to address that because I got so excited. You know, pushing
+on my theory.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But it is a good theory.</p>
-<p>&nbsp;</p>
+<br>But it is a good theory.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>That someone actually goes on to prove it, but, if you think about the
+<br>That someone actually goes on to prove it, but, if you think about the
 Earth, as you know, this is this fairly rounded object, 360 degrees around,
 divide it across 24. Hourly segments. That means that on average, we can
 say about every 15 degrees longitude represents an hour. Okay. A way or
 before, you know, zero degrees on his ship. So in the case of Singapore
-being 130 degrees east of Greenwich, that roughly equates to about, seven
-hours ahead.</p>
-<p>&nbsp;</p>
+being 103 degrees east of Greenwich, that roughly equates to about, seven
+hours ahead.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Strictly speaking, we should be seven hours ahead of London.</p>
-<p>&nbsp;</p>
+<br>Strictly speaking, we should be seven hours ahead of London.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>I guess the simplest answer to that is yes. If we subscribed to this fairly
-mathematical system of saying that. Oh, you know, if it’s 130 degrees,
+<br>I guess the simplest answer to that is yes. If we subscribed to this fairly
+mathematical system of saying that. Oh, you know, if it’s 103 degrees,
 it’s roughly within the range of the, the 105th, I would say one of fifth,
-one of five degrees, designates roughly seven hours.</p>
-<p>&nbsp;</p>
+one of five degrees, designates roughly seven hours.&nbsp;</p>
 <p>And so 103rd is roughly in that range. But of course, the world is not
 so cleanly divided along straight lines, right? If you look at the political
 map of the world. Right, national boundaries are never straight. They're
 not straight down vertically. So even for certain places that fall outside
 of this supposedly longitudinal position, they occupy a time zone that
 seems to confuse people. So, take for instance, the best example I can
-give is China. Okay. China, as we know, is quite a large country.</p>
-<p>&nbsp;</p>
+give is China. Okay. China, as we know, is quite a large country.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>In theory, a few time zones.</p>
-<p>&nbsp;</p>
+<br>In theory, a few time zones.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Exactly. So, you would think that by that system, it should have a few
+<br>Exactly. So, you would think that by that system, it should have a few
 time zones. Yes. Right. If you are thinking about places as far west as
 Xinjiang, for instance, and places as far east as, say, Beijing. These
-should be, theoretically speaking…</p>
-<p>&nbsp;</p>
+should be, theoretically speaking…&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Several hours.</p>
-<p>&nbsp;</p>
+<br>Several hours.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Several hours apart. But because China insists on a national time zone,
+<br>Several hours apart. But because China insists on a national time zone,
 the entire country operates on one single time zone, based on Beijing's
 longitude and or position. Right. So it’s kind of like, okay, there is
 that fundamental mathematics that you can do, which is that you take a
@@ -415,76 +375,56 @@ longitude position and you calculate it. But this is also kind of complicated
 by political realities. And in the case of Singapore, yeah, we are about
 103.8 degrees. So, I may be wrong, don’t quote me on this, but it’s roughly
 103. Google. Yeah, East of Greenwich. And so that puts us about just under
-seven minutes. Seven hours, sorry, I should say, ahead of Greenwich Meridian.</p>
-<p>&nbsp;</p>
+seven minutes. Seven hours, sorry, I should say, ahead of Greenwich Meridian.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>When did the Straits Settlements and the Federated and Non-Federated Malay
-States all then decide to coalesce around a particular time?</p>
-<p>&nbsp;</p>
+<br>When did the Straits Settlements and the Federated and Non-Federated Malay
+States all then decide to coalesce around a particular time?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>For this question, we kind of have to go back to 1905.</p>
-<p>&nbsp;</p>
+<br>For this question, we kind of have to go back to 1905.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. What happened in 1905?</p>
-<p>&nbsp;</p>
+<br>Okay. What happened in 1905?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>So, 1905 was the period in which the British administrators essentially
+<br>So, 1905 was the period in which the British administrators essentially
 decided to standardise time across the entire Malay Peninsula. And what
 I mean by that is that, prior to 1905, different towns or cities kept their
 own local time. And this was really based on their own longitudinal position
 on Earth. And just to give a better illustration, what I really mean by
-this is that time was kept locally based on observations of the sun.</p>
-<p>&nbsp;</p>
+this is that time was kept locally based on observations of the sun.&nbsp;</p>
 <p>So, noon as we know, 12 p.m., is really defined as when the sun is at
 its highest point, right? As observed from a particular place in time,
 right? So, in the case of cities like Penang and Singapore, there is a
 longitudinal difference between them and so local times [can be] different
-by more than 10 minutes.</p>
-<p>&nbsp;</p>
+by more than 10 minutes.&nbsp;</p>
 <p>Okay. Between Penang and Singapore. This was kind of complicated. When
 you have to commute between these two places, I think for most local residents
 of these towns and cities, they have no problem, right? Unless, you know,
 they take the odd journey out. But for the British administrators, this
-was a time where the railway system was well in place.</p>
-<p>&nbsp;</p>
+was a time where the railway system was well in place.&nbsp;</p>
 <p>If you imagine in 1905, or prior to that, you had to travel between Penang
 and Singapore. You would essentially have to look at the railway schedule,
 timetable and be aware of the time of arrival and time of departure between
 these two places. You’d have to factor in the local time differences, so
 that could get quite confusing, I would say, and even harder for those
-who were trying to manage these time schedules across these railways.</p>
-<p>&nbsp;</p>
+who were trying to manage these time schedules across these railways.&nbsp;</p>
 <p>And, so, in 1905, what the British did was to standardise everyone in
 the Malay peninsula, centered on the 150 degree longitude. So that really
 puts us squarely, within the seven-hour mark. And so, the whole of the
 Malay Peninsula was, in one word, synchronised, to the same time. And this
 was really a sign of modernity, right? Everyone living to the same, imperial
-heartbeat. Right?</p>
-<p>&nbsp;</p>
+heartbeat. Right?&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>GMT +07:00.</p>
-<p>&nbsp;</p>
+<br>GMT +07:00.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, now I’m going to ask you a very hard question. I know it’s hard
+<br>Okay, now I’m going to ask you a very hard question. I know it’s hard
 because I spent 10 minutes on Google trying to understand it. What if we
 use the term Greenwich Mean Time, but we also use the term almost interchangeably,
 universal UTC – universal coordinated time. And these, we use them synonymously,
 but they’re not actually the same thing. So please explain this to me,
-since I have you here in front of me, because Google has failed me.</p>
-<p>&nbsp;</p>
+since I have you here in front of me, because Google has failed me.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Okay. This is probably the hardest question in the whole podcast, I would
+<br>Okay. This is probably the hardest question in the whole podcast, I would
 think to answer, I’m probably not the best person to do it. And, you know,
 I left my A-level physics 20 years behind already. But I’m sure listeners
 of this podcast would, you know, or people who are more equipped with this
@@ -498,43 +438,30 @@ of the sun’s movement across the sky from a specific location on Earth.
 Greenwich, right? So, the location is indicated in the name Greenwich Mean
 Time. But ultimately, as a timekeeping system it is dependent on the rotation
 of the Earth. That’s how you observe the sun moving. So, the Earth turning
-about its own axis, right, is how we really experience night and day. Right.</p>
-<p>&nbsp;</p>
+about its own axis, right, is how we really experience night and day. Right.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right behind you.</p>
-<p>&nbsp;</p>
+<br>Right behind you.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yes. That’s the easy part. Okay. This is also how we are able to keep
+<br>Yes. That’s the easy part. Okay. This is also how we are able to keep
 track of solar noon repeating across the days. But here’s the kicker. The
-Earth is not rotating at a uniform or regular speed.</p>
-<p>&nbsp;</p>
+Earth is not rotating at a uniform or regular speed.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh.</p>
-<p>&nbsp;</p>
+<br>Oh.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>So if you think about it, the length of day really varies, right? Because
+<br>So if you think about it, the length of day really varies, right? Because
 of this irregularity, there’s been phases where the Earth is found to be
 speeding up. But there are also periods in which the Earth is slowing down.
 What this means is that solar time in general is not a very precise way
-of keeping time.</p>
-<p>&nbsp;</p>
+of keeping time.&nbsp;</p>
 <p>Because while we can definitely observe the occurrence of noon repeating
 and using that as a reference with time, it is also kind of irregular.
 But I should add here that we’re not talking about large variations. We’re
 not saying that these irregularities happen on the scale of minutes or
-hours. It’s not, it’s really more on the scale of milliseconds.</p>
-<p>&nbsp;</p>
+hours. It’s not, it’s really more on the scale of milliseconds.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, okay.</p>
-<p>&nbsp;</p>
+<br>Oh, okay.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Right, over long periods of time. And I imagine that for most of us, going
+<br>Right, over long periods of time. And I imagine that for most of us, going
 about our everyday lives. These irregularities and differences cannot really
 be felt, like it really feels like one millisecond. And for a large part
 of the 19th and 20th centuries, GMT or solar time in general was good enough
