@@ -136,9 +136,9 @@ While Singapore has yet to create something as lasting as the memorials in Malay
 
 [^17]: “Ibu Mertua Ku (My Mother In-Law, 1962),” Asian Film Archive, date accessed 11 February 2026, [https://asianfilmarchive.org/event-calendar/ibu-mertua-ku-my-mother-in-law-1962/](https://asianfilmarchive.org/event-calendar/ibu-mertua-ku-my-mother-in-law-1962/).
 
-[^18]: “Labu dan Labi ,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0216866/; “Madu Tiga,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0277810/; “The Three Abduls,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0278094/.
+[^18]: “Labu dan Labi ,” IMDb, accessed 11 February 2026, [https://www.imdb.com/title/tt0216866/](https://www.imdb.com/title/tt0216866/); “Madu Tiga,” IMDb, accessed 11 February 2026, [https://www.imdb.com/title/tt0277810/](https://www.imdb.com/title/tt0277810/); “The Three Abduls,” IMDb, accessed 11 February 2026, [https://www.imdb.com/title/tt0278094/](https://www.imdb.com/title/tt0278094/).
 
-[^19]: “Seniman Bujang Lapok (The Nitwit Movie Stars, 1961),” Asian Film Archive, accessed 11 February 2026, https://asianfilmarchive.org/event-calendar/seniman-bujang-lapok-the-nitwit-movie-stars-1961/.&nbsp;
+[^19]: “Seniman Bujang Lapok (The Nitwit Movie Stars, 1961),” Asian Film Archive, accessed 11 February 2026, [https://asianfilmarchive.org/event-calendar/seniman-bujang-lapok-the-nitwit-movie-stars-1961/](https://asianfilmarchive.org/event-calendar/seniman-bujang-lapok-the-nitwit-movie-stars-1961/).&nbsp;
 
 [^20]: For more on how P. Ramlee represented Singapore in his films, see Raphaël Millet, _Singapore: A Cinematic Portrait_ (Singapore: Asian Film Archive, 2026), chapter 5.&nbsp;
 
