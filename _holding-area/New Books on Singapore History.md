@@ -36,7 +36,7 @@ National Archives of Singapore and Straits Times Press (2025), 487 pages<br>
 Call no. RSING 959.5705 ALB
 
 
-<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Ink-.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/New%20Books/newbook_matter.png" style="width: 80%;">
 
 
 In 1964, Minister for Finance Goh Keng Swee created the Albatross file documenting Singapore’s deteriorating ties with Kuala Lumpur. In the file are Cabinet papers and Goh’s notes from discussions with Malaysian officials before Singapore’s separation. Most Albatross materials are published here for the first time, along with oral history accounts from Singapore’s key leaders.
