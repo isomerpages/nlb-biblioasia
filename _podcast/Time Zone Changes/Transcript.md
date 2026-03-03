@@ -611,69 +611,51 @@ explain that to us?&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay. I’m joking. And I will not put you through this. That was a joke.
 But it’s now time to move to lighter topics. How did this research change
-your notion of time?</p>
-<p>&nbsp;</p>
+your notion of time?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Oh, for me? Oh, it’s really mind-blowing in the sense that, you know,
-we wear watches.</p>
-<p>&nbsp;</p>
+<br>Oh, for me? Oh, it’s really mind-blowing in the sense that, you know,
+we wear watches.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>No, no, some younger people don’t wear watches. They just use their phones.</p>
-<p>&nbsp;</p>
+<br>No, no, some younger people don’t wear watches. They just use their phones.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yeah, I guess, but we have some kind of timekeeping device on us. And,
+<br>Yeah, I guess, but we have some kind of timekeeping device on us. And,
 in fact, I would even go to say that, the oldest timekeeping device to
 me, personally, is your own heart. And the funny thing about time is that
 you never really know when your time is up. But there is nonetheless something
-inside of us keeping time.</p>
-<p>&nbsp;</p>
+inside of us keeping time.&nbsp;</p>
 <p>When I think about all this research and thoughts about time from a point
 of view here in Singapore, it’s really quite fascinating to think about
 how such a seemingly mundane topic really opens up all of these histories
-and archival records of how time has changed.</p>
-<p>&nbsp;</p>
+and archival records of how time has changed.&nbsp;</p>
 <p>And you really start to get a sense of how arbitrary time is also, in
 the sense I don’t have the fortune of living in a different time zone.
 I was born after 1982. So I’ve only lived in one time zone in Singapore,
 but I imagine that I don’t know, for some of us, who have lived through
 these time zone changes, it is interesting to find interviews or records
-that really sort of zooms in on how this changes, actually affects –</p>
-<p>&nbsp;</p>
+that really sort of zooms in on how this changes, actually affects –&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Daily life.</p>
-<p>&nbsp;</p>
+<br>Daily life.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Daily lives, daily rhythms, but also their perception of time like, oh
-no, we have to have it out again. Like, why? Who’s idea was this?</p>
-<p>&nbsp;</p>
+<br>Daily lives, daily rhythms, but also their perception of time like, oh
+no, we have to have it out again. Like, why? Who’s idea was this?&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Whose dumb idea was it? I’m too young, obviously, to remember this traumatic
+<br>Whose dumb idea was it? I’m too young, obviously, to remember this traumatic
 period in Singapore’s history. You are a librarian at National Library
-Singapore and you’re an Arts in General Reference librarian.</p>
-<p>&nbsp;</p>
+Singapore and you’re an Arts in General Reference librarian.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>I mean, I take care of the Arts Reference collection at the Lee Kong Chian
+<br>I mean, I take care of the Arts Reference collection at the Lee Kong Chian
 Reference Library. Specifically, I’m in charge of titles pertaining to
 graphic arts, photography and cinema. So, it’s really my job as a librarian
 to keep up with developments in these areas. And to make sure that what
 we have at the Lee Kong Chian Reference Library or at the National Library
-at large is sufficiently representative.</p>
-<p>&nbsp;</p>
+at large is sufficiently representative.&nbsp;</p>
 <p>And of course, my job is made a lot easier because of the wonderful work
 that my predecessors have done. I should also give a shout out that if
 you’re coming to the National Library and specifically, the Lee Kong China
 Reference Library up on Level 8, if you come to the Arts Reference section,
 we have a wonderful, wonderful collection of photography, textiles... And
 I’m not just talking about photobooks, of, like, photo masters, but actual
-photographic theory.</p>
-<p>&nbsp;</p>
+photographic theory.&nbsp;</p>
 <p>Oh, yeah. Because one of the things that is interesting to know is that
 there are a lot of images and photographs being taken today, and many of
 them are taken by non-humans, by surveillance cameras. Drones. And what
@@ -685,47 +667,31 @@ and operationalised or utilised or used to enact certain effects on our
 bodies. And when we think about surveillance cameras, for instance, surveillance
 systems, camera traps. Camera traps. Yes, exactly. So, what do you think
 about photography beyond human rights, which is where we are today, essentially
-where the majority of images are not produced by humans anymore?</p>
-<p>&nbsp;</p>
+where the majority of images are not produced by humans anymore?&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I disagree because if you look at Instagram, you know, the majority of
-photos are of humans and largely selfies.</p>
-<p>&nbsp;</p>
+<br>I disagree because if you look at Instagram, you know, the majority of
+photos are of humans and largely selfies.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>So, it’s interesting that you should bring up Instagram on social media,
+<br>So, it’s interesting that you should bring up Instagram on social media,
 when you’re just browsing through social media, you have that impression,
 of course, that there’s copious amounts of images being produced by – I
-guess we have to call them opinion leaders.</p>
-<p>&nbsp;</p>
+guess we have to call them opinion leaders.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, okay. Influencers. I think that’s humans.</p>
-<p>&nbsp;</p>
+<br>Oh, okay. Influencers. I think that’s humans.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Humans? Yeah. Humans mostly. But this is just the tip of the iceberg.
+<br>Humans? Yeah. Humans mostly. But this is just the tip of the iceberg.
 And this is where I would like to point that there are things that you
 can search easily on the web or worldwide web, but the internet is much
-larger than that. And the Internet of Things is even larger than that.</p>
-<p>&nbsp;</p>
+larger than that. And the Internet of Things is even larger than that.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes. Of course.</p>
-<p>&nbsp;</p>
+<br>Yes. Of course.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>So, there are there are surveillance cameras talking to each other, without
-any sort of human…</p>
-<p>&nbsp;</p>
+<br>So, there are there are surveillance cameras talking to each other, without
+any sort of human…&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Intervention.</p>
-<p>&nbsp;</p>
+<br>Intervention.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Intervention. That’s right. So, there’s this set of images that we never
+<br>Intervention. That’s right. So, there’s this set of images that we never
 get to see. But they are effectively part of our everyday fabric, right?
 Because they determine, let’s say, who, in certain places gets the social
 credit that they need to purchase certain things because, photographic
@@ -733,15 +699,11 @@ evidence. And things like that – all this is to say, please come [to the
 library] because there’s a lot of titles in our collection that really
 encourages this kind of thinking about photography. And, if you’re not
 interested in photography, we also have a wonderful collection of donations
-by local artists.</p>
-<p>&nbsp;</p>
+by local artists.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Photographers and artists.</p>
-<p>&nbsp;</p>
+<br>Photographers and artists.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yeah. And visual artists. And these are mostly [donated] documents that
+<br>Yeah. And visual artists. And these are mostly [donated] documents that
 relate to their practice. So, for example, sketches, invitation cards,
 posters, exhibition catalogues and exhibition photographs. And these materials
 are often understudied or underrepresented when researching on Singapore’s
@@ -749,71 +711,43 @@ art history. So as an arts librarian, we’re very glad to be a custodian
 of these donated materials, which you can [peruse at] the National Library.
 And lastly, as you mentioned, few people know this, but here at the National
 Library, we have an art collection. We have a modest collection, by most
-museum standards, just over 500.</p>
-<p>&nbsp;</p>
+museum standards, just over 500.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But 500.</p>
-<p>&nbsp;</p>
+<br>But 500.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Over 500.</p>
-<p>&nbsp;</p>
+<br>Over 500.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow, that I did not know.</p>
-<p>&nbsp;</p>
+<br>Wow, that I did not know.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>And together with my team, we help take care of this collection and sometimes,
+<br>And together with my team, we help take care of this collection and sometimes,
 you know, part of this collection gets loaned out to museums. Sometimes
 we display them within our own building. So, that’s part of it. So, I deal
-with the reference titles. I also work with local artists in terms of donations.</p>
-<p>&nbsp;</p>
+with the reference titles. I also work with local artists in terms of donations.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>All right. Okay.</p>
-<p>&nbsp;</p>
+<br>All right. Okay.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>And, together with my team, of course, we take care of them.</p>
-<p>&nbsp;</p>
+<br>And, together with my team, of course, we take care of them.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Related to the fact that you’re a librarian and unrelated to the
+<br>Okay. Related to the fact that you’re a librarian and unrelated to the
 art side, please explain Stephen Hawking’s <em>A Brief Theory of Time</em> to
-me. Please summarise it so I don’t have to read it.</p>
-<p>&nbsp;</p>
+me. Please summarise it so I don’t have to read it.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>I should probably just play back like ChatGPT.</p>
-<p>&nbsp;</p>
+<br>I should probably just play back like ChatGPT.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I think so, yeah. Okay. Well, complete a sentence. Okay. “Time is...?”</p>
-<p>&nbsp;</p>
+<br>I think so, yeah. Okay. Well, complete a sentence. Okay. “Time is...?”&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>11:34, Singapore Standard time.</p>
-<p>&nbsp;</p>
+<br>11:34, Singapore Standard time.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I think that this is the time to wrap up. Thank you very much for coming
+<br>I think that this is the time to wrap up. Thank you very much for coming
 on the show. I had a wonderful time talking to you. You have to read Kenneth’s
 essay on “Daylight Robbery: Singapore’s Shifting Time Zones”. You can find
-it on <a href="http://BiblioAsia.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia.nlb.gov.sg</a>.</p>
-<p>&nbsp;</p>
+it on <a href="http://BiblioAsia.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia.nlb.gov.sg</a>.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Kenneth, thank you once again. It was great having you.</p>
-<p>&nbsp;</p>
+<br>Kenneth, thank you once again. It was great having you.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Thank you. Jimmy. It’s a wonderful time, as you said. I always have time
-to talk about time.</p>
-<p>&nbsp;</p>
-<p>[Music playing]</p>
-<p>&nbsp;</p>
-<p>Jimmy</p>
-<p>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
+<br>Thank you. Jimmy. It’s a wonderful time, as you said. I always have time
+to talk about time.&nbsp;</p>
+<p>[Music playing]&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
 Thanks for joining us on <em>BiblioAsia</em>+.</p>
