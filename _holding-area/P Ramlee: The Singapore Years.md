@@ -31,6 +31,11 @@ After _Chinta_, other films – _Noor Asmara_ (Light of Love), _Nasib_ (Fate) an
 
 In Krishnan’s _Penghidupan_ (Life, 1951), Ramlee played a morally ambiguous drifter who preyed on women. It was his only collaboration with the star Maria Menado, and it drew criticism from the Malay Welfare Association for its perceived affront to Malay values. Yet it showed Ramlee’s readiness to inhabit darker, more complex roles. In _Patah Hati_ (Broken Heart,1952) and _Miskin_ (The Poor, 1952), both directed by K.M. Basker, Ramlee refined his dramatic sensibility by borrowing melodramatic elements from _bangsawan_ (Malay opera) theatre and Indian cinema.[^7]
 
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_painting.png" style="width: 80%;">
+
+<div style="background-color: white;">Hilmi Johandi, “Bangsawan”, 2014, oil on linen, 120 x 150 cm. The painting was inspired by archival images of old Singapore, including scenes from P. Ramlee films, historical street scenes and amusement parks like Great World. <i> Courtesy of Hilmi Johandi and Ota Fine Arts. </i></div>
+
+
 B.N. Rao then cast him in some of his most compelling early performances, notably in _Hujan Panas_ (Hot Rain, 1953) where he portrayed Amir, a musician lured by fame and undone by desire. This was followed by Malay Film Productions lavish Eastmancolor project, _Hang Tuah_ (1956), where he took on the titular role as the 15th-century Melakan warrior.[^8]
 
 <img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_still.png" style="width: 80%;">
