@@ -101,22 +101,69 @@ While Singapore has yet to create something as lasting as the memorials in Malay
 
 #### **Notes**
 
-[^1]: 
+[^1]: Alan Teh Leam Seng, “How KLʼs Streets Got Their Names,” _New Straits Times_, 21 October 2019, https://www.nst.com.my/news/nation/2019/10/531943/how-kls-streets-got-their-names; “Rumah Kelahiran P. Ramlee,” National Archives of Malaysia, last updated 3 February 2026, https://www.arkib.gov.my/ms/perkhidmatan/arkib-memorial/info-galeri/rumah-kelahiran-p-ramlee; “The P. Ramlee Memorial Library,” National Archives of Malaysia, last updated 3 February 2026, https://www.arkib.gov.my/en/perkhidmatan/arkib-memorial/info-galeri/the-p-ramlee-memorial-library.
 
-[^2]: 
+[^2]: For more on P. Ramlee’s early life, see Abdullah Hussain, _P. Ramlee: Kisah Hidup Seniman Agung_ \[P. Ramlee, the life story of the great artist\] (Kuala Lumpur: Dewan Bahasa Pustaka, 1984), 216. (From National Library Singapore, call no. RSING 791.40924 RAM.A); Raphaël Millet, _Singapore Cinema_ (Singapore: Editions Didier Millet, 2006), 48–51. (From National Library Singapore, call no. RSING q791.43095957 MIL)
 
-[^3]: 
+[^3]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_ \[P. Ramlee, the magical meaning\] (Subang Jaya, Selangor Darul Ehsan, Malaysia: Pelanduk Publications, 1999), 314. (From National Library Singapore, call no. RSEA 791.43092 AHM)&nbsp;
 
-[^4]: 
+[^4]: James Harding and Ahmad Sarji, _P. Ramlee: The Bright Star_ (Kuala Lumpur: Pelanduk Publications, 2002), 15. (From National Library Singapore, call no. RSEA 791.43028092 HAR)&nbsp;
 
-[^5]: 
+[^5]: Harding and Ahmad Sarji, _P. Ramlee: The Bright Star_, 20; Millet, _Singapore Cinema_, 48.
 
-[^6]: 
+[^6]: “Bakti Launches the Film Careers of L. Krishnan and P. Ramlee,” National Library Online. Article published 2014.&nbsp;
 
-[^7]: 
+[^7]: “Patah Hati (Broken Heart, 1952),” Asian Film Archive, accessed 11 February 2026, https://asianfilmarchive.org/event-calendar/patah-hati-broken-heart-1952/; “Miskin,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt15140978/.
 
-[^8]: 
+[^8]: “Hujan Panas,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0261741/; Gerree Read, “Kris Duels Put Hollywood to Shame,” _Sunday Standard_, 29 January 1956, 9. (From NewspaperSG)
 
-[^9]: 
+[^9]: “Anakku Sazali,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0235978/; “The Old Ramlee Magic in Search of a Place to Call Home,” _Straits Times_, 2 March 1998, 9; “Search for P. Ramlee’s Successor Continues,” _Straits Times_, 28 June 1988, 7. (From NewspaperSG)
 
-[^10]:
+[^10]: Harding and Ahmad Sarji, _P. Ramlee: The Bright Star_, 243–59.
+
+
+[^11]: Adil Johan, “Cosmopolitan Sounds and Intimate Narratives in P. Ramlee’s Film Music,” _Journal of Intercultural Studies_ 40, no. 4 (July 2019): 474–90, https://doi.org/10.1080/07256868.2019.1628723.
+
+[^12]: Yusnor Ef, _P. Ramlee Yang Saya Kenal_ \[The P. Ramlee I knew\] (Subang Jaya: Pelanduk Publications, 2000), 149. (From National Library Singapore, call no. RSING 791.40924 YUS).
+
+[^13]: Rohayati Paseng Barnard and Timothy P. Barnard, “The Ambivalence of P. Ramlee: Penarek Beca _and_ Bujang Lapok in Perspective,” _Asian Cinema_ 13, no. 2 (September 2002): 9–23, https://intellectdiscover.com/content/journals/10.1386/ac.13.2.9\_1.
+
+[^14]: Jan Uhde, “P. Ramlee and Neorealism,” _Kinema: A Journal for Film and Audiovisual Media_, 15 April 2015, https://doi.org/10.15353/kinema.vi.1323.&nbsp;
+
+[^15]: “Semerah Padi,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0278027/.
+
+[^16]: “Antara Dua Darjat,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0277581/.
+
+[^17]: “Ibu Mertua Ku (My Mother In-Law, 1962),” Asian Film Archive, date accessed 11 February 2026, https://asianfilmarchive.org/event-calendar/ibu-mertua-ku-my-mother-in-law-1962/.
+
+[^18]: “Labu dan Labi ,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0216866/; “Madu Tiga,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0277810/; “The Three Abduls,” IMDb, accessed 11 February 2026, https://www.imdb.com/title/tt0278094/.
+
+[^19]: “Seniman Bujang Lapok (The Nitwit Movie Stars, 1961),” Asian Film Archive, accessed 11 February 2026, https://asianfilmarchive.org/event-calendar/seniman-bujang-lapok-the-nitwit-movie-stars-1961/.&nbsp;
+
+[^20]: For more on how P. Ramlee represented Singapore in his films, see Raphaël Millet, _Singapore: A Cinematic Portrait_ (Singapore: Asian Film Archive, 2026), chapter 5.&nbsp;
+
+
+[^21]: Aljunied Khairudin, “Films as Social History – P. Ramlee’s ‘Seniman Bujang Lapok’ and Malays in Singapore (1950s–60s),” _The Heritage Journal_ 2, no. 1 (2005): 1–21, https://www.academia.edu/3015750/Films\_as\_Social\_History\_P\_Ramlee\_s\_Seniman\_Bujang\_Lapok\_and\_Malays\_in\_Singapore\_1950s\_60s.
+
+[^22]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_, 47
+
+[^23]: Harding and Ahmad Sarji, _P. Ramlee: The Bright Star_, 31–41.
+
+[^24]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_ , 338–40.&nbsp;
+
+[^25]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_, 35.
+
+[^26]: “Shaws’ Two for Film Festival,” _Straits Times_, 30 April 1973, 23. (From NewspaperSG). \[_One Thousand and One Nights_, or _The Arabian Nights_, is a collection of Middle Eastern folktales in the Arabic language.\]&nbsp;
+
+[^27]: A.H. Ahmad Sarji, _P. Ramlee, Erti Yang Sakti_, 181.
+
+[^28]: “The Legend of P. Ramlee,” Thought Moments, 13 August 2019, https://thoughtmoments.wordpress.com/2019/08/13/the-legend-of-p-ramlee/.
+
+[^29]: “Off the Catalogue: A P. Ramlee Focus (May 2025),” Asian Film Archive, accessed 11 February 2026, https://asianfilmarchive.org/event-calendar/off-the-catalogue-p-ramlee-may-2025/.
+
+[^30]: Eddino Abdul Hadi, “Film and Music Icon P. Ramlee Remembered Through New Concerts and Mural in Singapore,” _Straits Times_, 9 April 2025, https://www.straitstimes.com/life/entertainment/film-and-music-icon-p-ramlee-remembered-through-new-concerts-and-mural-in-singapore.
+
+
+[^31]: Joan Kee, “False Front: The Art of Ming Wong,” ArtForum, May 2012, https://www.artforum.com/features/false-front-the-art-of-ming-wong-199976/; Tan Siuli, “A Conversation with Ming Wong,” Art SG, accessed 13 February 2026, https://artsg.com/news/a-conversation-with-ming-wong/; Shawn Hoo, “National Gallery’s Revamped Singapore Gallery Spotlights More Women and Minority Artists,” _Straits Times_, 16 July 2025, https://www.straitstimes.com/life/arts/national-gallerys-revamped-singapore-gallery-spotlights-more-women-and-minority-artists.
+
+[^32]: “Hilmi Johandi – Stagecraft: Landscapes and Paradise,” Ota Fine Arts, accessed 11 February&nbsp; 2026, https://www.otafinearts.com/exhibitions/67-hilmi-johandi-stagecraft-landscapes-and-paradise-hilmi-johandi/.
