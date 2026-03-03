@@ -33,6 +33,10 @@ In Krishnan’s _Penghidupan_ (Life, 1951), Ramlee played a morally ambiguous dr
 
 B.N. Rao then cast him in some of his most compelling early performances, notably in _Hujan Panas_ (Hot Rain, 1953) where he portrayed Amir, a musician lured by fame and undone by desire. This was followed by Malay Film Productions lavish Eastmancolor project, _Hang Tuah_ (1956), where he took on the titular role as the 15th-century Melakan warrior.[^8]
 
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_still.png" style="width: 80%;">
+
+<div style="background-color: white;">Film still from Malay Film Productions’ Hang Tuah (1956), starring P. Ramlee as the 15th-century Melakan warrior and Saadiah as his love interest Melor. It is the first Malay film to be entirely shot in colour (Eastmancolor). Ramlee composed and performed songs for the film, including the famous traditional folk song “Joget Pahang”. <i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
+
 Ramlee’s versatility was on display in the neo-realist (a style of filmmaking focusing on ordinary people and everyday life) drama _Anakku Sazali_ (My Son Sazali, 1956) where he played both father and son. He also demonstrated his flair for comedy with the _Bujang Lapok_ series of five films, beginning with _Bujang Lapok_ (Old Bachelor, 1957) where, alongside Aziz Sattar and S. Shamsuddin, he was one of three bachelors whose missteps through modernity reveal humour and vulnerability.[^9]
 
 <img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_poster.png" style="width: 60%;">
