@@ -10,7 +10,6 @@ By Raphaël Millet
 
 <img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_main.png" style="width: 80%;">
 
-
 <div style="background-color: white;">P. Ramlee, c. 1962. <i>Courtesy of Wong Han Min. </i></div>
 
 
@@ -49,6 +48,10 @@ Ramlee’s development as a filmmaker grew from years of close observation. He a
 His debut effort, _Penarek Becha_ (Trishaw Puller, 1955), set out his social and aesthetic compass.[^13] The use of real streets, incidental sound and unposed movement created an immediacy that critics later linked to neo-realist cinema.[^14] His shift from actor to director demonstrated that local Malay talent could helm major productions.&nbsp;
 
 Across his early features, Ramlee sought breadth of form and theme. _Semerah Padi_ (1956) drew on customs and moral choice.[^15] _Antara Dua Darjat_ (Between Two Classes, 1960) explored class conflict with clarity and bite.[^16] _Ibu Mertuaku_ (My Mother-in-Law, 1962) offered one of his finest performances as the blind musician Kassim Selamat moves through a vividly realised Singapore.[^17]
+
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_shooting.png" style="width: 80%;">
+
+<div style="background-color: white;">P. Ramlee shooting a movie at the Shaw studio, c. 1960. <i>Courtesy of Shaw Organisation Pte Ltd. </i></div>
 
 His comedies, including _Labu dan Labi_ (Labu and Labi, 1962), _Madu Tiga_ (Three Wives, 1964) and _Tiga Abdul_ (The Three Abduls, 1964), folded satire into everyday concerns of money, status and desire while retaining the allure of popular entertainment.[^18] &nbsp;
 
