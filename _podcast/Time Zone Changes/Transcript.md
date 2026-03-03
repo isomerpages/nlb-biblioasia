@@ -236,41 +236,29 @@ complaining that, oh my God, we have to change times yet again? If we go
 back to you, we go back an hour and a half, right? So, did anybody complain?&nbsp;</p>
 <p><strong>Kenneth</strong>
 <br>They didn’t manage to find any particular sort of record that shows, like
-anyone bemoaning the fact that, oh, it's time to adjust my watch again.</p>
-<p>&nbsp;</p>
+anyone bemoaning the fact that, oh, it's time to adjust my watch again.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yet again.</p>
-<p>&nbsp;</p>
+<br>Yet again.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yet again. But I think it’s also interesting to note that one of the first
+<br>Yet again. But I think it’s also interesting to note that one of the first
 things the British did when they got Singapore back was to announce that
 Japanese time, Tokyo Time, was no longer in implementation, and it was
-now back to time, as it were.</p>
-<p>&nbsp;</p>
+now back to time, as it were.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Re-colonising the time then.</p>
-<p>&nbsp;</p>
+<br>Re-colonising the time then.&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>Yeah, exactly. So in a way, you could even argue that Singapore went through
-two different temporal occupations, right? In that brief period of time.</p>
-<p>&nbsp;</p>
+<br>Yeah, exactly. So in a way, you could even argue that Singapore went through
+two different temporal occupations, right? In that brief period of time.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. So, this is a bit complex, to me, because I am not very bright,
+<br>Okay. So, this is a bit complex, to me, because I am not very bright,
 but, you know, tell us about, you know, we talk about the Greenwich Mean
 Time. How did that come about? And, you know, how did that standard become
 a worldwide standard and how does that actually compare with, you know,
 we talk about Singapore having changed time zones many times, but what
 really is the time now in Singapore? And is that related to Greenwich Mean
-Time?</p>
-<p>&nbsp;</p>
+Time?&nbsp;</p>
 <p><strong>Kenneth</strong>
-</p>
-<p>That’s a really complicated question even for me to answer, even as someone
+<br>That’s a really complicated question even for me to answer, even as someone
 who has done some kind of reading up on this topic and I'll try my best
 to break it down. But first, I think we can talk about Greenwich Mean Time,
 and where the name comes from, essentially, because it does reference the
