@@ -428,8 +428,7 @@ since I have you here in front of me, because Google has failed me.&nbsp;</p>
 think to answer, I’m probably not the best person to do it. And, you know,
 I left my A-level physics 20 years behind already. But I’m sure listeners
 of this podcast would, you know, or people who are more equipped with this
-knowledge will be able to correct me after this, but I’ll do my best.</p>
-<p>&nbsp;</p>
+knowledge will be able to correct me after this, but I’ll do my best.&nbsp;</p>
 <p>So, if we begin with Greenwich Mean Time, GMT, it’s really the mean solar
 time. Observe at the Greenwich Observatory, located along the Greenwich
 Meridian, which, as I mentioned, has been designated as the Prime Meridian.
