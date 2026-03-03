@@ -54,3 +54,31 @@ Call no. RSING 959.5705092 VIJ-\[HIS\]
 
 
 Dr Benjamin Henry Sheares was a distinguished obstetrician and gynaecologist before becoming Singapore’s second president (1971–81). This biography examines his life and achievements through interviews, anecdotes and historical records. It traces his career from his work as a gynaecologist during Singapore's postwar baby boom to his tenure at the Istana.
+
+
+
+#### **[Tommy Koh: The Extraordinary Life of An Ordinary Man](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300154782)**
+By Tommy Koh   <br>
+World Scientific Publishing (2026), 263 pages
+<br>
+Call no. RSING 327.59570092 KOH
+
+
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Ink-.png" style="width: 80%;">
+
+
+Professor Tommy Koh recounts his undergraduate days at the University of Malaya (in Singapore) to his diplomatic career and currently as Ambassador-at-Large at the Ministry of Foreign Affairs. He was previously the Singapore Permanent Representative to the United Nations (1968–71, 1974–84), Singapore Ambassador to the United States (1984–90), and Agent of Singapore in two international cases: the 2003 land reclamation case heard at the International Tribunal on Laws of the Sea and Pedra Branca at the International Court of Justice.
+
+
+
+#### **[Wee Kim Wee: President, Diplomat, Journalist and a True Singaporean ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300146627)**
+By Cheong Suk-Wai   <br>
+ISEAS-Yusof Ishak Institute (2025), 213 pages
+<br>
+Call no. RSING 959.57 CHE-\[HIS\]
+
+
+<img src="/images/Vol%2021%20Issue%203/New%20Books/NewBooks_Ink-.png" style="width: 80%;">
+
+
+Dr Wee Kim Wee was a journalist and diplomat before becoming Singapore’s fourth president (1985–93). Through interviews with over 30 individuals who knew him across different periods, this biography traces his journey from his time at the _Straits Times_ newspaper to becoming High Commissioner of Malaysia and then concurrently Ambassador to Japan and South Korea, before assuming Singapore’s highest office.
