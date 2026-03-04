@@ -262,8 +262,7 @@ Time?&nbsp;</p>
 who has done some kind of reading up on this topic and I'll try my best
 to break it down. But first, I think we can talk about Greenwich Mean Time,
 and where the name comes from, essentially, because it does reference the
-Greenwich Meridian, which is quite literally an imaginary line.</p>
-<p>&nbsp;</p>
+Greenwich Meridian, which is quite literally an imaginary line.&nbsp;</p>
 <p>You know, there’s no such line on earth on the surface of the Earth, but
 [it is] generally [a] line or longitude in that case, which runs along
 the surface of the Earth, centered on the location of the Greenwich Observatory
