@@ -2,6 +2,7 @@
 title: "Into the Melting Pot: Food As Culture"
 permalink: /vol-9/issue-3/oct-dec-2013/culture-into-the-melting-pot/
 description: ""
+variant: markdown
 ---
 #### Through the lens of the unique Lunar New Year creation, *yu sheng*, find out how the simplest dishes can be canvases upon which cultural and national identities are inscribed.
 
@@ -34,7 +35,7 @@ The Department of Anthropology at Oregon State University defines culture as "le
 
 To this end, restaurateur, chef and F&amp;B consultant, David Yip, hopes to reinvigorate cultural identity across the Chinese dialect groups in Singapore with his epicurean club, Jumping Tables, a sporadic and informal culinary gathering that features respected chefs whipping up time-honoured recipes the traditional way. Yip invites a number of chefs – from humble eateries to established restaurants – to cook at these gatherings.
 
-One of the chefs Yip was most eager to feature at Jumping Tables was Chef Sin Leong, one of the founding chefs of the Red Star restaurant on Chin Swee Road and owner of the now-defunct Sin Leong Restaurant, a local institution of Cantonese cuisine that opened in 1971. When Sin, 86, agreed to participate in Jumping Tables, Yip and his guests could barely contain their excitement.
+One of the chefs Yip was most eager to feature at Jumping Tables was Chef Sin Leong, one of the founding chefs of Red Star Restaurant (established in 1970 by Sin, Hooi Kok Wai, Tham Yui Kai and Lau Yoke Pui) on Chin Swee Road and owner of the now-defunct Sin Leong Restaurant, a local institution of Cantonese cuisine that opened in 1971. When Sin, 86, agreed to participate in Jumping Tables, Yip and his guests could barely contain their excitement.
 
 Before the meal commenced, Chef Sin insisted that the guests visit the altar in his kitchen, where his mentor, the late Master Luo Cheng, smiles from an ornate frame, amid offerings of orchid blooms and clouds of incense. Hailing from Shanghai, China, Master Luo had groomed Singapore's four most prominent Chinese chefs in the 1970s. His protégés – Sin Leong, Hooi Kok Wai, Tham Yui Kai and Lau Yoke Pui – were later crowned as Singapore's "Four Heavenly Culinary Kings".
 
@@ -46,7 +47,7 @@ Under the tutelage of Master Luo, the four young junior chefs toiled in the kitc
 
 Chef Hooi, the founder of the famed Dragon Phoenix restaurant – located today in Novotel Clarke Quay on River Valley Road – remembered Master Luo as being very strict, not only making them sharpen their culinary skills but also inculcating in them good work ethics. "[Master Luo] believed that besides skills, good chefs must be equipped with a high standard of social responsibility because they feed so many people," Hooi shared. Once the four apprentices had attained a certain level of culinary proficiency, Master Luo told them to go forth to spread the art of Cantonese cuisine.
 
-The four took their teacher's word seriously and each opened a restaurant: Sin opened Sin Leong Restaurant, Hoi started Dragon Phoenix, Tham established Lai Wah restaurant (on Bendemeer Road) and Lau launched Red Star. The four decided it was important that their restaurants did not cannibalise one another's menus. Each would have their own signature dishes. "They were like brothers," said Chris Hooi, the son of Chef Hooi, who now helms Dragon Phoenix. This bond was no doubt forged through their years of slaving over hot stoves together in the kitchen.
+The four took their teacher’s word seriously. Sin opened Sin Leong Restaurant, Hooi started Dragon Phoenix Restaurant, and Tham and Lau partnered with Chef Wong Kok Lum, the majority shareholder, to open Lai Wah Restaurant. The restaurants ensured their menus did not overlap as each would have its own signature dishes. "They were like brothers," said Chris Hooi, the son of Chef Hooi, who now helms Dragon Phoenix. This bond was no doubt forged through their years of slaving over hot stoves together in the kitchen.
 
 Beyond this, the four decided they would meet every week to discuss fresh ideas for new recipes. These gastronomic brainstorming sessions resulted in iconic Singaporean dishes such as the chilli crab and deep-fried yam ring as well as the modern version of *yu sheng*.
 
@@ -102,8 +103,9 @@ Like a layered Tang-dynasty poem where each noun is a palimpsest for something m
 	<br><br>
 <i>Yu sheng</i> is not for the shy and retiring. The partaking of the dish is as much about the ritual as the consumption. During the ensuing melee, diners may find themselves losing a chopstick, pelted in the eye by a peanut shrapnel or, worse, have their new clothes stained by plum sauce.
 	<br><br>
-<i>Yu sheng</i> has become a Lunar New Year staple and so popular that restaurants in Singapore serve it throughout the 15-day Lunar New Year period, not just on the seventh day. In the spirit of gastronomic creativity (and conspicuous consumption), the traditional translucent slivers of <i>ikan parang</i> may also be replaced with salmon, lobster or abalone.
-</span>
+<i>Yu sheng</i> has become a Lunar New Year staple and so popular that restaurants in Singapore serve it throughout the 15-day Lunar New Year period, not just on the seventh day. In the spirit of gastronomic creativity (and conspicuous consumption), the traditional translucent slivers of <i>ikan parang</i> may also be replaced with salmon, lobster or abalone.</span>
+	
+<i>This article was updated on 4 March 2026 to reflect that the Red Star Restaurant was opened by the four chefs in 1970, and that chefs Tham and Lau partnered with Chef Wong Kok Lum, the majority shareholder, to open Lai Wah Restaurant.</i>
 
 
 <div>	
@@ -111,7 +113,7 @@ Like a layered Tang-dynasty poem where each noun is a palimpsest for something m
 
 
 #### **REFERENCES**     
-   
+Dragon Phoenix Restaurant, accessed 4 March 2026,&nbsp;[https://www.dragonphoenix.com.sg/](https://www.dragonphoenix.com.sg/ "https://www.dragonphoenix.com.sg/").
 
 
    
@@ -123,6 +125,8 @@ Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology*, *35*, 3
 	
 Kalimniou, D. (2006, June 6). *Political Kouzina*. Retrieved from diatribe-column.blogspot.sg website.
 
+Lai Wah Restaurant, accessed 4 March 2026,&nbsp;[https://www.laiwahrestaurant.com/about-us-关于我们/](https://www.laiwahrestaurant.com/about-us-%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/ "https://www.laiwahrestaurant.com/about-us-关于我们/").
+
 Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com website.
 
 Mankekar, P. (2002). India shopping: Indian grocery stores and transnational configuration of belonging. *Ethnos, 67* (1), 75–97. Retrieved from Taylor &amp; Francis Online website.
@@ -130,6 +134,8 @@ Mankekar, P. (2002). India shopping: Indian grocery stores and transnational con
 Mints, S.W., &amp; Du Bois, C.M. (2002). The anthropology of food and eating. *Annual review of Anthropology*, *31*, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Oregon State University. (2012, December 26). *Definitions of anthropological terms*. Retrieved from oregonstate.edu website.
+
+Red Star Restaurant, accessed 4 March 2026,&nbsp;[https://www.red-star.com.sg/](https://www.red-star.com.sg/ "https://www.red-star.com.sg/").
 
 Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. *Diaspora: A Journal of Transnational Studies, 1* (1), 83–99. Retrieved from UTP Journals website. 
 
