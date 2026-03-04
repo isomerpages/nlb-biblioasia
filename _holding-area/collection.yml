@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - 日本の有名な話　第１９話 かぐやひめ.md
+      - New Books on Singapore History.md
+      - "P Ramlee: The Singapore Years.md"
       - Sample article.md

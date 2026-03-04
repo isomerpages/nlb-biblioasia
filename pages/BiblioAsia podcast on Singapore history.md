@@ -26,7 +26,7 @@ first boxing superstar?</p>
 <div class="isomer-card-description">Singapore's time zone has been changed at least seven times since 1905,
 including during the Japanese Occupation when it was synchronised to Tokyo
 time. Arts librarian Kenneth Tay tells us more.</div>
-<div class="isomer-card-link">Coming in March</div>
+<div class="isomer-card-link">Listen to the episode</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-first-local-to-head-the-national-library-hedwig-anuar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The First Local to Head the National Library: Hedwig Anuar" src="/images/Podcast/Shirin_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The First Local to Head the National Library: Hedwig Anuar</div><div class="isomer-card-description">Hedwig Anuar was the first Malayan to head the National Library, a position she held for 23 years until 1988. Her daughter, Shirin Aroozoo, tells us how her convictions about books, children's education and women empowerment were shaped by her upbringing and life events.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 </div>
