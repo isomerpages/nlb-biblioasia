@@ -76,7 +76,7 @@ Professor Tommy Koh recounts his undergraduate days at the University of Malaya 
 
 #### **[Wee Kim Wee: President, Diplomat, Journalist and a True Singaporean ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300146627)**
 By Cheong Suk-Wai   <br>
-ISEAS-Yusof Ishak Institute (2025), 213 pages
+ISEAS - Yusof Ishak Institute (2025), 213 pages
 <br>
 Call no. RSING 959.57 CHE-\[HIS\]
 
