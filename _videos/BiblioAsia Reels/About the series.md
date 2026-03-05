@@ -10,7 +10,7 @@ variant: tiptap
 video. Take five to learn interesting things about Singapore history.</p>
 <h4><strong>Toa Payoh Library, the Second Branch Library</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v=OPiq1Uf6J_Y"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OPiq1Uf6J_Y?si=gqRnAQwow4xabxtN"></iframe>
 </div>
 <p>
 <br>The library has served generations of patrons and was once home to the
