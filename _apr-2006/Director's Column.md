@@ -2,8 +2,9 @@
 title: Director's Column
 permalink: /vol-2/issue1/apr-2006/director-column/
 description: ""
+variant: markdown
 ---
-As the world progresses towards a knowledge-based economy, useful information needs to be made easily available. Globalisation, connectivity and interactivity at all levels are flattening the world and changing the rules of national competitiveness. In such an economy, the creation of and access to information is a significant economic, social and cultural activity.
+As the world progresses towards a knowledge-based economy, useful information needs to be made easily available. Globalisation, connectivity and interactivity at all levels are flattening the world and changing the rules of national competitiveness. In such an economy, the creation of and access to information is a significant economic, social and cultural activity. 
 
 In supporting Singapore’s aspiration to become a knowledge hub, the National Library strives to serve as a reference and research centre for all Singaporeans and foreigners. The “Find It” campaign, which will be launched on 11 April at the Library, seeks to bring greater visibility to and awareness of the reference services and treasure trove of knowledge found in the Library’s collections. The campaign aims to support the Library in its effort to nuture independent information seekers and to become the preferred stop for Asian content and collection services. With the series of thematic info-literacy talks, panel discussions and specific programmes that target the four sectors of design, education, heritage and business, the campaign holds exciting promises for all who seek information and knowledge for various purposes.
 

@@ -31,22 +31,19 @@ After _Chinta_, other films – _Noor Asmara_ (Light of Love), _Nasib_ (Fate) an
 
 In Krishnan’s _Penghidupan_ (Life, 1951), Ramlee played a morally ambiguous drifter who preyed on women. It was his only collaboration with the star Maria Menado, and it drew criticism from the Malay Welfare Association for its perceived affront to Malay values. Yet it showed Ramlee’s readiness to inhabit darker, more complex roles. In _Patah Hati_ (Broken Heart,1952) and _Miskin_ (The Poor, 1952), both directed by K.M. Basker, Ramlee refined his dramatic sensibility by borrowing melodramatic elements from _bangsawan_ (Malay opera) theatre and Indian cinema.[^7]
 
-<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_painting.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_patahhati.png" style="width: 80%;">
 
-<div style="background-color: white;">Hilmi Johandi, “Bangsawan”, 2014, oil on linen, 120 x 150 cm. The painting was inspired by archival images of old Singapore, including scenes from P. Ramlee films, historical street scenes and amusement parks like Great World. <i> Courtesy of Hilmi Johandi and Ota Fine Arts. </i></div>
+<div style="background-color: white;">Neng Yatimah and P. Ramlee in&nbsp;<i>Patah Hati</i>&nbsp;(Broken Heart,1952). Ramlee plays Kassim who has returned from his studies in England and falls in love with a florist, Rahimah. <i>Courtesy of Hilmi Johandi and Ota Fine Arts. </i></div>
 
 
 B.N. Rao then cast him in some of his most compelling early performances, notably in _Hujan Panas_ (Hot Rain, 1953) where he portrayed Amir, a musician lured by fame and undone by desire. This was followed by Malay Film Productions lavish Eastmancolor project, _Hang Tuah_ (1956), where he took on the titular role as the 15th-century Melakan warrior.[^8]
 
-<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_still.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_still2.png" style="width: 80%;">
 
-<div style="background-color: white;">Film still from Malay Film Productions’ Hang Tuah (1956), starring P. Ramlee as the 15th-century Melakan warrior and Saadiah as his love interest Melor. It is the first Malay film to be entirely shot in colour (Eastmancolor). Ramlee composed and performed songs for the film, including the famous traditional folk song “Joget Pahang”. <i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
+<div style="background-color: white;">Film still from Malay Film Productions’ <i>Hang Tuah</i> (1956), starring P. Ramlee as the 15th-century Melakan warrior and Saadiah as his love interest Melor. It is the first Malay film to be entirely shot in colour (Eastmancolor). Ramlee composed and performed songs for the film, including the famous traditional folk song “Joget Pahang”. <i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
 
 Ramlee’s versatility was on display in the neo-realist (a style of filmmaking focusing on ordinary people and everyday life) drama _Anakku Sazali_ (My Son Sazali, 1956) where he played both father and son. He also demonstrated his flair for comedy with the _Bujang Lapok_ series of five films, beginning with _Bujang Lapok_ (Old Bachelor, 1957) where, alongside Aziz Sattar and S. Shamsuddin, he was one of three bachelors whose missteps through modernity reveal humour and vulnerability.[^9]
 
-<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_poster.png" style="width: 70%;">
-
-<div style="background-color: white;">Directed by P. Ramlee, <i>Seniman Bujang Lapok</i> (The Nitwit Movie Stars, 1961) is the fourth instalment in the <i>Bujang Lapok</i> series of five films. Ramlee stars as Ramli, one of the three protagonists who attempts to become an actor and break into the film business. The film is a spoof of the Malay film industry from the 1950s to ’60s. <i>Courtesy of Wong Han Min.</i></div>
 
 #### **The Singer**
 
@@ -60,6 +57,10 @@ Ramlee’s development as a filmmaker grew from years of close observation. He a
 
 His debut effort, _Penarek Becha_ (Trishaw Puller, 1955), set out his social and aesthetic compass.[^13] The use of real streets, incidental sound and unposed movement created an immediacy that critics later linked to neo-realist cinema.[^14] His shift from actor to director demonstrated that local Malay talent could helm major productions.&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_becha.png" style="width: 70%;">
+
+<div style="background-color: white;">P. Ramlee made his directorial debut in&nbsp;<i>Penarek Becha</i>&nbsp;(Trishaw Puller, 1955). A rich man disapproves of his daughter’s relationship with a poor trishaw rider and tries to break them up. <i>Courtesy of Wong Han Min. </i></div>
+
 Across his early features, Ramlee sought breadth of form and theme. _Semerah Padi_ (1956) drew on customs and moral choice.[^15] _Antara Dua Darjat_ (Between Two Classes, 1960) explored class conflict with clarity and bite.[^16] _Ibu Mertuaku_ (My Mother-in-Law, 1962) offered one of his finest performances as the blind musician Kassim Selamat moves through a vividly realised Singapore.[^17]
 
 <img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_shooting.png" style="width: 80%;">
@@ -70,6 +71,10 @@ His comedies, including _Labu dan Labi_ (Labu and Labi, 1962), _Madu Tiga_ (Thre
 
 In _Seniman Bujang Lapok_ (The Nitwit Movie Stars, 1961), the fourth film in the _Bujang Lapok_ series, Ramlee not only was the director but also played one of the protagonists who attempts to become an actor despite his inexperience and ignorance of the film industry. Its unmatched portrait of Singapore’s Malay film industry remains both irresistibly funny and strikingly detached.[^19] What began as a satirical take on studio life has acquired remarkable archival value, capturing with unusual vividness the world that shaped his craft.&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_poster.png" style="width: 70%;">
+
+<div style="background-color: white;">Directed by P. Ramlee, <i>Seniman Bujang Lapok</i> (The Nitwit Movie Stars, 1961) is the fourth instalment in the <i>Bujang Lapok</i> series of five films. Ramlee stars as Ramli, one of the three protagonists who attempts to become an actor and break into the film business. The film is a spoof of the Malay film industry from the 1950s to ’60s. <i>Courtesy of Wong Han Min.</i></div>
+
 #### **Mapping Singapore on Screen**
 
 Among the most evocative aspects of Ramlee’s career in Singapore is the way his films chart the growth and progress of the island city. Although not every production was shot entirely on location, many placed real streets, landmarks and coastlines at their heart, turning the city into both setting and silent actor.[^20]
@@ -79,6 +84,10 @@ Across his films, Singapore appears at moments of arrival, ambition and sorrow. 
 As for the _Bujang Lapok_ series, the bachelor protagonists traverse a wide range of Singapore locations: from Robinson Road and Shaw Chambers to the Nanyang Siang Pau building and MacRitchie Reservoir, even leaping playfully from Ngee Ann Building on Orchard Road back to Robinson Road. _Seniman Bujang Lapok_, in particular, sweeps across Empress Place and City Hall, then follows a lorry promoting a Malay Film Productions release past Capitol and Lido before entering a village.
 
 _Ibu Mertuaku_ traces a path through the Capitol Blue Room in Capitol Theatre, a clinic, a hotel on Geylang Road and a seaside villa. Other films showcase the Padang, Clifford Pier, Collyer Quay, Great World Amusement Park, Bukit Batok Hill, Tanjong Pagar and Bukit Timah. Even period costume films drew on local terrain, with _Hang Tuah_ staging a coastal fight on Pulau Sekudu and _Madu Tiga_ using Sembawang beach. Jalan Ampas itself, where the studio of Malay Film Productions was located – with its gates and side lanes – often slipped quietly into view.
+
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_hangtuahposter.png" style="width: 80%;">
+
+<div style="background-color: white;">Movie poster for&nbsp;<i>Hang Tuah</i>. <i>Courtesy of Wong Han Min. </i></div>
 
 #### **Malay Life in a Changing City**
 
@@ -100,6 +109,10 @@ Ramlee’s first marriage, to actress Junaidah Daeng Harris in 1950, was solemni
 
 Later that year, he married singer-actress Saloma, born Salmah Ismail, in Pasir Panjang.[^24] The couple moved to 28 Cedar Avenue, a four-room terraced house rented by Shaw Brothers and only half an hour from the studio on Jalan Ampas. Their work together on stage and screen made them one of the most admired pairs of the era. Between filming, composing and late-night rehearsals, Ramlee relaxed with poker and mahjong among friends, living a life modest in its pleasures yet rich in companionship. In these domestic rhythms, Singapore became more than a workplace. Yet he left.
 
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_saloma.png" style="width: 70%;">
+
+<div style="background-color: white;">The singer-actress Saloma, 1960s. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
+
 #### **Leaving Singapore**
 
 By the early 1960s, P. Ramlee seemed to feel that his long creative season at Malay Film Productions was nearing its end. In April 1964, the studio held a farewell ceremony to wish him well and encourage him as he prepared to take up new duties at Merdeka Film Productions in Kuala Lumpur. On 19 April, he drove north with his family in his American convertible to settle in the capital where he continued to act, direct and compose.
@@ -115,6 +128,11 @@ Although no roads or landmarks bear Ramlee’s name in Singapore, his presence c
 Contemporary artists from Singapore have been inspired by Ramlee’s work. In 2005, Berlin-based Ming Wong re-enacted key scenes from four of Ramlee’s best-known films in _Four Malay Stories_, playing a total of 16 different characters, both male and female. The video installation was screened at the Singapore Pavilion of the 53rd Venice Biennale in 2009. More recently, in 2025, Wong presented _Four Malay Stories Redux_ at the National Gallery Singapore, weaving Ramlee’s movie clips with his earlier re-enactments.[^31]
 
 For artist Hilmi Johandi’s series of work, _Dusk to Dawn_ (2013–14), he referenced old films, such as those by Ramlee, and reworked film stills and posters in paintings that reflect on modernity.[^32] These multiple artistic engagements show that Ramlee’s mid-century Singapore remains a living archive to be constantly revisited rather than just a mere nostalgic walk down memory lane.
+
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_painting.png" style="width: 80%;">
+
+<div style="background-color: white;">Hilmi Johandi, “Bangsawan”, 2014, oil on linen, 120 x 150 cm. The painting was inspired by archival images of old Singapore, including scenes from P. Ramlee films, historical street scenes and amusement parks like Great World. <i> Courtesy of Hilmi Johandi and Ota Fine Arts. </i></div>
+
 
 While Singapore has yet to create something as lasting as the memorials in Malaysia, one might hope that, in time, it will choose to honour not only the man but also its own film history through one of its most legendary figures.
 <br><br>
