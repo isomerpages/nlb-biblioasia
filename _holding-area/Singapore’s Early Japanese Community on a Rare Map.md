@@ -180,96 +180,97 @@ Scan the QR code to find out details of the inset map. Discover more about the p
 
 #### **Notes**
 
-[^1]: 
+[^1]: 版部 (Shingapōru: Kōbunkan Shuppanbu), \[1920\]. (From National Library Singapore, call no. RRARE 912.5957 MAP).
 
-[^2]: 
+[^2]: Fraser and Neave Limited, _Map of Singapore Showing the Principal Residences and Places of Interests_, 1913, map. (From National Archives of Singapore, accession no. SP006064)&nbsp;
 
-[^3]: 
+[^3]: The cartouche reads: 開港百周年記念出版 (Kaikō Hyakushūnen Kinen Shuppan) \[Port Centenary Commemorative Publication\], 1 January 1919, map. Printed on the back of the map are advertisements from local Japanese businesses such as Miyako Hotel (都ホテル; Miyako Hoteru) and Hakuai Pharmacy (博愛藥房; Hakuai Yakubō) under the header 新嘉坡開港百周年記念合廣告 (Shingapōru Kaikō Hyakushūnen Kinen Gōkōkoku) \[Singapore Port Centenary Commemorative Joint Advertisement\].
 
-[^4]: 
+[^4]: &nbsp;南洋日日新聞&nbsp; (_Nan’yō&nbsp; Nichinichi Shinbun_), 16 November 1920, 2, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nos19201116-01.1.2.&nbsp;
 
-[^5]: 
+[^5]: The English name was spelt according to the Japanese romanisation conventions of that period.
 
-[^6]: 
+[^6]: &nbsp;河野公平.好文館出版部 (Kōno Kōhei and Kōbunkan Shuppanbu), 南洋總覽 (_Nan’yō Sōran_). シンガポ-ル: 好文館 (Shingapōru: Kōbunkan), 1920, 172–74, NUS Libraries, https://digitalgems.nus.edu.sg/view/347109. A 1916 survey of Japanese residents and their occupations recorded two bookstores operating in Singapore. In 1920, Kobunkan’s own publication, 南洋總覽 _(Nan’yō Sōran)_, recorded just two book retailers although the printing industry had grown to 11 by that time.
 
-[^7]: 
+[^7]: This address corresponds to the site presently occupied by the Nanyang Academy of Fine Arts Campus 1 and the headquarters of the Singapore Council of Women's Organisations.
 
-[^8]: 
+[^8]: _Karayuki-san_ (唐行きさん), meaning “those who have gone to China”, was a euphemism used to refer to Japanese sex workers.
 
-[^9]: 
+[^9]: &nbsp;松本博之. 鎌田真弓. 村上雄一 (Matsumoto Hiroyuki, Kamata Mayumi and Murakami Yūichi), eds., ブルームにおける日本人商店主のライフストーリー山本亀太郎·三瀬豊三郎を中心に (_Burūmu ni okeru Nihonjin Shōten-shu no Raifu-sutōrī Yamamoto Kametarō, Mise Toyosaburō o Chūshin ni_), 48–59, Nagoya University of Commerce &amp; Business, https://www.nucba.ac.jp/archives/189/202504/NUCB-K-25101.pdf; 南洋新報 (_Nan’yō&nbsp; Shinpō_), 30 October 1912, 10, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nao19121030-01.1.10; 南洋日日新聞 (_Nan’yō&nbsp; Nichinichi Shinbun_), 14 January 1922, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nos19220114-01.1.2.
 
-[^10]: 
-
-
-
-[^11]: 
-
-[^12]: 
-
-[^13]: 
-
-[^14]: 
-
-[^15]: 
-
-[^16]: 
-
-[^17]: 
-
-[^18]: 
-
-[^19]: 
-
-[^20]: 
+[^10]: Matsumoto, Kamata and Murakami, _Burūmu ni okeru Nihonjin Shōten-shu no Raifu-sutōrī Yamamoto Kametarō, Mise Toyosaburō o Chūshin ni_, 48–59.&nbsp;
 
 
 
-[^21]: 
+[^11]: Kōno and Kōbunkan Shuppanbu, _Nan’yō Sōran_, 605.
 
-[^22]: 
+[^12]: Yamasaki’s name appears as 山崎 榮次郞 in historical Japanese sources and as 山崎 栄治郎 in modern Japanese sources. In English-language publications of the time, his name was often transliterated as Yejiro Yamasaki.
 
-[^23]: 
+[^13]: Matsumoto, Kamata and Murakami, _Burūmu ni okeru Nihonjin Shōten-shu no Raifu-sutōrī Yamamoto Kametarō, Mise Toyosaburō o Chūshin ni_, 48–59; 田部司 (Tanabe Tsukasa), 南洋を駆け抜けた夢～山崎栄治郎 (Nan’yō&nbsp; o Kakenuketa Yume ~ Yamasaki Eijirō), 27 January 2014, https://tanabeshouwa.wordpress.com/2014/01/27.
 
-[^24]: 
+[^14]: “Pearling Time,” Western Australian Museum, accessed 21 December 2025, https://museum.wa.gov.au/explore/lustre-online-text-panels/pearling-timeline.&nbsp;
 
-[^25]: 
-
-[^26]: 
-
-[^27]: 
-
-[^28]: 
-
-[^29]: 
-
-[^30]: 
+[^15]: “Japanese Rubber Estates in Malaya and Sarawak,” _Malaya Tribune_, 16 May 1914, 4; Far Eastern Geographical Establishment, _The New Atlas and Commercial Gazetteer of the Straits Settlements and Federated Malay States_ (Singapore: Kelly &amp; Walsh, 1917), 78. (From National Library Singapore, call no. RRARE 330.95951 SHA-\[JSB\]); Kōno and Kōbunkan Shuppanbu, _Nan’yō Sōran_, 99; 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (_Marai ni okeru Hōjin Katsudō no Genkyō_). 新嘉坡: 南洋及日本人碇 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917, appendix, 6. (From National Library Singapore, call no. RRARE 305.89560595 TSU-\[LSB\]); Yuen Choy Leng, “Japanese Rubber and Iron Investments in Malaya, 1900–1941,” _Journal of Southeast Asian Studies_ 5, no. 1 (March 1974): 35. (From JSTOR via NLB’s eResources website); “General News: A Japanese Send-Off,” _Broome Chronicle and Nor'West Advertiser_, 4 February 1911, 2, Trove, http://nla.gov.au/nla.news-article260021507.
 
 
+[^16]: “For Sale – A Bargain,” _Nor-West Echo_, 30 November 1912, 3, Trove, http://nla.gov.au/nla.news-article257628059; “The Licensing Act, 1911&nbsp; (Eighth Schedule): Notice of Application to Remove License to Other Premises,” _Nor-West Echo_, 13 December 1913, 3, Trove, http://nla.gov.au/nla.news-article257687982; 南洋新報 (_Nan’yō&nbsp; Shinpō_), 22 June 1912, 7, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nao19120622-01.1.7.
 
-[^31]: 
+[^17]: &nbsp;南洋新報 (_Nan’yō&nbsp; Shinpō_), 22 June 1912; 南洋新報 (_Nan’yō&nbsp; Shinpō_), 29 June 1912, 5, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nao19120629-01.1.5.&nbsp;
 
-[^32]: 
+[^18]: &nbsp;南洋新報 (_Nan’yō&nbsp; Shinpō_), 30 October 1912, 10, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nao19121030-01.1.10; 伊藤友治郎 (Itō Tomojirō), ed., 南洋年鑑 (_Nan’yō&nbsp; Nenkan_), vol. 4. 東京: 日南公司南洋調査部 (Tōkyō: Nichinan Kōshi Nan’yō&nbsp; Chōsabu), 1920, 98, National Diet Library Digital Collections, https://dl.ndl.go.jp/en/pid/950490/1/66.
 
-[^33]: 
+[^19]: &nbsp;南洋新報 (_Nan’yō&nbsp; Shinpō_), 14 May 1913, 10, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nao19130514-01.1.10.
 
-[^34]: 
-
-[^35]: 
-
-[^36]: 
-
-[^37]: 
-
-[^38]: 
-
-[^39]: 
-
-[^40]: 
+[^20]: &nbsp;南洋新報 (_Nan’yō&nbsp; Shinpō_), 1 April 1914, 3, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nao19140401-01.1.3; Ehime Prefectural Lifelong Learning Center, データベース『えひめの記憶』(_Dētabēsu “Ehime no Kioku”_), https://www.i-manabi.jp/system/regionals/regionals/ecode:2/57/view/7503; Kōno and Kōbunkan Shuppanbu, _Nan’yō&nbsp; Sōran_, 868.&nbsp;
 
 
 
-[^41]: 
+[^21]: Itō, _Nan’yō&nbsp; Nenkan_, vol. 4, 98;&nbsp; 南洋新報 (_Nan’yō&nbsp; Shinpō_), 21 May 1913, 10, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nao19130521-01.1.10.&nbsp;
 
-[^42]: 
+[^22]: From the 1870s to 1920s, Japanese brothels were primarily concentrated around Malay Street, Malabar Street and Hylam Street – an area that now forms part of Bugis Junction shopping mall.
 
-[^43]: 
+[^23]: &nbsp;南洋日日新聞 (_Nan’yō Nichinichi Shinbun_), 24 April 1920, 3, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nos19200424-01.1.3; 伊藤友治郎 (Itō Tomojirō), ed., 南洋年鑑 (_Nan’yō&nbsp; Nenkan_), vol. 3. 東京: 日南公司南洋調査部 (Tōkyō: Nichinan Kōshi Nan’yō&nbsp; Chōsabu), 1919, 168, National Diet Library Digital Collections, https://dl.ndl.go.jp/en/pid/950490/1/66; 南洋日日新聞 (_Nan’yō Nichinichi Shinbun_), 3 November 1920, 2, Hoover Institution Library &amp; Archives,&nbsp; https://hojishinbun.hoover.org/en/newspapers/nos19201103-01.1.2; 南洋日日新聞 (_Nan’yō Nichinichi Shinbun_), 11 December 1923, 3, Hoover Institution Library &amp; Archives, https://hojishinbun.hoover.org/en/newspapers/nos19231211-01.1.3.&nbsp;
+
+[^24]: “About Us,” The Japanese Association, Singapore, accessed 22 January 2026, https://www.jas.org.sg/en/pages/aboutus; “About Us,” The Japanese School Singapore, accessed 22 January 2026, https://www.sjs.edu.sg/en/about/.
+
+[^25]: “South Seas” or 南洋 (Nan’yō ) refers to Southeast Asia and the South Pacific under Japan’s Southern Expansion Doctrine.
+
+[^26]: “Nan-Yo-Kyokai,” _Malaya Tribune_, 18 November 1918, 7; “Japanese Commerce,” _Straits Times_, 16 November 1918, 10. (From NewspaperSG)
+
+[^27]: &nbsp;新嘉坡槪要 (_Shingapōru Gaiyō_)_._ 新嘉坡: 新嘉坡日本人會 (Shingapōru: Shingapōru Nihonjinkai), 1923. (From National Library Singapore, call no. RRARE 959.57 SHI-\[LSB\]); Regina Hong, Ling Xi Min and Shimazu Naoko, _Postcard Impressions of Early 20th-century Singapore: Perspective from the Japanese Community_ (Singapore: National Library Board: Marshall Cavendish Editions, 2020), 72. (From National Library Singapore, call no. RSING 959.57 HON-\[HIS\])
+
+[^28]: “Japanese Cemetery Closed to Burials,” _Straits Times_, 9 May 1973, 21. (From NewspaperSG); Gracie Lee, “Japanese Cemetery Park,” _Singapore Infopedia_. Article published 2016.&nbsp;
+
+[^29]: “Passengers,” _Singapore Daily Times_, 8 December 1879, 2. (From NewspaperSG); “Passengers,” _Singapore Daily Times_, 8 December 1879, 2. (From NewspaperSG); “A Social History of the Japanese in Singapore to 1945,” in _Japan and Singapore: A Multidisciplinary Approach_, ed. Tsu Yun Hui (Singapore: McGraw-Hill Education \[Asia\], 2006), 28. (From National Library Singapore, call no. RSING 303.4825205957 JAP)
+
+[^30]: Shimizu Hiroshi, _Japan and Singapore in the World Economy: Japan’s Economic Advance Into Singapore, 1870–1965_ (London: Routledge, 1999), 68–69. (From National Library Singapore, call no. RSING 337.5205957 SHI)
+
+
+
+[^31]: &nbsp;戦前シンガポールの日本人碇会: 写真と記錄 = _Prewar Japanese Community in Singapore: Photographs and Records_ (_Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku_). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE); “The Bank of Taiwan Ltd. Notice,” _Weekly Sun_, 29 September 1912, 8. (From NewspaperSG)
+
+[^32]: “The Bank of Taiwan Ltd,” _Singapore Free Press_, 5 June 1916, 7; “Notice of Removal,” _Malaya Tribune_, 5 June 1916, 7; “\[The Old Premises…\],” _Singapore Free Press_, 7 June 1916,&nbsp; 7\. (From NewspaperSG)
+
+[^33]: Hisasue Ryoichi, “The Establishment of the China and Southern Bank and the Southern Warehouse Company: In Relation to the Bank of Taiwan’s Southward Strategy with Overseas Chinese from the 1910s to the 1920s,” Institute of Developing Economies Discussion Paper No. 68, February 2018, IDE-JETRO, https://ir.ide.go.jp/record/50167/files/IDP000688\_001.pdf.
+
+[^34]: &nbsp;_Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku_, 228; Eric Robertson, _The Japanese File: Pre-war Japanese Penetration in Southeast Asia_ (Singapore: Heinemann Asia, 1986), 16–17. (From National Library Singapore, call no. RSING 301.295209595 ROB)
+
+[^35]: “Crime in Malaya,” _Straits Echo_, 8 October 1919, 1618. (From NewspaperSG); National Heritage Board, “Mount Emily Villa,” “Roots, last updated 15 October 2020, https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/mount-emily-villa; Melody Zaccheus, “Mystery Behind Origins of Century-Old Mount Emily Villa Solved,” _Straits Times_, 21 March 2016, https://www.straitstimes.com/singapore/mystery-behind-origins-of-century-old-mount-emily-villa-solved.
+
+[^36]: Shimomoto Yutaka, _Japanese Immigrants and Investments in North Borneo_ (Kota Kinabalu, Sabah: The Sabah Society, 2010), 56–66. (From National Library Singapore, call no. RSEA 305.8956095953 SHI); 南洋及日本人社 (Nan’yō&nbsp; oyobi Nihonjin sha), 南洋の五十年: シンガポ一ルを中心に同胞活跃 (_Nan’yō&nbsp; no Gojūnen: Shingapōru o Chūshin ni Dōhō Katsuyaku_) (n.p.: n.p., 2000), 528. (From National Library Singapore, call no. RSING 959.004956 NAN); Nagura Bunji, “The Prewar Japanese Steel Industry and Iron Ore Resources in Southeast Asia: The Development of Malaysian Iron Ore by the Ishihara Sangyo Company,” 1981, IDE-JETRO, https://d-arch.ide.go.jp/je\_archive/english/society/wp\_je\_unu33.html.
+
+[^37]: “The Osaka Shosen Kaisha,” _Straits Budget_, 7 June 1918, 16. (From NewspaperSG)
+
+[^38]: “O.S.K.,” _Malaya Tribune_, 29 May 1918, 1. (From NewspaperSG)
+
+[^39]: “Social and Personal,” _Pinang Gazette and Straits Chronicle_, 5 February 1918, 5; “Japanese Peace Delegates,” _Pinang Gazette and Straits Chronicle_, 3 February 1919, 2. (From NewspaperSG)
+
+[^40]: Mitsui &amp; Co. (Asia Pacific) Pte. Ltd., _Heritage: The Story of Singapore’s Most Experienced Japanese “Sogo-Shosha”_ (Singapore: Mitsui &amp; Co. \[Asia Pacific\] Pte. Ltd., 2011), 6–34. (From National Library Singapore, call no. RSING 382.06552 HER-\[LSB\])
+
+
+
+[^41]: “1903. The Year Reviewed,” _Straits Budget_, 7 January 1904, 2; “House and Land Property: The Year 1904,” _Straits Budget_, 5 January 1905, 10; “Tanglin Auction Sale of Excellent Teak Furniture,” _Singapore Free Press_, 30 June 1909, 3. (From NewspaperSG); Arnold Wright and H.A. Cartwright, _Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources_ (London: Lloyd’s Greater Britain Publishing Company, Limited, 1908), 317. (From National Library Singapore, call no. RCLOS 959.51033 TWE)
+
+[^42]: “Japanese Consulate,” _Pinang Gazette and Straits Chronicle_, 23 October 1908, 5; “Consul for Japan,” _Singapore Free Press_, 31 October 1908, 1; “Notice: In Honour of H. I. J. Majesty’s Birthday,” _Singapore Free Press_, 30 October 1909, 2 “Victoria, &amp;c.,” _Straits Times_, 13 December 1906, 12; “Japanese Consulate,” _Pinang Gazette and Straits Chronicle_, 23 October 1908, 5; “Notices,” _Singapore Free Press_, 30 October 1909, 2. (From NewspaperSG)
+
+[^43]: “Japanese Celebrations,” _Singapore Free Press_, 4 November 1910, 5; “Japanese Coronation,” _Straits Budget_, 19 November 1915, 6; “Prince Asaka in Singapore,” _Singapore Free Press_, 16 November 1922, 10; “About the Prince Asa Ka Family,” Tokyo Metropolitan Teien Art Museum, accessed 22 January 2026, https://www.teien-art-museum.ne.jp/archive/museum/e\_asaka.html.
