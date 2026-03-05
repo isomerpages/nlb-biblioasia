@@ -129,7 +129,7 @@ This appears to be the berthing area for arriving Japanese ships.
 
   
 
-**Kuhara Branch Office (**久原出張所**; Kuhara Shutch****ō****jo)**
+**Kuhara Branch Office (**久原出張所**; Kuhara Shutchōjo)**
 
 Location on map: 6 Scotts Road
 
