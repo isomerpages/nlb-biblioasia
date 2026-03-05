@@ -57,6 +57,10 @@ Ramlee’s development as a filmmaker grew from years of close observation. He a
 
 His debut effort, _Penarek Becha_ (Trishaw Puller, 1955), set out his social and aesthetic compass.[^13] The use of real streets, incidental sound and unposed movement created an immediacy that critics later linked to neo-realist cinema.[^14] His shift from actor to director demonstrated that local Malay talent could helm major productions.&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_becha.png" style="width: 70%;">
+
+<div style="background-color: white;">P. Ramlee made his directorial debut in&nbsp;<i>Penarek Becha</i>&nbsp;(Trishaw Puller, 1955). A rich man disapproves of his daughter’s relationship with a poor trishaw rider and tries to break them up. <i>Courtesy of Wong Han Min. </i></div>
+
 Across his early features, Ramlee sought breadth of form and theme. _Semerah Padi_ (1956) drew on customs and moral choice.[^15] _Antara Dua Darjat_ (Between Two Classes, 1960) explored class conflict with clarity and bite.[^16] _Ibu Mertuaku_ (My Mother-in-Law, 1962) offered one of his finest performances as the blind musician Kassim Selamat moves through a vividly realised Singapore.[^17]
 
 <img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_shooting.png" style="width: 80%;">
@@ -81,6 +85,10 @@ As for the _Bujang Lapok_ series, the bachelor protagonists traverse a wide rang
 
 _Ibu Mertuaku_ traces a path through the Capitol Blue Room in Capitol Theatre, a clinic, a hotel on Geylang Road and a seaside villa. Other films showcase the Padang, Clifford Pier, Collyer Quay, Great World Amusement Park, Bukit Batok Hill, Tanjong Pagar and Bukit Timah. Even period costume films drew on local terrain, with _Hang Tuah_ staging a coastal fight on Pulau Sekudu and _Madu Tiga_ using Sembawang beach. Jalan Ampas itself, where the studio of Malay Film Productions was located – with its gates and side lanes – often slipped quietly into view.
 
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_hangtuahposter.png" style="width: 80%;">
+
+<div style="background-color: white;">Movie poster for&nbsp;<i>Hang Tuah</i>. <i>Courtesy of Wong Han Min. </i></div>
+
 #### **Malay Life in a Changing City**
 
 Ramlee’s films – in which class, modernity and moral choice were the focus – also traced the social currents underpinning Malay life in a city changing at great speed. In _Penarek Becha_, for example, a trishaw rider shows that dignity is not confined to wealth. _Antara Dua Darjat_ turns on a love constrained by status, while _Ibu Mertuaku_ reveals how talent can be broken by a society enthralled by appearances.&nbsp;
@@ -100,6 +108,10 @@ Ramlee’s own life reflects the porous and creative world of mid-century Singap
 Ramlee’s first marriage, to actress Junaidah Daeng Harris in 1950, was solemnised at her father’s house on Boon Teck Road and it was she who accompanied his earliest steps in cinema. By 1955, the union had ended; that same year, he married Noorizan Mohd Noor, also an actress, at the kadi’s (an official who solemnises Mulim marriages) office. Her care brought comfort and order. Each day, her driver delivered Ramlee’s lunch in a tiffin carrier along with fresh clothes for the end of shooting, and she expected him home by eight in the evening. However, what began as love later felt restrictive, and the marriage ended in 1961.[^23]
 
 Later that year, he married singer-actress Saloma, born Salmah Ismail, in Pasir Panjang.[^24] The couple moved to 28 Cedar Avenue, a four-room terraced house rented by Shaw Brothers and only half an hour from the studio on Jalan Ampas. Their work together on stage and screen made them one of the most admired pairs of the era. Between filming, composing and late-night rehearsals, Ramlee relaxed with poker and mahjong among friends, living a life modest in its pleasures yet rich in companionship. In these domestic rhythms, Singapore became more than a workplace. Yet he left.
+
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_saloma.png" style="width: 70%;">
+
+<div style="background-color: white;">The singer-actress Saloma, 1960s. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
 #### **Leaving Singapore**
 
