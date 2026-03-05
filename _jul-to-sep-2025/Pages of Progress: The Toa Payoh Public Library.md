@@ -13,7 +13,9 @@ By Rebecca Tan
 A little over 50 years have passed since Toa Payoh Public Library opened its doors in 1974. Today, the building has become a landmark in the area. Built in what was then a young and growing town, the library is the second branch of the National Library after the first in Queenstown in 1970.[^1] With its distinctive facade and location in the heart of Toa Payoh, the library has served generations of patrons.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_entrance.jpg)
-<div style="background-color:white;">The main entrance of Toa Payoh Public Library, 2025. <i>Photo by Rebecca Tan.</i></div>
+<div style="background-color:white;">The main entrance of Toa Payoh Public Library, 2025. <i>Photo by Rebecca Tan.</i></div><br>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/OPiq1Uf6J_Y?si=gqRnAQwow4xabxtN" frameborder="0" allowfullscreen=""></iframe></div>
+<div style="background-color: white;">Toa Payoh Public Library. <i></i></div>
 
 #### **The Right Place**
 
