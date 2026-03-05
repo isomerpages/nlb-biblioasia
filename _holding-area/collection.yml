@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Singapore’s Early Japanese Community on a Rare Map.md
       - New Books on Singapore History.md
       - "P Ramlee: The Singapore Years.md"
       - Sample article.md
