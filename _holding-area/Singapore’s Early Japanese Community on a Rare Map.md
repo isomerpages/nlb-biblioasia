@@ -168,6 +168,6 @@ Kinloss was constructed in 1903 as the private residence of Lieutenant-Colonel A
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> The author thanks Tanabe Tsukasa, the great-grandson of Yamasaki Eijiro, for sharing information about his family; Takako Iino from Friends of the Museum in Singapore; and Senior Librarians Goh Yu Mei and Janice Loo from the National Library Singapore for their assistance in translating and highlighting relevant Japanese and pictorial sources.
-
+<br><br>
 Scan the QR code to find out details of the inset map. Discover more about the prewar Japanese community in and around Middle Road from Curiocity (<a href="https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/">https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/</a>), and explore Japanese street maps of Singapore in the collections of the National Library Singapore and National Archives of Singapore. , the BiblioAsia+ podcast by Emeritus Professor Bernard T.G. Tan where he talks about the origins of our national anthem.
 </div>
