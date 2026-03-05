@@ -5,6 +5,18 @@ variant: markdown
 description: ""
 third_nav_title: BiblioAsia Reels
 ---
+#### <b>Toa Payoh Library, the Second Branch Library</b>
+ 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/v=OPiq1Uf6J_Y" frameborder="0" allowfullscreen=""></iframe></div>
+
+The library has served generations of patrons and was once home to the 7th SEAP Games Secretariat.
+
+**Related article** <br>
+**Pages of Progress: The Toa Payoh Public Library**
+[https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/](https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/)
+
+<hr>
+
 #### <b>Queenstown Library, the First Branch Library</b>
  
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/rSeaQ0G-CYc" frameborder="0" allowfullscreen=""></iframe></div>
