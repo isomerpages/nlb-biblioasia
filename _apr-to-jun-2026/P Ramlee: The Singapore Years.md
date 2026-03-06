@@ -1,6 +1,6 @@
 ---
 title: "P Ramlee: The Singapore Years"
-permalink: /holding-area/vol-22/issue-1/apr-jun-2026/p-ramlee-the-singapore-years/
+permalink: /vol-22/issue-1/apr-jun-2026/p-ramlee-singer-actor-filmmaker-director-singapore/
 variant: markdown
 description: ""
 ---

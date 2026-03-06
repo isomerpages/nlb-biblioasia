@@ -1194,4 +1194,15 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/new-books-on-singapore-history/
       image: /images/Vol 22 Issue 1/New Books/new books_apr26.png
       alt: New Books on Singapore History
+  - infopic:
+      title: "P. Ramlee: The Singapore Years"
+      subtitle: Arts
+      id: infopic
+      description: The formative years of singer, actor and filmmaker P. Ramlee
+        unfolded in Singapore, which he captured with vividness in his songs and
+        films.
+      button: Remembering a legendary icon
+      url: /vol-22/issue-1/apr-jun-2026/p-ramlee-singer-actor-filmmaker-director-singapore/
+      image: /images/Vol 22 Issue 1/Ramlee/ramlee_still2.png
+      alt: "P. Ramlee: The Singapore Years"
 ---
