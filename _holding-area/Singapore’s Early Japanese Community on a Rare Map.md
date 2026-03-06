@@ -31,6 +31,10 @@ The publisher’s name, Kobunkan, appears on the map in both Japanese and Englis
 
 The bookstore offered an extensive array of Japanese products ranging from newspapers, magazines, books and maps to stationery and picture postcards. Its customers included the employees of leading Japanese firms in the commercial district of Raffles Place and Collyer Quay as well as small Japanese businesses clustered around Middle Road and North Bridge Road. The latter comprised medical and dental clinics, retail shops, grocery stores, photo studios, barbershops, tailors, hotels, inns and restaurants.
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_postcard.png" style="width: 80%;">
+
+<div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. RRARE 952.03 LSB-[LSB]. Donated by Lim Shao Bin).</i></div>
+
 Kobunkan’s bestsellers revealed the community's continued links with Japan. Major newspapers such as _Asahi Shimbun_ (朝日新聞), _Osaka Mainichi_ (大阪毎日) and _Tokyo Nichi Nichi_ (東京日日) provided vital news from home. Literary and general interest magazines such as _The Sun_ (太陽; Taiyō), _The Central Review_ (中央公論; Chūō Kōron), _Reform_ (改造; Kaizō), and _Japan and the Japanese_ (日本及日本人; Nihon oyobi Nihonjin) attracted a steady readership among white-collar workers like employees of trading companies and banks.
 
 But perhaps more unusual was Kobunkan’s largest customer base – the _karayuki-san_.[^8] Sold into prostitution, these Japanese women lived and worked in Japanese brothels located in and around Malay Street, which was within walking distance to the bookstore. They typically favoured lifestyle and women’s magazines such as _Kodan World_ (講談世界; Kōdan Sekai), _Women’s World_ (婦人世界; Fujin Sekai) and _Friend of the Housewife_ (主婦の友; Shufu no Tomo).[^9]&nbsp;
@@ -145,6 +149,11 @@ Location on map: Osborne House, 11 Upper Wilkie Road
 <br>
 Known today as Mount Emily Villa, Osborne House served as the residence of the manager of the Bank of Taiwan during the late 1910s and then as the home of Singapore-based Japanese dentist Ikeda Jūkichi (池田重吉) in 1935. It later housed the Japanese Consulate-General between 1939 and 1941. After the Japanese Occupation, the building was used by the Ministry of Social Affairs’ Social Welfare Department. In 1969, Mount Emily Girls’ Home occupied the space followed by Wilkie Road Children’s Home in the 1980s.[^35] Today, the premises are occupied by The Private Museum.
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_home.png" style="width: 80%;">
+
+<div style="background-color: white;">The Girls’ Home at 11 Upper Wilkie Road managed by the Social Welfare Department of the Ministry of Social Affairs, 1959. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001968 - 0017).</i></div>
+
+  
   
 
 **Japanese Ship Wharf (**日本舩ワーフ**; Nihon Fune Wāfu)**
@@ -160,6 +169,7 @@ This appears to be the berthing area for arriving Japanese ships.
 Location on map: 6 Scotts Road
 <br>
 The Singapore branch of the Kuhara Mining Company (久原鑛業株式會碇; Kuhara Kōgyō Kabushiki Kaisha) was established in 1916. The company was founded in Japan in 1905 by Kuhara Fusanosuke (久原房之助), a prominent businessman and founder of several prominent Japanese companies, including Hitachi. As part of its overseas expansion plans, the company began conducting various explorations for oil and other mineral resources in the Dutch East Indies and Malaya. By 1920, its Singapore operations had grown to include the Kuhara Trading Company (久原商事株式會碇; Kuhara Shōji Kabushiki Kaisha).[^36]
+
 
 **Osaka Shosen Branch (**大阪商船支店**; Ōsaka Shōsen Shiten)**
 <br>
