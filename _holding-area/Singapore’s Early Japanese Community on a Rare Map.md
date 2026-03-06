@@ -35,6 +35,10 @@ The bookstore offered an extensive array of Japanese products ranging from newsp
 
 <div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. RRARE 952.03 LSB-[LSB]. Donated by Lim Shao Bin).</i></div>
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
+
+<div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore. </i></div>
+
 Kobunkan’s bestsellers revealed the community's continued links with Japan. Major newspapers such as _Asahi Shimbun_ (朝日新聞), _Osaka Mainichi_ (大阪毎日) and _Tokyo Nichi Nichi_ (東京日日) provided vital news from home. Literary and general interest magazines such as _The Sun_ (太陽; Taiyō), _The Central Review_ (中央公論; Chūō Kōron), _Reform_ (改造; Kaizō), and _Japan and the Japanese_ (日本及日本人; Nihon oyobi Nihonjin) attracted a steady readership among white-collar workers like employees of trading companies and banks.
 
 But perhaps more unusual was Kobunkan’s largest customer base – the _karayuki-san_.[^8] Sold into prostitution, these Japanese women lived and worked in Japanese brothels located in and around Malay Street, which was within walking distance to the bookstore. They typically favoured lifestyle and women’s magazines such as _Kodan World_ (講談世界; Kōdan Sekai), _Women’s World_ (婦人世界; Fujin Sekai) and _Friend of the Housewife_ (主婦の友; Shufu no Tomo).[^9]&nbsp;
@@ -61,6 +65,10 @@ This curious connection between Japanese fishcakes, kangaroos and Singapore beco
 Born in 1871 in Ehime Prefecture, Japan, Yamasaki first arrived in Singapore as a crew member aboard a British ship bound for India. Through a local broker in Singapore, Yamasaki secured work as a pearl diver in Broome, Western Australia, where the global demand for pearl buttons had created a booming industry that attracted many Japanese settlers.[^14] Yamasaki’s entrepreneurial drive soon led him to general trading, importing Japanese goods to Broome via shipping agents in Singapore and establishing the commercial network that would later pave his move to Singapore.
 
 Also, while in Australia, Yamasaki made a foray into Malayan rubber. His 300-acre Ehime Rubber Estate (愛媛ゴム園; Ehime Gomu-en), established between 1909 and 1910, was one of the earliest rubber plantation developments along the Johor River.[^15]
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_tokio.png" style="width: 40%;">
+
+<div style="background-color: white;">Madam Tokio, a shareholder of Chitose Rubber Estate, undated. <i>Image reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
 
 #### **The Move to Singapore**
 
