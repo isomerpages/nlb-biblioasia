@@ -24,6 +24,11 @@ The map had originally been published in January 1919 to commemorate Singapore�
 
 The publisher’s name, Kobunkan, appears on the map in both Japanese and English as 好文舘出版部 (Kōbunkan Shuppanbu; Kobunkan Publishing Department) and Kohbunkwan Singapore.[^5] Kobunkan was one of Singapore’s pioneering Japanese bookstores and publishers,[^6] with a long-established presence at 167 Middle Road.[^7] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_kobunkan.png" style="width: 80%;">
+
+<div style="background-color: white;">Kobunkan bookstore (2nd shophouse from the right) and Iroha Motorcar &amp; Co. (extreme right) at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 英領新架坡&nbsp; 好文館 いろは自動車&nbsp; 山﨑·竹井経営 [泰来當質店] (Eiryō Shingapōru Kōbunkan Iroha Jidōsha Yamasaki·Takei keiei [Tài Lái Dāng Zhìdiàn], which translates as “British-governed Singapore / Kobunkan and Iroha Motorcar / Managed by Yamsaki &amp; Takei / Chop Thai Loy Pawn Shop”. <i>Courtesy of Tanabe Tsukasa.</i></div>
+
+
 The bookstore offered an extensive array of Japanese products ranging from newspapers, magazines, books and maps to stationery and picture postcards. Its customers included the employees of leading Japanese firms in the commercial district of Raffles Place and Collyer Quay as well as small Japanese businesses clustered around Middle Road and North Bridge Road. The latter comprised medical and dental clinics, retail shops, grocery stores, photo studios, barbershops, tailors, hotels, inns and restaurants.
 
 Kobunkan’s bestsellers revealed the community's continued links with Japan. Major newspapers such as _Asahi Shimbun_ (朝日新聞), _Osaka Mainichi_ (大阪毎日) and _Tokyo Nichi Nichi_ (東京日日) provided vital news from home. Literary and general interest magazines such as _The Sun_ (太陽; Taiyō), _The Central Review_ (中央公論; Chūō Kōron), _Reform_ (改造; Kaizō), and _Japan and the Japanese_ (日本及日本人; Nihon oyobi Nihonjin) attracted a steady readership among white-collar workers like employees of trading companies and banks.
