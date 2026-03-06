@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2026:
     output: true
     order:
+      - "P Ramlee: The Singapore Years.md"
       - The Architect of Separation.md
       - The Great Clean up of the Singapore River.md
       - Got Milk? The School Milk Scheme in Singapore.md
