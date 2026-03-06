@@ -134,6 +134,11 @@ Location on map: 1 Battery Road
 <br>
 The Bank of Taiwan, operating under the Japanese colonial administration in Taiwan, became the first Japanese bank to establish operations in Singapore in 1912.[^31] The bank first opened at 100 Robinson Road before moving to Battery Road in 1916 where it was co-located with Mitsui Bussan Kaisha (三井物産会碇), the first Japanese trading company in Singapore.[^32] The Bank of Taiwan was formed in 1899 to serve as the central bank and development bank of Taiwan. It aimed to expand internationally to support Japan’s economic expansion into South China and the South Seas.[^33] The Singapore branch primarily handled foreign exchange transactions and loans to Japanese rubber planters and businessmen.[^34]
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bank.png" style="width: 80%;">
+
+<div style="background-color: white;">The Bank of Taiwan on Battery Road, c. 1930. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980001448 - 0067).</i></div>
+
+  
 **Bank of Taiwan Company House No. 1 (**台銀第一碇宅**;**&nbsp; **Taigin Daiichi Shataku)**
 <br>
 Location on map: Osborne House, 11 Upper Wilkie Road
