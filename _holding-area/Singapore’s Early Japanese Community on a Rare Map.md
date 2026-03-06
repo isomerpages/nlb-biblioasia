@@ -95,11 +95,20 @@ Location on map: 77 Bras Basah Road
 <br>
 The Japanese Commercial Museum was established in 1918 by the South Seas Association (南洋協会; Nan’yō Kyōkai) to further Japan’s commercial and trade expansion into the South Seas.[^25] Despite its name, the institution was not a museum in the conventional sense, but rather a showcase for Japanese-made merchandise.[^26]
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_museum.png" style="width: 80%;">
+
+<div style="background-color: white;">Japanese Commercial Museum. <i>Image reproduced from 南洋之産業. 壹之卷 = Tropical Industry (Nan’yō no Sangyō. Ichi no Ken). 新嘉坡: 新嘉坡商品陳列館 (Shingapōru: Shingapōru Shōhin Chinretsukan), 1920, 7. (From National Library Singapore, call no. RRARE 338.0595 NAN).</i></div>
+
+
 **Route to Japanese Cemetery (**日本人墓地行**;** **Nihonjin Bochi-yuki)**
 <br>
 Location on map: Serangoon Road
 <br>
 Serangoon Road is marked on the map as 日本人墓地行 (Route to the Japanese Cemetery), highlighting its importance as the main thoroughfare connecting Middle Road to the cemetery. The road served as the principal route for cemetery visitors and funeral processions travelling from Middle Road – where most of the early Japanese community lived and worked – to the cemetery in Yio Chu Kang. Notably, the cemetery, where many of Singapore's long-term Japanese residents were buried, was featured as a destination in Japanese guidebooks of the early 20th century.[^27] The cemetery stopped taking burials in 1973 and became the Japanese Cemetery Park in 1987.[^28] &nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_serangoon.png" style="width: 80%;">
+
+<div style="background-color: white;">Serangoon Road, the route to the Japanese Cemetery, c. 1911. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005502 - 0033).</i></div>
 
   
 
