@@ -37,6 +37,11 @@ But perhaps more unusual was Kobunkan’s largest customer base – the _karayuk
 
 Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese plantation workers in Johor and expatriate communities across British Malaya, the Dutch East Indies and British North Borneo.[^10] The bookstore was also the local distributor for Sakura Beer and the Kangaroo brand of canned Japanese fishcakes – _chikuwa_ and _kamaboko_.[^11]
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bookstore.png" style="width: 80%;">
+
+<div style="background-color: white;">Location of Kobunkan bookstore (circled in red) on Middle Road. <i>Image reproduced from 戦前シンガポールの日本人社会: 写真と記錄 = Prewar Japanese Community in Singapore: Photographs and Records (Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE). Courtesy of The Japanese Association Singapore.</i></div>
+
+
 #### **From Pearl Diver to Entrepreneur**
 
 This curious connection between Japanese fishcakes, kangaroos and Singapore becomes clear when we examine the life of Kobunkan’s founder Yamasaki Eijirō (山崎 榮治郎),[^12] whose remarkable journey took him from Japan to Singapore and Australia.[^13]&nbsp;
