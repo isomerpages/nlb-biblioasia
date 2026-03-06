@@ -33,7 +33,7 @@ In Krishnan’s _Penghidupan_ (Life, 1951), Ramlee played a morally ambiguous dr
 
 <img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_patahhati.png" style="width: 80%;">
 
-<div style="background-color: white;">Neng Yatimah and P. Ramlee in&nbsp;<i>Patah Hati</i>&nbsp;(Broken Heart,1952). Ramlee plays Kassim who has returned from his studies in England and falls in love with a florist, Rahimah. <i>Courtesy of Hilmi Johandi and Ota Fine Arts. </i></div>
+<div style="background-color: white;">Neng Yatimah and P. Ramlee in&nbsp;<i>Patah Hati</i>&nbsp;(Broken Heart,1952). Ramlee plays Kassim who has returned from his studies in England and falls in love with a florist, Rahimah. <i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
 
 
 B.N. Rao then cast him in some of his most compelling early performances, notably in _Hujan Panas_ (Hot Rain, 1953) where he portrayed Amir, a musician lured by fame and undone by desire. This was followed by Malay Film Productions lavish Eastmancolor project, _Hang Tuah_ (1956), where he took on the titular role as the 15th-century Melakan warrior.[^8]
@@ -109,7 +109,7 @@ Ramlee’s first marriage, to actress Junaidah Daeng Harris in 1950, was solemni
 
 Later that year, he married singer-actress Saloma, born Salmah Ismail, in Pasir Panjang.[^24] The couple moved to 28 Cedar Avenue, a four-room terraced house rented by Shaw Brothers and only half an hour from the studio on Jalan Ampas. Their work together on stage and screen made them one of the most admired pairs of the era. Between filming, composing and late-night rehearsals, Ramlee relaxed with poker and mahjong among friends, living a life modest in its pleasures yet rich in companionship. In these domestic rhythms, Singapore became more than a workplace. Yet he left.
 
-<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_saloma.png" style="width: 70%;">
+<img src="/images/Vol%2022%20Issue%201/Ramlee/ramlee_saloma.png" style="width: 80%;">
 
 <div style="background-color: white;">The singer-actress Saloma, 1960s. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
