@@ -176,7 +176,7 @@ Scan the QR code to find out details of the inset map. Discover more about the p
 
 #### **Notes**
 
-[^1]: 版部 (Shingapōru: Kōbunkan Shuppanbu), \[1920\]. (From National Library Singapore, call no. RRARE 912.5957 MAP).
+[^1]: 新嘉坡市街地圖 = Map of Singapore (Shingapōru Shigai Chizu). 新嘉坡: 好文舘出版部 (Shingapōru: Kōbunkan Shuppanbu), \[1920\]. (From National Library Singapore, call no. RRARE 912.5957 MAP).
 
 [^2]: Fraser and Neave Limited, [_Map of Singapore Showing the Principal Residences and Places of Interests_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad), 1913, map. (From National Archives of Singapore, accession no. SP006064)&nbsp;
 
