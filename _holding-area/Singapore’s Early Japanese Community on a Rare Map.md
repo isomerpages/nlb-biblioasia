@@ -72,6 +72,10 @@ In May 1913, Yamasaki relocated his operations to the more spacious 167 Middle R
 
 Yamasaki’s entrepreneurial ambitions were not confined to general trade and books alone. In 1913, he established Iroha Motorcar &amp; Co. (いろは自動車商会; Iroha Jidōsha Shōkai),[^21] which employed Malay drivers to provide transportation services tailored specifically to the Japanese community’s needs. These included trips to and from the Japanese cemetery for funerals, visits to the entertainment and red-light districts,[^22] recreational drives for _karayuki-san_ and passenger transfers for European vessels docked at the Singapore harbour. The growth in the business led to its expansion and he leased the adjacent shophouse unit at 168 Middle Road.&nbsp; &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary.png" style="width: 70%;">
+
+<div style="background-color: white;">The Japanese Cemetery (top) and&nbsp;Chief Priest Chisen Otsuka of Saiyūji Temple (bottom), 1910s. <i>Images reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
+
 #### **The End of an Era**
 
 In 1920, Yamasaki and his wife left Singapore, presumably to return permanently to Japan. The local Japanese newspaper carried a farewell notice where he expressed his gratitude to the community for their send-off. His departure marked the beginning of a decline of his businesses. Entrusted to co-manager Takei Kurayoshi (竹井庫敬) and others, these businesses struggled against the economic headwinds of the early 1920s – a slump in rubber prices and the 1920 ban on Japanese prostitution – before finally closing in 1923.[^23]
