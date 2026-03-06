@@ -50,7 +50,7 @@ Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese pl
 
 This curious connection between Japanese fishcakes, kangaroos and Singapore becomes clear when we examine the life of Kobunkan’s founder Yamasaki Eijirō (山崎 榮治郎),[^12] whose remarkable journey took him from Japan to Singapore and Australia.[^13]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_portrait.png" style="width: 60%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_portrait.png" style="width: 40%;">
 
 <div style="background-color: white;">Portrait of Yamasaki Eijirō from a postcard of his general store in Broome, Western Australia, c. 1909. <i>Photo by Aussie~mobs. From flickr.</i></div>
 
