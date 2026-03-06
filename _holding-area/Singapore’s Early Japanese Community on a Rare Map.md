@@ -7,6 +7,11 @@ description: ""
 #### A rare Japanese-English street map of Singapore tells the forgotten stories of the early Japanese community who left their mark here in the early 20th century.&nbsp;
 By Gracie Lee
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_main.png" style="width: 80%;">
+
+<div style="background-color: white;">Detail from the map titled <i>Map of Singapore</i> = 新嘉坡市街地圖 (<i>Shingapōru Shigai Chizu</i>), likely published in 1920. It is one of the earliest Japanese street maps of Singapore.<i> (From National Library Singapore, call no.RRARE 912.5957 MAP).   </i></div>
+
+
 Within the National Library’s Rare Materials Collection lies a cartographic treasure that opens a window into Singapore’s multicultural past. The map titled _Map of Singapore_ \= 新嘉坡市街地圖 (_Shingapōru Shigai Chizu_) tells a story of the thriving Japanese diaspora that once called this bustling port city home.[^1]
 
 The undated work, measuring 54 cm by 79 cm, was likely published in 1920, making it one of the earliest Japanese street maps of Singapore. Drawn to a scale of 1:5 miles, the map presents a detailed layout of Singapore town, accompanied by an inset map of the island of Singapore. The map appears to be an adaptation of Fraser and Neave’s 1913 _Map of Singapore Showing the Principal Residences and Places of Interest_,[^2] with four significant additions: the inset map, Japanese place names as well as railway and tramway lines.
