@@ -80,110 +80,93 @@ Location on map: Short Street
 <br>
 The Japanese Association, established in 1915, and the Japanese School, founded in 1912, were both situated on Short Street. The association operated from Short Street between 1918 and 1920, while the school remained there until 1921. The school was first located on Middle Road before moving to Bencoolen Street, Wilkie Road and then Short Street.[^24] &nbsp;
 
-A cornerstone of the Japanese community, the association managed the Japanese School, maintained the Japanese cemetery from 1917 onward and established the Japanese Club in 1922. The association played a pivotal role in fostering the social and cultural life of the Japanese community in Singapore. The association is located on Adam Road today, while the school has three campuses in Clementi, Changi and West Coast.&nbsp;
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_elementary.png" style="width: 80%;">
 
+<div style="background-color: white;">Japanese Elementary School, 1910s. <i>Image reproduced from 伊藤友治郎 (Itō Tomojirō), 南洋群嶋写真画帖: 附南洋事情 = Picture Book of the South Sea Islands (Nan’yō Guntō Shashin Gachō: Fu Nan’yō Jijō). 英領ペナン市: 南洋調査会 (Eiryō Penan-shi: Nan’yō Chōsakai), 1914, 6. (From National Library Singapore, call no. RRARE 959 ITO).</i></div>
+
+
+A cornerstone of the Japanese community, the association managed the Japanese School, maintained the Japanese cemetery from 1917 onward and established the Japanese Club in 1922. The association played a pivotal role in fostering the social and cultural life of the Japanese community in Singapore. The association is located on Adam Road today, while the school has three campuses in Clementi, Changi and West Coast.&nbsp;
+<br><br>
   
 
 **Japanese Commercial Museum (**日本商品陳列舘**;**&nbsp; **Nihon Shōhin Chinretsu-kan)**
-
+<br>
 Location on map: 77 Bras Basah Road
-
-  
-
+<br>
 The Japanese Commercial Museum was established in 1918 by the South Seas Association (南洋協会; Nan’yō Kyōkai) to further Japan’s commercial and trade expansion into the South Seas.[^25] Despite its name, the institution was not a museum in the conventional sense, but rather a showcase for Japanese-made merchandise.[^26]
 
 **Route to Japanese Cemetery (**日本人墓地行**;** **Nihonjin Bochi-yuki)**
-
+<br>
 Location on map: Serangoon Road
-
-  
-
+<br>
 Serangoon Road is marked on the map as 日本人墓地行 (Route to the Japanese Cemetery), highlighting its importance as the main thoroughfare connecting Middle Road to the cemetery. The road served as the principal route for cemetery visitors and funeral processions travelling from Middle Road – where most of the early Japanese community lived and worked – to the cemetery in Yio Chu Kang. Notably, the cemetery, where many of Singapore's long-term Japanese residents were buried, was featured as a destination in Japanese guidebooks of the early 20th century.[^27] The cemetery stopped taking burials in 1973 and became the Japanese Cemetery Park in 1987.[^28] &nbsp;
 
   
 
 **Japanese Consulate (**領事舘**; Ryōjikan)**
-
+<br>
 Location on map: Raffles Chambers, Raffles Place
-
-  
-
+<br>
 The Japanese Consulate established its office in Raffles Chambers in 1917, one of several locations it would occupy since its founding in 1879. The consulate’s first premises was on North Bridge Road where Hoo Ah Kay (popularly known as Whampoa) served as the first honorary Japanese Consul. Following Hoo’s death in 1880, the position was left vacant until Nakagawa Tsunejirō (中川恒次郎) was appointed as the first acting consul in 1889, with his office situated on Sophia Road.[^29]
 
   
 
 **Mitsubishi Branch Office (**三菱出張所**; Mitsubishi Shutchōjo)**
-
+<br>
 Location on map: Raffles Chambers, Raffles Place
-
-  
-
+<br>
 Trading company Mitsubishi established a representative office in Singapore in 1917 after identifying Singapore as its strategic base for expansion into British Malaya, the Dutch East Indies and India. This move was part of a broader trend of Japanese trading companies and merchants setting up operations in Raffles Place and High Street during the late 1910s to capitalise on the growing demand for Japanese goods during and after the First World War (1914–18). Reduced trade between Singapore and Europe during the war had created an opportunity for Japan to increase its commercial presence in Southeast Asia.[^30]
 
   
 
 **Bank of Taiwan Branch (**台銀支店**; Taigin Shiten)**
-
+<br>
 Location on map: 1 Battery Road
-
-  
-
+<br>
 The Bank of Taiwan, operating under the Japanese colonial administration in Taiwan, became the first Japanese bank to establish operations in Singapore in 1912.[^31] The bank first opened at 100 Robinson Road before moving to Battery Road in 1916 where it was co-located with Mitsui Bussan Kaisha (三井物産会碇), the first Japanese trading company in Singapore.[^32] The Bank of Taiwan was formed in 1899 to serve as the central bank and development bank of Taiwan. It aimed to expand internationally to support Japan’s economic expansion into South China and the South Seas.[^33] The Singapore branch primarily handled foreign exchange transactions and loans to Japanese rubber planters and businessmen.[^34]
 
 **Bank of Taiwan Company House No. 1 (**台銀第一碇宅**;**&nbsp; **Taigin Daiichi Shataku)**
-
+<br>
 Location on map: Osborne House, 11 Upper Wilkie Road
-
-  
-
+<br>
 Known today as Mount Emily Villa, Osborne House served as the residence of the manager of the Bank of Taiwan during the late 1910s and then as the home of Singapore-based Japanese dentist Ikeda Jūkichi (池田重吉) in 1935. It later housed the Japanese Consulate-General between 1939 and 1941. After the Japanese Occupation, the building was used by the Ministry of Social Affairs’ Social Welfare Department. In 1969, Mount Emily Girls’ Home occupied the space followed by Wilkie Road Children’s Home in the 1980s.[^35] Today, the premises are occupied by The Private Museum.
 
   
 
 **Japanese Ship Wharf (**日本舩ワーフ**; Nihon Fune Wāfu)**
-
+<br>
 Location on map: Tanjong Pagar Wharves
-
-  
-
+<br>
 This appears to be the berthing area for arriving Japanese ships.
 
   
 
 **Kuhara Branch Office (**久原出張所**; Kuhara Shutchōjo)**
-
+<br>
 Location on map: 6 Scotts Road
-
-  
-
+<br>
 The Singapore branch of the Kuhara Mining Company (久原鑛業株式會碇; Kuhara Kōgyō Kabushiki Kaisha) was established in 1916. The company was founded in Japan in 1905 by Kuhara Fusanosuke (久原房之助), a prominent businessman and founder of several prominent Japanese companies, including Hitachi. As part of its overseas expansion plans, the company began conducting various explorations for oil and other mineral resources in the Dutch East Indies and Malaya. By 1920, its Singapore operations had grown to include the Kuhara Trading Company (久原商事株式會碇; Kuhara Shōji Kabushiki Kaisha).[^36]
 
 **Osaka Shosen Branch (**大阪商船支店**; Ōsaka Shōsen Shiten)**
-
+<br>
 Location on map: 2 De Souza Street
-
-  
-
+<br>
 Osaka Shosen Kaisha was one of Japan’s major shipping companies that operated alongside the Nippon Yusen Kaisha (日本郵船会碇) in Singapore. In 1918, the company established its Singapore branch office at 2 De Souza Street,[^37] increasing its commercial shipping presence in the region. Prior to this expansion, local agent Guthrie and Co. had managed the company’s shipping routes.[^38]
 
   
 
 **Mitsui Company House No. 1 (**三井第一碇宅**; Mitsui Daiichi Shataku****)**
-
+<br>
 Location on map: Draycot, Stevens Road
-
-  
-
+<br>
 Draycot was once the residence of the manager of Mitsui Bussan Kaisha (三井物産会碇).&nbsp; The property was more than a residential space; it was also a venue for hosting distinguished guests and business networking. Notable visitors included Dr Lim Boon Keng, a leader of the Chinese community in Singapore, and Marquis Saionji, a prominent Japanese statesman who stayed at Draycot while travelling to the 1919 Paris Peace Conference after the First World War.[^39]
 
 As Singapore’s first Japanese trading company, Mitsui Bussan Kaisha began with a modest representative office at 8 Battery Road in 1891, occupying the upper floors of the Dispensary Building. Its initial aim was to secure contracts with European steamship companies to supply coal from Japan’s largest coal mine, the Miike Mine. As business grew, Mitsui diversified into shipping, accounting, communications, insurance brokerage, and the import-export of various goods, including rice, electrical supplies, metals and metallic ores, marine products and textiles. The company’s growing influence in Singapore’s colonial business society earned it a place in the Singapore Chamber of Commerce in 1911.[^40] 
 
 **Consular Residence (**領事官舍**; Ryōji-kansha****)**
-
+<br>
 Location on map: Kinloss, Lady Hill, Orange Grove
-
-  
-
+<br>
 Kinloss was constructed in 1903 as the private residence of Lieutenant-Colonel Alexander Murray, the colonial engineer and surveyor-general of the Straits Settlements.[^41] Following Murray’s departure from Singapore in 1906, the house became the residence of the Japanese Consul from 1909 to the 1920s.[^42] During this period, Kinloss hosted several significant diplomatic events, including local celebrations of the Japanese Emperor’s birthday and the coronation of Emperor Taishō in 1915. The residence also welcomed prominent guests, notably Prince Asaka Yasuhiko (朝香宮鳩彦王; Asaka-no-miya Yasuhiko-ō) during his stopover in Singapore in 1922 while en route to France for military studies.[^43]
 
 
