@@ -52,11 +52,9 @@ In 1920, Yamasaki and his wife left Singapore, presumably to return permanently 
 #### **Mapping a Community: Main Map**
 
 **The Japanese Association (**日本人會**; Nihonjin-kai) and the Japanese Elementary School (**日本人小學校**;**&nbsp; **Nihonjin Shōgakkō)**
-
+<br>
 Location on map: Short Street
-
-  
-
+<br>
 The Japanese Association, established in 1915, and the Japanese School, founded in 1912, were both situated on Short Street. The association operated from Short Street between 1918 and 1920, while the school remained there until 1921. The school was first located on Middle Road before moving to Bencoolen Street, Wilkie Road and then Short Street.[^24] &nbsp;
 
 A cornerstone of the Japanese community, the association managed the Japanese School, maintained the Japanese cemetery from 1917 onward and established the Japanese Club in 1922. The association played a pivotal role in fostering the social and cultural life of the Japanese community in Singapore. The association is located on Adam Road today, while the school has three campuses in Clementi, Changi and West Coast.&nbsp;
@@ -173,8 +171,6 @@ Scan the QR code to find out details of the inset map. Discover more about the p
 </div>
 
 
-
-<br><br>
 <div style="background-color: white;">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library Singapore, where she works with the Rare Collection. She enjoys uncovering and sharing the stories behind Singapore’s print heritage.</div>
 
