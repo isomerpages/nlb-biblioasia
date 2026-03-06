@@ -1184,4 +1184,14 @@ sections:
       url: https://youtu.be/OPiq1Uf6J_Y?si=gqRnAQwow4xabxtN
       image: "/images/Videos: BiblioAsia Reels/Toa_Payoh_Library.jpg"
       alt: Toa Payoh Library
+  - infopic:
+      title: New Books on Singapore History (Apr 2026)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at eight new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-22/issue-1/apr-jun-2026/new-books-on-singapore-history/
+      image: /images/Vol 22 Issue 1/New Books/new books_apr26.png
+      alt: New Books on Singapore History
 ---
