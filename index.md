@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/
-      button: "Wandering Wood: The Transoceanic Pollination of the Double Coconut"
+      url: /vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/
+      button: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
