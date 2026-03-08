@@ -19,6 +19,16 @@ sections:
         Philanthropist/HeroImage_Philanthropist_4.jpg
       variant: center
   - infopic:
+      title: Toa Payoh Library, the Second Branch Library
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: The library has served generations of patrons and was once home to
+        the 7th SEAP Games Secretariat.
+      button: A landmark in the heartlands
+      url: https://youtu.be/OPiq1Uf6J_Y?si=gqRnAQwow4xabxtN
+      image: "/images/Videos: BiblioAsia Reels/Toa_Payoh_Library.jpg"
+      alt: Toa Payoh Library
+  - infopic:
       title: Architect of Separation
       subtitle: People
       id: infopic
@@ -1175,16 +1185,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Toa Payoh Library, the Second Branch Library
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: The library has served generations of patrons and was once home to
-        the 7th SEAP Games Secretariat.
-      button: A landmark in the heartlands
-      url: https://youtu.be/OPiq1Uf6J_Y?si=gqRnAQwow4xabxtN
-      image: "/images/Videos: BiblioAsia Reels/Toa_Payoh_Library.jpg"
-      alt: Toa Payoh Library
   - infopic:
       title: New Books on Singapore History (Apr 2026)
       subtitle: Literature
