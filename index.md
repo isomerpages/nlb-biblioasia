@@ -9,14 +9,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/
-      button: "Wandering Wood: The Transoceanic Pollination of the Double Coconut"
+      url: /vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/
+      button: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 4/Wandering Wood/HeroImage_Coconut.jpg
+      background: /images/Vol 21 Issue 4/A Pioneering
+        Philanthropist/HeroImage_Philanthropist_4.jpg
       variant: center
+  - infopic:
+      title: Toa Payoh Library, the Second Branch Library
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: The library has served generations of patrons and was once home to
+        the 7th SEAP Games Secretariat.
+      button: A landmark in the heartlands
+      url: https://youtu.be/OPiq1Uf6J_Y?si=gqRnAQwow4xabxtN
+      image: "/images/Videos: BiblioAsia Reels/Toa_Payoh_Library.jpg"
+      alt: Toa Payoh Library
   - infopic:
       title: Architect of Separation
       subtitle: People
@@ -1174,16 +1185,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: Toa Payoh Library, the Second Branch Library
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: The library has served generations of patrons and was once home to
-        the 7th SEAP Games Secretariat.
-      button: A landmark in the heartlands
-      url: https://youtu.be/OPiq1Uf6J_Y?si=gqRnAQwow4xabxtN
-      image: "/images/Videos: BiblioAsia Reels/Toa_Payoh_Library.jpg"
-      alt: Toa Payoh Library
   - infopic:
       title: New Books on Singapore History (Apr 2026)
       subtitle: Literature
