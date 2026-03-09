@@ -1186,16 +1186,6 @@ sections:
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
   - infopic:
-      title: New Books on Singapore History (Apr 2026)
-      subtitle: Literature
-      id: infopic
-      description: A quick look at eight new books available in the National Library’s
-        collection.
-      button: New Reads
-      url: /vol-22/issue-1/apr-jun-2026/new-books-on-singapore-history/
-      image: /images/Vol 22 Issue 1/New Books/new books_apr26.png
-      alt: New Books on Singapore History
-  - infopic:
       title: "P. Ramlee: The Singapore Years"
       subtitle: Arts
       id: infopic
@@ -1206,4 +1196,14 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/p-ramlee-singer-actor-filmmaker-director-singapore/
       image: /images/Vol 22 Issue 1/Ramlee/ramlee_still2.png
       alt: "P. Ramlee: The Singapore Years"
+  - infopic:
+      title: New Books on Singapore History (Apr 2026)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at eight new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-22/issue-1/apr-jun-2026/new-books-on-singapore-history/
+      image: /images/Vol 22 Issue 1/New Books/New_Books_Apr26.jpg
+      alt: New Books on Singapore History
 ---
