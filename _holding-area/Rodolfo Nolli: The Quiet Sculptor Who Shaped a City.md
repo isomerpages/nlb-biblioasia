@@ -8,9 +8,7 @@ description: ""
 
 By Nicola Kanmany John
 
-A
-
-lthough he was not an architect, the works of Rodolfo Nolli can be found in buildings all over Singapore. Details and ornamentation by this Italian sculptor and stonework contractor can be seen at the former Supreme Court building, the old King Edward VII College of Medicine, the Fullerton Hotel and other 20th-century landmarks.
+Although he was not an architect, the works of Rodolfo Nolli can be found in buildings all over Singapore. Details and ornamentation by this Italian sculptor and stonework contractor can be seen at the former Supreme Court building, the old King Edward VII College of Medicine, the Fullerton Hotel and other 20th-century landmarks.
 
 Nolli’s contributions to the old Supreme Court building (restored with the former City Hall building and now part of the National Gallery Singapore) are perhaps the easiest to observe. In addition to the Corinthian columns which make the facade so grand, Nolli worked on the relief (a wall-mounted sculpture raised from a flat base) in the tympanum, which is the triangular decorative section just above the columns. The sculpture shows Lady Justice holding weighing scales and a sword – symbolising law and judgment – alongside figures reacting to her judgment (see photograph on page 39).1&nbsp; &nbsp;
 
@@ -185,4 +183,4 @@ _With thanks to the Ngee Ann Kongsi Library staff at Lasalle College of the Arts
 
 [^37]: 
 
-[^38]: 
+[^38]:
