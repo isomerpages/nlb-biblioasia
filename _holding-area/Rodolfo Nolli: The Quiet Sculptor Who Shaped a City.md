@@ -16,7 +16,7 @@ Nolli may not be familiar to many today but the Italian sculptor made a name for
 
 “Rodolfo Nolli, a young Italian sculptor with his head full of dreams and glory, left Milan 36 years ago to seek fame, fortune and adventure in the Far East,” the _Singapore Free Press_ wrote in July 1949.3 In this, he certainly succeeded.
 
-A Head Start in Sculptural Work
+#### **A Head Start in Sculptural Work**
 
 Nolli was born in Lombardy in northern Italy in 1888 to an extended family with an affinity for sculpture. His maternal uncle, Vittorio Novi, and granduncle did sculptural work in Milan, including for the Milan Cathedral (Duomo di Milano), and many of their contributions can still be seen in Lombardy today.4 Nolli’s move to Southeast Asia was also inspired by Novi.&nbsp;
 
@@ -28,7 +28,7 @@ It was only in May 1924, when Nolli created the “plaster ornamentation” for 
 
 This was in response to an article from three days earlier in which the _Straits Times_ reported that “a well-known Italian sculptor” had discovered “a Roman vase at least 1,900 years old and worth at least $1000” in Dop’s collection.9&nbsp; Evidently, Nolli felt that he was famous enough by this time for readers to assume that this description applied to him. (The fact that the requested clarification was published suggests that the newspaper agreed with this assessment to at least a moderate extent.) But Nolli’s name was not universally known by any means: earlier in October 1925, the _Straits Budget_ had to issue a correction that “Signor Nolli executed the plaster design of the Union Building illustrated in our last issue, and not Signor Valli as we stated”.10 &nbsp;
 
-Famous Works
+#### **Famous Works**
 
 In February 1926, when the King Edward VII College of Medicine opened, the _Singapore Free Press and Mercantile Advertiser_ described Nolli as “the Italian sculptor who was responsible for the sculpture” of the new building. Among the decorative details Nolli fashioned for the facade is an eagle encircled by a wreath, which bears a striking resemblance to 18th-century decorative details of the Royal Villa of Monza near Milan. Nolli also made a “presentation key” designed by Major P.H. Keys – a replica of an ancient Roman statue known as the Minerva Medica – for the official opening of the new building.11 &nbsp;
 
@@ -48,7 +48,7 @@ In 1951, Nolli designed and made the coat of arms for three High Court halls whi
 
 Altogether, Rodolfo Nolli lived and worked in Singapore for more than 30 years. In February 1964, Nolli died in Italy at the age of 75. The _Straits Times_ report of his passing noted that the sculptor spent “nearly half his lifetime in Singapore” and listed several of his more prominent works in Singapore, Kuching and Kuala Lumpur.21 &nbsp;
 
-Nolli the Celebrity
+#### **Nolli the Celebrity**
 
 Outside of his prolific career, newspaper coverage of Nolli’s life and work in Singapore reveals a wealth of detail about his day-to-day life, his social calendar and even the various celebrities who crossed his path over his several decades here. In the news, his fame was consistently linked to his achievements as an artist: Nolli was often referred to as “well known sculptor R. Nolli” (or Cav. Nolli or Signor Nolli) regardless of whether the incident being reported had anything to do with his profession. The amount of media attention he received was certainly beyond the norm for artists based in Singapore not only during the 1920s but at any point since then. The extensive coverage of Nolli’s life and work testifies both to the strong media interest in architectural development in Singapore and his connections with interesting and influential people in the Italian and other expatriate communities in Singapore at the time.
 
@@ -70,7 +70,7 @@ Besides tennis, Nolli also took an interest in horse racing; his name was mentio
 
 Curiously, none of the many reports about Nolli’s life and work in Singapore made even a passing mention of his wife. His daughter Lina Nolli, however, became a minor celebrity almost as soon as she arrived in Singapore. In May 1936, the _Singapore Free Press and Mercantile Advertiser_ reported that “Miss Nolli, daughter of Cav. Rodolfo Nolli” had arrived in Singapore upon completing her studies in Rome and was planning to live with her father for the foreseeable future. She received many more mentions in the society pages of the _Singapore Free Press and Mercantile Advertiser_, including a photograph from her 21st birthday party. While no mention has been found of Nolli’s wife, the death of his mother in Genoa merited an announcement in the _Straits Times_ in April 1932.30
 
-Nolli’s Legacy Today
+#### **Nolli’s Legacy Today**
 
 Many of Nolli’s works can still be seen at or close to the sites for which he made them. Apart from the tympanum and Corinthian columns of the former Supreme Court, he also created the Corinthian columns of the former City Hall building. The General Post Office is now the Fullerton Hotel, while the former St Anthony’s Convent is presently home to the National Design Centre. Similarly, the pair of lions that Nolli sculpted for the Bank of China can still be seen at the bank’s main branch on Battery Road.&nbsp;
 
@@ -99,88 +99,90 @@ _With thanks to the Ngee Ann Kongsi Library staff at Lasalle College of the Arts
 
 <br><br>
 <div style="background-color: white;">
-<b>Alvin Tan</b>&nbsp;is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> (Talisman Publishing, 2nd edition, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
+<b>Dr Nicola Kanmany John</b>&nbsp;is an art historian based in Singapore. As a Lee Kong Chian Research Fellow in 2024/25, she investigated the coverage of art and exhibition culture in newspapers from Singapore and Malaya between the 1860s and 1960s. Her PhD thesis (University of St Andrews, 2022) examined the emergence of modernism in the art and art history of the Philippines. Her current research explores Filipino art and architecture from the 19th and 20th centuries.</div>
 
 #### **Notes**
 
-[^1]: 
+[^1]: “Nolli: The Man with a Dream,” _Singapore Free Press_, 1 July 1949, 5; “Crest and Creator,” _Singapore Standard_, 12 May 1952, 2. (From NewspaperSG)
 
-[^2]: 
+[^2]: “The Duce’s Daughter in Singapore,” _Straits Budget_, 9 October 1930, 17; “Man-eating Tiger Shot in Johore,” _Straits Budget_, 9 July 1931, 17. (From NewspaperSG)
 
-[^3]: 
+[^3]: “Nolli: The Man with a Dream.”&nbsp;
 
-[^4]: 
+[^4]: “Nolli: The Man with a Dream.”&nbsp;
 
-[^5]: 
+[^5]: Jon S.H. Lim, “Cavalori Rudolfo Nolli: A Sculptor and Entrepreneur,” in _Architecture Journal_, ed. Lo Ching Ning and T.K. Sabapathy (Singapore: National University of Singapore, 1985), 10–17, 12. &nbsp;
 
-[^6]: 
+[^6]: “Ocean Building, Holt Company’s Enterprise in Singapore,” _Straits Budget_, 22 December 1922, 8. (From NewspaperSG)
 
-[^7]: 
+[^7]: “The New Sailors’ Institute,” _Straits Times_, 16 May 1924, 9. (From NewspaperSG)
 
-[^8]: 
+[^8]: “Untitled,” _Straits Times_, 21 December 1925, 4. (From NewspaperSG)
 
-[^9]: 
+[^9]: “Untitled,” _Straits Times_, 18 December 1925, 8. (From NewspaperSG)
 
-[^10]: 
-
-
-
-[^11]: 
-
-[^12]: 
-
-[^13]: 
-
-[^14]: 
-
-[^15]: 
-
-[^16]: 
-
-[^17]: 
-
-[^18]: 
-
-[^19]: 
-
-[^20]: 
+[^10]: “Local and Personal,” _Straits Budget_, 2 October 1925, 1. (From NewspaperSG)
 
 
 
-[^21]: 
-
-[^22]: 
-
-[^23]: 
-
-[^24]: 
-
-[^25]: 
-
-[^26]: 
-
-[^27]: 
-
-[^28]: 
-
-[^29]: 
-
-[^30]: 
+[^11]: “New Medical College,“ _Singapore Free Press and Mercantile Advertiser_, 16 February 1926, 9. (From NewspaperSG); “Overdoor with Eagle and Laurel Wreath (One of a Pair),” The Met, accessed 12 January 2026, https://www.metmuseum.org/art/collection/search/845847.
 
 
+[^12]: “Nolli: The Man with a Dream.”&nbsp;
 
-[^31]: 
+[^13]: Lim, “Cavalori Rudolfo Nolli: A Sculptor and Entrepreneur,” 15.
 
-[^32]: 
+[^14]: “Nolli: The Man with a Dream”; “Crest and Creator,” _Singapore Standard_, 12 May 1952, 2. (From NewspaperSG)
 
-[^33]: 
+[^15]: “Nolli: The Man with a Dream.” &nbsp;
 
-[^34]: 
+[^16]: “22 Italians Detained,” _Straits Times_, 12 June 1940, 10. (From NewspaperSG)
 
-[^35]: 
+[^17]: “Nolli: The Man with a Dream.”&nbsp;
 
-[^36]: 
+[^18]: “High Court Gets Coat of Arms,” _Straits Times_, 29 December 1951, 8. (From NewspaperSG)&nbsp;
 
-[^37]: 
+[^19]: “Crest and Creator”; Lina Brunner, “Sculpture at St Anthony’s Convent, Singapore, by Italian Sculptor Rodolfo Nolli,” 1952, photograph. (From National Archives of Singapore, accession no. 144619)
 
-[^38]:
+[^20]: “Sculptor Rodolfo Nolli Dies in Italy,” _Straits Times_, 19 February 1964, 10. (From NewspaperSG); Lim, “Cavalori Rudolfo Nolli: A Sculptor and Entrepreneur,” 17.
+
+
+
+[^21]: “Sculptor Rodolfo Nolli Dies in Italy.”&nbsp;
+
+[^22]: “Arctic Explorers’ Ordeal,” _Straits Times_, 20 June 1928, 9. (From NewspaperSG)
+
+[^23]: “The Duce’s Daughter in Singapore”; “Woman’s Part in a Fascist State,” _Straits Times_, 2 October 1930, 11. (From NewspaperSG)
+
+[^24]: “Artistes’ Wedding,” _Straits Budget_, 10 February 1927, 23. (From NewspaperSG)
+
+[^25]: “Man-eating Tiger Shot in Johore.”&nbsp;
+
+[^26]: “A Woman Peeps at Singapore,” _Sunday Tribune (Singapore)_, 22 April 1934, 9. (From NewspaperSG)
+
+[^27]: “Meyer Road Car Smash,” _Malaya Tribune_, 22 October 1934, 12; “Singapore Golden Wedding Celebration,” _Sunday Tribune (Singapore)_, 28 October 1934, 24; “Sequel to Car Smash in Meyer Road,” _Singapore Free Press and Mercantile Advertiser_, 24 October 1934, 6; “Mr. Aw Boon Haw,” _Malaya Tribune_, 23 October 1934, 13. (From NewspaperSG)
+
+
+[^28]: “L.L.T.C. Tournament,” _Singapore Free Press and Mercantile Advertiser_, 23 June 1927, 16; “Tennis,” _Straits Times_, 24 November 1927, 11; “Chinese New Year Tennis Tourney Begins,” _Morning Tribune_, 9 February 1940, 13. (From NewspaperSG)
+
+[^29]: Statistics For S.T.C. Extra Meeting,” _Singapore Free Press and Mercantile Advertiser_, 19 September 1938, 12; “Around the Town with Mignon,” _Singapore Free Press and Mercantile Advertiser_, 2 September 1938, 4. (From NewspaperSG)
+
+[^30]: Around the Town,” _Singapore Free Press and Mercantile Advertiser_, 1 May 1936, 4; “Notes from Fraser’s Hill,” _Sunday Tribune (Singapore)_, 13 June 1937, 11; “Death,” _Straits Times_, 21 April 1932, 11. (From NewspaperSG)
+
+
+
+[^31]: Lai Chee Kien, an architectural and urban historian and writer, made this observation during a talk at the National Gallery Singapore in 2020: “Do you realise there’s something quite interesting about the Lady of Justice? She’s not blindfolded. Justice may not be blind in Singapore, is that what it’s saying? I don’t know, okay, don’t kill me. I’m just the messenger.” (The original talk was given in 2020 but is also available as a podcast). See Lai Chee Kien, “Murals and Architecture in Singapore and Malaysia, 1945–1969,” _The Padang Sessions_, 1 February 2023, video, 46:00, National Gallery Singapore, https://podcasts.apple.com/be/podcast/murals-and-architecture-in-singapore-and-malaysia/id1535734112?i=1000597483584. &nbsp;
+
+[^32]: Desmond Manderson, “Blind Justice,” _McGill Law Journal_ 66, no. 1 (January 2020): 5, https://www.erudit.org/en/journals/mlj/2020-v66-n1-mlj06426/1082030ar/.
+
+[^33]: Britannica Editors, “Minerva,” _Encyclopedia Britannica_, 6 November 2025, https://www.britannica.com/topic/Minerva-Roman-goddess.
+
+[^34]: “Commerce: Relief from Medeiros Building, Cecil Street,” National Gallery Singapore, accessed 8 February 2026, https://www.nationalgallery.sg/sg/en/our-collections/search-collection.artwork.html/national-collection/rudolfo-nolli/2016/2016-00367.tif.html.
+
+[^35]: Stephanie Yeo, “Landmarks for All, from Old Girls to Food Lovers,” _Straits Times_, 11 October 1996, 6. (From NewspaperSG)
+
+[^36]: National Heritage Board, “The Merdeka Bridge,” 1960s–1980s, photograph, Roots, last updated 15 October 2020, https://www.roots.gov.sg/Collection-Landing/listing/1193824; “Missing,” _Straits Times_, 23 May 1993, 22. (From NewspaperSG)&nbsp;
+
+[^37]: “Two Lions Will Keep Watch on Motorists,” _Straits Times_, 1 July 1956, 11; “‘Freedom’ Guardian,” _Singapore Standard_, 23 August 1956, 5. (From NewspaperSG). \[Note: this article erroneously gives the sculptor’s name as Raoul Eigazzi.\]
+
+[^38]: Marjorie Doggett, _Characters of Light: Early Buildings of Singapore_ (Singapore: Times Books International, 1985), 4–5. (From National Library Singapore, call no. RSING 722.4095957 DOG)
