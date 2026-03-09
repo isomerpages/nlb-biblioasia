@@ -1193,7 +1193,7 @@ sections:
         collection.
       button: New Reads
       url: /vol-22/issue-1/apr-jun-2026/new-books-on-singapore-history/
-      image: /images/Vol 22 Issue 1/New Books/new books_apr26.png
+      image: /images/Vol 22 Issue 1/New Books/New_Books_Apr26.jpg
       alt: New Books on Singapore History
   - infopic:
       title: "P. Ramlee: The Singapore Years"
