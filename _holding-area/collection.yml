@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - "Rodolfo Nolli: An Italian Sculptor in Singapore.md"
       - Singapore’s Early Japanese Community on a Rare Map.md
       - Sample article.md
