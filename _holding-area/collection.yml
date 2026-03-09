@@ -1,0 +1,6 @@
+collections:
+  holding-area:
+    output: true
+    order:
+      - Singapore’s Early Japanese Community on a Rare Map.md
+      - Sample article.md

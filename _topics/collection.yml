@@ -1,0 +1,38 @@
+collections:
+  topics:
+    output: true
+    order:
+      - Adventure and Travel.md
+      - Archaeology.md
+      - Arts/.keep
+      - Arts/Art.md
+      - Arts/Film and Photography.md
+      - Arts/Literature.md
+      - Arts/Music.md
+      - Arts/Theatre and Dance.md
+      - Collection Highlights.md
+      - Culture.md
+      - Essays and Opinions.md
+      - Education.md
+      - Food.md
+      - Governance.md
+      - History.md
+      - Inspired by History.md
+      - Local Icons.md
+      - Maps.md
+      - Health and Medicine.md
+      - National Symbols.md
+      - Nature and the Environment .md
+      - Places and Buildings/.keep
+      - Places and Buildings/Architecture.md
+      - Places and Buildings/Housing.md
+      - Places and Buildings/Leisure.md
+      - Places and Buildings/Worship.md
+      - Places and Buildings/More Places and Buildings.md
+      - People/.keep
+      - People/People.md
+      - People/Women.md
+      - Print.md
+      - Sports.md
+      - Technology.md
+      - War and Military.md
