@@ -100,86 +100,86 @@ _With thanks to the Ngee Ann Kongsi Library staff at Lasalle College of the Arts
 
 #### **Notes**
 
-[^1]: “Nolli: The Man with a Dream,” _Singapore Free Press_, 1 July 1949, 5; “Crest and Creator,” _Singapore Standard_, 12 May 1952, 2. (From NewspaperSG)
+[^1]: “[Nolli: The Man with a Dream](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490701-1.2.50.6),” _Singapore Free Press_, 1 July 1949, 5; “[Crest and Creator](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520512-1.2.103.11),” _Singapore Standard_, 12 May 1952, 2. (From NewspaperSG)
 
-[^2]: “The Duce’s Daughter in Singapore,” _Straits Budget_, 9 October 1930, 17; “Man-eating Tiger Shot in Johore,” _Straits Budget_, 9 July 1931, 17. (From NewspaperSG)
+[^2]: “[The Duce’s Daughter in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19301009-1.2.53.1),” _Straits Budget_, 9 October 1930, 17; “[Man-eating Tiger Shot in Johore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19310709-1.2.64.1),” _Straits Budget_, 9 July 1931, 17. (From NewspaperSG)
 
-[^3]: “Nolli: The Man with a Dream.”&nbsp;
+[^3]: “[Nolli: The Man with a Dream](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490701-1.2.50.6).”&nbsp;
 
-[^4]: “Nolli: The Man with a Dream.”&nbsp;
+[^4]: “[Nolli: The Man with a Dream](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490701-1.2.50.6).”&nbsp;
 
 [^5]: Jon S.H. Lim, “Cavalori Rudolfo Nolli: A Sculptor and Entrepreneur,” in _Architecture Journal_, ed. Lo Ching Ning and T.K. Sabapathy (Singapore: National University of Singapore, 1985), 10–17, 12. &nbsp;
 
-[^6]: “Ocean Building, Holt Company’s Enterprise in Singapore,” _Straits Budget_, 22 December 1922, 8. (From NewspaperSG)
+[^6]: “[Ocean Building, Holt Company’s Enterprise in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19221222-1.2.22),” _Straits Budget_, 22 December 1922, 8. (From NewspaperSG)
 
-[^7]: “The New Sailors’ Institute,” _Straits Times_, 16 May 1924, 9. (From NewspaperSG)
+[^7]: “[The New Sailors’ Institute](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240516-1.2.59),” _Straits Times_, 16 May 1924, 9. (From NewspaperSG)
 
-[^8]: “Untitled,” _Straits Times_, 21 December 1925, 4. (From NewspaperSG)
+[^8]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251221-1.2.34),” _Straits Times_, 21 December 1925, 4. (From NewspaperSG)
 
-[^9]: “Untitled,” _Straits Times_, 18 December 1925, 8. (From NewspaperSG)
+[^9]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251218-1.2.42),” _Straits Times_, 18 December 1925, 8. (From NewspaperSG)
 
-[^10]: “Local and Personal,” _Straits Budget_, 2 October 1925, 1. (From NewspaperSG)
-
-
-
-[^11]: “New Medical College,“ _Singapore Free Press and Mercantile Advertiser_, 16 February 1926, 9. (From NewspaperSG); “Overdoor with Eagle and Laurel Wreath (One of a Pair),” The Met, accessed 12 January 2026, https://www.metmuseum.org/art/collection/search/845847.
+[^10]: “[Local and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19251002-1.2.3),” _Straits Budget_, 2 October 1925, 1. (From NewspaperSG)
 
 
-[^12]: “Nolli: The Man with a Dream.”&nbsp;
+
+[^11]: “[New Medical College](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260216-1.2.71),“ _Singapore Free Press and Mercantile Advertiser_, 16 February 1926, 9. (From NewspaperSG); “Overdoor with Eagle and Laurel Wreath (One of a Pair),” The Met, accessed 12 January 2026, [https://www.metmuseum.org/art/collection/search/845847](https://www.metmuseum.org/art/collection/search/845847).
+
+
+[^12]: “[Nolli: The Man with a Dream](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490701-1.2.50.6).”&nbsp;
 
 [^13]: Lim, “Cavalori Rudolfo Nolli: A Sculptor and Entrepreneur,” 15.
 
-[^14]: “Nolli: The Man with a Dream”; “Crest and Creator,” _Singapore Standard_, 12 May 1952, 2. (From NewspaperSG)
+[^14]: “[Nolli: The Man with a Dream](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490701-1.2.50.6)”; “[Crest and Creator](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520512-1.2.103.11),” _Singapore Standard_, 12 May 1952, 2. (From NewspaperSG)
 
-[^15]: “Nolli: The Man with a Dream.” &nbsp;
+[^15]: “[Nolli: The Man with a Dream](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490701-1.2.50.6).” &nbsp;
 
-[^16]: “22 Italians Detained,” _Straits Times_, 12 June 1940, 10. (From NewspaperSG)
+[^16]: “[22 Italians Detained](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19400612-1.2.56),” _Straits Times_, 12 June 1940, 10. (From NewspaperSG)
 
-[^17]: “Nolli: The Man with a Dream.”&nbsp;
+[^17]: “[Nolli: The Man with a Dream](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490701-1.2.50.6).”&nbsp;
 
-[^18]: “High Court Gets Coat of Arms,” _Straits Times_, 29 December 1951, 8. (From NewspaperSG)&nbsp;
+[^18]: “[High Court Gets Coat of Arms](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19511229-1.2.131),” _Straits Times_, 29 December 1951, 8. (From NewspaperSG)&nbsp;
 
-[^19]: “Crest and Creator”; Lina Brunner, “Sculpture at St Anthony’s Convent, Singapore, by Italian Sculptor Rodolfo Nolli,” 1952, photograph. (From National Archives of Singapore, accession no. 144619)
+[^19]: “[Crest and Creator](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520512-1.2.103.11)”; Lina Brunner, “[Sculpture at St Anthony’s Convent, Singapore, by Italian Sculptor Rodolfo Nolli](https://www.nas.gov.sg/archivesonline/photographs/record-details/3515ae39-1162-11e3-83d5-0050568939ad),” 1952, photograph. (From National Archives of Singapore, accession no. 144619)
 
-[^20]: “Sculptor Rodolfo Nolli Dies in Italy,” _Straits Times_, 19 February 1964, 10. (From NewspaperSG); Lim, “Cavalori Rudolfo Nolli: A Sculptor and Entrepreneur,” 17.
-
-
-
-[^21]: “Sculptor Rodolfo Nolli Dies in Italy.”&nbsp;
-
-[^22]: “Arctic Explorers’ Ordeal,” _Straits Times_, 20 June 1928, 9. (From NewspaperSG)
-
-[^23]: “The Duce’s Daughter in Singapore”; “Woman’s Part in a Fascist State,” _Straits Times_, 2 October 1930, 11. (From NewspaperSG)
-
-[^24]: “Artistes’ Wedding,” _Straits Budget_, 10 February 1927, 23. (From NewspaperSG)
-
-[^25]: “Man-eating Tiger Shot in Johore.”&nbsp;
-
-[^26]: “A Woman Peeps at Singapore,” _Sunday Tribune (Singapore)_, 22 April 1934, 9. (From NewspaperSG)
-
-[^27]: “Meyer Road Car Smash,” _Malaya Tribune_, 22 October 1934, 12; “Singapore Golden Wedding Celebration,” _Sunday Tribune (Singapore)_, 28 October 1934, 24; “Sequel to Car Smash in Meyer Road,” _Singapore Free Press and Mercantile Advertiser_, 24 October 1934, 6; “Mr. Aw Boon Haw,” _Malaya Tribune_, 23 October 1934, 13. (From NewspaperSG)
-
-
-[^28]: “L.L.T.C. Tournament,” _Singapore Free Press and Mercantile Advertiser_, 23 June 1927, 16; “Tennis,” _Straits Times_, 24 November 1927, 11; “Chinese New Year Tennis Tourney Begins,” _Morning Tribune_, 9 February 1940, 13. (From NewspaperSG)
-
-[^29]: Statistics For S.T.C. Extra Meeting,” _Singapore Free Press and Mercantile Advertiser_, 19 September 1938, 12; “Around the Town with Mignon,” _Singapore Free Press and Mercantile Advertiser_, 2 September 1938, 4. (From NewspaperSG)
-
-[^30]: Around the Town,” _Singapore Free Press and Mercantile Advertiser_, 1 May 1936, 4; “Notes from Fraser’s Hill,” _Sunday Tribune (Singapore)_, 13 June 1937, 11; “Death,” _Straits Times_, 21 April 1932, 11. (From NewspaperSG)
+[^20]: “[Sculptor Rodolfo Nolli Dies in Italy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640219-1.2.91),” _Straits Times_, 19 February 1964, 10. (From NewspaperSG); Lim, “Cavalori Rudolfo Nolli: A Sculptor and Entrepreneur,” 17.
 
 
 
-[^31]: Lai Chee Kien, an architectural and urban historian and writer, made this observation during a talk at the National Gallery Singapore in 2020: “Do you realise there’s something quite interesting about the Lady of Justice? She’s not blindfolded. Justice may not be blind in Singapore, is that what it’s saying? I don’t know, okay, don’t kill me. I’m just the messenger.” (The original talk was given in 2020 but is also available as a podcast). See Lai Chee Kien, “Murals and Architecture in Singapore and Malaysia, 1945–1969,” _The Padang Sessions_, 1 February 2023, video, 46:00, National Gallery Singapore, https://podcasts.apple.com/be/podcast/murals-and-architecture-in-singapore-and-malaysia/id1535734112?i=1000597483584. &nbsp;
+[^21]: “[Sculptor Rodolfo Nolli Dies in Italy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640219-1.2.91).”&nbsp;
 
-[^32]: Desmond Manderson, “Blind Justice,” _McGill Law Journal_ 66, no. 1 (January 2020): 5, https://www.erudit.org/en/journals/mlj/2020-v66-n1-mlj06426/1082030ar/.
+[^22]: “[Arctic Explorers’ Ordeal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280620-1.2.38),” _Straits Times_, 20 June 1928, 9. (From NewspaperSG)
 
-[^33]: Britannica Editors, “Minerva,” _Encyclopedia Britannica_, 6 November 2025, https://www.britannica.com/topic/Minerva-Roman-goddess.
+[^23]: “[The Duce’s Daughter in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19301009-1.2.53.1)”; “[Woman’s Part in a Fascist State](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301002-1.2.55),” _Straits Times_, 2 October 1930, 11. (From NewspaperSG)
 
-[^34]: “Commerce: Relief from Medeiros Building, Cecil Street,” National Gallery Singapore, accessed 8 February 2026, https://www.nationalgallery.sg/sg/en/our-collections/search-collection.artwork.html/national-collection/rudolfo-nolli/2016/2016-00367.tif.html.
+[^24]: “[Artistes’ Wedding](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19270210-1.2.56),” _Straits Budget_, 10 February 1927, 23. (From NewspaperSG)
 
-[^35]: Stephanie Yeo, “Landmarks for All, from Old Girls to Food Lovers,” _Straits Times_, 11 October 1996, 6. (From NewspaperSG)
+[^25]: “[Man-eating Tiger Shot in Johore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19310709-1.2.64.1).”&nbsp;
 
-[^36]: National Heritage Board, “The Merdeka Bridge,” 1960s–1980s, photograph, Roots, last updated 15 October 2020, https://www.roots.gov.sg/Collection-Landing/listing/1193824; “Missing,” _Straits Times_, 23 May 1993, 22. (From NewspaperSG)&nbsp;
+[^26]: “[A Woman Peeps at Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19340422-1.2.63),” _Sunday Tribune (Singapore)_, 22 April 1934, 9. (From NewspaperSG)
 
-[^37]: “Two Lions Will Keep Watch on Motorists,” _Straits Times_, 1 July 1956, 11; “‘Freedom’ Guardian,” _Singapore Standard_, 23 August 1956, 5. (From NewspaperSG). \[Note: this article erroneously gives the sculptor’s name as Raoul Eigazzi.\]
+[^27]: “[Meyer Road Car Smash](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19341022-1.2.90),” _Malaya Tribune_, 22 October 1934, 12; “[Singapore Golden Wedding Celebration](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19341028-1.2.144.2),” _Sunday Tribune (Singapore)_, 28 October 1934, 24; “[Sequel to Car Smash in Meyer Road](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19341024-1.2.44),” _Singapore Free Press and Mercantile Advertiser_, 24 October 1934, 6; “[Mr. Aw Boon Haw](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19341023-1.2.84),” _Malaya Tribune_, 23 October 1934, 13. (From NewspaperSG)
 
-[^38]: Marjorie Doggett, _Characters of Light: Early Buildings of Singapore_ (Singapore: Times Books International, 1985), 4–5. (From National Library Singapore, call no. RSING 722.4095957 DOG)
+
+[^28]: “[L.L.T.C. Tournament](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270623-1.2.82),” _Singapore Free Press and Mercantile Advertiser_, 23 June 1927, 16; “[Tennis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19271124-1.2.81.3),” _Straits Times_, 24 November 1927, 11; “[Chinese New Year Tennis Tourney Begins](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19400209-1.2.67),” _Morning Tribune_, 9 February 1940, 13. (From NewspaperSG)
+
+[^29]: [Statistics For S.T.C. Extra Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19380919-1.2.82),” _Singapore Free Press and Mercantile Advertiser_, 19 September 1938, 12; “[Around the Town with Mignon](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19380902-1.2.41.5),” _Singapore Free Press and Mercantile Advertiser_, 2 September 1938, 4. (From NewspaperSG)
+
+[^30]: [Around the Town](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360501-1.2.45),” _Singapore Free Press and Mercantile Advertiser_, 1 May 1936, 4; “[Notes from Fraser’s Hill](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19370613-1.2.57),” _Sunday Tribune (Singapore)_, 13 June 1937, 11; “[Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320421-1.2.42.1),” _Straits Times_, 21 April 1932, 11. (From NewspaperSG)
+
+
+
+[^31]: Lai Chee Kien, an architectural and urban historian and writer, made this observation during a talk at the National Gallery Singapore in 2020: “Do you realise there’s something quite interesting about the Lady of Justice? She’s not blindfolded. Justice may not be blind in Singapore, is that what it’s saying? I don’t know, okay, don’t kill me. I’m just the messenger.” (The original talk was given in 2020 but is also available as a podcast). See Lai Chee Kien, “Murals and Architecture in Singapore and Malaysia, 1945–1969,” _The Padang Sessions_, 1 February 2023, video, 46:00, National Gallery Singapore, [https://podcasts.apple.com/be/podcast/murals-and-architecture-in-singapore-and-malaysia/id1535734112?i=1000597483584](https://podcasts.apple.com/be/podcast/murals-and-architecture-in-singapore-and-malaysia/id1535734112?i=1000597483584). &nbsp;
+
+[^32]: Desmond Manderson, “Blind Justice,” _McGill Law Journal_ 66, no. 1 (January 2020): 5, [https://www.erudit.org/en/journals/mlj/2020-v66-n1-mlj06426/1082030ar/](https://www.erudit.org/en/journals/mlj/2020-v66-n1-mlj06426/1082030ar/).
+
+[^33]: Britannica Editors, “Minerva,” _Encyclopedia Britannica_, 6 November 2025, [https://www.britannica.com/topic/Minerva-Roman-goddess](https://www.britannica.com/topic/Minerva-Roman-goddess).
+
+[^34]: “Commerce: Relief from Medeiros Building, Cecil Street,” National Gallery Singapore, accessed 8 February 2026, [https://www.nationalgallery.sg/sg/en/our-collections/search-collection.artwork.html/national-collection/rudolfo-nolli/2016/2016-00367.tif.html](https://www.nationalgallery.sg/sg/en/our-collections/search-collection.artwork.html/national-collection/rudolfo-nolli/2016/2016-00367.tif.html).
+
+[^35]: Stephanie Yeo, “[Landmarks for All, from Old Girls to Food Lovers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19961011-1.2.85.5.4),” _Straits Times_, 11 October 1996, 6. (From NewspaperSG)
+
+[^36]: National Heritage Board, “The Merdeka Bridge,” 1960s–1980s, photograph, Roots, last updated 15 October 2020, [https://www.roots.gov.sg/Collection-Landing/listing/1193824](https://www.roots.gov.sg/Collection-Landing/listing/1193824); “[Missing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930523-1.2.30.5),” _Straits Times_, 23 May 1993, 22. (From NewspaperSG)&nbsp;
+
+[^37]: “[Two Lions Will Keep Watch on Motorists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560701-1.2.95),” _Straits Times_, 1 July 1956, 11; “[‘Freedom’ Guardian](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560823-1.2.64),” _Singapore Standard_, 23 August 1956, 5. (From NewspaperSG). \[Note: this article erroneously gives the sculptor’s name as Raoul Eigazzi.\]
+
+[^38]: Marjorie Doggett, [_Characters of Light: Early Buildings of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4141304) (Singapore: Times Books International, 1985), 4–5. (From National Library Singapore, call no. RSING 722.4095957 DOG)
