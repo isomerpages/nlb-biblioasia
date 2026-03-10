@@ -16,9 +16,13 @@ Although he was not an architect, the works of Rodolfo Nolli can be found in bui
 
 Nolli’s contributions to the old Supreme Court building (restored with the former City Hall building and now part of the National Gallery Singapore) are perhaps the easiest to observe. In addition to the Corinthian columns which make the facade so grand, Nolli worked on the relief (a wall-mounted sculpture raised from a flat base) in the tympanum, which is the triangular decorative section just above the columns. The sculpture shows Lady Justice holding weighing scales and a sword – symbolising law and judgment – alongside figures reacting to her judgment (see photograph on page 39).[^1]
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_column.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_column.png" style="width: 70%;">
 
 <div style="background-color: white;">A closeup of the decorative work on the Corinthian columns of the former Supreme Court building, 2026. <i>Photo by Jimmy Yap. </i></div>
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_relief.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo Nolli’s relief on the building of the King Edward VII College of Medicine, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0031). </i></div>
 
 Nolli may not be familiar to many today but the Italian sculptor made a name for himself as an expatriate artist in Singapore between the 1920s and 1950s. His contributions to the city’s built heritage remain important to this day. Besides gaining attention for his professional work, Nolli made his presence felt at high-society gatherings, where he participated in a wide range of social engagements as well as once-in-a-lifetime events, including hunting down a man-eating tiger and welcoming the daughter of Benito Mussolini, the prime minister and Fascist dictator of Italy, to Singapore in 1930.[^2]
 
