@@ -60,6 +60,10 @@ In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with
 
 <div style="background-color: white;">Relief sculptures by Rodolfo Nolli, 1930s. These were meant for Meyer Chambers but were never used and were subsequently lost during the Japanese Occupation. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0063).</i></div>
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_blank.png" style="width: 80%;">
+
+<div style="background-color: white;">The coat of arms of the Colony of Singapore (1946–59) by&nbsp;Rodolfo&nbsp;Nolli, 1948–55. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0067).</i></div>
+
 In the late 1930s, Nolli worked on what has become his most famous commission: the facade of the Supreme Court comprising the columns and tympanum. This took more than a year to complete. Looking back on this project, which he was most proud of, Nolli called it his baby, “from the first stone at the base to the lightning conductor on top of the dome”. In 1952, the _Singapore Standard_ wrote that the facade would be “remembered as one of \[Nolli’s\] best efforts”.[^14]&nbsp;
 
 The tympanum, in particular, was a complex composition which drew on Nolli’s skills as a sculptor to a much greater degree than the more decorative work he was often commissioned to do. It is likely that this further endeared the project to him given that Nolli also complained that the lack of opportunity for more artistic work in Singapore during the 1920s and 1930s meant that he had spent most of his career as “just a contractor” rather than a sculptor.[^15]
@@ -121,6 +125,10 @@ Taken between 1913 and 1960, these images (which can be accessed at Archives Onl
 <img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_studio.png" style="width: 80%;">
 
 <div style="background-color: white;">Rodolfo&nbsp;Nolli in his Bangkok studio, 1913. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0082).</i></div>
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_blank.png" style="width: 80%;">
+
+<div style="background-color: white;">The Fraser &amp; Neave emblem by&nbsp;Rodolfo&nbsp;Nolli, 1940s. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358&nbsp;-&nbsp;0070).</i></div>
 
 In fact, Nolli was so closely associated with Singapore’s built heritage between the 1920s and 1950s that he has often been mistaken as the creator of others’ work. In particular, he is often mentioned in connection with the “Merdeka lions”, a pair of stone lions originally flanking Merdeka Bridge when it opened in 1956 but were removed in 1966 when Nicoll Highway was widened.[^36] &nbsp;
 
