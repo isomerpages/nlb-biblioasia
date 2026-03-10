@@ -52,6 +52,10 @@ Around this time, the King of Italy made Nolli a knight (“Cavaliere”) of the
 
 In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with some of his recent work, including the top of a column intended for the Municipal Offices, a coat of arms and decorative feature for the Post Office Building and a relief (described as a “mural plaque”) for the College of Medicine. For much of the next decade, Nolli continued to work on similarly commissioned exterior and interior decoration.[^13] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_sculptures.png" style="width: 80%;">
+
+<div style="background-color: white;">Relief sculptures by Rodolfo Nolli, 1930s. These were meant for Meyer Chambers but were never used and were subsequently lost during the Japanese Occupation. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0063).</i></div>
+
 In the late 1930s, Nolli worked on what has become his most famous commission: the facade of the Supreme Court comprising the columns and tympanum. This took more than a year to complete. Looking back on this project, which he was most proud of, Nolli called it his baby, “from the first stone at the base to the lightning conductor on top of the dome”. In 1952, the _Singapore Standard_ wrote that the facade would be “remembered as one of \[Nolli’s\] best efforts”.[^14]&nbsp;
 
 The tympanum, in particular, was a complex composition which drew on Nolli’s skills as a sculptor to a much greater degree than the more decorative work he was often commissioned to do. It is likely that this further endeared the project to him given that Nolli also complained that the lack of opportunity for more artistic work in Singapore during the 1920s and 1930s meant that he had spent most of his career as “just a contractor” rather than a sculptor.[^15]
@@ -59,6 +63,10 @@ The tympanum, in particular, was a complex composition which drew on Nolli’s s
 There is no specific record of Nolli’s political views, let alone his feelings on the subject of Fascism. Nonetheless, his Italian citizenship was enough to make him an enemy of the state when Italy entered World War II in 1940. Because of this, he was detained along with other Italian residents in Singapore and Malaya.[^16] &nbsp;
 
 Nolli spent four years in an internment camp in Australia before returning to Singapore in 1946. He appeared to have found work in postwar Singapore relatively easily, quickly securing commissions such as the Hongkong and Shanghai Bank crest, the mausoleum of the Sultan of Selangor and decorative work for the ballroom of the Raffles Hotel.[^17] &nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_crest.png" style="width: 70%;">
+
+<div style="background-color: white;">Rodolfo Nolli with the Gan Eng Seng School crest, 1950. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0034). </i></div>
 
 In 1951, Nolli designed and made the coat of arms for three High Court halls which had been “without a coat of arms since the re-occupation”.[^18] Nolli’s later works demonstrate the importance of architectural commissions in the postwar restoration of large-scale institutional buildings. He also worked on decorative details for schools that were built during this period, crafting the crest for the new Gan Eng Seng School and working on a set of reliefs of angels for the school chapel of St Anthony’s Convent in 1952.[^19] Nolli also worked on the Omar Ali Saifuddien Mosque in Brunei for some time, though the _Straits Times_ 1964 report that he retired in 1956 suggests that he did not stay on to see the mosque being completed.[^20] &nbsp;
 
