@@ -104,6 +104,10 @@ Many of Nolli’s works can still be seen at or close to the sites for which he 
 
 Of all Nolli’s works in Singapore, the sculpture of Lady Justice in the tympanum of the former Supreme Court has attracted the most attention as it does not have a blindfold.[^31] Lady Justice, the Euro-American allegorical figure representing justice as an ideal, has been depicted blindfolded since at least the 16th century, originally with satirical implications that were later reconstrued so the figure represents impartiality rather than indifference.[^32] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_justice.png" style="width: 80%;">
+
+<div style="background-color: white;">Lady Justice holding weighing scales and a sword – symbolising law and judgment – alongside figures reacting to her judgment in the tympanum of the former Supreme Court building, 2026. <i>Photo by Jimmy Yap.</i></div>
+
 Nolli’s version of Lady Justice may be explained by the neoclassical aesthetic which informed much of Nolli’s work in the 1920s and 1930s. Nolli seemed to have combined aspects of Lady Justice with those of the Roman goddess Minerva. Closely associated with wisdom and justice in Roman mythology, Minerva is consistently depicted with a shield and sword.[^33] These attributes are clearly visible in Nolli’s tympanum. On the other hand, Minerva rarely, if ever, appears with the weighing scales that are also clearly visible in Nolli’s Lady Justice, suggesting that his creation is a combination of both Lady Justice and Minerva.
 
 Works by Nolli are also preserved in the collections of the National Gallery Singapore and National Archives of Singapore. A relief titled “Commerce” from the series that Nolli made in 1937 for the Medeiros Building on Cecil Street is currently on display at the National Gallery Singapore.[^34] In 1996, Nolli’s daughter Lina donated a collection of 83 photographs of her father at work in Singapore and Bangkok to the National Archives of Singapore.[^35]
