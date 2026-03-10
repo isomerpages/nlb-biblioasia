@@ -60,7 +60,7 @@ In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with
 
 <div style="background-color: white;">Relief sculptures by Rodolfo Nolli, 1930s. These were meant for Meyer Chambers but were never used and were subsequently lost during the Japanese Occupation. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0063).</i></div>
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_blank.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
 
 <div style="background-color: white;">The coat of arms of the Colony of Singapore (1946–59) by&nbsp;Rodolfo&nbsp;Nolli, 1948–55. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0067).</i></div>
 
@@ -106,7 +106,7 @@ Curiously, none of the many reports about Nolli’s life and work in Singapore m
 
 Many of Nolli’s works can still be seen at or close to the sites for which he made them. Apart from the tympanum and Corinthian columns of the former Supreme Court, he also created the Corinthian columns of the former City Hall building. The General Post Office is now the Fullerton Hotel, while the former St Anthony’s Convent is presently home to the National Design Centre. Similarly, the pair of lions that Nolli sculpted for the Bank of China can still be seen at the bank’s main branch on Battery Road.&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_lions.png" style="width: 70%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_lion.png" style="width: 70%;">
 
 <div style="background-color: white;">Rodolfo Nolli’s lions still adorn the entrance of the Bank of China on Battery Road today, 2026. <i>Photo by Jimmy Yap.</i></div>
 
@@ -126,7 +126,7 @@ Taken between 1913 and 1960, these images (which can be accessed at Archives Onl
 
 <div style="background-color: white;">Rodolfo&nbsp;Nolli in his Bangkok studio, 1913. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0082).</i></div>
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_blank.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
 
 <div style="background-color: white;">The Fraser &amp; Neave emblem by&nbsp;Rodolfo&nbsp;Nolli, 1940s. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358&nbsp;-&nbsp;0070).</i></div>
 
