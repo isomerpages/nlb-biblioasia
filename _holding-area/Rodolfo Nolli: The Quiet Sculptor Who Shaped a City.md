@@ -114,6 +114,10 @@ Works by Nolli are also preserved in the collections of the National Gallery Sin
 
 Taken between 1913 and 1960, these images (which can be accessed at Archives Online; https://www.nas.gov.sg/archivesonline/) supplement the information on Nolli’s life and works from newspaper reports, and offer further insight into his craft and process as a sculptor. In addition to documenting works in progress as well as projects not reported in the news, they show the sculptor at work in Bangkok, on-site at various commissions around Singapore and at his Scotts Road stoneyard, including works lost to modernisation and redevelopment over time.&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_studio.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo&nbsp;Nolli in his Bangkok studio, 1913. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0082).</i></div>
+
 In fact, Nolli was so closely associated with Singapore’s built heritage between the 1920s and 1950s that he has often been mistaken as the creator of others’ work. In particular, he is often mentioned in connection with the “Merdeka lions”, a pair of stone lions originally flanking Merdeka Bridge when it opened in 1956 but were removed in 1966 when Nicoll Highway was widened.[^36] &nbsp;
 
 At the time of their installation, the _Straits Times_ simply described the Merdeka lions as having been “ordered from Manila”. Further details in the _Singapore Standard_ revealed that the lions were designed by L.W. Carpenter of the Architects’ Branch of Singapore’s Public Works Department before being modelled by Italian sculptor Raoul Bigazzi, who was based in Hong Kong but travelled to Manila to have the final version of the statues cast.[^37] That Nolli did sculpt a pair of lions may well have added to this confusion although these were made in a very different style for the Bank of China’s main branch on Battery Road.&nbsp;
