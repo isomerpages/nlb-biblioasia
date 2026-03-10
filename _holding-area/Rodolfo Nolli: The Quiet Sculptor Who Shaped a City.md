@@ -98,6 +98,10 @@ Curiously, none of the many reports about Nolli’s life and work in Singapore m
 
 Many of Nolli’s works can still be seen at or close to the sites for which he made them. Apart from the tympanum and Corinthian columns of the former Supreme Court, he also created the Corinthian columns of the former City Hall building. The General Post Office is now the Fullerton Hotel, while the former St Anthony’s Convent is presently home to the National Design Centre. Similarly, the pair of lions that Nolli sculpted for the Bank of China can still be seen at the bank’s main branch on Battery Road.&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_lions.png" style="width: 70%;">
+
+<div style="background-color: white;">Rodolfo Nolli’s lions still adorn the entrance of the Bank of China on Battery Road today, 2026. <i>Photo by Jimmy Yap.</i></div>
+
 Of all Nolli’s works in Singapore, the sculpture of Lady Justice in the tympanum of the former Supreme Court has attracted the most attention as it does not have a blindfold.[^31] Lady Justice, the Euro-American allegorical figure representing justice as an ideal, has been depicted blindfolded since at least the 16th century, originally with satirical implications that were later reconstrued so the figure represents impartiality rather than indifference.[^32] &nbsp;
 
 Nolli’s version of Lady Justice may be explained by the neoclassical aesthetic which informed much of Nolli’s work in the 1920s and 1930s. Nolli seemed to have combined aspects of Lady Justice with those of the Roman goddess Minerva. Closely associated with wisdom and justice in Roman mythology, Minerva is consistently depicted with a shield and sword.[^33] These attributes are clearly visible in Nolli’s tympanum. On the other hand, Minerva rarely, if ever, appears with the weighing scales that are also clearly visible in Nolli’s Lady Justice, suggesting that his creation is a combination of both Lady Justice and Minerva.
