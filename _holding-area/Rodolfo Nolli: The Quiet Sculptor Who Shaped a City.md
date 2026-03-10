@@ -78,6 +78,10 @@ Nolli spent four years in an internment camp in Australia before returning to Si
 
 In 1951, Nolli designed and made the coat of arms for three High Court halls which had been “without a coat of arms since the re-occupation”.[^18] Nolli’s later works demonstrate the importance of architectural commissions in the postwar restoration of large-scale institutional buildings. He also worked on decorative details for schools that were built during this period, crafting the crest for the new Gan Eng Seng School and working on a set of reliefs of angels for the school chapel of St Anthony’s Convent in 1952.[^19] Nolli also worked on the Omar Ali Saifuddien Mosque in Brunei for some time, though the _Straits Times_ 1964 report that he retired in 1956 suggests that he did not stay on to see the mosque being completed.[^20] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+
+<div style="background-color: white;">One in a set of reliefs of angels sculpted by&nbsp;Rodolfo&nbsp;Nolli for the chapel of St Anthony's Convent on Middle Road, c. 1952. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0069).</i></div>
+
 Altogether, Rodolfo Nolli lived and worked in Singapore for more than 30 years. In February 1964, Nolli died in Italy at the age of 75. The _Straits Times_ report of his passing noted that the sculptor spent “nearly half his lifetime in Singapore” and listed several of his more prominent works in Singapore, Kuching and Kuala Lumpur.[^21] &nbsp;
 
 #### **Nolli the Celebrity**
@@ -88,9 +92,18 @@ As a well-known Italian based in Singapore, Nolli was actively involved in hosti
 
 Nolli also formed part of the welcoming party that received Edda and Galeazzo Ciano, the daughter and son-in-law of Mussolini, during their visit to Singapore in October 1930. Although the _Straits Times_ made no mention of Nolli in its coverage of the Cianos’ visit, it reported that “all the members of the Italian community in Singapore” attended the dinner held in their honour at the Europe Hotel. The _Straits Budget_, on the other hand, ran a photo of the couple’s arrival in which Nolli was both clearly visible and named as a member of the party. These incidents reveal Nolli’s prominence within the Italian community in Singapore.[^23]
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo&nbsp;Nolli was part of the welcoming committee that received Edda and Galeazzo Ciano, the daughter and son-in-law of Benito Mussolini, during their visit to Singapore in October 1930. From left: V. Pini, the Italian Consul in Singapore; Galeazzo Ciano; Mrs Pini;&nbsp;Rodolfo&nbsp;Nolli; Edda Ciano; and G. Aurely. <i>Image reproduced from the Straits Budget, 9 October 1930, 17. (From NewspaperSG).</i></div>
+
 Nolli was also frequently mentioned in the press as an attendee at baptisms, weddings and funerals held in Singapore between the 1920s and 1930s, and even hosted one of the weddings. In February 1927, the _Straits Budget_ reported that the wedding reception of Russian pianist Monia Litter and his bride, ballerina Mura Smirnova, was held “at the residence of Mr. R. Nolli in Gilstead Road”. Although the paper described the event as “typically Russian and very joyous”, it did not explain Nolli’s connection to the couple or the extent of his involvement beyond providing the venue.[^24] &nbsp;
 
 In June 1931, Nolli was part of a hunting team that tracked down and shot “a fierce, man-eating tiger” believed to have killed three people in Kulai, Johor.[^25] In April 1934, Nolli served as one of four judges at a beauty contest held at the old Racecourse.[^26] The range of Nolli’s social engagements during this period showed that he was friends with many prominent expatriates outside the Italian community in Singapore, including but by no means limited to other artists and performers.
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo&nbsp;Nolli (3rd from left) was among the hunting party that shot a man-eating tiger at Kulai, Johor, on 25 June 1931. <i>Image reproduced from the Straits Budget, 9 July 1931, 17. (From NewspaperSG).</i></div>
+
 
 In October 1934, multiple papers gave a great deal of attention to a serious car accident in which Nolli was badly injured, fracturing both his arms. The sculptor had been returning home from the Sea View Hotel when a car driven by D.C. Morgan of the Cold Storage Company collided with his on Meyer Road. The _Malaya Tribune_ reported that “Mr R. Nolli, the Italian sculptor, who has lived in Singapore for a number of years, sustained serious injuries”, and was found unconscious with both arms fractured. The _Sunday Tribune_, which wrote that the accident involved “Mr R. Nolli, the well-known Italian sculptor”, even featured a photograph of the crash site illustrating the extensive damage done to both of the cars involved. Morgan was charged with “causing grievous hurt by a rash act” but released on bail. The _Malaya Tribune_ ran a short update on 23 October, noting that Nolli was “making good progress” in his recovery.[^27]
 
