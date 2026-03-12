@@ -9,10 +9,10 @@ variant: markdown
 ---
 <img src="/images/Vol%2022%20Issue%201/Biblio221_Cover.png" style="width: 80%;">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/director-s-note/">Director's Note</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-22/issue-1/apr-jun-2026/director-s-note/">Director's Note</a><br>
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/history-singapore-cinemas/">Got Milk? The School Milk Scheme in Singapore</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/">Got Milk? The School Milk Scheme in Singapore</a><br>
 In the 1970s and 1980s, primary school children were encouraged to drink milk in school. By the late 1980s, this initiative had curdled. *Rebecca Tan* . [(PDF)](/files/pdf/Vol%2021/cinemare3-.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">The Architect of Separation</a><br>
