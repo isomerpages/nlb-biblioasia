@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Vol%2021%20Issue%204/Biblio214_Cover.png">
+<img src="/images/Vol%2022%20Issue%201/Biblio221_Cover.png" style="width: 80%;">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/director-s-note/">Director's Note</a><br>
 
@@ -74,5 +74,3 @@ In a <i>BiblioAsia Podcast</i> episode, writer Samantha Boh tells us how civil s
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/">New Books on Singapore History
 </a><br>
 <i>Arabs of Singapore: 200 Years On</i>; <i>The Albatross File: Inside Separation</i>; and <i>The Benjamin Sheares Story: From Pioneering Gynaecologist to Singapore President</i> are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/spyr.pdf)
-
-
