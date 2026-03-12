@@ -46,43 +46,33 @@ The University of Malaya in Singapore was a crucible for a new nation. *Alvin Ta
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/">We Do: Mass Weddings in Singapore </a><br>
-Initially inspired by the “New Life Movement” in China, couples in Singapore opted for mass weddings to save money. 
-*Seow Peck Ngiam and Benita Lim.*[(PDF)](/files/pdf/Vol%2021/mass_weddings.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/">A Wartime Friendship </a><br>
+Lee Kip Lee’s friendship with the Japanese military judge who lived next door was a friendship that endured even after the war.
+*Eriko Ogihara-Schuck and Cecilia Gaspar.*[(PDF)](/files/pdf/Vol%2021/mass_weddingsd.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/">The 1918 Influenza Pandemic in Singapore</a><br>
-When influenza hit Singapore in 1918, many were sickened, hospitals were overwhelmed and everyday life was disrupted.  *Sean Hoh*.[(PDF)](/files/pdf/Vol%2021/influenzare1.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/">P. Ramlee: The Singapore Years</a><br>
+The formative years of the legendary singer, actor and filmmaker P. Ramlee unfolded in Singapore, a city he not only helped to enliven through his presence and artistry but also captured with enduring vividness in his songs and films. *Raphaël Millet*.[(PDF)](/files/pdf/Vol%2021/influenzaree1.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/">Fridge Maker Freezes Stock Market </a><br>
-Pan-Electric Industries started out as Singapore’s fridge maker. However, its aggressive expansion and questionable practices led to enormous debts that caused a three-day closure of the Singapore and Kuala Lumpur stock markets in 1985.  *Joanna Tan*.[(PDF)](/files/pdf/Vol%2021/stock_market.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/">Rediscovering Singapore Before 1800: How Newly Retrieved Sources Are Changing the Story</a><br>
+Piecing together the Singapore narrative before Raffles is not easy but the sources are there, just waiting to be discovered.  *Peter Borschberg*.[(PDF)](/files/pdf/Vol%2021/stock_markete.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/">A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan </a><br>
-One of Singapore’s first women philanthropists, Mrs Lee, née Tan Teck Neo, supported a wide range of charities.
-*Yu-lin Ooi*.[(PDF)](/files/pdf/Vol%2021/philanthropist.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/">The Great Clean-up of the Singapore River </a><br>
+In a <i>BiblioAsia Podcast</i> episode, writer Samantha Boh tells us how civil servant Lee Ek Tieng and his team at the Ministry of Environment overcame the challenges of cleaning up the Singapore River.[(PDF)](/files/pdf/Vol%2021/philanthropist9.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/">How Tay Seow Huah Came to Be the First Spy Chief of Independent Singapore</a><br>
-Simon Tay recounts how his Penang-born father came to play a giant role serving a newly independent Singapore.[(PDF)](/files/pdf/Vol%2021/spy.pdf)
-
-
-
-
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/john-miksic-singapore-archaeology/">Remembering John Norman Miksic
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/">New Books on Singapore History
 </a><br>
-The “Indiana Jones” of Singapore archaeology died on 25 October 2025, aged 79. *Kwa Chong Guan*.[(PDF)](/files/pdf/Vol%2021/john_norman.pdf)
+<i>Arabs of Singapore: 200 Years On</i>; <i>The Albatross File: Inside Separation</i>; and <i>The Benjamin Sheares Story: From Pioneering Gynaecologist to Singapore President</i> are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/spyr.pdf)
 
 
-
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/new-books-on-singapore-history/">New Books on Singapore History</a><br>
-_Imperial Weather: Meteorology, Science, and the Environment in Colonial Malaya; Reimagining Singapore’s History: Essays on Pre-Colonial Roots and Modern Identity;_ and _The Grand Mosque of Singapore: Two Centuries in the History of Masjid Sultan_ are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/new_books.pdf)
