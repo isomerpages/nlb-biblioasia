@@ -15,18 +15,18 @@ variant: markdown
 <a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/">Got Milk? The School Milk Scheme in Singapore</a><br>
 In the 1970s and 1980s, primary school children were encouraged to drink milk in school. By the late 1980s, this initiative had curdled. *Rebecca Tan* . [(PDF)](/files/pdf/Vol%2021/cinemare3-.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/straits-times-180-anniversary/">The Architect of Separation</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/goh-keng-swee-albatross-file-separation-singapore-malaysia/">The Architect of Separation</a><br>
 Rather than being unilaterally kicked out in 1965, the decision that Singapore should separate from Malaysia was a mutual one, driven in large part by the efforts of Singapore’s Finance Minister Goh Keng Swee. [(PDF)](/files/pdf/Vol%2021/straits_timesre1-.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/double-coconut-coco-de-mer/">The 1965 Singapore Agricultural Show </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/1965-singapore-agricultural-show-kallang-park/">The 1965 Singapore Agricultural Show </a><br>
 Initially an effort to help farmers sell surplus eggs, the agricultural show morphed into a mega event showcasing Singapore’s farming achievements. *Caleb Leow*.[(PDF)](/files/pdf/Vol%2021/double_coconut-.pdf)
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/air-conditioning-in-singapore/">Singapore’s Early Japanese Community on a Rare Map
+<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-22/issue-1/apr-jun-2026/singapore-s-early-japanese-community-on-a-rare-map/">Singapore’s Early Japanese Community on a Rare Map
  </a><br>
 A rare Japanese-English map of Singapore from the 1920s tells forgotten stories of the early Japanese community. *Gracie Lee*.[(PDF)](/files/pdf/Vol%2021/airconre3-.pdf)
 
