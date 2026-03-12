@@ -33,44 +33,44 @@ A rare Japanese-English map of Singapore from the 1920s tells forgotten stories 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/lost-family-silvestr-nemec-war-search-czech-singapore/">Rodolfo Nolli: The Quiet Sculptor Who Shaped a City
+<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-22/issue-1/apr-jun-2026/rodolfo-nolli/">Rodolfo Nolli: The Quiet Sculptor Who Shaped a City
  </a><br>
 Nolli’s works still adorn buildings around Singapore and have an enduring beauty. *Nicola Kanmany John.*[(PDF)](/files/pdf/Vol%2021/silvestrre2u.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/">No Mere Interlude: The University of Malaya in Singapore </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/seat-belts-mandatory-legislation/-t">No Mere Interlude: The University of Malaya in Singapore </a><br>
 The University of Malaya in Singapore was a crucible for a new nation. *Alvin Tan.*[(PDF)](/files/pdf/Vol%2021/seat_beltsr.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mass-weddings-singapore/">A Wartime Friendship </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mass-weddings-singaporere/">A Wartime Friendship </a><br>
 Lee Kip Lee’s friendship with the Japanese military judge who lived next door was a friendship that endured even after the war.
 *Eriko Ogihara-Schuck and Cecilia Gaspar.*[(PDF)](/files/pdf/Vol%2021/mass_weddingsd.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/1918-influenza-pandemic-singapore/">P. Ramlee: The Singapore Years</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/p-ramlee-singer-actor-filmmaker-director-singapore//">P. Ramlee: The Singapore Years</a><br>
 The formative years of the legendary singer, actor and filmmaker P. Ramlee unfolded in Singapore, a city he not only helped to enliven through his presence and artistry but also captured with enduring vividness in his songs and films. *Raphaël Millet*.[(PDF)](/files/pdf/Vol%2021/influenzaree1.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/pan-eletric-collapse-singapore-stock-market/">Rediscovering Singapore Before 1800: How Newly Retrieved Sources Are Changing the Story</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/rediscovering-singapore-before-1800/">Rediscovering Singapore Before 1800: How Newly Retrieved Sources Are Changing the Story</a><br>
 Piecing together the Singapore narrative before Raffles is not easy but the sources are there, just waiting to be discovered.  *Peter Borschberg*.[(PDF)](/files/pdf/Vol%2021/stock_markete.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/">The Great Clean-up of the Singapore River </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/lee-ek-tieng-samantha-boh-singapore-river-podcast/">The Great Clean-up of the Singapore River </a><br>
 In a <i>BiblioAsia Podcast</i> episode, writer Samantha Boh tells us how civil servant Lee Ek Tieng and his team at the Ministry of Environment overcame the challenges of cleaning up the Singapore River.[(PDF)](/files/pdf/Vol%2021/philanthropist9.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-4/jan-mar-2026/tay-seow-huah-simon-tay-podcast-transcript/">New Books on Singapore History
+<a style="text-decoration: none; font-weight: bold;" href="/vol-22/issue-1/apr-jun-2026/new-books-on-singapore-history/">New Books on Singapore History
 </a><br>
 <i>Arabs of Singapore: 200 Years On</i>; <i>The Albatross File: Inside Separation</i>; and <i>The Benjamin Sheares Story: From Pioneering Gynaecologist to Singapore President</i> are some of the new books available at the National Library.[(PDF)](/files/pdf/Vol%2021/spyr.pdf)
