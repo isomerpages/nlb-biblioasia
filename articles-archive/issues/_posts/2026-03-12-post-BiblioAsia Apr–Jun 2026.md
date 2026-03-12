@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Vol%2022%20Issue%201/Biblio221_Cover.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Biblio221_Cover.png" style="width: 60%;">
 
 <a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-22/issue-1/apr-jun-2026/director-s-note/">Director's Note</a><br>
 
