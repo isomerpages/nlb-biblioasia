@@ -9,7 +9,7 @@ By Gracie Lee
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_main.png" style="width: 80%;">
 
-<div style="background-color: white;">Detail from the map titled <i>Map of Singapore</i> = 新嘉坡市街地圖 (<i>Shingapōru Shigai Chizu</i>), likely published in 1920. It is one of the earliest Japanese street maps of Singapore.<i> (From National Library Singapore, call no.RRARE 912.5957 MAP).   </i></div>
+<div style="background-color: white;"><i>Map of Singapore</i> = 新嘉坡市街地圖 (<i>Shingapōru Shigai Chizu</i>), likely published in 1920. It is one of the earliest Japanese street maps of Singapore.<i> (From National Library Singapore, call no. RRARE 912.5957 MAP).   </i></div>
 
 
 Within the National Library’s Rare Materials Collection lies a cartographic treasure that opens a window into Singapore’s multicultural past. The map titled _Map of Singapore_ \= 新嘉坡市街地圖 (_Shingapōru Shigai Chizu_) tells a story of the thriving Japanese diaspora that once called this bustling port city home.[^1]
@@ -31,10 +31,9 @@ The publisher’s name, Kobunkan, appears on the map in both Japanese and Englis
 
 The bookstore offered an extensive array of Japanese products ranging from newspapers, magazines, books and maps to stationery and picture postcards. Its customers included the employees of leading Japanese firms in the commercial district of Raffles Place and Collyer Quay as well as small Japanese businesses clustered around Middle Road and North Bridge Road. The latter comprised medical and dental clinics, retail shops, grocery stores, photo studios, barbershops, tailors, hotels, inns and restaurants.
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_postcard.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bookstore.png" style="width: 80%;">
 
-<div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. RRARE 952.03 LSB-[LSB]. Donated by Lim Shao Bin).</i></div>
-
+<div style="background-color: white;">Location of Kobunkan bookstore (circled in red) on Middle Road. <i>Image reproduced from 戦前シンガポールの日本人社会: 写真と記錄 = Prewar Japanese Community in Singapore: Photographs and Records (Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE). Courtesy of The Japanese Association Singapore.</i></div>
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
 
 <div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore. </i></div>
@@ -49,9 +48,6 @@ But perhaps more unusual was Kobunkan’s largest customer base – the _karayuk
 
 Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese plantation workers in Johor and expatriate communities across British Malaya, the Dutch East Indies and British North Borneo.[^10] The bookstore was also the local distributor for Sakura Beer and the Kangaroo brand of canned Japanese fishcakes – _chikuwa_ and _kamaboko_.[^11]
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bookstore.png" style="width: 80%;">
-
-<div style="background-color: white;">Location of Kobunkan bookstore (circled in red) on Middle Road. <i>Image reproduced from 戦前シンガポールの日本人社会: 写真と記錄 = Prewar Japanese Community in Singapore: Photographs and Records (Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE). Courtesy of The Japanese Association Singapore.</i></div>
 
 
 #### **From Pearl Diver to Entrepreneur**
@@ -189,6 +185,10 @@ Location on map: 2 De Souza Street
 
 Osaka Shosen Kaisha was one of Japan’s major shipping companies that operated alongside the Nippon Yusen Kaisha (日本郵船会碇) in Singapore. In 1918, the company established its Singapore branch office at 2 De Souza Street,[^37] increasing its commercial shipping presence in the region. Prior to this expansion, local agent Guthrie and Co. had managed the company’s shipping routes.[^38]
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_postcard.png" style="width: 80%;">
+
+<div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. RRARE 952.03 LSB-[LSB]. Donated by Lim Shao Bin).</i></div>
+
   
 
 **Mitsui Company House No. 1 (**三井第一碇宅**; Mitsui Daiichi Shataku****)**
@@ -209,7 +209,7 @@ Kinloss was constructed in 1903 as the private residence of Lieutenant-Colonel A
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> The author thanks Tanabe Tsukasa, the great-grandson of Yamasaki Eijiro, for sharing information about his family; Takako Iino from Friends of the Museum in Singapore; and Senior Librarians Goh Yu Mei and Janice Loo from the National Library Singapore for their assistance in translating and highlighting relevant Japanese and pictorial sources.
 <br><br>
-Scan the QR code to find out details of the inset map. Discover more about the prewar Japanese community in and around Middle Road from Curiocity (<a href="https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/">https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/</a>), and explore Japanese street maps of Singapore in the collections of the National Library Singapore and National Archives of Singapore.
+Discover more about the prewar Japanese community in and around Middle Road from Curiocity (<a href="https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/">https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/</a>), and explore Japanese street maps of Singapore in the collections of the National Library Singapore and National Archives of Singapore.
 </div>
 
 
