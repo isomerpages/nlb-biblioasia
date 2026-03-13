@@ -1,6 +1,6 @@
 ---
 title: Singapore’s Early Japanese Community on a Rare Map
-permalink: /singapore-s-early-japanese-community-on-a-rare-map/
+permalink: /holding-area/vol-22/issue-1/apr-jun-2026/singapore-s-early-japanese-community-on-a-rare-map/
 variant: markdown
 description: ""
 ---
@@ -9,7 +9,7 @@ By Gracie Lee
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_main.png" style="width: 80%;">
 
-<div style="background-color: white;">Detail from the map titled <i>Map of Singapore</i> = 新嘉坡市街地圖 (<i>Shingapōru Shigai Chizu</i>), likely published in 1920. It is one of the earliest Japanese street maps of Singapore.<i> (From National Library Singapore, call no.RRARE 912.5957 MAP).   </i></div>
+<div style="background-color: white;"><i>Map of Singapore</i> = 新嘉坡市街地圖 (<i>Shingapōru Shigai Chizu</i>), likely published in 1920. It is one of the earliest Japanese street maps of Singapore.<i> (From National Library Singapore, call no. RRARE 912.5957 MAP).   </i></div>
 
 
 Within the National Library’s Rare Materials Collection lies a cartographic treasure that opens a window into Singapore’s multicultural past. The map titled _Map of Singapore_ \= 新嘉坡市街地圖 (_Shingapōru Shigai Chizu_) tells a story of the thriving Japanese diaspora that once called this bustling port city home.[^1]
@@ -31,10 +31,9 @@ The publisher’s name, Kobunkan, appears on the map in both Japanese and Englis
 
 The bookstore offered an extensive array of Japanese products ranging from newspapers, magazines, books and maps to stationery and picture postcards. Its customers included the employees of leading Japanese firms in the commercial district of Raffles Place and Collyer Quay as well as small Japanese businesses clustered around Middle Road and North Bridge Road. The latter comprised medical and dental clinics, retail shops, grocery stores, photo studios, barbershops, tailors, hotels, inns and restaurants.
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_postcard.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bookstore.png" style="width: 80%;">
 
-<div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. RRARE 952.03 LSB-[LSB]. Donated by Lim Shao Bin).</i></div>
-
+<div style="background-color: white;">Location of Kobunkan bookstore (circled in red) on Middle Road. <i>Image reproduced from 戦前シンガポールの日本人社会: 写真と記錄 = Prewar Japanese Community in Singapore: Photographs and Records (Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE). Courtesy of The Japanese Association Singapore.</i></div>
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
 
 <div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore. </i></div>
@@ -49,9 +48,6 @@ But perhaps more unusual was Kobunkan’s largest customer base – the _karayuk
 
 Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese plantation workers in Johor and expatriate communities across British Malaya, the Dutch East Indies and British North Borneo.[^10] The bookstore was also the local distributor for Sakura Beer and the Kangaroo brand of canned Japanese fishcakes – _chikuwa_ and _kamaboko_.[^11]
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bookstore.png" style="width: 80%;">
-
-<div style="background-color: white;">Location of Kobunkan bookstore (circled in red) on Middle Road. <i>Image reproduced from 戦前シンガポールの日本人社会: 写真と記錄 = Prewar Japanese Community in Singapore: Photographs and Records (Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE). Courtesy of The Japanese Association Singapore.</i></div>
 
 
 #### **From Pearl Diver to Entrepreneur**
@@ -93,7 +89,7 @@ In 1920, Yamasaki and his wife left Singapore, presumably to return permanently 
 **The Japanese Association (**日本人會**; Nihonjin-kai) and the Japanese Elementary School (**日本人小學校**;**&nbsp; **Nihonjin Shōgakkō)**
 <br>
 Location on map: Short Street
-<br>
+
 The Japanese Association, established in 1915, and the Japanese School, founded in 1912, were both situated on Short Street. The association operated from Short Street between 1918 and 1920, while the school remained there until 1921. The school was first located on Middle Road before moving to Bencoolen Street, Wilkie Road and then Short Street.[^24] &nbsp;
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_elementary.png" style="width: 80%;">
@@ -108,7 +104,7 @@ A cornerstone of the Japanese community, the association managed the Japanese Sc
 **Japanese Commercial Museum (**日本商品陳列舘**;**&nbsp; **Nihon Shōhin Chinretsu-kan)**
 <br>
 Location on map: 77 Bras Basah Road
-<br>
+
 The Japanese Commercial Museum was established in 1918 by the South Seas Association (南洋協会; Nan’yō Kyōkai) to further Japan’s commercial and trade expansion into the South Seas.[^25] Despite its name, the institution was not a museum in the conventional sense, but rather a showcase for Japanese-made merchandise.[^26]
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_museum.png" style="width: 80%;">
@@ -119,7 +115,7 @@ The Japanese Commercial Museum was established in 1918 by the South Seas Associa
 **Route to Japanese Cemetery (**日本人墓地行**;** **Nihonjin Bochi-yuki)**
 <br>
 Location on map: Serangoon Road
-<br>
+
 Serangoon Road is marked on the map as 日本人墓地行 (Route to the Japanese Cemetery), highlighting its importance as the main thoroughfare connecting Middle Road to the cemetery. The road served as the principal route for cemetery visitors and funeral processions travelling from Middle Road – where most of the early Japanese community lived and worked – to the cemetery in Yio Chu Kang. Notably, the cemetery, where many of Singapore's long-term Japanese residents were buried, was featured as a destination in Japanese guidebooks of the early 20th century.[^27] The cemetery stopped taking burials in 1973 and became the Japanese Cemetery Park in 1987.[^28] &nbsp;
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_serangoon.png" style="width: 80%;">
@@ -131,7 +127,7 @@ Serangoon Road is marked on the map as 日本人墓地行 (Route to the Japanese
 **Japanese Consulate (**領事舘**; Ryōjikan)**
 <br>
 Location on map: Raffles Chambers, Raffles Place
-<br>
+
 The Japanese Consulate established its office in Raffles Chambers in 1917, one of several locations it would occupy since its founding in 1879. The consulate’s first premises was on North Bridge Road where Hoo Ah Kay (popularly known as Whampoa) served as the first honorary Japanese Consul. Following Hoo’s death in 1880, the position was left vacant until Nakagawa Tsunejirō (中川恒次郎) was appointed as the first acting consul in 1889, with his office situated on Sophia Road.[^29]
 
   
@@ -139,7 +135,7 @@ The Japanese Consulate established its office in Raffles Chambers in 1917, one o
 **Mitsubishi Branch Office (**三菱出張所**; Mitsubishi Shutchōjo)**
 <br>
 Location on map: Raffles Chambers, Raffles Place
-<br>
+
 Trading company Mitsubishi established a representative office in Singapore in 1917 after identifying Singapore as its strategic base for expansion into British Malaya, the Dutch East Indies and India. This move was part of a broader trend of Japanese trading companies and merchants setting up operations in Raffles Place and High Street during the late 1910s to capitalise on the growing demand for Japanese goods during and after the First World War (1914–18). Reduced trade between Singapore and Europe during the war had created an opportunity for Japan to increase its commercial presence in Southeast Asia.[^30]
 
   
@@ -147,7 +143,7 @@ Trading company Mitsubishi established a representative office in Singapore in 1
 **Bank of Taiwan Branch (**台銀支店**; Taigin Shiten)**
 <br>
 Location on map: 1 Battery Road
-<br>
+
 The Bank of Taiwan, operating under the Japanese colonial administration in Taiwan, became the first Japanese bank to establish operations in Singapore in 1912.[^31] The bank first opened at 100 Robinson Road before moving to Battery Road in 1916 where it was co-located with Mitsui Bussan Kaisha (三井物産会碇), the first Japanese trading company in Singapore.[^32] The Bank of Taiwan was formed in 1899 to serve as the central bank and development bank of Taiwan. It aimed to expand internationally to support Japan’s economic expansion into South China and the South Seas.[^33] The Singapore branch primarily handled foreign exchange transactions and loans to Japanese rubber planters and businessmen.[^34]
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bank.png" style="width: 80%;">
@@ -158,7 +154,7 @@ The Bank of Taiwan, operating under the Japanese colonial administration in Taiw
 **Bank of Taiwan Company House No. 1 (**台銀第一碇宅**;**&nbsp; **Taigin Daiichi Shataku)**
 <br>
 Location on map: Osborne House, 11 Upper Wilkie Road
-<br>
+
 Known today as Mount Emily Villa, Osborne House served as the residence of the manager of the Bank of Taiwan during the late 1910s and then as the home of Singapore-based Japanese dentist Ikeda Jūkichi (池田重吉) in 1935. It later housed the Japanese Consulate-General between 1939 and 1941. After the Japanese Occupation, the building was used by the Ministry of Social Affairs’ Social Welfare Department. In 1969, Mount Emily Girls’ Home occupied the space followed by Wilkie Road Children’s Home in the 1980s.[^35] Today, the premises are occupied by The Private Museum.
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_home.png" style="width: 80%;">
@@ -171,7 +167,7 @@ Known today as Mount Emily Villa, Osborne House served as the residence of the m
 **Japanese Ship Wharf (**日本舩ワーフ**; Nihon Fune Wāfu)**
 <br>
 Location on map: Tanjong Pagar Wharves
-<br>
+
 This appears to be the berthing area for arriving Japanese ships.
 
   
@@ -179,22 +175,26 @@ This appears to be the berthing area for arriving Japanese ships.
 **Kuhara Branch Office (**久原出張所**; Kuhara Shutchōjo)**
 <br>
 Location on map: 6 Scotts Road
-<br>
+
 The Singapore branch of the Kuhara Mining Company (久原鑛業株式會碇; Kuhara Kōgyō Kabushiki Kaisha) was established in 1916. The company was founded in Japan in 1905 by Kuhara Fusanosuke (久原房之助), a prominent businessman and founder of several prominent Japanese companies, including Hitachi. As part of its overseas expansion plans, the company began conducting various explorations for oil and other mineral resources in the Dutch East Indies and Malaya. By 1920, its Singapore operations had grown to include the Kuhara Trading Company (久原商事株式會碇; Kuhara Shōji Kabushiki Kaisha).[^36]
 
 
 **Osaka Shosen Branch (**大阪商船支店**; Ōsaka Shōsen Shiten)**
 <br>
 Location on map: 2 De Souza Street
-<br>
+
 Osaka Shosen Kaisha was one of Japan’s major shipping companies that operated alongside the Nippon Yusen Kaisha (日本郵船会碇) in Singapore. In 1918, the company established its Singapore branch office at 2 De Souza Street,[^37] increasing its commercial shipping presence in the region. Prior to this expansion, local agent Guthrie and Co. had managed the company’s shipping routes.[^38]
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_postcard.png" style="width: 80%;">
+
+<div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. RRARE 952.03 LSB-[LSB]. Donated by Lim Shao Bin).</i></div>
 
   
 
 **Mitsui Company House No. 1 (**三井第一碇宅**; Mitsui Daiichi Shataku****)**
 <br>
 Location on map: Draycot, Stevens Road
-<br>
+
 Draycot was once the residence of the manager of Mitsui Bussan Kaisha (三井物産会碇).&nbsp; The property was more than a residential space; it was also a venue for hosting distinguished guests and business networking. Notable visitors included Dr Lim Boon Keng, a leader of the Chinese community in Singapore, and Marquis Saionji, a prominent Japanese statesman who stayed at Draycot while travelling to the 1919 Paris Peace Conference after the First World War.[^39]
 
 As Singapore’s first Japanese trading company, Mitsui Bussan Kaisha began with a modest representative office at 8 Battery Road in 1891, occupying the upper floors of the Dispensary Building. Its initial aim was to secure contracts with European steamship companies to supply coal from Japan’s largest coal mine, the Miike Mine. As business grew, Mitsui diversified into shipping, accounting, communications, insurance brokerage, and the import-export of various goods, including rice, electrical supplies, metals and metallic ores, marine products and textiles. The company’s growing influence in Singapore’s colonial business society earned it a place in the Singapore Chamber of Commerce in 1911.[^40] 
@@ -202,14 +202,14 @@ As Singapore’s first Japanese trading company, Mitsui Bussan Kaisha began with
 **Consular Residence (**領事官舍**; Ryōji-kansha****)**
 <br>
 Location on map: Kinloss, Lady Hill, Orange Grove
-<br>
+
 Kinloss was constructed in 1903 as the private residence of Lieutenant-Colonel Alexander Murray, the colonial engineer and surveyor-general of the Straits Settlements.[^41] Following Murray’s departure from Singapore in 1906, the house became the residence of the Japanese Consul from 1909 to the 1920s.[^42] During this period, Kinloss hosted several significant diplomatic events, including local celebrations of the Japanese Emperor’s birthday and the coronation of Emperor Taishō in 1915. The residence also welcomed prominent guests, notably Prince Asaka Yasuhiko (朝香宮鳩彦王; Asaka-no-miya Yasuhiko-ō) during his stopover in Singapore in 1922 while en route to France for military studies.[^43]
 
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> The author thanks Tanabe Tsukasa, the great-grandson of Yamasaki Eijiro, for sharing information about his family; Takako Iino from Friends of the Museum in Singapore; and Senior Librarians Goh Yu Mei and Janice Loo from the National Library Singapore for their assistance in translating and highlighting relevant Japanese and pictorial sources.
 <br><br>
-Scan the QR code to find out details of the inset map. Discover more about the prewar Japanese community in and around Middle Road from Curiocity (<a href="https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/">https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/</a>), and explore Japanese street maps of Singapore in the collections of the National Library Singapore and National Archives of Singapore.
+Discover more about the prewar Japanese community in and around Middle Road from Curiocity (<a href="https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/">https://curiocity.nlb.gov.sg/mapping-middle-road-prewar-japanese-community-in-singapore/</a>), and explore Japanese street maps of Singapore in the collections of the National Library Singapore and National Archives of Singapore.
 </div>
 
 

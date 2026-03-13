@@ -2,5 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Director's Note.md
+      - "Rodolfo Nolli: The Quiet Sculptor Who Shaped a City.md"
       - Singapore’s Early Japanese Community on a Rare Map.md
       - Sample article.md
