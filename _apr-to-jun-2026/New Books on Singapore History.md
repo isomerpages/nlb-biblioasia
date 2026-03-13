@@ -26,7 +26,7 @@ Call no. RSING 305.892705957 ARA
 
 
 
-The Arabs in Singapore, primarily from the Hadramaut region in what is now part of modern-day Yemen, have played a pivotal role in the nation's history since their arrival in 1819. This coffee-table book offers a compelling account of two centuries of heritage, community life and contributions of the Arabs, who have greatly enriched Singapore's diverse social fabric.
+The Arabs in Singapore, primarily from the Hadramaut region in what is now part of modern-day Yemen, have played a pivotal role in the nation's history since their arrival in 1819. This coffee-table book offers a compelling account of two centuries of heritage, community life and contributions of the Arabs who have greatly enriched Singapore's diverse social fabric.
 
 
 
