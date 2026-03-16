@@ -14,25 +14,13 @@ By Nicola Kanmany John
 
 Although he was not an architect, the works of Rodolfo Nolli can be found in buildings all over Singapore. Details and ornamentation by this Italian sculptor and stonework contractor can be seen at the former Supreme Court building, the old King Edward VII College of Medicine, the Fullerton Hotel and other 20th-century landmarks.
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_inauguration.png" style="width: 80%;">
-
-<div style="background-color: white;">Inauguration of the new building of the King Edward VII College of Medicine by Governor Laurence Guillemard, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0046).</i></div>
-
 Nolli’s contributions to the old Supreme Court building (restored with the former City Hall building and now part of the National Gallery Singapore) are perhaps the easiest to observe. In addition to the Corinthian columns which make the facade so grand, Nolli worked on the relief (a wall-mounted sculpture raised from a flat base) in the tympanum, which is the triangular decorative section just above the columns. The sculpture shows Lady Justice holding weighing scales and a sword – symbolising law and judgment – alongside figures reacting to her judgment (see photograph on page 39).[^1]
-
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_column.png" style="width: 70%;">
-
-<div style="background-color: white;">A closeup of the decorative work on the Corinthian columns of the former Supreme Court building, 2026. <i>Photo by Jimmy Yap. </i></div>
-
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_relief.png" style="width: 80%;">
-
-<div style="background-color: white;">Rodolfo Nolli’s relief on the building of the King Edward VII College of Medicine, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0031). </i></div>
 
 Nolli may not be familiar to many today but the Italian sculptor made a name for himself as an expatriate artist in Singapore between the 1920s and 1950s. His contributions to the city’s built heritage remain important to this day. Besides gaining attention for his professional work, Nolli made his presence felt at high-society gatherings, where he participated in a wide range of social engagements as well as once-in-a-lifetime events, including hunting down a man-eating tiger and welcoming the daughter of Benito Mussolini, the prime minister and Fascist dictator of Italy, to Singapore in 1930.[^2]
 
 <img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_rodolfo.png" style="width: 80%;">
 
-<div style="background-color: white;">Rodolfo Nolli with his fellow workers in his studio, 1930. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0091).</i></div>
+<div style="background-color: white;">Rodolfo Nolli with his workers in his studio, 1930. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0091).</i></div>
 
 “Rodolfo Nolli, a young Italian sculptor with his head full of dreams and glory, left Milan 36 years ago to seek fame, fortune and adventure in the Far East,” the _Singapore Free Press_ wrote in July 1949.[^3] In this, he certainly succeeded.
 
@@ -52,6 +40,15 @@ This was in response to an article from three days earlier in which the _Straits
 
 In February 1926, when the King Edward VII College of Medicine opened, the _Singapore Free Press and Mercantile Advertiser_ described Nolli as “the Italian sculptor who was responsible for the sculpture” of the new building. Among the decorative details Nolli fashioned for the facade is an eagle encircled by a wreath, which bears a striking resemblance to 18th-century decorative details of the Royal Villa of Monza near Milan. Nolli also made a “presentation key” designed by Major P.H. Keys – a replica of an ancient Roman statue known as the Minerva Medica – for the official opening of the new building.[^11] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_inauguration.png" style="width: 80%;">
+
+<div style="background-color: white;">Inauguration of the new building of the King Edward VII College of Medicine by Governor Laurence Guillemard, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0046).</i></div>
+
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_relief.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo Nolli’s relief on the building of the King Edward VII College of Medicine, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0031). </i></div>
+
 Around this time, the King of Italy made Nolli a knight (“Cavaliere”) of the Order of the Royal Crown of Italy in recognition of “his work in the Far East”.[^12] From this point onwards, newspapers often referred to him as Cavaliere or Cav. Nolli, although he was occasionally still called Signor Nolli.&nbsp;
 
 In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with some of his recent work, including the top of a column intended for the Municipal Offices, a coat of arms and decorative feature for the Post Office Building and a relief (described as a “mural plaque”) for the College of Medicine. For much of the next decade, Nolli continued to work on similarly commissioned exterior and interior decoration.[^13] &nbsp;
@@ -65,6 +62,10 @@ In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with
 <div style="background-color: white;">The coat of arms of the Colony of Singapore (1946–59) by&nbsp;Rodolfo&nbsp;Nolli, 1948–55. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0067).</i></div>
 
 In the late 1930s, Nolli worked on what has become his most famous commission: the facade of the Supreme Court comprising the columns and tympanum. This took more than a year to complete. Looking back on this project, which he was most proud of, Nolli called it his baby, “from the first stone at the base to the lightning conductor on top of the dome”. In 1952, the _Singapore Standard_ wrote that the facade would be “remembered as one of \[Nolli’s\] best efforts”.[^14]&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_column.png" style="width: 70%;">
+
+<div style="background-color: white;">A closeup of the decorative work on the Corinthian columns of the former Supreme Court building, 2026. <i>Photo by Jimmy Yap. </i></div>
 
 The tympanum, in particular, was a complex composition which drew on Nolli’s skills as a sculptor to a much greater degree than the more decorative work he was often commissioned to do. It is likely that this further endeared the project to him given that Nolli also complained that the lack of opportunity for more artistic work in Singapore during the 1920s and 1930s meant that he had spent most of his career as “just a contractor” rather than a sculptor.[^15]
 
