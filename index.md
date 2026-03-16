@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 20 Issue 4/Caligraphy/HeroImage_caligraphy_3.jpg
       variant: center
   - infopic:
+      title: "P. Ramlee: The Singapore Years"
+      subtitle: Arts
+      id: infopic
+      description: The formative years of singer, actor and filmmaker P. Ramlee
+        unfolded in Singapore, which he captured with vividness in his songs and
+        films.
+      button: Remembering a legendary icon
+      url: /vol-22/issue-1/apr-jun-2026/p-ramlee-singer-actor-filmmaker-director-singapore/
+      image: /images/Vol 22 Issue 1/Ramlee/ramlee_still2.png
+      alt: "P. Ramlee: The Singapore Years"
+  - infopic:
       title: Toa Payoh Library, the Second Branch Library
       subtitle: BiblioAsia Reels
       id: infopic
@@ -1184,17 +1195,6 @@ sections:
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
       image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
-  - infopic:
-      title: "P. Ramlee: The Singapore Years"
-      subtitle: Arts
-      id: infopic
-      description: The formative years of singer, actor and filmmaker P. Ramlee
-        unfolded in Singapore, which he captured with vividness in his songs and
-        films.
-      button: Remembering a legendary icon
-      url: /vol-22/issue-1/apr-jun-2026/p-ramlee-singer-actor-filmmaker-director-singapore/
-      image: /images/Vol 22 Issue 1/Ramlee/ramlee_still2.png
-      alt: "P. Ramlee: The Singapore Years"
   - infopic:
       title: New Books on Singapore History (Apr 2026)
       subtitle: Literature
