@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-4/jan-mar-2026/mrs-lee-choon-guan-woman-philanthropist/
-      button: "A Pioneering Philanthropist: The Life of Mrs Lee Choon Guan"
+      url: /vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/
+      button: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman Al-Attas"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 4/A Pioneering
-        Philanthropist/HeroImage_Philanthropist_4.jpg
+      background: /images/Vol 20 Issue 4/Caligraphy/HeroImage_caligraphy_3.jpg
       variant: center
   - infopic:
       title: Toa Payoh Library, the Second Branch Library
