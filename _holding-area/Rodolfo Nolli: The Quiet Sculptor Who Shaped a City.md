@@ -64,7 +64,7 @@ In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with
 
 <div style="background-color: white;">Relief sculptures by Rodolfo Nolli, 1930s. These were meant for Meyer Chambers but were never used and were subsequently lost during the Japanese Occupation. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0063).</i></div>
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_colony.png" style="width: 80%;">
 
 <div style="background-color: white;">The coat of arms of the Colony of Singapore (1946–59) by&nbsp;Rodolfo&nbsp;Nolli, 1948–55. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0067).</i></div>
 
@@ -83,7 +83,7 @@ In 1951, Nolli designed and made the coat of arms for three High Court halls whi
 
 <div style="background-color: white;">Rodolfo Nolli with the Gan Eng Seng School crest, 1950. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0034). </i></div>
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_angel.png" style="width: 80%;">
 
 <div style="background-color: white;">One in a set of reliefs of angels sculpted by&nbsp;Rodolfo&nbsp;Nolli for the chapel of St Anthony's Convent on Middle Road, c. 1952. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0069).</i></div>
 
@@ -97,9 +97,9 @@ As a well-known Italian based in Singapore, Nolli was actively involved in hosti
 
 Nolli also formed part of the welcoming party that received Edda and Galeazzo Ciano, the daughter and son-in-law of Mussolini, during their visit to Singapore in October 1930. Although the _Straits Times_ made no mention of Nolli in its coverage of the Cianos’ visit, it reported that “all the members of the Italian community in Singapore” attended the dinner held in their honour at the Europe Hotel. The _Straits Budget_, on the other hand, ran a photo of the couple’s arrival in which Nolli was both clearly visible and named as a member of the party. These incidents reveal Nolli’s prominence within the Italian community in Singapore.[^23]
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_committee.png" style="width: 80%;">
 
-<div style="background-color: white;">Rodolfo&nbsp;Nolli was part of the welcoming committee that received Edda and Galeazzo Ciano, the daughter and son-in-law of Benito Mussolini, during their visit to Singapore in October 1930. From left: V. Pini, the Italian Consul in Singapore; Galeazzo Ciano; Mrs Pini;&nbsp;Rodolfo&nbsp;Nolli; Edda Ciano; and G. Aurely. <i>Image reproduced from the Straits Budget, 9 October 1930, 17. (From NewspaperSG).</i></div>
+<div style="background-color: white;">Rodolfo Nolli was part of the welcoming committee that received Edda and Galeazzo Ciano, the daughter and son-in-law of Benito Mussolini, during their visit to Singapore in October 1930. From left: V. Pini, the Italian Consul in Singapore; Galeazzo Ciano; Mrs Pini;&nbsp;Rodolfo&nbsp;Nolli; Edda Ciano; and G. Aurely. <i>Image reproduced from the Straits Budget, 9 October 1930, 17. (From NewspaperSG).</i></div>
 
 Nolli was also frequently mentioned in the press as an attendee at baptisms, weddings and funerals held in Singapore between the 1920s and 1930s, and even hosted one of the weddings. In February 1927, the _Straits Budget_ reported that the wedding reception of Russian pianist Monia Litter and his bride, ballerina Mura Smirnova, was held “at the residence of Mr. R. Nolli in Gilstead Road”. Although the paper described the event as “typically Russian and very joyous”, it did not explain Nolli’s connection to the couple or the extent of his involvement beyond providing the venue.[^24] &nbsp;
 
