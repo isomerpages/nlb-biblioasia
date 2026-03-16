@@ -64,10 +64,6 @@ In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with
 
 <div style="background-color: white;">Relief sculptures by Rodolfo Nolli, 1930s. These were meant for Meyer Chambers but were never used and were subsequently lost during the Japanese Occupation. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0063).</i></div>
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_colony.png" style="width: 80%;">
-
-<div style="background-color: white;">The coat of arms of the Colony of Singapore (1946–59) by&nbsp;Rodolfo&nbsp;Nolli, 1948–55. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0067).</i></div>
-
 In the late 1930s, Nolli worked on what has become his most famous commission: the facade of the Supreme Court comprising the columns and tympanum. This took more than a year to complete. Looking back on this project, which he was most proud of, Nolli called it his baby, “from the first stone at the base to the lightning conductor on top of the dome”. In 1952, the _Singapore Standard_ wrote that the facade would be “remembered as one of \[Nolli’s\] best efforts”.[^14]&nbsp;
 
 <img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_column.png" style="width: 70%;">
@@ -83,7 +79,7 @@ Nolli spent four years in an internment camp in Australia before returning to Si
 
 In 1951, Nolli designed and made the coat of arms for three High Court halls which had been “without a coat of arms since the re-occupation”.[^18] Nolli’s later works demonstrate the importance of architectural commissions in the postwar restoration of large-scale institutional buildings. He also worked on decorative details for schools that were built during this period, crafting the crest for the new Gan Eng Seng School and working on a set of reliefs of angels for the school chapel of St Anthony’s Convent in 1952.[^19] Nolli also worked on the Omar Ali Saifuddien Mosque in Brunei for some time, though the _Straits Times_ 1964 report that he retired in 1956 suggests that he did not stay on to see the mosque being completed.[^20] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_crest.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_crest2.png" style="width: 80%;">
 
 <div style="background-color: white;">Rodolfo Nolli with the Gan Eng Seng School crest, 1950. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0034). </i></div>
 
@@ -92,6 +88,10 @@ In 1951, Nolli designed and made the coat of arms for three High Court halls whi
 <div style="background-color: white;">One in a set of reliefs of angels sculpted by&nbsp;Rodolfo&nbsp;Nolli for the chapel of St Anthony's Convent on Middle Road, c. 1952. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0069).</i></div>
 
 Altogether, Rodolfo Nolli lived and worked in Singapore for more than 30 years. In February 1964, Nolli died in Italy at the age of 75. The _Straits Times_ report of his passing noted that the sculptor spent “nearly half his lifetime in Singapore” and listed several of his more prominent works in Singapore, Kuching and Kuala Lumpur.[^21] &nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_colony.png" style="width: 80%;">
+
+<div style="background-color: white;">The coat of arms of the Colony of Singapore (1946–59) by&nbsp;Rodolfo&nbsp;Nolli, 1948–55. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0067).</i></div>
 
 #### **Nolli the Celebrity**
 
