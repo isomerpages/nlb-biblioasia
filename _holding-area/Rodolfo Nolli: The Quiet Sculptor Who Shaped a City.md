@@ -14,6 +14,10 @@ By Nicola Kanmany John
 
 Although he was not an architect, the works of Rodolfo Nolli can be found in buildings all over Singapore. Details and ornamentation by this Italian sculptor and stonework contractor can be seen at the former Supreme Court building, the old King Edward VII College of Medicine, the Fullerton Hotel and other 20th-century landmarks.
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_stoneyard.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo Nolli with his workers at his stoneyard at 47 Scotts Road, 1939. Shown here is the precast cost of arms for Fullerton Building. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0097).</i></div>
+
 <img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_inauguration.png" style="width: 80%;">
 
 <div style="background-color: white;">Inauguration of the new building of the King Edward VII College of Medicine by Governor Laurence Guillemard, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0046).</i></div>
@@ -105,7 +109,7 @@ Nolli was also frequently mentioned in the press as an attendee at baptisms, wed
 
 In June 1931, Nolli was part of a hunting team that tracked down and shot “a fierce, man-eating tiger” believed to have killed three people in Kulai, Johor.[^25] In April 1934, Nolli served as one of four judges at a beauty contest held at the old Racecourse.[^26] The range of Nolli’s social engagements during this period showed that he was friends with many prominent expatriates outside the Italian community in Singapore, including but by no means limited to other artists and performers.
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_hunting.png" style="width: 80%;">
 
 <div style="background-color: white;">Rodolfo&nbsp;Nolli (3rd from left) was among the hunting party that shot a man-eating tiger at Kulai, Johor, on 25 June 1931. <i>Image reproduced from the Straits Budget, 9 July 1931, 17. (From NewspaperSG).</i></div>
 
@@ -140,13 +144,13 @@ Works by Nolli are also preserved in the collections of the National Gallery Sin
 
 Taken between 1913 and 1960, these images (which can be accessed at Archives Online; [https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/)) supplement the information on Nolli’s life and works from newspaper reports, and offer further insight into his craft and process as a sculptor. In addition to documenting works in progress as well as projects not reported in the news, they show the sculptor at work in Bangkok, on-site at various commissions around Singapore and at his Scotts Road stoneyard, including works lost to modernisation and redevelopment over time.&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
-
-<div style="background-color: white;">The Fraser &amp; Neave emblem by&nbsp;Rodolfo&nbsp;Nolli, 1940s. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358&nbsp;-&nbsp;0070).</i></div>
-
 In fact, Nolli was so closely associated with Singapore’s built heritage between the 1920s and 1950s that he has often been mistaken as the creator of others’ work. In particular, he is often mentioned in connection with the “Merdeka lions”, a pair of stone lions originally flanking Merdeka Bridge when it opened in 1956 but were removed in 1966 when Nicoll Highway was widened.[^36] &nbsp;
 
 At the time of their installation, the _Straits Times_ simply described the Merdeka lions as having been “ordered from Manila”. Further details in the _Singapore Standard_ revealed that the lions were designed by L.W. Carpenter of the Architects’ Branch of Singapore’s Public Works Department before being modelled by Italian sculptor Raoul Bigazzi, who was based in Hong Kong but travelled to Manila to have the final version of the statues cast.[^37] That Nolli did sculpt a pair of lions may well have added to this confusion although these were made in a very different style for the Bank of China’s main branch on Battery Road.&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_stonelion.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo Nolli with one of his stone lions for the Bank of China, 1954. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0074).</i></div>
 
 Considering how prominent Nolli’s work was and still is in Singapore, relatively few scholars have offered much detailed research into his work. The first to do so was photographer Marjorie Doggett, who featured the Supreme Court in the opening pages of her book, _Characters of Light: Early Buildings of Singapore_, first published in 1957. She highlighted Nolli’s work on various buildings, and included a description of his career in Bangkok and Singapore.[^38] &nbsp;
 
