@@ -6,7 +6,7 @@ description: ""
 ---
 It’s the year of the horse, according to the Chinese calendar, and I’m happy to report that as we gallop into the new year, _BiblioAsia_ has plenty of new and interesting stories for you to graze on.
 
-Our cover story looks at the milk drinking campaign that ran in the 1970s and 80s. Some readers might remember the daily ritual of drinking a small carton of milk in class (or forking out extra money for your children to buy the milk). The history of the programme, why it started and how it soured, is a microcosm of the Singapore story.
+Our cover story looks at the [milk drinking campaign](https://biblioasia.nlb.gov.sg/vol-22/issue-1/apr-jun-2026/school-milk-scheme-singapore/) that ran in the 1970s and 80s. Some readers might remember the daily ritual of drinking a small carton of milk in class (or forking out extra money for your children to buy the milk). The history of the programme, why it started and how it soured, is a microcosm of the Singapore story.
 
 Speaking of the Singapore story, there is a new exhibition at Level 10 of the National Library Building that looks at one of the defining moments of Singapore’s history – separation from Malaysia in 1965. For the longest time, conventional wisdom here held that Singapore had been kicked out. However, the exhibition (and accompanying book) makes clear that it was a mutual decision. In this issue, we reproduce an extract from _The Albatross File: Inside Separation_ that explains why Finance Minister Goh Keng Swee felt that Singapore would be better off without Malaysia, together with a transcript of his handwritten notes from a key July 1965 meeting that worked out how the separation would be handled.&nbsp;
 
