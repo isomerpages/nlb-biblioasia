@@ -39,7 +39,7 @@ Kobunkan’s bestsellers revealed the community's continued links with Japan. Ma
 
 But perhaps more unusual was Kobunkan’s largest customer base – the _karayuki-san_.[^8] Sold into prostitution, these Japanese women lived and worked in Japanese brothels located in and around Malay Street, which was within walking distance to the bookstore. They typically favoured lifestyle and women’s magazines such as _Kodan World_ (講談世界; Kōdan Sekai), _Women’s World_ (婦人世界; Fujin Sekai) and _Friend of the Housewife_ (主婦の友; Shufu no Tomo).[^9]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_karayuki.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_karayuki2.png" style="width: 70%;">
 
 <div style="background-color: white;">Two <i>karayuki-san</i> seated along a five-footway, c. 1870s–1910s. <i>Image reproduced from Sammlung von 19 originalphotographien aus Singapur (n.p.: n.p., 1880–1900). (From National Library Singapore, call no.RRARE 779.99595703 SAM).</i></div>
 
@@ -51,7 +51,7 @@ Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese pl
 
 This curious connection between Japanese fishcakes, kangaroos and Singapore becomes clear when we examine the life of Kobunkan’s founder Yamasaki Eijirō (山崎 榮治郎),[^12] whose remarkable journey took him from Japan to Singapore and Australia.[^13]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_portrait.png" style="width: 40%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_portrait2.png" style="width: 80%;">
 
 <div style="background-color: white;">Portrait of Yamasaki Eijirō from a postcard of his general store in Broome, Western Australia, c. 1909. <i>Photo by Aussie~mobs. From flickr.</i></div>
 
