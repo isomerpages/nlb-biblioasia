@@ -205,6 +205,19 @@ Location on map: Kinloss, Lady Hill, Orange Grove
 
 Kinloss was constructed in 1903 as the private residence of Lieutenant-Colonel Alexander Murray, the colonial engineer and surveyor-general of the Straits Settlements.[^41] Following Murray’s departure from Singapore in 1906, the house became the residence of the Japanese Consul from 1909 to the 1920s.[^42] During this period, Kinloss hosted several significant diplomatic events, including local celebrations of the Japanese Emperor’s birthday and the coronation of Emperor Taishō in 1915. The residence also welcomed prominent guests, notably Prince Asaka Yasuhiko (朝香宮鳩彦王; Asaka-no-miya Yasuhiko-ō) during his stopover in Singapore in 1922 while en route to France for military studies.[^43]
 
+#### **Beyond the Urban Core: Inset Map**
+
+**Japanese Cemetery, Saiyūji Temple (日本人墓地;&nbsp;Nihonjin Bochi,&nbsp;西有寺;&nbsp;Saiyūji)**
+<br>
+Location on map: 22 Chuan Hoe Avenue
+
+The Japanese Cemetery was established in 1891 when Futaki Tagajirō (二木多賀治郎) and two others obtained government approval to convert a plot of land in the Yio Chu Kang area into a communal cemetery for the Japanese community. The initiative was led by Futaki, the owner of a brothel, rubber plantation and grocery store.  
+  
+The cemetery comprised six acres from Futaki's rubber plantation and two acres of adjacent public land. Before its official establishment as a public cemetery, the site was already used as a burial ground for early Japanese immigrants.&nbsp;
+  
+The cemetery was managed by volunteers of the Mutual Aid Association. While it was initially created to serve as a burial ground for the significant number of Japanese prostitutes in Singapore, it eventually became the final resting place for many long-term Japanese residents. In 1911, Priest Baisen (楳仙和尚;&nbsp;Baisen Oshō)&nbsp;built&nbsp;Saiyūji, a Buddhist temple of the Sōtō sect, on the cemetery grounds to serve as the main provider of funeral services.&nbsp;The cemetery was closed to burials&nbsp;in 1973 and became the Japanese Cemetery Park in 1987.
+
+  
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> The author thanks Tanabe Tsukasa, the great-grandson of Yamasaki Eijiro, for sharing information about his family; Takako Iino from Friends of the Museum in Singapore; and Senior Librarians Goh Yu Mei and Janice Loo from the National Library Singapore for their assistance in translating and highlighting relevant Japanese and pictorial sources.
