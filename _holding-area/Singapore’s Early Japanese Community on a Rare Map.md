@@ -37,7 +37,7 @@ The bookstore offered an extensive array of Japanese products ranging from newsp
 
 Kobunkan’s bestsellers revealed the community's continued links with Japan. Major newspapers such as _Asahi Shimbun_ (朝日新聞), _Osaka Mainichi_ (大阪毎日) and _Tokyo Nichi Nichi_ (東京日日) provided vital news from home. Literary and general interest magazines such as _The Sun_ (太陽; Taiyō), _The Central Review_ (中央公論; Chūō Kōron), _Reform_ (改造; Kaizō), and _Japan and the Japanese_ (日本及日本人; Nihon oyobi Nihonjin) attracted a steady readership among white-collar workers like employees of trading companies and banks.
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_roha.png" style="width: 70%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_roha.png" style="width: 60%;">
 
 <div style="background-color: white;">Kobunkan bookstore on the left and Iroha Motorcar &amp; Co. on the right at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 「英領新架坡中央街　山﨑・竹井経営　日本人初の自動車営業　日本人初の書籍新聞販売店　西宇和郡（現西予市）三瓶町出身竹井庫敬（くらよし＝向かって左の和服の男性）ほか馬来人、車掌、ボーイ」, which translates as “British-governed Singapore, Middle Road. Managed by Yamazaki &amp; Takei. First Japanese automobile business. First Japanese bookstore and newspaper store. Born in Mikame Town, Nishiuwa District (current day Seiyo City), Takei Kurayoshi (Kurayoshi = the man in Japanese clothing on the left) alongside Malay, driver and boy”. <i>Courtesy of Tanabe Tsukasa.</i></div>
 
