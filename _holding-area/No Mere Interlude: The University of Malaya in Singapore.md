@@ -10,6 +10,10 @@ By Alvin Tan
 
 The National University of Singapore traces its history back to 1905 when the Straits and Federated Malay States Government Medical School was formed. In the ensuing 120 years or so, the university has gone through various incarnations.&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_main.png" style="width: 80%;">
+
+<div style="background-color: white;">The Li Ka Shing Building with the Tower Block at the National University of Singapore campus in Bukit Timah, 2026. The building was the old Block A of the University of Malaya. The Tower Block, formerly the Science Tower of the University of Singapore, was opened by Prime Minister Lee Kuan Yew on 1 July 1966.<i>Photo by Jimmy Yap.   </i></div>
+
 Although it is easy to view the 13-year existence of the University of Malaya from 1949 to 1962 as merely a transitional phase, it was more than a mere interlude. Set up during decolonisation, the Cold War and the struggle for independence for both Malaya and Singapore, it was a fascinating experiment in tertiary education.
 
 #### **The Start of Tertiary Education**
