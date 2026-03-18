@@ -212,7 +212,7 @@ The cemetery was managed by volunteers of the Mutual Aid Association. While it w
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary.png" style="width: 70%;">
 
-<div style="background-color: white;">The Japanese Cemetery (top) and&nbsp;Chief Priest Chisen Otsuka of Saiyūji Temple (bottom), 1910s. <i>Images reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
+<div style="background-color: white;">The Japanese Cemetery (top) and Chief Priest Chisen Otsuka of Saiyūji Temple (bottom), 1910s. <i>Images reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
 
   
 
