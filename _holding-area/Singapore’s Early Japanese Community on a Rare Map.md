@@ -215,9 +215,23 @@ The Japanese Cemetery was established in 1891 when Futaki Tagajirō (二木多�
   
 The cemetery comprised six acres from Futaki's rubber plantation and two acres of adjacent public land. Before its official establishment as a public cemetery, the site was already used as a burial ground for early Japanese immigrants.&nbsp;
   
-The cemetery was managed by volunteers of the Mutual Aid Association. While it was initially created to serve as a burial ground for the significant number of Japanese prostitutes in Singapore, it eventually became the final resting place for many long-term Japanese residents. In 1911, Priest Baisen (楳仙和尚;&nbsp;Baisen Oshō)&nbsp;built&nbsp;Saiyūji, a Buddhist temple of the Sōtō sect, on the cemetery grounds to serve as the main provider of funeral services.&nbsp;The cemetery was closed to burials&nbsp;in 1973 and became the Japanese Cemetery Park in 1987.
+The cemetery was managed by volunteers of the Mutual Aid Association. While it was initially created to serve as a burial ground for the significant number of Japanese prostitutes in Singapore, it eventually became the final resting place for many long-term Japanese residents. In 1911, Priest Baisen (楳仙和尚;&nbsp;Baisen Oshō)&nbsp;built&nbsp;Saiyūji, a Buddhist temple of the Sōtō sect, on the cemetery grounds to serve as the main provider of funeral services.[^44] The cemetery was closed to burials in 1973 and became the Japanese Cemetery Park in 1987.
 
   
+
+
+**Nisshin Rubber Estate (****日新ゴム園****;**&nbsp;**Nisshin Gomu-en****)**
+<br>
+Location on map: Yio Chu Kang Roade
+
+A 1917 survey documented four Japanese rubber plantation estates operating in Singapore: Nisshin Rubber Estate (日新護謨園), Rising Sun Plantation (ライジンサング園;&nbsp;Raijin Sangu-en),&nbsp;Endo Rubber Estate (遠藤護謨園;&nbsp;Endō Gomu-en) and Chitose Rubber Estate (千歳護謨園;&nbsp;Chitose Gomu-en).&nbsp;These estates served not only as commercial ventures but were also popular destinations for day trips among Japanese residents and tourists in Singapore.
+
+Nisshin Rubber Estate (Nisshin meaning Japan-Singapore)&nbsp;was established sometime between 1911 and 1913 through the consolidation of various agricultural plots that had been under cultivation since 1905. By 1917, the estate covered 1,042 acres and employed 21 Japanese staff alongside 275 Chinese, 84 Malay and 40 Indian coolies.
+
+As Singapore's largest Japanese rubber plantation, it drew visits from various Japanese missions and dignitaries, including Crown Prince Hirohito (later Emperor Showa) who toured the estate during his stopover in Singapore in 1921 while en route to Europe.
+
+
+
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> The author thanks Tanabe Tsukasa, the great-grandson of Yamasaki Eijiro, for sharing information about his family; Takako Iino from Friends of the Museum in Singapore; and Senior Librarians Goh Yu Mei and Janice Loo from the National Library Singapore for their assistance in translating and highlighting relevant Japanese and pictorial sources.
