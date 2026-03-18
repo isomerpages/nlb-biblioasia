@@ -7,7 +7,7 @@ description: ""
 #### A rare Japanese-English street map of Singapore tells the forgotten stories of the early Japanese community who left their mark here in the early 20th century.&nbsp;
 By Gracie Lee
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_main.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_main2.png" style="width: 80%;">
 
 <div style="background-color: white;"><i>Map of Singapore</i> = 新嘉坡市街地圖 (<i>Shingapōru Shigai Chizu</i>), likely published in 1920. It is one of the earliest Japanese street maps of Singapore.<i> (From National Library Singapore, call no. RRARE 912.5957 MAP).   </i></div>
 
@@ -31,12 +31,9 @@ The publisher’s name, Kobunkan, appears on the map in both Japanese and Englis
 
 The bookstore offered an extensive array of Japanese products ranging from newspapers, magazines, books and maps to stationery and picture postcards. Its customers included the employees of leading Japanese firms in the commercial district of Raffles Place and Collyer Quay as well as small Japanese businesses clustered around Middle Road and North Bridge Road. The latter comprised medical and dental clinics, retail shops, grocery stores, photo studios, barbershops, tailors, hotels, inns and restaurants.
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bookstore.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bookstore2.png" style="width: 80%;">
 
 <div style="background-color: white;">Location of Kobunkan bookstore (circled in red) on Middle Road. <i>Image reproduced from 戦前シンガポールの日本人社会: 写真と記錄 = Prewar Japanese Community in Singapore: Photographs and Records (Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE). Courtesy of The Japanese Association Singapore.</i></div>
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
-
-<div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore. </i></div>
 
 Kobunkan’s bestsellers revealed the community's continued links with Japan. Major newspapers such as _Asahi Shimbun_ (朝日新聞), _Osaka Mainichi_ (大阪毎日) and _Tokyo Nichi Nichi_ (東京日日) provided vital news from home. Literary and general interest magazines such as _The Sun_ (太陽; Taiyō), _The Central Review_ (中央公論; Chūō Kōron), _Reform_ (改造; Kaizō), and _Japan and the Japanese_ (日本及日本人; Nihon oyobi Nihonjin) attracted a steady readership among white-collar workers like employees of trading companies and banks.
 
@@ -62,10 +59,6 @@ Born in 1871 in Ehime Prefecture, Japan, Yamasaki first arrived in Singapore as 
 
 Also, while in Australia, Yamasaki made a foray into Malayan rubber. His 300-acre Ehime Rubber Estate (愛媛ゴム園; Ehime Gomu-en), established between 1909 and 1910, was one of the earliest rubber plantation developments along the Johor River.[^15]
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_tokio.png" style="width: 30%;">
-
-<div style="background-color: white;">Madam Tokio, a shareholder of Chitose Rubber Estate, undated. <i>Image reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
-
 #### **The Move to Singapore**
 
 When Yamasaki relocated to Singapore in 1912,[^16] the knowledge and experience that he had gained from his Australian ventures stood him in good stead. He initially established his wholesale trading business from Nippon Hotel (日本ホテル; Nippon Hoteru) on Beach Road, selling Australian beef and Kangaroo brand canned food manufactured by his own Sanyu Trading Company Canning Factory (三友商會鑵詰製造所; Sanyū Shōkai Kanzume Seizōsho) back in Ehime Prefecture.[^17]&nbsp;
@@ -75,10 +68,6 @@ Recognising the growing demand for Japanese reading materials among Singapore’
 In May 1913, Yamasaki relocated his operations to the more spacious 167 Middle Road.[^19] The bookstore was renamed Kobunkan (好文舘) in 1914 and, by 1915, had undergone significant expansion with the establishment of a publishing division helmed by Kōno Kōhei (河野公平), a seasoned newspaper editor from Ehime.[^20]&nbsp;
 
 Yamasaki’s entrepreneurial ambitions were not confined to general trade and books alone. In 1913, he established Iroha Motorcar &amp; Co. (いろは自動車商会; Iroha Jidōsha Shōkai),[^21] which employed Malay drivers to provide transportation services tailored specifically to the Japanese community’s needs. These included trips to and from the Japanese cemetery for funerals, visits to the entertainment and red-light districts,[^22] recreational drives for _karayuki-san_ and passenger transfers for European vessels docked at the Singapore harbour. The growth in the business led to its expansion and he leased the adjacent shophouse unit at 168 Middle Road.&nbsp; &nbsp;
-
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary.png" style="width: 70%;">
-
-<div style="background-color: white;">The Japanese Cemetery (top) and&nbsp;Chief Priest Chisen Otsuka of Saiyūji Temple (bottom), 1910s. <i>Images reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
 
 #### **The End of an Era**
 
@@ -215,7 +204,11 @@ The Japanese Cemetery was established in 1891 when Futaki Tagajirō (二木多�
   
 The cemetery comprised six acres from Futaki's rubber plantation and two acres of adjacent public land. Before its official establishment as a public cemetery, the site was already used as a burial ground for early Japanese immigrants.&nbsp;
   
-The cemetery was managed by volunteers of the Mutual Aid Association. While it was initially created to serve as a burial ground for the significant number of Japanese prostitutes in Singapore, it eventually became the final resting place for many long-term Japanese residents. In 1911, Priest Baisen (楳仙和尚;&nbsp;Baisen Oshō)&nbsp;built&nbsp;Saiyūji, a Buddhist temple of the Sōtō sect, on the cemetery grounds to serve as the main provider of funeral services.[^44] The cemetery was closed to burials in 1973 and became the Japanese Cemetery Park in 1987.
+The cemetery was managed by volunteers of the Mutual Aid Association. While it was initially created to serve as a burial ground for the significant number of Japanese prostitutes in Singapore, it eventually became the final resting place for many long-term Japanese residents. In 1911, Priest Baisen (楳仙和尚;&nbsp;Baisen Oshō)&nbsp;built&nbsp;Saiyūji, a Buddhist temple of the Sōtō sect, on the cemetery grounds to serve as the main provider of funeral services.[^44] The cemetery was closed to burials in 1973 and became the Japanese Cemetery Park in 1987.[^45]
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary.png" style="width: 70%;">
+
+<div style="background-color: white;">The Japanese Cemetery (top) and&nbsp;Chief Priest Chisen Otsuka of Saiyūji Temple (bottom), 1910s. <i>Images reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
 
   
 
@@ -224,14 +217,32 @@ The cemetery was managed by volunteers of the Mutual Aid Association. While it w
 <br>
 Location on map: Yio Chu Kang Roade
 
-A 1917 survey documented four Japanese rubber plantation estates operating in Singapore: Nisshin Rubber Estate (日新護謨園), Rising Sun Plantation (ライジンサング園;&nbsp;Raijin Sangu-en),&nbsp;Endo Rubber Estate (遠藤護謨園;&nbsp;Endō Gomu-en) and Chitose Rubber Estate (千歳護謨園;&nbsp;Chitose Gomu-en).&nbsp;These estates served not only as commercial ventures but were also popular destinations for day trips among Japanese residents and tourists in Singapore.
+A 1917 survey documented four Japanese rubber plantation estates operating in Singapore: Nisshin Rubber Estate (日新護謨園), Rising Sun Plantation (ライジンサング園;&nbsp;Raijin Sangu-en),&nbsp;Endo Rubber Estate (遠藤護謨園;&nbsp;Endō Gomu-en)[^46] and Chitose Rubber Estate (千歳護謨園;&nbsp;Chitose Gomu-en).&nbsp;These estates served not only as commercial ventures but were also popular destinations for day trips among Japanese residents and tourists in Singapore.
 
-Nisshin Rubber Estate (Nisshin meaning Japan-Singapore)&nbsp;was established sometime between 1911 and 1913 through the consolidation of various agricultural plots that had been under cultivation since 1905. By 1917, the estate covered 1,042 acres and employed 21 Japanese staff alongside 275 Chinese, 84 Malay and 40 Indian coolies.
+Nisshin Rubber Estate (Nisshin meaning Japan-Singapore)[^47] was established sometime between 1911 and 1913 through the consolidation of various agricultural plots that had been under cultivation since 1905. By 1917, the estate covered 1,042 acres and employed 21 Japanese staff alongside 275 Chinese, 84 Malay and 40 Indian coolies.[^48]
 
-As Singapore's largest Japanese rubber plantation, it drew visits from various Japanese missions and dignitaries, including Crown Prince Hirohito (later Emperor Showa) who toured the estate during his stopover in Singapore in 1921 while en route to Europe.
+As Singapore's largest Japanese rubber plantation, it drew visits from various Japanese missions and dignitaries, including Crown Prince Hirohito (later Emperor Showa) who toured the estate during his stopover in Singapore in 1921 while en route to Europe.[^49]
 
 
 
+
+
+
+**Chitose Rubber Estate (千歳ゴム園;&nbsp;Chitose Gomu-en)**
+<br>
+Location on map: Lim Chu Kang
+
+Official records indicate that the 180-acre Chitose Rubber Estate was established in January 1908 by a dentist, Henry Tsutada. Japanese sources, however, recorded that the estate was founded a year earlier by a consortium of four shareholders (千歳護謨栽培組合;&nbsp;Chitose Gomu Saibai Kumiai): Choya and Co. (潮谷商會;&nbsp;Chōya Shōkai), Tsutada Kenri (蔦田顯理;&nbsp;also known as Henry Tsutada), U. Ueda (上田泰正;&nbsp;Ueda Yasumasa) and Madam Tokio (東境セイ子; Tōkyō&nbsp;Seiko). The plantation employed five Chinese and 21 Javanese labourers. Given Tsutada's fluency in English and Malay, he was likely designated to handle the registration process and correspondence with colonial authorities, which could explain why he was listed as the sole registered owner in official records.[^50]
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_tokio2.png" style="width: 40%;">
+
+<div style="background-color: white;">Madam Tokio, a shareholder of Chitose Rubber Estate, undated. <i>Image reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
+
+Beyond his rubber plantation interests, Tsutada operated a dental practice from his clinic on Bras Basah Road, offering consultations in English and Malay. His linguistic abilities, which served him well in multicultural Singapore, were likely developed during his education at the Anglo-Chinese School. Outside his professional pursuits, Tsutada was a devout Christian who worshipped at the Japanese Methodist Church and raised his nine children in the faith. His second son, David Tsugio Tsutada (蔦田二雄;&nbsp;Tsutada Tsugio), became a prominent preacher in Japan, and many Tsutada family members continue to serve as pastors and missionaries today.[^51]
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
+
+<div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore. </i></div>
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> The author thanks Tanabe Tsukasa, the great-grandson of Yamasaki Eijiro, for sharing information about his family; Takako Iino from Friends of the Museum in Singapore; and Senior Librarians Goh Yu Mei and Janice Loo from the National Library Singapore for their assistance in translating and highlighting relevant Japanese and pictorial sources.
