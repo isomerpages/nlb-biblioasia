@@ -14,25 +14,17 @@ By Nicola Kanmany John
 
 Although he was not an architect, the works of Rodolfo Nolli can be found in buildings all over Singapore. Details and ornamentation by this Italian sculptor and stonework contractor can be seen at the former Supreme Court building, the old King Edward VII College of Medicine, the Fullerton Hotel and other 20th-century landmarks.
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_inauguration.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_stoneyard.png" style="width: 80%;">
 
-<div style="background-color: white;">Inauguration of the new building of the King Edward VII College of Medicine by Governor Laurence Guillemard, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0046).</i></div>
+<div style="background-color: white;">Rodolfo Nolli with his workers at his stoneyard at 47 Scotts Road, 1939. Shown here is the precast cost of arms for Fullerton Building. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0097).</i></div>
 
 Nolli’s contributions to the old Supreme Court building (restored with the former City Hall building and now part of the National Gallery Singapore) are perhaps the easiest to observe. In addition to the Corinthian columns which make the facade so grand, Nolli worked on the relief (a wall-mounted sculpture raised from a flat base) in the tympanum, which is the triangular decorative section just above the columns. The sculpture shows Lady Justice holding weighing scales and a sword – symbolising law and judgment – alongside figures reacting to her judgment (see photograph on page 39).[^1]
-
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_column.png" style="width: 70%;">
-
-<div style="background-color: white;">A closeup of the decorative work on the Corinthian columns of the former Supreme Court building, 2026. <i>Photo by Jimmy Yap. </i></div>
-
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_relief.png" style="width: 80%;">
-
-<div style="background-color: white;">Rodolfo Nolli’s relief on the building of the King Edward VII College of Medicine, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0031). </i></div>
 
 Nolli may not be familiar to many today but the Italian sculptor made a name for himself as an expatriate artist in Singapore between the 1920s and 1950s. His contributions to the city’s built heritage remain important to this day. Besides gaining attention for his professional work, Nolli made his presence felt at high-society gatherings, where he participated in a wide range of social engagements as well as once-in-a-lifetime events, including hunting down a man-eating tiger and welcoming the daughter of Benito Mussolini, the prime minister and Fascist dictator of Italy, to Singapore in 1930.[^2]
 
 <img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_rodolfo.png" style="width: 80%;">
 
-<div style="background-color: white;">Rodolfo Nolli with his fellow workers in his studio, 1930. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0091).</i></div>
+<div style="background-color: white;">Rodolfo Nolli with his workers in his studio, 1930. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0091).</i></div>
 
 “Rodolfo Nolli, a young Italian sculptor with his head full of dreams and glory, left Milan 36 years ago to seek fame, fortune and adventure in the Far East,” the _Singapore Free Press_ wrote in July 1949.[^3] In this, he certainly succeeded.
 
@@ -41,6 +33,10 @@ Nolli may not be familiar to many today but the Italian sculptor made a name for
 Nolli was born in Lombardy in northern Italy in 1888 to an extended family with an affinity for sculpture. His maternal uncle, Vittorio Novi, and granduncle did sculptural work in Milan, including for the Milan Cathedral (Duomo di Milano), and many of their contributions can still be seen in Lombardy today.[^4] Nolli’s move to Southeast Asia was also inspired by Novi.&nbsp;
 
 In 1912, Novi found work in Bangkok, Siam (present-day Thailand), where work on the Ananta Samakhom Throne Hall commissioned by King Rama V had been ongoing since 1908. Nolli left Italy in 1913 to join Novi in Bangkok, and both men worked on this project and subsequent commissions for the next few years. Employed at his uncle’s studio, the young Nolli would have been able to perfect his craft while enjoying a steady income and future opportunities in the rapidly developing urban centres of Bangkok and, soon, Singapore.[^5]
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_studio.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo Nolli in his Bangkok studio, 1913. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0082).</i></div>
 
 Although newspaper accounts show that Nolli had already moved to Singapore by 1921, the _Straits Budget_ referred to him as “Mr. R. Nolli of Bangkok” in December 1922 while describing his ornamental work for Holt Enterprise’s Ocean Building. Nolli’s contributions included “decorative work in stone and plaster, both on the interior and exterior of the structure”.[^6] The reference to Nolli’s time in Bangkok suggests either that Nolli had not entirely committed to Singapore as a long-term prospect at this point or that his name was already famous, at least in architectural circles, in connection with the Siamese commissions he had worked on in his uncle’s studio.&nbsp;
 
@@ -52,6 +48,14 @@ This was in response to an article from three days earlier in which the _Straits
 
 In February 1926, when the King Edward VII College of Medicine opened, the _Singapore Free Press and Mercantile Advertiser_ described Nolli as “the Italian sculptor who was responsible for the sculpture” of the new building. Among the decorative details Nolli fashioned for the facade is an eagle encircled by a wreath, which bears a striking resemblance to 18th-century decorative details of the Royal Villa of Monza near Milan. Nolli also made a “presentation key” designed by Major P.H. Keys – a replica of an ancient Roman statue known as the Minerva Medica – for the official opening of the new building.[^11] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_inauguration.png" style="width: 80%;">
+
+<div style="background-color: white;">Inauguration of the new building of the King Edward VII College of Medicine by Governor Laurence Guillemard, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0046).</i></div>
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_relief.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo Nolli’s relief on the building of the King Edward VII College of Medicine, 1926. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0031). </i></div>
+
 Around this time, the King of Italy made Nolli a knight (“Cavaliere”) of the Order of the Royal Crown of Italy in recognition of “his work in the Far East”.[^12] From this point onwards, newspapers often referred to him as Cavaliere or Cav. Nolli, although he was occasionally still called Signor Nolli.&nbsp;
 
 In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with some of his recent work, including the top of a column intended for the Municipal Offices, a coat of arms and decorative feature for the Post Office Building and a relief (described as a “mural plaque”) for the College of Medicine. For much of the next decade, Nolli continued to work on similarly commissioned exterior and interior decoration.[^13] &nbsp;
@@ -60,11 +64,11 @@ In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with
 
 <div style="background-color: white;">Relief sculptures by Rodolfo Nolli, 1930s. These were meant for Meyer Chambers but were never used and were subsequently lost during the Japanese Occupation. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0063).</i></div>
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
-
-<div style="background-color: white;">The coat of arms of the Colony of Singapore (1946–59) by&nbsp;Rodolfo&nbsp;Nolli, 1948–55. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0067).</i></div>
-
 In the late 1930s, Nolli worked on what has become his most famous commission: the facade of the Supreme Court comprising the columns and tympanum. This took more than a year to complete. Looking back on this project, which he was most proud of, Nolli called it his baby, “from the first stone at the base to the lightning conductor on top of the dome”. In 1952, the _Singapore Standard_ wrote that the facade would be “remembered as one of \[Nolli’s\] best efforts”.[^14]&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_column.png" style="width: 70%;">
+
+<div style="background-color: white;">A closeup of the decorative work on the Corinthian columns of the former Supreme Court building, 2026. <i>Photo by Jimmy Yap. </i></div>
 
 The tympanum, in particular, was a complex composition which drew on Nolli’s skills as a sculptor to a much greater degree than the more decorative work he was often commissioned to do. It is likely that this further endeared the project to him given that Nolli also complained that the lack of opportunity for more artistic work in Singapore during the 1920s and 1930s meant that he had spent most of his career as “just a contractor” rather than a sculptor.[^15]
 
@@ -72,17 +76,22 @@ There is no specific record of Nolli’s political views, let alone his feelings
 
 Nolli spent four years in an internment camp in Australia before returning to Singapore in 1946. He appeared to have found work in postwar Singapore relatively easily, quickly securing commissions such as the Hongkong and Shanghai Bank crest, the mausoleum of the Sultan of Selangor and decorative work for the ballroom of the Raffles Hotel.[^17] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_crest.png" style="width: 70%;">
-
-<div style="background-color: white;">Rodolfo Nolli with the Gan Eng Seng School crest, 1950. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0034). </i></div>
 
 In 1951, Nolli designed and made the coat of arms for three High Court halls which had been “without a coat of arms since the re-occupation”.[^18] Nolli’s later works demonstrate the importance of architectural commissions in the postwar restoration of large-scale institutional buildings. He also worked on decorative details for schools that were built during this period, crafting the crest for the new Gan Eng Seng School and working on a set of reliefs of angels for the school chapel of St Anthony’s Convent in 1952.[^19] Nolli also worked on the Omar Ali Saifuddien Mosque in Brunei for some time, though the _Straits Times_ 1964 report that he retired in 1956 suggests that he did not stay on to see the mosque being completed.[^20] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_crest2.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo Nolli with the Gan Eng Seng School crest, 1950. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0034). </i></div>
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_angel.png" style="width: 80%;">
 
 <div style="background-color: white;">One in a set of reliefs of angels sculpted by&nbsp;Rodolfo&nbsp;Nolli for the chapel of St Anthony's Convent on Middle Road, c. 1952. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0069).</i></div>
 
 Altogether, Rodolfo Nolli lived and worked in Singapore for more than 30 years. In February 1964, Nolli died in Italy at the age of 75. The _Straits Times_ report of his passing noted that the sculptor spent “nearly half his lifetime in Singapore” and listed several of his more prominent works in Singapore, Kuching and Kuala Lumpur.[^21] &nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_colony.png" style="width: 80%;">
+
+<div style="background-color: white;">The coat of arms of the Colony of Singapore (1946–59) by&nbsp;Rodolfo&nbsp;Nolli, 1948–55. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0067).</i></div>
 
 #### **Nolli the Celebrity**
 
@@ -92,15 +101,15 @@ As a well-known Italian based in Singapore, Nolli was actively involved in hosti
 
 Nolli also formed part of the welcoming party that received Edda and Galeazzo Ciano, the daughter and son-in-law of Mussolini, during their visit to Singapore in October 1930. Although the _Straits Times_ made no mention of Nolli in its coverage of the Cianos’ visit, it reported that “all the members of the Italian community in Singapore” attended the dinner held in their honour at the Europe Hotel. The _Straits Budget_, on the other hand, ran a photo of the couple’s arrival in which Nolli was both clearly visible and named as a member of the party. These incidents reveal Nolli’s prominence within the Italian community in Singapore.[^23]
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_committee.png" style="width: 80%;">
 
-<div style="background-color: white;">Rodolfo&nbsp;Nolli was part of the welcoming committee that received Edda and Galeazzo Ciano, the daughter and son-in-law of Benito Mussolini, during their visit to Singapore in October 1930. From left: V. Pini, the Italian Consul in Singapore; Galeazzo Ciano; Mrs Pini;&nbsp;Rodolfo&nbsp;Nolli; Edda Ciano; and G. Aurely. <i>Image reproduced from the Straits Budget, 9 October 1930, 17. (From NewspaperSG).</i></div>
+<div style="background-color: white;">Rodolfo Nolli was part of the welcoming committee that received Edda and Galeazzo Ciano, the daughter and son-in-law of Benito Mussolini, during their visit to Singapore in October 1930. From left: V. Pini, the Italian Consul in Singapore; Galeazzo Ciano; Mrs Pini;&nbsp;Rodolfo&nbsp;Nolli; Edda Ciano; and G. Aurely. <i>Image reproduced from the Straits Budget, 9 October 1930, 17. (From NewspaperSG).</i></div>
 
 Nolli was also frequently mentioned in the press as an attendee at baptisms, weddings and funerals held in Singapore between the 1920s and 1930s, and even hosted one of the weddings. In February 1927, the _Straits Budget_ reported that the wedding reception of Russian pianist Monia Litter and his bride, ballerina Mura Smirnova, was held “at the residence of Mr. R. Nolli in Gilstead Road”. Although the paper described the event as “typically Russian and very joyous”, it did not explain Nolli’s connection to the couple or the extent of his involvement beyond providing the venue.[^24] &nbsp;
 
 In June 1931, Nolli was part of a hunting team that tracked down and shot “a fierce, man-eating tiger” believed to have killed three people in Kulai, Johor.[^25] In April 1934, Nolli served as one of four judges at a beauty contest held at the old Racecourse.[^26] The range of Nolli’s social engagements during this period showed that he was friends with many prominent expatriates outside the Italian community in Singapore, including but by no means limited to other artists and performers.
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_hunting.png" style="width: 80%;">
 
 <div style="background-color: white;">Rodolfo&nbsp;Nolli (3rd from left) was among the hunting party that shot a man-eating tiger at Kulai, Johor, on 25 June 1931. <i>Image reproduced from the Straits Budget, 9 July 1931, 17. (From NewspaperSG).</i></div>
 
@@ -131,21 +140,17 @@ Of all Nolli’s works in Singapore, the sculpture of Lady Justice in the tympan
 
 Nolli’s version of Lady Justice may be explained by the neoclassical aesthetic which informed much of Nolli’s work in the 1920s and 1930s. Nolli seemed to have combined aspects of Lady Justice with those of the Roman goddess Minerva. Closely associated with wisdom and justice in Roman mythology, Minerva is consistently depicted with a shield and sword.[^33] These attributes are clearly visible in Nolli’s tympanum. On the other hand, Minerva rarely, if ever, appears with the weighing scales that are also clearly visible in Nolli’s Lady Justice, suggesting that his creation is a combination of both Lady Justice and Minerva.
 
-Works by Nolli are also preserved in the collections of the National Gallery Singapore and National Archives of Singapore. A relief titled “Commerce” from the series that Nolli made in 1937 for the Medeiros Building on Cecil Street is currently on display at the National Gallery Singapore.[^34] In 1996, Nolli’s daughter Lina donated a collection of 83 photographs of her father at work in Singapore and Bangkok to the National Archives of Singapore.[^35]
+Works by Nolli are also preserved in the collections of the National Gallery Singapore and National Archives of Singapore. A relief titled “Commerce” from the series that Nolli made in 1937 for the Medeiros Building on Cecil Street is housed in the collection of the National Gallery Singapore.[^34] In 1996, Nolli’s daughter Lina donated a collection of 83 photographs of her father at work in Singapore and Bangkok to the National Archives of Singapore.[^35]
 
-Taken between 1913 and 1960, these images (which can be accessed at Archives Online; https://www.nas.gov.sg/archivesonline/) supplement the information on Nolli’s life and works from newspaper reports, and offer further insight into his craft and process as a sculptor. In addition to documenting works in progress as well as projects not reported in the news, they show the sculptor at work in Bangkok, on-site at various commissions around Singapore and at his Scotts Road stoneyard, including works lost to modernisation and redevelopment over time.&nbsp;
-
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_studio.png" style="width: 80%;">
-
-<div style="background-color: white;">Rodolfo&nbsp;Nolli in his Bangkok studio, 1913. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0082).</i></div>
-
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/blank.png" style="width: 80%;">
-
-<div style="background-color: white;">The Fraser &amp; Neave emblem by&nbsp;Rodolfo&nbsp;Nolli, 1940s. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358&nbsp;-&nbsp;0070).</i></div>
+Taken between 1913 and 1960, these images (which can be accessed at Archives Online; [https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/)) supplement the information on Nolli’s life and works from newspaper reports, and offer further insight into his craft and process as a sculptor. In addition to documenting works in progress as well as projects not reported in the news, they show the sculptor at work in Bangkok, on-site at various commissions around Singapore and at his Scotts Road stoneyard, including works lost to modernisation and redevelopment over time.&nbsp;
 
 In fact, Nolli was so closely associated with Singapore’s built heritage between the 1920s and 1950s that he has often been mistaken as the creator of others’ work. In particular, he is often mentioned in connection with the “Merdeka lions”, a pair of stone lions originally flanking Merdeka Bridge when it opened in 1956 but were removed in 1966 when Nicoll Highway was widened.[^36] &nbsp;
 
 At the time of their installation, the _Straits Times_ simply described the Merdeka lions as having been “ordered from Manila”. Further details in the _Singapore Standard_ revealed that the lions were designed by L.W. Carpenter of the Architects’ Branch of Singapore’s Public Works Department before being modelled by Italian sculptor Raoul Bigazzi, who was based in Hong Kong but travelled to Manila to have the final version of the statues cast.[^37] That Nolli did sculpt a pair of lions may well have added to this confusion although these were made in a very different style for the Bank of China’s main branch on Battery Road.&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_stonelion.png" style="width: 80%;">
+
+<div style="background-color: white;">Rodolfo Nolli with one of his stone lions for the Bank of China, 1954. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0074).</i></div>
 
 Considering how prominent Nolli’s work was and still is in Singapore, relatively few scholars have offered much detailed research into his work. The first to do so was photographer Marjorie Doggett, who featured the Supreme Court in the opening pages of her book, _Characters of Light: Early Buildings of Singapore_, first published in 1957. She highlighted Nolli’s work on various buildings, and included a description of his career in Bangkok and Singapore.[^38] &nbsp;
 

@@ -4,6 +4,7 @@ title: BiblioAsia Oct-Dec 2020
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Oct-Dec 2020
 permalink: /vol-16/issue-3/oct-dec-2020/
+variant: markdown
 ---
 <img src="/images/Vol-16-issue-3/landing/Vol16_Iss3.jpg">
 
@@ -25,7 +26,7 @@ Once widespread in Singapore, betel chewing has largely died out. In the cover s
 
 **[A Different Sky: The Other Side of the Looking Glass](/vol-16/issue-3/oct-dec-2020/diff-sky)**<br>*Meira Chand*  explores the challenges of writing historical fiction.[(PDF)](/files/pdf/vol-16/issue-3/v16-issue3_DifferentSky.pdf)
 
-**[Karikal Mahal: The Lost Palace of a Fallen Cattle King](/vol-16/issue-3/oct-dec-2020/karikal)**<br>*William L. Gibson*  uncovers the story behind the pair of grand buildings along Still Road South.[(PDF)](/files/pdf/vol-16/issue-3/v16-issue3_KarikalMahal.pdf)
+**[Karikal Mahal: The Lost Palace of a Fallen Cattle King](/vol-16/issue-3/oct-dec-2020/karikal)**<br>*William L. Gibson*  uncovers the story behind the pair of grand buildings along Still Road South.[(PDF)](/files/pdf/vol-16/issue-3/v16-issue3_KarikalMahal2.pdf)
 
 **[The Borobudur, Mysterious Gold Plates and Singing Maps](/vol-16/issue-3/oct-dec-2020/borobudur)**<br>*Erni Salleh*  populates her thriller, *The Java Enigma*, with unsolved historical puzzles from the region.[(PDF)](/files/pdf/vol-16/issue-3/v16-issue3_Borobudur.pdf)
 
