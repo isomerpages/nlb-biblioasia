@@ -109,7 +109,7 @@ Slightly over a year later, the political realities changed once more as Singapo
 
 The philanthropist Lee Kong Chian was appointed chancellor and B.R. Sreenivasan, principal of the Singapore division of the University of Malaya, took on the role of vice-chancellor. It was no longer a colonial university, as Sreenivasan said in his speech, but a “university which exists to satisfy the educational aspirations of the people of this country”.[^32] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_plaque.png" style="width: 75%;">
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_plaque.png" style="width: 60%;">
 
 <div style="background-color: white;">&nbsp;The plaque of the opening of the Science Tower of the University of Singapore by Prime Minister Lee Kuan Yew on 1 July 1966. <i> Photo by Jimmy Yap.  </i></div>
 
@@ -117,7 +117,7 @@ The university’s early years have been described by historian Yeo Kim Wah as �
 
 Many of its graduates went on to hold important positions in independent Malaysia and Singapore. Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery degree in 1953, and was the prime minister of Malaysia not once but twice, serving from 1981 to 2003, and again from 2018 to 2020.[^35] Edwin Thumboo, one of the “_Fajar_ Eight”, graduated in 1956 with a Bachelor of Arts with honours and obtained a doctorate from the University of Singapore in 1970, eventually becoming the longest-serving dean of the Faculty of Arts and Social Sciences at the National University of Singapore.[^36] S.R. Nathan, Singapore’s sixth president, graduated in 1954 with a Diploma in Social Studies (Distinction), while Ambassador-at-Large Tommy Koh graduated in 1961 with a Bachelor of Laws with first-class honours.[^37]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_tun.png" style="width: 75%;">
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_tun.png" style="width: 60%;">
 
 <div style="background-color: white;">&nbsp;Tun Dr Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery from the University of Malaya in 1953. He is seen here with his future wife, Siti Hasmah Mohamad Ali, who also graduated with the same degree from the University of Malaya two years later. Mahathir later became prime minister of Malaysia. <i> Photo by Kini X, from flickr.</i></div>
 
