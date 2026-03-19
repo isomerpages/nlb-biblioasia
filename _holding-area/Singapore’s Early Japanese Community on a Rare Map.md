@@ -328,7 +328,7 @@ Discover more about the prewar Japanese community in and around Middle Road from
 
 
 
-[^31]: [戦前シンガポールの日本人碇会: 写真と記錄 = _Prewar Japanese Community in Singapore: Photographs and Records_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13048775) (_Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku_). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE); “[The Bank of Taiwan Ltd. Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/weeklysun19120928-1.2.33.1),” _Weekly Sun_, 29 September 1912, 8. (From NewspaperSG)
+[^31]: [戦前シンガポールの日本人社会: 写真と記錄 = _Prewar Japanese Community in Singapore: Photographs and Records_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13048775) (_Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku_). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE); “[The Bank of Taiwan Ltd. Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/weeklysun19120928-1.2.33.1),” _Weekly Sun_, 29 September 1912, 8. (From NewspaperSG)
 
 [^32]: “[The Bank of Taiwan Ltd](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19160605-1.2.38.1),” _Singapore Free Press_, 5 June 1916, 7; “[Notice of Removal](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19160608-1.2.39.1),” _Malaya Tribune_, 5 June 1916, 7; “[[The Old Premises…\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19160607-1.2.30),” _Singapore Free Press_, 7 June 1916,&nbsp; 7\. (From NewspaperSG)
 
