@@ -16,6 +16,10 @@ The National University of Singapore traces its history back to 1905 when the St
 
 Although it is easy to view the 13-year existence of the University of Malaya from 1949 to 1962 as merely a transitional phase, it was more than a mere interlude. Set up during decolonisation, the Cold War and the struggle for independence for both Malaya and Singapore, it was a fascinating experiment in tertiary education.
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_administration.png" style="width: 80%;">
+
+<div style="background-color: white;">The administration and science blocks of Raffles College, 1938. <i> Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005743 - 0007).</i></div>
+
 #### **The Start of Tertiary Education**
 
 Tertiary education in Malaya began with the official opening of the Straits and Federated Malay States Government Medical School on 28 September 1905 to train qualified locals as assistant surgeons or general practitioners. In 1913, the school was renamed King Edward VII Medical School and again in 1921 to King Edward VII College of Medicine.[^1] (The building is known as the College of Medicine Building today and located within the grounds of the Singapore General Hospital.)
@@ -69,6 +73,10 @@ The pomp and pageantry over, the university began its life in earnest. The campu
 
 Access to tertiary education expanded when the university opened, and this was especially true for women and minorities. For young women, the new university provided them with opportunities to further their education.[^12] Housed in Mount Rosie Hostel on Paterson Road, these young women were, for the most part, new to Singapore’s cosmopolitan urban environment. And it was, for a number of them from Malaya, their first time seeing Singapore.[^13] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_rosie.png" style="width: 80%;">
+
+<div style="background-color: white;">Mount Rosie, the hostel for women on Chancery Lane, 1938–58. <i> Image reproduced from Raffles College: 1928–1949 (Singapore: Alumni Affairs and Development Office, NUS, 1993), 81. (From National Library Singapore, call no. RSING 378.5957 RAF).</i></div>
+
 &nbsp;“While they enter into the life of the university with all its opportunities for social and cultural activities, the girls I talked to all stressed that, for them, studies take first place,” a _Straits Times_ journalist wrote in October 1949. “Nevertheless, they do not look upon their stay at the University merely as a preparation for earning their living. They consider that educated Asian women must play an ever bigger part in the life of their country whether in a profession or in the home as wives and mothers.”[^14] &nbsp;
 
 At the university’s first convocation in July 1950, 15 women graduates received their degrees. Two were doctors, one a dentist and more than a handful hoped to further their studies in education. Among the graduates was Hedwig Aroozoo (later Mrs Hedwig Anuar), who went on to graduate with first-class honours in English in 1951 and become the first local director of the National Library in 1965 as well as a founding member of the Association of Women for Action and Research in 1985.[^15] &nbsp;
@@ -112,11 +120,15 @@ What was at stake here was not just the banning of jukeboxes in Singapore, but w
 
 The university also proved to be a cauldron for the literary arts, as its eager students embraced poetry as a means of expression. One of Hedwig Aroozoo’s early works, “A Rhyme in Time,” was described by Malaysian poet Ee Tiang Hong as “a work that merits a place in any anthology of Malaysian poetry that has a historical import”.[^27]&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_certificate.png" style="width: 60%;">
+
+<div style="background-color: white;">University of Malaya certificate for the degree of Bachelor of Arts, 1955. It was issued to Leong Choy Wah who had majored in English. <i> Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr Leong Kwai Wah.</i></div>
+
 Another budding poet was a young Wang Gungwu, who graduated with a Bachelor of Arts in history in 1953, and is a renowned scholar of the Chinese diaspora today. He was the vice-chancellor of the University of Hong Kong from 1986 to 1995.[^28] &nbsp;
 
 <img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_memoir.png" style="width: 60%;">
 
-<div style="background-color: white;">&nbsp;In the second volume of his memoirs published in 2020, Professor Wang Gungwu gives an account of his university education in Singapore and the United Kingdom <i>Image reproduced from Wang Gungwu and Margaret Wang, Home Is Where We Are (Singapore: Ridge Books, 2020), 22. (From National Library Singapore, call no. RSING 950.049510092 WAN).
+<div style="background-color: white;">In the second volume of his memoirs published in 2020, Professor Wang Gungwu gives an account of his university education in Singapore and the United Kingdom <i>Image reproduced from Wang Gungwu and Margaret Wang, Home Is Where We Are (Singapore: Ridge Books, 2020), 22. (From National Library Singapore, call no. RSING 950.049510092 WAN).
  </i></div>
 
 For the future historian, writing poetry as an undergraduate was a means to explore and grapple with what it meant to be Malayan. Wang recalled in his memoirs: “We wrote about what the future Malayan literature could be like and imagined the role it could play in educating future generations. Some had envisaged the possibility of Chinese, Malays and Indians communicating with one another in an evolving common language. We all knew that the nature of the country was still unclear. But the idea that we could contribute towards defining it by our efforts to promote its literary identity was tantalizing.”[^29]&nbsp;
@@ -137,13 +149,13 @@ The philanthropist Lee Kong Chian was appointed chancellor and B.R. Sreenivasan,
 
 <img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_plaque.png" style="width: 60%;">
 
-<div style="background-color: white;">&nbsp;The plaque of the opening of the Science Tower of the University of Singapore by Prime Minister Lee Kuan Yew on 1 July 1966. <i> Photo by Jimmy Yap.  </i></div>
+<div style="background-color: white;">The plaque of the opening of the Science Tower of the University of Singapore by Prime Minister Lee Kuan Yew on 1 July 1966. <i> Photo by Jimmy Yap.  </i></div>
 
 The university’s early years have been described by historian Yeo Kim Wah as “a time of high idealism, romantic commitment and near euphoric sentiment”.[^33] To Wang Gungwu, the era was, in retrospect, a time when “the voices of hope, the idealism, the enthusiasm, the fierce emotions, the thousands of impractical ideas offered, and the immense confidence that only young people can project, coloured everything the students did for some two decades”.[^34] &nbsp;
 
 <img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_tun.png" style="width: 60%;">
 
-<div style="background-color: white;">&nbsp;Tun Dr Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery from the University of Malaya in 1953. He is seen here with his future wife, Siti Hasmah Mohamad Ali, who also graduated with the same degree from the University of Malaya two years later. Mahathir later became prime minister of Malaysia. <i> Photo by Kini X, from flickr.</i></div>
+<div style="background-color: white;">Tun Dr Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery from the University of Malaya in 1953. He is seen here with his future wife, Siti Hasmah Mohamad Ali, who also graduated with the same degree from the University of Malaya two years later. Mahathir later became prime minister of Malaysia. <i> Photo by Kini X, from flickr.</i></div>
 
 Many of its graduates went on to hold important positions in independent Malaysia and Singapore. Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery degree in 1953, and was the prime minister of Malaysia not once but twice, serving from 1981 to 2003, and again from 2018 to 2020.[^35] Edwin Thumboo, one of the “_Fajar_ Eight”, graduated in 1956 with a Bachelor of Arts with honours and obtained a doctorate from the University of Singapore in 1970, eventually becoming the longest-serving dean of the Faculty of Arts and Social Sciences at the National University of Singapore.[^36] S.R. Nathan, Singapore’s sixth president, graduated in 1954 with a Diploma in Social Studies (Distinction), while Ambassador-at-Large Tommy Koh graduated in 1961 with a Bachelor of Laws with first-class honours.[^37]&nbsp;
 
