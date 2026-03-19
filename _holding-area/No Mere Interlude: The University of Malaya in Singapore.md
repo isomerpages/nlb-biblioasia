@@ -48,6 +48,15 @@ Access to tertiary education expanded when the university opened, and this was e
 
 At the university’s first convocation in July 1950, 15 women graduates received their degrees. Two were doctors, one a dentist and more than a handful hoped to further their studies in education. Among the graduates was Hedwig Aroozoo (later Mrs Hedwig Anuar), who went on to graduate with first-class honours in English in 1951 and become the first local director of the National Library in 1965 as well as a founding member of the Association of Women for Action and Research in 1985.[^15] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_convocation.png" style="width: 80%;">
+
+<div style="background-color: white;">First convocation procession of court and senate of the University of Malaya, 1950. <i>	
+First convocation procession of court and senate of the University of Malaya, 1950. Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005803 - 0020).  </i></div>
+
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_graduates.png" style="width: 80%;">
+
+<div style="background-color: white;">Hedwig Aroozoo (extreme left; later Mrs Hedwig Anuar and the first local director of the National Library) with the first women graduates of the University of Malaya, 1950. <i>Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005802 - 0090).   </i></div>
+
 However, this increase in opportunity and access was limited to the English-educated. As the university was an English-medium institution, the Chinese-educated – those from Chinese-medium schools – were excluded from admission, despite pleas from Chinese educators.[^16] &nbsp;
 
 In 1959, undergraduates from Chinese-medium schools were admitted to the Faculty of Science after a special committee was convened to interview Chinese middle school students. Described as a “marked departure from normal university practice”, selection was based on their results from the Government Senior Middle (Chinese) School Examination and an interview. Eventually, 40 were selected out of 112: there were 28 from Singapore, 10 from the Federation and two from Sarawak.[^17] &nbsp;
