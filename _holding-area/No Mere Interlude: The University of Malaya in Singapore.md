@@ -97,6 +97,11 @@ The university also proved to be a cauldron for the literary arts, as its eager 
 
 Another budding poet was a young Wang Gungwu, who graduated with a Bachelor of Arts in history in 1953, and is a renowned scholar of the Chinese diaspora today. He was the vice-chancellor of the University of Hong Kong from 1986 to 1995.[^28] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_memoir.png" style="width: 60%;">
+
+<div style="background-color: white;">&nbsp;In the second volume of his memoirs published in 2020, Professor Wang Gungwu gives an account of his university education in Singapore and the United Kingdom <i>Image reproduced from Wang Gungwu and Margaret Wang, Home Is Where We Are (Singapore: Ridge Books, 2020), 22. (From National Library Singapore, call no. RSING 950.049510092 WAN).
+ </i></div>
+
 For the future historian, writing poetry as an undergraduate was a means to explore and grapple with what it meant to be Malayan. Wang recalled in his memoirs: “We wrote about what the future Malayan literature could be like and imagined the role it could play in educating future generations. Some had envisaged the possibility of Chinese, Malays and Indians communicating with one another in an evolving common language. We all knew that the nature of the country was still unclear. But the idea that we could contribute towards defining it by our efforts to promote its literary identity was tantalizing.”[^29]&nbsp;
 
 #### **A New Era**
@@ -106,6 +111,10 @@ As the 1950s wore on, the University of Malaya found itself in a curious positio
 In March 1958, both the Federation and Singapore governments decided to retain the university as a single institution but with two autonomous divisions – separate but equal – in Kuala Lumpur and Singapore. This meant that each division would be controlled by its own divisional council and academic committee and recruit its own staff. There would, however, be a common university council, senate and vice-chancellor.
 
 Slightly over a year later, the political realities changed once more as Singapore attained full internal self-government in 1959. Events unfolded quickly and by late May 1960, both governments had come to an agreement.[^30] On 1 January 1962, the University of Singapore was born at a midnight ceremony at its Bukit Timah campus.[^31] The University of Singapore Ordinance, passed on 16 December 1961, repealed the University of Malaya Ordinance (1959).&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_quad.png" style="width: 80%;">
+
+<div style="background-color: white;">The upper quadrangle at the National University of Singapore campus in Bukit Timah, 2026. The Federal Building is on the left and the Eu Tong Sen Building on the right. The latter houses the Faculty of Law today. Both buildings are gazetted national monuments. <i>Photo by Jimmy Yap. </i></div>
 
 The philanthropist Lee Kong Chian was appointed chancellor and B.R. Sreenivasan, principal of the Singapore division of the University of Malaya, took on the role of vice-chancellor. It was no longer a colonial university, as Sreenivasan said in his speech, but a “university which exists to satisfy the educational aspirations of the people of this country”.[^32] &nbsp;
 
