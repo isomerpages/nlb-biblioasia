@@ -20,8 +20,19 @@ Although it is easy to view the 13-year existence of the University of Malaya fr
 
 Tertiary education in Malaya began with the official opening of the Straits and Federated Malay States Government Medical School on 28 September 1905 to train qualified locals as assistant surgeons or general practitioners. In 1913, the school was renamed King Edward VII Medical School and again in 1921 to King Edward VII College of Medicine.[^1] (The building is known as the College of Medicine Building today and located within the grounds of the Singapore General Hospital.)
 
-To mark the centennial of Singapore’s founding, the Centenary Committee proposed the establishment of Raffles College, which provided higher education in the arts and sciences. Its campus on Bukit Timah Road admitted its inaugural batch of students on 21 June 1928 and officially opened on 22 July 1929.[^2] &nbsp;
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_school.png" style="width: 80%;">
 
+<div style="background-color: white;">The single-storey Straits and Federated Malay States Government Medical School at Sepoy Lines, 1905–26. <i>Image reproduced from C.S. Muir and Wong Poi Kwong, eds., Sixty Years of Medical Education, 1905–1965: Souvenir Publications (Singapore: University of Singapore, Medical Society, 1965), 18. (From National Library Singapore, call no. RCLOS 610.711 MUI).</i></div>
+
+
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_lab.png" style="width: 80%;">
+
+<div style="background-color: white;">Students in a laboratory at the King Edward VII College of Medicine, 1930s. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005123 - 0079).</i></div>
+
+To mark the centennial of Singapore’s founding, the Centenary Committee proposed the establishment of Raffles College, which provided higher education in the arts and sciences. Its campus on Bukit Timah Road admitted its inaugural batch of students on 21 June 1928 and officially opened on 22 July 1929.[^2] &nbsp;
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_crest.png" style="width: 80%;">
+
+<div style="background-color: white;">From left: Crests of the King Edward VII College of Medicine (1929–49), University of Malaya (1949–61), University of Singapore (1962–80) and National University of Singapore (1980–). <i> Image reproduced from Ho Kee Hai, Keng Siong Beng and David K.L. Tay, eds., 60 Years of Dental Education (1929–1989) (Singapore: Faculty of Dentistry, National University of Singapore, 1989), 8. (From National Library Singapore, call no. RSING 617.6007115957 SIX).</i></div>
 More developments took place in the following decade. In August 1938, Malcolm MacDonald, Secretary of State for the Colonies, appointed a commission comprising William H. McLean from the Colonial Office, Harold J. Channon of the University of Liverpool and Kenneth W.M. Pickthorn of the University of Cambridge to “survey existing arrangements for higher education, general and professional, in Malaya”.[^3] &nbsp;
 
 <img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_malcolm.png" style="width: 80%;">
@@ -42,11 +53,12 @@ Within months, in March 1947, the Carr-Saunders Commission was appointed to furt
 
 On 8 October 1949, the University of Malaya held its foundation day ceremony at the Oei Tiong Ham Hall of the former Raffles College. Speaking at the inauguration, MacDonald, by then Britain’s commissioner-general for Southeast Asia and the first chancellor of the university, described it as “a cradle where a truly non-communal nation is nurtured” – a safe place where the idea of a university was cultivated and lived out.[^7] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_crest.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_hall.png" style="width: 80%;">
 
-<div style="background-color: white;">From left: Crests of the King Edward VII College of Medicine (1929–49), University of Malaya (1949–61), University of Singapore (1962–80) and National University of Singapore (1980–). <i> Image reproduced from Ho Kee Hai, Keng Siong Beng and David K.L. Tay, eds., 60 Years of Dental Education (1929–1989) (Singapore: Faculty of Dentistry, National University of Singapore, 1989), 8. (From National Library Singapore, call no. RSING 617.6007115957 SIX).</i></div>
+<div style="background-color: white;">The Oei Tiong Ham Hall of the former Raffles College, 1938. The University of Malaya’s foundation day ceremony was held there. <i> Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005743 - 0005).</i></div>
 
-The Unive
+
+
 He noted that “the national population will contain a mixture of races. It will include, besides the Malays, Malayan Chinese, Malayan Indians and others whose homes and undivided loyalties lie here. It is essential that communal barriers between them shall be broken down, that they shall think progressively less of their distinctions of race and more of their common heritage and culture as people of Malaya”.[^8]&nbsp;
 
 This lofty vision, driven by the conception of a multiracial Malaya, and which rejected communalism, would be the source of political tension for years to come.&nbsp;
