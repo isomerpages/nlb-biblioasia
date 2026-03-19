@@ -118,7 +118,7 @@ Serangoon Road is marked on the map as 日本人墓地行 (Route to the Japanese
 
   
 
-**Japanese Consulate (**領事舘**; Ryōjikan)**
+**Japanese Consulate (領事舘; Ryōjikan)**
 <br>
 Location on map: Raffles Chambers, Raffles Place
 
@@ -126,7 +126,7 @@ The Japanese Consulate established its office in Raffles Chambers in 1917, one o
 
   
 
-**Mitsubishi Branch Office (**三菱出張所**; Mitsubishi Shutchōjo)**
+**Mitsubishi Branch Office (三菱出張所; Mitsubishi Shutchōjo)**
 <br>
 Location on map: Raffles Chambers, Raffles Place
 
@@ -134,7 +134,7 @@ Trading company Mitsubishi established a representative office in Singapore in 1
 
   
 
-**Bank of Taiwan Branch (**台銀支店**; Taigin Shiten)**
+**Bank of Taiwan Branch (台銀支店; Taigin Shiten)**
 <br>
 Location on map: 1 Battery Road
 
@@ -145,7 +145,7 @@ The Bank of Taiwan, operating under the Japanese colonial administration in Taiw
 <div style="background-color: white;">The Bank of Taiwan on Battery Road, c. 1930. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980001448 - 0067).</i></div>
 
   
-**Bank of Taiwan Company House No. 1 (**台銀第一碇宅**;**&nbsp; **Taigin Daiichi Shataku)**
+**Bank of Taiwan Company House No. 1 (台銀第一碇宅; Taigin Daiichi Shataku)**
 <br>
 Location on map: Osborne House, 11 Upper Wilkie Road
 
@@ -158,7 +158,7 @@ Known today as Mount Emily Villa, Osborne House served as the residence of the m
   
   
 
-**Japanese Ship Wharf (**日本舩ワーフ**; Nihon Fune Wāfu)**
+**Japanese Ship Wharf (日本舩ワーフ; Nihon Fune Wāfu)**
 <br>
 Location on map: Tanjong Pagar Wharves
 
@@ -166,14 +166,14 @@ This appears to be the berthing area for arriving Japanese ships.
 
   
 
-**Kuhara Branch Office (**久原出張所**; Kuhara Shutchōjo)**
+**Kuhara Branch Office (久原出張所; Kuhara Shutchōjo)**
 <br>
 Location on map: 6 Scotts Road
 
 The Singapore branch of the Kuhara Mining Company (久原鑛業株式會碇; Kuhara Kōgyō Kabushiki Kaisha) was established in 1916. The company was founded in Japan in 1905 by Kuhara Fusanosuke (久原房之助), a prominent businessman and founder of several prominent Japanese companies, including Hitachi. As part of its overseas expansion plans, the company began conducting various explorations for oil and other mineral resources in the Dutch East Indies and Malaya. By 1920, its Singapore operations had grown to include the Kuhara Trading Company (久原商事株式會碇; Kuhara Shōji Kabushiki Kaisha).[^36]
 
 
-**Osaka Shosen Branch (**大阪商船支店**; Ōsaka Shōsen Shiten)**
+**Osaka Shosen Branch (大阪商船支店; Ōsaka Shōsen Shiten)**
 <br>
 Location on map: 2 De Souza Street
 
@@ -185,7 +185,7 @@ Osaka Shosen Kaisha was one of Japan’s major shipping companies that operated 
 
   
 
-**Mitsui Company House No. 1 (**三井第一碇宅**; Mitsui Daiichi Shataku****)**
+**Mitsui Company House No. 1 (三井第一碇宅; Mitsui Daiichi Shataku)**
 <br>
 Location on map: Draycot, Stevens Road
 
@@ -193,7 +193,7 @@ Draycot was once the residence of the manager of Mitsui Bussan Kaisha (三井物
 
 As Singapore’s first Japanese trading company, Mitsui Bussan Kaisha began with a modest representative office at 8 Battery Road in 1891, occupying the upper floors of the Dispensary Building. Its initial aim was to secure contracts with European steamship companies to supply coal from Japan’s largest coal mine, the Miike Mine. As business grew, Mitsui diversified into shipping, accounting, communications, insurance brokerage, and the import-export of various goods, including rice, electrical supplies, metals and metallic ores, marine products and textiles. The company’s growing influence in Singapore’s colonial business society earned it a place in the Singapore Chamber of Commerce in 1911.[^40] 
 
-**Consular Residence (**領事官舍**; Ryōji-kansha****)**
+**Consular Residence (領事官舍; Ryōji-kansha)**
 <br>
 Location on map: Kinloss, Lady Hill, Orange Grove
 
