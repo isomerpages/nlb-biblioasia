@@ -42,6 +42,11 @@ Within months, in March 1947, the Carr-Saunders Commission was appointed to furt
 
 On 8 October 1949, the University of Malaya held its foundation day ceremony at the Oei Tiong Ham Hall of the former Raffles College. Speaking at the inauguration, MacDonald, by then Britain’s commissioner-general for Southeast Asia and the first chancellor of the university, described it as “a cradle where a truly non-communal nation is nurtured” – a safe place where the idea of a university was cultivated and lived out.[^7] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_crest.png" style="width: 80%;">
+
+<div style="background-color: white;">From left: Crests of the King Edward VII College of Medicine (1929–49), University of Malaya (1949–61), University of Singapore (1962–80) and National University of Singapore (1980–). <i> Image reproduced from Ho Kee Hai, Keng Siong Beng and David K.L. Tay, eds., 60 Years of Dental Education (1929–1989) (Singapore: Faculty of Dentistry, National University of Singapore, 1989), 8. (From National Library Singapore, call no. RSING 617.6007115957 SIX).</i></div>
+
+The Unive
 He noted that “the national population will contain a mixture of races. It will include, besides the Malays, Malayan Chinese, Malayan Indians and others whose homes and undivided loyalties lie here. It is essential that communal barriers between them shall be broken down, that they shall think progressively less of their distinctions of race and more of their common heritage and culture as people of Malaya”.[^8]&nbsp;
 
 This lofty vision, driven by the conception of a multiracial Malaya, and which rejected communalism, would be the source of political tension for years to come.&nbsp;
