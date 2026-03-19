@@ -141,6 +141,10 @@ In March 1958, both the Federation and Singapore governments decided to retain t
 
 Slightly over a year later, the political realities changed once more as Singapore attained full internal self-government in 1959. Events unfolded quickly and by late May 1960, both governments had come to an agreement.[^30] On 1 January 1962, the University of Singapore was born at a midnight ceremony at its Bukit Timah campus.[^31] The University of Singapore Ordinance, passed on 16 December 1961, repealed the University of Malaya Ordinance (1959).&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_campus.png" style="width: 80%;">
+
+<div style="background-color: white;">The University of Singapore campus on Bukit Timah Road, c. 1970. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
+
 <img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_quad.png" style="width: 80%;">
 
 <div style="background-color: white;">The upper quadrangle at the National University of Singapore campus in Bukit Timah, 2026. The Federal Building is on the left and the Eu Tong Sen Building on the right. The latter houses the Faculty of Law today. Both buildings are gazetted national monuments. <i>Photo by Jimmy Yap. </i></div>
