@@ -79,7 +79,8 @@ In 1920, Yamasaki and his wife left Singapore, presumably to return permanently 
 
 #### **Mapping a Community: Main Map**
 
-**The Japanese Association (**日本人會**; Nihonjin-kai) and the Japanese Elementary School (**日本人小學校**;**&nbsp; **Nihonjin Shōgakkō)**
+
+**The Japanese Association (日本人; Nihonjin-kai) and the Japanese Elementary School (日本人小學校; Nihonjin Shōgakkō)**
 <br>
 Location on map: Short Street
 
