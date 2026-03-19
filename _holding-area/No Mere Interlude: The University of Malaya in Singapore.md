@@ -58,12 +58,16 @@ At the university’s first convocation in July 1950, 15 women graduates receive
 
 <img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_convocation.png" style="width: 80%;">
 
-<div style="background-color: white;">First convocation procession of court and senate of the University of Malaya, 1950. <i>	
-First convocation procession of court and senate of the University of Malaya, 1950. Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005803 - 0020).  </i></div>
+<div style="background-color: white;">First convocation procession of court and senate of the University of Malaya, 1950. <i>Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005803 - 0020).  </i></div>
 
 <img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_graduates.png" style="width: 80%;">
 
 <div style="background-color: white;">Hedwig Aroozoo (extreme left; later Mrs Hedwig Anuar and the first local director of the National Library) with the first women graduates of the University of Malaya, 1950. <i>Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005802 - 0090).   </i></div>
+
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_degree.png" style="width: 80%;">
+
+<div style="background-color: white;">Chancellor Malcolm MacDonald conferring a degree at the first convocation ceremony of the University of Malaya on 8 July 1950. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980000813 - 0025).
+ </i></div>
 
 However, this increase in opportunity and access was limited to the English-educated. As the university was an English-medium institution, the Chinese-educated – those from Chinese-medium schools – were excluded from admission, despite pleas from Chinese educators.[^16] &nbsp;
 
@@ -105,9 +109,17 @@ Slightly over a year later, the political realities changed once more as Singapo
 
 The philanthropist Lee Kong Chian was appointed chancellor and B.R. Sreenivasan, principal of the Singapore division of the University of Malaya, took on the role of vice-chancellor. It was no longer a colonial university, as Sreenivasan said in his speech, but a “university which exists to satisfy the educational aspirations of the people of this country”.[^32] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_plaque.png" style="width: 75%;">
+
+<div style="background-color: white;">&nbsp;The plaque of the opening of the Science Tower of the University of Singapore by Prime Minister Lee Kuan Yew on 1 July 1966. <i> Photo by Jimmy Yap.  </i></div>
+
 The university’s early years have been described by historian Yeo Kim Wah as “a time of high idealism, romantic commitment and near euphoric sentiment”.[^33] To Wang Gungwu, the era was, in retrospect, a time when “the voices of hope, the idealism, the enthusiasm, the fierce emotions, the thousands of impractical ideas offered, and the immense confidence that only young people can project, coloured everything the students did for some two decades”.[^34] &nbsp;
 
 Many of its graduates went on to hold important positions in independent Malaysia and Singapore. Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery degree in 1953, and was the prime minister of Malaysia not once but twice, serving from 1981 to 2003, and again from 2018 to 2020.[^35] Edwin Thumboo, one of the “_Fajar_ Eight”, graduated in 1956 with a Bachelor of Arts with honours and obtained a doctorate from the University of Singapore in 1970, eventually becoming the longest-serving dean of the Faculty of Arts and Social Sciences at the National University of Singapore.[^36] S.R. Nathan, Singapore’s sixth president, graduated in 1954 with a Diploma in Social Studies (Distinction), while Ambassador-at-Large Tommy Koh graduated in 1961 with a Bachelor of Laws with first-class honours.[^37]&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_tun.png" style="width: 75%;">
+
+<div style="background-color: white;">&nbsp;Tun Dr Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery from the University of Malaya in 1953. He is seen here with his future wife, Siti Hasmah Mohamad Ali, who also graduated with the same degree from the University of Malaya two years later. Mahathir later became prime minister of Malaysia. <i> Photo by Kini X, from flickr.</i></div>
 
 The University of Malaya in Singapore was a product of its times and its contradictions. Short as its 13-year existence was, it made a lasting contribution to nation-building.
 
