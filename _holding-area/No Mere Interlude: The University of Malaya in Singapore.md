@@ -205,56 +205,56 @@ The University of Malaya in Singapore was a product of its times and its contrad
 
 [^12]: Kay Norton, “[Malaya Should Be Proud of These Women](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491027-1.2.108),” _Straits Times_, 27 October 1949, 8; “[‘Women Must Stop Being Servile’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19520731-1.2.113),” _Straits Budget_, 31 July 1952, 15. (From NewspaperSG)&nbsp;
 
-[^13]: Ruth Langdon, “Freshmen Like Their New Life,” _Singapore Free Press_, 19 November 1949, 1. (From NewspaperSG)
+[^13]: Ruth Langdon, “[Freshmen Like Their New Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19491119-1.2.112.5),” _Singapore Free Press_, 19 November 1949, 1. (From NewspaperSG)
 
-[^14]: “Three Undergrads with High Ideals,” _Straits Times_, 27 October 1949, 8. (From NewspaperSG)
+[^14]: “[Three Undergrads with High Ideals](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491027-1.2.109),” _Straits Times_, 27 October 1949, 8. (From NewspaperSG)
 
-[^15]: Timothy Pwee, “Hedwig Anuar: First Lady of the National Library,” _BiblioAsia_ 21 no. 2 (July–September 2025): 86–91. &nbsp;
+[^15]: Timothy Pwee, “[Hedwig Anuar: First Lady of the National Library](https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/),” _BiblioAsia_ 21 no. 2 (July–September 2025): 86–91. &nbsp;
 
-[^16]: In 1955, Nanyang University – the first Chinese-medium university in Southeast Asia – opened and provided the Chinese-educated with vastly expanded access to tertiary education. See “Nanyang Starts First Classes,” _Straits Times_, 16 June 1955, 4; “Chinese Views on Varsity Entry,” _Singapore Free Press_, 26 April 1950, 8. (From NewspaperSG)
+[^16]: In 1955, Nanyang University – the first Chinese-medium university in Southeast Asia – opened and provided the Chinese-educated with vastly expanded access to tertiary education. See “[Nanyang Starts First Classes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550616-1.2.51),” _Straits Times_, 16 June 1955, 4; “[Chinese Views on Varsity Entry](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500426-1.2.99),” _Singapore Free Press_, 26 April 1950, 8. (From NewspaperSG)
 
-[^17]: “3 Varsity Men to Interview Pupils,” _Straits Times_, 4 July 1959, 4; “Vernacular Students Get Offer from Varsity,” _Straits Times_, 12 June 1959, 1; “The First 40 from Chinese Schools,” _Straits Times_, 10 July 1959, 9. (From NewspaperSG)
+[^17]: “[3 Varsity Men to Interview Pupils](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590704-1.2.50),” _Straits Times_, 4 July 1959, 4; “[Vernacular Students Get Offer from Varsity](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590612-1.2.9),” _Straits Times_, 12 June 1959, 1; “[The First 40 from Chinese Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590710-1.2.99),” _Straits Times_, 10 July 1959, 9. (From NewspaperSG)
 
-[^18]: “New Varsity Will Benefit Malays,” _Morning Tribune_, 13 May 1948, 3. (From NewspaperSG)&nbsp;
+[^18]: “[New Varsity Will Benefit Malays](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19480513-1.2.29),” _Morning Tribune_, 13 May 1948, 3. (From NewspaperSG)&nbsp;
 
-[^19]: C.H.E. Det, “Malay Progress &amp; the University,” _Straits Times_, 27 November 1949, 8. (From NewspaperSG); “Biography of Tun Dr Mahathir Mohamad: 1981–2003, 2018–2020,” Perdana Leadership Foundation, accessed 14 February 2026, https://www.perdana.org.my/pms-of-malaysia/tun-dr-mahathir-mohamad/. &nbsp;
+[^19]: C.H.E. Det, “[Malay Progress &amp; the University](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491127-1.2.72),” _Straits Times_, 27 November 1949, 8. (From NewspaperSG); “Biography of Tun Dr Mahathir Mohamad: 1981–2003, 2018–2020,” Perdana Leadership Foundation, accessed 14 February 2026, [https://www.perdana.org.my/pms-of-malaysia/tun-dr-mahathir-mohamad/](https://www.perdana.org.my/pms-of-malaysia/tun-dr-mahathir-mohamad/). &nbsp;
 
-[^20]: C.M. Turnbull, _A History of Modern Singapore_, 1819–2005 (Singapore: NUS Press, 2009), 113. (From National Library Singapore, call no. RSING 959.57 TUR)
+[^20]: C.M. Turnbull, [_A History of Modern Singapore_, 1819–2005](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 113. (From National Library Singapore, call no. RSING 959.57 TUR)
 
 
 
 [^21]: Yeo, “Student Politics in the University of Malaya 1949– 51,” 315, 355, 365.&nbsp;
 
-[^22]: Loh Kah Seng, Edgar Liao, Lim Cheng Tju and Seng Guo-Quan, _The University Socialist Club and the Contest for Malaya_ (Amsterdam: Amsterdam University Press, 2012), 50–51. (From National Library Singapore, call no. RSING 371.8109595 LOH)
+[^22]: Loh Kah Seng, Edgar Liao, Lim Cheng Tju and Seng Guo-Quan, [_The University Socialist Club and the Contest for Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202482265) (Amsterdam: Amsterdam University Press, 2012), 50–51. (From National Library Singapore, call no. RSING 371.8109595 LOH)
 
-[^23]: “Police Raid Varsity,” _Singapore Standard_, 29 May 1954, 1. (From NewspaperSG)
+[^23]: “[Police Raid Varsity](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540529-1.2.8),” _Singapore Standard_, 29 May 1954, 1. (From NewspaperSG)
 
-[^24]: “Q.C. Says: Tremendous Victory for Freedom of Speech,” _Straits Times_, 26 August 1954, 1; “‘Fajar’ Case Dismissed,” _Singapore Standard_, 26 August 1954, 1. (From NewspaperSG)
+[^24]: “[Q.C. Says: Tremendous Victory for Freedom of Speech](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540826-1.2.14),” _Straits Times_, 26 August 1954, 1; “[‘Fajar’ Case Dismissed](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540826-1.2.3),” _Singapore Standard_, 26 August 1954, 1. (From NewspaperSG)
 
-[^25]: “Professor Warned: Keep off Politics Or Get Out,” _Straits Times_, 19 November 1960, 1. (From NewspaperSG). \[Note: The ban on jukeboxes was part of the Anti-yellow Culture Campaign to clamp down on various aspects of Western popular culture that were seen to promote a decadent and degenerate lifestyle. Banned items and activities included pornographic publications and films, striptease shows, jukebox dens, pin-table saloons, rock ‘n’ roll music and long hair on men. See Seow Peck Ngiam, “Anti-yellow Culture Campaign,” _Singapore Infopedia_. National Library Singapore. Article published September 2021.\]&nbsp;
+[^25]: “[Professor Warned: Keep off Politics Or Get Out](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601119-1.2.9),” _Straits Times_, 19 November 1960, 1. (From NewspaperSG). \[Note: The ban on jukeboxes was part of the Anti-yellow Culture Campaign to clamp down on various aspects of Western popular culture that were seen to promote a decadent and degenerate lifestyle. Banned items and activities included pornographic publications and films, striptease shows, jukebox dens, pin-table saloons, rock ‘n’ roll music and long hair on men. See Seow Peck Ngiam, “[Anti-yellow Culture Campaign](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87),” _Singapore Infopedia_. National Library Singapore. Article published September 2021.\]&nbsp;
 
-[^26]: Harold Soh, “Culture Clean-up Hits Jukes,” _Straits Times_, 13 June 1959, 1. (From NewspaperSG)
+[^26]: Harold Soh, “[Culture Clean-up Hits Jukes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590613-1.2.10),” _Straits Times_, 13 June 1959, 1. (From NewspaperSG)
 
-[^27]: Ee Tiang Hong,” History As Myth in Malaysian Poetry in English,” in _The Writer’s Sense of the Past: Essays on Southeast Asian and Australasian Literature_, ed. Kirpal Singh (Singapore: Singapore University Press, 1987), 10. (From National Library Singapore, call no. RSING 809.89595 WRI)
+[^27]: Ee Tiang Hong,” History As Myth in Malaysian Poetry in English,” in [_The Writer’s Sense of the Past: Essays on Southeast Asian and Australasian Literature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4770111), ed. Kirpal Singh (Singapore: Singapore University Press, 1987), 10. (From National Library Singapore, call no. RSING 809.89595 WRI)
 
-[^28]: Sheena Kumari Singh, “Wang Gungwu,” _Singapore Infopedia_. National Library Singapore. Article published 2016.
+[^28]: Sheena Kumari Singh, “[Wang Gungwu](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5f42ff55-ef5f-4326-885f-9060f25f3cad),” _Singapore Infopedia_. National Library Singapore. Article published 2016.
 
-[^29]: Wang Gungwu, _Home Is Where We Are_ (Singapore: Ridge Books, 2020), 22. (From National Library Singapore, call no. RSING 950.049510092 WAN)&nbsp;
+[^29]: Wang Gungwu, [_Home Is Where We Are_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204438294) (Singapore: Ridge Books, 2020), 22. (From National Library Singapore, call no. RSING 950.049510092 WAN)&nbsp;
 
-[^30]: “Varsity Split: Accord on Broad Principles,” _Straits Times_, 21 May 1960, 1. (From NewspaperSG)
+[^30]: “[Varsity Split: Accord on Broad Principles](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600521-1.2.4),” _Straits Times_, 21 May 1960, 1. (From NewspaperSG)
 
 
 
-[^31]: “Midnight ‘Birth’ of a Varsity,” _Straits Times_, 2 January 1962, 9. (From NewspaperSG)
+[^31]: “[Midnight ‘Birth’ of a Varsity](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19620102-1.2.52),” _Straits Times_, 2 January 1962, 9. (From NewspaperSG)
 
-[^32]: “S’pore Varsity Starts Today,” _Straits Times_, 1 January 1962, 9; “Two Universities Will Continue the Closest Links After Break,” _Straits Times_, 25 October 1961, 6. (From NewspaperSG)&nbsp;
+[^32]: “[S’pore Varsity Starts Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19620101-1.2.60),” _Straits Times_, 1 January 1962, 9; “[Two Universities Will Continue the Closest Links After Break](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611025-1.2.52),” _Straits Times_, 25 October 1961, 6. (From NewspaperSG)&nbsp;
 
 [^33]: Yeo, “Student Politics in the University of Malaya, 1949– 51,” 378.
 
-[^34]: Wang Gungwu, “New University, Three Generations: China, Malaya, Singapore,” _s/pores journal_, February 2008, https://s-pores.com/2008/02/generations/.&nbsp;
+[^34]: Wang Gungwu, “New University, Three Generations: China, Malaya, Singapore,” _s/pores journal_, February 2008, [https://s-pores.com/2008/02/generations/](https://s-pores.com/2008/02/generations/).&nbsp;
 
 [^35]: “Biography of Tun Dr Mahathir Mohamad: 1981–2003, 2018–2020.”
 
-[^36]: “Biography of Edwin Thumboo,” Poetry SG, accessed 5 February 2026, https://www.poetry.sg/edwin-thumboo-bio.&nbsp;
+[^36]: “Biography of Edwin Thumboo,” Poetry SG, accessed 5 February 2026, [https://www.poetry.sg/edwin-thumboo-bio](https://www.poetry.sg/edwin-thumboo-bio).&nbsp;
 
-[^37]: “Mr S.R. Nathan: 1999–2011, Sixth President of Singapore,” The Istana, last updated 26 November 2025, https://www.istana.gov.sg/the-president/former-presidents/mr-s-r-nathan/; Marsita Omar and Florence Tan, “Tommy Koh,” _Singapore Infopedia_. National Library Singapore. Article published January 2021.
+[^37]: “Mr S.R. Nathan: 1999–2011, Sixth President of Singapore,” The Istana, last updated 26 November 2025, [https://www.istana.gov.sg/the-president/former-presidents/mr-s-r-nathan/](https://www.istana.gov.sg/the-president/former-presidents/mr-s-r-nathan/); Marsita Omar and Florence Tan, “[Tommy Koh](https://www.nlb.gov.sg/main/article-detail?cmsuuid=29801390-9080-4c91-af51-4c679a04660c),” _Singapore Infopedia_. National Library Singapore. Article published January 2021.
