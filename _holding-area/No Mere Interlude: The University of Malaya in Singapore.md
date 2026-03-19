@@ -124,11 +124,15 @@ The philanthropist Lee Kong Chian was appointed chancellor and B.R. Sreenivasan,
 
 The university’s early years have been described by historian Yeo Kim Wah as “a time of high idealism, romantic commitment and near euphoric sentiment”.[^33] To Wang Gungwu, the era was, in retrospect, a time when “the voices of hope, the idealism, the enthusiasm, the fierce emotions, the thousands of impractical ideas offered, and the immense confidence that only young people can project, coloured everything the students did for some two decades”.[^34] &nbsp;
 
-Many of its graduates went on to hold important positions in independent Malaysia and Singapore. Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery degree in 1953, and was the prime minister of Malaysia not once but twice, serving from 1981 to 2003, and again from 2018 to 2020.[^35] Edwin Thumboo, one of the “_Fajar_ Eight”, graduated in 1956 with a Bachelor of Arts with honours and obtained a doctorate from the University of Singapore in 1970, eventually becoming the longest-serving dean of the Faculty of Arts and Social Sciences at the National University of Singapore.[^36] S.R. Nathan, Singapore’s sixth president, graduated in 1954 with a Diploma in Social Studies (Distinction), while Ambassador-at-Large Tommy Koh graduated in 1961 with a Bachelor of Laws with first-class honours.[^37]&nbsp;
-
 <img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_tun.png" style="width: 60%;">
 
 <div style="background-color: white;">&nbsp;Tun Dr Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery from the University of Malaya in 1953. He is seen here with his future wife, Siti Hasmah Mohamad Ali, who also graduated with the same degree from the University of Malaya two years later. Mahathir later became prime minister of Malaysia. <i> Photo by Kini X, from flickr.</i></div>
+
+Many of its graduates went on to hold important positions in independent Malaysia and Singapore. Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery degree in 1953, and was the prime minister of Malaysia not once but twice, serving from 1981 to 2003, and again from 2018 to 2020.[^35] Edwin Thumboo, one of the “_Fajar_ Eight”, graduated in 1956 with a Bachelor of Arts with honours and obtained a doctorate from the University of Singapore in 1970, eventually becoming the longest-serving dean of the Faculty of Arts and Social Sciences at the National University of Singapore.[^36] S.R. Nathan, Singapore’s sixth president, graduated in 1954 with a Diploma in Social Studies (Distinction), while Ambassador-at-Large Tommy Koh graduated in 1961 with a Bachelor of Laws with first-class honours.[^37]&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_tommy.png" style="width: 70%;">
+
+<div style="background-color: white;">Tommy Koh when he was president of the University of Malaya Law Society, 1961. <i> Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The University of Malaya in Singapore was a product of its times and its contradictions. Short as its 13-year existence was, it made a lasting contribution to nation-building.
 
