@@ -92,7 +92,7 @@ The Japanese Association, established in 1915, and the Japanese School, founded 
 
 
 A cornerstone of the Japanese community, the association managed the Japanese School, maintained the Japanese cemetery from 1917 onward and established the Japanese Club in 1922. The association played a pivotal role in fostering the social and cultural life of the Japanese community in Singapore. The association is located on Adam Road today, while the school has three campuses in Clementi, Changi and West Coast.&nbsp;
-<br><br>
+
   
 
 **Japanese Commercial Museum (**日本商品陳列舘**;**&nbsp; **Nihon Shōhin Chinretsu-kan)**
