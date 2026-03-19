@@ -24,6 +24,14 @@ To mark the centennial of Singapore’s founding, the Centenary Committee propos
 
 More developments took place in the following decade. In August 1938, Malcolm MacDonald, Secretary of State for the Colonies, appointed a commission comprising William H. McLean from the Colonial Office, Harold J. Channon of the University of Liverpool and Kenneth W.M. Pickthorn of the University of Cambridge to “survey existing arrangements for higher education, general and professional, in Malaya”.[^3] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_malcolm.png" style="width: 80%;">
+
+<div style="background-color: white;">Chancellor Malcolm&nbsp;MacDonald (left) and vice-chancellor George V. Allen&nbsp;(right) at the inauguration of the University of Malaya on 8 October 1949. <i>Mike Gorrie Collection, courtesy of National Archives of Singapore (Media - Image no. 20210000757 - 0083).</i></div>
+
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_chancellor.png" style="width: 80%;">
+
+<div style="background-color: white;">Chancellor Malcolm MacDonald delivering his speech at the first convocation ceremony of the University of Malaya on 8 July 1950. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980000813 - 0024). </i></div>
+
 In their report published in December 1939, the McLean Commission concluded that Malaya was not ready for a full-fledged autonomous university. Instead, they proposed the formation of a university college by merging King Edward VII College of Medicine and Raffles College under a joint principal. At that point, only four universities existed in the British Empire – Ceylon (now Sri Lanka), Jerusalem, Hong Kong and Malta. There was little interest or impetus to further develop and expand tertiary education in Malaya at the time.[^4] &nbsp;
 
 #### **A New University**
