@@ -95,7 +95,7 @@ A cornerstone of the Japanese community, the association managed the Japanese Sc
 
   
 
-**Japanese Commercial Museum (**日本商品陳列舘**;**&nbsp; **Nihon Shōhin Chinretsu-kan)**
+**Japanese Commercial Museum (日本商品陳列舘; Nihon Shōhin Chinretsu-kan)**
 <br>
 Location on map: 77 Bras Basah Road
 
@@ -106,7 +106,7 @@ The Japanese Commercial Museum was established in 1918 by the South Seas Associa
 <div style="background-color: white;">Japanese Commercial Museum. <i>Image reproduced from 南洋之産業. 壹之卷 = Tropical Industry (Nan’yō no Sangyō. Ichi no Ken). 新嘉坡: 新嘉坡商品陳列館 (Shingapōru: Shingapōru Shōhin Chinretsukan), 1920, 7. (From National Library Singapore, call no. RRARE 338.0595 NAN).</i></div>
 
 
-**Route to Japanese Cemetery (**日本人墓地行**;** **Nihonjin Bochi-yuki)**
+**Route to Japanese Cemetery (日本人墓地行; Nihonjin Bochi-yuki)**
 <br>
 Location on map: Serangoon Road
 
