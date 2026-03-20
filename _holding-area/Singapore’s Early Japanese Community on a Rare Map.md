@@ -57,7 +57,7 @@ This curious connection between Japanese fishcakes, kangaroos and Singapore beco
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_portrait2.png" style="width: 80%;">
 
-<div style="background-color: white;">A postcard of Yamasaki Eijirō and his general store in Broome, Western Australia, c. 1909. <i>Photo by Aussie~mobs. From flickr.</i></div>
+<div style="background-color: white;">A postcard of Yamasaki Eijirō and his general store in Broome, Western Australia, c. 1909. <i>Photo by <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.en">Aussie~mobs</a>. From flickr.</i></div>
 
 Born in 1871 in Ehime Prefecture, Japan, Yamasaki first arrived in Singapore as a crew member aboard a British ship bound for India. Through a local broker in Singapore, Yamasaki secured work as a pearl diver in Broome, Western Australia, where the global demand for pearl buttons had created a booming industry that attracted many Japanese settlers.[^14] Yamasaki’s entrepreneurial drive soon led him to general trading, importing Japanese goods to Broome via shipping agents in Singapore and establishing the commercial network that would later pave his move to Singapore.
 
