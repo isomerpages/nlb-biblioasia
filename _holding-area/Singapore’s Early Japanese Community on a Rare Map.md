@@ -88,7 +88,7 @@ The Japanese Association, established in 1915, and the Japanese School, founded 
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_elementary.png" style="width: 80%;">
 
-<div style="background-color: white;">Japanese Elementary School, 1910s. <i>Image reproduced from 伊藤友治郎 (Itō Tomojirō), 南洋群嶋写真画帖: 附南洋事情 = Picture Book of the South Sea Islands (Nan’yō Guntō Shashin Gachō: Fu Nan’yō Jijō). 英領ペナン市: 南洋調査会 (Eiryō Penan-shi: Nan’yō Chōsakai), 1914, 6. (From National Library Singapore, call no. RRARE 959 ITO).</i></div>
+<div style="background-color: white;">Japanese Elementary School, 1910s. <i>Image reproduced from 伊藤友治郎 (Itō Tomojirō), <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=7c6d5f4b-2fe5-4b9d-9a78-1471c6a4b8a2">南洋群嶋写真画帖: 附南洋事情 = Picture Book of the South Sea Islands</a> (Nan’yō Guntō Shashin Gachō: Fu Nan’yō Jijō). 英領ペナン市: 南洋調査会 (Eiryō Penan-shi: Nan’yō Chōsakai), 1914, 6. (From National Library Singapore, call no. RRARE 959 ITO).</i></div>
 
 
 A cornerstone of the Japanese community, the association managed the Japanese School, maintained the Japanese cemetery from 1917 onward and established the Japanese Club in 1922. The association played a pivotal role in fostering the social and cultural life of the Japanese community in Singapore. The association is located on Adam Road today, while the school has three campuses in Clementi, Changi and West Coast.&nbsp;
@@ -103,7 +103,7 @@ The Japanese Commercial Museum was established in 1918 by the South Seas Associa
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_museum.png" style="width: 80%;">
 
-<div style="background-color: white;">Japanese Commercial Museum. <i>Image reproduced from 南洋之産業. 壹之卷 = Tropical Industry (Nan’yō no Sangyō. Ichi no Ken). 新嘉坡: 新嘉坡商品陳列館 (Shingapōru: Shingapōru Shōhin Chinretsukan), 1920, 7. (From National Library Singapore, call no. RRARE 338.0595 NAN).</i></div>
+<div style="background-color: white;">Japanese Commercial Museum. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=853e0d7d-5bd1-4658-9ffc-d6d796c7bd67">南洋之産業. 壹之卷 = Tropical Industry</a> (Nan’yō no Sangyō. Ichi no Ken). 新嘉坡: 新嘉坡商品陳列館 (Shingapōru: Shingapōru Shōhin Chinretsukan), 1920, 7. (From National Library Singapore, call no. RRARE 338.0595 NAN).</i></div>
 
 
 **Route to Japanese Cemetery (日本人墓地行; Nihonjin Bochi-yuki)**
@@ -181,7 +181,7 @@ Osaka Shosen Kaisha was one of Japan’s major shipping companies that operated 
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_postcard.png" style="width: 80%;">
 
-<div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. RRARE 952.03 LSB-[LSB]. Donated by Lim Shao Bin).</i></div>
+<div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=853e0d7d-5bd1-4658-9ffc-d6d796c7bd67">RRARE 952.03 LSB-[LSB]</a>. Donated by Lim Shao Bin).</i></div>
 
   
 
