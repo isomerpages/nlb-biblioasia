@@ -45,7 +45,7 @@ But perhaps more unusual was Kobunkan’s largest customer base – the _karayuk
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_karayuki2.png" style="width: 70%;">
 
-<div style="background-color: white;">Two <i>karayuki-san</i> seated along a five-footway, c. 1870s–1910s. <i>Image reproduced from Sammlung von 19 originalphotographien aus Singapur (n.p.: n.p., 1880–1900). (From National Library Singapore, call no.RRARE 779.99595703 SAM).</i></div>
+<div style="background-color: white;">Two <i>karayuki-san</i> seated along a five-footway, c. 1870s–1910s. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=9b9e63e2-d848-4df0-a138-14a66d05f27a"><i>Sammlung von 19 originalphotographien aus Singapur</i></a>  (n.p.: n.p., 1880–1900). (From National Library Singapore, call no.RRARE 779.99595703 SAM).</i></div>
 
 Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese plantation workers in Johor and expatriate communities across British Malaya, the Dutch East Indies and British North Borneo.[^10] The bookstore was also the local distributor for Sakura Beer and the Kangaroo brand of canned Japanese fishcakes – _chikuwa_ and _kamaboko_.[^11]
 
