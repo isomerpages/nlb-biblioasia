@@ -261,11 +261,11 @@ Discover more about the prewar Japanese community in and around Middle Road from
 
 #### **Notes**
 
-[^1]: 新嘉坡市街地圖 = Map of Singapore (Shingapōru Shigai Chizu). 新嘉坡: 好文舘出版部 (Shingapōru: Kōbunkan Shuppanbu), \[1920\]. (From National Library Singapore, call no. RRARE 912.5957 MAP).
+[^1]: [新嘉坡市街地圖 = Map of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300172933) (Shingapōru Shigai Chizu). 新嘉坡: 好文舘出版部 (Shingapōru: Kōbunkan Shuppanbu), \[1920\]. (From National Library Singapore, call no. RRARE 912.5957 MAP).
 
 [^2]: Fraser and Neave Limited, [_Map of Singapore Showing the Principal Residences and Places of Interests_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad), 1913, map. (From National Archives of Singapore, accession no. SP006064)&nbsp;
 
-[^3]: The cartouche reads: 開港百周年記念出版 (Kaikō Hyakushūnen Kinen Shuppan) \[Port Centenary Commemorative Publication\], 1 January 1919, map. Printed on the back of the map are advertisements from local Japanese businesses such as Miyako Hotel (都ホテル; Miyako Hoteru) and Hakuai Pharmacy (博愛藥房; Hakuai Yakubō) under the header 新嘉坡開港百周年記念合廣告 (Shingapōru Kaikō Hyakushūnen Kinen Gōkōkoku) \[Singapore Port Centenary Commemorative Joint Advertisement\].
+[^3]: The cartouche reads: 開港百周年記念出版 (Kaikō Hyakushūnen Kinen Shuppan) \[Port Centenary Commemorative Publication\], 1 January 1919, map. Printed on the back of the map are advertisements from local Japanese businesses such as Miyako Hotel (都ホテル; Miyako Hoteru) and Hakuai Pharmacy (博愛藥房; Hakuai Yakubō) under the header 新嘉坡開港百周年記念合廣告 (Shingapōru Kaikō Hyakushūnen Kinen Gōkōkoku) \[Singapore Port Centenary Commemorative Joint Advertisement\].See 文生書院（Bunsei Shoin Booksellers, Co., Ltd.）文生書院目録 2018 年：中国・満州・朝鮮・台湾・樺太・南洋（Bunsei Shoin Mokuroku 2018–nen: Chūgoku・Manshū・Chōsen・Taiwan・Karafuto・Nan'yō）, 77, [https://www.bunsei.co.jp/old-book/moku/moku201809/](https://www.bunsei.co.jp/old-book/moku/moku201809/).
 
 [^4]: 南洋日日新聞 (_Nan’yō Nichinichi Shinbun_), 16 November 1920, 2, Hoover Institution Library &amp; Archives, [https://hojishinbun.hoover.org/en/newspapers/nos19201116-01.1.2](https://hojishinbun.hoover.org/en/newspapers/nos19201116-01.1.2).
 
