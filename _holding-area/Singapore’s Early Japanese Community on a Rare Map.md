@@ -73,6 +73,11 @@ Born in 1871 in Ehime Prefecture, Japan, Yamasaki first arrived in Singapore as 
 
 Also, while in Australia, Yamasaki made a foray into Malayan rubber. His 300-acre Ehime Rubber Estate (愛媛ゴム園; Ehime Gomu-en), established between 1909 and 1910, was one of the earliest rubber plantation developments along the Johor River.[^15]
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_plantation.png" style="width: 80%;">
+
+<div style="background-color: white;">Ehime Rubber Plantation in Johor. <i>Image reproduced from 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本
+人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 60. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]. Donated by Lim Shao Bin).</i></div>
+
 #### **The Move to Singapore**
 
 When Yamasaki relocated to Singapore in 1912,[^16] the knowledge and experience that he had gained from his Australian ventures stood him in good stead. He initially established his wholesale trading business from Nippon Hotel (日本ホテル; Nippon Hoteru) on Beach Road, selling Australian beef and Kangaroo brand canned food manufactured by his own Sanyu Trading Company Canning Factory (三友商會鑵詰製造所; Sanyū Shōkai Kanzume Seizōsho) back in Ehime Prefecture.[^17]&nbsp;
@@ -154,6 +159,10 @@ The Bank of Taiwan, operating under the Japanese colonial administration in Taiw
 
 <div style="background-color: white;">The Bank of Taiwan on Battery Road, c. 1930. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980001448 - 0067).</i></div>
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_interior.png" style="width: 80%;">
+
+<div style="background-color: white;">The interior of the Bank of Taiwan, c. 1930. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980001448 - 0068).</i></div>
+
   
 **Bank of Taiwan Company House No. 1 (台銀第一碇宅; Taigin Daiichi Shataku)**
 <br>
@@ -221,7 +230,7 @@ The cemetery comprised six acres from Futaki's rubber plantation and two acres o
   
 The cemetery was managed by volunteers of the Mutual Aid Association. While it was initially created to serve as a burial ground for the significant number of Japanese prostitutes in Singapore, it eventually became the final resting place for many long-term Japanese residents. In 1911, Priest Baisen (楳仙和尚;&nbsp;Baisen Oshō)&nbsp;built&nbsp;Saiyūji, a Buddhist temple of the Sōtō sect, on the cemetery grounds to serve as the main provider of funeral services.[^44] The cemetery was closed to burials in 1973 and became the Japanese Cemetery Park in 1987.[^45]
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary.png" style="width: 70%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary2.png" style="width: 70%;">
 
 <div style="background-color: white;">The Japanese Cemetery (top) and Chief Priest Chisen Otsuka of Saiyūji Temple (bottom), 1910s. <i>Images reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
 
@@ -255,7 +264,7 @@ Official records indicate that the 180-acre Chitose Rubber Estate was establishe
 
 Beyond his rubber plantation interests, Tsutada operated a dental practice from his clinic on Bras Basah Road, offering consultations in English and Malay. His linguistic abilities, which served him well in multicultural Singapore, were likely developed during his education at the Anglo-Chinese School. Outside his professional pursuits, Tsutada was a devout Christian who worshipped at the Japanese Methodist Church and raised his nine children in the faith. His second son, David Tsugio Tsutada (蔦田二雄;&nbsp;Tsutada Tsugio), became a prominent preacher in Japan, and many Tsutada family members continue to serve as pastors and missionaries today.[^51]
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic2.png" style="width: 80%;">
 
 <div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore (Accession no. B35800783A). </i></div>
 
