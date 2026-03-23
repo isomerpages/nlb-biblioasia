@@ -24,7 +24,7 @@ The map had originally been published in January 1919 to commemorate Singapore�
 
 The publisher’s name, Kobunkan, appears on the map in both Japanese and English as 好文舘出版部 (Kōbunkan Shuppanbu; Kobunkan Publishing Department) and Kohbunkwan Singapore.[^5] Kobunkan was one of Singapore’s pioneering Japanese bookstores and publishers,[^6] with a long-established presence at 167 Middle Road.[^7] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_kobunkan.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_kobunkan2.png" style="width: 80%;">
 
 <div style="background-color: white;">Kobunkan bookstore (2nd shophouse from the right) and Iroha Motor Cars &amp; Co. (extreme right) at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 英領新架坡 好文館 いろは自動車 山﨑·竹井経営 [泰来當質店] (Eiryō Shingapōru Kōbunkan Iroha Jidōsha Yamasaki·Takei keiei [Tài Lái Dāng Zhìdiàn], which translates as “British-governed Singapore / Kobunkan and Iroha Motorcar / Managed by Yamsaki &amp; Takei / Chop Thai Loy Pawn Shop”. <i>Courtesy of Tanabe Tsukasa.</i></div>
 
@@ -37,7 +37,7 @@ The bookstore offered an extensive array of Japanese products ranging from newsp
 
 Kobunkan’s bestsellers revealed the community's continued links with Japan. Major newspapers such as _Asahi Shimbun_ (朝日新聞), _Osaka Mainichi_ (大阪毎日) and _Tokyo Nichi Nichi_ (東京日日) provided vital news from home. Literary and general interest magazines such as _The Sun_ (太陽; Taiyō), _The Central Review_ (中央公論; Chūō Kōron), _Reform_ (改造; Kaizō), and _Japan and the Japanese_ (日本及日本人; Nihon oyobi Nihonjin) attracted a steady readership among white-collar workers like employees of trading companies and banks.
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_roha.png" style="width: 60%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_roha2.png" style="width: 60%;">
 
 <div style="background-color: white;">Kobunkan bookstore on the left and Iroha Motor Cars &amp; Co. on the right at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 「英領新架坡中央街　山﨑・竹井経営　日本人初の自動車営業　日本人初の書籍新聞販売店　西宇和郡（現西予市）三瓶町出身竹井庫敬（くらよし＝向かって左の和服の男性）ほか馬来人、車掌、ボーイ」[Eiryō Shingapōru Chūō-gai Yamazaki・Takei keiei Nihonjin hatsu no jidōsha eigyō Nihonjin hatsu no shoseki shinbun hanbaiten Nishiuwa-gun (gen Seiyo-shi) Mikame-chō shusshin Takei Kurayoshi (Kurayoshi = mukatte hidari no wafuku no dansei) hoka maraijin, shashō, bōi], which translates as “British-governed Singapore, Middle Road. Managed by Yamazaki &amp; Takei. First Japanese automobile business. First Japanese bookstore and newspaper store. Born in Mikame Town, Nishiuwa District (current day Seiyo City), Takei Kurayoshi (Kurayoshi = the man in Japanese clothing on the left) alongside Malay, driver and boy”. <i>Courtesy of Tanabe Tsukasa.</i></div>
 
@@ -46,6 +46,10 @@ But perhaps more unusual was Kobunkan’s largest customer base – the _karayuk
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_karayuki2.png" style="width: 70%;">
 
 <div style="background-color: white;">Two <i>karayuki-san</i> seated along a five-footway, c. 1870s–1910s. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=9b9e63e2-d848-4df0-a138-14a66d05f27a"><i>Sammlung von 19 originalphotographien aus Singapur</i></a>  (n.p.: n.p., 1880–1900). (From National Library Singapore, call no.RRARE 779.99595703 SAM).</i></div>
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_twokarayuki.png" style="width: 70%;">
+
+<div style="background-color: white;">Two <i>karayuki-san</i> seen outside No. 6 Malay Street. <i>Image reproduced from Sammlung von 19 originalphotographien aus Singapur (n.p.: n.p., 1880–1900). (From National Library Singapore, call no. RRARE 779.99595703 SAM).</i></div>
 
 Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese plantation workers in Johor and expatriate communities across British Malaya, the Dutch East Indies and British North Borneo.[^10] The bookstore was also the local distributor for Sakura Beer and the Kangaroo brand of canned Japanese fishcakes – _chikuwa_ and _kamaboko_.[^11]
 
