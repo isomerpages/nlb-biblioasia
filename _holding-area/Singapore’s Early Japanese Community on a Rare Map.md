@@ -51,6 +51,12 @@ But perhaps more unusual was Kobunkan’s largest customer base – the _karayuk
 
 <div style="background-color: white;">Two <i>karayuki-san</i> seen outside No. 6 Malay Street. <i>Image reproduced from Sammlung von 19 originalphotographien aus Singapur (n.p.: n.p., 1880–1900). (From National Library Singapore, call no. RRARE 779.99595703 SAM).</i></div>
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_oriental.png" style="width: 80%;">
+
+<div style="background-color: white;">A Japanese woman in her quarters. Based on her attire and the handwritten caption, “A Oriental Star in Singapore”, she was most likely a <i>karayuki-san</i> or an
+entertainer. <i>Image reproduced from Singapore: Photographs, Early 20th Century. (n.p.: n.p., 1900 and 1930?). (From National Library Singapore, call no. RRARE 959.5703 SIN. Donated by Kelvin Ang Kah Eng).</i></div>
+
+
 Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese plantation workers in Johor and expatriate communities across British Malaya, the Dutch East Indies and British North Borneo.[^10] The bookstore was also the local distributor for Sakura Beer and the Kangaroo brand of canned Japanese fishcakes – _chikuwa_ and _kamaboko_.[^11]
 
 
