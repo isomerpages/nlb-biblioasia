@@ -66,7 +66,7 @@ In 1928, a supplement to the _Straits Budget_ featured photographs of Nolli with
 
 In the late 1930s, Nolli worked on what has become his most famous commission: the facade of the Supreme Court comprising the columns and tympanum. This took more than a year to complete. Looking back on this project, which he was most proud of, Nolli called it his baby, “from the first stone at the base to the lightning conductor on top of the dome”. In 1952, the _Singapore Standard_ wrote that the facade would be “remembered as one of \[Nolli’s\] best efforts”.[^14]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_column.png" style="width: 70%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_column.png" style="width: 80%;">
 
 <div style="background-color: white;">A closeup of the decorative work on the Corinthian columns of the former Supreme Court building, 2026. <i>Photo by Jimmy Yap. </i></div>
 
@@ -79,7 +79,7 @@ Nolli spent four years in an internment camp in Australia before returning to Si
 
 In 1951, Nolli designed and made the coat of arms for three High Court halls which had been “without a coat of arms since the re-occupation”.[^18] Nolli’s later works demonstrate the importance of architectural commissions in the postwar restoration of large-scale institutional buildings. He also worked on decorative details for schools that were built during this period, crafting the crest for the new Gan Eng Seng School and working on a set of reliefs of angels for the school chapel of St Anthony’s Convent in 1952.[^19] Nolli also worked on the Omar Ali Saifuddien Mosque in Brunei for some time, though the _Straits Times_ 1964 report that he retired in 1956 suggests that he did not stay on to see the mosque being completed.[^20] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_crest2.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_crest2.png" style="width: 90%;">
 
 <div style="background-color: white;">Rodolfo Nolli with the Gan Eng Seng School crest, 1950. <i>Lina Brunner Collection, courtesy of National Archives of Singapore (Media - Image no. 19980001358 - 0034). </i></div>
 
@@ -128,7 +128,7 @@ Curiously, none of the many reports about Nolli’s life and work in Singapore m
 
 Many of Nolli’s works can still be seen at or close to the sites for which he made them. Apart from the tympanum and Corinthian columns of the former Supreme Court, he also created the Corinthian columns of the former City Hall building. The General Post Office is now the Fullerton Hotel, while the former St Anthony’s Convent is presently home to the National Design Centre. Similarly, the pair of lions that Nolli sculpted for the Bank of China can still be seen at the bank’s main branch on Battery Road.&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_lion.png" style="width: 70%;">
+<img src="/images/Vol%2022%20Issue%201/Rodolfo/rodolfo_lion.png" style="width: 80%;">
 
 <div style="background-color: white;">Rodolfo Nolli’s lions still adorn the entrance of the Bank of China on Battery Road today, 2026. <i>Photo by Jimmy Yap.</i></div>
 
