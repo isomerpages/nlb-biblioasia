@@ -35,6 +35,11 @@ The bookstore offered an extensive array of Japanese products ranging from newsp
 
 <div style="background-color: white;">Location of Kobunkan bookstore (circled in red) on Middle Road. <i>Image reproduced from 戦前シンガポールの日本人社会: 写真と記錄 = Prewar Japanese Community in Singapore: Photographs and Records (Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE). Courtesy of The Japanese Association Singapore.</i></div>
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_postcards.png" style="width: 80%;">
+
+<div style="background-color: white;">A set of 10 Singapore postcards published by Kobunkan. <i>Images reproduced from 風景繪はがき : 新嘉坡 (Fūkei e Hagaki : Shingapōru ). (From National Library Singapore, call no. RRARE 305.89928 LIM-[LSB]. Donated by Mr Lim Shao Bin).</i></div>
+
+
 Kobunkan’s bestsellers revealed the community's continued links with Japan. Major newspapers such as _Asahi Shimbun_ (朝日新聞), _Osaka Mainichi_ (大阪毎日) and _Tokyo Nichi Nichi_ (東京日日) provided vital news from home. Literary and general interest magazines such as _The Sun_ (太陽; Taiyō), _The Central Review_ (中央公論; Chūō Kōron), _Reform_ (改造; Kaizō), and _Japan and the Japanese_ (日本及日本人; Nihon oyobi Nihonjin) attracted a steady readership among white-collar workers like employees of trading companies and banks.
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_roha2.png" style="width: 60%;">
