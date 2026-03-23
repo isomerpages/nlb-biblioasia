@@ -247,7 +247,7 @@ Beyond his rubber plantation interests, Tsutada operated a dental practice from 
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
 
-<div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore. </i></div>
+<div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore (Accession no. B35800783A). </i></div>
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> The author thanks Tanabe Tsukasa, the great-grandson of Yamasaki Eijiro, for sharing information about his family; Takako Iino from Friends of the Museum in Singapore; and Senior Librarians Goh Yu Mei and Janice Loo from the National Library Singapore for their assistance in translating and highlighting relevant Japanese and pictorial sources.
