@@ -26,7 +26,7 @@ The publisher’s name, Kobunkan, appears on the map in both Japanese and Englis
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_kobunkan2.png" style="width: 80%;">
 
-<div style="background-color: white;">Kobunkan bookstore (2nd shophouse from the right) and Iroha Motor Cars &amp; Co. (extreme right) at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 英領新架坡 好文館 いろは自動車 山﨑·竹井経営 [泰来當質店] (Eiryō Shingapōru Kōbunkan Iroha Jidōsha Yamasaki·Takei keiei [Tài Lái Dāng Zhìdiàn], which translates as “British-governed Singapore / Kobunkan and Iroha Motorcar / Managed by Yamsaki &amp; Takei / Chop Thai Loy Pawn Shop”. <i>Courtesy of Tanabe Tsukasa.</i></div>
+<div style="background-color: white;">Kobunkan bookstore (2nd shophouse from the right) and Iroha Motor Cars &amp; Co. (extreme right) at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 英領新架坡 好文館 いろは自動車 山﨑·竹井経営 [泰来當質店] (Eiryō Shingapōru Kōbunkan Iroha Jidōsha Yamasaki·Takei keiei [Tài Lái Dāng Zhìdiàn], which translates as “British-governed Singapore / Kobunkan and Iroha Motor Cars / Managed by Yamsaki &amp; Takei / Chop Thai Loy Pawn Shop”. <i>Courtesy of Tanabe Tsukasa.</i></div>
 
 
 The bookstore offered an extensive array of Japanese products ranging from newspapers, magazines, books and maps to stationery and picture postcards. Its customers included the employees of leading Japanese firms in the commercial district of Raffles Place and Collyer Quay as well as small Japanese businesses clustered around Middle Road and North Bridge Road. The latter comprised medical and dental clinics, retail shops, grocery stores, photo studios, barbershops, tailors, hotels, inns and restaurants.
@@ -54,7 +54,7 @@ But perhaps more unusual was Kobunkan’s largest customer base – the _karayuk
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_twokarayuki.png" style="width: 70%;">
 
-<div style="background-color: white;">Two <i>karayuki-san</i> seen outside No. 6 Malay Street. <i>Image reproduced from Sammlung von 19 originalphotographien aus Singapur (n.p.: n.p., 1880–1900). (From National Library Singapore, call no. RRARE 779.99595703 SAM).</i></div>
+<div style="background-color: white;">Two <i>karayuki-san</i> seen outside No. 6 Malay Street. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=9b9e63e2-d848-4df0-a138-14a66d05f27a">Sammlung von 19 originalphotographien aus Singapur </a> (n.p.: n.p., 1880–1900). (From National Library Singapore, call no. RRARE 779.99595703 SAM).</i></div>
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_oriental.png" style="width: 80%;">
 
