@@ -78,7 +78,7 @@ Born in 1871 in Ehime Prefecture, Japan, Yamasaki first arrived in Singapore as 
 
 Also, while in Australia, Yamasaki made a foray into Malayan rubber. His 300-acre Ehime Rubber Estate (愛媛ゴム園; Ehime Gomu-en), established between 1909 and 1910, was one of the earliest rubber plantation developments along the Johor River.[^15]
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_plantation.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_plantation2.png" style="width: 80%;">
 
 <div style="background-color: white;">Ehime Rubber Plantation in Johor. <i>Image reproduced from 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本
 人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 60. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]. Donated by Lim Shao Bin).</i></div>
