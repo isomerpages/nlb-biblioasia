@@ -7,7 +7,7 @@ description: ""
 #### A rare Japanese-English street map of Singapore tells the forgotten stories of the early Japanese community who left their mark here in the early 20th century.&nbsp;
 By Gracie Lee
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_main.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_main2.png" style="width: 80%;">
 
 <div style="background-color: white;"><i>Map of Singapore</i> = 新嘉坡市街地圖 (<i>Shingapōru Shigai Chizu</i>), likely published in 1920. It is one of the earliest Japanese street maps of Singapore.<i> (From National Library Singapore, call no. RRARE 912.5957 MAP).   </i></div>
 
@@ -26,25 +26,26 @@ The publisher’s name, Kobunkan, appears on the map in both Japanese and Englis
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_kobunkan.png" style="width: 80%;">
 
-<div style="background-color: white;">Kobunkan bookstore (2nd shophouse from the right) and Iroha Motorcar &amp; Co. (extreme right) at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 英領新架坡&nbsp; 好文館 いろは自動車&nbsp; 山﨑·竹井経営 [泰来當質店] (Eiryō Shingapōru Kōbunkan Iroha Jidōsha Yamasaki·Takei keiei [Tài Lái Dāng Zhìdiàn], which translates as “British-governed Singapore / Kobunkan and Iroha Motorcar / Managed by Yamsaki &amp; Takei / Chop Thai Loy Pawn Shop”. <i>Courtesy of Tanabe Tsukasa.</i></div>
+<div style="background-color: white;">Kobunkan bookstore (2nd shophouse from the right) and Iroha Motor Cars &amp; Co. (extreme right) at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 英領新架坡 好文館 いろは自動車 山﨑·竹井経営 [泰来當質店] (Eiryō Shingapōru Kōbunkan Iroha Jidōsha Yamasaki·Takei keiei [Tài Lái Dāng Zhìdiàn], which translates as “British-governed Singapore / Kobunkan and Iroha Motorcar / Managed by Yamsaki &amp; Takei / Chop Thai Loy Pawn Shop”. <i>Courtesy of Tanabe Tsukasa.</i></div>
 
 
 The bookstore offered an extensive array of Japanese products ranging from newspapers, magazines, books and maps to stationery and picture postcards. Its customers included the employees of leading Japanese firms in the commercial district of Raffles Place and Collyer Quay as well as small Japanese businesses clustered around Middle Road and North Bridge Road. The latter comprised medical and dental clinics, retail shops, grocery stores, photo studios, barbershops, tailors, hotels, inns and restaurants.
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bookstore.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_bookstore2.png" style="width: 80%;">
 
 <div style="background-color: white;">Location of Kobunkan bookstore (circled in red) on Middle Road. <i>Image reproduced from 戦前シンガポールの日本人社会: 写真と記錄 = Prewar Japanese Community in Singapore: Photographs and Records (Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE). Courtesy of The Japanese Association Singapore.</i></div>
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
-
-<div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore. </i></div>
 
 Kobunkan’s bestsellers revealed the community's continued links with Japan. Major newspapers such as _Asahi Shimbun_ (朝日新聞), _Osaka Mainichi_ (大阪毎日) and _Tokyo Nichi Nichi_ (東京日日) provided vital news from home. Literary and general interest magazines such as _The Sun_ (太陽; Taiyō), _The Central Review_ (中央公論; Chūō Kōron), _Reform_ (改造; Kaizō), and _Japan and the Japanese_ (日本及日本人; Nihon oyobi Nihonjin) attracted a steady readership among white-collar workers like employees of trading companies and banks.
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_roha.png" style="width: 60%;">
+
+<div style="background-color: white;">Kobunkan bookstore on the left and Iroha Motor Cars &amp; Co. on the right at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 「英領新架坡中央街　山﨑・竹井経営　日本人初の自動車営業　日本人初の書籍新聞販売店　西宇和郡（現西予市）三瓶町出身竹井庫敬（くらよし＝向かって左の和服の男性）ほか馬来人、車掌、ボーイ」[Eiryō Shingapōru Chūō-gai Yamazaki・Takei keiei Nihonjin hatsu no jidōsha eigyō Nihonjin hatsu no shoseki shinbun hanbaiten Nishiuwa-gun (gen Seiyo-shi) Mikame-chō shusshin Takei Kurayoshi (Kurayoshi = mukatte hidari no wafuku no dansei) hoka maraijin, shashō, bōi], which translates as “British-governed Singapore, Middle Road. Managed by Yamazaki &amp; Takei. First Japanese automobile business. First Japanese bookstore and newspaper store. Born in Mikame Town, Nishiuwa District (current day Seiyo City), Takei Kurayoshi (Kurayoshi = the man in Japanese clothing on the left) alongside Malay, driver and boy”. <i>Courtesy of Tanabe Tsukasa.</i></div>
+
 But perhaps more unusual was Kobunkan’s largest customer base – the _karayuki-san_.[^8] Sold into prostitution, these Japanese women lived and worked in Japanese brothels located in and around Malay Street, which was within walking distance to the bookstore. They typically favoured lifestyle and women’s magazines such as _Kodan World_ (講談世界; Kōdan Sekai), _Women’s World_ (婦人世界; Fujin Sekai) and _Friend of the Housewife_ (主婦の友; Shufu no Tomo).[^9]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_karayuki.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_karayuki2.png" style="width: 70%;">
 
-<div style="background-color: white;">Two <i>karayuki-san</i> seated along a five-footway, c. 1870s–1910s. <i>Image reproduced from Sammlung von 19 originalphotographien aus Singapur (n.p.: n.p., 1880–1900). (From National Library Singapore, call no.RRARE 779.99595703 SAM).</i></div>
+<div style="background-color: white;">Two <i>karayuki-san</i> seated along a five-footway, c. 1870s–1910s. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=9b9e63e2-d848-4df0-a138-14a66d05f27a"><i>Sammlung von 19 originalphotographien aus Singapur</i></a>  (n.p.: n.p., 1880–1900). (From National Library Singapore, call no.RRARE 779.99595703 SAM).</i></div>
 
 Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese plantation workers in Johor and expatriate communities across British Malaya, the Dutch East Indies and British North Borneo.[^10] The bookstore was also the local distributor for Sakura Beer and the Kangaroo brand of canned Japanese fishcakes – _chikuwa_ and _kamaboko_.[^11]
 
@@ -54,17 +55,13 @@ Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese pl
 
 This curious connection between Japanese fishcakes, kangaroos and Singapore becomes clear when we examine the life of Kobunkan’s founder Yamasaki Eijirō (山崎 榮治郎),[^12] whose remarkable journey took him from Japan to Singapore and Australia.[^13]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_portrait.png" style="width: 40%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_portrait2.png" style="width: 80%;">
 
-<div style="background-color: white;">Portrait of Yamasaki Eijirō from a postcard of his general store in Broome, Western Australia, c. 1909. <i>Photo by Aussie~mobs. From flickr.</i></div>
+<div style="background-color: white;">A postcard of Yamasaki Eijirō and his general store in Broome, Western Australia, c. 1909. <i>Photo by <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.en">Aussie~mobs</a>. From flickr.</i></div>
 
 Born in 1871 in Ehime Prefecture, Japan, Yamasaki first arrived in Singapore as a crew member aboard a British ship bound for India. Through a local broker in Singapore, Yamasaki secured work as a pearl diver in Broome, Western Australia, where the global demand for pearl buttons had created a booming industry that attracted many Japanese settlers.[^14] Yamasaki’s entrepreneurial drive soon led him to general trading, importing Japanese goods to Broome via shipping agents in Singapore and establishing the commercial network that would later pave his move to Singapore.
 
 Also, while in Australia, Yamasaki made a foray into Malayan rubber. His 300-acre Ehime Rubber Estate (愛媛ゴム園; Ehime Gomu-en), established between 1909 and 1910, was one of the earliest rubber plantation developments along the Johor River.[^15]
-
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_tokio.png" style="width: 30%;">
-
-<div style="background-color: white;">Madam Tokio, a shareholder of Chitose Rubber Estate, undated. <i>Image reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
 
 #### **The Move to Singapore**
 
@@ -76,17 +73,14 @@ In May 1913, Yamasaki relocated his operations to the more spacious 167 Middle R
 
 Yamasaki’s entrepreneurial ambitions were not confined to general trade and books alone. In 1913, he established Iroha Motorcar &amp; Co. (いろは自動車商会; Iroha Jidōsha Shōkai),[^21] which employed Malay drivers to provide transportation services tailored specifically to the Japanese community’s needs. These included trips to and from the Japanese cemetery for funerals, visits to the entertainment and red-light districts,[^22] recreational drives for _karayuki-san_ and passenger transfers for European vessels docked at the Singapore harbour. The growth in the business led to its expansion and he leased the adjacent shophouse unit at 168 Middle Road.&nbsp; &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary.png" style="width: 70%;">
-
-<div style="background-color: white;">The Japanese Cemetery (top) and&nbsp;Chief Priest Chisen Otsuka of Saiyūji Temple (bottom), 1910s. <i>Images reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
-
 #### **The End of an Era**
 
 In 1920, Yamasaki and his wife left Singapore, presumably to return permanently to Japan. The local Japanese newspaper carried a farewell notice where he expressed his gratitude to the community for their send-off. His departure marked the beginning of a decline of his businesses. Entrusted to co-manager Takei Kurayoshi (竹井庫敬) and others, these businesses struggled against the economic headwinds of the early 1920s – a slump in rubber prices and the 1920 ban on Japanese prostitution – before finally closing in 1923.[^23]
 
 #### **Mapping a Community: Main Map**
 
-**The Japanese Association (**日本人會**; Nihonjin-kai) and the Japanese Elementary School (**日本人小學校**;**&nbsp; **Nihonjin Shōgakkō)**
+
+**The Japanese Association (日本人; Nihonjin-kai) and the Japanese Elementary School (日本人小學校; Nihonjin Shōgakkō)**
 <br>
 Location on map: Short Street
 
@@ -94,14 +88,14 @@ The Japanese Association, established in 1915, and the Japanese School, founded 
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_elementary.png" style="width: 80%;">
 
-<div style="background-color: white;">Japanese Elementary School, 1910s. <i>Image reproduced from 伊藤友治郎 (Itō Tomojirō), 南洋群嶋写真画帖: 附南洋事情 = Picture Book of the South Sea Islands (Nan’yō Guntō Shashin Gachō: Fu Nan’yō Jijō). 英領ペナン市: 南洋調査会 (Eiryō Penan-shi: Nan’yō Chōsakai), 1914, 6. (From National Library Singapore, call no. RRARE 959 ITO).</i></div>
+<div style="background-color: white;">Japanese Elementary School, 1910s. <i>Image reproduced from 伊藤友治郎 (Itō Tomojirō), <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=7c6d5f4b-2fe5-4b9d-9a78-1471c6a4b8a2">南洋群嶋写真画帖: 附南洋事情 = Picture Book of the South Sea Islands</a> (Nan’yō Guntō Shashin Gachō: Fu Nan’yō Jijō). 英領ペナン市: 南洋調査会 (Eiryō Penan-shi: Nan’yō Chōsakai), 1914, 6. (From National Library Singapore, call no. RRARE 959 ITO).</i></div>
 
 
 A cornerstone of the Japanese community, the association managed the Japanese School, maintained the Japanese cemetery from 1917 onward and established the Japanese Club in 1922. The association played a pivotal role in fostering the social and cultural life of the Japanese community in Singapore. The association is located on Adam Road today, while the school has three campuses in Clementi, Changi and West Coast.&nbsp;
-<br><br>
+
   
 
-**Japanese Commercial Museum (**日本商品陳列舘**;**&nbsp; **Nihon Shōhin Chinretsu-kan)**
+**Japanese Commercial Museum (日本商品陳列舘; Nihon Shōhin Chinretsu-kan)**
 <br>
 Location on map: 77 Bras Basah Road
 
@@ -109,10 +103,10 @@ The Japanese Commercial Museum was established in 1918 by the South Seas Associa
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_museum.png" style="width: 80%;">
 
-<div style="background-color: white;">Japanese Commercial Museum. <i>Image reproduced from 南洋之産業. 壹之卷 = Tropical Industry (Nan’yō no Sangyō. Ichi no Ken). 新嘉坡: 新嘉坡商品陳列館 (Shingapōru: Shingapōru Shōhin Chinretsukan), 1920, 7. (From National Library Singapore, call no. RRARE 338.0595 NAN).</i></div>
+<div style="background-color: white;">Japanese Commercial Museum. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=853e0d7d-5bd1-4658-9ffc-d6d796c7bd67">南洋之産業. 壹之卷 = Tropical Industry</a> (Nan’yō no Sangyō. Ichi no Ken). 新嘉坡: 新嘉坡商品陳列館 (Shingapōru: Shingapōru Shōhin Chinretsukan), 1920, 7. (From National Library Singapore, call no. RRARE 338.0595 NAN).</i></div>
 
 
-**Route to Japanese Cemetery (**日本人墓地行**;** **Nihonjin Bochi-yuki)**
+**Route to Japanese Cemetery (日本人墓地行; Nihonjin Bochi-yuki)**
 <br>
 Location on map: Serangoon Road
 
@@ -124,7 +118,7 @@ Serangoon Road is marked on the map as 日本人墓地行 (Route to the Japanese
 
   
 
-**Japanese Consulate (**領事舘**; Ryōjikan)**
+**Japanese Consulate (領事舘; Ryōjikan)**
 <br>
 Location on map: Raffles Chambers, Raffles Place
 
@@ -132,7 +126,7 @@ The Japanese Consulate established its office in Raffles Chambers in 1917, one o
 
   
 
-**Mitsubishi Branch Office (**三菱出張所**; Mitsubishi Shutchōjo)**
+**Mitsubishi Branch Office (三菱出張所; Mitsubishi Shutchōjo)**
 <br>
 Location on map: Raffles Chambers, Raffles Place
 
@@ -140,7 +134,7 @@ Trading company Mitsubishi established a representative office in Singapore in 1
 
   
 
-**Bank of Taiwan Branch (**台銀支店**; Taigin Shiten)**
+**Bank of Taiwan Branch (台銀支店; Taigin Shiten)**
 <br>
 Location on map: 1 Battery Road
 
@@ -151,7 +145,7 @@ The Bank of Taiwan, operating under the Japanese colonial administration in Taiw
 <div style="background-color: white;">The Bank of Taiwan on Battery Road, c. 1930. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980001448 - 0067).</i></div>
 
   
-**Bank of Taiwan Company House No. 1 (**台銀第一碇宅**;**&nbsp; **Taigin Daiichi Shataku)**
+**Bank of Taiwan Company House No. 1 (台銀第一碇宅; Taigin Daiichi Shataku)**
 <br>
 Location on map: Osborne House, 11 Upper Wilkie Road
 
@@ -164,7 +158,7 @@ Known today as Mount Emily Villa, Osborne House served as the residence of the m
   
   
 
-**Japanese Ship Wharf (**日本舩ワーフ**; Nihon Fune Wāfu)**
+**Japanese Ship Wharf (日本舩ワーフ; Nihon Fune Wāfu)**
 <br>
 Location on map: Tanjong Pagar Wharves
 
@@ -172,14 +166,14 @@ This appears to be the berthing area for arriving Japanese ships.
 
   
 
-**Kuhara Branch Office (**久原出張所**; Kuhara Shutchōjo)**
+**Kuhara Branch Office (久原出張所; Kuhara Shutchōjo)**
 <br>
 Location on map: 6 Scotts Road
 
 The Singapore branch of the Kuhara Mining Company (久原鑛業株式會碇; Kuhara Kōgyō Kabushiki Kaisha) was established in 1916. The company was founded in Japan in 1905 by Kuhara Fusanosuke (久原房之助), a prominent businessman and founder of several prominent Japanese companies, including Hitachi. As part of its overseas expansion plans, the company began conducting various explorations for oil and other mineral resources in the Dutch East Indies and Malaya. By 1920, its Singapore operations had grown to include the Kuhara Trading Company (久原商事株式會碇; Kuhara Shōji Kabushiki Kaisha).[^36]
 
 
-**Osaka Shosen Branch (**大阪商船支店**; Ōsaka Shōsen Shiten)**
+**Osaka Shosen Branch (大阪商船支店; Ōsaka Shōsen Shiten)**
 <br>
 Location on map: 2 De Souza Street
 
@@ -187,11 +181,11 @@ Osaka Shosen Kaisha was one of Japan’s major shipping companies that operated 
 
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_postcard.png" style="width: 80%;">
 
-<div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. RRARE 952.03 LSB-[LSB]. Donated by Lim Shao Bin).</i></div>
+<div style="background-color: white;">A postcard showing the shipping routes of Osaka Shosen Kaisha. Singapore appears as point no. 18 on the map. <i>(From National Library Singapore, call no. <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=853e0d7d-5bd1-4658-9ffc-d6d796c7bd67">RRARE 952.03 LSB-[LSB]</a>. Donated by Lim Shao Bin).</i></div>
 
   
 
-**Mitsui Company House No. 1 (**三井第一碇宅**; Mitsui Daiichi Shataku****)**
+**Mitsui Company House No. 1 (三井第一碇宅; Mitsui Daiichi Shataku)**
 <br>
 Location on map: Draycot, Stevens Road
 
@@ -199,7 +193,7 @@ Draycot was once the residence of the manager of Mitsui Bussan Kaisha (三井物
 
 As Singapore’s first Japanese trading company, Mitsui Bussan Kaisha began with a modest representative office at 8 Battery Road in 1891, occupying the upper floors of the Dispensary Building. Its initial aim was to secure contracts with European steamship companies to supply coal from Japan’s largest coal mine, the Miike Mine. As business grew, Mitsui diversified into shipping, accounting, communications, insurance brokerage, and the import-export of various goods, including rice, electrical supplies, metals and metallic ores, marine products and textiles. The company’s growing influence in Singapore’s colonial business society earned it a place in the Singapore Chamber of Commerce in 1911.[^40] 
 
-**Consular Residence (**領事官舍**; Ryōji-kansha****)**
+**Consular Residence (領事官舍; Ryōji-kansha)**
 <br>
 Location on map: Kinloss, Lady Hill, Orange Grove
 
@@ -215,9 +209,45 @@ The Japanese Cemetery was established in 1891 when Futaki Tagajirō (二木多�
   
 The cemetery comprised six acres from Futaki's rubber plantation and two acres of adjacent public land. Before its official establishment as a public cemetery, the site was already used as a burial ground for early Japanese immigrants.&nbsp;
   
-The cemetery was managed by volunteers of the Mutual Aid Association. While it was initially created to serve as a burial ground for the significant number of Japanese prostitutes in Singapore, it eventually became the final resting place for many long-term Japanese residents. In 1911, Priest Baisen (楳仙和尚;&nbsp;Baisen Oshō)&nbsp;built&nbsp;Saiyūji, a Buddhist temple of the Sōtō sect, on the cemetery grounds to serve as the main provider of funeral services.&nbsp;The cemetery was closed to burials&nbsp;in 1973 and became the Japanese Cemetery Park in 1987.
+The cemetery was managed by volunteers of the Mutual Aid Association. While it was initially created to serve as a burial ground for the significant number of Japanese prostitutes in Singapore, it eventually became the final resting place for many long-term Japanese residents. In 1911, Priest Baisen (楳仙和尚;&nbsp;Baisen Oshō)&nbsp;built&nbsp;Saiyūji, a Buddhist temple of the Sōtō sect, on the cemetery grounds to serve as the main provider of funeral services.[^44] The cemetery was closed to burials in 1973 and became the Japanese Cemetery Park in 1987.[^45]
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary.png" style="width: 70%;">
+
+<div style="background-color: white;">The Japanese Cemetery (top) and Chief Priest Chisen Otsuka of Saiyūji Temple (bottom), 1910s. <i>Images reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
 
   
+
+
+**Nisshin Rubber Estate (****日新ゴム園****;**&nbsp;**Nisshin Gomu-en****)**
+<br>
+Location on map: Yio Chu Kang Roade
+
+A 1917 survey documented four Japanese rubber plantation estates operating in Singapore: Nisshin Rubber Estate (日新護謨園), Rising Sun Plantation (ライジンサング園;&nbsp;Raijin Sangu-en),&nbsp;Endo Rubber Estate (遠藤護謨園;&nbsp;Endō Gomu-en)[^46] and Chitose Rubber Estate (千歳護謨園;&nbsp;Chitose Gomu-en).&nbsp;These estates served not only as commercial ventures but were also popular destinations for day trips among Japanese residents and tourists in Singapore.
+
+Nisshin Rubber Estate (Nisshin meaning Japan-Singapore)[^47] was established sometime between 1911 and 1913 through the consolidation of various agricultural plots that had been under cultivation since 1905. By 1917, the estate covered 1,042 acres and employed 21 Japanese staff alongside 275 Chinese, 84 Malay and 40 Indian coolies.[^48]
+
+As Singapore's largest Japanese rubber plantation, it drew visits from various Japanese missions and dignitaries, including Crown Prince Hirohito (later Emperor Showa) who toured the estate during his stopover in Singapore in 1921 while en route to Europe.[^49]
+
+
+
+
+
+
+**Chitose Rubber Estate (千歳ゴム園;&nbsp;Chitose Gomu-en)**
+<br>
+Location on map: Lim Chu Kang
+
+Official records indicate that the 180-acre Chitose Rubber Estate was established in January 1908 by a dentist, Henry Tsutada. Japanese sources, however, recorded that the estate was founded a year earlier by a consortium of four shareholders (千歳護謨栽培組合;&nbsp;Chitose Gomu Saibai Kumiai): Choya and Co. (潮谷商會;&nbsp;Chōya Shōkai), Tsutada Kenri (蔦田顯理;&nbsp;also known as Henry Tsutada), U. Ueda (上田泰正;&nbsp;Ueda Yasumasa) and Madam Tokio (東境セイ子; Tōkyō&nbsp;Seiko). The plantation employed five Chinese and 21 Javanese labourers. Given Tsutada's fluency in English and Malay, he was likely designated to handle the registration process and correspondence with colonial authorities, which could explain why he was listed as the sole registered owner in official records.[^50]
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_tokio2.png" style="width: 40%;">
+
+<div style="background-color: white;">Madam Tokio, a shareholder of Chitose Rubber Estate, undated. <i>Image reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
+
+Beyond his rubber plantation interests, Tsutada operated a dental practice from his clinic on Bras Basah Road, offering consultations in English and Malay. His linguistic abilities, which served him well in multicultural Singapore, were likely developed during his education at the Anglo-Chinese School. Outside his professional pursuits, Tsutada was a devout Christian who worshipped at the Japanese Methodist Church and raised his nine children in the faith. His second son, David Tsugio Tsutada (蔦田二雄;&nbsp;Tsutada Tsugio), became a prominent preacher in Japan, and many Tsutada family members continue to serve as pastors and missionaries today.[^51]
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
+
+<div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore. </i></div>
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> The author thanks Tanabe Tsukasa, the great-grandson of Yamasaki Eijiro, for sharing information about his family; Takako Iino from Friends of the Museum in Singapore; and Senior Librarians Goh Yu Mei and Janice Loo from the National Library Singapore for their assistance in translating and highlighting relevant Japanese and pictorial sources.
@@ -231,11 +261,11 @@ Discover more about the prewar Japanese community in and around Middle Road from
 
 #### **Notes**
 
-[^1]: 新嘉坡市街地圖 = Map of Singapore (Shingapōru Shigai Chizu). 新嘉坡: 好文舘出版部 (Shingapōru: Kōbunkan Shuppanbu), \[1920\]. (From National Library Singapore, call no. RRARE 912.5957 MAP).
+[^1]: [新嘉坡市街地圖 = Map of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300172933) (Shingapōru Shigai Chizu). 新嘉坡: 好文舘出版部 (Shingapōru: Kōbunkan Shuppanbu), \[1920\]. (From National Library Singapore, call no. RRARE 912.5957 MAP).
 
 [^2]: Fraser and Neave Limited, [_Map of Singapore Showing the Principal Residences and Places of Interests_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad), 1913, map. (From National Archives of Singapore, accession no. SP006064)&nbsp;
 
-[^3]: The cartouche reads: 開港百周年記念出版 (Kaikō Hyakushūnen Kinen Shuppan) \[Port Centenary Commemorative Publication\], 1 January 1919, map. Printed on the back of the map are advertisements from local Japanese businesses such as Miyako Hotel (都ホテル; Miyako Hoteru) and Hakuai Pharmacy (博愛藥房; Hakuai Yakubō) under the header 新嘉坡開港百周年記念合廣告 (Shingapōru Kaikō Hyakushūnen Kinen Gōkōkoku) \[Singapore Port Centenary Commemorative Joint Advertisement\].
+[^3]: The cartouche reads: 開港百周年記念出版 (Kaikō Hyakushūnen Kinen Shuppan) \[Port Centenary Commemorative Publication\], 1 January 1919, map. Printed on the back of the map are advertisements from local Japanese businesses such as Miyako Hotel (都ホテル; Miyako Hoteru) and Hakuai Pharmacy (博愛藥房; Hakuai Yakubō) under the header 新嘉坡開港百周年記念合廣告 (Shingapōru Kaikō Hyakushūnen Kinen Gōkōkoku) \[Singapore Port Centenary Commemorative Joint Advertisement\].See 文生書院（Bunsei Shoin Booksellers, Co., Ltd.）文生書院目録 2018 年：中国・満州・朝鮮・台湾・樺太・南洋（Bunsei Shoin Mokuroku 2018–nen: Chūgoku・Manshū・Chōsen・Taiwan・Karafuto・Nan'yō）, 77, [https://www.bunsei.co.jp/old-book/moku/moku201809/](https://www.bunsei.co.jp/old-book/moku/moku201809/).
 
 [^4]: 南洋日日新聞 (_Nan’yō Nichinichi Shinbun_), 16 November 1920, 2, Hoover Institution Library &amp; Archives, [https://hojishinbun.hoover.org/en/newspapers/nos19201116-01.1.2](https://hojishinbun.hoover.org/en/newspapers/nos19201116-01.1.2).
 
@@ -298,7 +328,7 @@ Discover more about the prewar Japanese community in and around Middle Road from
 
 
 
-[^31]: [戦前シンガポールの日本人碇会: 写真と記錄 = _Prewar Japanese Community in Singapore: Photographs and Records_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13048775) (_Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku_). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE); “[The Bank of Taiwan Ltd. Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/weeklysun19120928-1.2.33.1),” _Weekly Sun_, 29 September 1912, 8. (From NewspaperSG)
+[^31]: [戦前シンガポールの日本人社会: 写真と記錄 = _Prewar Japanese Community in Singapore: Photographs and Records_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13048775) (_Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku_). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE); “[The Bank of Taiwan Ltd. Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/weeklysun19120928-1.2.33.1),” _Weekly Sun_, 29 September 1912, 8. (From NewspaperSG)
 
 [^32]: “[The Bank of Taiwan Ltd](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19160605-1.2.38.1),” _Singapore Free Press_, 5 June 1916, 7; “[Notice of Removal](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19160608-1.2.39.1),” _Malaya Tribune_, 5 June 1916, 7; “[[The Old Premises…\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19160607-1.2.30),” _Singapore Free Press_, 7 June 1916,&nbsp; 7\. (From NewspaperSG)
 
@@ -325,3 +355,29 @@ Discover more about the prewar Japanese community in and around Middle Road from
 [^42]: “[Japanese Consulate](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19081023-1.2.29),” _Pinang Gazette and Straits Chronicle_, 23 October 1908, 5; “[Consul for Japan](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19081031-1.2.4.2),” _Singapore Free Press_, 31 October 1908, 1; “[Notice: In Honour of H. I. J. Majesty’s Birthday](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19091030-1.2.9.3),” _Singapore Free Press_, 30 October 1909, 2 “[Victoria, &amp;c.](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19061213-1.2.126.4),” _Straits Times_, 13 December 1906, 12; “[Japanese Consulate](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19081023-1.2.29),” _Pinang Gazette and Straits Chronicle_, 23 October 1908, 5; “[Notices](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19091030-1.2.9.3),” _Singapore Free Press_, 30 October 1909, 2. (From NewspaperSG)
 
 [^43]: “[Japanese Celebrations](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19101104-1.2.38),” _Singapore Free Press_, 4 November 1910, 5; “[Japanese Coronation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19151119-1.2.33),” _Straits Budget_, 19 November 1915, 6; “[Prince Asaka in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19221116-1.2.65),” _Singapore Free Press_, 16 November 1922, 10; “About the Prince Asa Ka Family,” Tokyo Metropolitan Teien Art Museum, accessed 22 January 2026, [https://www.teien-art-museum.ne.jp/archive/museum/e\_asaka.html](https://www.teien-art-museum.ne.jp/archive/museum/e_asaka.html).
+
+
+[^44]: [_Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13048775)_, 162_;&nbsp;安川一夫&nbsp;(Yasukawa Kazuo), ed.,&nbsp;[_シンガポール日本人墓地: 写真 と 記録_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13050958)&nbsp;(Shingapōru Nihonjin Bochi: Shashin to Kiroku).&nbsp;シンガポール:&nbsp;シンガポール日本人会&nbsp;(Shingapōru: Shingapōru Nihonjinkai), 1993, 8. (From National Library Singapore, call no. RSING 305.895605957 SHI);&nbsp;Tsu Yun Hui, “Post-Mortem Identity and Burial Obligation: On Blood Relations, Place Relations, and Associational Relations in the Japanese Community in Singapore,”&nbsp;_Senri Ethnological Studies_&nbsp;62 (28 April 2002): 96–97,&nbsp;[https://minpaku.repo.nii.ac.jp/record/2768/files/SES62\_009.pdf](https://minpaku.repo.nii.ac.jp/record/2768/files/SES62_009.pdf);&nbsp;Kevin Blackburn, “Heritage Site, War Memorial, and Tourist Stop: The Japanese Cemetery of Singapore, 1891–2005,”&nbsp;_Journal of the Malaysian Branch of the Royal Asiatic Society_&nbsp;80, no. 1 (June 2007): 21.&nbsp;(From JSTOR via NLB’s&nbsp;[eResources](http://eresources.nlb.gov.sg/)&nbsp;website)
+
+
+[^45]: “[Japanese Cemetery Closed to Burials](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730509-1.2.90),”&nbsp;_Straits Times_, 9 May 1973, 21. (From NewspaperSG); Lee, “[Japanese Cemetery Park](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0286e908-e927-4e50-b7ff-254ece0477f3).”
+
+
+
+[^46]: Tsukuda,&nbsp;[_Marai ni okeru Hōjin Katsudō no Genkyō_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=95c78961-3249-4f29-869e-72afa0339bbf), appendix, 2–3.&nbsp;
+
+
+[^47]: “[Red Cross Society](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19160309-1.2.42),”&nbsp;_Malaya Tribune_, 9 March 2016, 9. (From NewspaperSG)
+
+
+[^48]: “[Japanese Rubber Estates in Malaya and Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140516-1.2.11.2),”&nbsp;_Malaya Tribune_, 16 May 1914, 4. (From NewspaperSG);&nbsp;Far Eastern Geographical Establishment,&nbsp;[_The New Atlas and Commercial Gazetteer of the Straits Settlements and Federated Malay States_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202607812), 78; Kōno&nbsp;and&nbsp;Kōbunkan Shuppanbu,&nbsp;_Nan’yō Sōran_,&nbsp;97–99;&nbsp;Tsukuda,&nbsp;[_Marai ni okeru Hōjin Katsudō no Genkyō_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=95c78961-3249-4f29-869e-72afa0339bbf), appendix, 2–3;&nbsp;Yuen, “Japanese Rubber and Iron Investments in Malaya, 1900–1941,” 35;&nbsp;Shimizu,&nbsp;[_Japan and Singapore in the World Economy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9289480), 39.&nbsp;&nbsp;
+
+
+
+[^49]: Futara Yoshinori and Sawada Setsuzō,&nbsp;_The Crown Prince's European Tour_&nbsp;(Osaka: The Osaka Mainichi Publishing Co., Ltd.,1926), 26, HathiTrust, accessed&nbsp;&nbsp;22 January 2026,&nbsp;[https://catalog.hathitrust.org/Record/006574633](https://catalog.hathitrust.org/Record/006574633)
+
+
+[^50]: “[Japanese Rubber Estates in Malaya and Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140516-1.2.11.2)”; Far Eastern Geographical Establishment,&nbsp;[_The New Atlas and Commercial Gazetteer of the Straits Settlements and Federated Malay States_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202607812), 78;&nbsp;Kōno&nbsp;and&nbsp;Kōbunkan Shuppanbu,&nbsp;_Nan’yō Sōran_, 99;&nbsp;Tsukuda Mitsuharu,&nbsp;[_Marai ni okeru Hōjin Katsudō no Genkyō_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=95c78961-3249-4f29-869e-72afa0339bbf), appendix, 2–3;&nbsp;[_シンガポール日本人社会百年史:&nbsp;星月夜の耀_&nbsp;_\= 100 Year History of Japanese Community in Singapore (1915–2015)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202783143)&nbsp;(Shingapōru Nihonjin Shakai Hyakunenshi: Hoshizukiyo no Kagayaki).&nbsp;シンガポール:&nbsp;シンガポール日本人会&nbsp;(Shingapōru: Shingapōru Nihonjinkai), 2016, 39. (From National Library Singapore, call no. RSING 305.895605957 ONE);&nbsp;Yuen, “Japanese Rubber and Iron Investments in Malaya, 1900–1941,” 34.
+
+
+[^51]: “The House of Tsutada,”&nbsp;The Methodist Church in Singapore, 19 June 2004,&nbsp;[https://www.methodist.org.sg/methodist-message/the-house-of-tsutada](https://www.methodist.org.sg/methodist-message/the-house-of-tsutada); “[Advertisement. Japanese Dentist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19091207-1.2.87.2),”&nbsp;_Straits Times_, 7 December 1909, 8;&nbsp;“[Japanese Dentist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19100905-1.2.2.5),”&nbsp;_Straits Times_, 5 September 1910, 1. (From NewspaperSG)

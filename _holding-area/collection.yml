@@ -2,8 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - A Wartime Friendship.md
       - "No Mere Interlude: The University of Malaya in Singapore.md"
       - Director's Note.md
-      - "Rodolfo Nolli: The Quiet Sculptor Who Shaped a City.md"
       - Singapore’s Early Japanese Community on a Rare Map.md
       - Sample article.md
