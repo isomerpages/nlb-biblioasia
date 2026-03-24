@@ -18,6 +18,11 @@ _Rising Son_, a play by singer-songwriter Dick Lee. Set during the Japanese Occu
 
 Sunny and Ruby live in a house on Amber Road. A few months after Singapore falls to the invading Japanese army, Hiroyuki moves into the house next door. The play revolves around the relationship between the three protagonists. Hiroyuki, a university graduate, lives alone in a large house and wants to do the decent thing by his new neighbours. He shares his food and gives Sunny books from his library.&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_aerial.png" style="width: 80%;">
+
+<div style="background-color: white;">An aerial view of the Amber Road seafront, 1960s. The Lee family’s residence was at No. 19 (on the left of the swimming club) while Yoshiya Mita’s was at No. 17 (further left). <i>Courtesy of Peter Lee.</i></div>
+
+
 Sunny is constantly aware of the brutality of the Japanese Occupation and his sister’s vulnerability. For obvious reasons, he is forced to be polite to Hiroyuki but despite the enormous power differential, a sort of friendship is formed, albeit awkward and strained. The sheltered, headstrong and naive Ruby, however, eventually complicates matters by having a crush on the lonely Hiroyuki. In the epilogue, set after the war, Sunny and Hiroyuki meet up again in Japan. Hiroyuki eventually dies by suicide.
 
 As unlikely as this story might sound, _Rising Son_ was actually inspired by real events, specifically the experience of Dick’s father, Lee Kip Lee. During the war, the elder Lee lived on Amber Road and had befriended his new Japanese neighbour, a military judge.
@@ -32,6 +37,11 @@ Dick became “intrigued by this friendship especially because connections of th
 
 The Lees lived at 19 Amber Road, next to the Chinese Swimming Club. According to the 2005 oral history interview with Eileen Lee, one of Lee Kip Lee’s younger sisters, Mita had moved next door into 17 Amber Road during the Japanese Occupation, and Mita and Lee Kip Lee became good friends. Mita often visited Lee, and the two men enjoyed spending time playing chess and cards, and sharing meals. Mita also learnt how to cook from Peggy, another of Lee’s sisters.[^6]&nbsp; &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_lkl.png" style="width: 80%;">
+
+<div style="background-color: white;">Lee Kip Lee (in front) with his classmates, Cheong Kun Fatt and Au Keng Chu, in the garden of 19 Amber Road. In the background is the Chinese Swimming Club, early 1940s. <i>Courtesy of Peter Lee.</i></div>
+
+
 In his memoir, Lee recalled that he and his family were “quite wary of” Mita when he first moved in and began approaching them “by various acts of kindness”. However, they eventually became “convinced of his quiet sincerity and his likeable character” and came to “accept him as a genuine friend”. Throughout the Occupation years, Mita would occasionally share with the Lee family the cooked dinner delivered to him by an army truck every evening as well as other supplies such as chocolates and cigarettes. He would also tell the family that he had been listening to radio broadcasts from San Francisco and would share his prediction that Japan would lose the war.[^7]&nbsp;
 
 &nbsp;Lee’s younger brother, Lee Kip Lin, recalled in his oral history interview that there was one awkward evening when Mita suddenly asked why the local population disliked the Japanese. The family hesitated to answer as they were not sure if he was testing their loyalty but eventually they explained that it stemmed from the behaviour of the Japanese in Singapore, the concentration camps and the executions by the beach.[^8] &nbsp;
@@ -44,6 +54,11 @@ In the play, however, the tensions are clearer. During a climatic scene in _Risi
 
 After Japan’s surrender, Mita was initially moved out to Serangoon. He wrote the Lee family a letter expressing his gratitude for their “kind\[ness\]”, that thanks “exclusively” to them, he was able to remember his “Singaporean days” until the armistice as “good times”. He also promised to write again after returning to Japan.[^12]
 
+<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_letter.png" style="width: 60%;">
+
+<div style="background-color: white;">Yoshiya Mita’s letter to Lee Kip Lee and his family expressing his gratitude for their kindness. This was written after Mita was relocated to Serangoon following Japan’s surrender, 1945. Yoshiya Mita’s name on the last page was inserted by Lee Kip Lee. <i>Image reproduced from Lee Kip Lee and Lee Kip Lin Family Archives: Lee Kip Lin: Correspondence, 1941–1952 (n.p.: n.p., 1941–45). (From National Library Singapore, call no. RRARE 338.092 LEE-[FAL]).</i></div>
+
+
 Mita, however, did not write again.
 
 #### **Postwar Reunion**
@@ -51,6 +66,9 @@ Mita, however, did not write again.
 In an unpublished chapter of _Amber Sands_, Lee Kip Lee wrote that “after the liberation \[Mita\] sent me a brief note from his internment camp in Singapore, informing me that he was being repatriated home”, but since then he “had lost touch with him”. Lee eventually became haunted by the desire to find Mita. After hopelessly “racking \[his\] brain for some means of tracing his whereabouts”, he suddenly “had a brainwave”: it occurred to him to ask “Neil Thompson, former Chief Engineer of the Shell installation at Pulau Bukom, who had been transferred to Yokohama”, to “insert an advertisement in the Japanese newspapers asking for the whereabouts of Mita”.[^13]&nbsp;
 
 Against all odds, the advertisement worked. Lee learned that Mita was living in the city of Isesaki, about 95 km from central Tokyo, in Gunma Prefecture. Lee wrote to Mita to inform him that he was coming to visit. “He could hardly believe it when he read my letter saying that I was on my way to meet him,” Lee wrote.[^14] Mita was probably even more surprised to learn that Lee was coming to see him on his honeymoon with his wife, Elizabeth.
+<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_japan.png" style="width: 80%;">
+
+<div style="background-color: white;">Yoshiya Mita’s letter to Lee Kip Lee and his family expressing his gratitude for their kindness. This was written after Mita was relocated to Serangoon following Japan’s surrender, 1945. Yoshiya Mita’s name on the last page was inserted by Lee Kip Lee. <i>Image reproduced from Lee Kip Lee and Lee Kip Lin Family Archives: Lee Kip Lin: Correspondence, 1941–1952 (n.p.: n.p., 1941–45). (From National Library Singapore, call no. RRARE 338.092 LEE-[FAL]).</i></div>
 
 The reunion was in the spring of 1957. Mita took Lee and Elizabeth to Ueno Park in Tokyo to see the cherry blossoms and to the town of Yuzawa to see the snow. In the evening, the two men spent “the entire night drinking warm sake, regaling each other with reminiscences and singing the songs \[Lee’s\] family had taught him”. Their talk continued to a public bath: “We went on with our frolic, which continued to the hot spring bath in which we refreshed ourselves before calling it a night.”[^15] &nbsp;
 
