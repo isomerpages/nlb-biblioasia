@@ -11,6 +11,11 @@ By Eriko Ogihara-Schuck and Cecilia Gaspar
 
 _Rising Son_, a play by singer-songwriter Dick Lee. Set during the Japanese Occupation, the play features three characters: 18-year-old Sunny Lee, his sister Ruby, who is two years younger, and Hiroyuki Sato, a 28-year-old Japanese military judge.[^1] &nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_main.png" style="width: 80%;">
+
+<div style="background-color: white;">Yoshiya Mita, 1957. <i>Photo by Lee Kip Lee. Collection of the Family of Mr and Mrs Lee Kip Lee.</i></div>
+
+
 Sunny and Ruby live in a house on Amber Road. A few months after Singapore falls to the invading Japanese army, Hiroyuki moves into the house next door. The play revolves around the relationship between the three protagonists. Hiroyuki, a university graduate, lives alone in a large house and wants to do the decent thing by his new neighbours. He shares his food and gives Sunny books from his library.&nbsp;
 
 Sunny is constantly aware of the brutality of the Japanese Occupation and his sister’s vulnerability. For obvious reasons, he is forced to be polite to Hiroyuki but despite the enormous power differential, a sort of friendship is formed, albeit awkward and strained. The sheltered, headstrong and naive Ruby, however, eventually complicates matters by having a crush on the lonely Hiroyuki. In the epilogue, set after the war, Sunny and Hiroyuki meet up again in Japan. Hiroyuki eventually dies by suicide.
