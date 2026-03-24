@@ -24,9 +24,9 @@ The map had originally been published in January 1919 to commemorate Singapore�
 
 The publisher’s name, Kobunkan, appears on the map in both Japanese and English as 好文舘出版部 (Kōbunkan Shuppanbu; Kobunkan Publishing Department) and Kohbunkwan Singapore.[^5] Kobunkan was one of Singapore’s pioneering Japanese bookstores and publishers,[^6] with a long-established presence at 167 Middle Road.[^7] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_kobunkan.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_kobunkan2.png" style="width: 80%;">
 
-<div style="background-color: white;">Kobunkan bookstore (2nd shophouse from the right) and Iroha Motor Cars &amp; Co. (extreme right) at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 英領新架坡 好文館 いろは自動車 山﨑·竹井経営 [泰来當質店] (Eiryō Shingapōru Kōbunkan Iroha Jidōsha Yamasaki·Takei keiei [Tài Lái Dāng Zhìdiàn], which translates as “British-governed Singapore / Kobunkan and Iroha Motorcar / Managed by Yamsaki &amp; Takei / Chop Thai Loy Pawn Shop”. <i>Courtesy of Tanabe Tsukasa.</i></div>
+<div style="background-color: white;">Kobunkan bookstore (2nd shophouse from the right) and Iroha Motor Cars &amp; Co. (extreme right) at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 英領新架坡 好文館 いろは自動車 山﨑·竹井経営 [泰来當質店] (Eiryō Shingapōru Kōbunkan Iroha Jidōsha Yamasaki·Takei keiei [Tài Lái Dāng Zhìdiàn], which translates as “British-governed Singapore / Kobunkan and Iroha Motor Cars / Managed by Yamsaki &amp; Takei / Chop Thai Loy Pawn Shop”. <i>Courtesy of Tanabe Tsukasa.</i></div>
 
 
 The bookstore offered an extensive array of Japanese products ranging from newspapers, magazines, books and maps to stationery and picture postcards. Its customers included the employees of leading Japanese firms in the commercial district of Raffles Place and Collyer Quay as well as small Japanese businesses clustered around Middle Road and North Bridge Road. The latter comprised medical and dental clinics, retail shops, grocery stores, photo studios, barbershops, tailors, hotels, inns and restaurants.
@@ -35,9 +35,14 @@ The bookstore offered an extensive array of Japanese products ranging from newsp
 
 <div style="background-color: white;">Location of Kobunkan bookstore (circled in red) on Middle Road. <i>Image reproduced from 戦前シンガポールの日本人社会: 写真と記錄 = Prewar Japanese Community in Singapore: Photographs and Records (Senzen Shingapōru no Nihonjin Shakai: Shashin to Kiroku). シンガポール: シンガポール日本人会 (Shingapōru: Shingapōru Nihonjinkai), 2004, 30–31. (From National Library Singapore, call no. RSING 305.895605957 PRE). Courtesy of The Japanese Association Singapore.</i></div>
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_postcards.png" style="width: 80%;">
+
+<div style="background-color: white;">A set of 10 Singapore postcards published by Kobunkan. <i>Images reproduced from 風景繪はがき : 新嘉坡 (Fūkei e Hagaki : Shingapōru ). (From National Library Singapore, call no. RRARE 305.89928 LIM-[LSB]. Donated by Mr Lim Shao Bin).</i></div>
+
+
 Kobunkan’s bestsellers revealed the community's continued links with Japan. Major newspapers such as _Asahi Shimbun_ (朝日新聞), _Osaka Mainichi_ (大阪毎日) and _Tokyo Nichi Nichi_ (東京日日) provided vital news from home. Literary and general interest magazines such as _The Sun_ (太陽; Taiyō), _The Central Review_ (中央公論; Chūō Kōron), _Reform_ (改造; Kaizō), and _Japan and the Japanese_ (日本及日本人; Nihon oyobi Nihonjin) attracted a steady readership among white-collar workers like employees of trading companies and banks.
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_roha.png" style="width: 60%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_roha2.png" style="width: 60%;">
 
 <div style="background-color: white;">Kobunkan bookstore on the left and Iroha Motor Cars &amp; Co. on the right at 167 and 168 Middle Road respectively, c. 1910s. The handwritten caption behind the photograph reads 「英領新架坡中央街　山﨑・竹井経営　日本人初の自動車営業　日本人初の書籍新聞販売店　西宇和郡（現西予市）三瓶町出身竹井庫敬（くらよし＝向かって左の和服の男性）ほか馬来人、車掌、ボーイ」[Eiryō Shingapōru Chūō-gai Yamazaki・Takei keiei Nihonjin hatsu no jidōsha eigyō Nihonjin hatsu no shoseki shinbun hanbaiten Nishiuwa-gun (gen Seiyo-shi) Mikame-chō shusshin Takei Kurayoshi (Kurayoshi = mukatte hidari no wafuku no dansei) hoka maraijin, shashō, bōi], which translates as “British-governed Singapore, Middle Road. Managed by Yamazaki &amp; Takei. First Japanese automobile business. First Japanese bookstore and newspaper store. Born in Mikame Town, Nishiuwa District (current day Seiyo City), Takei Kurayoshi (Kurayoshi = the man in Japanese clothing on the left) alongside Malay, driver and boy”. <i>Courtesy of Tanabe Tsukasa.</i></div>
 
@@ -46,6 +51,16 @@ But perhaps more unusual was Kobunkan’s largest customer base – the _karayuk
 <img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_karayuki2.png" style="width: 70%;">
 
 <div style="background-color: white;">Two <i>karayuki-san</i> seated along a five-footway, c. 1870s–1910s. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=9b9e63e2-d848-4df0-a138-14a66d05f27a"><i>Sammlung von 19 originalphotographien aus Singapur</i></a>  (n.p.: n.p., 1880–1900). (From National Library Singapore, call no.RRARE 779.99595703 SAM).</i></div>
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_twokarayuki.png" style="width: 70%;">
+
+<div style="background-color: white;">Two <i>karayuki-san</i> seen outside No. 6 Malay Street. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=9b9e63e2-d848-4df0-a138-14a66d05f27a">Sammlung von 19 originalphotographien aus Singapur </a> (n.p.: n.p., 1880–1900). (From National Library Singapore, call no. RRARE 779.99595703 SAM).</i></div>
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_oriental.png" style="width: 80%;">
+
+<div style="background-color: white;">A Japanese woman in her quarters. Based on her attire and the handwritten caption, “A Oriental Star in Singapore”, she was most likely a <i>karayuki-san</i> or an
+entertainer. <i>Image reproduced from Singapore: Photographs, Early 20th Century. (n.p.: n.p., 1900 and 1930?). (From National Library Singapore, call no. RRARE 959.5703 SIN. Donated by Kelvin Ang Kah Eng).</i></div>
+
 
 Kobunkan's reach also extended beyond Singapore’s borders, serving Japanese plantation workers in Johor and expatriate communities across British Malaya, the Dutch East Indies and British North Borneo.[^10] The bookstore was also the local distributor for Sakura Beer and the Kangaroo brand of canned Japanese fishcakes – _chikuwa_ and _kamaboko_.[^11]
 
@@ -62,6 +77,11 @@ This curious connection between Japanese fishcakes, kangaroos and Singapore beco
 Born in 1871 in Ehime Prefecture, Japan, Yamasaki first arrived in Singapore as a crew member aboard a British ship bound for India. Through a local broker in Singapore, Yamasaki secured work as a pearl diver in Broome, Western Australia, where the global demand for pearl buttons had created a booming industry that attracted many Japanese settlers.[^14] Yamasaki’s entrepreneurial drive soon led him to general trading, importing Japanese goods to Broome via shipping agents in Singapore and establishing the commercial network that would later pave his move to Singapore.
 
 Also, while in Australia, Yamasaki made a foray into Malayan rubber. His 300-acre Ehime Rubber Estate (愛媛ゴム園; Ehime Gomu-en), established between 1909 and 1910, was one of the earliest rubber plantation developments along the Johor River.[^15]
+
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_plantation2.png" style="width: 80%;">
+
+<div style="background-color: white;">Ehime Rubber Plantation in Johor. <i>Image reproduced from 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本
+人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 60. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]. Donated by Lim Shao Bin).</i></div>
 
 #### **The Move to Singapore**
 
@@ -144,6 +164,10 @@ The Bank of Taiwan, operating under the Japanese colonial administration in Taiw
 
 <div style="background-color: white;">The Bank of Taiwan on Battery Road, c. 1930. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980001448 - 0067).</i></div>
 
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_interior.png" style="width: 80%;">
+
+<div style="background-color: white;">The interior of the Bank of Taiwan, c. 1930. <i>Courtesy of National Archives of Singapore (Media - Image no. 19980001448 - 0068).</i></div>
+
   
 **Bank of Taiwan Company House No. 1 (台銀第一碇宅; Taigin Daiichi Shataku)**
 <br>
@@ -211,7 +235,7 @@ The cemetery comprised six acres from Futaki's rubber plantation and two acres o
   
 The cemetery was managed by volunteers of the Mutual Aid Association. While it was initially created to serve as a burial ground for the significant number of Japanese prostitutes in Singapore, it eventually became the final resting place for many long-term Japanese residents. In 1911, Priest Baisen (楳仙和尚;&nbsp;Baisen Oshō)&nbsp;built&nbsp;Saiyūji, a Buddhist temple of the Sōtō sect, on the cemetery grounds to serve as the main provider of funeral services.[^44] The cemetery was closed to burials in 1973 and became the Japanese Cemetery Park in 1987.[^45]
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary.png" style="width: 70%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_cemetary2.png" style="width: 70%;">
 
 <div style="background-color: white;">The Japanese Cemetery (top) and Chief Priest Chisen Otsuka of Saiyūji Temple (bottom), 1910s. <i>Images reproduced from 佃光治 (Tsukuda Mitsuharu), 馬來に於ける邦人活動の現況 (Marai ni okeru Hōjin Katsudō no Genkyō). 新嘉坡: 南洋及日本人社 (Shingapōru Nan’yō oyobi Nihonjinsha), 1917. (From National Library Singapore, call no. RRARE 305.89560595 TSU-[LSB]).</i></div>
 
@@ -245,9 +269,9 @@ Official records indicate that the 180-acre Chitose Rubber Estate was establishe
 
 Beyond his rubber plantation interests, Tsutada operated a dental practice from his clinic on Bras Basah Road, offering consultations in English and Malay. His linguistic abilities, which served him well in multicultural Singapore, were likely developed during his education at the Anglo-Chinese School. Outside his professional pursuits, Tsutada was a devout Christian who worshipped at the Japanese Methodist Church and raised his nine children in the faith. His second son, David Tsugio Tsutada (蔦田二雄;&nbsp;Tsutada Tsugio), became a prominent preacher in Japan, and many Tsutada family members continue to serve as pastors and missionaries today.[^51]
 
-<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Japanese%20Map/japanese_clinic2.png" style="width: 80%;">
 
-<div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore. </i></div>
+<div style="background-color: white;">Tsutada Kenri’s dental clinic on Bras Basah Road, c. 1910s. <i>Collection of the National Library Singapore (Accession no. B35800783A). </i></div>
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"> The author thanks Tanabe Tsukasa, the great-grandson of Yamasaki Eijiro, for sharing information about his family; Takako Iino from Friends of the Museum in Singapore; and Senior Librarians Goh Yu Mei and Janice Loo from the National Library Singapore for their assistance in translating and highlighting relevant Japanese and pictorial sources.
@@ -265,7 +289,7 @@ Discover more about the prewar Japanese community in and around Middle Road from
 
 [^2]: Fraser and Neave Limited, [_Map of Singapore Showing the Principal Residences and Places of Interests_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fac6ffc2-115c-11e3-83d5-0050568939ad), 1913, map. (From National Archives of Singapore, accession no. SP006064)&nbsp;
 
-[^3]: The cartouche reads: 開港百周年記念出版 (Kaikō Hyakushūnen Kinen Shuppan) \[Port Centenary Commemorative Publication\], 1 January 1919, map. Printed on the back of the map are advertisements from local Japanese businesses such as Miyako Hotel (都ホテル; Miyako Hoteru) and Hakuai Pharmacy (博愛藥房; Hakuai Yakubō) under the header 新嘉坡開港百周年記念合廣告 (Shingapōru Kaikō Hyakushūnen Kinen Gōkōkoku) \[Singapore Port Centenary Commemorative Joint Advertisement\].See 文生書院（Bunsei Shoin Booksellers, Co., Ltd.）文生書院目録 2018 年：中国・満州・朝鮮・台湾・樺太・南洋（Bunsei Shoin Mokuroku 2018–nen: Chūgoku・Manshū・Chōsen・Taiwan・Karafuto・Nan'yō）, 77, [https://www.bunsei.co.jp/old-book/moku/moku201809/](https://www.bunsei.co.jp/old-book/moku/moku201809/).
+[^3]: The cartouche reads: 開港百周年記念出版 (Kaikō Hyakushūnen Kinen Shuppan) \[Port Centenary Commemorative Publication\], 1 January 1919, map. Printed on the back of the map are advertisements from local Japanese businesses such as Miyako Hotel (都ホテル; Miyako Hoteru) and Hakuai Pharmacy (博愛藥房; Hakuai Yakubō) under the header 新嘉坡開港百周年記念合廣告 (Shingapōru Kaikō Hyakushūnen Kinen Gōkōkoku) \[Singapore Port Centenary Commemorative Joint Advertisement\]. See 文生書院（Bunsei Shoin Booksellers, Co., Ltd.）文生書院目録 2018 年：中国・満州・朝鮮・台湾・樺太・南洋（Bunsei Shoin Mokuroku 2018–nen: Chūgoku・Manshū・Chōsen・Taiwan・Karafuto・Nan'yō）, 77, [https://www.bunsei.co.jp/old-book/moku/moku201809/](https://www.bunsei.co.jp/old-book/moku/moku201809/).
 
 [^4]: 南洋日日新聞 (_Nan’yō Nichinichi Shinbun_), 16 November 1920, 2, Hoover Institution Library &amp; Archives, [https://hojishinbun.hoover.org/en/newspapers/nos19201116-01.1.2](https://hojishinbun.hoover.org/en/newspapers/nos19201116-01.1.2).
 

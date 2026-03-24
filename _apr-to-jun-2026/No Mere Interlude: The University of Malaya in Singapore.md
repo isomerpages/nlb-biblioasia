@@ -1,6 +1,6 @@
 ---
 title: "No Mere Interlude: The University of Malaya in Singapore"
-permalink: /holding-area/vol-22/issue-1/apr-jun-2026/the-university-of-malaya-in-singapore/
+permalink: /vol-22/issue-1/apr-jun-2026/the-university-of-malaya-in-singapore/
 variant: markdown
 description: ""
 ---
@@ -16,10 +16,6 @@ The National University of Singapore traces its history back to 1905 when the St
 
 Although it is easy to view the 13-year existence of the University of Malaya from 1949 to 1962 as merely a transitional phase, it was more than a mere interlude. Set up during decolonisation, the Cold War and the struggle for independence for both Malaya and Singapore, it was a fascinating experiment in tertiary education.
 
-<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_administration.png" style="width: 80%;">
-
-<div style="background-color: white;">The administration and science blocks of Raffles College, 1938. <i> Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005743 - 0007).</i></div>
-
 #### **The Start of Tertiary Education**
 
 Tertiary education in Malaya began with the official opening of the Straits and Federated Malay States Government Medical School on 28 September 1905 to train qualified locals as assistant surgeons or general practitioners. In 1913, the school was renamed King Edward VII Medical School and again in 1921 to King Edward VII College of Medicine.[^1] (The building is known as the College of Medicine Building today and located within the grounds of the Singapore General Hospital.)
@@ -34,18 +30,15 @@ Tertiary education in Malaya began with the official opening of the Straits and 
 <div style="background-color: white;">Students in a laboratory at the King Edward VII College of Medicine, 1930s. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005123 - 0079).</i></div>
 
 To mark the centennial of Singapore’s founding, the Centenary Committee proposed the establishment of Raffles College, which provided higher education in the arts and sciences. Its campus on Bukit Timah Road admitted its inaugural batch of students on 21 June 1928 and officially opened on 22 July 1929.[^2] &nbsp;
-<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_crest.png" style="width: 80%;">
 
-<div style="background-color: white;">From left: Crests of the King Edward VII College of Medicine (1929–49), University of Malaya (1949–61), University of Singapore (1962–80) and National University of Singapore (1980–). <i> Image reproduced from Ho Kee Hai, Keng Siong Beng and David K.L. Tay, eds., 60 Years of Dental Education (1929–1989) (Singapore: Faculty of Dentistry, National University of Singapore, 1989), 8. (From National Library Singapore, call no. RSING 617.6007115957 SIX).</i></div>
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_administration.png" style="width: 80%;">
+
+<div style="background-color: white;">The administration and science blocks of Raffles College, 1938. <i> Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005743 - 0007).</i></div>
+
+
 More developments took place in the following decade. In August 1938, Malcolm MacDonald, Secretary of State for the Colonies, appointed a commission comprising William H. McLean from the Colonial Office, Harold J. Channon of the University of Liverpool and Kenneth W.M. Pickthorn of the University of Cambridge to “survey existing arrangements for higher education, general and professional, in Malaya”.[^3] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_malcolm.png" style="width: 80%;">
 
-<div style="background-color: white;">Chancellor Malcolm&nbsp;MacDonald (left) and vice-chancellor George V. Allen&nbsp;(right) at the inauguration of the University of Malaya on 8 October 1949. <i>Mike Gorrie Collection, courtesy of National Archives of Singapore (Media - Image no. 20210000757 - 0083).</i></div>
-
-<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_chancellor.png" style="width: 80%;">
-
-<div style="background-color: white;">Chancellor Malcolm MacDonald delivering his speech at the first convocation ceremony of the University of Malaya on 8 July 1950. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980000813 - 0024). </i></div>
 
 In their report published in December 1939, the McLean Commission concluded that Malaya was not ready for a full-fledged autonomous university. Instead, they proposed the formation of a university college by merging King Edward VII College of Medicine and Raffles College under a joint principal. At that point, only four universities existed in the British Empire – Ceylon (now Sri Lanka), Jerusalem, Hong Kong and Malta. There was little interest or impetus to further develop and expand tertiary education in Malaya at the time.[^4] &nbsp;
 
@@ -65,6 +58,9 @@ On 8 October 1949, the University of Malaya held its foundation day ceremony at 
 
 He noted that “the national population will contain a mixture of races. It will include, besides the Malays, Malayan Chinese, Malayan Indians and others whose homes and undivided loyalties lie here. It is essential that communal barriers between them shall be broken down, that they shall think progressively less of their distinctions of race and more of their common heritage and culture as people of Malaya”.[^8]&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_malcolm.png" style="width: 80%;">
+
+<div style="background-color: white;">Chancellor Malcolm&nbsp;MacDonald (left) and vice-chancellor George V. Allen&nbsp;(right) at the inauguration of the University of Malaya on 8 October 1949. <i>Mike Gorrie Collection, courtesy of National Archives of Singapore (Media - Image no. 20210000757 - 0083).</i></div>
 This lofty vision, driven by the conception of a multiracial Malaya, and which rejected communalism, would be the source of political tension for years to come.&nbsp;
 
 The pomp and pageantry over, the university began its life in earnest. The campuses of the former King Edward VII College of Medicine and Raffles College took on new identities as the home of the University of Malaya. Undergraduates were housed in Raffles College’s existing hostels.[^9] This was intended to be a temporary arrangement until the university moved into its new $145-million campus in Johor, which was never built due to financial constraints.[^10] It was decided eventually in 1953 that the university would be situated in two separate campuses on Bukit Timah Road in Singapore and a yet-to-be identified site in Kuala Lumpur.[^11] &nbsp;
@@ -85,6 +81,10 @@ At the university’s first convocation in July 1950, 15 women graduates receive
 
 <div style="background-color: white;">First convocation procession of court and senate of the University of Malaya, 1950. <i>Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005803 - 0020).  </i></div>
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_chancellor.png" style="width: 80%;">
+
+<div style="background-color: white;">Chancellor Malcolm MacDonald delivering his speech at the first convocation ceremony of the University of Malaya on 8 July 1950. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980000813 - 0024). </i></div>
+
 <img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_graduates.png" style="width: 80%;">
 
 <div style="background-color: white;">Hedwig Aroozoo (extreme left; later Mrs Hedwig Anuar and the first local director of the National Library) with the first women graduates of the University of Malaya, 1950. <i>Raffles College Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005802 - 0090).   </i></div>
@@ -99,6 +99,10 @@ However, this increase in opportunity and access was limited to the English-educ
 In 1959, undergraduates from Chinese-medium schools were admitted to the Faculty of Science after a special committee was convened to interview Chinese middle school students. Described as a “marked departure from normal university practice”, selection was based on their results from the Government Senior Middle (Chinese) School Examination and an interview. Eventually, 40 were selected out of 112: there were 28 from Singapore, 10 from the Federation and two from Sarawak.[^17] &nbsp;
 
 Malays, too, faced similar obstacles in gaining admission to the university. This was a consequence of limited access to secondary education, particularly in the rural areas, which in turn precluded access to higher education conducted in English as the medium of instruction.[^18] Writing under the moniker C.H.E. Det in October 1949, one Mahathir Mohamad argued forcefully after outlining issues pertaining to Malay academic achievements and challenges that “The University at this stage is not fully beneficial to the Malays and it won’t be unless there are special facilities to enable them to utilise the University to the fullest extent”.[^19]&nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_tun.png" style="width: 60%;">
+
+<div style="background-color: white;">Tun Dr Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery from the University of Malaya in 1953. He is seen here with his future wife, Siti Hasmah Mohamad Ali, who also graduated with the same degree from the University of Malaya two years later. Mahathir later became prime minister of Malaysia. <i> Photo by Kini X, from flickr.</i></div>
 
 #### **Entanglement with Politics**
 
@@ -119,10 +123,6 @@ What was at stake here was not just the banning of jukeboxes in Singapore, but w
 #### **Literary Arts**
 
 The university also proved to be a cauldron for the literary arts, as its eager students embraced poetry as a means of expression. One of Hedwig Aroozoo’s early works, “A Rhyme in Time,” was described by Malaysian poet Ee Tiang Hong as “a work that merits a place in any anthology of Malaysian poetry that has a historical import”.[^27]&nbsp;
-
-<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_certificate.png" style="width: 60%;">
-
-<div style="background-color: white;">University of Malaya certificate for the degree of Bachelor of Arts, 1955. It was issued to Leong Choy Wah who had majored in English. <i> Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr Leong Kwai Wah.</i></div>
 
 Another budding poet was a young Wang Gungwu, who graduated with a Bachelor of Arts in history in 1953, and is a renowned scholar of the Chinese diaspora today. He was the vice-chancellor of the University of Hong Kong from 1986 to 1995.[^28] &nbsp;
 
@@ -157,9 +157,9 @@ The philanthropist Lee Kong Chian was appointed chancellor and B.R. Sreenivasan,
 
 The university’s early years have been described by historian Yeo Kim Wah as “a time of high idealism, romantic commitment and near euphoric sentiment”.[^33] To Wang Gungwu, the era was, in retrospect, a time when “the voices of hope, the idealism, the enthusiasm, the fierce emotions, the thousands of impractical ideas offered, and the immense confidence that only young people can project, coloured everything the students did for some two decades”.[^34] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_tun.png" style="width: 60%;">
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_certificate.png" style="width: 60%;">
 
-<div style="background-color: white;">Tun Dr Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery from the University of Malaya in 1953. He is seen here with his future wife, Siti Hasmah Mohamad Ali, who also graduated with the same degree from the University of Malaya two years later. Mahathir later became prime minister of Malaysia. <i> Photo by Kini X, from flickr.</i></div>
+<div style="background-color: white;">University of Malaya certificate for the degree of Bachelor of Arts, 1955. It was issued to Leong Choy Wah who had majored in English. <i> Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr Leong Kwai Wah.</i></div>
 
 Many of its graduates went on to hold important positions in independent Malaysia and Singapore. Mahathir Mohamad graduated with a Bachelor of Medicine and Bachelor of Surgery degree in 1953, and was the prime minister of Malaysia not once but twice, serving from 1981 to 2003, and again from 2018 to 2020.[^35] Edwin Thumboo, one of the “_Fajar_ Eight”, graduated in 1956 with a Bachelor of Arts with honours and obtained a doctorate from the University of Singapore in 1970, eventually becoming the longest-serving dean of the Faculty of Arts and Social Sciences at the National University of Singapore.[^36] S.R. Nathan, Singapore’s sixth president, graduated in 1954 with a Diploma in Social Studies (Distinction), while Ambassador-at-Large Tommy Koh graduated in 1961 with a Bachelor of Laws with first-class honours.[^37]&nbsp;
 
@@ -169,7 +169,9 @@ Many of its graduates went on to hold important positions in independent Malaysi
 
 The University of Malaya in Singapore was a product of its times and its contradictions. Short as its 13-year existence was, it made a lasting contribution to nation-building.
 
+<img src="/images/Vol%2022%20Issue%201/University%20of%20Malaya/malaya_crest.png" style="width: 80%;">
 
+<div style="background-color: white;">From left: Crests of the King Edward VII College of Medicine (1929–49), University of Malaya (1949–61), University of Singapore (1962–80) and National University of Singapore (1980–). <i> Image reproduced from Ho Kee Hai, Keng Siong Beng and David K.L. Tay, eds., 60 Years of Dental Education (1929–1989) (Singapore: Faculty of Dentistry, National University of Singapore, 1989), 8. (From National Library Singapore, call no. RSING 617.6007115957 SIX).</i></div>
 
 <br>
 <div style="background-color: white;">
