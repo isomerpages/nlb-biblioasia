@@ -66,6 +66,7 @@ Mita, however, did not write again.
 In an unpublished chapter of _Amber Sands_, Lee Kip Lee wrote that “after the liberation \[Mita\] sent me a brief note from his internment camp in Singapore, informing me that he was being repatriated home”, but since then he “had lost touch with him”. Lee eventually became haunted by the desire to find Mita. After hopelessly “racking \[his\] brain for some means of tracing his whereabouts”, he suddenly “had a brainwave”: it occurred to him to ask “Neil Thompson, former Chief Engineer of the Shell installation at Pulau Bukom, who had been transferred to Yokohama”, to “insert an advertisement in the Japanese newspapers asking for the whereabouts of Mita”.[^13]&nbsp;
 
 Against all odds, the advertisement worked. Lee learned that Mita was living in the city of Isesaki, about 95 km from central Tokyo, in Gunma Prefecture. Lee wrote to Mita to inform him that he was coming to visit. “He could hardly believe it when he read my letter saying that I was on my way to meet him,” Lee wrote.[^14] Mita was probably even more surprised to learn that Lee was coming to see him on his honeymoon with his wife, Elizabeth.
+
 <img src="/images/Vol%2022%20Issue%201/Wartime/wartime_japan.png" style="width: 80%;">
 
 <div style="background-color: white;">Yoshiya Mita’s letter to Lee Kip Lee and his family expressing his gratitude for their kindness. This was written after Mita was relocated to Serangoon following Japan’s surrender, 1945. Yoshiya Mita’s name on the last page was inserted by Lee Kip Lee. <i>Image reproduced from Lee Kip Lee and Lee Kip Lin Family Archives: Lee Kip Lin: Correspondence, 1941–1952 (n.p.: n.p., 1941–45). (From National Library Singapore, call no. RRARE 338.092 LEE-[FAL]).</i></div>
@@ -88,6 +89,10 @@ This, in turn, led to the discovery of various archival materials about him. The
 
 Among these materials were two directly related to Singapore: Mita’s essay titled “The Northern Star and Orion”,[^23] which recounts his wartime experiences, and a rare record of a wartime court document about a trial in which Mita was a judge (there were three judges). The case involved an Indonesian man who killed a Japanese soldier whom he suspected of raping his wife.[^24]&nbsp;
 
+<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_paragraph.png" style="width: 70%;">
+
+<div style="background-color: white;">Yoshiya Mita’s letter to Lee Kip Lee and his family expressing his gratitude for their kindness. This was written after Mita was relocated to Serangoon following Japan’s surrender, 1945. Yoshiya Mita’s name on the last page was inserted by Lee Kip Lee. <i>Image reproduced from Lee Kip Lee and Lee Kip Lin Family Archives: Lee Kip Lin: Correspondence, 1941–1952 (n.p.: n.p., 1941–45). (From National Library Singapore, call no. RRARE 338.092 LEE-[FAL]).</i></div>
+
 All these records helped to paint a more complete picture of the man. According to his family register, Mita lived in the town (in the present-day city of Nomi, Ishikawa Prefecture) where the former prime minister of Japan, Yoshirō Mori, was born.[^25] Before entering the University of Tokyo to study law, Mita attended an elite high school (which later became the predecessor of Kanazawa University) where he received positive testimonials from his teachers over his three-year course of study.[^26] He later became a judge advocate and was shipped to Singapore in early 1944, where he was stationed until Japan’s surrender in September 1945.
 
 After the war, Mita successfully established himself as a lawyer in Isesaki.[^27] He played a leading role in founding the Human Rights Counselling Centre within the City Council.[^28] Outside of work, Mita actively participated in community activities led by the Isesaki City Library and contributed essays to the library’s monthly journal, _Historical Tales of Isesaki_, between 1958 and 1961.&nbsp;
@@ -109,6 +114,11 @@ Mita probably did not share this experience with the Lee family after the war. W
 #### **Remembering a Wartime Friendship**
 
 In a letter to Lee Kip Lee, postmarked 2 February 1960, Mita wrote that he “shall remain unmarried for life” and had “no power, no money” and “no time”, a sign of his mental state at the time.[^35] A former neighbour said that she remembered nothing positive about Mita: he had no contact with his neighbours and was considered a troublemaker. He would get drunk and go around banging on the doors of his neighbours, threatening them.[^36] &nbsp;
+
+<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_enveope.png" style="width: 80%;">
+
+<div style="background-color: white;">Lee Kip Lee (in front) with his classmates, Cheong Kun Fatt and Au Keng Chu, in the garden of 19 Amber Road. In the background is the Chinese Swimming Club, early 1940s. <i>Courtesy of Peter Lee.</i></div>
+
 
 It was around this time that Mita began writing for the Isesaki City Library’s monthly journal. Between 1958 and 1960, Mita contributed eight essays to the series “Flower Diary” in _Historical Tales of Isesaki_. The series recorded and described the flowers and plants that Mita had encountered during his mountain walks and which he later grew in his garden.&nbsp;
 
