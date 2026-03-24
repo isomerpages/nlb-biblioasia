@@ -110,29 +110,29 @@ _The writers thank Lim Kay Tong, Phan Ming Yen and Professor Kevin Y.L. Tan for 
 
 #### **Notes**
 
-[^1]: Dick Lee, _Dick Lee Collection: Rising Son: Typescript Play. Version 6.4_ (n.p.: n.p., 2014). (From National Library Singapore, call no. RCLOS S822 LEE-\[DL\]); Dick Lee, _Rising Son: A New Play by Dick Lee: Part 1 of the Family Trilogy, 27 Mar–12 Apr 2014, DBS Arts Centre_ (Singapore: n.p., 2014). (From PublicationSG)&nbsp;
+[^1]: Dick Lee, [_Dick Lee Collection: Rising Son: Typescript Play. Version 6.4_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203910788) (n.p.: n.p., 2014). (From National Library Singapore, call no. RCLOS S822 LEE-\[DL\]); Dick Lee, [_Rising Son: A New Play by Dick Lee: Part 1 of the Family Trilogy, 27 Mar–12 Apr 2014, DBS Arts Centre_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204362110) (Singapore: n.p., 2014). (From PublicationSG)&nbsp;
 
-[^2]: Helmi Yusof, “Dick Lee Mines Dad’s War Diaries for Play,” _Business Times_, 28 February 2014, 38. (From NewspaperSG)
+[^2]: Helmi Yusof, “[Dick Lee Mines Dad’s War Diaries for Play](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20140228-1.2.46.5.1),” _Business Times_, 28 February 2014, 38. (From NewspaperSG)
 
-[^3]: Lee Kip Lee, _Amber Sands: A Boyhood Memoir_ (Singapore: Federal Publications, 1995), 95. (From National Library Singapore, call no. RCLOS 920.71 LEE)
+[^3]: Lee Kip Lee, [_Amber Sands: A Boyhood Memoir_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9641747) (Singapore: Federal Publications, 1995), 95. (From National Library Singapore, call no. RCLOS 920.71 LEE)
 
-[^4]: Helmi Yusof, “Dick Lee Mines Dad’s War Diaries for Play”; Lee, _Amber Sands_, 108.
+[^4]: Helmi Yusof, “[Dick Lee Mines Dad’s War Diaries for Play](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20140228-1.2.46.5.1)”; Lee, [_Amber Sands_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9641747), 108.
 
-[^5]: Corrie Tan, “Spotlight on Homemade Dramas,” _Straits Times_, 4 March 2014, 5. (From NewspaperSG); Lee, _Dick Lee Collection: Rising Son: Typescript Play. Version 6.4; Lee, Rising Son: A New Play by Dick Lee: Part 1 of the Family Trilogy, 27 Mar–12 Apr 2014, DBS Arts Centre_.&nbsp;
+[^5]: Corrie Tan, “[Spotlight on Homemade Dramas](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20140304-1.2.49.2.1),” _Straits Times_, 4 March 2014, 5. (From NewspaperSG); Lee, [_Dick Lee Collection: Rising Son: Typescript Play. Version 6.4](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203910788); Lee, [Rising Son: A New Play by Dick Lee: Part 1 of the Family Trilogy, 27 Mar–12 Apr 2014, DBS Arts Centre_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204362110).&nbsp;
 
-[^6]: Eileen Lee Joo Har, oral history interview by Chew Hui Min, 3 August 2005, MP3 audio, Reel/Disc 1 of 1, National Archives of Singapore (accession no. 002960), 0:32:36–0:33:22, 0:33:44–0:34:07.&nbsp;
+[^6]: [Eileen Lee Joo Har](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/883d605b-1160-11e3-83d5-0050568939ad), oral history interview by Chew Hui Min, 3 August 2005, MP3 audio, Reel/Disc 1 of 1, National Archives of Singapore ([accession no. 002960](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001299)), 0:32:36–0:33:22, 0:33:44–0:34:07.&nbsp;
 
-[^7]: Lee, _Amber Sands_, 108.&nbsp;
+[^7]: Lee, [_Amber Sands_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9641747), 108.&nbsp;
 
-[^8]: Lee Kip Lin, oral history interview by Low Lay Leng, 4 June 1984, transcript and MP3 audio, Reel/Disc 6 of 16, National Archives of Singapore (accession no. 000016), 65.
+[^8]: Lee Kip Lin, oral history interview by Low Lay Leng, 4 June 1984, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/101a94e4-115f-11e3-83d5-0050568939ad-OHC000016_006/web/html5/index.html) and MP3 audio, Reel/Disc 6 of 16, National Archives of Singapore ([accession no. 000016](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000016)), 65.
 
-[^9]: Lee, oral history interview, 65–66.
+[^9]: [Lee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/101a94e4-115f-11e3-83d5-0050568939ad-OHC000016_006/web/html5/index.html), oral history interview, 65–66.
 
-[^10]: Tan, “Spotlight on Homemade Dramas.”
+[^10]: Tan, “[Spotlight on Homemade Dramas](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20140304-1.2.49.2.1).”
 
 
 
-[^11]: Lee, _Dick Lee Collection: Rising Son: Typescript Play. Version 6.4_, 72.&nbsp;
+[^11]: Lee, [_Dick Lee Collection: Rising Son: Typescript Play. Version 6.4_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203910788), 72.&nbsp;
 
 [^12]: Yoshiya Mita, letter to Lee Kip Lee and his family, 1945. See _Lee Kip Lee and Lee Kip Lin Family Archives: Lee Kip Lin: Correspondence, 1941–1952_ (n.p.: n.p., 1941–45). (From National Library Singapore, call no. RRARE 338.092 LEE-\[FAL\])&nbsp;
 
@@ -142,19 +142,19 @@ _The writers thank Lim Kay Tong, Phan Ming Yen and Professor Kevin Y.L. Tan for 
 
 [^15]: Lee, unpublished manuscript, 91.&nbsp;
 
-[^16]: Lee Kip Lee, oral history interview by Chew Hui Min, 15 August 2005, transcript and MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore (accession no. 002956), 9.
+[^16]: Lee Kip Lee, oral history interview by Chew Hui Min, 15 August 2005, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/bd696e88-1160-11e3-83d5-0050568939ad-OHC002956_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore ([accession no. 002956](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002956)), 9.
 
 [^17]: Yoshiya Mita, letter to Lee Kip Lee, postmarked 18 December 1960.&nbsp;
 
 [^18]: Interview with Mrs Lee Kip Lin, 20 October 2023.&nbsp;
 
-[^19]: Lee Kip Lin, oral history interview by Cindy Chou, 6 June 1994, transcript and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore (accession no. 001491), 5.
+[^19]: Lee Kip Lin, oral history interview by Cindy Chou, 6 June 1994, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/da113ccc-115f-11e3-83d5-0050568939ad-OHC001491_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore ([accession no. 001491](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001491)), 5.
 
 [^20]: Interview with Peter Lee, 1 July 2023.
 
 
 
-[^21]: Lee Kip Lin, oral history interview, 4 June 1984, Reel/Disc 6 of 16, 65; Tokyo Imperial University ed., _Tokyo Imperial University List, 1942_ \[東京帝国大学一覧 昭和17年\] (Tokyo: Tokyo Imperial University, 1941-43), 662, National Diet Library Digital Collection, accessed 18 December 2025, https://dl.ndl.go.jp/pid/1451114.
+[^21]: [Lee Kip Lin](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/101a94e4-115f-11e3-83d5-0050568939ad-OHC000016_006/web/html5/index.html), oral history interview, 4 June 1984, Reel/Disc 6 of 16, 65; Tokyo Imperial University ed., _Tokyo Imperial University List, 1942_ \[東京帝国大学一覧 昭和17年\] (Tokyo: Tokyo Imperial University, 1941-43), 662, National Diet Library Digital Collection, accessed 18 December 2025, [https://dl.ndl.go.jp/pid/1451114](https://dl.ndl.go.jp/pid/1451114).
 
 [^22]: “Attorney Registry Registration, Registration Transfer, Cancellation, etc.” \[弁護士名簿登録　登録変換　登録取消等\], _Freedom and Justice_ \[自由と正義\] 23, no. 1 (1971): 64.&nbsp;
 
@@ -179,7 +179,7 @@ _The writers thank Lim Kay Tong, Phan Ming Yen and Professor Kevin Y.L. Tan for 
 
 [^31]: Mita, “The Northern Star and Orion,” 17.
 
-[^32]: Masayuki Arase, “Hostage Life in ‘Rempang’, Singapore’s Offshore Uninhabited Island” \[捕虜生活はシンガポール沖の無人島「レンパン島」\], _Southern Japan Newspaper Digital Collection_ \[南日本新聞デジタル\], 8 January 2024, https://373news.com/news/local/detail/188062/.
+[^32]: Masayuki Arase, “Hostage Life in ‘Rempang’, Singapore’s Offshore Uninhabited Island” \[捕虜生活はシンガポール沖の無人島「レンパン島」\], _Southern Japan Newspaper Digital Collection_ \[南日本新聞デジタル\], 8 January 2024, [https://373news.com/news/local/detail/188062/](https://373news.com/news/local/detail/188062/).
 
 [^33]: Mita, letter to Lee Kip Lee and his family, 1945.&nbsp;
 
