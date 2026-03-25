@@ -1214,4 +1214,15 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/the-university-of-malaya-in-singapore/
       image: /images/Vol 22 Issue 1/University of Malaya/malaya_convocation.png
       alt: University of Malaya
+  - infopic:
+      title: "Rodolfo Nolli: The Quiet Sculptor Who Shaped a City"
+      subtitle: People
+      id: infopic
+      description: Between the 1920s and 1950s, this Italian craftsman created a
+        number of significant sculptural works that are still seen in Singapore
+        today.
+      button: Contributions to the city's builts heritage
+      url: /vol-22/issue-1/apr-jun-2026/rodolfo-nolli-italian-sculptor/
+      image: /images/Vol 22 Issue 1/Rodolfo/rodolfo_sculptures.png
+      alt: Rodolfo Nolli
 ---
