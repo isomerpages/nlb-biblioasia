@@ -18,6 +18,17 @@ sections:
       background: /images/Vol-15-issue-3/navaratri-golu/navaratri hero image.jpg
       variant: center
   - infopic:
+      title: "Rodolfo Nolli: The Quiet Sculptor Who Shaped a City"
+      subtitle: People
+      id: infopic
+      description: Between the 1920s and 1950s, this Italian craftsman created a
+        number of significant sculptural works that are still seen in Singapore
+        today.
+      button: Contributions to heritage
+      url: /vol-22/issue-1/apr-jun-2026/rodolfo-nolli-italian-sculptor/
+      image: /images/Vol 22 Issue 1/Rodolfo/rodolfo_sculptures.png
+      alt: Rodolfo Nolli
+  - infopic:
       title: "No Mere Interlude: The University of Malaya in Singapore"
       subtitle: Organisations
       id: infopic
@@ -1214,15 +1225,4 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/new-books-on-singapore-history/
       image: /images/Vol 22 Issue 1/New Books/New_Books_Apr26.jpg
       alt: New Books on Singapore History
-  - infopic:
-      title: "Rodolfo Nolli: The Quiet Sculptor Who Shaped a City"
-      subtitle: People
-      id: infopic
-      description: Between the 1920s and 1950s, this Italian craftsman created a
-        number of significant sculptural works that are still seen in Singapore
-        today.
-      button: Contributions to heritage
-      url: /vol-22/issue-1/apr-jun-2026/rodolfo-nolli-italian-sculptor/
-      image: /images/Vol 22 Issue 1/Rodolfo/rodolfo_sculptures.png
-      alt: Rodolfo Nolli
 ---
