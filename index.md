@@ -1221,7 +1221,7 @@ sections:
       description: Between the 1920s and 1950s, this Italian craftsman created a
         number of significant sculptural works that are still seen in Singapore
         today.
-      button: Contributions to the city's builts heritage
+      button: Contributions to heritage
       url: /vol-22/issue-1/apr-jun-2026/rodolfo-nolli-italian-sculptor/
       image: /images/Vol 22 Issue 1/Rodolfo/rodolfo_sculptures.png
       alt: Rodolfo Nolli
