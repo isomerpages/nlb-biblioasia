@@ -18,6 +18,15 @@ sections:
       background: /images/Vol-15-issue-3/navaratri-golu/navaratri hero image.jpg
       variant: center
   - infopic:
+      title: "No Mere Interlude: The University of Malaya in Singapore"
+      subtitle: Organisations
+      id: infopic
+      description: The University of Malaya in Singapore was a crucible for a new nation.
+      button: The legacy of the University of Malaya
+      url: /vol-22/issue-1/apr-jun-2026/the-university-of-malaya-in-singapore/
+      image: /images/Vol 22 Issue 1/University of Malaya/malaya_convocation.png
+      alt: University of Malaya
+  - infopic:
       title: "P. Ramlee: The Singapore Years"
       subtitle: Arts
       id: infopic
@@ -1205,15 +1214,6 @@ sections:
       url: /vol-22/issue-1/apr-jun-2026/new-books-on-singapore-history/
       image: /images/Vol 22 Issue 1/New Books/New_Books_Apr26.jpg
       alt: New Books on Singapore History
-  - infopic:
-      title: "No Mere Interlude: The University of Malaya in Singapore"
-      subtitle: Organisations
-      id: infopic
-      description: The University of Malaya in Singapore was a crucible for a new nation.
-      button: The legacy of the University of Malaya
-      url: /vol-22/issue-1/apr-jun-2026/the-university-of-malaya-in-singapore/
-      image: /images/Vol 22 Issue 1/University of Malaya/malaya_convocation.png
-      alt: University of Malaya
   - infopic:
       title: "Rodolfo Nolli: The Quiet Sculptor Who Shaped a City"
       subtitle: People
