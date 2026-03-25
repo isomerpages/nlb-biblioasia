@@ -89,9 +89,9 @@ This, in turn, led to the discovery of various archival materials about him. The
 
 Among these materials were two directly related to Singapore: Mita’s essay titled “The Northern Star and Orion”,[^23] which recounts his wartime experiences, and a rare record of a wartime court document about a trial in which Mita was a judge (there were three judges). The case involved an Indonesian man who killed a Japanese soldier whom he suspected of raping his wife.[^24]&nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_paragraph.png" style="width: 70%;">
+<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_paragraph.png" style="width: 80%;">
 
-<div style="background-color: white;">Yoshiya Mita’s letter to Lee Kip Lee and his family expressing his gratitude for their kindness. This was written after Mita was relocated to Serangoon following Japan’s surrender, 1945. Yoshiya Mita’s name on the last page was inserted by Lee Kip Lee. <i>Image reproduced from Lee Kip Lee and Lee Kip Lin Family Archives: Lee Kip Lin: Correspondence, 1941–1952 (n.p.: n.p., 1941–45). (From National Library Singapore, call no. RRARE 338.092 LEE-[FAL]).</i></div>
+<div style="background-color: white;">The title and opening paragraph of Yoshiya Mita’s essay, “The Northern Star and Orion”, published in 1959 in <i>Historical Tales of Isesaki</i>, the journal of the Isesaki City Library. <i> Courtesy of the National Diet Library, Japan.</i></div>
 
 All these records helped to paint a more complete picture of the man. According to his family register, Mita lived in the town (in the present-day city of Nomi, Ishikawa Prefecture) where the former prime minister of Japan, Yoshirō Mori, was born.[^25] Before entering the University of Tokyo to study law, Mita attended an elite high school (which later became the predecessor of Kanazawa University) where he received positive testimonials from his teachers over his three-year course of study.[^26] He later became a judge advocate and was shipped to Singapore in early 1944, where he was stationed until Japan’s surrender in September 1945.
 
