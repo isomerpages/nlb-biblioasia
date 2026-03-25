@@ -69,7 +69,7 @@ Against all odds, the advertisement worked. Lee learned that Mita was living in 
 
 <img src="/images/Vol%2022%20Issue%201/Wartime/wartime_japan.png" style="width: 80%;">
 
-<div style="background-color: white;">Yoshiya Mita’s letter to Lee Kip Lee and his family expressing his gratitude for their kindness. This was written after Mita was relocated to Serangoon following Japan’s surrender, 1945. Yoshiya Mita’s name on the last page was inserted by Lee Kip Lee. <i>Image reproduced from Lee Kip Lee and Lee Kip Lin Family Archives: Lee Kip Lin: Correspondence, 1941–1952 (n.p.: n.p., 1941–45). (From National Library Singapore, call no. RRARE 338.092 LEE-[FAL]).</i></div>
+<div style="background-color: white;">Lee Kip Lee (left) and Yoshiya Mita in Yuzawa, 1957. The former was in Japan for his honeymoon. <i>Courtesy of Peter Lee.</i></div>
 
 The reunion was in the spring of 1957. Mita took Lee and Elizabeth to Ueno Park in Tokyo to see the cherry blossoms and to the town of Yuzawa to see the snow. In the evening, the two men spent “the entire night drinking warm sake, regaling each other with reminiscences and singing the songs \[Lee’s\] family had taught him”. Their talk continued to a public bath: “We went on with our frolic, which continued to the hot spring bath in which we refreshed ourselves before calling it a night.”[^15] &nbsp;
 
