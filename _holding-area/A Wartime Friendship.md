@@ -115,9 +115,9 @@ Mita probably did not share this experience with the Lee family after the war. W
 
 In a letter to Lee Kip Lee, postmarked 2 February 1960, Mita wrote that he “shall remain unmarried for life” and had “no power, no money” and “no time”, a sign of his mental state at the time.[^35] A former neighbour said that she remembered nothing positive about Mita: he had no contact with his neighbours and was considered a troublemaker. He would get drunk and go around banging on the doors of his neighbours, threatening them.[^36] &nbsp;
 
-<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_enveope.png" style="width: 80%;">
+<img src="/images/Vol%2022%20Issue%201/Wartime/wartime_envelope.png" style="width: 80%;">
 
-<div style="background-color: white;">Lee Kip Lee (in front) with his classmates, Cheong Kun Fatt and Au Keng Chu, in the garden of 19 Amber Road. In the background is the Chinese Swimming Club, early 1940s. <i>Courtesy of Peter Lee.</i></div>
+<div style="background-color: white;">Yoshiya Mita’s letter to Lee Kip Lee and his family, with the postmark dated 2 February 1960. Mita wrote that he ”shall remain unmarried for life” and had “no power, no money” and “no time”. <i>Courtesy of Peter Lee.</i></div>
 
 
 It was around this time that Mita began writing for the Isesaki City Library’s monthly journal. Between 1958 and 1960, Mita contributed eight essays to the series “Flower Diary” in _Historical Tales of Isesaki_. The series recorded and described the flowers and plants that Mita had encountered during his mountain walks and which he later grew in his garden.&nbsp;
