@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/
-      button: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman Al-Attas"
+      url: /vol-15/issue-3/oct-dec-2019/navaratri-golu/
+      button: "Navaratri Golu: The Hindu Festival of Dolls"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Caligraphy/HeroImage_caligraphy_3.jpg
+      background: /images/Vol-15-issue-3/navaratri-golu/navaratri hero image.jpg
       variant: center
   - infopic:
       title: "P. Ramlee: The Singapore Years"
